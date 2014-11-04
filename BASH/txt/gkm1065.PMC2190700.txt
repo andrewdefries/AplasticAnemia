@@ -1,0 +1,1311 @@
+7566–7576 Nucleic Acids Research, 2007, Vol. 35, No. 22 Published online 14 December 2007
+doi:10.1093/nar/gkm1065
+SURVEY AND SUMMARY
+Contributions of DNA interstrand cross-links to
+aging of cells and organisms
+Johannes Grillari*, Hermann Katinger and Regina Voglauer
+Aging and Immortalization Research (A.I.R.), Institute of Applied Microbiology, Department of Biotechnology,
+BOKU – University of Natural Resources and Applied Life Sciences, Vienna, Muthgasse 18 1190 Vienna, Austria
+Received August 7, 2007; Revised and Accepted November 11, 2007
+ABSTRACT
+Impaired DNA damage repair, especially deficient
+transcription-coupled nucleotide excision repair,
+leads to segmental progeroid syndromes in human
+patients as well as in rodent models. Furthermore,
+DNA double-strand break signalling has been pin-
+pointed as a key inducer of cellular senescence.
+Several recent findings suggest that another
+DNA repair pathway, interstrand cross-link (ICL)
+repair, might also contribute to cell and organism
+aging. Therefore, we summarize and discuss
+here that (i) systemic administration of anti-cancer
+chemotherapeutics, in many cases DNA cross-
+linking drugs, induces premature progeroid frailty
+in long-term survivors; (ii) that ICL-inducing
+8-methoxy-psoralen/UVA phototherapy leads to
+signs of premature skin aging as prominent long-
+term side effect and (iii) that mutated factors involved
+in ICL repair like ERCC1/XPF, the Fanconi anaemia
+proteins, WRN and SNEV lead to reduced replicative
+life span in vitro and segmental progeroid syndromes
+in vivo. However, since ICL-inducing drugs cause
+damage different from ICL and since all currently
+known ICL repair factors work in more than one
+pathway, further work will be needed to dissect the
+actual contribution of ICL damage to aging.
+INTRODUCTION
+Each human cell has to repair the large numbers of
+diﬀerent DNA damages encountered each day: around
+50 000 single-strand breaks (SSB), 10 double-strand
+breaks (DSB), 10 000 depurinations, 600 depyrimidations,
+2000 oxidative lesions, 5000 alkylating lesions and 10
+interstrand cross-linking events (1). Although rare, DNA
+interstrand cross-links (ICLs) are among the most deadly
+types of damage. The cross-linking of the two comple-
+mentary DNA strands prevents replication as well as
+transcription and prevents the use of information encoded
+by the complementary strand for repair. Thus, ICL
+formation poses a major challenge for the cellular repair
+systems, also reﬂected by the fact that estimated 40 ICLs
+in repair deﬁcient mammalian cells are suﬃcient to induce
+cell death (2). ICLs are considered to be mainly sensed
+during replication in S-phase, where they lead to collapse
+of replication forks and DSBs, while little is known
+on transcription-coupled sensing and repair of ICLs.
+Surprisingly, ICL repair seems also absent in mitochon-
+drial DNA (3).
+The mechanisms that lead to repair of ICLs are still not
+well understood in mammalian cells, but two major
+pathways have been identiﬁed. The minor pathway
+depends on ERCC1/XPF and translesion bypass by
+Rev3 and is error-prone (4). The major pathway depends
+again on ERCC1/XPF and error-free homologous recom-
+bination repair (5). Excellent recent reviews summarizing
+ICL repair are available for yeast (6,7) as well as for
+mammalian cells (8–11).
+While other DNA damage repair pathways like
+transcription-coupled nucleotide excision repair (NER)
+have well-established links to aging of cells, tissues and
+organisms (12), it is not yet clear if and to what extent
+ICLs are involved in causing or contributing to progeroid
+functional decline. Therefore, we here summarize several
+ﬁndings suggesting that exogenous exposure to ICL
+inducing agents or endogenous ICL repair deﬁciencies
+are associated with signs of premature aging.
+PREMATURE AGING AS SIDE EFFECT OF
+CHEMOTHERAPIES
+ICL inducing agents used in tumour therapy
+Most of our current knowledge on ICL repair derives
+from the use of ICL-inducing chemicals in biochemical or
+genetic analysis of cells and cell lines on the one hand and
+from their wide and successful use as anticancer
+chemotherapeutics (13) on the other hand. Common to
+all of these chemical compounds is their bifunctional
+character that allows them to react with both DNA
+*To whom correspondence should be addressed. Tel: +43 1 36006 6230; Fax: +43 1 3697615; Email: Johannes.grillari@boku.ac.at
+ß 2007 The Author(s)
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+strands. Although this is widely accepted as major
+cytotoxic eﬀect, it should be noted that the individual
+ICL-inducing agents induce diﬀerent speciﬁc steric DNA-
+adduct structures and that they generate other than ICL
+damage like DNA monoadducts, intrastrand cross-links,
+damage to lipids, RNA and proteins. Furthermore,
+diﬀerent reactive intermediates can be formed by cellular
+metabolism. For a detailed review, see Ref. 7. The most
+important substance classes used in cancer therapies are
+brieﬂy summarized in the following.
+Platinum compounds, the most famous of which is
+cisplatinum diammine dichloride II (CDDP) was one of
+the ﬁrst chemotherapeutics originally identiﬁed as inhib-
+itor of bacterial cell division (14). Since then it has been
+used to treat a wide range of diﬀerent tumours (15,16) and
+second-generation drugs are intensely worked on (17). The
+damage to the DNA mainly consists of intrastrand cross-
+links as well as around 5–8% ICL of total adducts (18,19),
+which are responsible for the main cytotoxic eﬀects (20).
+Bis(2-chloroethyl)methylamine (HN2) and other mem-
+bers of the nitrogen mustard family are as well widely used
+as anti-cancer drugs (21). Again the majority of damage
+consists of monoadducts to the DNA, however, the 1–5%
+ICLs are responsible for the high cytotoxicity (22).
+Oligonucleotides conjugated to nitrogen mustards can be
+used to introduce ICLs at speciﬁc sites in the genome (23).
+One of the most used chemotherapeutics of the
+nitrosurea class is bis(2-chloroethyl)nitrosurea (BCNU,
+carmustine), which decomposes in aqueous phase to so far
+uncharacterized reactive bifunctional molecules (24). The
+number of ICLs formed by this drug is estimated to be
+around 8% of all adducts, and again this seems to be the
+main cytotoxic component (25).
+Mitomycin C (MMC) is a quinine-containing antibiotic
+isolated from streptomycetes. Only its intermediates that
+are formed after several intracellular metabolic activation
+steps generate ICLs, which make up 5–14% of all adducts
+(26). The ICLs mainly aﬀect dCpG sequences in the minor
+groove of DNA. A recent derivative, aziridinomitosene 4,
+has been shown to have very high ICL-forming activity
+without prior metabolization (27). Besides forming
+adducts, MMC also induces production of reactive
+oxygen species (ROS), which also contributes to its
+cytotoxicity (28).
+Pyrrolo[2,1-c][1,4]benzodiazepines (PBD) are a family
+of DNA interactive anti-tumour antibiotics derived from
+various Streptomyces species. One of the most promising
+derivatives thereof is SJG-136, which displays a 440-fold
+higher ICL formation activity than the nitrogen mustards
+(29,30). ICLs are targeted to the minor groove of the
+DNA even in a non-reductive environment (31).
+Early onset of progeroid frailty after chemotherapy
+Only now, after several decades of using ICL-inducing
+drugs in chemotherapy against cancer, suﬃcient patients
+with more than 10 years survival are available for studying
+long-term side eﬀects. Several years after the initial
+treatment, patients suﬀer from a variety of problems that
+usually occur later in life like decline of cognitive functions,
+visual deterioration, musculoskeletal decline, osteoporosis,
+skin changes, chronic fatigue and sexual dysfunction (32)
+as well as cardiovascular complications (33). We therefore
+propose to refer to this side eﬀect of chemotherapies as
+acquired premature progeroid syndrome (APPS) in
+analogy to the term premature progeroid syndromes for
+hereditary diseases that resemble accelerated aging (34).
+While it is clear that a large proportion of cancer
+patients received ICL-inducing chemotherapeutics, the
+data so far have not been apportioned according to
+the drugs used. Thus, it is not yet clear if and how the
+individual cross-linking agents diﬀer in their long-term
+eﬀects and if and how they diﬀer from chemotherapeu-
+tics with other modes of action.
+Similarly, it is not yet clear what causes APPS as a long-
+term side eﬀect. One possibility is the exhaustion of
+proliferative potential of stem and progenitor cells as well
+as of normal diﬀerentiated cells by the cytotoxic drugs.
+In this scenario, DNA damage induces cellular senescence
+and/or apoptosis in damaged cells, forcing the surround-
+ing undamaged cells to undergo repeated proliferation in
+order to maintain tissue homoeostasis. This idea is
+supported by several observations.
+Increased apoptosis as well as senescence after che-
+motherapy has been reported in many studies (35), and
+senescent cells accumulate in diﬀerent tissues and organs
+with age (36–38) and even in tumours (39). One trigger of
+senescence is critically short, uncapped telomeres (40) and
+indeed accelerated telomere shortening has been observed
+in chemotherapy-treated patients versus age-matched
+controls (41). Furthermore, deﬁciencies in DNA repair
+have been shown to impair haematopoietic stem cell
+function (42) or to even deplete the pool of haematopoie-
+tic stem cells with age (43). Therefore, APPS might be
+caused by a general decline of tissue regeneration and
+repair capacity in consequence to chemotherapy.
+PSORALEN/UVA-INDUCED ICLs AND
+PREMATURE SKIN AGING
+Psoralens belong to the furocoumarins, bifunctional
+agents that form ICLs as well as thymine monoadducts
+upon UVA activation and are among the most potent
+interstrand cross-linking agents. Upon selection of diﬀer-
+ent wavelengths up to 40% of the monoadducts can be
+converted to ICLs. Psoralen cytotoxicity is clearly linked
+to ICL-forming activity, since exposure of cells to
+psoralens with UV wavelengths that do not induce ICLs
+or monofunctional psoralens not able to form ICLs are
+markedly less toxic (44).
+For studying response to and repair of speciﬁc ICLs,
+targeted single ICLs can be introduced into the genome
+using either oligonucleotides forming triplex DNA at the
+complementary sites or peptide nucleic acids conjugated to
+dimeric bis-psoralen (45,46). Furthermore, a digoxigenin-
+4,5’,8-trimethylpsoralen conjugate enables visualization of
+ICLs in cultured cells (47).
+The clinical conditions for which 8-methoxy-psoralen/
+UVA treatment (PUVA) has been widely and successfully
+used over decades are skin diseases like psoriasis, vitiligo
+and mycosis fungoides. The therapeutic eﬀect depends on
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7567
+formation of ICLs the massive formation of which has
+been observed in treated tissues (48). One prominent side
+eﬀect of repeated PUVA treatment is premature aging of
+the skin (49–51).
+As a model to study the underlying mechanisms, human
+ﬁbroblasts and keratinoycytes have been subjected to
+PUVA treatment. These studies suggest that premature
+skin aging might be due to induction of a cellular
+senescence programme triggered speciﬁcally by ICL
+formation (51–54) resembling a combined DNA damage
+and stress-induced phenotype at least at the transcrip-
+tional level (55).
+PUVA-induced senescence is signalled by ATR (56),
+whose importance for ICL repair is emphasized by data
+from Saccharomyces cerevisiae. Yeast ATR’s homologue
+Mec1 is activated by the heterotrimeric Rad17–
+Mec3–Ddc1 complex (57). Surprisingly, MEC3 has
+recently been identiﬁed to be allelic to Pso9, mutations
+in which render yeast cells sensitive to PUVA (58).
+Furthermore, the human Rad17–Mec3–Ddc1 homologue
+called Rad9/Rad1/Hus1 (911) complex localizes to telo-
+meres and modulates telomere length and telomerase
+activity (59).
+While in the short-term cell cycle arrest is telomere-
+independent, after 28 days after recovery from PUVA
+treatment, senescence is still maintained with DNA
+damage foci persisting mainly at telomeres as detected
+by co-staining of g-H2AX with telomere-speciﬁc ﬂuores-
+cence in situ hybridization. In contrast, intrachromosomal
+DNA damage has largely been repaired during the
+recovery (56). It is not clear why the damage foci persist
+at the telomeres and what might be the nature of this
+damage. In this regard, it is of interest that telomeric
+t-loops are eﬃciently maintained after psoralen cross-
+linking (60), and that telomeric sequence contains the TA
+basepairing within the TTAGGG repeats that are prime
+targets of 8-methoxypsoralen (61). This suggests that the
+telomeres might be exquisitely susceptible to ICLs and
+that PUVA treatment might cause more ICL per kilobase
+DNA at the telomere than within genomic sequences, and/
+or that ICL repair is less eﬃcient at the telomeres.
+Besides senescence, apoptosis might be involved in the
+reduction of the proliferative capacity of skin cells, since
+in vitro and in vivo PUVA has been shown to induce
+apoptosis in epidermal cells via p53 and Fas ligand (62).
+DOES ENDOGENOUS FORMATION OF ICLs
+INCREASE WITH AGE?
+So far, ICL formation by exogenous sources is undoubted,
+but how do ICLs arise spontaneously within cells and
+tissues? One of the few currently known endogenously
+generated molecules causing ICLs is the bifunctional lipid
+peroxidation product malondialdehyde. Various studies
+have identiﬁed speciﬁc cross-link structures by malondial-
+dehyde with DNA in vitro (63) as well as in vivo in a
+variety of human tissues (64–66).
+ROS necessary for peroxidation of lipids to malondial-
+dehyde arise from intrinsic cellular pathways, above all
+from cell respiration, but also during prostaglandin
+biosynthesis, and oxidative burst of immune cells.
+Extrinsic sources like UV light, or heavy metal ions
+contribute to ROS production as well (67).
+Free radicals have been postulated to be a major cause
+of aging in the ‘free radical theory of aging’ (68) and there
+is little doubt that ROS contribute to deterioration of cell
+(69) and organ function, e.g. brain (70), kidney (71,72),
+liver (73) or heart (74). Increased formation of ROS (75),
+lipid peroxidation products and reactive aldehydic mole-
+cules (one of which would be malondialdehyde) has indeed
+been observed during aging (76–78). In addition, lipid
+peroxidation products have been suggested as one
+parameter in a possible set of clinical aging markers (79).
+However, direct evidence for an increase of malondial-
+dehyde and in consequence malondialdehyde-ICLs has
+not yet been provided, since the age-comparative studies
+so far were based on quantiﬁcation of the bulk of reactive
+aldehydes only, e.g. using thiobarbituric acid reactive
+substances (TBARS) assay.
+Might there also be a diﬀerence between fast induction
+of ICLs versus slow gradual increase as expected during
+aging due to gradual ROS increase (80,81)? Two studies
+suggest that slow accumulation of DNA damage indeed
+results in higher cytotoxicity than short-term high-dose
+exposure. In the ﬁrst study, HCT 116 cells were treated for
+24 h with low doses of the ICL-inducing agent SJG-136,
+leading to gradual formation of ICLs, and limited
+p21-induced cell cycle arrest. This resulted in signiﬁcantly
+higher cytotoxicity than a 1 h treatment with high doses of
+SJG-136 that caused full DNA damage response, although
+dose and time of treatment were carefully chosen to yield
+similar ﬁnal levels of ICLs within the cells (82). Similarly,
+in the second study, low doses versus high doses of the
+DNA-damaging agents, hydroxyurea and UV were
+compared in three cell lines partially deﬁcient in diﬀerent
+components of ATR-mediated signalling. Again, low
+doses were found to cause signiﬁcantly more cell death
+accompanied with slow/insuﬃcient activation of damage
+signalling and repair (83).
+ICL REPAIR DEFICIENCY CONTRIBUTES TO
+SIGNS OF ACCELERATED AGING
+Although ICL repair is still not fully understood in higher
+eukaryotic cells, several central players have been identi-
+ﬁed during the last years including, ERCC1/XPF, the
+Fanconi anaemia proteins, but also the RecQ helicases
+WRN and BLM. Patients and corresponding animal
+models with mutations in these factors display various
+grades of segmental progeroid syndromes. In addition,
+other factors contributing to ICL repair like SNM1/hPso2
+or SNEV have been connected to cellular aging and
+telomere biology. However, it has to be kept in mind that
+all of the ICL factors described so far work in more than
+one DNA repair pathway or exert more than one
+function.
+ERCC1/XPF
+ERCC1/XPF is a structure-speciﬁc heterodimeric endo-
+nuclease essential in NER, but also during ICL repair.
+7568 Nucleic Acids Research, 2007, Vol. 35, No. 22
+Incisions near the ICL site that ‘unhook’ the cross-linked
+oligonucleotide speciﬁcally depend on ERCC1/XPF
+(84,85). Mutations in both of its subunits have been
+found to cause segmental progeroid syndromes in
+humans. Similarly, mouse models deﬁcient in ERCC1
+(86,87) as well as in XPF (88) show a congruent severe
+progeroid phenotype that is quite distinct in severity from
+most other mouse models deﬁcient in NER only. ERCC–/–
+mice show ataxia, kyphosis, osteopenia, weight loss, skin
+atrophy, sarcopenia and hepatocellular polyploidization
+(89) and the ﬁbroblasts are exquisitely sensitive to cross-
+linking agents but also to UV light (87).
+Recently, the ﬁrst patient deﬁcient in ERCC1 has been
+identiﬁed, displaying a severe disease phenotype of
+cerebro-oculo-facio-skeletal syndrome that also in part
+resembles premature aging and resulted in early death
+(90). In contrast to the knockout mouse model, cells of
+this patient, showed only intermediate sensitivity to UV
+and MMC treatment, comparable to other NER-deﬁcient
+cells (90).
+This ﬁnding suggests that XPF/ERCC1 functions
+besides NER repair might confer the severity of the
+mutation. Indeed, XPF/ERCC1 is required for meiotic
+and mitotic homologous recombination in mouse and ﬂy
+(91,92) and also implicated in telomere processing,
+responsible for removing the 3’ overhang of uncapped
+telomeres (93). Surprisingly, the endonuclease function
+required for both ICL and NER is separated from the
+telomere processing function of XPF, since a point
+mutation that abrogates DNA repair does not interfere
+with 3’ overhang removal in cell culture experiments (94).
+Furthermore, NER and ICL repair functions of XPF
+might be separable as well (95).
+This is consistent with the clinical appearance of the
+currently known XPF mutations. Most of them result in
+mild forms of xeroderma pigmentosa (XP), a cancer-prone
+syndrome characterized by high UV sensitivity. In
+contrast, one patient with a dramatic progeroid phenotype
+has been identiﬁed bearing a novel mutation in XPF
+(R153P9) interfering with formation of ERCC1 hetero-
+dimers (96). Primary ﬁbroblasts of this patient are much
+more sensitive to ICL-inducing MMC as compared to
+XPA-derived cells, while they are only similarly sensitive
+to UV irradiation (96). This ﬁnding would also support a
+speciﬁc role of deﬁcient ICL repair distinct from NER
+deﬁciency in accelerating the aging process. Clearly,
+further work is required for dissecting the contributions
+of diﬀerent mutations in XPF and ERCC1 in the observed
+progeroid features. It would for example be of high
+interest, to complement XPF-deﬁcient mice with con-
+structs harbouring the various mutants, to see if and to
+what extent ICL, NER, and dysfunctional telomere
+processing of XPF contribute to their progeroid
+phenotype.
+A completely diﬀerent and much unexpected link
+between ERRC1 deﬁciency and aging has been discovered
+recently. Suppression of IGF1 signalling is one of the very
+few conserved mechanisms that prolongs life span in a
+wide range of model organisms from S. cerevisiae (97),
+Caenorhabditis elegans (98), Dorsophila melanogaster (99),
+and mouse (100,101). Surprisingly, this suppression of
+IGF1 signalling was found in livers of ERCC1-deﬁcient
+mice (96). Similar suppression of the IGF1/GH axis is seen
+after exposure of wild-type mice to chronic genotoxic
+stress using MMC (96). This would suggest that high
+levels of ICL damage provide a feedback signal to
+suppress growth at the organism level, probably in order
+to allocate more energy to cellular maintenance and repair
+in order to prolong the life span (96). Absence of IGF1
+suppression in XPA or Cockayne syndrome B-deﬁcient
+mice would argue against ERCC1’s NER function as
+reason for developing progeroid phenotypes. It would be
+interesting to test if impaired IGF1-signalling back-
+grounds [e.g. in Ames or Snell dwarf mice (102)] would
+additionally reduce the life span and increase severity or
+accelerate the appearance of progeroid symptoms
+observed with ICL repair deﬁciency.
+Further contributions to a premature aging phenotype
+might derive from increased apoptosis as observed in liver
+tissue (103), decreased replicative potential of ERCC1–/–
+embryonic ﬁbroblasts (87) as well as depletion of
+hematopoietic stem cells, which again is not observed in
+XPA mutant mice (104).
+An experimental setting that might allow for addressing
+ERCC1 deﬁciency in humans possibly arises from the
+ﬁnding that ERCC1 is transcriptionally repressed by
+ﬂudarabine treatment (105,106), and increases ICLs
+synergistically with cisplatin or oxaliplatin (107,108).
+Fludarabine is a chemotherapeutic drug mainly used
+against haematological malignancies (109). It would be of
+interest to analyse if this drug also leads to APPS in long-
+term survivors.
+FA pathway
+FA is a disorder showing developmental and bone marrow
+defects, as well as cancer predisposition (110). This rare
+hereditary disease is caused by mutations in one of
+currently 13 proteins constituting 13 complementation
+groups [FANCA, B, C, E, F, G, L and M forming a core
+complex, D1, D2(BRCA2), H, I, J]. FAAP24 has recently
+been proven as an additional FA complex member,
+although it has not been found mutated in FA patients
+yet (111). Recent progress in understanding the functions
+of FA proteins and the ‘FA pathway’ has been reviewed in
+detail (9–11,112,113).
+Although not being ranked among the segmental
+progeroid syndromes in the initial listing by George
+Martin (34), there still seems to be a segmental premature
+aging component in FA. This consists of progressive bone
+marrow failure, squamous cell carcinomas of the oral
+cavity and genital area much earlier in life than in normal
+individuals, impaired gametogenesis and premature repro-
+ductive aging. Additionally, >80% of FA patients are
+prematurely aﬀected by endocrine abnormalities including
+hyperinsulinaemia, hypothyroidism and growth hormone
+deﬁciency, all of which are normally associated with
+advanced age (114). Decline of growth hormone is of note,
+since this leads to less IGF signalling similar to ERCC1/
+XPF deﬁciency, supporting the idea of a general switch
+from growth to repair upon (ICL?) damage.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7569
+Furthermore, cells of FA patients show signs of
+accelerated cellular senescence. PBMCs have accelerated
+individual annual telomere-shortening rates in vivo
+(115–117) while ﬁbroblasts derived from FA patients
+show accelerated telomere shortening in vitro (118),
+consistent with a reduced replicative life span and earlier
+entry into cellular senescence (119,120). This accelerated
+telomere erosion, however, is not due to faster replicative
+shortening, but to increased telomere breakage (121).
+Together with an increase in apoptosis of haematopoietic
+stem cells (122,123), this might also contribute to the
+progressive bone marrow failure in patients (124) as well
+as in knockout mouse models (125–127).
+To what extent are the FA proteins involved in ICL
+repair? While indeed hypersensitivity against ICLs by
+MMC and diepoxybutane is a common hallmark of all
+FA cells and used as standard diagnosis of FA, there is a
+broad spectrum of additional sensitivities against geno-
+toxic damage including g-irradiation, bleomycin, UV and
+methyl methane sulphate depending on the cell type of the
+same patient (128) as well as on the complementation
+group (129). For example, FANCG null Chinese hamster
+ovary (CHO) cells are similarly sensitive against mono-
+alkylating agents as against ICL-inducing agents (130).
+Furthermore, monoubiquitination of FANCD2, a crucial
+step in activation of the ‘FA protein pathway’ is also
+induced by chemically blocking replication forks (131).
+These ﬁndings led to the proposal that the FA proteins—
+rather than being speciﬁcally necessary for ICL—might
+act more globally on stabilizing collapsed replication forks
+that do not exclusively arise due to ICL (11). Collapse
+of replication forks leads to formation of DSB, which
+have recently been suggested to be a prerequisite for
+HR-dependent repair of ICL (132). The FA proteins
+might prevent the DSBs from being repaired by non-
+homologous end joining by keeping the broken strands in
+close proximity. Thus, the FA pathway might largely
+counteract genomic instabilities by favouring base sub-
+stitutions and small deletions over larger deletions and
+chromosomal rearrangements (10,11,133). Still, FA pro-
+teins are needed together with Msh2, ERCC1/XPF and
+Rev3 in HR-dependent repair of single psoralen-induced
+ICLs (132).
+Further work is necessary to dissect if and to what
+extent reduced ICL repair, failed stabilization of replica-
+tion forks or other DNA damage contribute to the
+progeroid symptoms in FA. To further complicate
+things, FA cells also show elevated ROS levels and
+increased sensitivity against ROS (123). Therefore, it
+cannot be excluded that ROS cause or additively
+contribute to premature aging in FA patients.
+BLM and WRN helicases
+Besides its function in base excision DNA repair (134), the
+RecQ helicase member WRN has also been implicated in
+ICL repair. Cells from Werner syndrome patients show
+sensitivity to ICL-inducing drugs (135,136) and WRN
+helicase activity has been shown necessary for repair of
+PUVA-induced ICLs (137).
+WRN activity might be necessary at diﬀerent points of
+ICL repair. It interacts with the SNEV-complex (see
+below) in early steps of repairing single psoralen ICLs
+in vitro (138), while in the later HR repair step it interacts
+with a complex containing Rad51, ATR, Rad54 and
+Rad54B (139) localizing to stalled replication forks (140).
+Another protein–protein interaction linking WRN to ICL
+repair derives from yeast, where its homologue sgs1
+interacts with Pso5/rad16 (141), involved in ICL repair
+and global NER (142).
+A second RecQ helicase family member, which also
+physically and functionally interacts with WRN (143),
+is BLM. Fibroblasts derived from Bloom’s syndrome
+patients show sensitivity to MMC treatment (144)
+and to cisplatin (145). Both helicases have also been
+found to interact with members of the FA complex
+subunits and with HR factors (137,146–148).
+Furthermore, FA core complex assembly is necessary
+for BLM phosphorylation and localization to nuclear foci
+upon ICLs (144). The unwinding activity of BLM also
+enhances Mus81 endonuclease activity (149), which
+converts ICLs to DSBs (150). Genetic interaction
+between Mus81 and BLM homologues in D. melanogaster
+further supports their function in a common
+pathway (151).
+Mutations in both helicases cause prominent segmental
+progeroid syndromes. WRN mutations are the cause of
+Werner syndrome (152). High genomic instability is
+observed in cells of Werner syndrome patients due to
+massive loss of telomeric sequences during replication
+(153), also leading to a reduced replicative life span in vitro
+(154).
+Similarly, Bloom syndrome, is prominently ranked
+among the segmental progeroid disorders (152) and
+BLM, like WRN, is necessary for telomere functionality
+(155). Again, a clear attribution of accelerated aging to
+ICLs is not possible in the background of WRN and BLM
+mutations, since their functions are not limited to ICL
+repair.
+hPSO2 (SNM1)
+The nomenclature of the Pso genes is derived from
+yeast cells displaying sensitivity to 8-methoxy-psoralen/
+UVA treatment (142). Yeast Pso2 is involved in trans-
+lesion synthesis repair of ICL during G1 (156). The ﬁve
+homologues in humans are SNM1, SNM1B/Apollo, and
+SNM1C/Artemis, ELAC2 and CPSF73, all of them
+containing a b-CASP/metallo-b-lactamase domain (157).
+Sensitivity to ICL has been established for SNM1 in
+knockout mice (158) and for SNM1B/Apollo in human
+cells by siRNA-mediated knockdown (159). SNM1
+knockout mice-derived cells show MMC sensitivity (158)
+as well as increased tumour incidence and immune
+deﬁciency (160). However, only weak resemblance to
+aging is observed in these mice.
+The second homologue, SNM1B/Apollo interacts with
+TRF2 and thus localizes to telomeres (161–163). Its
+knockdown in human ﬁbroblasts leads to rapid loss of
+telomeric sequences, accelerated entry into replicative
+senescence and formation of g-H2AX DNA damage
+7570 Nucleic Acids Research, 2007, Vol. 35, No. 22
+foci. If SNM1B/Apollo mutations also aﬀect organismal
+aging has not been analysed yet.
+SNEV (hPSO4)
+The SNEV core complex consisting of CDC5L, SNEV
+(hPSO4, hNMP200, hPRP19), SPF27 (BCAS1) and
+PLRG1 together with WRN helicase is essential in early
+steps of ICL repair in vitro using single psoralen
+cross-linked plasmids as substrate for fractionated HeLa
+nuclear extracts (138). Furthermore SNEV binds dsDNA
+and might accumulate upon MMC, but also upon
+g-irradiation and bleomycin treatment in cell cultures
+(164), while it clearly is ubiquitinated upon MMC and
+methyl-methan-sulphonate treatment (165).
+SNEV’s involvement in DNA repair is consistent with
+the role of its yeast orthologue Pso4 (Prp19) (166,167),
+where the temperature-sensitive mutant strain pso4-1
+displays a pleiotropic phenotype that includes sensitivity
+to 8-methoxy-psoralen/UVA treatment (168). In yeast,
+Pso4 has been assigned to epistasis groups rad6 and rad52,
+emphasizing its pleiotropic nature (169,170).
+How is SNEV connected to aging? It was originally
+isolated as mRNA that decreases during replicative
+senescence of endothelial cells (171), while upon over-
+expression it extends the replicative life span and reduces
+basal apoptotic levels (172). Targeted disruption of SNEV
+is early embryonic lethal, but haploinsuﬃciency causes
+mouse embryonic ﬁbroblasts to enter early into replicative
+senescence in vitro (173). In addition, we recently found a
+decrease in the self-renewal capacity of haematopoietic
+stem cells derived from SNEV+/–
+mice as well as from
+senescence accelerated SAMP8 mice. Haematopoietic
+stem cells from both have signiﬁcantly reduced SNEV
+levels as compared to wild-type or long-lived SAMR1
+controls (174). This further supports a link between DNA
+repair, low replicative life span and the regenerative
+capacity of stem cells.
+However, the multiplicity of SNEV’s functions as an
+essential pre-mRNA splicing factor (167,175), as ubiquitin
+E3 ligase (176,177) and lipid droplet-binding protein
+(178), again makes it very diﬃcult to dissect if its
+ICL repair function is connected to cellular aging. If
+SNEV haploinsuﬃcient mice show premature progeroid
+symptoms and reduced life span like the SAMP8 mice is
+currently under investigation.
+CONCLUSIONS
+Three diﬀerent types of conditions that induce increased
+levels of ICLs have been summarized here: chemother-
+apeutic treatment of cancer using ICL-inducing drugs,
+PUVA treatment of skin diseases and increase of
+endogenously formed ICLs by impaired ICL repair. All
+of these conditions lead to more or less pronounced
+progeroid features, clearly indicating that DNA damage is
+among the driving forces of aging and age-associated
+pathologies. Although it seems clear that ICLs contribute
+to aging-like loss of functions, their speciﬁc contribution
+remains unknown due to the facts that all ICL-inducing
+drugs cause additional damage other than ICL and all
+currently known proteins involved in ICL repair have
+other functions as well. Similarly, several other factors
+conferring hypersensitivity to ICL-inducing agents have
+not been linked to aging yet, e.g. the other Pso proteins
+like Pso1/Rev3 or the Rad51 paralogues XRCC2, XRCC3
+and Rad51C.
+How is ICL damage translated to aging of organisms?
+A major contributor might be the exhaustion of replicative
+potential of stem, progenitor and normal cells due to
+increased apoptosis and senescence upon damage, while
+suppression of the IGF1 signalling might be a counter-
+active measure aimed at funnelling energy to repair and
+maintenance of the damaged cells as summarized in our
+model (Figure 1).
+While our model is consistent with the idea that aging is
+accelerated by stochastic damage but counteracted by
+genetically programmed repair (179), it is so far only
+based on induction of premature progeroid syndromes
+and shortening of life span. An important unanswered
+question therefore is if reduced ICL induction or
+improved ICL repair, e.g. by overexpression of ICL
+Figure 1. Overview of a proposed contribution of DNA interstrand cross-links (ICLs) to aging: increased formation of ICLs leads to acquired
+premature progeroid syndrome (APPS) by exhaustion of replicative potential of stem and progenitor as well as normal cells, while suppression of
+IGF1 signalling redirects energy from growth to repair and maintenance.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7571
+repair factors would be able to prolong the life and health
+span of organisms.
+ACKNOWLEDGEMENTS
+This work was supported by grant NRN-S09306 of the
+Austrian Science Fund (FWF) and by Polymun Scientiﬁc
+GmbH, Vienna, Austria. We especially want to acknowl-
+edge our reviewers for generously providing helpful
+comments on this manuscript. Funding to pay the Open
+Access publication charges for this article was provided
+by Austrian Science Fund (FWF).
+Conﬂict of interest statement. None declared.
+REFERENCES
+1. Lindahl,T. and Barnes,D.E. (2000) Repair of endogenous DNA
+damage. Cold Spring Harb. Symp. Quant. Biol., 65, 127–133.
+2. Akkari,Y.M., Bateman,R.L., Reifsteck,C.A., Olson,S.B. and
+Grompe,M. (2000) DNA replication is required to elicit cellular
+responses to psoralen-induced DNA interstrand cross-links.
+Mol. Cell. Biol., 20, 8283–8289.
+3. Cullinane,C. and Bohr,V.A. (1998) DNA interstrand cross-links
+induced by psoralen are not repaired in mammalian mitochondria.
+Cancer Res., 58, 1400–1404.
+4. Shen,X., Jun,S., O’Neal,L.E., Sonoda,E., Bemark,M., Sale,J.E. and
+Li,L. (2006) REV3 and REV1 play major roles in recombination-
+independent repair of DNA interstrand cross-links mediated by
+monoubiquitinated proliferating cell nuclear antigen (PCNA).
+J. Biol. Chem., 281, 13869–13872.
+5. Collins,A.R. (1993) Mutant rodent cell lines sensitive to ultraviolet
+light, ionizing radiation and cross-linking agents: a comprehensive
+survey of genetic and biochemical characteristics. Mutat. Res.,
+293, 99–118.
+6. Dronkert,M.L. and Kanaar,R. (2001) Repair of DNA interstrand
+cross-links. Mutat. Res., 486, 217–247.
+7. Lehoczky,P., McHugh,P.J. and Chovanec,M. (2007) DNA inter-
+strand cross-link repair in Saccharomyces cerevisiae. FEMS
+Microbiol. Rev., 31, 109–133.
+8. Niedernhofer,L.J., Lalai,A.S. and Hoeijmakers,J.H. (2005) Fanconi
+anemia (cross)linked to DNA repair. Cell, 123, 1191–1198.
+9. Levitus,M., Joenje,H. and de Winter,J.P. (2006) The Fanconi
+anemia pathway of genomic maintenance. Cell Oncol., 28, 3–29.
+10. Kennedy,R.D. and D’Andrea,A.D. (2005) The Fanconi anemia/
+BRCA pathway: new faces in the crowd. Genes Dev., 19, 2925–2940.
+11. Thompson,L.H., Hinz,J.M., Yamada,N.A. and Jones,N.J. (2005)
+How Fanconi anemia proteins promote the four Rs: replication,
+recombination, repair, and recovery. Environ. Mol. Mutagen.,
+45, 128–142.
+12. Mitchell,J.R., Hoeijmakers,J.H. and Niedernhofer,L.J. (2003)
+Divide and conquer: nucleotide excision repair battles cancer and
+ageing. Curr. Opin. Cell. Biol., 15, 232–240.
+13. McHugh,P.J., Spanswick,V.J. and Hartley,J.A. (2001) Repair of
+DNA interstrand crosslinks: molecular mechanisms and clinical
+relevance. Lancet Oncol., 2, 483–490.
+14. Rosenberg,B., Vancamp,L. and Krigas,T. (1965) Inhibition of cell
+division in Escherichia coli by electrolysis products from a platinum
+electrode. Nature, 205, 698–699.
+15. Boulikas,T. and Vougiouka,M. (2004) Recent clinical trials using
+cisplatin, carboplatin and their combination chemotherapy drugs
+(review). Oncol. Rep., 11, 559–595.
+16. Galanski,M., Jakupec,M.A. and Keppler,B.K. (2005) Update of the
+preclinical situation of anticancer platinum complexes: novel design
+strategies and innovative analytical approaches. Curr. Med. Chem.,
+12, 2075–2094.
+17. Hartinger,C.G., Zorbas-Seifried,S., Jakupec,M.A., Kynast,B.,
+Zorbas,H. and Keppler,B.K. (2006) From bench to bedside –
+preclinical and early clinical development of the anticancer agent
+indazolium trans-[tetrachlorobis(1H-indazole)ruthenate(III)]
+(KP1019 or FFC14A). J. Inorg. Biochem., 100, 891–904.
+18. Brabec,V. and Leng,M. (1993) DNA interstrand cross-links of
+trans-diamminedichloroplatinum(II) are preferentially formed
+between guanine and complementary cytosine residues. Proc. Natl
+Acad. Sci. USA, 90, 5345–5349.
+19. Jones,J.C., Zhen,W.P., Reed,E., Parker,R.J., Sancar,A. and
+Bohr,V.A. (1991) Gene-speciﬁc formation and repair of cisplatin
+intrastrand adducts and interstrand cross-links in Chinese hamster
+ovary cells. J. Biol. Chem., 266, 7101–7107.
+20. Roberts,J.J. and Friedlos,F. (1987) Quantitative estimation of
+cisplatin-induced DNA interstrand cross-links and their repair in
+mammalian cells: relationship to toxicity. Pharmacol. Ther.,
+34, 215–246.
+21. Balcome,S., Park,S., Quirk Dorr,D.R., Hafner,L., Phillips,L. and
+Tretyakova,N. (2004) Adenine-containing DNA–DNA cross-
+links of antitumor nitrogen mustards. Chem. Res. Toxicol.,
+17, 950–962.
+22. Rink,S.M. and Hopkins,P.B. (1995) A mechlorethamine-induced
+DNA interstrand cross-link bends duplex DNA. Biochemistry,
+34, 1439–1445.
+23. Singer,M.J., Podyminogin,M.A., Metcalf,M.A., Reed,M.W.,
+Brown,D.A., Gamper,H.B., Meyer,R.B. and Wydro,R.M. (1999)
+Targeted mutagenesis of DNA with alkylating RecA assisted
+oligonucleotides. Nucleic Acids Res., 27, e38.
+24. Colvin,M., Cowens,J.W., Brundrett,R.B., Kramer,B.S. and
+Ludlum,D.B. (1974) Decomposition of BCNU (1,3-bis
+(2-chloroethyl)-1-nitrosourea) in aqueous solution. Biochem.
+Biophys. Res. Commun., 60, 515–520.
+25. Wiencke,J.K. and Wiemels,J. (1995) Genotoxicity of 1,3-bis
+(2-chloroethyl)-1-nitrosourea (BCNU). Mutat. Res., 339, 91–119.
+26. Seow,H.A., Penketh,P.G., Baumann,R.P. and Sartorelli,A.C. (2004)
+Bioactivation and resistance to mitomycin C. Methods Enzymol.,
+382, 221–233.
+27. Rink,S.M., Warner,D.L., Klapars,A. and Vedejs,E. (2005)
+Sequence-speciﬁc DNA interstrand cross-linking by an aziridino-
+mitosene in the absence of exogenous reductant. Biochemistry,
+44, 13981–13986.
+28. Pagano,G. (2002) Redox-modulated xenobiotic action and
+ROS formation: a mirror or a window? Hum. Exp. Toxicol.,
+21, 77–81.
+29. Gregson,S.J., Howard,P.W., Gullick,D.R., Hamaguchi,A.,
+Corcoran,K.E., Brooks,N.A., Hartley,J.A., Jenkins,T.C., Patel,S.
+et al. (2004) Linker length modulates DNA cross-linking reactivity
+and cytotoxic potency of C8/C8’ ether-linked C2-exo-unsaturated
+pyrrolo[2,1-c][1,4]benzodiazepine (PBD) dimers. J. Med. Chem.,
+47, 1161–1174.
+30. Gregson,S.J., Howard,P.W., Hartley,J.A., Brooks,N.A.,
+Adams,L.J., Jenkins,T.C., Kelland,L.R. and Thurston,D.E. (2001)
+Design, synthesis, and evaluation of a novel pyrrolobenzodiazepine
+DNA-interactive agent with highly eﬃcient cross-linking ability and
+potent cytotoxicity. J. Med. Chem., 44, 737–748.
+31. Martin,C., Ellis,T., McGurk,C.J., Jenkins,T.C., Hartley,J.A.,
+Waring,M.J. and Thurston,D.E. (2005) Sequence-selective interac-
+tion of the minor-groove interstrand cross-linking agent SJG-136
+with naked and cellular DNA: footprinting and enzyme inhibition
+studies. Biochemistry, 44, 4135–4147.
+32. Maccormick,R.E. (2006) Possible acceleration of aging by adjuvant
+chemotherapy: a cause of early onset frailty? Med. Hypotheses,
+67, 212–215.
+33. Meinardi,M.T., Gietema,J.A., van Veldhuisen,D.J., van der
+Graaf,W.T., de Vries,E.G. and Sleijfer,D.T. (2000) Long-term
+chemotherapy-related cardiovascular morbidity. Cancer Treat. Rev.,
+26, 429–447.
+34. Martin,G.M. (1978) Genetic syndromes in man with potential
+relevance to the pathobiology of aging. Birth Defects Orig. Artic.
+Ser., 14, 5–39.
+35. Roninson,I.B. (2002) Tumor senescence as a determinant of drug
+response in vivo. Drug Resist. Updat., 5, 204–208.
+36. Herbig,U., Ferreira,M., Condel,L., Carey,D. and Sedivy,J.M. (2006)
+Cellular senescence in aging primates. Science, 311, 1257.
+37. Erusalimsky,J.D. and Kurz,D.J. (2005) Cellular senescence in vivo:
+Its relevance in ageing and cardiovascular disease. Exp. Gerontol.,
+40, 634–642.
+7572 Nucleic Acids Research, 2007, Vol. 35, No. 22
+38. Halloran,P.F. and Melk,A. (2001) Renal senescence, cellular
+senescence, and their relevance to nephrology and transplantation.
+Adv. Nephrol. Necker Hosp., 31, 273–283.
+39. Van Nguyen,T., Puebla-Osorio,N., Pang,H., Dujka,M.E. and
+Zhu,C. (2007) DNA damage-induced cellular senescence is suﬃcient
+to suppress tumorigenesis: a mouse model. J. Exp. Med.,
+204, 1453–1461.
+40. de Lange,T. (2005) Shelterin: the protein complex that shapes and
+safeguards human telomeres. Genes Dev., 19, 2100–2110.
+41. Beeharry,N. and Broccoli,D. (2005) Telomere dynamics in response
+to chemotherapy. Curr. Mol. Med., 5, 187–196.
+42. Rossi,D.J., Bryder,D., Seita,J., Nussenzweig,A., Hoeijmakers,J. and
+Weissman,I.L. (2007) Deﬁciencies in DNA damage repair limit the
+function of haematopoietic stem cells with age. Nature,
+447, 725–729.
+43. Nijnik,A., Woodbine,L., Marchetti,C., Dawson,S., Lambe,T.,
+Liu,C., Rodrigues,N.P., Crockford,T.L., Cabuy,E. et al. (2007)
+DNA repair is limiting for haematopoietic stem cells during ageing.
+Nature, 447, 686–690.
+44. Bethea,D., Fullmer,B., Syed,S., Seltzer,G., Tiano,J., Rischko,C.,
+Gillespie,L., Brown,D. and Gasparro,F.P. (1999) Psoralen photo-
+biology and photochemotherapy: 50 years of science and medicine.
+J. Dermatol. Sci., 19, 78–88.
+45. Kim,K.H., Fan,X.J. and Nielsen,P.E. (2007) Eﬃcient sequence-
+directed psoralen targeting using pseudocomplementary Peptide
+nucleic acids. Bioconjug. Chem., 18, 567–572.
+46. Kim,K.H., Nielsen,P.E. and Glazer,P.M. (2006) Site-speciﬁc gene
+modiﬁcation by PNAs conjugated to psoralen. Biochemistry,
+45, 314–323.
+47. Thazhathveetil,A.K., Liu,S.T., Indig,F.E. and Seidman,M.M. (2007)
+Psoralen conjugates for visualization of genomic interstrand cross-
+links localized by laser photoactivation. Bioconjug. Chem.,
+18, 431–437.
+48. Pathak,M.A., Zarebska,Z., Mihm,M.C.,Jr, Jarzabek-
+Chorzelska,M., Chorzelski,T. and Jablonska,S. (1986) Detection of
+DNA-psoralen photoadducts in mammalian skin. J. Invest.
+Dermatol., 86, 308–315.
+49. Wolﬀ,K. (1990) Side-eﬀects of psoralen photochemotherapy
+(PUVA). Br J Dermatol, 122(Suppl. 36), 117–125.
+50. Sator,P.G., Schmidt,J.B. and Honigsmann,H. (2002) Objective
+assessment of photoageing eﬀects using high-frequency ultrasound
+in PUVA-treated psoriasis patients. Br. J. Dermatol., 147, 291–298.
+51. Wlaschek,M., Ma,W., Jansen-Durr,P. and Scharﬀetter-
+Kochanek,K. (2003) Photoaging as a consequence of natural and
+therapeutic ultraviolet irradiation–studies on PUVA-induced senes-
+cence-like growth arrest of human dermal ﬁbroblasts. Exp.
+Gerontol., 38, 1265–1270.
+52. Herrmann,G., Brenneisen,P., Wlaschek,M., Wenk,J., Faisst,K.,
+Quel,G., Hommel,C., Goerz,G., Ruzicka,T. et al. (1998) Psoralen
+photoactivation promotes morphological and functional changes in
+ﬁbroblasts in vitro reminiscent of cellular senescence. J. Cell. Sci.,
+111(Pt 6), 759–767.
+53. Ma,W., Hommel,C., Brenneisen,P., Peters,T., Smit,N., Sedivy,J.,
+Scharﬀetter-Kochanek,K. and Wlaschek,M. (2003) Long-term
+growth arrest of PUVA-treated ﬁbroblasts in G2/M in the absence
+of p16(INK4a) p21(CIP1) or p53. Exp. Dermatol., 12, 629–637.
+54. Ma,W., Wlaschek,M., Hommel,C., Schneider,L.A. and Scharﬀetter-
+Kochanek,K. (2002) Psoralen plus UVA (PUVA) induced pre-
+mature senescence as a model for stress-induced premature
+senescence. Exp. Gerontol., 37, 1197–1201.
+55. Borlon,C., Debacq-Chainiaux,F., Hinrichs,C., Scharﬀetter-
+Kochanek,K., Toussaint,O. and Wlaschek,M. (2007) The gene
+expression proﬁle of psoralen plus UVA-induced premature
+senescence in skin ﬁbroblasts resembles a combined DNA-damage
+and stress-induced cellular senescence response phenotype. Exp.
+Gerontol, 42, 911–923.
+56. Hovest,M.G., Bruggenolte,N., Hosseini,K.S., Krieg,T. and
+Herrmann,G. (2006) Senescence of human ﬁbroblasts after psoralen
+photoactivation is mediated by ATR kinase and persistent DNA
+damage foci at telomeres. Mol. Biol. Cell, 17, 1758–1767.
+57. Majka,J. and Burgers,P.M. (2007) Clamping the Mec1/ATR
+checkpoint kinase into action. Cell Cycle, 6, 1157–1160.
+58. Cardone,J.M., Revers,L.F., Machado,R.M., Bonatto,D.,
+Brendel,M. and Henriques,J.A. (2006) Psoralen-sensitive mutant
+pso9-1 of Saccharomyces cerevisiae contains a mutant allele of the
+DNA damage checkpoint gene MEC3. DNA Repair, 5, 163–171.
+59. Francia,S., Weiss,R.S., Hande,M.P., Freire,R. and d’Adda di
+Fagagna,F. (2006) Telomere and telomerase modulation by the
+mammalian Rad9/Rad1/Hus1 DNA-damage-checkpoint complex.
+Curr. Biol., 16, 1551–1558.
+60. Griﬃth,J.D., Comeau,L., Rosenﬁeld,S., Stansel,R.M., Bianchi,A.,
+Moss,H. and de Lange,T. (1999) Mammalian telomeres end in a
+large duplex loop. Cell, 97, 503–514.
+61. Van Houten,B., Gamper,H., Hearst,J.E. and Sancar,A. (1986)
+Construction of DNA substrates modiﬁed with psoralen at a unique
+site and study of the action mechanism of ABC excinuclease on
+these uniformly modiﬁed substrates. J. Biol. Chem.,
+261, 14135–14141.
+62. Santamaria,A.B., Davis,D.W., Nghiem,D.X., McConkey,D.J.,
+Ullrich,S.E., Kapoor,M., Lozano,G. and Ananthaswamy,H.N.
+(2002) p53 and Fas ligand are required for psoralen and
+UVA-induced apoptosis in mouse epidermal cells. Cell Death
+Diﬀer., 9, 549–560.
+63. Marnett,L.J. (2000) Oxyradicals and DNA damage. Carcinogenesis,
+21, 361–370.
+64. Kadlubar,F.F., Anderson,K.E., Haussermann,S., Lang,N.P.,
+Barone,G.W., Thompson,P.A., MacLeod,S.L., Chou,M.W.,
+Mikhailova,M. et al. (1998) Comparison of DNA adduct levels
+associated with oxidative stress in human pancreas. Mutat. Res.,
+405, 125–133.
+65. Sharma,R.A., Gescher,A., Plastaras,J.P., Leuratti,C., Singh,R.,
+Gallacher-Horley,B., Oﬀord,E., Marnett,L.J., Steward,W.P. et al.
+(2001) Cyclooxygenase-2, malondialdehyde and pyrimidopurinone
+adducts of deoxyguanosine in human colon cells. Carcinogenesis,
+22, 1557–1560.
+66. Niedernhofer,L.J., Daniels,J.S., Rouzer,C.A., Greene,R.E. and
+Marnett,L.J. (2003) Malondialdehyde, a product of lipid peroxida-
+tion, is mutagenic in human cells. J. Biol. Chem., 278, 31426–31433.
+67. Esterbauer,H. (1993) Cytotoxicity and genotoxicity of lipid-
+oxidation products. Am. J. Clin. Nutr., 57, 779S–785S, discussion.
+68. Harman,D. (1956) Aging: a theory based on free radical and
+radiation chemistry. J. Gerontol., 11, 298–300.
+69. de Magalhaes,J.P. and Church,G.M. (2006) Cells discover ﬁre:
+employing reactive oxygen species in development and consequences
+for aging. Exp. Gerontol., 41, 1–10.
+70. Droge,W. and Schipper,H.M. (2007) Oxidative stress and aberrant
+signaling in aging and cognitive decline. Aging Cell, 6, 361–370.
+71. Percy,C., Pat,B., Poronnik,P. and Gobe,G. (2005) Role of oxidative
+stress in age-associated chronic kidney pathologies. Adv. Chronic
+Kidney Dis., 12, 78–83.
+72. Csiszar,A., Toth,J., Peti-Peterdi,J. and Ungvari,Z. (2007) The aging
+kidney: role of endothelial oxidative stress and inﬂammation. Acta
+Physiol. Hung., 94, 107–115.
+73. Anantharaju,A., Feller,A. and Chedid,A. (2002) Aging liver. a
+review. Gerontology, 48, 343–353.
+74. Rohrbach,S., Niemann,B., Abushouk,A.M. and Holtz,J. (2006)
+Caloric restriction and mitochondrial function in the ageing
+myocardium. Exp. Gerontol., 41, 525–531.
+75. Van Remmen,H. and Richardson,A. (2001) Oxidative damage to
+mitochondria and aging. Exp. Gerontol., 36, 957–968.
+76. Carrera-Rotllan,J. and Estrada-Garcia,L. (1998) Age-dependent
+changes and interrelations of number of cells and biochemical
+parameters (glucose, triglycerides, TBARS, calcium, phosphorus) in
+cultured human vein endothelial cells. Mech. Ageing Dev.,
+103, 13–26.
+77. Ando,K., Beppu,M. and Kikugawa,K. (1995) Evidence for accu-
+mulation of lipid hydroperoxides during the aging of human red
+blood cells in the circulation. Biol. Pharm. Bull., 18, 659–663.
+78. Stolzing,A., Sethe,S. and Scutt,A.M. (2006) Stressed stem cells:
+temperature response in aged mesenchymal stem cells. Stem Cells
+Dev., 15, 478–487.
+79. Voss,P. and Siems,W. (2006) Clinical oxidation parameters of aging.
+Free Radic. Res., 40, 1339–1349.
+80. Droge,W. (2002) Free radicals in the physiological control of cell
+function. Physiol. Rev., 82, 47–95.
+81. Wei,Y.H. and Lee,H.C. (2002) Oxidative stress, mitochondrial
+DNA mutation, and impairment of antioxidant enzymes in aging.
+Exp. Biol. Med., 227, 671–682.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7573
+82. Arnould,S., Spanswick,V.J., Macpherson,J.S., Hartley,J.A.,
+Thurston,D.E., Jodrell,D.I. and Guichard,S.M. (2006) Time-
+dependent cytotoxicity induced by SJG-136 (NSC 694501):
+inﬂuence of the rate of interstrand cross-link formation on DNA
+damage signaling. Mol. Cancer Ther., 5, 1602–1609.
+83. O’Driscoll,M., Dobyns,W.B., van Hagen,J.M. and Jeggo,P.A.
+(2007) Cellular and Clinical Impact of Haploinsuﬃciency
+for Genes Involved in ATR Signaling. Am. J. Hum. Genet.,
+81, 77–86.
+84. Niedernhofer,L.J., Odijk,H., Budzowska,M., van Drunen,E.,
+Maas,A., Theil,A.F., de Wit,J., Jaspers,N.G., Beverloo,H.B. et al.
+(2004) The structure-speciﬁc endonuclease Ercc1-Xpf is required to
+resolve DNA interstrand cross-link-induced double-strand breaks.
+Mol. Cell. Biol., 24, 5776–5787.
+85. Clingen,P.H., Arlett,C.F., Hartley,J.A. and Parris,C.N. (2007)
+Chemosensitivity of primary human ﬁbroblasts with defective
+unhooking of DNA interstrand cross-links. Exp. Cell Res.,
+313, 753–760.
+86. McWhir,J., Selfridge,J., Harrison,D.J., Squires,S. and
+Melton,D.W. (1993) Mice with DNA repair gene (ERCC-1)
+deﬁciency have elevated levels of p53, liver nuclear abnormalities
+and die before weaning. Nat. Genet., 5, 217–224.
+87. Weeda,G., Donker,I., de Wit,J., Morreau,H., Janssens,R.,
+Vissers,C.J., Nigg,A., van Steeg,H., Bootsma,D. et al. (1997)
+Disruption of mouse ERCC1 results in a novel repair syndrome
+with growth failure, nuclear abnormalities and senescence. Curr.
+Biol., 7, 427–439.
+88. Tian,M., Shinkura,R., Shinkura,N. and Alt,F.W. (2004) Growth
+retardation, early death, and DNA repair defects in mice deﬁcient
+for the nucleotide excision repair enzyme XPF. Mol. Cell. Biol.,
+24, 1200–1205.
+89. Hasty,P., Campisi,J., Hoeijmakers,J., van Steeg,H. and Vijg,J.
+(2003) Aging and genome maintenance: lessons from the mouse?
+Science, 299, 1355–1359.
+90. Jaspers,N.G., Raams,A., Silengo,M.C., Wijgers,N.,
+Niedernhofer,L.J., Robinson,A.R., Giglia-Mari,G.,
+Hoogstraten,D., Kleijer,W.J. et al. (2007) First reported patient
+with human ERCC1 deﬁciency has cerebro-oculo-facio-skeletal
+syndrome with a mild defect in nucleotide excision repair and
+severe developmental failure. Am. J. Hum. Genet., 80, 457–466.
+91. Radford,S.J., Goley,E., Baxter,K., McMahan,S. and Sekelsky,J.
+(2005) Drosophila ERCC1 is required for a subset of MEI-9-
+dependent meiotic crossovers. Genetics, 170, 1737–1745.
+92. Shannon,M., Lamerdin,J.E., Richardson,L.,
+McCutchen-Maloney,S.L., Hwang,M.H., Handel,M.A., Stubbs,L.
+and Thelen,M.P. (1999) Characterization of the mouse Xpf DNA
+repair gene and diﬀerential expression during spermatogenesis.
+Genomics, 62, 427–435.
+93. Zhu,X.D., Niedernhofer,L., Kuster,B., Mann,M.,
+Hoeijmakers,J.H. and de Lange,T. (2003) ERCC1/XPF removes
+the 3’ overhang from uncapped telomeres and represses formation
+of telomeric DNA-containing double minute chromosomes. Mol.
+Cell, 12, 1489–1498.
+94. Wu,Y., Zacal,N.J., Rainbow,A.J. and Zhu,X.D. (2007) XPF with
+mutations in its conserved nuclease domain is defective in DNA
+repair but functions in TRF2-mediated telomere shortening. DNA.
+Repair, 6, 157–166.
+95. Zhang,N., Zhang,X., Peterson,C., Li,L. and Legerski,R. (2000)
+Diﬀerential processing of UV mimetic and interstrand crosslink
+damage by XPF cell extracts. Nucleic Acids Res., 28, 4800–4804.
+96. Niedernhofer,L.J., Garinis,G.A., Raams,A., Lalai,A.S.,
+Robinson,A.R., Appeldoorn,E., Odijk,H., Oostendorp,R.,
+Ahmad,A. et al. (2006) A new progeroid syndrome reveals that
+genotoxic stress suppresses the somatotroph axis. Nature,
+444, 1038–1043.
+97. Fabrizio,P., Pozza,F., Pletcher,S.D., Gendron,C.M. and
+Longo,V.D. (2001) Regulation of longevity and stress resistance
+by Sch9 in yeast. Science, 292, 288–290.
+98. Kenyon,C., Chang,J., Gensch,E., Rudner,A. and Tabtiang,R.
+(1993) A C. elegans mutant that lives twice as long as wild type.
+Nature, 366, 461–464.
+99. Clancy,D.J., Gems,D., Harshman,L.G., Oldham,S., Stocker,H.,
+Hafen,E., Leevers,S.J. and Partridge,L. (2001) Extension of
+life-span by loss of CHICO, a Drosophila insulin receptor
+substrate protein. Science, 292, 104–106.
+100. Flurkey,K., Papaconstantinou,J., Miller,R.A. and Harrison,D.E.
+(2001) Lifespan extension and delayed immune and collagen aging
+in mutant mice with defects in growth hormone production.
+Proc. Natl Acad. Sci. USA, 98, 6736–6741.
+101. Bluher,M., Kahn,B.B. and Kahn,C.R. (2003) Extended longevity
+in mice lacking the insulin receptor in adipose tissue. Science,
+299, 572–574.
+102. Bartke,A. (2005) Minireview: role of the growth hormone/
+insulin-like growth factor system in mammalian aging.
+Endocrinology, 146, 3718–3723.
+103. Kirschner,K., Singh,R., Prost,S. and Melton,D.W. (2007)
+Characterisation of Ercc1 deﬁciency in the liver and in conditional
+Ercc1-deﬁcient primary hepatocytes in vitro. DNA Repair,
+6, 304–316.
+104. Prasher,J.M., Lalai,A.S., Heijmans-Antonissen,C.,
+Ploemacher,R.E., Hoeijmakers,J.H., Touw,I.P. and
+Niedernhofer,L.J. (2005) Reduced hematopoietic reserves in DNA
+interstrand crosslink repair-deﬁcient Ercc1–/–
+mice. EMBO J.,
+24, 861–871.
+105. Pepper,C., Lowe,H., Fegan,C., Thurieau,C., Thurston,D.E.,
+Hartley,J.A. and Delavault,P. (2007) Fludarabine-mediated sup-
+pression of the excision repair enzyme ERCC1 contributes to the
+cytotoxic synergy with the DNA minor groove crosslinking agent
+SJG-136 (NSC 694501) in chronic lymphocytic leukaemia cells.
+Br. J. Cancer, 97, 253–259.
+106. Yang,L.Y., Li,L., Keating,M.J. and Plunkett,W. (1995)
+Arabinosyl-2-ﬂuoroadenine augments cisplatin cytotoxicity and
+inhibits cisplatin-DNA cross-link repair. Mol. Pharmacol.,
+47, 1072–1079.
+107. Moufarij,M.A., Sampath,D., Keating,M.J. and Plunkett,W. (2006)
+Fludarabine increases oxaliplatin cytotoxicity in normal and
+chronic lymphocytic leukemia lymphocytes by suppressing inter-
+strand DNA crosslink removal. Blood, 108, 4187–4193.
+108. Li,L., Keating,M.J., Plunkett,W. and Yang,L.Y. (1997)
+Fludarabine-mediated repair inhibition of cisplatin-induced DNA
+lesions in human chronic myelogenous leukemia-blast crisis K562
+cells: induction of synergistic cytotoxicity independent of reversal
+of apoptosis resistance. Mol. Pharmacol., 52, 798–806.
+109. Montillo,M., Ricci,F. and Tedeschi,A. (2006) Role of ﬂudarabine
+in hematological malignancies. Expert Rev. Anticancer Ther.,
+6, 1141–1161.
+110. Tischkowitz,M. and Dokal,I. (2004) Fanconi anaemia and
+leukaemia - clinical and molecular aspects. Br. J. Haematol.,
+126, 176–191.
+111. Ciccia,A., Ling,C., Coulthard,R., Yan,Z., Xue,Y., Meetei,A.R.,
+Laghmani el,H., Joenje,H., McDonald,N. et al. (2007)
+Identiﬁcation of FAAP24, a Fanconi anemia core complex protein
+that interacts with FANCM. Mol. Cell, 25, 331–343.
+112. Niedernhofer,L.J. (2007) The Fanconi anemia signalosome anchor.
+Mol. Cell, 25, 487–490.
+113. Taniguchi,T. and D’Andrea,A.D. (2006) Molecular patho-
+genesis of Fanconi anemia: recent progress. Blood,
+107, 4223–4233.
+114. Schroeder-Kurth,T. (2007) Fanconi anemia. a paradigmatic
+disease for the understanding of cancer and aging.
+In Schindler,D.H.H. (ed.), Monographic Human Genetics, Vol. 15;
+Karger, Basel, pp. 1–8.
+115. Ball,S.E., Gibson,F.M., Rizzo,S., Tooze,J.A., Marsh,J.C. and
+Gordon-Smith,E.C. (1998) Progressive telomere shortening in
+aplastic anemia. Blood, 91, 3582–3592.
+116. Leteurtre,F., Li,X., Guardiola,P., Le Roux,G., Sergere,J.C.,
+Richard,P., Carosella,E.D. and Gluckman,E. (1999) Accelerated
+telomere shortening and telomerase activation in Fanconi’s
+anaemia. Br. J. Haematol., 105, 883–893.
+117. Hanson,H., Mathew,C.G., Docherty,Z. and Mackie Ogilvie,C.
+(2001) Telomere shortening in Fanconi anaemia
+demonstrated by a direct FISH approach. Cytogenet. Cell Genet.,
+93, 203–206.
+118. Cabuy,E., Newton,C., Joksic,G., Woodbine,L., Koller,B.,
+Jeggo,P.A. and Slijepcevic,P. (2005) Accelerated telomere short-
+ening and telomere abnormalities in radiosensitive cell lines.
+Radiat. Res., 164, 53–62.
+7574 Nucleic Acids Research, 2007, Vol. 35, No. 22
+119. Thompson,K.V. and Holliday,R. (1983) Genetic eﬀects on the
+longevity of cultured human ﬁbroblasts. II. DNA repair deﬁcient
+syndromes. Gerontology, 29, 83–88.
+120. Adelfalk,C., Lorenz,M., Serra,V., von Zglinicki,T., Hirsch-
+Kauﬀmann,M. and Schweiger,M. (2001) Accelerated telomere
+shortening in Fanconi anemia ﬁbroblasts–a longitudinal study.
+FEBS Lett., 506, 22–26.
+121. Callen,E., Samper,E., Ramirez,M.J., Creus,A., Marcos,R.,
+Ortega,J.J., Olive,T., Badell,I., Blasco,M.A. et al. (2002) Breaks at
+telomeres and TRF2-independent end fusions in Fanconi anemia.
+Hum. Mol. Genet., 11, 439–444.
+122. Bagby,G.C.,Jr (2003) Genetic basis of Fanconi anemia. Curr.
+Opin. Hematol., 10, 68–76.
+123. Bogliolo,M., Cabre,O., Callen,E., Castillo,V., Creus,A., Marcos,R.
+and Surralles,J. (2002) The Fanconi anaemia genome stability and
+tumour suppressor network. Mutagenesis, 17, 529–538.
+124. Li,X., Leteurtre,F., Rocha,V., Guardiola,P., Berger,R.,
+Daniel,M.T., Noguera,M.H., Maarek,O., Roux,G.L. et al. (2003)
+Abnormal telomere metabolism in Fanconi’s anaemia correlates
+with genomic instability and the probability of developing severe
+aplastic anaemia. Br. J. Haematol., 120, 836–845.
+125. Donoho,G., Brenneman,M.A., Cui,T.X., Donoviel,D., Vogel,H.,
+Goodwin,E.H., Chen,D.J. and Hasty,P. (2003) Deletion of Brca2
+exon 27 causes hypersensitivity to DNA crosslinks, chromosomal
+instability, and reduced life span in mice. Genes Chromosomes
+Cancer, 36, 317–331.
+126. Zhang,X., Li,J., Sejas,D.P. and Pang,Q. (2005) Hypoxia-
+reoxygenation induces premature senescence in FA bone marrow
+hematopoietic cells. Blood, 106, 75–85.
+127. Zhang,X., Sejas,D.P., Qiu,Y., Williams,D.A. and Pang,Q. (2007)
+Inﬂammatory ROS promote and cooperate with the Fanconi
+anemia mutation for hematopoietic senescence. J. Cell. Sci.,
+120, 1572–1583.
+128. Duckworth-Rysiecki,G. and Taylor,A.M. (1985) Eﬀects of
+ionizing radiation on cells from Fanconi’s anemia patients.
+Cancer Res., 45, 416–420.
+129. Carreau,M., Alon,N., Bosnoyan-Collins,L., Joenje,H. and
+Buchwald,M. (1999) Drug sensitivity spectra in Fanconi anemia
+lymphoblastoid cell lines of deﬁned complementation groups.
+Mutat. Res., 435, 103–109.
+130. Tebbs,R.S., Hinz,J.M., Yamada,N.A., Wilson,J.B., Salazar,E.P.,
+Thomas,C.B., Jones,I.M., Jones,N.J. and Thompson,L.H. (2005)
+New insights into the Fanconi anemia pathway from an isogenic
+FancG hamster CHO mutant. DNA Repair, 4, 11–22.
+131. Taniguchi,T., Garcia-Higuera,I., Xu,B., Andreassen,P.R.,
+Gregory,R.C., Kim,S.T., Lane,W.S., Kastan,M.B. and
+D’Andrea,A.D. (2002) Convergence of the fanconi anemia and
+ataxia telangiectasia signaling pathways. Cell, 109, 459–472.
+132. Zhang,N., Liu,X., Li,L. and Legerski,R. (2007) Double-strand
+breaks induce homologous recombinational repair of interstrand
+cross-links via cooperation of MSH2, ERCC1-XPF, REV3, and
+the Fanconi anemia pathway. DNA Repair, 6, 1670–1678.
+133. Hinz,J.M., Nham,P.B., Salazar,E.P. and Thompson,L.H. (2006)
+The Fanconi anemia pathway limits the severity of mutagenesis.
+DNA Repair, 5, 875–884.
+134. Lee,J.W., Harrigan,J., Opresko,P.L. and Bohr,V.A. (2005)
+Pathways and functions of the Werner syndrome protein. Mech.
+Ageing Dev., 126, 79–86.
+135. Poot,M., Gollahon,K.A., Emond,M.J., Silber,J.R. and
+Rabinovitch,P.S. (2002) Werner syndrome diploid ﬁbroblasts are
+sensitive to 4-nitroquinoline-N-oxide and 8-methoxypsoralen:
+implications for the disease phenotype. FASEB J., 16, 757–758.
+136. Poot,M., Yom,J.S., Whang,S.H., Kato,J.T., Gollahon,K.A. and
+Rabinovitch,P.S. (2001) Werner syndrome cells are sensitive to
+DNA cross-linking drugs. FASEB J., 15, 1224–1226.
+137. Cheng,W.H., Kusumoto,R., Opresko,P.L., Sui,X., Huang,S.,
+Nicolette,M.L., Paull,T.T., Campisi,J., Seidman,M. et al. (2006)
+Collaboration of Werner syndrome protein and BRCA1 in cellular
+responses to DNA interstrand cross-links. Nucleic Acids Res.,
+34, 2751–2760.
+138. Zhang,N., Kaur,R., Lu,X., Shen,X., Li,L. and Legerski,R.J.
+(2005) The Pso4 mRNA splicing and DNA repair complex
+interacts with WRN for processing of DNA interstrand cross-
+links. J. Biol. Chem., 280, 40559–40567.
+139. Otterlei,M., Bruheim,P., Ahn,B., Bussen,W., Karmakar,P.,
+Baynton,K. and Bohr,V.A. (2006) Werner syndrome protein
+participates in a complex with RAD51, RAD54, RAD54B and
+ATR in response to ICL-induced replication arrest. J. Cell. Sci.,
+119, 5137–5146.
+140. Dhillon,K.K., Sidorova,J., Saintigny,Y., Poot,M., Gollahon,K.,
+Rabinovitch,P.S. and Monnat,R.J.Jr. (2007) Functional role of
+the Werner syndrome RecQ helicase in human ﬁbroblasts.
+Aging Cell, 6, 53–61.
+141. Saﬃ,J., Feldmann,H., Winnacker,E.L. and Henriques,J.A. (2001)
+Interaction of the yeast Pso5/Rad16 and Sgs1 proteins: inﬂuences
+on DNA repair and aging. Mutat. Res., 486, 195–206.
+142. Brendel,M., Bonatto,D., Strauss,M., Revers,L.F., Pungartnik,C.,
+Saﬃ,J. and Henriques,J.A. (2003) Role of PSO genes in repair of
+DNA damage of Saccharomyces cerevisiae. Mutat. Res.,
+544, 179–193.
+143. von Kobbe,C., Karmakar,P., Dawut,L., Opresko,P., Zeng,X.,
+Brosh,R.M.,Jr, Hickson,I.D. and Bohr,V.A. (2002) Colocalization,
+physical, and functional interaction between Werner and Bloom
+syndrome proteins. J. Biol. Chem., 277, 22035–22044.
+144. Pichierri,P., Franchitto,A. and Rosselli,F. (2004) BLM and the
+FANC proteins collaborate in a common pathway in response to
+stalled replication forks. EMBO J., 23, 3154–3163.
+145. Slupianek,A., Gurdek,E., Koptyra,M., Nowicki,M.O.,
+Siddiqui,K.M., Groden,J. and Skorski,T. (2005) BLM helicase is
+activated in BCR/ABL leukemia cells to modulate responses to
+cisplatin. Oncogene, 24, 3914–3922.
+146. Cheng,W.H., von Kobbe,C., Opresko,P.L., Arthur,L.M.,
+Komatsu,K., Seidman,M.M., Carney,J.P. and Bohr,V.A. (2004)
+Linkage between Werner syndrome protein and the Mre11
+complex via Nbs1. J. Biol. Chem., 279, 21169–21176.
+147. Hirano,S., Yamamoto,K., Ishiai,M., Yamazoe,M., Seki,M.,
+Matsushita,N., Ohzeki,M., Yamashita,Y.M., Arakawa,H. et al.
+(2005) Functional relationships of FANCC to homologous
+recombination, translesion synthesis, and BLM. EMBO J.,
+24, 418–427.
+148. Franchitto,A. and Pichierri,P. (2002) Bloom’s syndrome protein is
+required for correct relocalization of RAD50/MRE11/NBS1
+complex after replication fork arrest. J. Cell. Biol., 157, 19–30.
+149. Zhang,R., Sengupta,S., Yang,Q., Linke,S.P., Yanaihara,N.,
+Bradsher,J., Blais,V., McGowan,C.H. and Harris,C.C. (2005)
+BLM helicase facilitates Mus81 endonuclease activity in human
+cells. Cancer Res., 65, 2526–2531.
+150. Hanada,K., Budzowska,M., Modesti,M., Maas,A., Wyman,C.,
+Essers,J. and Kanaar,R. (2006) The structure-speciﬁc endonuclease
+Mus81-Eme1 promotes conversion of interstrand DNA crosslinks
+into double-strands breaks. EMBO J., 25, 4921–4932.
+151. Trowbridge,K., McKim,K., Brill,S.J. and Sekelsky,J. (2007)
+Synthetic lethality in the absence of the Drosophila MUS81
+endonuclease and the DmBlm helicase is associated with elevated
+apoptosis. Genetics, 176, 1993–2001.
+152. Martin,G.M. and Oshima,J. (2000) Lessons from human proger-
+oid syndromes. Nature, 408, 263–266.
+153. Crabbe,L., Jauch,A., Naeger,C.M., Holtgreve-Grez,H. and
+Karlseder,J. (2007) Telomere dysfunction as a cause of genomic
+instability in Werner syndrome. Proc. Natl Acad. Sci. USA,
+104, 2205–2210.
+154. Goldstein,S. and Harley,C.B. (1979) In vitro studies of age-
+associated diseases. Fed. Proc., 38, 1862–1867.
+155. Du,X., Shen,J., Kugan,N., Furth,E.E., Lombard,D.B., Cheung,C.,
+Pak,S., Luo,G., Pignolo,R.J. et al. (2004) Telomere shortening
+exposes functions for the mouse Werner and Bloom syndrome
+genes. Mol. Cell. Biol., 24, 8437–8446.
+156. Sarkar,S., Davies,A.A., Ulrich,H.D. and McHugh,P.J. (2006)
+DNA interstrand crosslink repair during G1 involves nucleotide
+excision repair and DNA polymerase zeta. EMBO J.,
+25, 1285–1294.
+157. Bonatto,D., Revers,L.F., Brendel,M. and Henriques,J.A. (2005)
+The eukaryotic Pso2/Snm1/Artemis proteins and their function as
+genomic and cellular caretakers. Braz. J. Med. Biol. Res.,
+38, 321–334.
+158. Dronkert,M.L., de Wit,J., Boeve,M., Vasconcelos,M.L., van
+Steeg,H., Tan,T.L., Hoeijmakers,J.H. and Kanaar,R. (2000)
+Disruption of mouse SNM1 causes increased sensitivity to the
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7575
+DNA interstrand cross-linking agent mitomycin C. Mol. Cell.
+Biol., 20, 4553–4561.
+159. Demuth,I., Digweed,M. and Concannon,P. (2004) Human
+SNM1B is required for normal cellular response to both DNA
+interstrand crosslink-inducing agents and ionizing radiation.
+Oncogene, 23, 8611–8618.
+160. Ahkter,S., Richie,C.T., Zhang,N., Behringer,R.R., Zhu,C. and
+Legerski,R.J. (2005) Snm1-deﬁcient mice exhibit accelerated
+tumorigenesis and susceptibility to infection. Mol. Cell. Biol.,
+25, 10071–10078.
+161. van Overbeek,M. and de Lange,T. (2006) Apollo, an Artemis-
+related nuclease, interacts with TRF2 and protects human
+telomeres in S phase. Curr. Biol., 16, 1295–1302.
+162. Freibaum,B.D. and Counter,C.M. (2006) hSnm1B is a novel
+telomere-associated protein. J. Biol. Chem., 281, 15033–15036.
+163. Lenain,C., Bauwens,S., Amiard,S., Brunori,M., Giraud-Panis,M.J.
+and Gilson,E. (2006) The Apollo 5’ exonuclease functions together
+with TRF2 to protect telomeres from DNA repair. Curr. Biol.,
+16, 1303–1310.
+164. Mahajan,K.N. and Mitchell,B.S. (2003) Role of human Pso4 in
+mammalian DNA repair and association with terminal deoxynu-
+cleotidyl transferase. Proc. Natl Acad. Sci. USA, 100, 10746–10751.
+165. Lu,X. and Legerski,R.J. (2007) The Prp19/Pso4 core complex
+undergoes ubiquitylation and structural alterations in response to
+DNA damage. Biochem. Biophys. Res. Commun., 354, 968–974.
+166. Grey,M., Dusterhoft,A., Henriques,J.A. and Brendel,M. (1996)
+Allelism of PSO4 and PRP19 links pre-mRNA processing with
+recombination and error-prone DNA repair in Saccharomyces
+cerevisiae. Nucleic Acids Res., 24, 4009–4014.
+167. Grillari,J., Ajuh,P., Stadler,G., Loscher,M., Voglauer,R.,
+Ernst,W., Chusainow,J., Eisenhaber,F., Pokar,M. et al. (2005)
+SNEV is an evolutionarily conserved splicing factor whose
+oligomerization is necessary for spliceosome assembly. Nucleic
+Acids Res., 33, 6868–6883.
+168. Henriques,J.A., Vicente,E.J., Leandro da Silva,K.V. and
+Schenberg,A.C. (1989) PSO4: a novel gene involved in error-
+prone repair in Saccharomyces cerevisiae. Mutat. Res.,
+218, 111–124.
+169. Morais Junior,M.A., Brozmanova,J., Benfato,M.S., Duraj,J.,
+Vlckova,V. and Henriques,J.A. (1994) The E. coli recA gene
+can restore the defect in mutagenesis of the pso4-1 mutant of
+S. cerevisiae. Mutat. Res., 314, 209–220.
+170. Morais Junior,M.A., Vicente,E.J., Brozmanova,J., Schenberg,A.C.
+and Henriques,J.A. (1996) Further characterization of the yeast
+pso4-1 mutant: interaction with rad51 and rad52 mutants after
+photoinduced psoralen lesions. Curr. Genet., 29, 211–218.
+171. Grillari,J., Hohenwarter,O., Grabherr,R.M. and Katinger,H.
+(2000) Subtractive hybridization of mRNA from early passage and
+senescent endothelial cells. Exp. Gerontol., 35, 187–197.
+172. Voglauer,R., Chang,M.W., Dampier,B., Wieser,M., Baumann,K.,
+Sterovsky,T., Schreiber,M., Katinger,H. and Grillari,J. (2006)
+SNEV overexpression extends the life span of human endothelial
+cells. Exp. Cell Res., 312, 746–759.
+173. Fortschegger,K., Wagner,B., Voglauer,R., Katinger,H., Sibilia,M.
+and Grillari,J. (2007) Early embryonic lethality of mice lacking the
+essential protein SNEV. Mol. Cell. Biol., 27, 3123–3130.
+174. Schraml,E., Voglauer,R., Fortschegger,K., Sibilia,M., Grillari,J.
+and Schauenstein,K. (in press) The expression of mSNEV, the
+murine homologue of human senescence evasion factor
+(SNEVPrp19/Pso4), is associated with the self-renewal capacity of
+hematopoietic stem cells. Stem Cells Dev.
+175. Ajuh,P., Kuster,B., Panov,K., Zomerdijk,J.C., Mann,M. and
+Lamond,A.I. (2000) Functional analysis of the human CDC5L
+complex and identiﬁcation of its components by mass spectro-
+metry. EMBO J., 19, 6569–6581.
+176. Hatakeyama,S., Yada,M., Matsumoto,M., Ishida,N. and
+Nakayama,K.I. (2001) U-Box proteins as a new family of
+ubiquitin-protein ligases. J. Biol. Chem., 276, 33111–33120.
+177. Loscher,M., Fortschegger,K., Ritter,G., Wostry,M.,
+Voglauer,R., Schmid,J.A., Watters,S., Rivett,A.J., Ajuh,P. et al.
+(2005) Interaction of U-box E3 ligase SNEV with PSMB4,
+the beta7 subunit of the 20 S proteasome. Biochem. J.,
+388, 593–603.
+178. Cho,S.Y., Shin,E.S., Park,P.J., Shin,D.W., Chang,H.K., Kim,D.,
+Lee,H.H., Lee,J.H., Kim,S.H. et al. (2006) Identiﬁcation of mouse
+Prp19p as a lipid droplet-associated protein and its possible
+involvement in the biogenesis of lipid droplets. J. Biol. Chem.,
+20, 20.
+179. Kirkwood,T.B. (2005) Understanding the odd science of aging.
+Cell, 120, 437–447.
+7576 Nucleic Acids Research, 2007, Vol. 35, No. 22
+

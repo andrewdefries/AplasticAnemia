@@ -1,0 +1,801 @@
+Arch Toxicol (2009) 83:721–729
+DOI 10.1007/s00204-009-0402-6
+123
+GENOTOXICITY AND CARCINOGENICITY
+The benzene metabolite para-benzoquinone is genotoxic in human,
+phorbol-12-acetate-13-myristate induced, peripheral blood
+mononuclear cells at low concentrations
+Götz Alexander Westphal · Jürgen Bünger ·
+Nadine Lichey · Dirk Taeger · Angelika Mönnich ·
+Ernst Hallier
+Received: 9 September 2008 / Accepted: 15 January 2009 / Published online: 11 February 2009
+© Springer-Verlag 2009
+Abstract Benzene is one of the most prominent occupa-
+tional and environmental pollutants. The substance is a
+proven human carcinogen that induces hematologic
+malignancies in humans, probably at even low doses. Yet
+knowledge of the mechanisms leading to benzene-induced
+carcinogenesis is still incomplete. Benzene itself is not
+genotoxic. The generation of carcinogenic metabolites
+involves the production of oxidized intermediates such as
+catechol, hydroquinone and para-benzoquinone (p-BQ) in
+the liver. Further activation to the ultimate carcinogenic
+intermediates is most probably catalyzed by myeloperoxi-
+dase (MPO). Yet the products of the MPO pathway have
+not been identiWed. If an oxidized benzene metabolite
+such as p-BQ was actually the precursor for the ultimate
+carcinogenic benzene metabolite and further activation
+proceeds via MPO mediated reactions, it should be possi-
+ble to activate p-BQ to a genotoxic compound in vitro.
+We tested this hypothesis with phorbol-12-acetate-13-
+myristate (PMA) activated peripheral blood cells exposed
+to p-BQ, using the cytokinesis-block micronucleus test.
+Addition of 20–28 ng/ml PMA caused a signiWcant
+increase of micronuclei at low and non-cytotoxic p-BQ
+concentrations between 0.04 and 0.2 g/ml (0.37–
+1.85 M). Thus with PMA or p-BQ alone no reproducible
+elevation of micronuclei was seen up to toxic concentra-
+tions. PMA and p-BQ induce micronuclei when adminis-
+tered jointly. Our results add further support to the
+hypothesis that MPO is a key enzyme in the activation of
+benzene.
+Keywords Benzene · para-Benzoquinone ·
+Phorbol-12-acetate-13-myristate
+Introduction
+Benzene [CAS 71-43-2] is widely used as a solvent and an
+intermediate in chemical syntheses. In addition, occupa-
+tional exposure occurs in oil reWneries and coke oven
+plants. Environmental exposure is nearly exclusively
+caused by benzene contained in gasoline. Benzene is a
+proven human carcinogen probably even at low doses.
+Particular concern has been aroused by two independent
+studies that showed a possible contribution of environmen-
+tal benzene exposure to childhood leukemia (Crosignani
+et al. 2004; SteVen et al. 2004). Furthermore, acute hemato-
+toxicity in adults can occur at atmospheric concentrations
+below 1 ppm benzene (Lan et al. 2004). Despite its
+outstanding importance as an ubiquitous, highly toxic
+G. A. Westphal (&) · J. Bünger · D. Taeger
+BGFA, Research Institute of Occupational Medicine,
+German Social Accident Insurance, Ruhr-University Bochum,
+Bürkle-de-la-Camp-Platz 1, 44789 Bochum, Germany
+e-mail: westphal@bgfa.ruhr-uni-bochum.de
+J. Bünger
+e-mail: buenger@bgfa.ruhr-uni-bochum.de
+D. Taeger
+e-mail: taeger@bgfa.ruhr-uni-bochum.de
+N. Lichey · A. Mönnich · E. Hallier
+Department of Occupational and Social Health,
+Georg-August-University Göttingen, Waldweg 37,
+37073 Göttingen, Germany
+N. Lichey
+e-mail: nadine.lichey@web.de
+A. Mönnich
+e-mail: amoenni@gwdg.de
+E. Hallier
+e-mail: ehallie@gwdg.de
+722 Arch Toxicol (2009) 83:721–729
+123
+pollutant, knowledge of the mechanisms of benzene toxicity
+is still incomplete. Although a variety of eVects on bone
+marrow can be demonstrated it is not yet clear that which
+metabolites are most important in either benzene-induced
+aplastic anemia or leukemia. Benzene metabolism alone is
+insuYcient to fully describe benzene toxicity. The impact
+of benzene metabolites on bone marrow cells must be fully
+explored to determine how benzene exposure can result in
+decreased viability or genetic toxicity to cells in the bone
+marrow (Snyder 2007). Moreover, the reason for the
+observed species diVerences in benzene toxicity between
+experimental animals and humans is unclear: whereas
+hematopoietic malignancies occur in humans, benzene
+produces a variety of tumors in rats and mice (Maltoni et al.
+1985; National Toxicology Program 1986). Furthermore, it
+is disputed if benzene induces only leukemia in humans
+(Lamm et al. 2005; Seidler et al. 2007) or a broader spec-
+trum of hematologic malignancies (Hayes et al. 1997;
+Mehlman 2004; Smith et al. 2007).
+The answers for these open questions are strongly ham-
+pered by the complex and not yet fully clariWed metabolism
+of benzene. Initially, benzene is oxidized to metabolites
+such as 1,2-benzenediol [CAS No. 120-80-9] (catechol),
+hydroquinone [CAS 123-31-9] and p-BQ [CAS 106-51-4]
+in the liver, primarily by cytochrome P450 2E1. Since ben-
+zene does not induce liver tumors and human exposure is
+predominantly associated with disorders of the hematopoi-
+etic system, it was concluded that myeloperoxidase (MPO)
+mediated reactions are involved in the generation of the
+ultimate carcinogenic metabolites (Hayes et al. 1997; Smith
+et al. 2007; Environmental Protection Agency USA 1998).
+Actually, benzene causes malignancies in experimental ani-
+mals preferentially in peroxidase rich tissues (Maltoni et al.
+1985; National Toxicology Program 1986).
+Benzene-induced oxidative DNA damage is enhanced in
+PMA-stimulated cells in vitro and in LPS-treated animals
+(Tuo et al. 1999). Consequently it was proposed that “per-
+oxidatic metabolism of benzene’s phenolic metabolites
+may be responsible for the increased free radical activity
+and toxicity produced by benzene in bone marrow, and that
+free radicals contribute, at least in part, to the toxic and
+leukemogenic eVects of benzene” (Subrahmanyam et al.
+1991). However, direct evidence for MPO mediated gener-
+ation of genotoxic metabolites does not exist and benzene
+adducts which were detected in humans and experimental
+animals could not be identiWed (Bechtold et al. 1992;
+Krewet et al. 1993; McDonald et al. 1994; Creek et al.
+1997).
+Human MPO is expressed at high levels in the bone mar-
+row and in peripheral blood cells such as neutrophils and
+monocytes. The enzyme is stored in “large dense azurophil
+granules” (Bainton et al. 1971) and is released during host
+defence and inXammatory reactions, parallel to the genera-
+tion of H2O2 and HOCl. MPO activation can be experimen-
+tally induced by PMA (phorbol-12-acetate-13-myristate) or
+LPS (bacterial lipopolysaccharide). MPO is proposed to
+play a major role in the generation of tissue damage caused
+by chronic inXammation (Winterbourn 2002). Reactions
+accompanying MPO activation are suggested to take part in
+the toxiWcation of oxidizable substances (Winterbourn
+2002; Trush 1984; Eastmond and Smith 1990) or may act
+as co-factor in chemical carcinogenesis (Coussens and
+Werb 2002).
+Benzene is one of the few strong carcinogens that yield
+negative results in in vitro mutagenicity tests (Zarani et al.
+1999), whereas genotoxic eVects are observed in vivo
+(Tweats et al. 2007). In addition, genotoxicity of benzene
+metabolites such as hydroquinone, catechol and p-BQ is
+absent or weak at toxic concentrations (Ludewig et al.
+1989; Yager et al. 1990; Lévay and Bodell 1992). This
+most probably reXects the inability of in vitro systems to
+model a complex metabolism and interactions of diVerent
+metabolizing compartments.
+However, if an intermediate such as p-BQ is actually the
+precursor for the ultimate carcinogenic benzene metabolite
+and further activation proceeds via MPO mediated reac-
+tions, it should be possible to activate p-BQ to a genotoxic
+compound in vitro. Since benzene exposure leads to clasto-
+genic eVects (Smith et al. 2007; Tough et al. 1970; Forni
+1971; Picciano 1979; Popp et al. 1992; Tompa et al. 1994;
+Rothman et al. 1995, 1996; Smith et al. 1998; Zhang et al.
+1998, 2005), micronuclei should be suitable endpoints to
+monitor such eVects.
+Treatment of HL-60 cells with 3 M p-BQ caused a
+threefold reactive oxygen species (ROS) production, cell
+proliferation and prolonged phosphorylation of ERK1/2
+proteins. Catalase or the MEK protein inhibitor PD98059
+reduced cell recruitment into the S-phase and ERK1/2
+protein phosphorylation. Thus, p-BQ is able to induce
+ROS and cell proliferation. This would theoretically
+enhance the vulnerability of the exposed cells (Ruiz-Ramos
+et al. 2005).
+Therefore, we proposed that the combination of p-BQ
+and PMA might be especially eVective to investigate p-BQ
+activation by PMA and investigated if p-BQ can be
+activated by MPO mediated reactions by using the cytoki-
+nesis-block micronucleus technique and PMA activated
+peripheral human blood mononuclear cells.
+Materials and methods
+The study was approved by the Ethics committee of
+the Medical Faculty of the Georg-August-University,
+Göttingen. Written informed consent was obtained from all
+participants.
+Arch Toxicol (2009) 83:721–729 723
+123
+Micronucleus test
+The cytokinesis-block micronucleus assay was carried out
+according to Fenech (1993) using primary human lymphocytes
+from three diVerent donors (donor 1 was a 45-year-old
+male smoker; donor 2 a 47-year-old female non-smoker
+and donor 3 a 38-year-old male non-smoker). Blood was
+collected by venipuncture in Sodium-heparin tubes
+(Sarstedt AG & Co, Nümbrecht, Germany), diluted 1:1 in
+phosphate buVered saline (PBS) and separated by a
+FICOLL gradient (Biochrom KG, Berlin, Germany) for
+isolation of lymphocytes. Approximately 1.2 £ 106
+cells
+were seeded in 2.5 ml RPMI medium each (ICN, Eschwege,
+Germany) supplemented with 5% fetal calf serum (FCS)
+(Biochrom KG, Berlin, Germany). Lymphocytes were
+stimulated by adding 5 g/ml phytohemagglutinin (Bio-
+chrom KG, Berlin, Germany) and cultivated at 37°C,
+100% humidity and 5% CO2 for 70 h. PMA and p-BQ
+were added simultaneously 24 after having started the
+cultures. Cell division was blocked 44 h after starting the
+cultures by adding 4.5 g/ml cytochalasin-B (Sigma-
+Aldrich, Steinheim, Germany).
+Without addition of PMA, up to 5 g/ml p-BQ (mini-
+mum 97% purity, Sigma-Aldrich, Steinheim, Germany)
+were applied to the cultures (2.5 ml). Co-incubation with
+PMA was initially done using 24–80 ng PMA and up to
+1 g/ml p-BQ. PMA was processed as follows: PMA was
+dissolved in DMSO (1 mg/ml) and stored in 10 l aliquots
+at ¡18°C. Prior to the addition to the cultures PMA was
+mixed with 990 l medium. Mitomycin C (Sigma-Aldrich)
+served as positive control. One sample without addition of
+p-BQ and PMA served as negative control as did another
+sample with addition of PMA only.
+Lymphocytes were sampled 68 h after having started the
+cultures and 28 h after addition of cytochalasin-B by centri-
+fugation for 5 min at 175£g and 20°C. Hypotonic treat-
+ment was performed by careful resuspension of the cells in
+5 ml hypotonic saline (0.07 M KCl/0.15 M NaCl). Cells
+were collected for 5 min at 175£g and 20°C immediately
+after the addition of hypotonic solution. The cell pellet was
+resuspended in 3 ml ice cold methanol/acetic acid (4:1).
+Cell Wxation was performed twice. Finally the cells were
+pelleted for 5 min at 4°C and 175£g and transferred onto
+ice cold degreased slides. The slides were randomized and
+subsequently stained with 3% Giemsa R66 ‘Gurr’ (BDH,
+Promochem GmbH, Wesel, Germany) for 7 min.
+Six independent experiments were performed for donor
+1 and four experiments each for donors 2 and 3. For each
+experiment blood was freshly collected and each single
+experiment was done on a diVerent date. At least Wve con-
+centrations were examined. Cell viability was determined
+by trypan blue exclusion test (Merck, Darmstadt, Germany)
+and additionally by evaluation of the nuclear division index
+(NDI, Eastmond and Tucker 1989). Cell scoring was
+done according to the criteria outlined by Fenech (1993).
+Binucleated cells and cells not containing more than four
+micronuclei with preserved cytoplasm were counted.
+Additional acceptance criteria for a genotoxic eVect
+were: positive- and solvent control within the historical
+range, signiWcantly elevated frequency of micronuclei
+exceeding the respective control (0 g/ml p-BQ with or
+without PMA) at non-toxic concentrations and unchanged
+pH. More than one succeeding concentration yielding total
+cell counts below 1,000 binucleated cells, a NDI < 1.4 and
+viability below 60% were regarded as toxic.
+Statistics
+The micronucleus rates of selected experiments were com-
+pared to the rates of negative controls with PMA and with-
+out p-BQ, and additionally to the rates of negative controls
+without PMA and without p-BQ using Fisher’s exact test.
+The Cochrane-Armitage test was applied to selected dose
+samples to test positive trends. SAS 9.2 software was used
+for all calculations (SAS Institute Inc, Cary, NC).
+Results
+The concentration range for the tests was initially deter-
+mined using between 24 and 80 ng/ml PMA in combination
+with up to 8.0 g/ml p-BQ. At and above 32 ng/ml PMA
+(70 ng/2.5 ml medium) toxicity and strong variations of the
+eVects occurred (data not shown). In single concentration
+range Wnding experiments PMA concentrations at and
+above 32 ng/ml caused a signiWcant increase of micronuclei
+(example shown in Table 1, experiment 2). However, these
+eVects were poorly reproducible and most probably attrib-
+utable to toxicity.
+In some concentration range Wnding experiments signiW-
+cantly elevated micronuclei counts occurred with addition
+of p-BQ alone at and above 4 g/ml (example shown in
+Table 1, experiment 11). Yet these eVects were as well
+poorly reproducible and attributable to toxicity.
+In single concentration range Wnding experiments in
+which PMA concentrations at and above 32 ng/ml were
+used, elevation of micronuclei showed a bimodal distribu-
+tion. This appeared without noticeable eVects on the NDI.
+In case of bimodal distribution of elevated micronuclei,
+the second elevation occurred at about 60% cytotoxicity
+(example shown in Table 1, experiments 1 and 2). In
+another set of experiments weak PMA genotoxicity
+occurred and the combination with p-BQ yielded a strong
+synergistic elevation of micronuclei.
+With the aim to improve reproducibility, we performed
+a more detailed analysis of the p-BQ concentration range
+724 Arch Toxicol (2009) 83:721–729
+123
+Table 1 Toxic eVects of
+para-benzoquinone in the
+in vitro micronucleus test
+Exp. no. PMA (ng/ml) p-BQ ( g/ml) NDI Viability (%) MN P P* P**
+Donor 1
+1 0 0 1.53 98 2
+0 2.5 1.41 40 2
+0 5 1.21 40 Tox
+32 0 1.62 80 1
+32 0.05 NE 80 NE
+32 0.2 1.62 80 9 0.0212
+32 0.3 1.76 60 2
+32 0.4 1.49 60 12 0.0033 0.0126
+32 0.5 1.67 60 1
+2 0 0 1.75 90 1
+0 2 1.59 80 1
+0 4 1.45 40 1
+32 0 1.62 80 18 <0.0001
+32 0.04 1.63 80 9 0.0212
+32 0.08 1.56 60 30 <0.0001
+32 0.12 1.45 60 28 <0.0001
+32 0.16 1.64 60 12 0.0033
+32 0.20 1.55 60 24 <0.0001
+3 0 0 1.79 90 1
+0 2 1.63 90 1
+0 4 Tox 60 Tox
+32 0 1.55 90 1
+32 0.04 1.57 90 2
+32 0.08 1.55 80 1
+32 0.12 1.48 80 14 0.0009 0.0009
+32 0.16 1.60 70 6
+32 0.20 NE 70 NE
+4 0 0 1.73 98 1
+0 4 Tox 40 Tox
+0 8 Tox 20 Tox
+28 0 1.51 80 2
+28 0.1 1.60 80 1
+28 0.2 1.44 80 10 0.0380 0.0115
+28 0.3 1.56 70 1
+28 0.4 1.61 60 2
+28 0.5 1.64 60 2
+5 0 0 1.75 98 1
+0 2 1.68 80 3
+0 4 1.51 70 1
+28 0 1.70 80 2
+28 0.04 1.68 80 3
+28 0.08 1.70 70 1
+28 0.12 1.65 70 20 0.0001 <0.0001
+28 0.16 1.68 70 20 0.0001 <0.0001
+28 0.20 1.67 70 12 0.0126 0.0033
+Arch Toxicol (2009) 83:721–729 725
+123
+Table 1 continued
+Exp. no. PMA (ng/ml) p-BQ ( g/ml) NDI Viability (%) MN P P* P**
+6 0 0 1.6 95 3
+0 2 1.46 80 2
+0 4 1.30 60 2
+24 0 1.50 80 1
+24 0.04 1.47 80 18 <0.0001 0.0014
+24 0.08 1.39 80 4
+24 0.12 1.41 80 12 0.0033 0.0345
+24 0.16 1.41 80 12 0.0033 0.0345
+24 0.20 1.28 80 3
+Positive control: 0.08–0.1 mol/ml mitomycin induced 11–21 MN
+Donor 2
+7 0 0 1.69 98 2
+0 2 1.68 98 6
+0 4 1.65 90 1
+28 0 1.41 98 3
+28 0.04 1.54 80 11 <0.0001 0.0220
+28 0.08 1.53 80 22 0.0001 <0.0001
+28 0.12 1.61 80 12 0.0345 0.0126
+28 0.16 1.57 80 2
+28 0.20 1.59 80 9 0.0647
+8 0 0 1.89 90 1
+0 2 1.88 70 1
+0 4 1.44 40 3
+28 0 1.78 80 2
+28 0.04 1.80 80 1
+28 0.08 1.77 80 10 0.0380 0.0115
+28 0.12 1.77 80 2
+28 0.16 1.83 80 1
+28 0.20 1.78 80 2
+9 0 0 1.84 90 3
+0 2 1.76 70 1
+0 4 1.50 40 1
+24 0 1.58 80 3
+24 0.04 1.74 80 1
+24 0.08 1.47 80 5 0.0023
+24 0.12 1.79 80 8
+24 0.16 1.73 80 10
+24 0.20 1.70 80 1
+10 0 0 1.79 90 1
+0 2 1.88 60 2
+0 4 Tox 50 Tox
+20 0 1.76 90 1
+20 0.04 1.75 90 7
+20 0.08 1.84 90 5
+20 0.12 1.79 90 2
+20 0.16 1.79 90 1
+20 0.20 1.72 90 2
+Positive control: 0.08–0.1 mol/ml mitomycin induced 11–27 MN
+726 Arch Toxicol (2009) 83:721–729
+123
+by applying 20–28 ng/ml (0.37–1.85 M) PMA. Under
+these conditions, a signiWcant increase of micronuclei
+occurred between 0.04 and 0.2 g p-BQ: In 4 out of 11
+experiments using 20–28 ng/ml PMA, signiWcance was
+reached in terms of a positive trend test (experiments 7, 9,
+12 and 14). In six experiments (experiments 1, 3, 4, 5, 6
+and 8) at least one concentration yielded a signiWcant
+elevation of micronuclei compared to the control with
+addition of PMA. In two experiments (experiments 7 and
+12) signiWcant elevated micronuclei occurred in combina-
+tion with a positive trend test and in two experiments with
+addition of 20 ng/ml PMA neither a positive trend test nor
+a signiWcant elevation was seen (experiments 10 and 13).
+Viability—according to the trypane exclusion test—con-
+stituted 70–90% and only minor changes in the NDI were
+seen (Table 1).
+Table 1 continued
+Exp. no. PMA (ng/ml) p-BQ ( g/ml) NDI Viability (%) MN P P* P**
+Donor 3
+11 0 0 1.84 95 1
+0 2 1.75 50 3
+0 4 1.63 40 8 0.0386
+24 0 1.48 80 3
+24 0.04 1.58 80 16 0.0042 0.0003
+24 0.08 1.41 90 12 0.0345 0.0033
+24 0.12 1.58 80 12 0.0345 0.0033
+24 0.16 1.52 80 2
+24 0.20 1.59 80 1
+12 0 0 1.87 99 1
+0 2 Tox 60 Tox
+0 4 Tox 40 Tox
+24 0 1.32 90 5
+24 0.02 1.57 90 9 0.0229 0.4223
+24 0.03 1.53 90 14 0.0623
+24 0.04 1.48 90 13 0.0948
+24 0.08 1.43 90 2
+24 0.12 NE NE NE
+13 0 0 1.87 90 1
+0 1 1.75 80 5
+0 2 Tox 60 Tox
+20 0 1.42 90 1
+20 0.02 1.54 90 4
+20 0.04 1.68 90 4
+20 0.08 1.62 85 3
+20 0.12 1.55 80 7
+20 0.16 1.55 80 4
+14 0 0 1.80 90 1
+0 1 Tox 80 Tox
+0 2 Tox 50 Tox
+20 0 1.59 90 1
+20 0.02 1.47 90 4 0.0473
+20 0.04 1.50 90 6
+20 0.08 1.51 90 2
+20 0.12 1.46 80 5
+20 0.16 1.45 80 1
+Positive control: 0.08–0.1 mol/ml mitomycin induced 12–20 MN
+Results from the in vitro
+micronucleus test using isolated
+lymphocytes from three diVerent
+donors. Results of 14 indepen-
+dent experiments are displayed.
+PMA Phorbol-12-acetat-13-
+myristat, p-BQ para-benzoqui-
+none, NDI nuclear division
+index, MI mitotic index, MN
+micronuclei, NE not evaluable,
+tox toxic, P one-sided P value of
+Cochran-Armitage trend test
+(experiments shown in italics),
+P* two-sided P value of Fisher’s
+exact test based on the corre-
+sponding controls with PMA
+and without p-BQ, P** two-
+sided P value of Fisher’s exact
+test based on the samples with-
+out PMA and without p-BQ
+Arch Toxicol (2009) 83:721–729 727
+123
+Discussion
+Central questions concerning benzene toxicity are still
+unanswered: why is benzene such a potent carcinogen
+whereas compounds with a similar chemical structure such
+as phenol, hydroquinone or p-BQ are not (although they are
+metabolites of benzene)? Does benzene cause the formation
+of mutagenic DNA-adducts or rather act by a clastogenic
+eVect? Why are only hematopoietic malignancies seen in
+humans whereas a broader tumor spectrum occurs in exper-
+imental animals? Are only myeloic stem cells targets of
+benzene toxicity in humans? Since no convincing evidence
+for genotoxic eVects of p-BQ, phenol, 1,2-benzenediol or
+hydroquinone exists, do other benzene metabolites contrib-
+ute to benzene carcinogenicity instead? An appropriate in
+vitro system could help to answer these open questions.
+We observed a signiWcant elevation of micronuclei at
+very low, non-cytotoxic concentrations between 0.04 and
+0.2 g/ml p-BQ using PMA activated peripheral blood
+cells. This is the Wrst report that shows genotoxic eVects of
+p-BQ in peripheral blood cells at non-toxic concentrations
+and the Wrst direct evidence for in vitro activation of a ben-
+zene metabolite by PMA inducible reactions. Notably, we
+achieved positive results at very low p-BQ concentrations
+between 0.37 and 1.85 M, whereas in formerly published
+investigations p-BQ alone induced an elevation of micronu-
+clei only at toxic concentrations above 35 M in V79 cells
+(Ludewig et al. 1989) and at and above 2.5 M in human
+lymphocytes (Yager et al. 1990). Treatment of HL-60 cells
+with cytotoxic concentrations of 500 M hydroquinone and
+250 M 1,2,4,-benzenetriole resulted in the formation of a
+single DNA adduct in HL-60 cells which was detected by
+32
+P-postlabelling. We could not reproduce former positive
+results using the cytokinesis-block micronucleus technique,
+human lymphocytes and up to 46.3 M p-BQ without addi-
+tion of PMA. Only addition of PMA at relatively low con-
+centrations resulted in reproducible p-BQ genotoxicity.
+These eVects occurred at a narrow concentration range
+between 20 and 28 ng PMA. Toxicity at and above 32 ng/ml
+PMA masked genotoxic eVects of p-BQ; whereas addition
+of less than 24 ng/ml PMA yielded only weak eVects.
+Cytotoxic artifacts are often misinterpreted as genotoxic
+eVects when using in vitro assays and eukaryotic cells
+(Kirkland et al. 2007). The in vitro micronucleus test how-
+ever allows the parallel investigation of the nuclear division
+index or the mitotic index to monitor cytotoxicity, and eval-
+uation of binucleated (vital) cells can avoid the inclusion of
+damaged cells (Fenech 1993). Admittedly in our experi-
+ments concentrations at and above 32 ng/ml PMA yielded
+inconclusive results and poor reproducibility, even at con-
+centrations which did not appreciably aVect the NDI. Some
+of these experiments showed a bimodal elevation of micro-
+nuclei, Wrst between 0.04–0.2 g/ml p-BQ and 28–32 ng/ml
+PMA; second at and above 0.4 g/ml p-BQ and, according
+to the typane blue exclusion test, at about 60% cytotoxicity
+(Table 1). This second elevation might be caused by cyto-
+toxic artefacts.
+Acceptance criteria for a positive in vitro micronucleus
+test are not consistently used. A previous publication of the
+“Gesellschaft für Umwelt-Mutationsforschung” deWned a
+dose–eVect relationship as follows: if there were at least
+two consecutive concentrations having increased aberration
+frequencies and the eVect of the higher concentration was
+more pronounced than that of the lower, this was regarded
+as dose–eVect relationship. A doubling over control was not
+necessarily considered adequate by itself (Miller et al.
+1998). According to a more recent publication a dose-
+related increase in micronuclei frequencies (e.g. trend test)
+which exceeds statistically signiWcantly the upper limit of
+the historical and concurrent negative control (chi-square or
+Fisher’s exact test) or at least a twofold increase over mean
+control micronuclei frequencies are required for a positive
+call. If a chemical meets all these criteria, it is proposed to
+be considered clearly positive. If a chemical satisWes none
+of these criteria, it should be considered clearly negative
+(Corvi et al. 2008).
+In 2 out of 11 of our experiments in which 20 and 28 ng/ml
+PMA were applied, we achieved a signiWcant dose–
+response according to the Cochrane-Armitage test and a
+statistically signiWcant deviation from the concurrent nega-
+tive control according to the Fisher’s exact test. Two exper-
+iments were clearly negative, in both we had applied 20 ng/
+ml PMA. Accordingly the minimal eVective PMA dose
+concerning p-BQ activation was between 20 and 24 ng/ml
+PMA. The remaining experiments showed a signiWcant ele-
+vation according to a positive trend test or a positive
+Fisher’s exact test.
+The concentration range for a genotoxic eVect is very
+narrow, most probably because the dose–response could be
+inXuenced by cytotoxic eVects of both PMA and p-BQ. In
+addition, the concentration range can vary from donor to
+donor and test to test because the amount of inducible cells
+may be diVerent and the PMA response may be modiWed by
+genetic- or life style factors. In fact, donor 1 showed the
+strongest variations in the results and a dose–response rela-
+tionship could not be established. Interestingly donor 1 was
+the only smoker. However, we did not systematically eval-
+uate a possible smoking eVect on the results.
+Phorbol-12-acetate-13-myristate induced peripheral
+blood cells are routinely used as a model for the investiga-
+tion of inXammation and might enable the investigation of
+the role of inXammation in chemically induced carcinogen-
+esis (Eastmond and Smith 1990). PMA induces oxidative
+bursts (Walrand et al. 2003) and oxidative DNA damage
+(Dzarlieva-Petrusevska and Füsenig 1985; Petrusevska
+et al. 1988). An inXuence of PMA on the generation of
+728 Arch Toxicol (2009) 83:721–729
+123
+benzene-induced oxidative DNA damage in rats was shown
+(Subrahmanyam et al. 1991). Toxic eVects of PMA are
+mediated by MPO induction. MPO and other peroxidases
+catalyze the generation of hypochloric acid from H2O2 and
+Cl¡
+(Aucherè and Capeillère-Blandin 1999), reactions of
+phenolic compounds (Eastmond et al. 1986) and 1,2-ben-
+zenediol to highly reactive intermediates. The binding of
+1,2-benzenediol peroxidation products to N-7 guanine and
+N-3 adenine results in DNA depurination (Cavalieri et al.
+2002). Accordingly, benzene-induced oxidative DNA dam-
+age is enhanced in PMA-stimulated cells in vitro and in
+LPS-treated animals (Tuo et al. 1999). Altogether evidence
+points towards peroxidase mediated benzene toxicity.
+Physiologically MPO is released during host defence
+and inXammatory reactions, parallel to the generation of
+H2O2. The enzyme was proposed to be involved in the gen-
+eration of tissue damage caused by chronic inXammation
+(Winterbourn 2002). Reactions accompanying MPO activa-
+tion were suggested to take part in the toxiWcation of oxy-
+gen reactive substances (Winterbourn 2002; Trush 1984;
+Eastmond and Smith 1990) or to act as co-factor in chemi-
+cal carcinogenesis (Coussens and Werb 2002). Activation
+of p-BQ via PMA-induced reactions which is shown in our
+experiments, may provide an experimental approach to test
+this hypothesis in vitro. Furthermore our results will enable
+the comparative investigation of other benzene metabolites
+such as HQ or catechol.
+In conclusion, p-BQ can be activated to genotoxic inter-
+mediates when administered jointly with PMA. Our results
+conWrm the hypothesis that MPO is a key enzyme in the
+activation of benzene.
+References
+Aucherè F, Capeillère-Blandin C (1999) NADPH as a co-substrate for
+studies of the chlorinating activity of myeloperoxidase. Biochem
+J 343:603–613
+Bainton DF, Ullyotm JL, Farquhar MG (1971) The development of
+neutrophilic polymorphonuclear leukocytes in human bone mar-
+row. J Exp Med 134:907–934
+Bechtold WE, Willis JK, Sun JD, GriYth WC, Reddy TV (1992)
+Biological markers of exposure to benzene: S-phenylcysteine in
+albumin. Carcinogenesis 13:1217–1220
+Cavalieri EL, Li KM, Balu N, Saeed M, Devanesan P, Higginbotham
+S, Zhao J, Gross ML, Rogan EG (2002) Catechol ortho-quinones:
+the electrophilic compounds that form depurinating DNA adducts
+and could initiate cancer and other diseases. Carcinogenesis
+23:1071–1077
+Corvi R, Albertini S, Hartung T, HoVmann S, Maurici D, Pfuhler S, van
+Benthem J, Vanparys P (2008) ECVAM retrospective validation
+of in vitro micronucleus test (MNT). Mutagenesis 23:271–283
+Coussens LM, Werb Z (2002) InXammation and cancer. Nature
+420:860–867
+Creek MR, Mani C, Vogel JS, Turteltaub KW (1997) Tissue distribu-
+tion and macromolecular binding of extreme low doses of [14
+C]-
+Benzene in B6C3F1 mice. Carcinogenesis 18:2421–2427
+Crosignani P, Tittarelli A, Borgini A, Codazzi T, Rovelli A, Porro E,
+Contiero P, Bianchi N, Tagliabue G, Fissi R, Rossitto F, Berrino
+F (2004) Childhood leukemia and road traYc: a population-based
+case–control study. Int J Cancer 108:596–599
+Dzarlieva-Petrusevska RT, Füsenig NE (1985) Tumor promoter 12-O-
+tetradecanoylphorbol-13-acetate (TPA)-induced chromosome
+aberrations in mouse keratinocyte cell lines: a possible genetic
+mechanism of tumor promotion. Carcinogenesis 6:1447–1456
+Eastmond DA, Tucker JD (1989) IdentiWcation of aneuploidy-induc-
+ing agents using cytokinesis-blocked human lymphocytes and an
+antikinetochore antibody. Environ Mol Mutagen 13:34–43
+Eastmond DA, Smith MT (1990) Xenobiotic activation by stimulated
+human polymorphonuclear leukocytes and myeloperoxidase.
+Methods Enzymol 186:579–585
+Eastmond DA, Smith MT, Ruzo LO, Ross D (1986) Metabolic activa-
+tion of phenol by human myeloperoxidase and horseradish perox-
+idase. Mol Pharmacol 30:674–679
+Environmental Protection Agency USA (1998) Carcinogenic
+eVects of benzene: an update. EPA document 600/P-97/001.
+National Center for Environmental Assessment, Washington
+OYce, OYce of Research and Development, US Environmental
+Protection Agency
+Fenech M (1993) The cytokinesis-block micronucleus technique: a de-
+tailed description of the method and its application to genotoxi-
+city studies in human populations. Mutat Res 285:35–44
+Forni A (1971) Chromosome studies in workers exposed to benzene or
+toluene or both. Arch Environ Health 22:373–378
+Hayes RB, Yin SN, Dosemeci M, Li GL, Wacholder S, Travis LB, Li
+CY, Rothman N, Hoover RN, Linet MS (1997) Benzene and the
+dose-related incidence of hematologic neoplasms in China. J Natl
+Cancer Inst 89:1065–1071
+Kirkland D, Pfuhler S, Tweats D, Aardema M, Corvi R, Darroudi F,
+Elhajouji A, Glatt H, Hastwell P, Hayashi M, Kasper P, Kirchner
+S, Lynch A, Marzin D, Maurici D, Meunier JR, Muller L,
+Nohynek G, Parry J, Parry E, Thybaud V, Tice R, van Benthem J,
+Vanparys P, White P (2007) How to reduce false positive results
+when undertaking in vitro genotoxicity testing and thus avoid
+unnecessary follow-up animal tests: report of an ECVAM Work-
+shop. Mutat Res 628:31–55
+Krewet E, Verkoyen C, Müller G, Schell C, Popp W, Norpoth K (1993)
+Studies on guanine adducts excreted in rat urine after benzene
+exposure. Carcinogenesis 14:245–250
+Lamm SH, Engel A, Byrd DM (2005) Non-Hodgkin lymphoma and
+benzene exposure: a systematic literature review. Chem Biol
+Interact 153–154:231–237
+Lan Q, Zhang L, Li G, Vermeulen R, Weinberg RS, Dosemeci M,
+Rappaport SM, Shen M, Alter BP, Wu Y, Kopp W, Waidyanatha
+S, Rabkin C, Guo W, Chanock S, Hayes RB, Linet M, Kim S, Yin
+S, Rothman N, Smith MT (2004) Hematotoxicity in workers ex-
+posed to low levels of benzene. Science 306:1774–1776
+Lévay G, Bodell WJ (1992) Potentiation of DNA adduct formation in
+HL-60 cells by combinations of benzene metabolites. Proc Natl
+Acad Sci USA 89:7105–7109
+Ludewig G, Dogra S, Glatt H (1989) Genotoxicity of 1, 4-benzoqui-
+none and 1, 4-naphthoquinone in relation to eVects on glutathione
+and NAD(P)H levels in V79 cells. Environ Health Perspect
+82:223–228
+Maltoni C, Conti B, Cotti G, Belpoggi F (1985) Experimental studies
+on benzene carcinogenicity at the Bologna Institute of Oncology:
+current results and ongoing research. Am J Ind Med 7:415–446
+McDonald TA, Yeowell-O’Connell K, Rappaport SM (1994) Compar-
+ison of protein adducts of benzene oxide with benzoquinone in the
+blood and bone marrow of rats and mice exposed to [14
+C/
+13
+C6]benzene. Cancer Res 54:4907–4914
+Mehlman MA (2004) Benzene: a haematopoietic and multi-organ
+carcinogen at any level above zero. Eur J Oncol 9:15–36
+Arch Toxicol (2009) 83:721–729 729
+123
+Miller B, Pötter-Locher F, Seelbach A, Stopper H, Utesch D, Madle S
+(1998) Evaluation of the in vitro micronucleus test as an alterna-
+tive to the in vitro chromosomal aberration assay: position of the
+GUM Working Group on the in vitro micronucleus test. Gesell-
+schaft für Umwelt-Mutations-forschung. Mutat Res 410:81–116
+National Toxicology Program (1986) Toxicology and Carcinogenesis
+Studies of Benzene (CAS No. 71-43-2) in F344/N Rats and
+B6C3F1 Mice (Gavage Studies), NTP Technical Report 289, NIH
+Publ. No. 86-2545, Research Triangle Park, NC
+Petrusevska RT, Fürstenberger G, Marks F, Füsenig NE (1988)
+Cytogenetic eVects caused by phorbol ester tumor promoters in
+primary mouse keratinocyte cultures: correlation with the conver-
+togenic activity of TPA in multistage skin carcinogenesis. Carci-
+nogenesis 9:1207–1215
+Picciano D (1979) Cytogenetic study of workers exposed to benzene.
+Environ Res 19:33–38
+Popp W, Vahrenholz C, Yaman S, Müller C, Schmieding W, Norpoth
+K, Fahnert R (1992) Investigations of the frequency of DNA
+strand breakage and cross-linking and of sister chromatid ex-
+change frequency in the lymphocytes of female workers exposed
+to benzene and toluene. Carcinogenesis 13:57–61
+Rothman N, Haas R, Hayes RB, Li GL, Wiemels J, Campleman S,
+Quintana PJ, Xi LJ, Dosemeci M, Titenko-Holland N, Meyer KB,
+Lu W, Zhang LP, Bechtold W, Wang YZ, Kolachana P, Yin SN,
+Blot W, Smith MT (1995) Benzene induces gene-duplicating but
+not gene-inactivating mutations at the glycophorin A locus in ex-
+posed humans. Proc Natl Acad Sci USA 92:4069–4073
+Rothman N, Li GL, Dosemeci M, Bechtold WE, Marti GE, Wang YZ,
+Linet M, Xi LJ, Lu W, Smith MT, Titenko-Holland N, Zhang LP,
+Blot W, Yin SN, Hayes RB (1996) Hematotoxicity among
+Chinese workers heavily exposed to benzene. Am J Ind Med
+29:236–246
+Ruiz-Ramos R, Cebrian ME, Garrido E (2005) Benzoquinone activates
+the ERK/MAPK signaling pathway via ROS production in HL-60
+cells. Toxicology 209:279–287
+Seidler A, Möhner M, Berger J, Mester B, Deeg E, Elsner G, Nieters
+A, Becker N (2007) Solvent exposure and malignant lymphoma:
+a population-based case–control study in Germany. J Occup Med
+Toxicol 2:2
+Smith MT, Zhang L, Wang Y, Hayes RB, Li G, Wiemels J, Dosemeci
+M, Titenko-Holland N, Xi L, Kolachana P, Yin S, Rothman N
+(1998) Increased translocations and aneusomy in chromosomes 8
+and 21 among workers exposed to benzene. Cancer Res 58:2176–
+2181
+Smith MT, Jones RM, Smith AH (2007) Benzene exposure and risk of
+non-Hodgkin lymphoma. Cancer Epidemiol Biomarkers Prev
+16:385–391
+Snyder R (2007) Benzene’s toxicity: a consolidated short review of
+human and animal studies by HA Khan. Hum Exp Toxicol
+26:687–696. Comment on: Khan et al. (2007) Hum Exp Toxicol
+26:677–685
+SteVen C, Auclerc MF, Auvrignon A, Baruchel A, Kebaili K,
+Lambiliotte A, Leverger G, Sommelet D, Vilmer E, Hémon D,
+Clavel J (2004) Acute childhood leukemia and environmental
+exposure to potential sources of benzene and other hydrocarbons;
+a case–control study. Occup Environ Med 61:773–778
+Subrahmanyam VV, Ross D, Eastmond DA, Smith MT (1991) Poten-
+tial role of free radicals in benzene-induced myelotoxicity and
+leukemia. Free Radic Biol Med 11:495–515
+Tompa A, Major J, Jakab MG (1994) Monitoring of benzene-exposed
+workers for genotoxic eVects of benzene: improved-working-con-
+dition-related decrease in the frequencies of chromosomal aberra-
+tions in peripheral blood lymphocytes. Mutat Res 304:159–165
+Tough IM, Smith PG, Court Brown WM, Hamden DG (1970) Chro-
+mosome studies on workers exposed to atmospheric benzene. The
+possible inXuence of age. Eur J Cancer 6:49–55
+Trush MA (1984) Activation of bleomycin A2 to a DNA-damaging
+intermediate by phorbolester-stimulated human polymorphonu-
+clear leukocytes. Toxicol Lett 20:297–302
+Tuo J, Loft S, Poulsen HE (1999) Enhanced benzene-induced DNA
+damage in PMA-stimulated cells in vitro and in LPS-treated ani-
+mals. Free Radic Biol Med 26:801–808
+Tweats DJ, Blakey D, HeXich RH, Jacobs A, Jacobsen SD, Morita T,
+Nohmi T, O’Donovan MR, Sasaki YF, Sofuni T, Tice R (2007)
+IWGT Working Group. Report of the IWGT working group on
+strategy/interpretation for regulatory in vivo tests II. IdentiWcation
+of in vivo-only positive compounds in the bone marrow micronu-
+cleus test. Mutat Res 627:92–105
+Walrand S, Valeix S, Rodriguez C, Ligot P, Chassagne J, Vasson MP
+(2003) Flow cytometry study of polymorphonuclear neutrophil
+oxidative burst: a comparison of three Xuorescent probes. Clin
+Chim Acta 331:103–110
+Winterbourn CC (2002) Biological reactivity and biomarkers of the
+neutrophil oxidant, hypochlorous acid. Toxicology 181–
+182:223–227
+Yager JW, Eastmond DA, Robertson ML, Paradisin WM, Smith MT
+(1990) Characterization of micronuclei induced in human lym-
+phocytes by benzene metabolites. Cancer Res 50:393–399
+Zarani F, PapazaWri P, Kappas A (1999) Induction of micronuclei in
+human lymphocytes by organic solvents in vitro. J Environ Pathol
+Toxicol Oncol 18:21–28
+Zhang L, Wang Y, Shang N, Smith MT (1998) Benzene metabolites
+induce the loss and long arm deletion of chromosomes 5 and 7 in
+human lymphocytes. Leuk Res 22:105–113
+Zhang L, Yang W, Hubbard AE, Smith MT (2005) Nonrandom aneu-
+ploidy of chromosomes 1, 5, 6, 7, 8, 9, 11, 12, and 21 induced by
+the benzene metabolites hydroquinone and benzenetriol. Environ
+Mol Mutagen 45:388–396
+

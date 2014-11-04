@@ -1,0 +1,749 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Δ
+INTRODUCTION
+Age is the major risk factor in the development of many
+chronic medical conditions including cancer [1, 2]. To
+enhance the well-being of an increasingly aged
+population, and to identify new avenues for therapeutic
+intervention, it is crucial that we understand the
+molecular basis underlying aging and age-related
+diseases. Aging can be defined as the “progressive
+deterioration of virtually every bodily function over
+time” [3] ultimately resulting in death. At the cellular
+level, aging is associated with an increase in DNA
+lesions, together, with defects in DNA repair
+mechanisms. Of particular relevance is DNA damage
+associated with critically shortened telomeres.
+Telomeres, which cap the ends of chromosomes, consist
+of hexameric TTAGGG repeats and the protective
+“shelterin” protein complex [4]. Due to the “end
+replication problem”, telomeres shorten during each
+replication cycle and critically shortened telomeres
+elicit a persistent DNA damage response that triggers an
+irreversible growth arrest (senescence). Shortened
+Research Perspective
+telomeres limit the regenerative capacity of tissues and
+are associated with increased age and a variety of
+medical conditions including Dykeratosis Congenita,
+aplastic anemia, and pulmonary fibrosis [5, 6]. In germ
+cells, stem cells and ~85% of cancers, telomere length is
+maintained by telomerase, a ribonucleoprotein
+consisting of a reverse transcriptase (TERT) and its
+RNA moiety (TERC); expression of telomerase renders
+cells immortal.
+Two segmental premature aging diseases that clinically
+appear to present as accelerated aging in some tissues,
+are Werner syndrome and Hutchinson-Gilford Progeria
+(HGPS). In both diseases recent evidence indicates that
+mutations in the genes responsible for these premature
+aging diseases result in increased DNA damage,
+particularly at telomeres. Although shortening and/or
+damage to telomeres is associated with proliferative
+arrest of cells in vitro, it remains unclear how accurately
+these diseases recapitulate the processes of tissue aging
+in humans. Here we discuss recent advances, using in
+vitro cell culture and mouse models of progeroid
+Accelerated aging syndromes, are they relevant to normal human 
+aging? 
+Oliver Dreesen and Colin L. Stewart    
+ 
+Institute of Medical Biology, 8A Biomedical Grove, #06‐06 Immunos, 138648 Singapore 
+ 
+Key words: Aging, Hutchinson‐Gilford Progeria, Werner syndrome, DNA damage, telomeres, Wnt signaling, Lef1 
+Received: 6/22/11; Accepted: 9/14/11; Published: 9/14/11 
+Correspondence to: Colin L. Stewart, PhD;     E‐mail:  colin.stewart@imb.a‐star.edu.sg 
+ 
+Copyright: © Dreesen and Stewart. This is an open‐access article distributed under the terms of the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited 
+Abstract: Hutchinson‐Gilford Progeria (HGPS) and Werner syndromes are diseases that clinically resemble some aspects of
+accelerated aging. HGPS is caused by mutations in the LMNA gene resulting in post‐translational processing defects that
+trigger Progeria in children. Werner syndrome, arising from mutations in the WRN helicase gene, causes premature aging in
+young adults. What are the molecular mechanism(s) underlying these disorders and what aspects of the diseases resemble
+physiological  human  aging?  Much  of  what  we  know  stems  from  the  study  of  patient  derived  fibroblasts  with  both
+mutations resulting in increased DNA damage, primarily at telomeres. However, in vivo patients with Werner’s develop
+arteriosclerosis, among other pathologies. In HGPS patients, including iPS derived cells from HGPS patients, as well as some
+mouse  models  for  Progeria,  vascular  smooth  muscle  (VSM)  appears  to  be  among  the  most  severely  affected  tissues.
+Defective Lamin processing, associated with DNA damage, is present in VSM from old individuals, indicating processing
+defects may be a factor in normal aging. Whether persistent DNA damage, particularly at telomeres, is the root cause for
+these pathologies remains to be established, since not all progeroid Lmna mutations result in DNA damage and genome
+instability.   
+  www.impactaging.com AGING, September 2011, Vol 3 No 9
+ 
+ 
+www.impactaging.com                   889                                    AGING,  September 2011, Vol.3 No.9
+syndromes to highlight important questions that remain:
+A) what is the molecular mechanism of how such
+seemingly unrelated proteins cause similar degenerative
+diseases? B) are these mechanisms representative of
+normal aging?
+Werner Syndrome and Hutchinson-Gilford Progeria
+Werner syndrome is caused by mutations in the Werner
+RecQ helicase, a DNA helicase/exonuclease [7]
+whereas HGPS is caused by mutations in Lamin A
+(LMNA) [8, 9]. The Wrn RecQ helicase is involved in
+repair of double strand DNA breaks and in faithful
+replication of lagging-strand telomeres. In its mutated
+form, WRN causes sporadic loss of telomeres generated
+by lagging strand synthesis, increased DNA damage
+(presumably caused by critically shortened telomere(s)),
+premature senescence and genomic instability [10, 11].
+These phenotypes are suppressed in the presence of
+telomerase [10, 12, 13]. In Werner syndrome, telomere
+dysfunction is causal to the accumulation of DNA
+damage foci and results in premature senescence in
+vitro. These defects may, therefore, underlie the in vivo
+disease etiology.
+The A-type lamins are nuclear intermediate filament
+proteins that form the nuclear lamina. The lamina
+underlies the inner nuclear membrane (INM) and is
+important in maintaining interphase nuclear shape,
+mechanical integrity and also functions as a scaffold for
+other nuclear proteins, some of which regulate DNA
+replication and transcription. The most intriguing aspect
+of the lamins, particularly LaminA, is that some dozen or
+so diseases, the laminopathies, are caused by different
+mutations in the Lmna gene. These diseases affect tissues
+primarily of mesenchymal origin, resulting in defective
+muscle and cardiac function, fat deposition, skeletal
+homeostasis and vascular integrity [14].
+A critical feature of LaminA is that the protein
+undergoes significant post-translational processing. The
+processing involves farnesylation of the C-terminal
+cysteine, which is thought to promote the association of
+the LaminA protein with the INM. The farnesylated
+LaminA protein then undergoes two proteolytic
+cleavage steps, by the endoprotease ZMPSTE24,
+culminating in the removal of the farnesyl group and the
+18 C-terminal amino acids. In HGPS, the most common
+cause is a point mutation in the LMNA gene, which
+creates a novel splice site, removing 50 amino acids
+from the C-terminal globular domain. The deletion
+includes the ZMPSTE24 endoproteolytic site, resulting
+in the synthesis of a truncated, farnesylated form of
+LaminA, called Progerin [8, 9]. To what extent the
+deletion and/or the persistent farnesylation is the
+molecular basis to HGPS is unclear, as a mouse model
+of HGPS expressing the truncated, but non-farnesylated
+variant of Progerin still develop progeroid symptoms
+[15] and non farnesylated Progerin in human cells
+elicits the same DNA damage responses as farnesylated
+Progerin [16]. In addition, other patients, diagnosed
+with Progeria or, intriguingly with atypical Werner’s
+syndrome, have mis-sense mutations elsewhere in the
+Lmna gene and it seems unlikely that these mutations
+affect endoproteolytic cleavage or farnesyl processing,
+although this needs to be confirmed [17]. Progerin
+results in abnormal nuclear morphologies, altered
+chromatin organization, delayed mitosis, lamina
+thickening, and growth arrest [18-20]. However
+increasing evidence suggests that at least one
+underlying cause is that Progerin damages telomeres.
+First, and in parallel with their limited proliferative
+capacity, progeric fibroblasts have significantly shorter
+telomeres than age-matched controls [21, 22]. Secondly,
+expressing Progerin in wild-type fibroblasts gradually
+inhibits their proliferation. Strikingly, proliferative
+inhibition is reversed by telomerase activation and to
+some extent by p53-deficiency [23], suggesting that
+Progerin directly or indirectly damages telomeres, thus
+activating p53, but the damage is reversed by
+telomerase. Thirdly, persistent activation of DNA
+damage checkpoints and increased numbers of DNA
+damage foci are present in HGPS-patient derived
+fibroblasts [16, 24, 25]. Increased DNA damage is a
+classic feature of cells undergoing senescence due to
+shortened or deprotected telomeres [26, 27]. The DNA
+damage foci co-localize with human TRF1, a
+component of the shelterin complex, and the DNA
+damage sensor H2A-X is also expressed and enriched at
+telomeric DNA [28]. In addition, live cell imaging and
+cytometric analysis indicate that telomeres in Progeria
+patient-derived cells are hypermobile [29], a
+characteristic of de-protected telomeres [30]. Lastly,
+many of these Progerin induced defects, are suppressed
+by expression of telomerase in fibroblasts [23, 28].
+Together, increased DNA damage, as well as the
+shortened telomeres in HGPS, are considered as
+characteristics of normal human aging. However a
+significant difference is that during normal aging,
+telomere dysfunction is mainly a consequence of the
+end replication problem, which may also be enhanced
+by DNA damaging agents such as oxidative stress [31].
+In HGPS, telomeres may be directly damaged by
+Progerin. However, the precise mechanism by which
+telomeres are damaged, and whether only a subset of
+telomeres, such as those located at the nuclear
+periphery, still needs to be established. How well do
+these in vitro cell culture results recapitulate the in vivo
+pathologies in patients and mouse models of Progeria?
+ 
+ 
+www.impactaging.com                   890                                    AGING,  September 2011, Vol.3 No.9
+Mouse models of HGPS and Werner syndrome
+The role of DNA damage resulting in accelerated aging
+has been recapitulated in a number of mouse models
+(reviewed by Schumacher et al. [32]). One example is
+the XPF-ERCC1-deficient mouse. XPF-ERCC1 is
+required for nucleotide excision repair, and repairs
+DNA lesions due to UV radiation. XPF-ERCC1-
+deficient mice exhibit slightly retarded embryonic and
+post-natal development, followed by growth arrest by
+~2 weeks, and death at ~4 weeks after birth.
+Phenotypically, these mice show aged-like phenotypes
+in skin, liver and bone marrow. XPF-ERCC1 cells
+prematurely senesce and are more sensitive to oxidative
+stress [33]. Two mouse models for Werner syndrome
+were generated by deletion of the Wrn gene, but neither
+recapitulated any accelerated aging phenotypes
+observed in humans or in cultured cells [34, 35]. This
+discrepancy was thought to be due to laboratory mice
+having extremely long telomeres and residual levels of
+telomerase in some somatic tissues [36, 37].
+Accordingly, the additional deletion of terc (the RNA
+component of telomerase) in Wrn mice resulted in
+shortened telomeres, with the appearance of the classic
+phenotypes of accelerated aging, i.e. grey hair,
+osteoporosis, alopecia and premature death [38].
+Embryonic fibroblasts (MEFs) from these mice
+exhibited genomic instability, increased levels of DNA
+damage and senesced prematurely, corroborating
+previous results [38]. Interestingly, in contrast to
+telomerase-deficient mice, in which the degenerative
+phenotypes manifest mainly in highly proliferative
+tissues (intestine, skin and blood), in Wrn-/-
+/Terc-/-
+mice,
+tissues of mesenchymal origin were mainly affected
+resulting in osteoporosis, cataracts and diabetes [38].
+Several HGPS-progeroid mouse models have been
+established to investigate how Lmna mutations,
+including defective processing of normal Lamin A, may
+accelerate aging [39-45]. The first Lmna mutant
+showing premature aging was generated by a splicing
+defect deleting exon 9, resulting in an in frame deletion
+of 40 amino acids in the C-terminal domain
+(LmnaL530P/L530P
+; also called ∆9Lmna) [39]. The
+mutation, like Progerin, results in a truncated variant of
+LaminA that remains farnesylated, although the ∆9
+protein is expressed at about 10% that of wild-type
+levels. At birth, homozygotes were indistinguishable
+from their wild-type littermates. However, post-nataly,
+they exhibit a rapid onset of severe growth retardation,
+loss of subcutaneous fat, poor heart development,
+skeletal abnormalities, decreased hair follicle density,
+culminating in death at 3-4 weeks. Postnatal ∆9Lmna
+fibroblasts (MAFs), established from several different
+tissues, show a highly restricted proliferative capability
+with early death. Although ∆9Lmna MAFs do exhibit
+abnormal nuclear morphologies, premature death of the
+cells was not associated with overt chromosomal
+defects such as aneuploidy or increased DNA damage.
+Loss of the MAFs proliferative capability was due to
+reduced synthesis of some 30 extracellular matrix
+proteins (ECM), since serial culture of the ∆9Lmna
+fibroblasts on ECM deposited by normal MAFs
+sustained their proliferation. Surprisingly, and in
+contrast to the MAFs, the growth properties of ∆9Lmna
+embryonic fibroblasts (MEFs) were practically
+indistinguishable from their wild type counterparts,
+despite having defective nuclear morphologies, and
+identical ∆9Lmna expression levels to MAFs [45].
+These findings revealed an unexpected difference
+between embryonic and post-natal fibroblasts in their
+susceptibility to ∆9Lmna, suggesting a possible
+explanation as to why progeric children are overtly
+normal at birth, since A-type lamins (and probably
+Progerin) are expressed during development [46-48].
+One significant molecular difference between MEFs
+and MAFs is that MAFs express higher levels of the
+Wnt regulated transcription factor Lef1, compared to
+MEFs. Similar differences in LEF1 levels were also
+noted in normal human fibroblasts with 12-16 week old
+fetal fibroblasts expressing reduced levels of LEF1
+compared to those from a 17-year old individual
+(unpublished observations). In the ∆9Lmna MAFs Lef1
+levels were markedly reduced, due to ∆9Lmna
+inhibition of canonical Wnt signaling. LEF1 levels
+were also significantly reduced in fibroblasts
+established from two HGPS children, indicating that
+different truncated, farnesylated LMNA mutant proteins
+inhibit LEF1 expression and function. Some of the
+ECM genes, whose expression was reduced by
+∆9Lmna, are transcriptionally regulated by Lef1
+indicating a direct link between the inhibition of ECM
+gene expression and ∆9Lmna. The finding that ECM
+expression was significantly reduced in the ∆9Lmna
+model was similar to microarray studies on HGPS
+fibroblasts and MSCs, where ECM gene expression was
+also profoundly altered [48-50].
+Loss of the endoprotease ZMPSTE24 results in the
+persistence of unprocessed, farnesylated, full length pre-
+laminA. Mice lacking ZMPSTE24 develop progeroid
+features which include skeletal abnormalities, alopecia
+and death by 6 months, [24, 41, 43]. In contrast to
+mice, the few humans identified with ZMPSTE24
+deficiency, develop restrictive dermopathy (RD) or tight
+skin, resulting in perinatal mortality [51]. Cells,
+including MEFs, from Zmpste24 null mice show
+increased cellular DNA damage, together with defective
+DNA damage responses, as well as defective Wnt
+ 
+ 
+www.impactaging.com                   891                                   AGING,  September 2011, Vol.3 No.9
+signaling in the hair follicles [52]. The accelerated
+aging phenotype of Zmpste24-/-
+mouse was partly
+alleviated when crossed into a p53-deficient background
+[40] and completely rescued when made heterozygous
+for Lmna expression revealing a dosage effect of pre-
+laminA on the pathology [40]. Analysis of fibroblasts
+from one patient with RD also revealed persistent
+activation of DNA damage checkpoints [16]. Why
+ZMPSTE24 loss in humans results in a more severe
+(peri-natal) pathology than in mice is unclear, although
+it is possible that mice may be more “resistant” to
+Zmpste24 deficiency because of their longer telomeres.
+These results reflect the in vitro results reported by
+Kudlow et al., and others [23, 28] in which inhibition of
+p53 signaling rescued the Progerin-induced DNA
+damage and impaired proliferation. However, it is still
+unclear whether Zmpste24-deficiency damages
+telomeres in a similar way to Progerin.
+In other progeroid mouse lines, Lmna was replaced with
+a variant allele that only expresses Progerin (LmnaHG/+
+).
+At birth these mice were overtly normal with the
+LmnaHG/+
+heterozygotes showing retarded postnatal
+growth, weight loss, diminished adipose tissue, skeletal
+defects and death by nine months [53]. The few
+homozygotes produced, showed severe growth
+retardation and all died by three weeks. In contrast to
+Zmpste24–/–
+mice, skeletal muscle function was
+unaffected and, as with the ∆9Lmna mice, no pathology
+was detected in the ascending aorta, although the state
+of the great vessels was not reported. It is noteworthy
+that all three mouse lines show similar pathologies in
+mesenchymal tissues, with the skeletal system, being
+predominantly affected.
+In addition to these three lines where the indigenous
+Lmna gene was modified, transgenic lines were derived
+in which Progerin was expressed as a transgene. In two
+of the transgenic lines Progerin was specifically
+expressed in the skin and resulted in abnormal nuclear
+morphologies and in one line, epidermal hyperplasia,
+hyperparakeratosis, hyperplasia of the sebaceous
+glands, culminating subcutaneous fat loss, dermal
+fibrosis and hypoplastic sebaceous glands and dental
+defects [54, 55]. In the third line, no overt effect was
+noted, however, by one year, loss of vascular smooth
+muscle was detected in the aorta [42].
+How do these findings explain that HGPS patients die
+in their early to mid teens from atherosclerosis and does
+this relate to normal aging? Post-mortem analyses of a
+few HGPS patients revealed extensive loss of vascular
+smooth muscle (VSM), particularly in the aorta and
+great vessels proximal to the heart and, in two others,
+extensive atherosclerosis [56, 57]. In two progeroid
+mouse models, extensive loss of VSM in both the aorta
+and great vessels proximal to the heart was present. In
+the ∆9Lmna mutant mice, a rapid onset of VSM loss,
+together with increased apoptosis in the great vessels
+proximal to the heart was apparent at 2 weeks of age.
+These mice also exhibited extensive reduction in many
+ECM genes expressed in the skeletal system together
+with reduced trabecularity and minerality in the
+calvarial and axial skeleton, features consistent with the
+skeletal pathology found in HGPS. In the transgenic
+model [42], the human Progerin transgene resulted in
+loss of VSM in the aorta, but only after one year.
+Similarly, Werner’s patients show accelerated
+atherosclerosis and death from myocardial infarction,
+despite normal circulating cholesterol levels. This
+suggests that cardiovascular defects are frequently
+associated with increased DNA damage and/or that the
+cardiovascular system is particularly sensitive or
+susceptible to DNA damage [58].
+The ∆9Lmna mutant phenocopies many of the tissue,
+cellular and molecular pathologies characteristic of
+Progeria, yet, a number of interesting discrepancies
+exist. How does the ∆9Lmna mutation lead to
+decreased Wnt-signaling, and does this, in turn,
+exclusively reduce ECM synthesis? Progerin inhibits
+Wnt signaling to a lesser extent than the ∆9Lmna
+mutant, although progeric fibroblasts show reduced
+levels of Lef1 and treatment with a GSK-3 inhibitor
+improves their proliferation [45]. Moreover, what is the
+role of DNA damage in the ∆9Lmna mice since there
+was no evidence of increased genomic instability or an
+increase in H2A-X foci? If so, how, and to what extent
+could wild type ECM restore this phenotype? Are the
+farnesylated, truncated variants of LaminA, defective in
+Wnt signaling, telomere damage and disrupted ECM
+expression somehow interlinked? Some (or all?) of
+these parameters are clearly affected during normal
+ageing, but why are they especially critical to the
+vascular system? One common link maybe through the
+Forkhead box O (FoxO) transcription factor network.
+Oxidative stress activates these factors, which in turn
+inhibit Wnt mediated transcription by competing for β-
+catenin. Inhibition of FOXO mediated transcription
+factor activity improves VSM viability and promotes
+osteoblast differentiation [59].
+Differences in telomere length and maintenance between
+mice and humans are an important consideration when
+generating mouse models for Werner syndrome and
+Ataxia telangectasia; in both cases Wrn-/- and Atm-/-
+deficient mice exhibited progeriod features only after
+they were crossed into a telomerase-deficient background
+[38, 60]. However the role of DNA damage in the
+molecular pathology of HGPS remains open. Mouse
+ 
+ 
+www.impactaging.com                   892                                   AGING,  September 2011, Vol.3 No.9
+models that seemingly do not show DNA damage still
+develop a progeroid phenotype. Furthermore, other
+progeroid/atypical Werner’s cases, caused by LMNA
+mutations, have not been investigated as to whether these
+mutations result in DNA damage.
+HGPS is complex, although some understanding of the
+molecular pathology has been gained by the study of
+patient-derived fibroblasts, ectopically expressed
+proteins in normal human fibroblasts and mouse
+models. Nevertheless, we still lack a clear picture how
+(and if) Progerin, Wnt signaling, the ECM, DNA
+damage and telomeres are interconnected. Two recently
+generated in vitro disease models for Progeria using
+induced pluripotent stem cells (iPSC) provide further
+insights [48, 61]. iPSC do not express Lamin A (or
+Progerin), are overtly normal, and can differentiate into
+relevant tissues that are particularly affected in Progeria
+patients (i.e. mesenchymal lineages, vascular smooth
+muscle etc), and which cannot be derived from patients.
+From such “disease in a dish” studies it was apparent
+that VSM and mesenchymal stem cells were especially
+sensitive to Progerin, possibly because they expressed
+the highest levels of Progerin-LaminA, relative to other
+cell types, such as endothelial and neuronal lineages. It
+was noted that the HGPS-MSCs showed elevated levels
+of DNA damage and were far less efficient than normal
+MSCs at rescuing vascular circulation following
+ischemia [46]. In addition, comparison of gene
+expression profiles between MSCs derived from normal
+individuals and HGPS-MSCs, it was striking that Gene
+Ontology analysis revealed both Extracellular Matrix
+and Wnt signaling to be the most significant differences
+between the HGPS- and normal MSCs [48].
+However the recurring question is do progeric diseases
+tell us something about the normal ageing process? In a
+recent study, VSM isolated from arteries from a limited
+number of 70-80 year old individuals, expressed
+elevated levels of pre-laminA, the farnesylated
+precursor of mature LaminA, whereas in the arteries
+from teenagers no pre-lamin A was detected [62]. This
+increase of pre-laminA was due to decreased levels of
+ZMPSTE24 in the VSM, possibly as a consequence of
+ZMPSTE24 expression being sensitive to oxidative
+stress. VSM cells appear to be particularly vulnerable to
+the anti-proliferative effects of pre-laminA, as
+suggested by VSM derived from HGPS iPS cells [48].
+Why VSM should be seemingly sensitive to Progerin is
+unclear, but it maybe relevant that in skin biopsies from
+HGPS patients, VSM expressed the highest levels of
+Progerin [18, 48]. Several studies have also suggested
+that low levels of Progerin protein may be detected in
+tissues from aged individuals [62, 63]. It is conceivable
+that part of the normal aging process, is a decline in
+vascular integrity due to defective LaminA processing.
+Defective processing may arise either due to a decrease
+in ZMPSTE24 activity and/or defective splicing
+resulting in low but significant levels of Progerin being
+produced [63]. In addition, it remains to be established
+to what extent the other tissue pathologies in HGPS,
+arise either through autonomous cell expression of
+Progerin or are a consequence of the vascular defects.
+These issues and whether defective LaminA processing
+enhances telomeric DNA damage, inhibits Wnt
+signaling and ECM regulation, all of which may
+contribute to the normal process of aging, are all
+testable propositions.
+ACKNOWLEDGMENTS
+We thank the Singapore Biomedical Research Council
+and the Singapore Agency for Science, Technology and
+Research (A*STAR) for supporting us in this work.
+CONFLICT OF INTERESTS STATEMENT
+The authors of this manuscript have no conflict of
+interest to declare.
+REFERENCES
+1.  Wright  WE,  Shay  JW.  Historical  claims  and  current 
+interpretations  of  replicative  aging.  Nat  Biotechnol.  2002;  20: 
+682‐688. 
+2. Sahin E, Depinho RA. Linking functional decline of telomeres, 
+mitochondria and stem cells during ageing. Nature. 2010; 464: 
+520‐528. 
+3. Austad SN. Comparative aging and life histories in mammals. 
+Exp Gerontol. 1997; 32: 23‐38. 
+4. de Lange T. How telomeres solve the end‐protection problem. 
+Science. 2009; 326: 948‐952. 
+5.  Armanios  M.  Syndromes  of  telomere  shortening.  Annu  Rev 
+Genomics Hum Genet. 2009; 10: 45‐61. 
+6. Calado RT, Young NS. Telomere diseases. N Engl J Med. 2009; 
+361: 2353‐2365. 
+7.  Yu  CE,  Oshima  J,  Fu  YH,  Wijsman  EM,  Hisama  F,  Alisch  R, 
+Matthews S, Nakura J, Miki T, Ouais S, Martin GM, Mulligan J, 
+and  Schellenberg  GD.  Positional  cloning  of  the  Werner's 
+syndrome gene. Science. 1996; 272: 258‐262. 
+8. De Sandre‐Giovannoli A, Bernard R, Cau P, Navarro C, Amiel J, 
+Boccaccio I, Lyonnet S, Stewart CL, Munnich A, Le Merrer M, and 
+Levy  N.  Lamin  a  truncation  in  Hutchinson‐Gilford  progeria. 
+Science. 2003; 300: 2055. 
+9. Eriksson M, Brown WT, Gordon LB, Glynn MW, Singer J, Scott 
+L, Erdos MR, Robbins CM, Moses TY, Berglund P, Dutra A, Pak E, 
+Durkin  S,  Csoka  AB,  Boehnke  M,  Glover  TW,  and  Collins  FS. 
+Recurrent de novo point mutations in lamin A cause Hutchinson‐
+Gilford progeria syndrome. Nature. 2003; 423: 293‐298. 
+10. Crabbe L, Verdun RE, Haggblom CI, and Karlseder J. Defective 
+telomere lagging strand synthesis in cells lacking WRN helicase 
+activity. Science. 2004; 306: 1951‐1953. 
+ 
+ 
+www.impactaging.com                   893                                   AGING, September 2011, Vol.3 No.9
+11.  Opresko  PL,  Cheng  WH,  and  Bohr  VA.  Junction  of  RecQ 
+helicase  biochemistry  and  human  disease.  J  Biol  Chem.  2004; 
+279: 18099‐18102. 
+12.  Crabbe  L,  Jauch  A,  Naeger  CM,  Holtgreve‐Grez  H,  and 
+Karlseder  J.  Telomere  dysfunction  as  a  cause  of  genomic 
+instability in Werner syndrome. Proc Natl Acad Sci U S A. 2007; 
+104: 2205‐2210. 
+13.  Wyllie  FS,  Jones  CJ,  Skinner  JW,  Haughton  MF,  Wallis  C, 
+Wynford‐Thomas  D,  Faragher  RG,  and  Kipling  D.  Telomerase 
+prevents  the  accelerated  cell  ageing  of  Werner  syndrome 
+fibroblasts. Nat Genet. 2000; 24: 16‐17. 
+14.  Burke  B,  Stewart  CL.  The  laminopathies:  the  functional 
+architecture of the nucleus and its contribution to disease. Annu 
+Rev Genomics Hum Genet. 2006; 7: 369‐405. 
+15. Yang SH, Andres DA, Spielmann HP, Young SG, and Fong LG. 
+Progerin elicits disease phenotypes of progeria in mice whether 
+or not it is farnesylated. J Clin Invest. 2008; 118: 3291‐3300. 
+16.  Liu  Y,  Rusinol  A,  Sinensky  M,  Wang  Y,  and  Zou  Y.  DNA 
+damage responses in progeroid syndromes arise from defective 
+maturation of prelamin A. J Cell Sci. 2006; 119: 4644‐4649. 
+17. Csoka AB, Cao H, Sammak PJ, Constantinescu D, Schatten GP, 
+and  Hegele  RA.  Novel  lamin  A/C  gene  (LMNA)  mutations  in 
+atypical progeroid syndromes. J Med Genet. 2004; 41: 304‐308. 
+18. McClintock D, Gordon LB, and Djabali K. Hutchinson‐Gilford 
+progeria mutant lamin A primarily targets human vascular cells 
+as detected by an anti‐Lamin A G608G antibody. Proc Natl Acad 
+Sci U S A. 2006; 103: 2154‐2159. 
+19. Scaffidi P, Misteli T. Reversal of the cellular phenotype in the 
+premature aging disease Hutchinson‐Gilford progeria syndrome. 
+Nat Med. 2005; 11: 440‐445. 
+20.  Dechat  T,  Shimi  T,  Adam  SA,  Rusinol  AE,  Andres  DA, 
+Spielmann  HP,  Sinensky  MS,  and  Goldman  RD.  Alterations  in 
+mitosis and cell cycle progression caused by a mutant lamin A 
+known  to  accelerate  human  aging.  Proc  Natl  Acad  Sci  U  S  A. 
+2007; 104: 4955‐4960. 
+21. Allsopp RC, Vaziri H, Patterson C, Goldstein S, Younglai EV, 
+Futcher  AB,  Greider  CW,  and  Harley  CB.  Telomere  length 
+predicts  replicative  capacity  of  human  fibroblasts.  Proc  Natl 
+Acad Sci U S A. 1992; 89: 10114‐10118. 
+22. Decker ML, Chavez E, Vulto I, and Lansdorp PM. Telomere 
+length  in  Hutchinson‐Gilford  progeria  syndrome.  Mech  Ageing 
+Dev. 2009; 130: 377‐383. 
+23.  Kudlow  BA,  Stanfel  MN,  Burtner  CR,  Johnston  ED,  and 
+Kennedy BK. Suppression of proliferative defects associated with 
+processing‐defective lamin A mutants by hTERT or inactivation 
+of p53. Mol Biol Cell. 2008; 19: 5238‐5248. 
+24. Liu B, Wang J, Chan KM, Tjia WM, Deng W, Guan X, Huang 
+JD,  Li  KM,  Chau  PY,  Chen  DJ,  Pei  D,  Pendas  AM,  Cadinanos  J, 
+Lopez‐Otin  C,  Tse  HF,  Hutchison  C,  Chen  J,  Cao  Y,  Cheah  KS, 
+Tryggvason K, and Zhou Z. Genomic instability in laminopathy‐
+based premature aging. Nat Med. 2005; 11: 780‐785. 
+25.  Musich  PR,  Zou  Y.  Genomic  instability  and  DNA  damage 
+responses  in  progeria  arising  from  defective  maturation  of 
+prelamin A. Aging (Albany NY). 2009; 1: 28‐37. 
+26. d'Adda di Fagagna F, Reaper PM, Clay‐Farrace L, Fiegler H, 
+Carr P, Von Zglinicki T, Saretzki G, Carter NP, and Jackson SP. A 
+DNA  damage  checkpoint  response  in  telomere‐initiated 
+senescence. Nature. 2003; 426: 194‐198. 
+27. Takai H, Smogorzewska A, and de Lange T. DNA damage foci 
+at dysfunctional telomeres. Curr Biol. 2003; 13: 1549‐1556. 
+28.  Benson  EK,  Lee  SW,  and  Aaronson  SA.  Role  of  progerin‐
+induced  telomere  dysfunction  in  HGPS  premature  cellular 
+senescence. J Cell Sci. 2010; 123: 2605‐2612. 
+29. De Vos WH, Houben F, Hoebe RA, Hennekam R, van Engelen 
+B, Manders EM, Ramaekers FC, Broers JL, and Van Oostveldt P. 
+Increased plasticity of the nuclear envelope and hypermobility of 
+telomeres  due  to  the  loss  of  A‐type  lamins.  Biochim  Biophys 
+Acta. 2010; 1800: 448‐458. 
+30.  Dimitrova  N,  Chen  YC,  Spector  DL,  and  de  Lange  T.  53BP1 
+promotes  non‐homologous  end  joining  of  telomeres  by 
+increasing chromatin mobility. Nature. 2008; 456: 524‐528. 
+31. Wang C, Jurk D, Maddick M, Nelson G, Martin‐Ruiz C, and 
+von Zglinicki T. DNA damage response and cellular senescence in 
+tissues of aging mice. Aging Cell. 2009; 8: 311‐323. 
+32.  Schumacher  B,  Garinis  GA,  and  Hoeijmakers  JH.  Age  to 
+survive: DNA damage and aging. Trends Genet. 2008; 24: 77‐
+85. 
+33. Niedernhofer LJ, Garinis GA, Raams A, Lalai AS, Robinson AR, 
+Appeldoorn E, Odijk H, Oostendorp R, Ahmad A, van Leeuwen 
+W, Theil AF, Vermeulen W, van der Horst GT, Meinecke P, Kleijer 
+WJ,  Vijg  J,  Jaspers  NG,  and  Hoeijmakers  JH.  A  new  progeroid 
+syndrome  reveals  that  genotoxic  stress  suppresses  the 
+somatotroph axis. Nature. 2006; 444: 1038‐1043. 
+34.  Lebel  M,  Leder  P.  A  deletion  within  the  murine  Werner 
+syndrome  helicase  induces  sensitivity  to  inhibitors  of 
+topoisomerase  and  loss  of  cellular  proliferative  capacity.  Proc 
+Natl Acad Sci U S A. 1998; 95: 13097‐13102. 
+35. Lombard DB, Beard C, Johnson B, Marciniak RA, Dausman J, 
+Bronson R, Buhlmann JE, Lipman R, Curry R, Sharpe A, Jaenisch 
+R,  and  Guarente  L.  Mutations  in  the  WRN  gene  in  mice 
+accelerate  mortality  in  a  p53‐null  background.  Mol  Cell  Biol. 
+2000; 20: 3286‐3291. 
+36. Hemann MT, Greider CW. Wild‐derived inbred mouse strains 
+have short telomeres. Nucleic Acids Res. 2000; 28: 4474‐4478. 
+37. Prowse KR,  Greider CW. Developmental and tissue‐specific 
+regulation of mouse telomerase and telomere length. Proc Natl 
+Acad Sci U S A. 1995; 92: 4818‐4822. 
+38.  Chang  S,  Multani  AS,  Cabrera  NG,  Naylor  ML,  Laud  P, 
+Lombard D, Pathak S, Guarente L, and DePinho RA. Essential role 
+of limiting telomeres in the pathogenesis of Werner syndrome. 
+Nat Genet. 2004; 36: 877‐882. 
+39. Mounkes LC, Kozlov S, Hernandez L, Sullivan T, and Stewart 
+CL. A progeroid syndrome in mice is caused by defects in A‐type 
+lamins. Nature. 2003; 423: 298‐301. 
+40.  Varela  I,  Cadinanos  J,  Pendas  AM,  Gutierrez‐Fernandez  A, 
+Folgueras  AR,  Sanchez  LM,  Zhou  Z,  Rodriguez  FJ,  Stewart  CL, 
+Vega JA, Tryggvason K, Freije JM, and Lopez‐Otin C. Accelerated 
+ageing in mice deficient in Zmpste24 protease is linked to p53 
+signalling activation. Nature. 2005; 437: 564‐568. 
+41. Pendas AM, Zhou Z, Cadinanos J, Freije JM, Wang J, Hultenby 
+K,  Astudillo  A,  Wernerson  A,  Rodriguez  F,  Tryggvason  K,  and 
+Lopez‐Otin C. Defective prelamin A processing and muscular and 
+adipocyte  alterations  in  Zmpste24  metalloproteinase‐deficient 
+mice. Nat Genet. 2002; 31: 94‐99. 
+42. Varga R, Eriksson M, Erdos MR, Olive M, Harten I, Kolodgie F, 
+Capell BC, Cheng J, Faddah D, Perkins S, Avallone H, San H, Qu X, 
+Ganesh S, Gordon LB, Virmani R, Wight TN, Nabel EG, and Collins 
+FS. Progressive vascular smooth muscle cell defects in a mouse 
+model of Hutchinson‐Gilford progeria syndrome. Proc Natl Acad 
+Sci U S A. 2006; 103: 3250‐3255. 
+ 
+ 
+www.impactaging.com                   894                                   AGING, September 2011, Vol.3 No.9
+43. Bergo MO, Gavino B, Ross J, Schmidt WK, Hong C, Kendall LV, 
+Mohr A, Meta M, Genant H, Jiang Y, Wisner ER, Van Bruggen N, 
+Carano  RA,  Michaelis  S,  Griffey  SM,  and  Young  SG.  Zmpste24 
+deficiency  in  mice  causes  spontaneous  bone  fractures,  muscle 
+weakness, and a prelamin A processing defect. Proc Natl Acad 
+Sci U S A. 2002; 99: 13049‐13054. 
+44.  Yang  SH,  Meta  M,  Qiao  X,  Frost  D,  Bauch  J,  Coffinier  C, 
+Majumdar  S,  Bergo  MO,  Young  SG,  and  Fong  LG.  A 
+farnesyltransferase  inhibitor  improves  disease  phenotypes  in 
+mice with a Hutchinson‐Gilford progeria syndrome mutation. J 
+Clin Invest. 2006; 116: 2115‐2121. 
+45.  Hernandez  L,  Roux  KJ,  Wong  ES,  Mounkes  LC,  Mutalif  R, 
+Navasankari R, Rai B, Cool S, Jeong JW, Wang H, Lee HS, Kozlov 
+S, Grunert M, Keeble T, Jones CM, Meta MD, Young SG, Daar IO, 
+Burke  B,  Perantoni  AO,  and  Stewart  CL.  Functional  coupling 
+between  the  extracellular  matrix  and  nuclear  lamina  by  Wnt 
+signaling in progeria. Dev Cell. 2010; 19: 413‐425. 
+46.  Stewart  C,  Burke  B.  Teratocarcinoma  stem  cells  and  early 
+mouse embryos contain only a  single major lamin polypeptide 
+closely resembling lamin B. Cell. 1987; 51: 383‐392. 
+47.  Rober  RA,  Weber  K,  and  Osborn  M.  Differential  timing  of 
+nuclear lamin A/C expression in the various organs of the mouse 
+embryo  and  the  young  animal:  a  developmental  study. 
+Development. 1989; 105: 365‐378. 
+48.  Zhang  J,  Lian  Q,  Zhu  G,  Zhou  F,  Sui  L,  Tan  C,  Mutalif  RA, 
+Navasankari  R,  Zhang  Y,  Tse  HF,  Stewart  CL,  and  Colman  A.  A 
+Human  iPSC  Model  of  Hutchinson  Gilford  Progeria  Reveals 
+Vascular  Smooth  Muscle  and  Mesenchymal  Stem  Cell  Defects. 
+Cell Stem Cell. 2011; 8: 31‐45. 
+49. Csoka AB, English SB, Simkevich CP, Ginzinger DG, Butte AJ, 
+Schatten  GP,  Rothman  FG,  and  Sedivy  JM.  Genome‐scale 
+expression  profiling  of  Hutchinson‐Gilford  progeria  syndrome 
+reveals  widespread  transcriptional  misregulation  leading  to 
+mesodermal/mesenchymal  defects  and  accelerated 
+atherosclerosis. Aging Cell. 2004; 3: 235‐243. 
+50.  Scaffidi  P,  Misteli  T.  Lamin  A‐dependent  misregulation  of 
+adult stem cells associated with accelerated ageing. Nat Cell Biol. 
+2008; 10: 452‐459. 
+51. Navarro CL, Cadinanos J, De Sandre‐Giovannoli A, Bernard R, 
+Courrier S, Boccaccio I, Boyer A, Kleijer WJ, Wagner A, Giuliano F, 
+Beemer  FA,  Freije  JM,  Cau  P,  Hennekam  RC,  Lopez‐Otin  C, 
+Badens  C,  and  Levy  N.  Loss  of  ZMPSTE24  (FACE‐1)  causes 
+autosomal recessive restrictive dermopathy and accumulation of 
+Lamin A precursors. Hum Mol Genet. 2005; 14: 1503‐1513. 
+52. Espada J, Varela I, Flores I, Ugalde AP, Cadinanos J, Pendas 
+AM, Stewart CL, Tryggvason K, Blasco MA, Freije JM, and Lopez‐
+Otin C. Nuclear envelope defects cause stem cell dysfunction in 
+premature‐aging mice. J Cell Biol. 2008; 181: 27‐35. 
+53. Yang SH, Bergo MO, Toth JI, Qiao X, Hu Y, Sandoval S, Meta 
+M, Bendale P, Gelb MH, Young SG, and Fong LG. Blocking protein 
+farnesyltransferase  improves  nuclear  blebbing  in  mouse 
+fibroblasts  with  a  targeted  Hutchinson‐Gilford  progeria 
+syndrome mutation. Proc Natl Acad Sci U S A. 2005; 102: 10291‐
+10296. 
+54.  Sagelius  H,  Rosengardten  Y,  Hanif  M,  Erdos  MR,  Rozell  B, 
+Collins FS, and Eriksson M. Targeted transgenic expression of the 
+mutation causing Hutchinson‐Gilford progeria syndrome leads to 
+proliferative  and  degenerative  epidermal  disease.  J  Cell  Sci. 
+2008; 121: 969‐978. 
+55. Wang Y, Panteleyev AA, Owens DM, Djabali K, Stewart CL, 
+and  Worman  HJ.  Epidermal  expression  of  the  truncated 
+prelamin  A  causing  Hutchinson‐Gilford  progeria  syndrome: 
+effects on keratinocytes, hair and skin. Hum Mol Genet. 2008; 
+17: 2357‐2369. 
+56. Stehbens WE, Wakefield SJ, Gilbert‐Barness E, Olson RE, and 
+Ackerman  J.  Histological  and  ultrastructural  features  of 
+atherosclerosis in progeria. Cardiovasc Pathol. 1999; 8: 29‐39. 
+57. Olive M, Harten I, Mitchell R, Beers JK, Djabali K, Cao K, Erdos 
+MR, Blair C, Funke B, Smoot L, Gerhard‐Herman M, Machan JT, 
+Kutys R, Virmani R, Collins FS, Wight TN, Nabel EG, and Gordon 
+LB.  Cardiovascular  pathology  in  Hutchinson‐Gilford  progeria: 
+correlation  with  the  vascular  pathology  of  aging.  Arterioscler 
+Thromb Vasc Biol. 2010; 30: 2301‐2309. 
+58.  Cohen  JI,  Arnett  EN,  Kolodny  AL,  and  Roberts  WC. 
+Cardiovascular features of the Werner syndrome. Am J Cardiol. 
+1987; 59: 493‐495. 
+59.  Manolagas  SC,  Almeida  M.  Gone  with  the  Wnts:  beta‐
+catenin,  T‐cell  factor,  forkhead  box  O,  and  oxidative  stress  in 
+age‐dependent diseases of bone, lipid, and glucose metabolism. 
+Mol Endocrinol. 2007; 21: 2605‐2614. 
+60. Wong KK, Maser RS, Bachoo RM, Menon J, Carrasco DR, Gu 
+Y,  Alt  FW,  and  DePinho  RA.  Telomere  dysfunction  and  Atm 
+deficiency  compromises  organ  homeostasis  and  accelerates 
+ageing. Nature. 2003; 421: 643‐648. 
+61. Liu GH, Barkho BZ, Ruiz S, Diep D, Qu J, Yang SL, Panopoulos 
+AD, Suzuki K, Kurian L, Walsh C, Thompson J, Boue S, Fung HL, 
+Sancho‐Martinez  I,  Zhang  K,  Iii  JY,  and  Belmonte  JC. 
+Recapitulation of premature ageing with iPSCs from Hutchinson‐
+Gilford progeria syndrome. Nature. 2011;  
+62. Ragnauth CD, Warren DT, Liu Y, McNair R, Tajsic T, Figg N, 
+Shroff  R,  Skepper  J,  and  Shanahan  CM.  Prelamin  A  acts  to 
+accelerate  smooth  muscle  cell  senescence  and  is  a  novel 
+biomarker  of  human  vascular  aging.  Circulation.  2010;  121: 
+2200‐2210. 
+63.  Rodriguez  S,  Coppede  F,  Sagelius  H,  and  Eriksson  M. 
+Increased  expression  of  the  Hutchinson‐Gilford  progeria 
+syndrome  truncated  lamin  A  transcript  during  cell  aging.  Eur  J 
+Hum Genet. 2009; 17: 928‐937. 
+ 
+ 
+ 
+ 
+ 
+www.impactaging.com                   895                                    AGING,  September 2011, Vol.3 No.9
+

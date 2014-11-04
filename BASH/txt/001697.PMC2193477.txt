@@ -1,0 +1,1068 @@
+J. Exp. Med.  The Rockefeller University Press • 0022-1007/2001/10/941/12 $5.00
+Volume 194, Number 7, October 1, 2001 941–952
+http://www.jem.org/cgi/content/full/194/7/941
+941
+Self-Renewal of Multipotent Long-Term Repopulating
+Hematopoietic Stem Cells Is Negatively Regulated by Fas
+and Tumor Necrosis Factor Receptor Activation
+David Bryder,1 Veslemøy Ramsfjell,1 Ingunn Dybedal,1
+Kim Theilgaard-Mönch,2 Carl-Magnus Högerkorp,1
+Jörgen Adolfsson,1 Ole Johan Borge,1 and Sten Eirik W. Jacobsen1
+1Department of Stem Cell Biology, Institute of Laboratory Medicine, University Hospital of Lund,
+221 84 Lund, Sweden
+2The Granulocyte Research Laboratory, Rigshospitalet, University of Copenhagen, Copenhagen
+2100, Denmark
+Abstract
+Multipotent self-renewing hematopoietic stem cells (HSCs) are responsible for reconstitution
+of all blood cell lineages. Whereas growth stimulatory cytokines have been demonstrated to
+promote HSC self-renewal, the potential role of negative regulators remains elusive. Receptors
+for tumor necrosis factor (TNF) and Fas ligand have been implicated as regulators of steady-
+state hematopoiesis, and if overexpressed mediate bone marrow failure. However, it has been
+proposed that hematopoietic progenitors rather than stem cells might be targeted by Fas activa-
+tion. Here, murine LinϪSca1ϩc-kitϩ stem cells revealed little or no constitutive expression of
+Fas and failed to respond to an agonistic anti-Fas antibody. However, if induced to undergo
+self-renewal in the presence of TNF-␣, the entire short and long-term repopulating HSC pool
+acquired Fas expression at high levels and concomitant activation of Fas suppressed in vitro
+growth of LinϪSca1ϩc-kitϩ cells cultured at the single cell level. Moreover, LinϪSca1ϩc-kitϩ
+stem cells undergoing self-renewal divisions in vitro were severely and irreversibly compro-
+mised in their short- and long-term multilineage reconstituting ability if activated by TNF-␣
+or through Fas, providing the first evidence for negative regulators of HSC self-renewal.
+Key words: hematopoietic stem cells • bone marrow transplantation • tumor necrosis factor •
+Fas • Fas ligand
+Introduction
+Self-renewing hematopoietic stem cells (HSCs)* are re-
+sponsible for replenishing all blood cell lineages through
+life. Although representing only 1 in 10,000 bone marrow
+(BM) cells, sophisticated methods have been developed to
+isolate HSCs to high purity (1), allowing meaningful stud-
+ies of candidate stem cells in vitro. However, HSCs cannot
+be purified to homogeneity, and must thus ultimately be
+identified through their unique ability to long-term multi-
+lineage reconstitute ablated recipients (1).
+Hematopoiesis is regulated in part by a large number of
+hematopoietic growth factors supporting proliferation, dif-
+ferentiation, and survival of hematopoietic cells at different
+levels of differentiation (2, 3). Most evidence support that
+the primary role of such cytokines in early hematopoiesis is
+to prevent programmed cell death, rather than to induce
+programs for growth and differentiation (4–7).
+Much less is known about the potential role of negative
+regulators in hematopoiesis (8–11). Receptors for TNF-␣
+and Fas ligand have been implicated to be involved in sup-
+pressing hematopoiesis. A growth-inhibitory effect of
+TNF-␣ in early murine hematopoiesis is supported by in
+vitro studies of purified primitive murine progenitors (11,
+12), but it has not been investigated whether this is associ-
+ated with a negative or positive effect on HSC function.
+Studies in TNF receptor–deficient mice have suggested that
+the number of phenotypically defined (LinϪSca1ϩc-kitϩ)
+stem cells is increased (11). However, more recent studies
+D. Bryder and V. Ramsfjell contributed equally to this work.
+Address correspondence to Sten Eirik W. Jacobsen, Department of
+Stem Cell Biology, Institute of Laboratory Medicine, Klinikgatan 26,
+BMC B12, 221 84 Lund, Sweden. Phone: 46-46-222-30-80; Fax: 46-46-
+222-36-00; E-mail: sten.jacobsen@stemcell.lu.se
+*Abbreviations used in this paper: BM, bone marrow; GVHD, graft versus
+host disease; HSC, hematopoietic stem cell; LTRC, long-term repopulat-
+ing cell; PB, peripheral blood.
+942 Fas and TNF-␣ Targeting of Hematopoietic Stem Cells
+have shown that this increase does not necessarily correlate
+with enhanced in vivo HSC function (13), emphasizing
+that true long-term repopulating cells (LTRCs) only can be
+evaluated through their unique ability to long-term multi-
+lineage reconstitute conditioned recipients in vivo (1, 14).
+Fas has been implicated to play a role in regulation of
+myelopoiesis and as a potential tumor suppressor of my-
+eloid leukemic development (10). However, the status of
+its expression and potential function on HSC remains elu-
+sive. Fas-mediated apoptosis of committed myeloid pro-
+genitors has been demonstrated to be involved in the my-
+elosuppression associated with acute graft versus host
+disease (GVHD; reference 9). Accumulating evidence also
+support a role of TNF-␣ and Fas in a number of chronic
+disorders of blood cell formation associated with enhanced
+apoptosis (15–22). However, as candidate murine BM stem
+cells, unlike myeloid progenitors, have been reported to
+lack expression of cell surface Fas (10, 23), HSCs have been
+suggested to represent unlikely targets for Fas-induced BM
+suppression.
+We have recently, through HSC division tracking and
+serial transplantation experiments, demonstrated that mu-
+rine LinϪSca1ϩc-kitϩ long-term reconstituting stem cells
+can undergo multiple self-renewing divisions in vitro (24,
+25). Others and we have demonstrated that this self-
+renewal process is positively affected by cytokines such as
+IL-3, IL-6, IL-11, c-kit ligand, and thrombopoietin (24–27).
+Thus, this allowed us to investigate how TNF-␣ and Fas
+might potentially affect HSC self-renewal.
+In these studies we demonstrate that purified LinϪ
+Sca1ϩc-kitϩ repopulating BM stem cells (28–30) have little
+or no constitutive expression of Fas and fail to respond to
+an agonistic anti-Fas antibody. However, TNF-␣ effi-
+ciently induces Fas expression and responsiveness of cycling
+LinϪSca1ϩc-kitϩ HSCs, resulting in severely compromised
+ability to short- and long-term multilineage reconstitute
+the hematopoietic system.
+Materials and Methods
+Hematopoietic Growth Factors and Antibodies. Recombinant rat
+(rr) KL (stem cell factor) and recombinant human (rh) G-CSF
+were provided by Amgen Corp. (Thousand Oaks, CA). Recom-
+binant murine (rm) IL-3 was from PeproTech. rhIL-6 was a gift
+from Genetics Institute (Cambridge, MA). rmTNF-␣ was sup-
+plied by Genentech (San Francisco, CA) and rh flt3 ligand (FL)
+was a gift from Immunex (Seattle, WA). Unless otherwise indi-
+cated, all cytokines were used at the following predetermined op-
+timal concentrations: rrKL and rhIL-6: both at 50 ng/ml; rmIL-3
+and rmTNF-␣: 20 ng/ml. When a cocktail of KL plus IL-3 plus
+IL-6 plus FL plus G-CSF was used, the concentrations of the cy-
+tokines were 25 ng/ml, except for IL-3 which was used at 10 ng/
+ml. Purified monoclonal hamster anti–mouse Fas antibody (Jo2)
+and irrelevant isotype-matched hamster IgG antibody (both from
+BD PharMingen) were used at 0.2 to 0.5 ␮g/ml, based on initial
+titration experiments showing similar growth-inhibitory effects of
+Jo2 at 0.05, 0.1, 0.2, or 0.5 ␮g/ml. Jo2 as well as the isotype-
+matched antibody contained no sodium azide and low endotoxin
+levels (Յ0.01 ng/␮g of protein).
+Enrichment and Purification of LinϪSca1ϩc-kitϩ Murine BM
+Cells. All animal procedures were performed with consent from
+the local ethics committee at Lund University. Lineage-depleted
+(LinϪ) BM cells were isolated from normal 6–14-wk-old
+C57BL/6 mice (CD45.2), congenic B6.SJL-PtprcaPepb/BoyJ
+(CD45.1), or Fas-deficient (lpr) mice inbred to C57BL/6 back-
+ground (B6.MRL-Fas&lt;lpr&gt mice; CD45.2) according to
+previously described protocols (24, 25, 30, 31). When phenotyp-
+ing or sorting LinϪSca1ϩckitϩCD34Ϫ HSCs, donor mice were
+always 12–14 wk old, as it has been shown that HSCs from
+younger mice are mostly CD34ϩ (32, 33). HSC populations were
+isolated as described previously (24) and sorted on a FACSVan-
+tage™ (Becton Dickinson). Reanalysis of sorted cells reproduc-
+ibly showed a purity of 96–99%.
+Limiting Dilution Assay. LinϪSca1ϩc-kitϩ cells were seeded in
+Terasaki plates (Nunc) at a density of 1 cell/well in 20 ␮l IMDM
+(BioWhittaker) supplemented with 20% FCS (BioWhittaker)
+containing 100 U/ml penicillin (BioWhittaker), 100 U/ml strep-
+tomycin (BioWhittaker), 2 mM L-glutamine (BioWhittaker), 0.1
+mM 2-mercaptoethanol (Sigma-Aldrich), and various cytokines.
+Wells were scored for cell growth following 10–12 d of incuba-
+tion at 37ЊC in a humidified atmosphere with 5% CO2 in air. In
+some experiments, cells were deposited by a single cell depositor
+coupled to a FACSVantage™ (Becton Dickinson), and subse-
+quently carefully visualized by microscopy to only include wells
+containing a single cell. The cytokine response pattern was simi-
+lar with these two methods.
+Semisolid Clonogenic Assay. LinϪSca1ϩc-kitϩ cells were plated
+in duplicates in 1 ml IMDM supplemented with 20% FCS, 1.2%
+(final concentrations) methylcellulose (Methocel™; Fluka Che-
+mie), and cytokines at predetermined optimal concentrations in
+35-mm Petri dishes. Cultures were incubated at 37ЊC in a hu-
+midified atmosphere with 5% CO2 in air for 10–12 d, at which
+time colonies (Ͼ50 cells) were visualized and scored with an in-
+verted microscope.
+Flow Cytometric Analysis. Cell surface phenotypings was per-
+formed on freshly isolated LinϪ BM cells or LinϪSca1ϩc-kitϩ
+cells, incubated for different periods of time with cytokines at
+predetermined optimal concentrations in a serum-free medium:
+X-Vivo 15™ (BioWhittaker) supplemented with 1% detoxified
+BSA (StemCell Technologies, Inc.), 100 U/ml penicillin (Bio-
+Whittaker), 100 U/ml streptomycin (BioWhittaker), 2 mM
+L-glutamine (BioWhittaker), and 0.1 mM 2-mercaptoethanol
+(Sigma-Aldridge) or in IMDM supplemented as described for
+the limiting dilution assay above. Cells were stained with a
+monoclonal hamster anti–mouse Fas (Jo2) PE-conjugated anti-
+body (BD PharMingen), and monoclonal rat anti–mouse anti-
+bodies against CD34 (FITC), Sca1 (biotin, FITC, or PE), c-kit
+(allophycocyanin [APC]), TNF receptors p55 and p75 (biotin;
+HyCult Biotechnology), and lineage-specific antigens (FITC-
+conjugated or purified antibodies detected with a secondary
+goat anti–rat PE-Tricolor™ antibody; Caltag): B220, Gr-1,
+Mac-1, CD8, CD4, and Ter-119 (all BD PharMingen). Cells
+were incubated with antibodies for 15–20 min on ice after
+blocking unspecific binding with hamster IgG (Jackson Immu-
+noResearch Laboratories) or Fc block (purified CD16/CD32
+monoclonal antibody; BD PharMingen). Cells were washed, in-
+cubated with Streptavidin-PE (BD PharMingen), -PerCP (Bec-
+ton Dickinson), or -CyChrome™ (BD PharMingen) to visual-
+ize biotin-conjugated antibodies, and washed again. Finally,
+cells were analyzed for forward light scatter, orthogonal light
+scatter, and the four fluorescence signals on a FACSCalibur™
+(Becton Dickinson). Flow cytometry analysis was performed us-
+943 Bryder et al.
+ing CELLQuest™ (Becton Dickinson) or FloJo™ (Treestar
+Inc.) software.
+Detection of TNFR-p55 and TNFR-p75 Transcripts. LinϪ
+Scaϩkitϩ34Ϫ cells were subjected to global mRNA amplifi-
+cation and subsequent Southern analysis essentially as described
+previously (34, 35). Briefly, 25 LinϪScaϩkitϩ34Ϫ cells were trans-
+ferred into PCR tubes using an automated micromanipulator de-
+vice. Subsequently, cells were lysed in first strand buffer followed
+by reverse transcription (RT) of mRNA using an oligo(dT)-
+primer. In a second step the first strand cDNA was polyadenyl-
+ated by terminal transferase to generate a 5Ј-oligo(dT)-tran-
+script-poly(A)-3Ј cDNA that finally was amplified by PCR using
+a sequence independent X-(dT)24 primer. The resulting cDNA (2
+␮g) was run on a 1% agarose gel, transferred to a nylon mem-
+brane by capillary blotting and fixed by UV irradiation. Probes
+used for Southern hybridization were generated by PCR from se-
+quence verified EST clones (TNFR-p75 GenBank/EMBL/
+DDBJ accession no. BE635232, forward primer 5Ј-AGG CTG
+CCA TAC CTG CCC-3Ј, reverse primer 5Ј-GGT ATG TGA
+GTG TGT GTG C-3Ј; TNFR-p55 GenBank/EMBL/DDBJ ac-
+cession no. AI267050, forward primer 5Ј-AGC CGC CGA GGA
+CTG CC-3Ј, reverse primer 5Ј-AGA GTC GAG GGC TCC
+AGC-3Ј). Probes (50 ng) were radiolabeled with 32P-dCTP
+(Random Primers DNA labeling system; GIBCO BRL/Life
+Technologies), purified (QIAaquick Nucleotide removal kit;
+QIAGEN), hybridized to the membranes in ULTRAhyb buffer,
+and washed according to the manufacturer (ULTRAhyb; Am-
+bion). After washing, blots were analyzed by PhosphorImager
+quantitation (Fuji Imaging Plate, Fuji Imaging Analyzer BAS-
+2500, Image Reader V1.4E, and Image Gauge V.3.01 software;
+Fuji Photo Film Europe).
+Competitive Repopulation Assay for Murine BM Stem Cells.
+C57BL/6 recipient mice (CD45.2) were lethally irradiated by a
+single exposure to 9.5 Gy of gamma irradiation from a 137Cs
+source (Instrument AB Scanditronix). Irradiated recipients were
+transplanted intravenously (0.5 ml/mouse) by tail-vein injection
+with 1,000 freshly isolated LinϪSca1ϩc-kitϩ cells (from B6.SJL
+mice, CD45.1) or the expansion equivalent (EE) of 1,000
+LinϪSca1ϩc-kitϩ cells cultured in the absence or presence of
+TNF-␣ and Jo2 (or an isotype-matched control antibody). In
+vitro cultures were performed in two to six parallels for each
+group of treatment. At the day of transplantation, parallels were
+individually counted, and subsequently pooled, washed, and
+transplanted. Donor cells were cotransplanted with 200,000 un-
+fractionated CD45.2 (recipient type) BM cells to ensure survival,
+but also to promote a standard competitor source of HSCs,
+thereby allowing a better quantification of HSC activity (36). To
+address the effect of TNF-␣ and Jo2 on single HSC, a limiting
+number of HSCs were transplanted, in that only six LinϪ
+Sca1ϩkitϩCD34ϪCD45.2ϩ cells were directly sorted (by a single
+cell depositor) into 0.1 ml serum-free media supplemented with
+SCF, IL-3 plus IL-6 with or without TNF-␣ and Jo2 in a U-bot-
+tomed 96-well plate. After 9 d incubation, individual wells were
+harvested and washed with a total of 0.5 ml PBS plus 1% FCS,
+mixed with 240,000 unfractionated CD45.1ϩ competitor BM
+cells, and subsequently, 0.5 ml was injected into each irradiated
+CD45.1ϩ mouse (cell numbers injected corresponded to the ex-
+pansion equivalent of five LinϪSca1ϩc-kitϩCD34Ϫ cells and
+200,000 unfractionated BM cells as competitor). All mice were
+kept in individually ventilated cages throughout the experiment,
+and given sterile food and autoclaved acidified water. Mice were
+bled from the retroorbital sinus venous plexus and peripheral
+blood (PB) analyzed 4–6 wk and 14–18 wk after transplantation
+for donor reconstitution. PB samples were lysed with ammonium
+chloride before being stained with antibodies against CD45.1,
+CD45.2, and lineage-specific antigens (all from BD PharMingen)
+and analyzed on a FACSCalibur™ (Becton Dickinson). Serial
+transplantations were performed by pooling BM from primary
+recipients 16–18 wk after transplantation and injecting 0.5 femur
+equivalent into each new lethally irradiated secondary recipient.
+Analysis of secondary recipients was performed 3 mo after sec-
+ondary transplantation.
+Statistical Analysis. All results were expressed as the mean
+(SEM) of data obtained from three or more separate experiments,
+and else as the mean (SD). The statistical significance of differ-
+ences between group means were determined using the Student’s
+t test when n Ն 3.
+Results
+LinϪSca1ϩc-kitϩ Candidate Stem Cells Have Little or No
+Constitutive Expression of Fas and Lack Responsiveness to an
+Agonistic Fas-activating Antibody. LinϪSca1ϩc-kitϩ cells,
+although constituting only 0.05–0.1% of total BM cells,
+have been demonstrated to contain most if not all LTRCs
+and represent a virtually pure population of multipotent
+progenitors. In agreement with previous studies (23),
+LinϪSca1ϩc-kitϩ cells lacked detectable cell surface Fas ex-
+pression (Fig. 1 A). In comparison, a small fraction of
+LinϪSca1Ϫc-kitϩ progenitor cells expressed low levels of
+Fas, whereas a larger fraction of more mature LinϪSca1Ϫ
+c-kitϪ cells were Fasϩ.
+In vitro clonogenic growth of LinϪSca1ϩc-kitϩ cells
+cultured in the presence of KL plus IL-3 or a combination
+of multiple early-acting cytokines (KL plus IL-3 plus IL-6
+plus FL plus G-CSF), was not affected by stimulation with
+a Fas-activating antibody (Jo2; Fig. 1 B). In contrast, mu-
+rine thymocytes underwent apoptosis in response to Jo2
+(37). Thus, LinϪSca1ϩc-kitϩ candidate murine BM stem
+cells express little or no cell surface Fas, and remain unre-
+sponsive to Fas activation after activation with growth-
+promoting cytokines.
+Effects of In Vitro Cycling and TNF-␣ on Fas Expression and
+Fas Responsiveness of Candidate Murine Stem Cells. As
+LinϪSca1ϩc-kitϩ cells cultured in the presence of growth-
+promoting cytokines remained unresponsive to Fas activa-
+tion (Fig. 1 B), we next investigated whether or not
+LinϪSca1ϩc-kitϩ cells remained FasϪ after cytokine stimu-
+lation. Such cytokine stimulation is associated with prolif-
+eration as well as differentiation and as expected, Fas ex-
+pression increased with differentiation as assessed by
+acquisition of lineage-specific antigens (Fig. 2 A). In con-
+trast, cells maintaining a LinϪ phenotype after cytokine
+stimulation were heterogeneous with regard to Fas expres-
+sion. Thus, Fas expression was also specifically investigated
+on cells that maintained a LinϪSca1ϩc-kitϩ phenotype, as
+virtually all short- and long-term repopulating stem cells
+have been demonstrated to have this phenotype (28, 30,
+38, 39). After 5 d of culture in c-kit ligand, IL-3, and IL-6
+(K36), cells had expanded 54-fold, of which 12% remained
+LinϪSca1ϩc-kitϩ (Fig. 2 A; means of three experiments).
+Whereas Ͼ50% of LinϪSca1Ϫc-kitϩ progenitor cells ex-
+944 Fas and TNF-␣ Targeting of Hematopoietic Stem Cells
+pressed Fas at high levels, only a small fraction of
+LinϪSca1ϩc-kitϩ candidate stem cells expressed Fas, and at
+very low levels (Fig. 2). After 9 d of incubation, only a
+small fraction of cells remained LinϪSca1ϩc-kitϩ, on which
+Fas expression was not further upregulated when compared
+with day 5 (unpublished data).
+As TNF-␣ has been demonstrated to upregulate Fas ex-
+pression and induce Fas responsiveness on more committed
+progenitor cells (18, 37, 40), we next investigated whether
+TNF-␣ could upregulate Fas expression on LinϪSca1ϩ
+c-kitϩ cells. After 5 d of incubation in K36 plus TNF-␣, cell
+numbers were 57% lower than in the absence of TNF-␣.
+However, a lower fraction of cells became lineage positive
+in the presence of TNF-␣ and 20% of the cells remained
+LinϪSca1ϩc-kitϩ (Fig 2 B; means of three experiments).
+Noteworthy, most if not all (Ͼ90%) TNF-␣ exposed
+LinϪSca1ϩc-kitϩ cells expressed Fas at high levels (Fig. 2
+B), whereas K36 plus TNF-␣–treated LinϪScaϩkitϩ cells
+from lpr (Fas deficient) mice, remained negative for Fas
+(unpublished data). Interestingly, the mean geometric in-
+tensity of Fas expression was higher on LinϪSca1ϩc-kitϩ
+than LinϪSca1Ϫc-kitϩ cells (P Ͻ 0.05). Thus, TNF-␣ in
+combination with early-acting cytokines induces Fas ex-
+pression at high levels on candidate murine stem cells.
+Next, LinϪSca1ϩc-kitϩ cells were explored for their
+TNF-␣ and TNF-␣ plus Fas-responsiveness when cultured
+in KL plus IL-3 or a cocktail of early-acting cytokines (Fig.
+3 A). In agreement with previous studies (11, 12), colony
+formation by LinϪSca1ϩc-kitϩ cells in response to both cy-
+tokine combinations was inhibited by TNF-␣. Further-
+more, and in striking contrast to cells cultured in the ab-
+sence of TNF-␣ (Fig. 1 B), KL plus IL-3 plus TNF-␣- and
+cocktail TNF-␣-stimulated colony formation was inhibited
+by Jo2 by as much as 69 and 59% (Fig. 3 A), respectively.
+Neither Jo2 in the absence of TNF-␣, or an isotype-
+matched control antibody in the presence of TNF-␣
+showed any effect on colony formation (Fig. 3 A).
+As freshly isolated LinϪSca1ϩc-kitϩ cells displayed little
+or no Fas expression or responsiveness, we next performed
+single cell experiments to establish whether stimulation
+Figure 1. Fas expression and responsiveness of LinϪSca1ϩc-kitϩ candi-
+date stem cells. (A) Freshly isolated unfractionated BM cells from wild-
+type mice (open histograms) or lpr mice (closed histograms), were stained
+with antibodies against lineage markers (CD4, CD5, CD8, B220, Gr-1,
+Mac-1, Ter-119), Sca1, c-kit, and Fas (Jo2), and analyzed by flow cytom-
+etry. Lineage-negative cells were gated and investigated for Fas expression
+in the Sca1ϩc-kitϩ (I), Sca1Ϫc-kitϩ (II), or Sca1Ϫc-kitϪ (III) fraction as
+shown. (B) Number of colonies generated from LinϪSca1ϩc-kitϩ cells
+plated in semisolid medium supplemented with KL ϩ IL-3 or a cocktail of
+cytokines (KL ϩ IL-3 ϩ IL-6 ϩ FL ϩ G-CSF) in the absence or presence
+of Jo2 (0.2 ␮g/ml). Colonies were scored after 10 to 12 d of incubation
+and are presented as means (SD) of two out of totally five experiments.
+Figure 2. Effects of early-acting cytokines and TNF-␣ on Fas expres-
+sion of LinϪSca1ϩc-kitϩ candidate stem cells. LinϪSca1ϩc-kitϩ cells were
+cultured in serum-free medium supplemented with KL ϩ IL-3 ϩ IL-6 in
+the absence or presence of TNF-␣ for 5 d, at which time cells were
+stained with anti-Fas, c-kit, Sca1, and lineage-specific antibodies (or iso-
+type-matched control antibodies) and analyzed by flow cytometry. Pro-
+files show results from one representative experiment. Percentages pre-
+sented for quadrants are means of totally three experiments.
+945 Bryder et al.
+with TNF-␣ and Jo2 would be able to block the first cell
+divisions of LinϪSca1ϩc-kitϩ cells (Fig. 3 B). Again, Jo2
+alone showed no ability to reduce the number or size of
+clones generated in the absence of TNF-␣ (unpublished
+data). Interestingly, TNF-␣ did not significantly reduce the
+number of proliferative clones, but rather reduced their size
+(P Ͻ 0.01). Likewise, in the presence of TNF-␣, Jo2 re-
+duced the size but not number of LinϪSca1ϩc-kitϩ clones
+(P Ͻ 0,005; Fig. 3 B), suggesting that TNF-␣– and Fas-
+responsive LinϪSca1ϩc-kitϩ cells can undergo a limited num-
+ber of cell divisions before becoming sensitive to TNF-␣
+and Fas-induced growth inhibition. In further support of
+this, delaying addition of Jo2 for 20–92 h only slightly re-
+duced Jo2-induced growth inhibition (Fig. 3 B). However,
+when Jo2 was added after 164 h, almost no Jo2-induced
+growth suppression was observed.
+The delayed addition experiments suggested a lag time
+between TNF-␣ stimulation and acquisition of Fas re-
+sponsiveness, which potentially could reflect a require-
+ment for upregulation of TNF receptors in response to
+K36-induced cycling. In steady-state BM of adult mice,
+almost all LTRCs reside in the CD34Ϫ fraction, and
+LinϪSca1ϩc-kitϩCD34Ϫ cells represent a virtually pure
+population of HSCs (33, 41). RT-PCR analysis of 25
+highly purified LinϪSca1ϩc-kitϩCD34Ϫ cells demonstrated
+mRNA expression of both TNF receptors (Fig. 4 A).
+However, only a small fraction of freshly isolated
+LinϪSca1ϩCD34- cells had detectable cell surface expres-
+sion of TNF receptors (Fig. 4 B). In response to cytokine-
+induced expansion, LTRCs become CD34ϩ (42), and af-
+ter 20 h of K36 stimulation (at which time point virtually
+no LTRCs have divided; unpublished data), TNF receptor
+expression was dramatically upregulated on LinϪSca1ϩc-
+kitϩCD34ϩ cells (86%; Fig. 4 B). Moreover, after 3 d of
+K36 stimulation, virtually all LinϪSca1ϩc-kitϩCD34ϩ cells
+expressed TNF receptors. Thus, TNF receptor expression
+Figure 3. Effects of early-acting cytokines and TNF-a on Fas respon-
+siveness of LinϪSca1ϩc-kitϩ candidate stem cells. (A) 350 (KL ϩ IL-3) or
+150 (cocktail: KL ϩ FL ϩ IL-3 ϩ IL-6 ϩ G-CSF) LinϪSca1ϩc-kitϩ cells
+were plated in methylcellulose with the indicated cytokines in the ab-
+sence or presence of TNF-␣, Jo2 (0.2 ␮g/ml) or an isotype-matched
+hamster IgG antibody (Ctr. Ab; 0.2 ␮g/ml). After 10 to 12 d of incuba-
+tion, colony numbers were evaluated. Results are presented as mean (SD)
+and represent data from two to four experiments. Controls (no TNF-␣ or
+Jo2) were set to represent 100%, and reflected 104 Ϯ 9 and 78 Ϯ 3 colo-
+nies for KL ϩ IL-3– and cocktail-stimulated cultures, respectively. (B)
+LinϪSca1ϩc-kitϩ cells were plated at 1 cell/well in 20 ␮l complete
+IMDM as described in experimental procedures, at a total of 225 cells/
+group. Jo2 (0.2 ␮g/ml) was added as indicated to cocktail (KL ϩ IL-3 ϩ
+IL-6 ϩ FL ϩ G-CSF) ϩ TNF-␣–stimulated cultures at initiation of cul-
+ture (time 0) or after 20-, 44-, 92-, and 164 h preincubation. Wells were
+scored for clonal growth (total number of clones and clone size) after 10
+to 12 d of incubation. Large colonies were defined as clones covering
+more than 10% of the well. Results are presented as the mean (ϮSEM) of
+three separate experiments. Hamster IgG control antibody had no effect
+on cocktail ϩ TNF-␣–induced clonal formation.
+Figure 4. In vitro cycling of candidate HSCs is accompanied by upreg-
+ulation of TNF receptor expression. (A) 25 LinϪScaϩkitϩ34Ϫ cells were
+subjected to global mRNA amplification. 2 ␮g of the resulting cDNA
+was run on a 1% agarose gel, transferred to a nylon membrane, and hy-
+bridized with radiolabeled probes for TNFR-p75 and TNFR-p55, or
+␤-actin (as a house keeping control gene). Samples of 25 LinϪScaϩ
+kitϩ34Ϫ cells amplified without addition of reverse transcriptase (no RT)
+served as negative control. (B) Lineage depleted or LinϪSca1ϩc-kitϩ BM
+cells were stained for CD34, Sca1, and TNF receptor expression as well as
+7-AAD after indicated times of culture in the presence of K36. Cells
+shown are gated as “live” (i.e., 7-AAD negative) and Sca-1ϩ. Results are
+from one representative experiment of four.
+946 Fas and TNF-␣ Targeting of Hematopoietic Stem Cells
+is highly upregulated on candidate stem cells upon cyto-
+kine-induced cycling.
+TNF-␣ and Fas Receptor Activation Compromise the Recon-
+stituting Ability of LinϪSca1ϩc-kitϩ Stem Cells. Although
+highly enriched in LTRC activity, LinϪSca1ϩc-kitϩ cells
+are heterogenous, and represent in part cells with only
+short-term repopulating activity (43). Thus, only in vivo
+reconstitution experiments could conclusively address
+whether Fas- and TNF-␣–responsive progenitors included
+true LTRCs. Furthermore, as LinϪSca1ϩc-kitϩ cells can
+undergo a limited number of cell divisions in the presence
+of TNF-␣ and Fas receptor activation, it remained unclear
+whether this activation would positively or negatively af-
+fect HSC function.
+First, to investigate whether LinϪSca1ϩc-kitϩFasϩ cells
+generated in in vitro cultures included LTRCs, we con-
+ducted in vivo reconstitution experiments in which
+LinϪSca1ϩc-kitϩ cells were cultured for 5 d with K36 with
+or without TNF-␣. Remaining LinϪ cells were subse-
+quently sorted into Fasϩ and FasϪ subpopulations (Fig. 5,
+A and B) and investigated for their ability to multilineage
+reconstitute lethally irradiated recipients. From cultures
+lacking TNF-␣, all long-term reconstituting activity was
+derived from FasϪ cells. This was in striking contrast to
+cells cultured in the presence of TNF-␣, in which the Fasϩ
+fraction was responsible for all LTRC activity (Table I).
+Thus, TNF-␣ efficiently induces high levels of Fas expres-
+sion on LTRCs.
+We have recently demonstrated that LinϪSca1ϩc-kitϩ
+cells cultured under serum-free conditions in the presence
+of K36, undergo self-renewing cell divisions and preserve
+their ability to short- and long-term multilineage reconsti-
+tute lethally irradiated mice (24, 25). Thus, LinϪSca1ϩ
+c-kitϩ cells were cultured under such self-renewing condi-
+tions in the absence or presence of TNF-␣ and/or Jo2. Af-
+ter 3, 5, and 9 d of incubation in K36, TNF-␣ reduced the
+cellular expansion by 14, 46, and 43%, respectively,
+whereas the addition of Jo2 only slightly reduced cell
+numbers further (33, 56, and 69% reduction after 3, 5, and
+9 d respectively).
+Lethally irradiated mice were transplanted with 1,000
+freshly isolated LinϪSca1ϩc-kitϩ CD45.1ϩ cells or their ex-
+pansion equivalents (EEs) after 3, 5, and 9 d of culture (in
+competition with 200,000 CD45.2ϩ BM cells; Fig. 6). 3–9 d
+exposure to TNF-␣ reduced the short-term (4–6 wk) re-
+constituting activity of cultured LinϪSca1ϩc-kitϩ cells by
+40% (Fig. 6), whereas LinϪSca1ϩc-kitϩ cells incubated for
+3, 5, or 9 d in the absence of TNF-␣ showed no drop in
+reconstituting activity in response to Jo2 (unpublished
+data). The level of short-term engraftment of cells cultured
+in the presence of TNF-␣ plus Jo2 was reduced by as much
+as 87–95% after culture (Fig. 6). Similarly, TNF-␣ reduced
+long-term (14–18 wk) reconstituting activity of cultured
+LinϪSca1ϩc-kitϩ cells by 63–71%, and TNF-␣ plus Jo2 by
+90–98% (Fig. 6).
+The ability to self-renew in vivo is an important charac-
+teristic of true LTRCs, best established through their abil-
+ity to multilineage reconstitute lethally irradiated serially
+transplanted recipients (44, 45). Thus, cells from primary
+recipients were transplanted into secondary recipients (Ta-
+ble II). Reductions in reconstituting activity were observed
+for cells originally cultured in the presence of TNF-␣, and
+exposure to TNF-␣ ϩ Jo2 virtually abrogated the ability to
+reconstitute secondary recipients (Table II). The relative
+contribution of TNF-␣ and/or Jo2-exposed LinϪSca1ϩ
+Figure 5. TNF-␣ induces cell surface Fas
+expression on long-term reconstituting HSCs.
+LinϪSca1ϩc-kitϩ cells (CD45.1) were cultured for
+5 d in K36 in the absence (A) or presence (B) of
+TNF-␣. LinϪFasϩ and LinϪFasϪ were sorted from
+both cultures, and Fasϩ cells resorted to ensure high
+purity (percentages in quadrants represent percent-
+age of Fasϩ cells).
+Table I.
+KL ϩ IL-3 ϩ IL-6 KL ϩ IL-3 ϩ IL-6 ϩ TNF-␣
+Total FasϪ Fasϩ Total FasϪ Fasϩ
+Percent
+donor cell
+reconstitution
+33 (9) 25 (17) Ͻ0.1 12 (7) Ͻ0.5 9 (3)
+The expansion equivalent of 650 LinϪSca1ϩc-kitϩ cells were transplanted
+for both the FasϪ and Fasϩ as well as total LinϪ population together with
+200,000 unfractionated BM cells (CD45.2) into lethally irradiated C57bl/6
+recipients (CD45.2). After 4 mo, PB analysis was performed to determine
+percentage donor derived reconstitution (SD). All mice with Ͼ1%
+CD45.1 reconstitution showed multilineage reconstitution. Similar results
+were obtained in a second experiment in which recipients did not receive
+competitor marrow cells, in that FasϪ and Fasϩ cells were responsible for
+all LTRC activity in TNF-␣–unexposed and exposed cultures,
+respectively (unpublished data).
+947 Bryder et al.
+c-kitϩ cells toward reconstitution of various blood cell lin-
+eages (B, T, and myeloid) did not differ from that of uncul-
+tured or K36-cultured cells (Table III). Thus, exposure of
+LinϪSca1ϩc-kitϩ stem cells to TNF-␣ and Fas activation
+severely compromise their ability to short- and long-term
+reconstitute the hematopoietic system.
+Finally, to address the direct effect of TNF-␣ and Jo2 on
+individual HSC, limiting numbers of LinϪSca1ϩc-kitϩ
+CD34Ϫ HSC were used to study the effect of TNF-␣ and
+Jo2 in mice primarily repopulated by single LTRCs, also
+allowing a more accurate assessment of loss of LTRC activ-
+ity in response to TNF-␣ and Jo2. Out of a total of 19 re-
+cipients transplanted with 5 LinϪSca1ϩc-kitϩCD34Ϫ cells
+stimulated for 9 d with K36, 12 (63%) were found to sus-
+tain long-term multilineage donor derived reconstitution
+(Table IV). In contrast, of mice transplanted with the same
+number of cells exposed to K36 plus TNF-␣ plus Jo2, only
+1 out of 17 (6%) showed multilineage reconstitution. These
+data suggested that ‫%02ف‬ of K36-cultured LinϪSca1ϩ
+c-kitϩCD34Ϫ cells sustained long-term reconstituting ac-
+tivity, which was reduced to 1–2% if cultured in the pres-
+ence of TNF-␣ plus Jo2. Thus, TNF-␣ and Fas activation
+severely compromise the ability of LinϪSca1ϩc-kitϩCD34Ϫ
+HSC to short- and long-term multilineage reconstitute
+the hematopoietic system. In agreement with this, LinϪ
+Figure 6. Effects of TNF-a and Jo2 on in vivo reconstitution activity of LinϪSca1ϩc-kitϩ
+stem cells. 1,000 LinϪSca1ϩc-kitϩ cells (CD45.1ϩ) or the progeny of 1,000 LinϪSca1ϩc-kitϩ
+cells cultured in K36 in the absence or presence of TNF-␣ and Jo2, as indicated, were trans-
+planted into each lethally irradiated recipient (CD45.2) together with 200,000 unfraction-
+ated BM cells (CD45.2). A total of 10–30 mice were transplanted in each group in four sep-
+arate experiments. PB from transplanted mice was investigated for donor-derived short-term
+(4–6 wk) and long-term (14–18 wk) reconstitution. (A) Reconstituting activity of 3 d, (B)
+5 d, and (C) 9 d cultures (SEM). Left bars represent reconstituting activity of 1,000 freshly
+isolated LinϪSca1ϩc-kitϩ cells.
+Table II. TNF and Fas Activation Suppress Self-Renewing HSCs
+Days of
+culture
+No. of
+recipients
+Percent donor
+reconstitution (SD)
+Fresh cells Ϫ 10 36 (7)
+K36 3 5 29 (6)
+K36 ϩ TNF-␣ 3 5 20 (4)
+K36 ϩ TNF-␣ ϩ Jo2 3 4 Ͻ0.1
+K36 5 5 9 (3)
+K36 ϩ TNF-␣ 5 5 0.5 (0.2)
+K36 ϩ TNF-␣ ϩ Jo2 5 5 Ͻ0.1
+K36 9 3 58 (25)
+K36 ϩ TNF-␣ 9 5 0.2 (0.1)
+K36 ϩ TNF-␣ ϩ Jo2 9 5 Ͻ0.1
+Reconstitution analysis of secondary recipients from two experiments
+shown as mean (SD).
+Table III.
+B220ϩ CD3ϩ Gr1ϩ/Mac1ϩ
+Fresh cells 49 (6) 38 (9) 17 (6)
+K36 51 (8) 37 (11) 13 (4)
+K36 ϩ TNF-␣ 55 (16) 38 (18) 12 (8)
+K36 ϩ TNF-␣ ϩ Jo2 54 (22) 21 (21) 19 (17)
+Lineage distribution of LinϪSca1ϩc-kitϩ cells cultured for 5 d in the
+absence of TNF-␣ and/or Jo2. Data represent analysis of 11–20 mice/
+group from a total of three experiments and shows mean (SD).
+948 Fas and TNF-␣ Targeting of Hematopoietic Stem Cells
+Sca1ϩc-kitϩ cells cultured for 9 d in K36 and TNF-␣
+showed a dramatic reduction in cells with a LinϪSca1ϩ
+c-kitϩ HSC phenotype, which were virtually eliminated
+upon activation with Jo2 (Fig. 7).
+The negative effect of TNF-␣ on LTRC self-renewal
+might potentially be mediated through its ability to induce
+Fas expression on HSC, thus rendering HSCs responsive
+to Fas activation during/after transplantation. However,
+TNF-␣–exposed LinϪSca1ϩc-kitϩ cells purified from lpr
+mice (defective in Fas receptor expression) were equally
+reduced in their long-term repopulating ability as wild-
+type cells, suggesting that TNF-␣–induced reduction in
+LTRC activity occurs independently of the Fas pathway
+(Fig. 8).
+Discussion
+Previous studies have demonstrated that cytokines such
+as TNF-␣, macrophage inhibitory protein 1␣ (MIP-1␣),
+and TGF-␤ can inhibit the in vitro growth of primitive he-
+matopoietic progenitors (8, 46, 47). Such an effect of MIP-
+1␣ is however associated with enhanced rather than re-
+duced maintenance of candidate HSCs in culture (48, 49).
+TGF-␤ has been shown to accelerate depletion of HSCs
+under in vitro culture conditions which themselves result
+in loss of HSC activity (50, 51), making it difficult to dis-
+tinguish between effects on self-renewal and other mecha-
+nisms. Recent developments have now made it possible to
+study HSC self-renewal and its regulation in vitro (24–27).
+Through such studies, a number of growth stimulatory cy-
+tokines have been shown to promote HSC self-renewing
+cell divisions. Using the same approach, we here demon-
+strate that TNF-␣ and Fas can negatively regulate the self-
+renewal of highly purified HSCs.
+TNF receptors and Fas which are members of the same
+receptor superfamily, have been demonstrated to be nonre-
+dundant regulators of the immune system (52–54). Ample
+evidence also implicate their involvement in the patho-
+physiology of a number of blood formation disorders asso-
+ciated with enhanced apoptosis, such as myelodysplastic
+syndromes and aplastic anemia (15–17, 19, 21, 22, 55) as
+well as in acute GVHD (9, 56).
+Whereas TNF-␣ and Fas have been convincingly dem-
+onstrated to mediate growth suppression of in vitro clono-
+genic progenitor cells (8, 10–12, 18, 40), their receptor ex-
+pression pattern and potential effects on LTRCs has been
+unknown. Recently, CD27, another member of the TNF
+family, was demonstrated to be expressed on HSCs (57),
+but the biological function of CD27 on HSCs remains to
+be investigated. The present studies unequivocally demon-
+strate that self-renewing murine BM HSCs can be targeted
+by TNF-␣ and Fas, and consequently become severely
+compromised in their ability to short- and long-term mul-
+tilineage reconstitute hematopoiesis.
+Whereas TNF-␣ has been clearly implicated to be in-
+volved in a number of BM failure syndromes, the potential
+role of TNF-␣ in regulating steady-state hematopoiesis is
+unclear. Although studies in p55 TNF receptor–deficient
+demonstrated increased numbers of LinϪSca1ϩc-kitϩ cells
+and colony forming unit spleen day 12 (11, 13), older (but
+not younger) mice revealed reduced HSC numbers and
+function, suggesting a complex role of TNF-␣ in regulat-
+ing HSCs. The interpretation of this finding is further
+complicated by the existence of two TNF receptors, and
+the HSC compartment of mice deficient in both TNF re-
+ceptors has yet to be investigated. In addition, the effects of
+TNF-␣ on hematopoiesis are pleiotropic and context
+dependent (8), and whereas low (physiological) levels of
+Table IV. TNF-␣ and Fas Activation Compromise
+Cycling HSCs
+In vitro treatment
+Donor-positive
+recipientsa
+Percent
+CD45.2ϩ reconstitution
+in positive miceb
+K36 12/19 (63%) 11 (10)
+K36 ϩ TNF-␣ ϩ Jo2 1/17 (6%) 4
+The progeny of five LinϪSca1ϩc-kitϩCD34ϪCD45.2ϩ cells directly
+sorted into serum-free medium and K36 or K36 ϩ TNF-␣ ϩ Jo2, were
+transplanted after 9 d of culture together with 200,000 CD45.1ϩ BM
+cells into lethally irradiated CD45.1ϩ recipients. 14 wk after
+transplantation, PB was analyzed by flow cytometry for the presence of
+donor-derived (CD45.2ϩ) cells of the B (B220), T (CD3), and myeloid
+(Gr1/Mac1) cell lineages.
+aMice were considered as reconstituted with cultured LinϪSca1ϩc-kitϩ
+CD34Ϫ HSCs if Ͼ0.5% of PB cells were CD45.2ϩ, and these contributed
+to B, T, and myeloid cell reconstitution. None of the negative mice con-
+tained CD45.2-derived myeloid reconstitution.
+bReconstitution levels are shown as mean (SD) values of positive mice.
+Figure 7. Loss of LinϪSca1ϩc-kitϩ cells after culture in
+the presence of TNF-␣ and Jo2. LinϪSca1ϩkitϩ cells were
+cultured for 9 d (in indicated culture conditions), after
+which they were stained against lineage markers, Sca1, c-kit,
+and 7-AAD. Profiles shown are gated to include only viable,
+lineage-negative cells. The boxed regions indicate the fre-
+quency of live, lineage-negative cells with a Sca1ϩc-kitϩ
+phenotype. Results are from one representative experi-
+ment out of four with similar results.
+949 Bryder et al.
+TNF-␣ in many systems have been demonstrated to be
+crucial, high levels can be detrimental.
+The present findings suggests that TNF-␣ is likely to
+have little or no suppressive effect on quiescent HSC dom-
+inating during steady-state hematopoiesis, as supported by
+low levels of TNF receptor expression and lack of TNF-␣
+suppression of noncycling HSCs. In contrast, under in vitro
+cycling conditions, TNF receptor expression was upregu-
+lated and HSCs became sensitive to TNF-␣–induced sup-
+pression. In support of this, TNF-␣ has been shown to
+stimulate proliferation of mitotically quiescent hematopoi-
+etic cell lines, but suppress their growth when rapidly cy-
+cling (58). The negative effect of TNF-␣ on in vitro HSC
+self-renewal was found to be independent of the Fas path-
+way, as LinϪSca1ϩc-kitϩ cells from lpr mice, defective in
+Fas receptor expression, were equally sensitive to TNF-␣–
+induced suppression of HSCs. Although the lpr mice have
+a somewhat leaky Fas deficiency, no Fas expression was ob-
+served on LinϪScaϩkitϩ cells exposed to TNF-␣.
+In a previous study, LinϪSca1ϩThy1.1ϩ HSCs were
+found to lack expression of Fas (23). In agreement with
+this, freshly isolated LinϪSca1ϩc-kitϩ BM cells in the
+present studies also lacked detectable cell surface expression
+of Fas. When induced to cycle by combinations of early-
+acting cytokines, Fas expression was upregulated but only
+marginally on cells which maintained a LinϪSca1ϩc-kitϩ
+HSC phenotype, and in vitro clonogenic and in vivo short-
+and long-term reconstituting LinϪSca1ϩc-kitϩ cells re-
+mained unresponsive to activation by an agonistic anti-Fas
+antibody. This unresponsiveness was not altered by using
+an anti–hamster IgG antibody to further enhance cross-
+linking (unpublished data). The difference in Fas respon-
+siveness of HSCs and myeloid progenitors (10) could in
+part be explained by HSCs expressing higher levels of
+apoptosis-inhibiting genes such as Bcl-2 (59). In fact, when
+Bcl-2 is overexpressed, committed myeloid progenitors
+show enhanced Fas resistance (10). Noteworthy, LinϪ
+Sca1ϩc-kitϩ cells became highly Fas-responsive only
+when costimulated with cytokines promoting cycling and
+TNF-␣, whereas TNF-␣ alone had little or no ability to
+induce Fas responsiveness (unpublished data). In support of
+a key role of TNF-␣ activation, HSC activity was retained
+entirely in the Fas negative fraction after in vitro expansion
+in the absence of TNF-␣, whereas in the presence of
+TNF-␣, LTRCs were found exclusively in the Fas-positive
+fraction. Thus, it appears that the ability of TNF-␣ to in-
+duce Fas responsiveness of HSCs is at least in part a conse-
+quence of upregulation of Fas expression on cycling HSCs,
+which constitutively express no Fas. The ability of TNF-␣
+to upregulate Fas expression has been demonstrated in a
+number of other systems, and to be critically dependent on
+nuclear factor (NF)-␬B activation (60–62). It is possible
+that TNF-␣ might also provide an important co activation
+signal for Fas activation in HSCs, as implicated for other
+cell types (63–65).
+It is noteworthy that the reduction in HSC numbers
+(more than 10-fold) in response to TNF-␣ and Fas activa-
+tion was much more dramatic than reductions in total cell
+numbers (threefold). A preferential targeting of HSCs was
+further supported by the preferential upregulation of Fas
+and TNF receptors on LinϪSca1ϩc-kitϩ cells, and the vir-
+tual elimination of such cells following prolonged TNF-␣
+and Fas activation.
+Whereas HSCs can expand in vivo, extensive efforts at
+promoting stem cell expansion in vitro have proven less
+successful (1, 66). One reason for this could be the tendency
+of in vitro cultured stem cells to undergo apoptosis (1).
+Based on our findings it is obvious that HSCs will upregu-
+late TNF receptor expression after in vitro stem cell expan-
+sion with potent growth-promoting cytokines. If such ex-
+panded stem cells are subsequently exposed to TNF-␣ and/
+or Fas ligand in vitro, or more likely in the BM microenvi-
+ronment of ablated recipients, the consequence might be an
+engraftment defect, as frequently observed after transplanta-
+tion of ex vivo expanded stem cells (67).
+In conclusion, we have demonstrated that although
+HSCs constitutively express little or no Fas, enforced cy-
+cling of HSCs combined with TNF-␣ activation upregu-
+late Fas expression on HSCs, making them susceptible to
+Fas-induced suppression. This combined with ample evi-
+dence of the involvement of excessive TNF-␣ and Fas ac-
+tivity in various BM failure syndromes and GVHD (9, 56),
+suggest that self-renewing HSCs are likely targets for
+TNF-␣– and Fas-induced BM suppression.
+The authors gratefully acknowledge Yutaka Sasaki for valuable dis-
+cussions, Per Anders Bertilsson, Sverker Segrén, and Zhi Ma for ex-
+pert assistance with cell sorting, and Jonas Björk for providing advice
+with regard to statistical analysis. We thank Anna Fossum, Ing-
+britt Åstrand-Grundström, Ineke de Jong, Lilian Wittman, Eva
+Gynnstam, and Irene Persson for technical assistance and animal care.
+We thank Helga Björgvinsdôttir for critical reading of the manu-
+script. We are also grateful to Drs. Ian K. McNiece, Graham Mo-
+lineux, and Stewart D. Lyman for generously providing cytokines.
+Figure 8. The compromising effect of TNF-␣ on LTRC activity of cul-
+tured LinϪSca1ϩc-kitϩ cells is independent of Fas. 1,000 LinϪSca1ϩc-kitϩ
+cells from lpr or wild-type mice were cultured in K36 in the absence or
+presence of TNF-␣, and transplanted into lethally irradiated recipients to-
+gether with 200,000 unfractionated BM cells. Data points indicate indi-
+vidual recipients and reference lines shows the median level of donor cell
+reconstitution in PB 4 mo after transplant.
+950 Fas and TNF-␣ Targeting of Hematopoietic Stem Cells
+These studies were generously supported by grants from: ALF
+(Government Public Health Grant); the Berta Kamprad Founda-
+tion; the Crafoord Foundation; the Georg Danielsson Foundation;
+the Greta and Johan Kocks Foundation; the Gunnar, Arvid and
+Elisabeth Nilsson Foundation; the Harald and Greta Jeansson’s
+Foundation; the Thelma Zoega’s Foundation; the John and Au-
+gusta Persson Foundation; the Medical Faculty, University of Lund;
+the Swedish Medical Research Council (MFR); the Svensson Sib-
+lings Foundation; the O and E and Edla Johansson Foundation; the
+Royal Physiographic Society in Lund; the Swedish Foundation for
+Strategic Research; the Swedish Cancer Society; the Swedish Soci-
+ety of Pediatric Cancer; and the Tobias Foundation.
+Submitted: 11 October 2000
+Revised: 31 July 2001
+Accepted: 17 August 2001
+References
+1. Domen, J., and I.L. Weissman. 1999. Self-renewal, differenti-
+ation or death: regulation and manipulation of hematopoietic
+stem cell fate. Mol. Med. Today. 5:201–208.
+2. Metcalf, D. 1993. Hematopoietic regulators: redundancy or
+subtlety? Blood. 82:3515–3523.
+3. Ogawa, M. 1993. Differentiation and proliferation of he-
+matopoietic stem cells. Blood. 81:2844–2853.
+4. Akashi, K., M. Kondo, U. von Freeden-Jeffry, R. Murray,
+and I.L. Weissman. 1997. Bcl-2 rescues T lymphopoiesis in
+interleukin-7 receptor-deficient mice. Cell. 89:1033–1041.
+5. Fairbairn, L.J., G.J. Cowling, B.M. Reipert, and T.M. Dex-
+ter. 1993. Suppression of apoptosis allows differentiation and
+development of a multipotent hemopoietic cell line in the
+absence of added growth factors. Cell. 74:823–832.
+6. Lagasse, E., and I.L. Weissman. 1997. Enforced expression of
+Bcl-2 in monocytes rescues macrophages and partially re-
+verses osteopetrosis in op/op mice. Cell. 89:1021–1031.
+7. Maraskovsky, E., L.A. O’Reilly, M. Teepe, L.M. Corcoran,
+J.J. Peschon, and A. Strasser. 1997. Bcl-2 can rescue T lym-
+phocyte development in interleukin-7 receptor-deficient
+mice but not in mutant rag-1-/- mice. Cell. 89:1011–1019.
+8. Jacobsen, S.E., F.W. Jacobsen, C. Fahlman, and L.S. Rusten.
+1994. TNF-alpha, the great imitator: role of p55 and p75
+TNF receptors in hematopoiesis. Stem Cells. 12:111-126.
+9. Mori, T., T. Nishimura, Y. Ikeda, T. Hotta, H. Yagita, and
+K. Ando. 1998. Involvement of Fas-mediated apoptosis in
+the hematopoietic progenitor cells of graft-versus-host reac-
+tion-associated myelosuppression. Blood. 92:101–107.
+10. Traver, D., K. Akashi, I.L. Weissman, and E. Lagasse. 1998.
+Mice defective in two apoptosis pathways in the myeloid lin-
+eage develop acute myeloblastic leukemia. Immunity. 9:47–
+57.
+11. Zhang, Y., A. Harada, H. Bluethmann, J.B. Wang, S. Nakao,
+N. Mukaida, and K. Matsushima. 1995. Tumor necrosis fac-
+tor (TNF) is a physiologic regulator of hematopoietic pro-
+genitor cells: increase of early hematopoietic progenitor cells
+in TNF receptor p55-deficient mice in vivo and potent inhi-
+bition of progenitor cell proliferation by TNF alpha in vitro.
+Blood. 86:2930–2937.
+12. Jacobsen, F.W., M. Rothe, L. Rusten, D.V. Goeddel, E.B.
+Smeland, O.P. Veiby, L. Slordal, and S.E. Jacobsen. 1994.
+Role of the 75-kDa tumor necrosis factor receptor: inhibi-
+tion of early hematopoiesis. Proc. Natl. Acad. Sci. USA. 91:
+10695–10699.
+13. Rebel, V.I., S. Hartnett, G.R. Hill, S.B. Lazo-Kallanian, J.L.
+Ferrara, and C.A. Sieff. 1999. Essential role for the p55 tumor
+necrosis factor receptor in regulating hematopoiesis at a stem
+cell level. J. Exp. Med. 190:1493–1504.
+14. Spangrude, G.J., D.M. Brooks, and D.B. Tumas. 1995.
+Long-term repopulation of irradiated mice with limiting
+numbers of purified hematopoietic stem cells: in vivo expan-
+sion of stem cell phenotype but not function. Blood. 85:
+1006–1016.
+15. Gersuk, G.M., C. Beckham, M.R. Loken, P. Kiener, J.E.
+Anderson, A. Farrand, A.B. Troutt, J.A. Ledbetter, and H.J.
+Deeg. 1998. A role for tumour necrosis factor-alpha, Fas and
+Fas-Ligand in marrow failure associated with myelodysplastic
+syndrome. Br. J. Haematol. 103:176–188.
+16. Hinterberger, W., G. Adolf, P. Bettelheim, K. Geissler, C.
+Huber, E. Irschick, P. Kalhs, U. Koller, K. Lechner, B. Meis-
+ter, et al. 1989. Lymphokine overproduction in severe aplas-
+tic anemia is not related to blood transfusions. Blood. 74:
+2713–2717.
+17. Young, N.S. 2000. Hematopoietic cell destruction by im-
+mune mechanisms in acquired aplastic anemia. Semin. Hema-
+tol. 37:3–14.
+18. Maciejewski, J., C. Selleri, S. Anderson, and N.S. Young.
+1995. Fas antigen expression on CD34ϩ human marrow cells
+is induced by interferon gamma and tumor necrosis factor al-
+pha and potentiates cytokine-mediated hematopoietic sup-
+pression in vitro. Blood. 85:3183–3190.
+19. Rosselli, F., J. Sanceau, E. Gluckman, J. Wietzerbin, and E.
+Moustacchi. 1994. Abnormal lymphokine production: a
+novel feature of the genetic disease Fanconi anemia. II. In
+vitro and in vivo spontaneous overproduction of tumor ne-
+crosis factor alpha. Blood. 83:1216–1225.
+20. Schneider, E., G. Moreau, A. Arnould, F. Vasseur, N. Khod-
+abaccus, M. Dy, and S. Ezine. 1999. Increased fetal and ex-
+tramedullary hematopoiesis in Fas-deficient C57BL/6-lpr/lpr
+mice. Blood. 94:2613–2621.
+21. Seipelt, G., A. Ganser, H. Duranceyk, A. Maurer, O.G. Ott-
+mann, and D. Hoelzer. 1993. Induction of TNF-alpha in pa-
+tients with myelodysplastic syndromes undergoing treatment
+with interleukin-3. Br. J. Haematol. 84:749–751.
+22. Verhoef, G.E., P. De Schouwer, J.L. Ceuppens, J. Van
+Damme, W. Goossens, and M.A. Boogaerts. 1992. Measure-
+ment of serum cytokine levels in patients with myelodysplas-
+tic syndromes. Leukemia. 6:1268–1272.
+23. Aguila, H.L., and I.L. Weissman. 1996. Hematopoietic stem
+cells are not direct cytotoxic targets of natural killer cells.
+Blood. 87:1225–1231.
+24. Bryder, D., and S.E. Jacobsen. 2000. Interleukin-3 supports
+expansion of long-term multilineage repopulating activity af-
+ter multiple stem cell divisions in vitro. Blood. 96:1748–1755.
+25. Ramsfjell, V., D. Bryder, H. Bjorgvinsdottir, S. Kornfalt, L.
+Nilsson, O.J. Borge, and S.E. Jacobsen. 1999. Distinct re-
+quirements for optimal growth and In vitro expansion of hu-
+man CD34(ϩ)CD38(-) bone marrow long-term culture-ini-
+tiating cells (LTC-IC), extended LTC-IC, and murine in
+vivo long-term reconstituting stem cells. Blood. 94:4093–
+4102.
+26. Miller, C.L., and C.J. Eaves. 1997. Expansion in vitro of
+adult murine hematopoietic stem cells with transplantable
+lympho-myeloid reconstituting ability. Proc. Natl. Acad. Sci.
+USA. 94:13648–13653.
+27. Ema, H., H. Takano, K. Sudo, and H. Nakauchi. 2000. In
+vitro self-renewal division of hematopoietic stem cells. J.
+951 Bryder et al.
+Exp. Med. 192:1281–1288.
+28. Ikuta, K., and I.L. Weissman. 1992. Evidence that hemato-
+poietic stem cells express mouse c-kit but do not depend on
+steel factor for their generation. Proc. Natl. Acad. Sci. USA.
+89:1502–1506.
+29. Okada, S., H. Nakauchi, K. Nagayoshi, S. Nishikawa, Y.
+Miura, and T. Suda. 1992. In vivo and in vitro stem cell
+function of c-kit- and Sca-1-positive murine hematopoietic
+cells. Blood. 80:3044–3050.
+30. Spangrude, G.J., S. Heimfeld, and I.L. Weissman. 1988. Pu-
+rification and characterization of mouse hematopoietic stem
+cells. Science. 241:58–62.
+31. Spangrude, G.J., and R. Scollay. 1990. A simplified method
+for enrichment of mouse hematopoietic stem cells. Exp. He-
+matol. 18:920–926.
+32. Matsuoka, S., Y. Ebihara, M. Xu, T. Ishii, D. Sugiyama, H.
+Yoshino, T. Ueda, A. Manabe, R. Tanaka, Y. Ikeda, et al.
+2001. CD34 expression on long-term repopulating hemato-
+poietic stem cells changes during developmental stages. Blood.
+97:419–425.
+33. Ito, T., F. Tajima, and M. Ogawa. 2000. Developmental
+changes of CD34 expression by murine hematopoietic stem
+cells. Exp. Hematol. 28:1269–1273.
+34. Brady, G., M. Barbara, and N. Iscove. 1990. Representative
+in vitro cDNA amplification from individual hematopoietic
+cells and colonies. Methods Mol. Cell. Biol. 2:17–25.
+35. Theilgaard-Monch, K., J. Cowland, and N. Borregaard.
+2001. Profiling of gene expression in individual hematopoi-
+etic cells by global mRNA amplification and slot blot analy-
+sis. J. Immunol. Methods. 252:175–189.
+36. Harrison, D.E. 1980. Competitive repopulation: a new assay
+for long-term stem cell functional capacity. Blood. 55:77–81.
+37. Dybedal, I., F. Guan, O.J. Borge, O.P. Veiby, V. Ramsfjell,
+S. Nagata, and S.E. Jacobsen. 1997. Transforming growth
+factor-beta1 abrogates Fas-induced growth suppression and
+apoptosis of murine bone marrow progenitor cells. Blood. 90:
+3395–3403.
+38. Li, C.L., and G.R. Johnson. 1995. Murine hematopoietic
+stem and progenitor cells: I. Enrichment and biologic charac-
+terization. Blood. 85:1472–1479.
+39. Osawa, M., K. Nakamura, N. Nishi, N. Takahasi, Y.
+Tokuomoto, H. Inoue, and H. Nakauchi. 1996. In vivo
+self-renewal of c-Kitϩ Sca-1ϩ Lin(low/Ϫ) hemopoietic
+stem cells. J. Immunol. 156:3207–3214.
+40. Nagafuji, K., T. Shibuya, M. Harada, S. Mizuno, K. Ta-
+kenaka, T. Miyamoto, T. Okamura, H. Gondo, and Y.
+Niho. 1995. Functional expression of Fas antigen (CD95) on
+hematopoietic progenitor cells. Blood. 86:883–889.
+41. Osawa, M., K. Hanada, H. Hamada, and H. Nakauchi. 1996.
+Long-term lymphohematopoietic reconstitution by a single
+CD34- low/negative hematopoietic stem cell. Science. 273:
+242–245.
+42. Sato, T., J.H. Laver, and M. Ogawa. 1999. Reversible ex-
+pression of CD34 by murine hematopoietic stem cells. Blood.
+94:2548–2554.
+43. Morrison, S.J., and I.L. Weissman. 1994. The long-term re-
+populating subset of hematopoietic stem cells is deterministic
+and isolatable by phenotype. Immunity. 1:661–673.
+44. Harrison, D.E., M. Stone, and C.M. Astle. 1990. Effects of
+transplantation on the primitive immunohematopoietic stem
+cell. J. Exp. Med. 172:431–437.
+45. Jones, R.J., P. Celano, S.J. Sharkis, and L.L. Sensenbrenner.
+1989. Two phases of engraftment established by serial bone
+marrow transplantation in mice. Blood. 73:397–401.
+46. Fortunel, N.O., A. Hatzfeld, and J.A. Hatzfeld. 2000. Trans-
+forming growth factor-beta: pleiotropic role in the regulation
+of hematopoiesis. Blood. 96:2022–2036.
+47. Graham, G.J., E.G. Wright, R. Hewick, S.D. Wolpe, N.M.
+Wilkie, D. Donaldson, S. Lorimore, and I.B. Pragnell. 1990.
+Identification and characterization of an inhibitor of hae-
+mopoietic stem cell proliferation. Nature. 344:442–444.
+48. Miller, J.S., V. McCullar, and C.M. Verfaillie. 1998. Ex vivo
+culture of CD34ϩ/LinϪ/DRϪ cells in stroma-derived solu-
+ble factors, interleukin-3, and macrophage inflammatory pro-
+tein-1alpha maintains not only myeloid but also lymphoid
+progenitors in a novel switch culture assay. Blood. 91:4516–
+4522.
+49. Capmany, G., S. Querol, J.A. Cancelas, and J. Garcia. 1999.
+Short-term, serum-free, static culture of cord blood-derived
+CD34ϩ cells: effects of FLT3-L and MIP-1alpha on in vitro
+expansion of hematopoietic progenitor cells. Haematologica.
+84:675–682.
+50. Wiesmann, A., M. Kim, A. Georgelas, A.E. Searles, D.D.
+Cooper, W.F. Green, and G.J. Spangrude. 2000. Modulation
+of hematopoietic stem/progenitor cell engraftment by trans-
+forming growth factor beta. Exp. Hematol. 28:128–139.
+51. Soma, T., J.M. Yu, and C.E. Dunbar. 1996. Maintenance of
+murine long-term repopulating stem cells in ex vivo culture
+is affected by modulation of transforming growth factor-beta
+but not macrophage inflammatory protein-1 alpha activities.
+Blood. 87:4561–4567.
+52. Nagata, S., and T. Suda. 1995. Fas and Fas ligand: lpr and gld
+mutations. Immunol. Today. 16:39–43.
+53. Nagata, S., and P. Golstein. 1995. The Fas death factor. Sci-
+ence. 267:1449–1456.
+54. Smith, C.A., T. Farrah, and R.G. Goodwin. 1994. The TNF
+receptor superfamily of cellular and viral proteins: activation,
+costimulation, and death. Cell. 76:959–962.
+55. Maciejewski, J.P., C. Selleri, T. Sato, S. Anderson, and N.S.
+Young. 1995. Increased expression of Fas antigen on bone
+marrow CD34ϩ cells of patients with aplastic anaemia. Br. J.
+Haematol. 91:245–252.
+56. Vinci, G., S. Chouaib, B. Autran, and J.P. Vernant. 1991.
+Evidence that residual host cells surviving the conditioning
+regimen to allogeneic bone marrow transplantation inhibit
+donor hematopoiesis in vitro—the role of TNF-alpha. Trans-
+plantation. 52:406–411.
+57. Wiesmann, A., R.L. Phillips, M. Mojica, L.J. Pierce, A.E.
+Searles, G.J. Spangrude, and I. Lemischka. 2000. Expression
+of CD27 on murine hematopoietic stem and progenitor cells.
+Immunity. 12:193–199.
+58. Baxter, G.T., R.C. Kuo, O.J. Jupp, P. Vandenabeele, and
+D.J. MacEwan. 1999. Tumor necrosis factor-alpha mediates
+both apoptotic cell death and cell proliferation in a human
+hematopoietic cell line dependent on mitotic activity and re-
+ceptor subtype expression. J. Biol. Chem. 274:9539–9547.
+59. Barcena, A., S.W. Park, B. Banapour, M.O. Muench, and E.
+Mechetner. 1996. Expression of Fas/CD95 and Bcl-2 by
+primitive hematopoietic progenitors freshly isolated from hu-
+man fetal liver. Blood. 88:2013–2025.
+60. Lee, S.J., T. Zhou, C. Choi, Z. Wang, and E.N. Benveniste.
+2000. Differential regulation and function of Fas expression
+on glial cells. J. Immunol. 164:1277–1285.
+61. Ouaaz, F., M. Li, and A.A. Beg. 1999. A critical role for the
+RelA subunit of nuclear factor kappaB in regulation of multi-
+ple immune-response genes and in Fas-induced cell death. J.
+952 Fas and TNF-␣ Targeting of Hematopoietic Stem Cells
+Exp. Med. 189:999–1004.
+62. Zheng, Y., F. Ouaaz, P. Bruzzo, V. Singh, S. Gerondakis,
+and A.A. Beg. 2001. Nf-kappab rela (p65) is essential for tnf-
+alpha-induced fas expression but dispensable for both tcr-
+induced expression and activation-induced cell death. J. Im-
+munol. 166:4949–4957.
+63. Grell, M., P.H. Krammer, and P. Scheurich. 1994. Segrega-
+tion of APO-1/Fas antigen- and tumor necrosis factor recep-
+tor-mediated apoptosis. Eur. J. Immunol. 24:2563–2566.
+64. Schulze-Osthoff, K., P.H. Krammer, and W. Droge. 1994.
+Divergent signalling via APO-1/Fas and the TNF receptor,
+two homologous molecules involved in physiological cell
+death. EMBO J. 13:4587–4596.
+65. Wong, G.H., and D.V. Goeddel. 1994. Fas antigen and p55
+TNF receptor signal apoptosis through distinct pathways. J.
+Immunol. 152:1751–1755.
+66. Williams, D.A. 1993. Ex vivo expansion of hematopoietic
+stem and progenitor cells—robbing Peter to pay Paul? Blood.
+81:3169–3172.
+67. Peters, S.O., E.L. Kittler, H.S. Ramshaw, and P.J. Quesen-
+berry. 1996. Ex vivo expansion of murine marrow cells with
+interleukin-3 (IL-3), IL- 6, IL-11, and stem cell factor leads
+to impaired engraftment in irradiated hosts. Blood. 87:30–37.
+

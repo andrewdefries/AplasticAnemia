@@ -1,0 +1,2290 @@
+BioMed Central
+Page 1 of 18
+(page number not for citation purposes)
+Journal of Translational Medicine
+Open AccessResearch
+The thrombopoietin receptor, c-Mpl, is a selective surface marker
+for human hematopoietic stem cells
+John M Ninos1, Leigh C Jefferies2, Christopher R Cogle3 and
+William G Kerr*4
+Address: 1H. Lee Moffitt Cancer Center and Research Institute, Immunology Program, Department of Interdisciplinary Oncology, University of
+South Florida, SRB-2, 12902 Magnolia Drive, Tampa, FL 33612-9416, USA, 2AstraZeneca LP, Drug Safety US, FOC NW2-263, Wilmington,
+Delaware 19850-5437, USA, 3University of Florida, Division of Hematology/Oncology, 1600 SW Archer Road, ARB R4-252, P.O. Box 100277,
+Gainesville, FL 32610-0277, USA and 4H. Lee Moffitt Cancer Center and Research Institute, Immunology Program, Departments of
+Interdisciplinary Oncology and Biochemistry, University of South Florida, SRB-2, 12902 Magnolia Drive, Tampa, FL 33612-9416, USA
+Email: John M Ninos - ninosj@moffitt.usf.edu; Leigh C Jefferies - leigh.jefferies@astrazeneca.com; Christopher R Cogle - c@ufl.edu;
+William G Kerr* - kerrw@moffitt.usf.edu
+* Corresponding author
+Abstract
+Background: Thrombopoietin (TPO), the primary cytokine regulating megakaryocyte proliferation and differentiation,
+exerts significant influence on other hematopoietic lineages as well, including erythroid, granulocytic and lymphoid
+lineages. We previously demonstrated that the receptor for TPO, c-mpl, is expressed by a subset of human adult bone
+marrow hematopoietic stem/progenitor cells (HSC/PC) that are enriched for long-term multilineage repopulating ability
+in the SCID-hu Bone in vivo model of human hematopoiesis.
+Methods: Here, we employ flow cytometry and an anti-c-mpl monoclonal antibody to comprehensively define the
+surface expression pattern of c-mpl in four differentiation stages of human CD34+ HSC/PC (I: CD34+38--, II: CD34+38dim,
+III: CD34+38+, IV: CD34dim38+) for the major sources of human HSC: fetal liver (FL), umbilical cord blood (UCB), adult
+bone marrow (ABM), and cytokine-mobilized peripheral blood stem cells (mPBSC). We use a surrogate in vivo model of
+human thymopoiesis, SCID-hu Thy/Liv, to compare the capacity of c-mpl+ vs. c-mpl-- CD34+38--/dim HSC/PC for
+thymocyte reconstitution.
+Results: For all tissue sources, the percentage of c-mpl+ cells was significantly highest in stage I HSC/PC (FL 72 ± 10%,
+UCB 67 ± 19%, ABM 82 ± 16%, mPBSC 71 ± 15%), and decreased significantly through stages II, III, and IV ((FL 3 ± 3%,
+UCB 8 ± 13%, ABM 0.6 ± 0.6%, mPBSC 0.2 ± 0.1%) [ANOVA: P < 0.0001]. The relative median fluorescence intensity
+of c-mpl expression was similarly highest in stage I, decreasing through stage IV [ANOVA: P < 0.0001]. No significant
+differences between tissue sources were observed for either % c-mpl+ cells [P = 0.89] or intensity of c-mpl expression
+[P = 0.21]. Primary Thy/Liv grafts injected with CD34+38--/dimc-mpl+ cells showed slightly higher levels of donor HLA+
+thymocyte reconstitution vs. CD34+38--/dimc-mpl---injected grafts and non-injected controls (c-mpl+ vs. c-mpl--: CD2+ 6.8
+± 4.5% vs. 2.8 ± 3.3%, CD4+8-- 54 ± 35% vs. 31 ± 29%, CD4--8+ 29 ± 19% vs. 18 ± 14%).
+Conclusion: These findings support the hypothesis that the TPO receptor, c-mpl, participates in the regulation of
+primitive human HSC from mid-fetal through adult life. This study extends our previous work documenting human B-
+lineage, myeloid and CD34+ cell repopulation by c-mpl+ progenitors to show that c-mpl+ HSC/PC are also capable of
+significant T-lineage reconstitution in vivo. These results suggest that c-mpl merits consideration as a selective surface
+marker for the identification and isolation of human HSC in both basic research and clinical settings.
+Published: 16 February 2006
+Journal of Translational Medicine 2006, 4:9 doi:10.1186/1479-5876-4-9
+Received: 20 October 2005
+Accepted: 16 February 2006
+This article is available from: http://www.translational-medicine.com/content/4/1/9
+© 2006 Ninos et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 2 of 18
+(page number not for citation purposes)
+Background
+Elucidating the nature and biology of the primitive
+pluripotent hematopoietic stem cell (HSC) has been a
+major goal of research efforts in hematopoiesis. Practical
+and accurate identification of primitive human HSC is
+useful for both research investigation of stem cell physiol-
+ogy, as well as for clinical applications, such as stem cell
+transplantation, stem cell expansion and gene therapy.
+Isolation of candidate human HSC allow investigations
+into stem cell renewal, expansion, and key events in line-
+age commitment during maturation and development.
+Positive selection strategies allow transplantation of HSC
+capable of long-term multilineage hematopoietic recon-
+stitution, while avoiding transfer of cells responsible for
+graft versus host disease in the allogeneic setting, or con-
+taminating tumor cells in the autologous setting.
+It is now common practice to utilize monoclonal antibod-
+ies raised against an array of relevant cell surface antigens
+for the identification and purification of subpopulations
+of human hematopoietic stem/progenitor cells (HSC/PC)
+[1]. Historically, the surface marker most commonly used
+for human HSC/PC isolation has been the CD34 antigen
+[2,3]. Human hematopoietic cells expressing the CD34
+antigen are enriched for HSC/PC, but represent a hetero-
+geneous population, including early progenitors with
+high levels of CD34 (CD34Bright) [4], and lineage-commit-
+ted progenitors, with decreasing levels of CD34 as they
+differentiate (CD34dim) [1,5,6]. The long-term multipo-
+tent repopulating capability of CD34+ HSC/PC, which
+encompasses B- and T-lymphoid, myelomonocytic, eryth-
+roid, and megakaryocytic reconstitution in vivo, resides
+within the CD34Bright fraction [4]. In order to more finely
+delineate those CD34Bright cells which possess the recon-
+stitutive and self-renewal properties of primitive HSC,
+other cell surface antigens have been investigated, such as
+CD38, CD50, HLA-DR, CD71, CD90, CD117, and more
+recently CD133 [1] and CDCP1 [7,8].
+The CD38 antigen has been useful to further identify
+CD34+ HSC/PC that have begun the initial stages of line-
+age commitment. CD38 is a 45 kD glycoprotein whose
+function is unknown. Terstappen et al. [6] found that
+expression of CD38 is an early event in the differentiation
+of human CD34+ adult bone marrow (ABM) cells into the
+erythroid, myeloid and lymphoid lineages, and therefore,
+a useful marker for indicating early lineage commitment.
+Based on the differential expression of the CD34 and
+CD38 differentiation antigens, the lineage-associated
+antigens CD71, CD33, CD10, CD5 and CD7, together
+with forward and orthogonal light-scattering properties,
+the authors developed a model for human ABM HSC/PC
+differentiation to include four progressive developmental
+stages I through IV. Stages I (CD34++CD38--) and II
+(CD34++/+CD38+/++) included the uncommitted,
+multipotent progenitor cells; stages III (CD34+CD38+++)
+and IV (CD34dimCD38+++) included the lineage-commit-
+ted progenitor cells. Subsequent studies have confirmed
+the basic tenets of this model, and shown that the
+CD34+CD38-- stage I HSC/PC are highly enriched for
+pluripotent stem cell activity [9], including long-term cul-
+ture-initiating cells (LTC-IC) and long-term repopulating
+stem cells [5,6,10-12].
+Many studies of HSC have identified factors that influence
+maintenance or self-renewal of the stem cell and factors
+that lead to differentiation and lineage commitment.
+Thrombopoietin (TPO) is a cytokine isolated by several
+groups and determined to be the primary regulator of lin-
+eage-committed megakaryocyte and platelet development
+[13]. However, evidence has accumulated to indicate that
+TPO also exerts significant influence on other hematopoi-
+etic lineages as well [14-16]. The question remained
+whether TPO was affecting a broad array of lineage-com-
+mitted progenitor cells, or alternatively, acting on earlier
+multipotent progenitors and primitive pluripotent stem
+cells.
+TPO interacts with the surface receptor, c-mpl, a member
+of the hematopoietic growth factor receptor superfamily
+[13]. Vigon et al. [17] originally cloned and characterized
+c-mpl as the human homolog of the v-mpl oncogene from
+the cDNA library of the human erythroid leukemia cell
+line. They noted its expression by reverse transcriptase-
+polymerase chain reaction (RT-PCR) in human placenta,
+bone marrow (BM), fetal liver (FL), fetal peripheral blood,
+umbilical cord blood (UCB) and adult peripheral blood
+(PB), and by RNA blot in murine immature hematopoi-
+etic precursor cells [18]. Methia et al. [19] found that c-mpl
+mRNA transcripts were expressed in purified CD34+
+hematopoietic cells by RT-PCR. We subsequently found
+that c-mpl is expressed at the cell surface by a subset of
+murine and human HSC/PC that are enriched for cells
+capable of long-term multilineage hematopoietic repopu-
+lation in primary recipients [20].
+In the current study, we further define the expression of
+the c-mpl surface receptor in human CD34+ HSC/PC iso-
+lated from four major sources of HSC from midfetal
+through adult life: FL, UCB, ABM, and cytokine-mobilized
+peripheral blood stem cells (mPBSC). This analysis
+reveals that c-mpl receptor expression is highest on the
+most primitive Stage I subset of CD34+ HSC/PC and pro-
+gressively declines through Stages II, III and IV, regardless
+whether the source is fetal, neonatal or adult. Moreover,
+the intensity of c-mpl expression can serve to define a
+primitive stage of human CD34+ HSC/PC from these four
+tissue sources. In addition, we show that the c-mpl+ frac-
+tion, in contrast to the c-mpl-- fraction, shows a significant
+increase in T-lineage thymocyte repopulation versus con-
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 3 of 18
+(page number not for citation purposes)
+trol grafts in the SCID-hu Thy/Liv in vivo model of human
+thymic development. These studies further indicate that c-
+mpl is a selective human HSC surface receptor with a rel-
+evant role in the regulation of the stem cell compartment,
+and have practical implications for HSC positive selec-
+tion, expansion, and transplantation protocols for both
+basic research and clinical applications.
+Methods
+Human tissues
+Anti-coagulated UCB samples were obtained from two
+sources. UCB specimens were collected at the University
+of Pennsylvania Health System Cord Blood Program
+(Philadelphia, PA) and the Life South Cord Blood Bank of
+the University of Florida (Gainesville, FL) with appropri-
+ate informed consents granted by the patients. Fresh ABM
+mononuclear cell specimens were obtained from Poietic
+Technologies (Gaithersburg, MD) from normal healthy
+volunteers with full informed consent. mPBSC were
+obtained from four cancer patients who were mobilized
+with a standard regimen of G-CSF (Neupogen) beginning
+5 days prior to collection and twice daily during collec-
+tion. mPBSC collections were performed by the University
+of Pennsylvania Transfusion Medicine Section using
+either COBE Spectra (Gambro BCT, Inc., Lakewood, CO)
+or Fenwal CS-3000 Plus (Baxter Healthcare Co., Deerfield,
+IL) blood cell separators. The four patients were being
+treated with high dose chemotherapy followed by mPBSC
+transplant for the following diseases: Hodgkin's Disease,
+Neuroblastoma, and Non-Hodgkin's Lymphoma (2
+patients). All patients consented to the use of small aliq-
+uots of these cells for research purposes according to the
+University of Pennsylvania Hospital and Pathology
+Department guidelines effective at the time of collection.
+Human fetal tissues (liver, thymus and femurs) were
+obtained from Advanced Bioscience Resources (Alameda,
+CA) with all appropriate and necessary informed consent
+measures fulfilled.
+Flow cytometric analysis of human HSC
+Mononuclear cells (MNC) from FL, UCB, ABM and
+mPBSC were isolated, counted on a hemacytometer, pel-
+leted at 200 g for 10 minutes at 4°C and resuspended in
+300 ul of chilled, degassed MACS® Buffer (MB) [phos-
+phate buffered saline pH 7.2, 0.5% bovine serum albu-
+min, 2 mM EDTA] per 108 cells. Prior to antibody
+staining, the MNC were FcR-blocked with human IgG,
+then magnetically labeled with anti-CD34 coupled indi-
+rectly to MACS® magnetic microbeads using the Miltenyi
+CD34 Progenitor Cell isolation kit (Miltenyi Biotech,
+Auburn, CA) according to the manufacturer's instructions.
+Following magnetic labeling, the labeled MNC cells were
+washed, resuspended in 500 uL chilled MB per 108 cells
+and loaded onto a Miltenyi MACS® VS+ positive selection
+column and placed in the magnetic field of a Vario MACS®
+separator. The column was washed 3× with chilled MB.
+The CD34+ cells remaining in the column were eluted
+with 5 ml of chilled MB. The CD34+ selected cells were
+counted on a hemacytometer and stained with the follow-
+ing two antibody panels: 1) isotype control panel: CD34-
+FITC (clone 581; 10 uL; BD Biosciences, San Diego, CA),
+CD38-PE (clone HIT2; 3 uL; Caltag Laboratories, Burlin-
+game, CA) and mouse IgG1-biotin (2.4 ug/24 uL; Caltag)
+and 2) c-mpl panel: CD34-FITC, CD38-PE, c-mpl-biotin
+(clone 3G4/CD110; 2.4 ug/5 uL; Genentech, Inc., San
+Franciso, CA) [21,22]. Biotinylated antibodies were
+revealed with Streptavidin-APC (3 uL/106 cells; BD Bio-
+sciences). The final concentration of IgG1-biotin and c-
+mpl-biotin for each experiment were equivalent. The cells
+were stained at a concentration of 106 cells/50 uL staining
+medium (SM) [PBS, 1% fetal bovine serum] for 30 min-
+utes at 4°C. The cells were washed in SM, pelleted at 300
+g and resuspended in SM with either propidium iodide
+(PI) [1 ug/mL; Sigma, St. Louis, MO] or 7-AAD (10 uL/
+mL; BD Biosciences) for dead cell exclusion. The stained,
+CD34-selected cells were then acquired on either a FACS-
+Vantage™ or a FACSCalibur™ flow cytometer using Cel-
+lQuest™ software (BD Biosciences). Data was analyzed
+using FlowJo® version 4 software (Treestar Inc., Ashland,
+Oregon). From both staining panels, 100,000 events were
+acquired, unless sample size was limiting (UCB: 7,000–
+38,000 events; FL 40,000–100,000 events). The analysis
+protocol was consistent and uniform across all samples
+from each HSC source. Minor adjustments to the gates
+were made between individual specimens to account for
+experimental variability. Beginning with the cells stained
+with the isotype control panel, a "cell" gate was created on
+a forward scatter (FSC) vs. side scatter (SSC) plot to elim-
+inate debris, platelets, red cells, cell doublets, and MNC
+with high SSC. From within the "cell" gate, a "viability"
+gate was applied on a log histogram plot of PI or 7-AAD
+to exclude nonviable events. A CD34-FITC vs. CD38-PE
+contour plot was then selected on viable cells. From this
+plot, four HSC/PC differentiation stage subsets based on
+CD34 vs. CD38 expression were delineated as per Terstap-
+pen et al. [6]: (I): CD34+CD38-- (II): CD34+CD38dim (III):
+CD34+CD38+ (IV): CD34dimCD38+. From within each
+"CD34/CD38 stage" of the isotype control-stained cells, an
+IgG1-APC histogram plot was created. The "c-mpl--" gate
+was then defined by including 99.5% of the IgG1-APC
+negative events. This gate was adjusted by ± 0.1–0.2%
+when the FlowJo software could not select exactly 99.5%
+of the events. Conversely, a "c-mpl+" gate was defined to
+include 0.5% (± 0.1–0.2%) of the IgG1-APC positive
+events and extended to the far right of the APC histogram.
+The "cell", "viability", "CD34/CD38 stage" and "c-mpl+"
+gates were then applied exactly, without alteration, to the
+paired cell sample stained with the c-mpl antibody panel
+to determine the percentage of c-mpl+ cells in each CD34/
+CD38 stage. Two statistical methods in the FlowJo soft-
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 4 of 18
+(page number not for citation purposes)
+ware – super-enhanced Dmax subtraction (SED) [23] and
+Overton subtraction [24] – were also used to determine
+the percentage of c-mpl+ events relative to the isotype con-
+trol in a univariate population comparison. Furthermore,
+the median fluorescence intensity (MFI) of the log APC
+parameter for each CD34/CD38 stage from each specimen
+was determined for both the IgG1 isotype control and c-
+mpl panel-stained sample pairs. The MFI of the c-mpl
+panel-stained cells was then normalized against the MFI
+of the IgG1 isotype control panel-stained cells for each
+CD34/CD38 subset to allow comparison of the Relative
+MFI (RMFI) across each specimen and each stem cell tis-
+sue source. Next, for each sample from every tissue source,
+we again selected those events falling within both the
+"cell" gate and the "viable" gate to include only viable
+MNC. We analyzed these viable MNC for c-mpl-APC flu-
+orescence intensity on a histogram plot of the log APC
+parameter. We then selected three discrete subsets of cells
+based solely on their percentile level of c-mpl-APC fluo-
+rescence intensity for further analysis: (1) High [98–
+100%tile] (2) Intermediate [48–50%tile] and (3) Low [18–
+20%tile]. These three percentile groups were then analyzed
+on CD34-FITC vs. CD38-PE contour and dot plots to dis-
+cern qualitative differences in CD34 and CD38 expres-
+sion. A similar anaysis was then performed on a select
+number of specimens for a more complete range of High
+percentile groupings by drawing five gates on the histo-
+gram plot to define a progression of five discrete levels of
+High c-mpl expression: 79–80%tile, 84–85%tile, 89–
+90%tile, 94–95%tile, and 99–100%tile.
+Statistical comparisons were performed using Prism 4.0
+software (GraphPad Software, San Diego, CA). By conven-
+tion, the threshold value, α, was set to 0.05. The percent-
+age of viable c-mpl+ cells was determined by: 1) manual
+gating, 2) the SED algorithm, and 3) the Overton subtrac-
+tion algorithm. For each human tissue studied (FL, UCB,
+ABM, mPBSC), the following human HSC/PC subset
+groups were compared in a repeated measures two-way
+analysis of variance: (I) CD34+CD38--, (II) CD34+CD38dim,
+(III) CD34+CD38+, and (IV) CD34dimCD38+. Tukey's and
+Bonferroni's Multiple Comparison post-tests were then
+performed to compare pairs of group means. In addition,
+a post-test for a linear trend was performed with the sub-
+set groups arranged in the following order: I, II, III, IV.
+Next, the RMFI values (after normalizing to the isotype
+control MFI) were analyzed in the same manner and using
+the same groups for comparison as for the c-mpl+ analyses
+described above.
+Generation of SCID-hu Thy/Liv mice
+Eight week old C.B-17 scid/scid severe combined immune
+deficiency (SCID) mice were implanted with human fetal
+thymus and liver fragments as previously described [25-
+28]. Briefly, human fetal thymus and liver tissue were
+obtained from 18–22 week gestational fetuses. During the
+preparation of the tissue grafts, MNC were collected and
+analyzed by flow cytometry using a panel of human leu-
+kocyte antigen (HLA) antibodies (One Lambda, Inc.,
+Canoga Park, CA) and found to be negative for HLA-B8.
+The 8 week old SCID mice were anesthetized with Keta-
+mine. The fur over the mouse kidney was shaved and the
+skin prepped with alcohol and betadine. The skin and per-
+itoneum were opened over the right kidney. The kidney
+was exposed with a hemostat. Two ~1 mm3 cubes of fetal
+liver were placed adjacent to one ~1 mm3 cube of fetal thy-
+mus in a 16 gauge trocar and co-implanted as a unit under
+the renal capsule. The peritoneal and fascial layers were
+restored with sutures (Ethicon, Somerville, NJ), and the
+skin incision was secured with MikRon 9 mm Autoclips
+(MikRon Precision, Gardena, CA). The human Thy/Liv
+transplants were allowed to engraft for 8 weeks.
+Analysis of engraftment in SCID-hu Thy/Liv grafts
+Bone marrow MNC from an HLA-B8+ normal volunteer
+donor were positively selected for the CD34 antigen with
+CD34 immunolabeled magnetic beads using the CD34
+Progenitor Cell kit (Miltenyi Biotech). The CD34+ cells
+were stained with CD34-FITC, CD38-PE, and biotinylated
+anti-c-mpl (clone 3G4/CD110) [21,22]. A small aliquot
+of the sample was stained with CD34-FITC, CD38-PE and
+biotinylated IgG1-isotype control. The biotinylated anti-
+bodies were revealed with Streptavidin-APC. The cells
+were washed and resuspended in SM containing PI (1 ug/
+mL). Samples were acquired and sorted on a FACSVan-
+tage™ flow cytometer using CellQuest™ software. After gat-
+ing for viable cells based on PI exclusion and light side
+scatter, an IgG1-APC histogram for CD34+CD38--/dim cells
+was plotted. A c-mpl-- gate was drawn to include 99% of
+the cells in the IgG1 isotype control stain. A c-mpl+ gate
+was drawn from the end of the c-mpl-- gate to the far right
+of the histogram. These two gates were then applied to the
+c-mpl-panel stained cells, and CD34+CD38--/dimc-mpl+
+and CD34+CD38--/dimc-mpl-- cells were sorted into tubes
+containing RPMI1640 (Mediatech, Inc., Herndon, VA)
+with 3% fetal bovine serum and 10 mM HEPES. The
+sorted cells were counted on a hemacytometer, pelleted at
+200 g for 10 minutes at 4°C and resuspended in sterile
+PBS. The diluted CD34+CD38--/dimc-mpl+ and
+CD34+CD38--/dimc-mpl-- cells were loaded separately into
+a Hamilton syringe. SCID-hu Thy/Liv mice were irradiated
+with 400 rads from a Cs137 source prior to injection. The
+mice were anesthetized with ketamine, and the Thy/Liv
+grafts were gently exteriorized and inspected. Only mice
+with healthy, robust grafts (numbering 22) were chosen
+for HSC subset injections. Grafts were injected with the
+viable sorted HSC subsets at 30,000 or 60,000 cells per
+graft. Ten grafts were injected with 60 k (3 grafts) or 30 k
+(7 grafts) of viable CD34+CD38--c-mpl-- cells. Nine grafts
+were injected with 60 k (2 grafts) or 30 k (7 grafts) of via-
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 5 of 18
+(page number not for citation purposes)
+The most primitive CD34+ HSC/PC from all major tissue sources express the highest levels of c-mpl surface receptorFigure 1
+The most primitive CD34+ HSC/PC from all major tissue sources express the highest levels of c-mpl surface
+receptor. A. Representative CD34-FITC vs. CD38-PE contour plots generated from magnetically selected viable CD34+
+mononuclear cells from representative specimens of the four major tissue sources of human HSC/PC: FL, UCB, ABM, and
+mPBSC. Gates defining the four differentiation stages of human CD34+HSC/PC as defined by Terstappen et al. [6] are shown:
+I: CD34+38-. II: CD34+38dim III: CD34+38+ IV: CD34dim38+. B. Overlay of the c-mpl-APC histogram plots of viable human
+CD34+ mononuclear cells from the four HSC/PC differentiation stages depicted in Fig. 1A above. Stage I [red]. Stage II [blue].
+Stage III [green]. Stage IV [light blue]. For comparison, a control histogram plot [gray] is shown that is generated from differen-
+tiation stage I cells stained with an IgG1 isotype control-APC antibody equivalent in concentration to the c-mpl-APC antibody
+stain. Isotype control histogram plots for each HSC/PC differentiation stage were used to separately set the manual gates that
+define the c-mpl+ and c-mpl-- cell populations for each stage. C. CD34-FITC vs. CD38-PE dot plots derived from the same rep-
+resentative human CD34+ tissue specimens as depicted in Fig. 1A. From each specimen, all cell events were initially categorized
+by their percentile level of fluorescence on the c-mpl-APC parameter on a log histogram plot. Three gates were drawn on the
+histogram plot to define three discrete levels of c-mpl expression: High (98–100 percentile); Intermediate (48–50 percentile);
+Low (18–20 percentile). Viable cell events falling within one of these three percentile ranges are depicted on the dot plot with
+their corresponding color code: High [light blue]; Intermediate [dark blue]; Low [red]. D. Same data as C, but using contour
+plots to visualize the data. High [red]; Intermediate [yellow]; Low [blue].
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+I
+IV
+III
+II
+I
+II
+III
+I
+II
+IIIIV III
+II
+I
+IVIV
+CD38-PE
+F L U C B A B M m P B S C
+CD34-FITC
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4 10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+c-MPL-APC
+I
+II
+III
+IV
+IgG1Ctl.
+CD38-PE
+CD34-FITC
+98-100%tile c-mpl-APC
+48-50%tile c-mpl-APC
+18-20%tile c-mpl-APC
+CD34-FITC
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+CD38-PE
+98-100%tile c-mpl-APC
+48-50%tile c-mpl-APC
+18-20%tile c-mpl-APC
+A
+B
+C
+D
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 6 of 18
+(page number not for citation purposes)
+ble CD34+CD38--c-mpl+ cells. Three grafts were reserved
+as non-injected controls. The c-mpl+ and c-mpl---injected
+ABM stem cell subsets were then allowed to repopulate
+the Thy/Liv grafts for 8 weeks. After 8 weeks, surviving
+mice were: c-mpl+: 60 k (1), 30 k (3); c-mpl--: 60 k (2), 30
+k (5); non-injected: (3). The Thy/Liv grafts from the sur-
+viving mice were carefully exteriorized and removed. Sin-
+gle cell suspensions from each graft were prepared and
+stained separately with: (1) IgG1-FITC (5 uL/106 cells; BD
+Pharmingen), IgG1-PE (5 uL/106 cells; BD Pharmingen),
+IgG2b-biotin (10 uL/106 cells; Caltag), (2) CD34-FITC
+(10 uL/106 cells; BD Pharmingen; clone 581), CD2-PE (10
+uL/106 cells; BD Pharmingen; clone RPA-2.10) and HLA-
+B8-biotin (5 uL/106 cells; One Lambda), and (3) CD4-
+FITC (10 uL/106 cells; BD Pharmingen; clone RPA-T4),
+CD8-PE (10 uL/106 cells; BD Pharmingen; clone RPA-T8),
+and HLA-B8-biotin (5 ul/106 cells). Biotin conjugates
+were revealed with Streptavidin-APC (3 uL/106 cells; BD
+Pharmingen). Cells were resuspended in SM with PI (1
+ug/mL) for dead cell exclusion. For each antibody panel,
+100,000 events were acquired on a FACSCalibur™ flow
+cytometer using CellQuest™ software. Analysis was per-
+formed using FlowJo® version 4 software. A "human cell"
+gate was drawn around the human lymphoid cell popula-
+tion based on a FSC vs. SSC plot. A "viable" gate was cre-
+ated around viable cells on a PI vs. FSC plot. The viable
+human lymphoid cell population in the non-injected
+Thy/Liv grafts was used to define the HLA-B8 positive and
+negative gates for both the CD34/CD2/HLA-B8 and CD4/
+CD8/HLA-B8 antibody stain panels. In each case, an HLA-
+B8-- gate was defined to include 99.0% of the HLA-B8-
+stained non-injected Thy/Liv grafts, and an HLA-B8+ gate
+was drawn to extend from the HLA-B8-- gate to the
+extreme right of the APC parameter log histogram plot.
+Subsequent analysis (data not shown) confirmed that this
+strategy for defining the HLA-B8+ events was more restric-
+tive than the strategy of defining HLA-B8+ events using an
+IgG2b-APC isotype control.
+For statistical comparisons of Thy/Liv reconstitution, the
+threshold value, α, was set to 0.05. The following thymo-
+cyte subsets were analyzed: total CD2+, CD4+CD8+,
+CD4+CD8--, and CD8+CD4--. For each subset, the follow-
+ing three SCID-hu Thy/Liv graft injection groups were
+compared for the percentage of viable HLA-B8+ lymphoid
+cells in a one-way analysis of variance: (1) non-injected con-
+trol Thy/Liv grafts; (2) CD34+CD38--/dimc-mpl---injected
+Thy/Liv grafts and (3) CD34+CD38--/dimc-mpl+-injected
+Thy/Liv grafts. A Dunnet's Multiple Comparison post-test
+was performed to compare separately the c-mpl-- and c-
+mpl+ injections with the non-injected control Thy/Liv
+grafts. In addition, a post-test for a linear trend was per-
+formed with the groups arranged in the following order:
+non-injected controls, CD34+CD38--/dimc-mpl---injections, and
+CD34+CD38--/dimc-mpl+-injections.
+Results
+C-mpl is expressed by primitive HSC from all major tissue
+sources
+Our previous findings demonstrated that c-mpl is
+expressed by the subset of CD34+ cells in normal human
+ABM that lack or have low surface expression of CD38
+[20]. The CD34+CD38--/dim population of cells is known
+to be enriched for primitive HSC relative to the
+CD34+CD38+ subset based on its ability to support long-
+term multilineage repopulation in vivo in a pre-immune
+fetal sheep model [5] or to give rise to significant numbers
+of LTC-IC in vitro [11,12]. Therefore, we conducted a more
+comprehensive and extensive examination of c-mpl recep-
+tor surface expression in distinct human hematopoietic
+CD34/CD38 HSC/PC subsets. In order to characterize
+more completely the expression pattern of c-mpl in
+human CD34+ cells, we chose to investigate c-mpl expres-
+sion across four different human HSC/PC differentiation
+stages originally characterized by Terstappen et al. [6]: (I)
+CD34+CD38--. (II) CD34+CD38dim (III) CD34+CD38+
+(IV) CD34dimCD38+. We analyzed the expression of the c-
+mpl receptor in these four stages of HSC/PC differentia-
+tion from four major sources of human HSC: FL, UCB,
+ABM and mPBSC. These four tissue sources represent the
+major locations of human hematopoiesis from midfetal
+life through adulthood. In each case, we isolated CD34+
+cells by magnetic bead positive selection, and stained
+equivalent numbers of these cells with two monoclonal
+antibody panels: (1) Isotype control panel: monoclonal
+antibodies to CD34-FITC, CD38-PE and IgG1-APC or (2)
+c-mpl panel: monoclonal antibodies to CD34-FITC,
+CD38-PE and c-mpl-APC. Gates were set to identify the
+four stages of HSC/PC differentiation as defined by Ter-
+stappen et al. [6] (Figure 1A). In each case, the analysis
+was first defined by the isotype control antibody panel-
+stained cells, and then applied without modification to
+the c-mpl antibody panel-stained cells. Representative c-
+mpl histograms for each CD34/38 population from each
+tissue are shown in Figure 1B.
+Using this manual gating strategy, the percentage of c-
+mpl+ cells in stage I was >50% for every sample tested
+except one (UCB#2 = 44.5%), and ranged from 44.5% to
+94.5% (ABM#1) [Table 1]. For every sample tested, the
+percentage of c-mpl+ cells decreased uniformly as the dif-
+ferentiation stages progressed from I through IV (Figure
+2A). The mean percentage (± standard deviation [S.D.]) of
+c-mpl+ cells in stage I ranged from 67.18% ± 18.55%
+(UCB) to 81.96% ± 16.29% (ABM), while the mean per-
+centage (± S.D.) of c-mpl+ cells in stage IV ranged from
+0.17% ± 0.07% (PBSC) to 7.91% ± 13.43% (UCB). A
+repeated measures two-way analysis of variance compar-
+ing the two variables, (1) tissue source and (2) differenti-
+ation stage, indicated that the differences observed in the
+percentage of c-mpl+ cells for the four differentiation
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 7 of 18
+(page number not for citation purposes)
+stages were highly significant (p < 0.0001) [Table 2]. Fur-
+thermore, a post-test for a linear trend from stage I
+through stage IV was significant for each tissue source (P
+< 0.0001), indicating a significant decreasing linear trend
+for the percentage of c-mpl+ cells successively in the order
+of stage I, II, III and IV. This analysis also showed that the
+greatest decrease in the mean percentage of c-mpl+ cells
+between contiguous stages occurred between stages II and
+III for each tissue source with a mean difference ranging
+from 37.1% (UCB) to 55.7% (ABM). Bonferroni post-
+tests individually comparing pairs of contiguous stage
+means (I vs. II, II vs. III, III vs. IV) showed that the differ-
+ences were significant for all tissue sources for stages I vs.
+II (p < 0.05: UCB & ABM; p < 0.01: FL & mPBSC) and
+stages II vs. III (p < 0.001), but not significant for stages III
+vs. IV. Thus, the greatest and most significant loss of c-mpl
+expression during this differentiation scheme is associated
+with the acquisition of high level CD38 expression by
+HSC/PC. However, there was no significant interaction
+between the tissue source and the differentiation stage val-
+ues (P = 0.8918). Furthermore, the overall effect of the tis-
+sue source on % c-mpl+ was not significant (P = 0.2949)
+[Figure 2B].
+We confirmed these findings using two mathematical
+comparison algorithms that provide the percentage of
+events that are positive compared to the control popula-
+tion. The Overton cumulative histogram substraction
+algorithm [24] was approximately 4 to 9 percentage
+points higher than the manual gating method for stage I,
+ranging from 76.24% ± 11.11% (UCB) to 85.66% ±
+13.06% (ABM). The stage I mean % c-mpl+ calculated by
+the super-enhanced Dmax subtraction (SED) algorithm
+[23] was approximately 10–17 percentage points higher
+Table 2: Repeated Measures Two-way ANOVA of c-mpl expression in Human HSC/PC: Stage vs. Tissue Source
+Stage Tissue Interaction Bonferroni's Multiple Comparison Linear Trend (One-way)
+% c-mpl+ <0.0001 0.8918 0.2949 Stage I vs. II Stage II vs. III Stage III vs. IV Order: I-II-III-IV
+FL FL <0.01 <0.001 NS <0.0001
+UCB UCB <0.05 <0.001 NS <0.0001
+ABM ABM <0.05 <0.001 NS <0.0001
+mPBSC mPBSC <0.01 <0.001 NS <0.0001
+c-mpl RMFI <0.0001 0.2102 0.0779 Stage I vs. II Stage II vs. III Stage III vs. IV Order: I-II-III-IV
+FL FL NS <0.05 NS <0.0001
+UCB UCB NS <0.01 NS <0.001
+ABM ABM NS <0.001 NS <0.0001
+mPBSC mPBSC <0.01 <0.001 NS <0.0001
+Values represent calculated p values for the indicated analyses. ABM, adult bone marrow; ANOVA, analysis of variance; FL, fetal liver; HSC/PC,
+hematopoietic stem cells/progenitor cells; mPBSC, cytokine-mobilized peripheral blood stem cells; NS, not significant (p > 0.05); RMFI, relative
+median fluorescence intensity; UCB, umbilical cord blood
+Table 1: Percentage of c-mpl+ cells in human HSC/PC differentiation stages
+PERCENTAGE c-mpl+
+Stage I Stage II Stage III Stage IV
+Tissue Source # Manual
+Gate
+Overton
+Algorithm
+SED
+Algorithm
+Manual
+Gate
+Overton
+Algorithm
+SED
+Algorithm
+Manual
+Gate
+Manual
+Gate
+FL 5 Mean 71.54 77.23 86.43 50.76 60.19 72.09 10.15 3.40
+S.D. 10.48 8.02 5.94 14.94 12.04 11.24 5.99 3.49
+UCB 5 Mean 67.18 76.24 83.82 49.92 65.83 75.63 12.85 7.91
+S.D. 18.55 11.11 9.55 21.59 19.74 18.91 12.51 13.43
+ABM 5 Mean 81.96 85.66 92.25 61.60 69.87 80.06 5.93 0.58
+S.D. 16.29 13.06 9.69 23.94 21.76 19.37 3.93 0.61
+mPBSC 4 Mean 71.40 77.58 85.05 48.25 57.14 66.85 7.87 0.17
+S.D. 14.55 13.25 9.29 22.86 19.74 17.39 4.53 0.07
+ABM, adult bone marrow; FL, fetal liver; mPBSC, cytokine-mobilized peripheral blood stem cells; SD, standard deviation; SED, super-enhanced
+Dmax subtraction; UCB, umbilical cord blood
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 8 of 18
+(page number not for citation purposes)
+than the manual gating method, ranging from 83.82% ±
+9.55% (UCB) to 92.25% ± 9.69% (ABM). Likewise, the %
+c-mpl+ for each sample as determined by either the Over-
+ton or SED subtraction algorithms decreased uniformly as
+the differentiation stages progressed from stage I through
+IV.
+In order to quantify differences in the intensity of c-mpl
+receptor expression between the four differentiation
+stages of each sample, we calculated the MFI of c-mpl-APC
+staining on a histogram plot of the APC parameter using
+a log scale. For each differentiation stage of each sample,
+we similarly calculated the MFI of the isotype control-APC
+on the log scale histogram plot. We then divided the c-
+mpl MFI by the isotype control MFI to derive a Relative
+MFI (RMFI) normalized to the isotype control staining
+intensity.
+In every sample except two (UCB#3 & UCB#5), the RMFI
+was highest in differentiation stage I and decreased uni-
+The expression of c-mpl is significantly higher in stage I CD34+ HSC/PC and decreases with advancing differentiation stageFigure 2
+The expression of c-mpl is significantly higher in stage I CD34+ HSC/PC and decreases with advancing differen-
+tiation stage. A&B. For each specimen from every tissue source, CD34+ cells were plotted with FlowJo® software on a
+CD34-FITC vs. CD38-PE contour plot, and gates demarcating HSC/PC differentiation stages I through IV [6] were applied (as
+depicted in Fig. 1A). Cells within each stage were stained with an IgG1 isotype control-APC antibody equivalent in concentra-
+tion to the c-mpl-APC antibody used. On a log histogram plot of IgG1-APC fluorescence, a c-mpl-- gate was manually drawn to
+include the left-most 99.5% (± 0.2%) of isotype control-stained cells. A c-mpl+ gate was manually defined to extend from the
+end of the c-mpl-- gate to the far right of the histogram plot. These gates were defined separately for each HSC/PC differentia-
+tion stage for each tissue source, and then applied without alteration to their corresponding c-mpl-APC stained cells within
+each stage from each tissue. The percentage of cells falling within the c-mpl+ gate was then calculated by the FlowJo® software.
+Error bars = ± standard error of mean (SEM). C&D. For every specimen, the median fluorescent intensity (MFI) of viable
+CD34+ cells from each differentiation stage was calculated by FlowJo® software from the log histogram plot of the c-mpl-APC
+fluorescence parameter. These MFI values for each stage of each tissue specimen were then normalized individually with the
+appropriate MFI value of the corresponding differentiation stage HSC/PCs stained with the IgG1 isotype control, yielding the
+Relative MFI (RMFI). Error bars = ± SEM.
+I
+II
+III
+IV
+A B
+C D
+FL UCB ABM mPBSC
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+I
+II
+III
+IV
+Human Tissue Source
+%c-mpl+
+c-mpl-APC
+RelativeMFI
+FL UCB ABM mPBSC
+0.1
+1
+10
+100
+Human Tissue Source
+I II III IV
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+FL
+UCB
+ABM
+mPBSC
+HSC/PC CD34CD38 Stage
+%c-mpl+
+I II III IV
+0.1
+1
+10
+100
+HSC/PC CD34CD38 Stage
+c-mpl-APC
+RelativeMFI
+FL
+UCB
+ABM
+mPBSC
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 9 of 18
+(page number not for citation purposes)
+formly through stages II, III and IV (Table 3). In UCB#3,
+the RMFI was slightly higher in stage II (16.69) than stage
+I (14.44). In UCB#5, the RMFI was slightly higher in stage
+IV (3.48) than stage III (2.37). The mean RMFI in stage I
+ranged from 7.13 ± 2.06 (FL) to 26.55 ± 36.08 (in PBSC).
+The mean RMFI for each tissue source decreased uni-
+formly from differentiation stage I through stages II, III
+and IV (Figure 2C). Because these data were derived from
+a logarithmic scale, the values were transformed using the
+following equation, Y=log(Y), to convert to a guassian dis-
+tribution for statistical analysis. A repeated measures two-
+way analysis of variance, comparing each differentiation
+stage and each tissue source, was performed (Table 2).
+This analysis confirmed that the differentiation stage had
+an extremely significant effect on c-mpl-APC RMFI when
+considering all tissue sources studied (P < 0.0001). For
+each tissue source, a post-test for a linear trend was signif-
+icant for a decreasing trend from differentiation stage I
+through stages II, III and IV. A Bonferroni Multiple Com-
+parison post-test was calculated for each tissue source to
+individually compare each stage with every other stage.
+The difference in c-mpl RMFI between stage III and stage
+IV was not significant for any tissue source. The difference
+in RMFI between stage I and stage II was significant for the
+mPBSC tissue source only (p < 0.01). All other compari-
+sons between the stages were significantly different in all
+four tissue sources studied [I vs. III, I vs IV, and II vs IV: all
+p < 0.001; II vs III: p < 0.001 (ABM&mPBSC), p < 0.01
+UCB, p < 0.05 FL]. Similar to the % c-mpl+ results, the larg-
+est contiguous decrease in the mean RMFI (transformed
+data) for each tissue source occurred in the transition from
+stage II to stage III. Thus, the greatest log decrease in c-mpl
+receptor density is correlated with strong expression of the
+CD38 surface antigen. However, the interaction between
+the tissue source and all values of the differentiation stage
+was not significant (P = 0.0779). Furthermore, the overall
+effect of the tissue source on c-mpl-APC RMFI was not sig-
+nificant (P = 0.2102) [Figure 2D].
+We also sought to determine whether those individual
+cells expressing the very highest levels of c-mpl receptor,
+as measured by fluorescence intensity of the log APC
+parameter, were clustered together within a discrete
+group, when considering the parameters CD34-FITC and
+CD38-PE. Furthermore, we sought to determine whether
+individual cells expressing the lowest levels of c-mpl
+receptor could similarly be characterized in terms of
+CD34-FITC and CD38-PE. This would allow us to deter-
+mine, in a qualitative sense, whether the density of expres-
+sion of the c-mpl receptor on an individual cell could
+define that cell in terms of CD34 and CD38 antigen
+expression. In every sample studied, virtually all of the
+cells falling within the 98–100%tile c-mpl-APC fluores-
+cence intensity were clustered among those cells express-
+ing the highest levels of CD34 and the lowest levels of
+CD38 (Figure 1C&D). This was true regardless of the tis-
+sue source of the HSC/PCs. Not surprisingly, these high
+intensity c-mpl expressing cells had a narrowly defined
+low FSC and low SSC, with minimal spread (data not
+shown). The cells falling within the 18–20%tile of c-mpl-
+APC fluorescence intensity were more loosely clustered
+among those cells expressing a wide range of levels of
+CD34 surface antigen, from low to moderate to high, as
+well as a range of CD38 surface antigen, from moderate to
+very high, reflecting the inherent heterogenity of this pop-
+ulation. The vast majority of these low intensity c-mpl-
+expressing cells expressed high to very high levels of CD38
+surface antigen. Interestingly, few of these low intensity c-
+mpl-expressing cells expressed very low levels of CD38
+surface antigen. Among the cells that expressed high
+CD38 antigen density, c-mplBright cells were very rare. In
+other words, there was very little overlap between the high
+intensity and low intensity c-mpl stained cells on a CD34-
+FITC vs. CD38-PE contour plot, and virtually no overlap
+between the two populations at both the high and low
+extremes of CD38 surface antigen expression. This was
+true regardless of the tissue source of the HSC/PCs stud-
+Table 3: Relative MFI of c-mpl expression in human HSC/PC differentiation stages
+Relative Median Fluorescence Intensity
+Tissue Source # Stage I Stage II Stage III Stage IV
+FL 5 Mean 7.13 3.68 1.39 1.00
+S.D. 2.06 1.15 0.40 0.56
+UCB 5 Mean 13.14 8.38 2.71 1.92
+S.D. 7.77 6.04 2.03 1.16
+ABM 5 Mean 22.25 9.04 1.34 0.97
+S.D. 18.32 6.12 0.38 0.24
+mPBSC 4 Mean 26.55 5.72 0.94 0.47
+S.D. 36.08 5.01 0.29 0.14
+ABM, adult bone marrow; FL, fetal liver; mPBSC, cytokine-mobilized peripheral blood stem cells; SD, standard deviation; MFI, median fluorescence
+intensity; HSC/PC, hematopoietic stem cells/progenitor cells; UCB, umbilical cord blood
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 10 of 18
+(page number not for citation purposes)
+ied. As expected, the FSC and SSC profile of these low
+intensity c-mpl stained cells exhibited a wider and higher
+range of scatter than the high intensity c-mpl stained cells
+(data not shown). Not surprisingly, those cells expressing
+an intermediate level of c-mpl surface receptor expressed
+a broad range of CD34 and CD38 levels that fell within
+the extremes displayed by the high and low intensity c-
+mpl stained cells. Importantly, these intermediate level c-
+mpl receptor-expressing cells did not overlap with the
+high level c-mpl expressors at the lowest range of CD38
+antigen expression. In fact, the analysis of a select number
+of specimens for a more comprehensive series of High
+intensity c-mpl expressors (79–80%tile, 84–85%tile, 89–
+90%tile, 94–95%tile, and 99–100%tile) indicated that the
+CD34+ cells that express the very lowest levels of CD38
+antigen were nearly exclusive to the cells with the very
+highest intensity c-mpl-expression (Figure 3).
+The CD34+CD38--/dimc-mpl+ subset is capable of thymic
+reconstitution
+One limitation of the SCID-hu bone model of human
+hematopoiesis [20] is that it lacks the thymic microenvi-
+ronment necessary for the development and maturation
+of the T-lymphoid compartment. In order to compare the
+T-lymphoid reconstitution potential of human
+CD34+CD38--/dimc-mpl+ cells versus that of CD34+CD38--
+/dimc-mpl-- cells, we used the SCID-hu Thy/Liv model of
+human hematopoiesis [25-28]. Thy/Liv grafts were
+directly injected with 60,000 or 30,000 HLA-disparate
+human ABM cells of the CD34+CD38--/dimc-mpl+ or the
+CD34+CD38--/dimc-mpl-- phenotype. Three Thy/Liv grafts
+were set aside as non-injected controls. The injected cells
+were allowed to repopulate the Thy/Liv grafts for 8 weeks.
+After 8 weeks, the Thy/Liv grafts were harvested and single
+cell suspensions prepared. Donor repopulation (HLA-B8)
+of the thymic compartment was assessed by flow cytome-
+try with the following antibody panels: (1) CD34-FITC,
+CD2-PE, and Donor HLA-B8-APC; and (2) CD4-FITC,
+CD8-PE, and Donor HLA-B8-APC (Figure 4A–F). Overall,
+the CD34+CD38--/dimc-mpl+ injected cells showed donor-
+derived T-lymphoid repopulation in 75% (3 out of 4
+grafts) of the mice, whereas the CD34+CD38--/dimc-mpl---
+injected cells, demonstrated T-lymphoid repopulation in
+57% (4 out of 7 grafts) of the mice. The mean percentage
+contribution of donor-derived cells to the stages of
+human T-cell development were also compared for grafts
+injected with CD34+CD38--/dimc-mpl+ or CD34+CD38--/
+dimc-mpl-- versus the non-injected control grafts (Table 4).
+For the early stage thymocytes (double positive:
+CD4+CD8+), both injected populations showed very low
+HLA-B8 expression levels that were not significantly dif-
+ferent from the non-injected controls. Presumably, low
+HLA expression in these immature thymocytes limited
+our ability to discern the identity of donor cells in this
+population. For the total (CD2+) and the mature (single
+positive: CD4+CD8--, CD4--CD8+) T-cell development
+stages, the mean percentage contribution of HLA-B8+
+donor repopulation was higher in the CD34+CD38--/dimc-
+mpl+ injected grafts than in the grafts that received
+CD34+CD38--/dimc-mpl-- cells (Figure 5). A one-way analy-
+sis of variance was performed for each T-cell subset com-
+paring the CD34+CD38--/dimc-mpl+ and CD34+CD38--/
+dimc-mpl---injected grafts with the non-injected grafts
+(Table 5). This analysis found the means of the three treat-
+ment arms to be significantly different in the CD2+,
+CD4+CD8--, and CD4--CD8+ subsets (P < 0.05). A Dun-
+nett's Multiple Comparison post-test was then performed
+for the subsets showing significant differences, comparing
+separately the c-mpl+ and c-mpl---injected grafts with the
+non-injected control grafts. For these subsets, the differ-
+ence in means between the c-mpl+-injected grafts and the
+control grafts was significant (P < 0.05), whereas the dif-
+ference in means between the c-mpl---injected grafts and
+the control grafts was not significant (P > 0.05). Further-
+more, a post-test for a linear trend from non-injection
+control to c-mpl-- injections to c-mpl+ injections was sig-
+nificant (P < 0.01). Thus, the increase in the mean per-
+centage of donor-derived cells noted for each subset when
+moving in the order of control grafts to c-mpl---injected
+grafts to c-mpl+-injected grafts appears meaningful. This
+analysis found no significant difference in the degree of
+donor repopulation between injections of 60,000 or
+30,000 cells.
+Discussion
+The marker of choice in human clinical HSC/PC selection
+strategies has generally been CD34 [3,29-32]. However,
+clinical selection strategies utilizing other potentially
+more selective HSC markers, such as CD133 [1] or
+CDCP1 [7], have been proposed. While the consensus
+phenotype of primitive human HSC has been CD34Bright
+CD38--/dim HLA-DR--/dim CD90+ CD117+ Lineage-- and
+rhodamine123lo, this report indicates that c-mplHi/Bright
+may reasonably be included as a defining characteristic of
+primitive human CD34+ HSC. We found for all tissue
+sources that c-mpl expression is highest in the most prim-
+itive category of CD34+ HSC/PC defined by Terstappen et
+al. [6], then decreases significantly as the HSC/PC differ-
+entiation stage matures, manifested by increasing levels of
+the CD38 differentiation antigen. The greatest and most
+significant decrease in % c-mpl+ cells occurs from stage II
+to stage III for all tissue sources. Similarly, the greatest
+decrease in c-mpl antigen levels, as measured by Relative
+MFI, occurs from stage II to stage III, indicating a close
+inverse relationship between c-mpl and CD38 antigen
+expression.
+One potential advantage of using c-mpl as an identifier of
+human HSC is the known biologic role of its ligand part-
+ner, TPO. Borge et al. [33] observed that TPO promoted
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 11 of 18
+(page number not for citation purposes)
+the viability of 51% of multifactor-responsive human
+CD34+CD38-- ABM HSC/PC, 75% of which remained via-
+ble in the absence of detectable cell proliferation. This was
+significantly higher than that of IL-3 (25%), c-kit ligand
+(14%), or Flt-3L (14%). In contrast to the potent ability of
+TPO to promote viability of CD34+CD38-- HSC/PC, TPO
+did not promote the viability of CD34+CD38+ HSC/PC.
+Up to 38% of the individual CD34+CD38-- HSC/PC sur-
+viving in 116 hours of serum-free preincubation medium
+containing a single cytokine, TPO, were multipotent, gen-
+erating myeloid, erythroid, and mixed myeloid/erythroid
+colonies in methylcellulose containing a 10-cytokine
+cocktail. Although the studies did not assay for the lym-
+phoid compartment, our results suggest that these TPO-
+responsive CD34+CD38-- single cells possess both B-lym-
+phoid [20] and T-lymphoid potential as well.
+Previously, using SCID-hu Bone repopulation assays, we
+showed that the capacity for CD34+ HSC/PC repopulation
+correlates with the c-mpl+ fraction of CD34+CD38--
+human ABM HSC [20]. These results are consistent with
+the work of Petzer et al. [12] who showed that TPO could
+expand LTC-IC using an in vitro assay to detect very prim-
+itive HSC/PC. Borge et al. [33] subsequently demon-
+strated that single CD34+CD38-- cells pre-incubated in
+serum-free medium containing TPO alone for 116 hours
+retained nearly all [96%] of the LTC-IC capacity present in
+single CD34+CD38--cells freshly placed in the human BM
+stroma LTC-IC culture assay. Interestingly, while primitive
+human HSC/PC have been posited to express low levels of
+c-kit, significantly more LTC-IC survived in the presence
+of TPO alone than in the presence of c-kit ligand alone.
+The authors also observed that, in contrast to TPO, most
+of the viability-promoting effect of the IL-3, c-kit ligand,
+or Flt-3L cytokines individually on CD34+CD38-- cells was
+associated with cell proliferation. They theorize that the
+CD34+CD38-- cells that proliferate in response to individ-
+ual cytokines possibly represent a more mature progenitor
+subpopulation than those that survive without undergo-
+ing cell division. It is possible that this more mature sub-
+population that proliferates in response to cytokines
+could represent the CD34+CD38--c-mpl-- HSC/PC frac-
+tion. Because the CD34+CD38-- subset represents a heter-
+ogeneous population, assaying for c-mpl antigen density
+using selective monoclonal antibodies such as CD110
+(clone 3G4) [21,22] may offer a practical method to select
+a more primitive HSC/PC within the subset from any tis-
+sue source, potentially representing a high percentage of
+the long-term multilineage repopulating capacity of
+CD34+CD38-- HSC/PC [33]. Importantly, we found for all
+tissues, that the intensity of c-mpl expression can define a
+relatively homogeneous population of CD34+ MNC with
+high CD34 and very low CD38 expression.
+Studies of patients with congenital amegakaryocytic
+thrombocytopenia (CAMT) point to the essential role of
+c-mpl+ HSC subsets in maintaining human long-term
+hematopoiesis in vivo. The pathophysiology of CAMT was
+The intensity of c-mpl expression can define the most primitive HSCFigure 3
+The intensity of c-mpl expression can define the most primitive HSC. CD34-FITC vs. CD38-PE smoothed pseudo-
+color dot plots derived from the same representative human CD34+ ABM and mPBSC specimens as depicted in Fig. 1A. From
+each specimen, all cell events were initially categorized by their percentile level of fluorescence on the c-mpl-APC parameter
+on a log histogram plot. Five gates were drawn on the histogram plot to define a progression of five discrete levels of High
+intensity c-mpl expression: 79–80, 84–85, 89–90, 94–95, and 99–100 percentiles. Viable cell events falling within each percen-
+tile range are depicted on the corresponding smoothed dot plot.
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+7 9 - 8 0 % t i l e 8 4 - 8 5 % t i l e 8 9 - 9 0 % t i l e 9 4 - 9 5 % t i l e 9 9 - 1 0 0 % t i l e
+CD34-FITC
+A B M
+m P B S C
+CD38-PE
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 12 of 18
+(page number not for citation purposes)
+recently determined to be the result of mutations in the c-
+mpl gene, leading to defective responsiveness to TPO [34].
+Ballmaier et al. found that the percentage of CD34+ BM-
+MNC in younger CAMT patients near their time of diagno-
+sis was within the range of normal age-matched controls,
+but progressively and consistently declined as patient age
+increased [34,35]. Furthermore, the CD34+ BM-MNC
+from CAMT patients showed a diminished potential to
+form myeloid, erythroid and megakaryocytoid CFU in
+vitro compared to normal controls, and this reduced
+potential was accentuated with increasing age. Recently,
+Koka et al. [36] reinforced our previous in vivo SCID-hu
+Bone repopulation study [20] by finding that erythroid,
+myeloid and megakaryocytoid in vitro colony-forming
+activity (CFA) of secondarily engrafted human CD34+
+HSC/PC exposed to human immunodeficiency virus type
+Human c-mpl+ HSC/PC have increased T-lineage repopulation capability compared with the corresponding c-mpl-- HSC/PCFigure 4
+Human c-mpl+ HSC/PC have increased T-lineage repopulation capability compared with the corresponding c-
+mpl-- HSC/PC. Small 1 mm3 fragments of human HLA-B8-- fetal thymus and fetal liver were co-implanted, adjacent to one
+another, under the renal capsule of scid/scid (SCID) mice, generating one SCID-hu Thy/Liv graft per mouse. Viable, robust 8-
+week old Thy/Liv grafts (n = 21) were exposed to sublethal irradiation (400 Rads) in vivo, then injected with either 60,000 or
+30,000 sorted human HLA-B8+ CD34+CD38--/dimc-mpl+ or CD34+CD38--/dimc-mpl-- ABM cells and allowed to engraft for 8
+weeks. Three grafts were reserved as non-injected controls. After 8 weeks, the Thy/Liv grafts were harvested, and single cell
+suspensions prepared from these grafts were stained with PI and a panel of fluorescent-conjugated antibodies to T-lineage
+markers and HLA-B8, with all appropriate isotype controls. 100,000 events from each graft were acquired on a FACSCalibur™
+flow cytometer. Representative examples of CD34+CD38--/dimc-mpl+-injected grafts (n = 4), CD34+CD38--/dimc-mpl---injected
+grafts (n = 7), and non-injected grafts (n = 3) are shown. A. Using FlowJo® software, a pseudocolor dot plot of Forward Scatter
+vs. Side Scatter was generated and a Human Lymphoid Cell Gate was applied to isolate engrafted human mononuclear cell
+(MNC) events. B. Viable (PI--) human MNC events were then plotted on CD2-PE vs. HLA-B8-APC dot plot, and a CD2-PE+
+gate was applied to isolate all viable CD2-PE+ MNC events. C. The total CD2-PE+ MNC events were next plotted on an HLA-
+B8-APC histogram plot to apply HLA-B8-- and HLA-B8+ gates. The HLA-B8-- and HLA-B8+ gates were generated from the three
+non-injected Thy/Liv grafts combined. The HLA-B8-- gate was defined to include 99.0% of the left-most viable MNC events of
+the non-injected grafts on an HLA-B8-APC log histogram plot. The HLA-B8+ gate was drawn from the end of the HLA-B8-- gate
+to the far right of the histogram plot. The percentage of viable (PI--) CD2-PE+ HLA-B8+ events, out of the total viable CD2-PE+
+MNC population, is shown for the representative examples of the three treatment arms. D. CD4-FITC vs. CD8-PE pseudo-
+color dot plot of viable (PI--) Human Lymphoid Cell gated events. Gates were applied to depict the thymocyte subsets
+(CD4+CD8+, CD4+CD8--, CD4--CD8+). E. Total viable (PI--) CD4+CD8-- MNC events were plotted on an HLA-B8-APC log
+histogram plot and the HLA-B8+ gate was applied. The percentage of viable donor-derived CD4+CD8--HLA-B8+ events out of
+the total viable CD4+CD8-- MNC events is shown for the representative examples of the three treatment arms. F. Total viable
+(PI--) CD4--CD8+ MNC events were plotted on an HLA-B8-APC log histogram plot, the HLA-B8+ was applied, and the percent-
+age of viable, donor-derived CD4--CD8+HLA-B8+ MNC events out of the total viable CD4--CD8+ MNC population in the Thy/
+Liv graft was calculated.
+HLA-B8-APC
+CD2-PE
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+HLA-B8-APC
+CD2-PE
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+HLA-B8-APC
+CD2-PE
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+CD2+ GateDonor Cell Gate CD2+ B8+ Gate CD4 CD8 Subsets CD4+CD8- B8+ Gate CD4-CD8+ B8+ Gate
+SSC
+FSC
+0 50 100 150 200 250
+0
+50
+100
+150
+200
+250
+76
+SSC
+FSC
+SSC
+FSC
+0 50 100 150 200 250
+0
+50
+100
+150
+200
+250
+6.2
+No injection
+Control
+CD34+38-/dimc-mpl+
+Injections
+CD34+38-/dimc-mpl-
+0 50 100 150 200 250
+0
+50
+100
+150
+200
+250
+34.4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+200
+400
+600
+800
+9.35
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+200
+400
+600
+800
+6.49
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+200
+400
+600
+800
+2.66
+HLA-B8-APC
+HLA-B8-APC
+HLA-B8-APC
+A B C
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+20
+40
+60
+80
+59.3
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+20
+40
+60
+15.5
+CD8-PE
+HLA-B8-APCCD4-FITC HLA-B8-APC
+CD8-PECD8-PE
+HLA-B8-APCCD4-FITC HLA-B8-APC
+HLA-B8-APCCD4-FITC HLA-B8-APC
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+20
+40
+60
+80
+50.8
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+20
+40
+60
+11.8
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+20
+40
+60
+80
+12.2
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+20
+40
+60
+3.39
+D E F
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 13 of 18
+(page number not for citation purposes)
+1 (HIV-1) infection in primary SCID-hu Thy/Liv grafts
+correlated with c-mpl expression. They also found that
+secondary erythroid, myeloid and megakaryocytoid CFA
+in vitro was inhibited by blocking antibodies to c-mpl
+administered in vivo to human HSC/PC residing within
+primary SCID-hu Thy/Liv grafts. Furthermore, a recent
+Table 4: Thymocyte Repopulation of SCID-hu Thy/Liv Grafts
+HLA+ Donor Cell Transplant Non-injected Control CD34+CD38--/dimc-mpl-- CD34+CD38--/dimc-mpl+
+No. Mice Engrafted NA 4/7 3/4
+% Donor CD2+ 2.66 2.80 (3.27) 6.83 (4.48)
+% Donor CD4+8+ 0.82 0.48 (0.47) 0.92 (0.64)
+% Donor CD4+8- 9.84 30.7 (28.9) 54.1 (35.4)
+% Donor CD4-8+ 5.17 18.1 (14.3) 29.2 (19.4)
+HLA, human leukocyte antigen; SCID-hu Thy/Liv, scid/scid mouse with human thymus/liver implants
+Human c-mpl+ HSC/PC show significant repopulation of mature single positive CD4+ and CD8+ thymocytesFigure 5
+Human c-mpl+ HSC/PC show significant repopulation of mature single positive CD4+ and CD8+ thymocytes.
+SCID-hu Thy/Liv grafts (HLA-B8--; n = 21) were sublethally irradiated and injected with 60,000 or 30,000 sorted HLA-disparate
+(HLA-B8+) CD34+CD38--/dimc-mpl+ or CD34+CD38--/dimc-mpl-- human ABM cells and allowed to repopulate for 8 weeks. Three
+grafts were reserved as non-injected controls. The surviving Thy/Liv grafts (c-mpl+ = 4; c-mpl-- = 7; Controls = 3) were har-
+vested and single cell suspensions were stained with PI and fluorescence-conjugated antibodies against T-lineage markers, the
+HLA-B8 donor marker, and appropriate isotype controls. Events (100,000) were acquired and analyzed using FlowJo® software
+to determine the percentage of viable (PI--) donor-derived (HLA-B8+) MNC expressing the different T-lineage markers from
+among all viable MNC expressing that particular marker. Viable (PI--) MNC events from the non-injected Thy/Liv grafts were
+analyzed to establish the HLA-B8-- gate (representing 99.0% of the left-most events on an HLA-B8-APC log histogram plot) and
+the HLA-B8+ gate (extending from the end of the HLA-B8-- gate to the far right of the log histogram). These gates were then
+applied without alteration to the HLA-B8-APC log histogram plots of thymocyte subsets from the c-mpl+ and c-mpl---injected
+Thy/Liv grafts. A. The mean percentage of viable (PI--) CD2-PE+ HLA-B8+ events, out of the total viable CD2-PE+ MNC popula-
+tion is shown for the non-injected grafts (n = 3), the CD34+CD38--c-mpl---injected grafts (n = 7), and the CD34+CD38--c-mpl+-
+injected grafts (n = 4). Error bars = ± SEM. B. The mean percentage of viable (PI--) HLA-B8+ donor-derived CD4/CD8 subset
+thymocytes [CD4+CD8--, CD4--CD8+, CD4+CD8+, CD4--CD8--], out of the respective total thymocyte subset population, is
+shown for the three treatment arms. Error bars = ± SEM.
+No Injection
+CD34+CD38-/dimc-mpl-
+CD34+CD38-/dimc-mpl+
+CD4+CD8+ CD4+CD8- CD4-CD8+
+0
+10
+20
+30
+40
+50
+60
+70
+Viable CD4 CD8 Subsets
+%DonorHLA
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+Viable CD2+ Cells
+%DonorHLA
+A B
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 14 of 18
+(page number not for citation purposes)
+report documents a patient with Systemic Sclerosis and an
+autoantibody to c-mpl who developed pancytopenia, pro-
+viding a naturally occurring example of a blocking anti-
+body to c-mpl and its resultant inhibitory impact on
+human multilineage hematopoiesis in vivo [37].
+Studies have suggested the existence of HSC from select
+tissue sources in early fetal life that are intrinsically differ-
+ent [38-40] and more primitive than HSC isolated from
+various tissue sources in later development and adult life
+[41]. We found no significant differences in c-mpl expres-
+sion between the different tissue sources of HSC. Several
+authors have found a greater proportion of immature
+(CD38-- and/or HLA-DR--) CD34+ cells in UCB compared
+to the other tissue sources, in which no differences were
+noted [42-51]. Sovalat et al. [42] found that UCB CD34+
+cells had a significantly higher percentage of the
+CD34+CD38-- subset than did CD34+ cells from normal
+ABM, mobilized ABM, or mPBSC. The percentage of
+CD34+ HSC/PC from normal PB that were CD38-- was sig-
+nificantly lower than in CD34+ cells from all other tissue
+sources. While we did not address this question directly,
+our study examining differentiation stage subsets raises
+the possibility that differences in stem cell capacity
+between tissue sources may be explained by differences in
+the quantity of c-mplBright/+ HSC residing within the tissue,
+rather than by qualitative differences in c-mpl antigen
+expression of HSC.
+Henon et al. [52,53] found that the CD34+CD38-- HSC/
+PC subset was fundamentally important for early and late
+multilineage engraftment following autologous mPBSC
+transplantation. They found no correlation with infused
+numbers of MNC, CD34+CD33-- cells or CD34+CD33+
+cells, and weak, inconsistent correlation of CFU-GM,
+CD34+ cells or CD34+CD38+ cells, with the number of
+days to reach predetermined recovery parameters of abso-
+lute neutrophil count, platelet count and reticulocyte
+count. Although previous studies have defined a CD34+
+cell threshold value – above which reliable and rapid
+engraftment was stated to occur – actual demonstration of
+a linear correlation between infused CD34+ cells and neu-
+trophil engraftment was rarely reported [52]. Indeed, in
+their study, the use of a CD34+ threshold value as a predic-
+tive factor for engraftment was limited: in 24% (11/45) of
+their patients, the CD34+ content was not predictive for
+rapid hematopoietic recovery. The authors discovered,
+rather, that the content of CD34+CD38-- cells in the graft
+products was the strongest and most reliable predictive
+factor for both short-term and long-term tri-lineage
+hematopoietic engraftment. Our study provides evidence
+for the theory that this is explained mechanistically by the
+high level of c-mpl+ expression within this stage I mPBSC
+subset.
+Henon and colleagues found that a threshold value of 5 ×
+104 CD34+CD38-- cells/kg BW is a reliable tool to predict
+engraftment [52]. Patients that received >5 × 104
+CD34+CD38-- cells/kg BW experienced a significantly
+faster engraftment of neutrophils, platelets, and reticulo-
+cytes than those that received less. Moreover, pre-trans-
+plant total body irradiation conditioning regimens
+significantly prolonged platelet and reticulocyte recovery
+kinetics in only those patients whose CD34+CD38-- cell
+dose was <5 × 104 CD34+CD38-- cells/kg BW. The authors
+also found that post-transplant administration of hemat-
+opoietic growth factors was beneficial for accelerating tri-
+lineage engraftment in only those patients who received a
+CD34+CD38-- cell dose <5 × 104 cells/kg BW. Similarly,
+post-transplant rh-G-CSF administration reduced the
+length of hospitalization and post-transplant costs in only
+those patients whose mPBSC infusion contained <5 × 104
+CD34+CD38-- cells/kg BW [54]. In the setting of allogeneic
+BMT for the treatment of leukemia or lymphoma, Waller
+et al. [55] found that the CD34+CD38-- cell content of the
+graft product was the best predictor for time to reach the
+recovery parameters of absolute neutrophil count ≥1 ×
+109/L and platelet count ≥20 × 109/L. Based on our cur-
+rent report and previous work [20], further studies are
+warranted to determine whether the relevant cell type
+within the CD34+CD38-- subset identified by Henon,
+Waller and colleagues as capable of rapid, sustained, tri-
+lineage engraftment of both autologous mPBSC and allo-
+geneic ABM transplants is the c-mplBright/+ cell.
+Table 5: One Way ANOVA of SCID-hu Thy/Liv Thymocyte Repopulation
+Thymocyte Subset One way ANOVA Dunnett's Multiple Comparison Post-Test Linear Trend Post-Test
+c-mpl+ vs. control c-mpl-- vs. control
+CD2+ P < 0.05 P < 0.05 NS P < 0.05
+CD4+8+ NS NS NS NS
+CD4+8- P < 0.05 P < 0.05 NS P < 0.001
+CD4-8+ P < 0.05 P < 0.01 NS P < 0.001
+Values represent calculated p values for the indicated analyses. ANOVA, analysis of variance; NS, not significant (p > 0.05); SCID-hu Thy/Liv, scid/
+scid mouse with human thymus/liver implants
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 15 of 18
+(page number not for citation purposes)
+Fox et al. [56-58] elucidated a critical role for TPO in
+murine HSC engraftment following BMT. Five-fold more
+murine ABM cells were needed to re-establish hematopoi-
+esis following lethal irradiation in tpo-/- mice versus tpo+/+
+mice. Thus, TPO appears to exert a short-term radiopro-
+tective effect, presumably by enhancing the survival of the
+c-mpl+ (and based on our study, predominantly
+CD34+CD38--) HSC/PC residing in the tissue. This short-
+term radioprotective effect of TPO on its ligand-expressing
+HSC/PC may explain the negative impact of total body
+irradiation on patients who received very low doses of
+CD34+CD38-- cells in their mPBSC transplants, as
+observed by Henon and colleagues [52]. Furthermore,
+there was an in vivo expansion of 10–20-fold more long-
+term repopulating HSC in the primary tpo+/+ recipients
+versus the primary tpo--/-- recipients. These results suggest
+that the murine ABM c-mpl+ HSC subset contains HSC
+that provide both short-term radioprotection and long-
+term repopulation following BMT. Studies in mice have
+also shown that in vivo [59] or ex vivo [60] priming of
+donor ABM cells with TPO can accelerate the reconstitu-
+tion of platelets and red cells and ameliorate post-trans-
+plant thrombocytopenia.
+Murine TPO mRNA is expressed by RT-PCR in embryonic
+stem cells, whereas murine c-mpl mRNA is expressed in
+the embryonic yolk sac, at day 3 of embryoid body in vitro
+differentiation, and in the blast-colony forming cell, an in
+vitro surrogate for the hemangioblast common precursor
+to the endothelial and hematopoietic lineages [61]. These
+findings indicate a potential role for the TPO/c-mpl pair
+in maintaining the self-renewal potential of the heman-
+gioblast. It will be important to determine whether c-mpl
+is expressed in the recently identified murine embryo
+primitive streak-derived brachyury+ Flk-1+ cell population,
+within which the hemangioblast resides [62].
+Conclusion
+This report demonstrates that human c-mpl surface recep-
+tor is expressed at the highest density on the most primi-
+tive subset within the human CD34+ HSC/PC population,
+regardless of the tissue source or stage in ontogeny. In
+addition, these c-mpl+ HSC/PC can also provide for
+thymic reconstitution and T-cell lineage repopulation in a
+manner that is at least as robust as, if not more robust
+than, that of the c-mpl-- progenitor subset. Our results
+reported here, combined with our previous studies of c-
+mpl+ versus c-mpl-- competitive HSC repopulation in
+murine and human model systems [20], building on the
+investigations of TPO by others [11,12,33,63], suggest
+that c-mpl is a selective, practical and physiologically rel-
+evant marker of human long-term multilineage repopu-
+lating HSC. It has advantages in being more selective than
+CD34, its function relevant to HSC biology is more fully
+characterized than candidate markers such as CD133 [64-
+67] or CDCP1 [7,8], and isolation strategies may be less
+toxic and technologically simpler than DNA binding dyes
+to identify side population cells [68], or fluorescent sub-
+strates to identify aldehyde dehydrogenaseHi cells [69,70].
+Studies are indicated to evaluate whether c-mplBright/+ cell
+number may be a superior measure for monitoring mobi-
+lization levels of peripheral blood for the timing and opti-
+mization of apheresis collections, and a more reliable and
+predictive gauge of stem cell content prior to transplant or
+following expansion. Positive selection protocols using
+monoclonal antibodies to c-mpl could also prove to be
+useful and efficient purification methodologies for stem
+cell banking and solid tumor purging or T-cell depletion
+of stem cell products.
+List of abbreviations
+7-AAD, 7-amino-actinomycin D; ABM, adult bone mar-
+row; AgD, antigen density; ANOVA, analysis of variance;
+APC, allophycocyanin; BM, bone marrow; BMT, bone
+marrow transplantation; BW, body weight; CAMT, con-
+genital amegakaryocytic thrombocytopenia; CD, cluster
+of differentiation; CFA, colony-forming activity; CFC, col-
+ony-forming cells; CFU, colony-forming units; FITC, fluo-
+rescein isothyocyanate; FL, fetal liver; FSC, forward scatter;
+G-CSF, granulocyte-colony stimulating factor; HIV-1,
+human immunodeficiency virus type 1; HLA, human leu-
+kocyte antigen; HSC, hematopoietic stem cell(s); HSC/
+PC, hematopoietic stem/progenitor cell(s); LTC-IC, long
+term culture-initiating cell(s); MB, MACS® Buffer; MFI,
+median fluorescence intensity; MNC, mononuclear cells;
+NC, nucleated cells; NOD, non-obese diabetic; PB,
+peripheral blood; mPBSC, cytokine-mobilized peripheral
+blood stem cells; PBS, phosphate-buffered saline; PE, phy-
+coerythrin; PI, propidium iodide; QIIF, quantitative indi-
+rect immunofluorescence; RMFI, Relative MFI; RT-PCR,
+reverse transcriptase-polymerase chain reaction; SCID,
+severe combined immunodeficiency (scid/scid) mouse;
+SCID-hu Thy/Liv, scid/scid mouse with human thymus/
+liver implants; SD, standard deviation; SED, super-
+enhanced Dmax subtraction; SEM, standard error of
+mean; SM, staining medium; SP, side population; SSC,
+side scatter; TPO, thrombopoietin; UCB, umbilical cord
+blood.
+Competing interests
+WGK has previously served as a consultant to Genentech,
+Inc. and currently receives funding from Genentech (co-
+developer of TPO) for the identification of novel antibody
+therapeutics in hematologic malignancies.
+Authors' contributions
+WGK and JMN designed the study. WGK established the
+SCID-hu mouse colony and provided the necessary equip-
+ment and reagents. LCJ and CRC contributed to the pro-
+curement and collection of specimens. JMN performed
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 16 of 18
+(page number not for citation purposes)
+the experiments, acquired the data, analyzed and inter-
+preted the results, and drafted and revised the manuscript.
+WGK, CRC and LCJ reviewed, critiqued and contributed
+to the final manuscript.
+Acknowledgements
+We are indebted to Dr. Dan Eaton and Genentech, Inc. for the use of the
+3G4 anti-c-mpl monoclonal antibody. We thank Mary Albertus, Robert
+Sachs, and Mark Wall of the Hospital of the University of Pennsylvania
+Pathology Department for assistance with the UCB and mPBSC collections.
+We acknowledge the capable technical assistance of Heather McIntosh in
+the SCID-hu Thy/Liv reconstitution studies. We thank Hank Pletcher,
+Andrew Morschauser, Nikki Brake and Dr. Jonni Moore of the University
+of Pennsylvania Cancer Center Flow Cytometry Facility for their excellent
+technical assistance with the cell sorts. We acknowledge Jodi Kroeger and
+Johana Melendez of the Flow Cytometry Core Facility, Larry Kuba and Jen-
+nifer Hockenbury of the Molecular Imaging Core Facility, and Joan Miller
+and Sue Felber of the Medical Library, at the H. Lee Moffitt Cancer Center
+and Research Institute. We appreciate the assistance of Susan Arab and
+Patricia Massard with manuscript preparation, and we thank Dr. Kaaron
+Benson for reviewing the manuscript. The first author sincerely appreciates
+the helpful discussions provided by Dr. Tomar Ghansah, Caroline Desponts
+and Dr. Jia-Wang Wang during the course of this research. WGK was sup-
+ported by grants from the National Institutes of Health (RO1 DK 54767,
+R21 AI44333, PO1 NS27405 and RO1 HL72523), the Penn Research Foun-
+dation, and academic development funds from the H. Lee Moffitt Cancer
+Center & Research Institute and the University of South Florida. JMN was
+supported by training grants from the National Heart, Lung and Blood Insti-
+tute (T32 HL07775) and the National Institute of Allergy and Infectious Dis-
+eases (T32 CA09140). WGK is the Newman Family Scholar of the
+Leukemia and Lymphoma Society. CRC was supported by a Shands Hospi-
+tal Research and Development Grant.
+References
+1. Yin AH, Miraglia S, Zanjani ED, Almeida-Porada G, Ogawa M, Leary
+AG, Olweus J, Kearney J, Buck DW: AC133, a novel marker for
+human hematopoietic stem and progenitor cells. Blood 1997,
+90:5002-5012.
+2. Civin CI, Strauss LC, Brovall C, Fackler MJ, Schwartz JF, Shaper JH:
+Antigenic analysis of hematopoiesis. III. A hematopoietic
+progenitor cell surface antigen defined by a monoclonal anti-
+body raised against KG-1a cells. J Immunol 1984, 133:157-165.
+3. Krause DS, Fackler MJ, Civin CI, May WS: CD34: structure, biol-
+ogy, and clinical utility. Blood 1996, 87:1-13.
+4. DiGiusto D, Chen S, Combs J, Webb S, Namikawa R, Tsukamoto A,
+Chen BP, Galy AH: Human fetal bone marrow early progeni-
+tors for T, B, and myeloid cells are found exclusively in the
+population expressing high levels of CD34. Blood 1994,
+84:421-432.
+5. Civin CI, Almeida-Porada G, Lee MJ, Olweus J, Terstappen LW, Zan-
+jani ED: Sustained, retransplantable, multilineage engraft-
+ment of highly purified adult human bone marrow stem cells
+in vivo. Blood 1996, 88:4102-4109.
+6. Terstappen LW, Huang S, Safford M, Lansdorp PM, Loken MR:
+Sequential generations of hematopoietic colonies derived
+from single nonlineage-committed CD34+CD38- progenitor
+cells. Blood 1991, 77:1218-1227.
+7. Buhring HJ, Kuci S, Conze T, Rathke G, Bartolovic K, Grunebach F,
+Scherl-Mostageer M, Brummendorf TH, Schweifer N, Lammers R:
+CDCP1 identifies a broad spectrum of normal and malignant
+stem/progenitor cell subsets of hematopoietic and nonhe-
+matopoietic origin. Stem Cells 2004, 22:334-343.
+8. Conze T, Lammers R, Kuci S, Scherl-Mostageer M, Schweifer N, Kanz
+L, Buhring HJ: CDCP1 is a novel marker for hematopoietic
+stem cells. Ann N Y Acad Sci 2003, 996:222-226.
+9. Hao QL, Smogorzewska EM, Barsky LW, Crooks GM: In vitro iden-
+tification of single CD34+CD38- cells with both lymphoid
+and myeloid potential. Blood 1998, 91:4145-4151.
+10. Larochelle A, Vormoor J, Hanenberg H, Wang JC, Bhatia M, Lapidot
+T, Moritz T, Murdoch B, Xiao XL, Kato I, Williams DA, Dick JE: Iden-
+tification of primitive human hematopoietic cells capable of
+repopulating NOD/SCID mouse bone marrow: implications
+for gene therapy. Nat Med 1996, 2:1329-1337.
+11. Petzer AL, Hogge DE, Landsdorp PM, Reid DS, Eaves CJ: Self-
+renewal of primitive human hematopoietic cells (long-term-
+culture-initiating cells) in vitro and their expansion in defined
+medium. Proceedings of the National Academy of Sciences of the United
+States of America 1996, 93:1470-1474.
+12. Petzer AL, Zandstra PW, Piret JM, Eaves CJ: Differential cytokine
+effects on primitive (CD34+CD38-) human hematopoietic
+cells: novel responses to Flt3-ligand and thrombopoietin.
+Journal of Experimental Medicine 1996, 183:2551-2558.
+13. Eaton DL, de Sauvage FJ: Thrombopoietin: the primary regula-
+tor of megakaryocytopoiesis and thrombopoiesis. Exp Hema-
+tol 1997, 25:1-7.
+14. Kaushansky K, Lin N, Grossmann A, Humes J, Sprugel KH, Broudy
+VC: Thrombopoietin expands erythroid, granulocyte-macro-
+phage, and megakaryocytic progenitor cells in normal and
+myelosuppressed mice. Exp Hematol 1996, 24:265-269.
+15. Alexander WS, Roberts AW, Nicola NA, Li R, Metcalf D: Deficien-
+cies in progenitor cells of multiple hematopoietic lineages
+and defective megakaryocytopoiesis in mice lacking the
+thrombopoietic receptor c-Mpl. Blood 1996, 87:2162-2170.
+16. Carver-Moore K, Broxmeyer HE, Luoh SM, Cooper S, Peng J,
+Burstein SA, Moore MW, de Sauvage FJ: Low levels of erythroid
+and myeloid progenitors in thrombopoietin-and c-mpl-defi-
+cient mice. Blood 1996, 88:803-808.
+17. Vigon I, Mornon JP, Cocault L, Mitjavila MT, Tambourin P, Gisselbre-
+cht S, Souyri M: Molecular cloning and characterization of
+MPL, the human homolog of the v-mpl oncogene: identifica-
+tion of a member of the hematopoietic growth factor recep-
+tor superfamily. Proc Natl Acad Sci U S A 1992, 89:5640-5644.
+18. Vigon I, Florindo C, Fichelson S, Guenet JL, Mattei MG, Souyri M,
+Cosman D, Gisselbrecht S: Characterization of the murine Mpl
+proto-oncogene, a member of the hematopoietic cytokine
+receptor family: molecular cloning, chromosomal location
+and evidence for a function in cell growth. Oncogene 1993,
+8:2607-2615.
+19. Methia N, Louache F, Vainchenker W, Wendling F: Oligodeoxynu-
+cleotides antisense to the proto-oncogene c-mpl specifically
+inhibit in vitro megakaryocytopoiesis. Blood 1993,
+82:1395-1401.
+20. Solar GP, Kerr WG, Zeigler FC, Hess D, Donahue C, de Sauvage FJ,
+Eaton DL: Role of c-mpl in early hematopoiesis. Blood 1998,
+92:4-10.
+21. Kerr WG, Eaton DL, Solar GP: Monoclonal antibodies specific
+for c-mpl for the study of human megakaryopoiesis and stem
+cell biology. In Leukocyte Typing VII: White Cell Differentiation Antigens:
+Proceedings of the Seventh International Workshop and Conference held in
+Harrogate, United Kingdom VII edition. Edited by: Mason D, Andre P,
+Bensussan A, Buckley C, Civin C, Clark E, de Haas M and Goyert S.
+New York, Oxford University Press, Inc.; 2002:561-563.
+22. de Haas M, van den Oudenrijn S, Baardman R, van der Schoot E, von
+dem Borne AEGK: Platelet antigens: CD110 or Tpo receptor.
+Cluster report. In Leukocyte Typing VII: White Cell Differentiation Anti-
+gens: Proceedings of the Seventh International Workshop and Conference
+held in Harrogate, United Kingdom VII edition. Edited by: Mason D,
+Andre P, Bensussan A, Buckley C, Civin C, Clark E, de Haas M and
+Goyert S. New York, Oxford University Press, Inc.; 2002:558-561.
+23. Bagwell CB: A journey through flow cytometric immunofluo-
+rescence analyses - finding accurate and robust algorithms
+that estimate positive fraction distribution. Clinical Immunology
+Newsletter 1996, 16:.
+24. Overton WR: Modified histogram subtraction technique for
+analysis of flow cytometry data. Cytometry 1988, 9:619-626.
+25. Krowka JF, Sarin S, Namikawa R, McCune JM, Kaneshima H: Human
+T cells in the SCID-hu mouse are phenotypically normal and
+functionally competent. J Immunol 1991, 146:3751-3756.
+26. McCune J, Kaneshima H, Krowka J, Namikawa R, Outzen H, Peault B,
+Rabin L, Shih CC, Yee E, Lieberman M, et al.: The SCID-hu mouse:
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 17 of 18
+(page number not for citation purposes)
+a small animal model for HIV infection and pathogenesis.
+Annu Rev Immunol 1991, 9:399-429.
+27. McCune JM, Namikawa R, Kaneshima H, Shultz LD, Lieberman M,
+Weissman IL: The SCID-hu mouse: murine model for the anal-
+ysis of human hematolymphoid differentiation and function.
+Science 1988, 241:1632-1639.
+28. Namikawa R, Weilbaecher KN, Kaneshima H, Yee EJ, McCune JM:
+Long-term human hematopoiesis in the SCID-hu mouse. J
+Exp Med 1990, 172:1055-1063.
+29. Watanabe T, Kawano Y, Watanabe A, Takaue Y: Autologous and
+allogeneic transplantation with peripheral blood CD34+
+cells: a pediatric experience. Haematologica 1999, 84:167-176.
+30. Urbano-Ispizua A, Rozman C, Pimentel P, Solano C, de la Rubia J, Bru-
+net S, Perez-Oteyza J, Ferra C, Zuazu J, Caballero D, Bargay J, Carval-
+hais A, Diez JL, Espigado I, Alegre A, Rovira M, Campilho F, Odriozola
+J, Sanz MA, Sierra J, Garcia-Conde J, Montserrat E: Risk factors for
+acute graft-versus-host disease in patients undergoing trans-
+plantation with CD34+ selected blood cells from HLA-iden-
+tical siblings. Blood 2002, 100:724-727.
+31. Urbano-Ispizua A, Rozman C, Pimentel P, Solano C, de la Rubia J, Bru-
+net S, Perez-Oteiza J, Ferra C, Zuazu J, Caballero D, Carvalhais A,
+Diez JL, Espigado I, Martinez C, Campilho F, Sanz MA, Sierra J, Garcia-
+Conde J, Montserrat E: The number of donor CD3(+) cells is the
+most important factor for graft failure after allogeneic trans-
+plantation of CD34(+) selected cells from peripheral blood
+from HLA-identical siblings. Blood 2001, 97:383-387.
+32. Przepiorka D: Grading and management of graft-vs-host dis-
+ease. In Allogeneic stem cell transplantation : clinical research and prac-
+tice Edited by: Laughlin MJ and Lazarus HM. Totowa, N.J., Humana
+Press; 2003:237-260.
+33. Borge OJ, Ramsfjell V, Cui L, Jacobsen SE: Ability of early acting
+cytokines to directly promote survival and suppress apopto-
+sis of human primitive CD34+CD38- bone marrow cells with
+multilineage potential at the single-cell level: key role of
+thrombopoietin. Blood 1997, 90:2282-2292.
+34. Ballmaier M, Germeshausen M, Schulze H, Cherkaoui K, Lang S,
+Gaudig A, Krukemeier S, Eilers M, Strauss G, Welte K: c-mpl muta-
+tions are the cause of congenital amegakaryocytic thrombo-
+cytopenia. Blood 2001, 97:139-146.
+35. Ballmaier M, Germeshausen M, Krukemeier S, Welte K: Throm-
+bopoietin is essential for the maintenance of normal hemat-
+opoiesis in humans: development of aplastic anemia in
+patients with congenital amegakaryocytic thrombocytope-
+nia. Ann N Y Acad Sci 2003, 996:17-25.
+36. Koka PS, Kitchen CM, Reddy ST: Targeting c-Mpl for revival of
+human immunodeficiency virus type 1-induced hematopoi-
+etic inhibition when CD34+ progenitor cells are re-engrafted
+into a fresh stromal microenvironment in vivo. J Virol 2004,
+78:11385-11392.
+37. Katsumata Y, Suzuki T, Kuwana M, Hattori Y, Akizuki S, Sugiura H,
+Matsuoka Y: Anti-c-Mpl (thrombopoietin receptor) autoanti-
+body-induced amegakaryocytic thrombocytopenia in a
+patient with systemic sclerosis. Arthritis Rheum 2003,
+48:1647-1651.
+38. Nicolini FE, Holyoake TL, Cashman JD, Chu PP, Lambie K, Eaves CJ:
+Unique differentiation programs of human fetal liver stem
+cells shown both in vitro and in vivo in NOD/SCID mice.
+Blood 1999, 94:2686-2695.
+39. Holyoake TL, Nicolini FE, Eaves CJ: Functional differences
+between transplantable human hematopoietic stem cells
+from fetal liver, cord blood, and adult marrow. Exp Hematol
+1999, 27:1418-1427.
+40. Roy V, Verfaillie CM: Expression and function of cell adhesion
+molecules on fetal liver, cord blood and bone marrow
+hematopoietic progenitors: implications for anatomical
+localization and developmental stage specific regulation of
+hematopoiesis. Exp Hematol 1999, 27:302-312.
+41. Gallacher L, Murdoch B, Wu D, Karanu F, Fellows F, Bhatia M: Iden-
+tification of novel circulating human embryonic blood stem
+cells. Blood 2000, 96:1740-1747.
+42. Sovalat H, Racadot E, Ojeda M, Lewandowski H, Chaboute V, Henon
+P: CD34+ cells and CD34+CD38- subset from mobilized
+blood show different patterns of adhesion molecules com-
+pared to those from steady-state blood, bone marrow, and
+cord blood. J Hematother Stem Cell Res 2003, 12:473-489.
+43. Watanabe T, Dave B, Heimann DG, Lethaby E, Kessinger A, Talmadge
+JE: GM-CSF-mobilized peripheral blood CD34+ cells differ
+from steady-state bone marrow CD34+ cells in adhesion
+molecule expression. Bone Marrow Transplant 1997,
+19:1175-1181.
+44. Bellucci R, De Propris MS, Buccisano F, Lisci A, Leone G, Tabilio A,
+de Fabritiis P: Modulation of VLA-4 and L-selectin expression
+on normal CD34+ cells during mobilization with G-CSF.
+Bone Marrow Transplant 1999, 23:1-8.
+45. Lichterfeld M, Martin S, Burkly L, Haas R, Kronenwett R: Mobiliza-
+tion of CD34+ haematopoietic stem cells is associated with
+a functional inactivation of the integrin very late antigen 4.
+Br J Haematol 2000, 110:71-81.
+46. Barbosa IL, de Sousa ME, Godinho MI, Teixeira AM, Carvalhais A:
+Analysis of surface markers on CD34+ cells, isolated from
+cord blood and G-CSF primed peripheral blood. Bone Marrow
+Transplant 1998, 22 Suppl 1:S56.
+47. Kurtzberg J, Laughlin M, Graham ML, Smith C, Olson JF, Halperin EC,
+Ciocci G, Carrier C, Stevens CE, Rubinstein P: Placental blood as
+a source of hematopoietic stem cells for transplantation into
+unrelated recipients. N Engl J Med 1996, 335:157-166.
+48. Gluckman E, Rocha V, Boyer-Chammard A, Locatelli F, Arcese W,
+Pasquini R, Ortega J, Souillet G, Ferreira E, Laporte JP, Fernandez M,
+Chastang C: Outcome of cord-blood transplantation from
+related and unrelated donors. Eurocord Transplant Group
+and the European Blood and Marrow Transplantation
+Group. N Engl J Med 1997, 337:373-381.
+49. Leung W, Ramirez M, Novelli EM, Civin CI: In vivo engraftment
+potential of clinical hematopoietic grafts. J Investig Med 1998,
+46:303-311.
+50. Mayani H, Lansdorp PM: Biology of human umbilical cord blood-
+derived hematopoietic stem/progenitor cells. Stem Cells 1998,
+16:153-165.
+51. Arakawa-Hoyt J, Dao MA, Thiemann F, Hao QL, Ertl DC, Weinberg
+KI, Crooks GM, Nolta JA: The number and generative capacity
+of human B lymphocyte progenitors, measured in vitro and
+in vivo, is higher in umbilical cord blood than in adult or pedi-
+atric bone marrow. Bone Marrow Transplant 1999, 24:1167-1176.
+52. Henon P, Sovalat H, Becker M, Arkam Y, Ojeda-Uribe M, Raidot JP,
+Husseini F, Wunder E, Bourderont D, Audhuy B, Bouderont D: Pri-
+mordial role of CD34+ 38- cells in early and late trilineage
+haemopoietic engraftment after autologous blood cell trans-
+plantation. Br J Haematol 1998, 103:568-581.
+53. Henon P, Sovalat H, Bourderont D, Ojeda-Uribe M, Arkam Y,
+Wunder E, Raidot JP, Husseini F, Audhuy B: Role of the CD34+ 38-
+cells in posttransplant hematopoietic recovery. Stem Cells
+1998, 16 Suppl 1:113-122.
+54. Henon PH, Sovalat H, Bourderont D: Importance of CD34+ cell
+subsets in autologous PBSC transplantation: the mulhouse
+experience using CD34+CD38- cells as predictive tool for
+hematopoietic engraftment. J Biol Regul Homeost Agents 2001,
+15:62-67.
+55. Waller EK, Lynn M, Worford L, Winton EF, Redei I, Heffner T, Hillyer
+CD: The number of CD34+CD38- cells in the graft predicts
+the kinetics of hematopoietic reconstitution following autol-
+ogous or allogeneic BMT (abstract). Blood 1997, 90:394a.
+56. Fox N, Priestley G, Papayannopoulou T, Kaushansky K: Throm-
+bopoietin expands hematopoietic stem cells after transplan-
+tation. J Clin Invest 2002, 110:389-394.
+57. Verfaillie CM: Optimizing hematopoietic stem cell engraft-
+ment: a novel role for thrombopoietin. J Clin Invest 2002,
+110:303-304.
+58. Kaushansky K: Thrombopoietin: accumulating evidence for an
+important biological effect on the hematopoietic stem cell.
+Ann N Y Acad Sci 2003, 996:39-43.
+59. Fibbe WE, Heemskerk DP, Laterveer L, Pruijt JF, Foster D, Kaush-
+ansky K, Willemze R: Accelerated reconstitution of platelets
+and erythrocytes after syngeneic transplantation of bone
+marrow cells derived from thrombopoietin pretreated
+donor mice. Blood 1995, 86:3308-3313.
+60. Ratajczak MZ, Ratajczak J, Machalinski B, Mick R, Gewirtz AM: In
+vitro and in vivo evidence that ex vivo cytokine priming of
+donor marrow cells may ameliorate posttransplant throm-
+bocytopenia. Blood 1998, 91:353-359.
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+Journal of Translational Medicine 2006, 4:9 http://www.translational-medicine.com/content/4/1/9
+Page 18 of 18
+(page number not for citation purposes)
+61. Perlingeiro RC, Kyba M, Bodie S, Daley GQ: A role for throm-
+bopoietin in hemangioblast development. Stem Cells 2003,
+21:272-280.
+62. Huber TL, Kouskoff V, Fehling HJ, Palis J, Keller G: Haemangioblast
+commitment is initiated in the primitive streak of the mouse
+embryo. Nature 2004, 432:625-630.
+63. Borge OJ, Ramsfjell V, Veiby OP, Murphy MJJ, Lok S, Jacobsen SE:
+Thrombopoietin, but not erythropoietin promotes viability
+and inhibits apoptosis of multipotent murine hematopoietic
+progenitor cells in vitro. Blood 1996, 88:2859-2870.
+64. Gallacher L, Murdoch B, Wu DM, Karanu FN, Keeney M, Bhatia M:
+Isolation and characterization of human CD34(-)Lin(-) and
+CD34(+)Lin(-) hematopoietic stem cells using cell surface
+markers AC133 and CD7. Blood 2000, 95:2813-2820.
+65. Handgretinger R, Gordon PR, Leimig T, Chen X, Buhring HJ, Niet-
+hammer D, Kuci S: Biology and plasticity of CD133+ hemat-
+opoietic stem cells. Ann N Y Acad Sci 2003, 996:141-151.
+66. Kobari L, Giarratana MC, Pflumio F, Izac B, Coulombel L, Douay L:
+CD133+ cell selection is an alternative to CD34+ cell selec-
+tion for ex vivo expansion of hematopoietic stem cells. J
+Hematother Stem Cell Res 2001, 10:273-281.
+67. McGuckin CP, Forraz N, Pettengell R, Thompson A: Thrombopoi-
+etin, flt3-ligand and c-kit-ligand modulate HOX gene expres-
+sion in expanding cord blood CD133 cells. Cell Prolif 2004,
+37:295-306.
+68. Goodell MA, Rosenzweig M, Kim H, Marks DF, DeMaria M, Paradis
+G, Grupp SA, Sieff CA, Mulligan RC, Johnson RP: Dye efflux studies
+suggest that hematopoietic stem cells expressing low or
+undetectable levels of CD34 antigen exist in multiple spe-
+cies. Nat Med 1997, 3:1337-1345.
+69. Hess DA, Meyerrose TE, Wirthlin L, Craft TP, Herrbrich PE, Creer
+MH, Nolta JA: Functional characterization of highly purified
+human hematopoietic repopulating cells isolated according
+to aldehyde dehydrogenase activity. Blood 2004,
+104:1648-1655.
+70. Storms RW, Trujillo AP, Springer JB, Shah L, Colvin OM, Ludeman
+SM, Smith C: Isolation of primitive human hematopoietic pro-
+genitors on the basis of aldehyde dehydrogenase activity.
+Proc Natl Acad Sci U S A 1999, 96:9118-9123.
+

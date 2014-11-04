@@ -1,0 +1,1318 @@
+JCB: Article
+The Rockefeller University Press  $30.00
+J. Cell Biol. Vol. 193 No. 2  295–305
+www.jcb.org/cgi/doi/10.1083/jcb.201009074 JCB 295
+Correspondence to Benjamin P.C. Chen: benjamin.chen@utsouthwestern.edu
+Abbreviations used in this paper: ATM, ataxia telangiectasia mutated; ATR, ATM
+and Rad3 related; BMT, bone marrow transplantation; DNA-PK, DNA-depen-
+dent protein kinase; DNA-PKcs, DNA-PK catalytic subunit; DR, direct repeat;
+DSB, double-stranded break; ES, embryonic stem; FA, Fanconi anemia; GR,
+glucocorticoid receptor; HR, homologous recombination; HSC, hematopoietic
+stem cell; IR, ionizing radiation; MEF, mouse embryonic fibroblast; MMC, mito-
+mycin C; NHEJ, nonhomologous end joining; SCID, severe combined immuno-
+deficiency; tACE, testes-specific angiotensin-converting enzyme.
+Introduction
+DNA double-stranded breaks (DSBs) are among the most dan-
+gerous forms of DNA damage. Unrepaired DSBs signal cells
+to die, whereas misprocessing of DSBs can lead to genomic
+instability and oncogenic transformation. DSBs are primar-
+ily repaired by the nonhomologous end-joining (NHEJ) and
+homologous recombination (HR) repair pathways. The NHEJ
+pathway joins the two ends of a DSB directly with little or no
+requirement for homology, whereas HR uses the intact identical
+copy of the broken chromosome as a template. Although both
+NHEJ and HR proteins are recruited to DSBs, pathway choice
+is regulated in part by the cell cycle phase, with HR being active
+in S/G2 and NHEJ contributing to DSB repair predominantly
+in G0/G1. For example, V(D)J (variable [diversity] joining)
+recombination-associated breaks are generated in G0/G1 and
+resolved by NHEJ proteins, whereas meiotic DSBs are pro-
+cessed by HR proteins. Nevertheless, a recent study indicates
+competition between HR and NHEJ for replication- and ioniz-
+ing radiation (IR)–induced DSBs during the S and G2 phase of
+the cell cycle (Sonoda et al., 2006).
+T
+he nonhomologous end-joining (NHEJ) pathway
+is essential for radioresistance and lymphocyte-
+specific V(D)J (variable [diversity] joining) recombi-
+nation. Defects in NHEJ also impair hematopoietic stem
+cell (HSC) activity with age but do not affect the initial
+establishment of HSC reserves. In this paper, we report that,
+in contrast to deoxyribonucleic acid (DNA)–dependent
+protein kinase catalytic subunit (DNA-PKcs)–null mice,
+knockin mice with the DNA-PKcs3A/3A
+allele, which codes
+for three alanine substitutions at the mouse Thr2605 phos-
+phorylation cluster, die prematurely because of congenital
+bone marrow failure. Impaired proliferation of DNA-
+PKcs3A/3A
+HSCs is caused by excessive DNA damage and
+p53-dependent apoptosis. In addition, increased apopto-
+sis in the intestinal crypt and epidermal hyperpigmenta-
+tion indicate the presence of elevated genotoxic stress and
+p53 activation. Analysis of embryonic fibroblasts further
+reveals that DNA-PKcs3A/3A
+cells are hypersensitive to
+DNA cross-linking agents and are defective in both
+homologous recombination and the Fanconi anemia DNA
+damage response pathways. We conclude that phosphory­
+lation of DNA-PKcs is essential for the normal activation
+of multiple DNA repair pathways, which in turn is critical
+for the maintenance of diverse populations of tissue stem
+cells in mice.
+Congenital bone marrow failure in DNA-PKcs
+mutant mice associated with deficiencies in
+DNA repair
+Shichuan Zhang,1
+Hirohiko Yajima,1
+HoangDinh Huynh,2
+Junke Zheng,2
+Elsa Callen,3
+Hua-Tang Chen,3
+Nancy Wong,3
+Samuel Bunting,3
+Yu-Fen Lin,1
+Mengxia Li,1
+Kyung-Jone Lee,1
+Michael Story,1
+Eric Gapud,4
+Barry P. Sleckman,4
+André Nussenzweig,3
+Cheng Cheng Zhang,2
+David J. Chen,1
+and Benjamin P.C. Chen1
+1
+Division of Molecular Radiation Biology, Department of Radiation Oncology, and 2
+Department of Physiology, University of Texas Southwestern Medical Center,
+Dallas, TX 75390
+3
+Experimental Immunology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892
+4
+Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO 63110
+© 2011 Zhang et al.  This article is distributed under the terms of an Attribution–
+Noncommercial–Share Alike–No Mirror Sites license for the first six months after the pub-
+lication date (see http://www.rupress.org/terms). After six months it is available under a
+Creative Commons License (Attribution–Noncommercial–Share Alike 3.0 Unported license,
+as described at http://creativecommons.org/licenses/by-nc-sa/3.0/).
+THEJOURNALOFCELLBIOLOGY
+JCB • VOLUME 193 • NUMBER 2 • 2011 296
+strategy (Bunting et al., 1999). The ACN cassette, including a
+testes-specific tACE promoter-driven Cre recombinase, a Neo-
+selectable marker, and two flanking loxP sites, was fused with
+two genomic fragments with the longer fragment carrying mu-
+tated exon 58 (covering the entire mouse Thr2605 cluster) in
+close proximity to the ACN cassette (Fig. 1 B). Upon successful
+gene targeting and subsequent germline transmission in chime-
+ric mice, expression of Cre recombinase during spermatogenesis
+self-excises the ACN cassette. This process leaves behind one
+remaining loxP site and allows the expression of the 3A mutant
+DNA-PKcs from the targeted allele. Using this strategy, two
+knockin mouse lines were generated from two independently
+targeted embryonic stem (ES) cell clones. Analyses of mice and
+cultured cells yielded identical phenotypes from both lines.
+Alanine substitutions at all three threonine sites (Thr2605,
+Thr2634, and Thr2643) of the targeted allele were confirmed by
+sequencing DNA isolated from tails of heterozygotic (DNA-
+PKcs+/3A
+) carriers. The sequencing profile showed equal detec-
+tion ofA from the wild-type allele and G from the targeted allele
+at all three mutated positions (Fig. S1 A). The 3A substitution and
+The DNA-dependent protein kinase (DNA-PK) consists
+of the large catalytic subunit (DNA-PK catalytic subunit
+[DNA-PKcs]) and the DNA-binding Ku70/80 heterodimer. The
+DSB is initially recognized by DNA-PK. The ends are then
+synapsed and processed by other NHEJ proteins, including
+Artemis, XLF, and XRCC4, before they are ligated together by
+ligase IV (Weterings and Chen, 2008). DNA-PKcs belongs to a
+serine/threonine protein kinase family known as the phosphati-
+dylinositol-3 kinase–like protein kinases. Family members
+include ataxia telangiectasia mutated (ATM) and ATM- and
+Rad3-related (ATR) kinases (Shiloh, 2003). DNA-PKcs, itself,
+is essential for NHEJ-mediated DSB repair, and loss of the
+DNA-PKcs protein leads to radiation hypersensitivity as well as
+severe combined immunodeficiency (SCID) caused by a block
+in V(D)J recombination. In addition, DNA-PKcs deficiency re-
+sults in a defect in immunoglobulin class switch recombination
+(Manis et al., 2002; Cook et al., 2003; Callén et al., 2009).
+DNA-PKcs is phosphorylated in several regions in vitro upon
+activation and in vivo upon treatment with IR (Chan et al., 2002;
+Douglas et al., 2002; Chen et al., 2005; Ma et al., 2005; Meek
+et al., 2007). IR-induced Ser2056 phosphorylation is mediated
+by DNA-PKcs autophosphorylation, as it is significantly re-
+duced in a kinase-dead mutant DNA-PKcs and is inhibited by
+the DNA-PKcs kinase inhibitor (Chen et al., 2005). In contrast,
+DNA-PKcs phosphorylation at the Thr2609 cluster is depen-
+dent on ATM and ATR kinases in response to IR and UV radia-
+tion, respectively (Yajima et al., 2006; Chen et al., 2007).
+DNA-PKcs phosphorylation at either the Thr2609 cluster or at
+Ser2056 does not affect its kinase activity; nevertheless, abroga-
+tion of DNA-PKcs phosphorylation at either region attenuates
+DSB repair and leads to increased radiosensitivity (Chan et al.,
+2002; Ding et al., 2003; Chen et al., 2005, 2007).
+To gain insight into the physiological significance of phos-
+phorylation at this cluster, we have generated a 3A knockin
+mouse model, in which the three threonine residues are substi-
+tuted with alanines. In this study, we report that DNA-PKcs3A/3A
+mice surprisingly develop congenital hematopoietic failure
+caused by rapid loss of hematopoietic stem cells (HSCs) in the
+developing fetal liver. This severe hematopoietic phenotype was
+attributed to a compound deficiency in DSB repair, including the
+HR and Fanconi anemia (FA) pathways. Because being defective
+in NHEJ alone does not block HSC expansion in the embryo, we
+conclude that the HR/FA pathways are essential for HSC devel-
+opment and that DNA-PKcs phosphorylation at the Thr2609
+cluster is a prerequisite for the pathway switch favoring HR/FA.
+Results
+Generation of a DNA-PKcs3A
+knockin
+mouse model
+Our knockin mouse model of DNA-PKcs harbors three alanine
+substitutions at Thr2605, Thr2634, and Thr2643 (3A mutation,
+corresponding to human Thr2609, Thr2638, and Thr2647) of the
+endogenous mouse DNA-PKcs or PRKDC gene locus (Fig. 1 A).
+The design of the 3A knockin targeting vector was based on a
+previously described self-excision ACN (testes-specific angio-
+tensin-converting enzyme [tACE]–Cre/neomycin [Neo]) cassette
+Figure 1.  Generation of a DNA-PKcs3A/3A
+knockin mouse model. (A) The
+alignment of the human Thr2609 and the mouse Thr2605 phosphorylation
+cluster of DNA-PKcs. Six phosphorylation sites were identified in the human
+Thr2609 cluster (highlighted with asterisks), which are highly conserved in
+the mouse except for Ser2624. Boxes indicate the positions of knockin mu-
+tations or alanine substitutions. (B) Strategy to introduce knockin mutations
+into a mouse ES cell. 58*, exon 58 with T2605A, T2634A, and T2643A
+mutations; tACE-Cre, Cre recombinase driven by a tACE promoter.
+(C) 3A mutation does not alter the expression of DNA-PKcs. Whole-cell
+lysates from different MEFs were analyzed for the expression of DNA-PKcs,
+Ku70/80, and -actin. (D) DNA-PKcs3A/3A
+MEFs are hypersensitive to
+radiation (representative of three independent assays). Error bars represent
+SD. (E) Survival curves generated by Kaplan–Meier analysis (curves were
+compared using log-rank test).
+297Hematopoietic failure in DNA-PKcs mutant mice • Zhang et al.
+(Gao et al., 1998; Taccioli et al., 1998; Kurimasa et al., 1999).
+Like DNA-PKcs/
+mice, the number of lymphocytes and the
+size of lymphoid organs were drastically attenuated in 2-wk-old
+DNA-PKcs3A/3A
+mice (Fig. 2 A and Fig. S2 A). In contrast to the
+early T cell development block at the CD4
+CD8
+double-negative
+stage in DNA-PKcs–null mice (Gao et al., 1998; Kurimasa et al.,
+1999), DNA-PKcs3A/3A
+mice have CD4+
+CD8+
+, CD4+
+CD8
+, and
+CD4
+CD8+
+thymocytes, although at significantly reduced
+numbers (Fig. 2, A and B). Analyses of thymocyte subsets also
+reveal a severe reduction of DNA-PKcs3A/3A
+double-negative
+thymocytes at different developmental stages (Fig. S2 B).
+Moreover, there is a significant reduction in the numbers of
+T cells expressing TCR-/ (Fig. S2 C) and TCR- (Fig. S2 D),
+which is observed in mice with mutations that cause a subtotal
+block in V(D)J recombination (Difilippantonio et al., 2008).
+Nevertheless, single-positive splenic T cells accumulated in the
+DNA-PKcs3A/3A
+spleen (Fig. 2 C). B cell development in DNA-
+PKcs3A/3A
+mice was also dramatically affected, with an appar-
+ent arrest at the B220low
+CD43+
+IgM
+(pro-B cell) stage in bone
+marrow and few mature B cells in the spleen (Fig. 2 D), which
+is similar to the defective B cell development in DNA-PKcs/
+mice (Gao et al., 1998; Taccioli et al., 1998; Kurimasa et al.,
+1999). Significant loss of nucleotides is a hallmark of coding
+joint formation in DNA-PKcs–deficient mice, and we find that
+the extent of nucleotide loss during coding joint formation in
+DNA-PKcs3A/3A
+thymocytes is similar to that observed in
+DNA-PKcs–deficient (SCID) thymocytes (Fig. 2 E, Fig. S2 E,
+Table S1, Table S2, and Table S3). Thus, phosphorylation
+of the Thr2605 cluster in DNA-PKcs is required for normal
+V(D)J recombination.
+the one remaining loxP site between exon 58 and exon 59 did
+not affect the expression of the 3A mutant DNA-PKcs from the
+targeted allele, as similar levels of the DNA-PKcs protein were
+detected in mouse embryonic fibroblasts (MEFs) derived from
+all genotypes (Fig. 1 C). The 3A substitution also did not affect
+the kinase activity of DNA-PKcs (Fig. S1 D) as previously
+reported (Ding et al., 2003; Chen et al., 2007). Nonetheless,
+clonogenic survival analysis revealed that DNA-PKcs3A/3A
+MEFs
+were hypersensitive to IR to a similar degree as DNA-PKcs–null
+MEFs (Fig. 1 D).
+Complete disruption of the mouse DNA-PKcs gene results
+in an SCID phenotype (Gao et al., 1998; Taccioli et al., 1998;
+Kurimasa et al., 1999), but in contrast to Ku-deficient mice,
+there is no apparent growth retardation, infertility, or life short-
+ening in DNA-PKcs/
+mice (Nussenzweig et al., 1996; Gu
+et al., 1997; Ouyang et al., 1997). Homozygous DNA-PKcs3A/3A
+mice were born at the expected Mendelian frequency with simi-
+lar body weight to littermates, but they became apparently
+smaller within 2–3 wk of age (Fig. S1 C). In striking contrast to
+the normal life span of control, heterozygous littermates, and
+DNA-PKcs/
+mice, the great majority of DNA-PKcs3A/3A
+mice
+died shortly after birth (Fig. 1 E). In a cohort of 56 DNA-PKcs3A/3A
+mice, 75% died within 4 wk of birth, and only one mouse sur-
+vived >12 wk.
+Lymphocyte hypoplasia and the
+V(D)J recombination defect in
+DNA-PKcs3A/3A
+mice
+Lymphocyte development in DNA-PKcs–null mice is severely
+compromised because of a block in V(D)J recombination
+Figure 2.  Lymphocyte development in DNA-PKcs3A/3A
+mice. (A) T and B cell numbers are drastically reduced
+in 2-wk-old DNA-PKcs3A/3A
+mice. n = 4. Error bars rep-
+resent SD. (B) Flow cytometric analysis of thymocytes
+from 2-wk-old mice. Similar to wild-type cells, the major-
+ity of DNA-PKcs3A/3A
+thymocytes were double positive
+(CD4+
+CD8+
+). However, single-positive cell, particularly
+CD4+
+CD8
+, thymocytes were reduced in DNA-PKcs3A/3A
+mice. (C) Flow cytometric analysis of splenocytes from
+2-wk-old mice. Single-positive CD4+
+CD8
+and CD4
+CD8+
+T cells were present in the DNA-PKcs3A/3A
+spleen, but
+the numbers were also reduced. The numbers indi-
+cate the percentages of cell counts to total population
+in each quadrant. The lines separate the negative and
+the positive cell populations in each FACS analysis.
+(D) Flow cytometric analysis of B lymphocyte develop-
+ment. B cell development in DNA-PKcs3A/3A
+mice was
+arrested at the pro-B cell (B220low
+CD43+
+IgM
+) stage with
+very few mature B cells. Boxes indicate pro-B cell gate
+(B220low
+CD43+
+IgM
+); numbers indicate percentages
+of cells in the gate to total population. (E) Analysis of
+the mean number of junctional nucleotides lost in D2:
+J1 coding joints cloned and sequenced from wild-type,
+SCID, and DNA-PKcs3A/3A
+thymocytes. Means ± SEM are
+plotted for each genotype. Results from two mice were
+pooled for each genotype. Primary data are shown in
+Table S1, Table S2, and Table S3. (F) Side scatter (SSC)
+and forward scatter (FSC) signal of bone marrow (BM)
+cells in flow cytometric analysis. Data show that, in the
+DNA-PKcs3A/3A
+bone marrow, not only in the lymphoid (L)
+gate but also in the granulocyte and macrophage (G/M)
+gate, cell number dropped to a very low level compared
+with wild-type and knockout (KO) mice.
+JCB • VOLUME 193 • NUMBER 2 • 2011 298
+difference was found in wild type, DNA-PKcs+/3A
+mice (Fig. 3 E),
+or in DNA-PKcs/
+mice (Fig. 3 D). These results demonstrate
+that there is an impaired maintenance or self-renewal of bone
+marrow HSCs in DNA-PKcs3A/3A
+mice and that the initiation
+of HSC pathogenesis occurs during embryonic development.
+Importantly, this dramatic early HSC failure has not been ob-
+served in other NHEJ-deficient mouse strains, in which HSC
+reserves are generally preserved in young mice (Nijnik et al.,
+2007; Rossi et al., 2007).
+Fetal liver HSC dysfunction and loss in
+DNA-PKcs3A/3A
+mice
+The fetal liver is known to be the main source of hematopoiesis
+during embryonic development, as it provides supportive niches
+for HSC expansion and maturation (Mikkola and Orkin, 2006).
+To determine when HSC homeostasis dysfunction occurred in
+DNA-PKcs3A/3A
+embryos, fetal liver samples from different de-
+velopmental stages were harvested and analyzed. Flow cyto-
+metric analysis revealed a decreased number of fetal liver LSK
+cells in DNA-PKcs3A/3A
+embryos at embryonic day (E) 14.5
+(0.08 ± 0.04% vs. wild type 0.19 ± 0.06%) and E.16.5 (0.05 ±
+0.02% vs. wild type 0.14 ± 0.02%; Fig. 4, A and B). At E12.5,
+the LSK cell population in DNA-PKcs3A/3A
+embryos was
+slightly reduced (0.23 ± 0.10%) but remained within the nor-
+mal range of wild-type embryos (0.26 ± 0.11%; Fig. 4 B). Sig-
+nificantly, the depletion of HSC reserves in the DNA-PKcs3A/3A
+fetal liver occurs when HSCs are highly proliferative and
+undergo rapid expansion (Mikkola and Orkin, 2006). To examine
+whether the HSC loss in DNA-PKcs3A/3A
+mice was a result of
+defective cell proliferation, freshly isolated fetal liver LSK
+cells were cultured for ex vivo expansion. Wild-type and DNA-
+PKcs+/3A
+LSK cells proliferated exponentially and continuously
+during the course of ex vivo expansion, whereas DNA-PKcs3A/3A
+LSK cells proliferated normally only in the first 24 h (Fig. 4 C).
+The expansion of DNA-PKcs3A/3A
+LSK cells slowed down at 48 h
+and then collapsed at 72 h as a result of massive cell death (un-
+published data).
+Congenital bone marrow failure and HSC
+loss in DNA-PKcs3A/3A
+mice
+Although lymphocyte development is compromised in DNA-
+PKcs3A/3A
+mice, this would not be expected to cause early post-
+natal lethality in DNA-PKcs3A/3A
+mice, as SCID mice live a
+normal life span. Examination of forward angle versus side
+angle light scatter plots in bone marrow revealed not only a deple-
+tion of cells in the lymphocyte gate (as in SCID mice) but also
+a lack of cells in the granulocyte and macrophage gate in DNA-
+PKcs3A/3A
+bone marrow with a characteristically high level of
+side scatter, suggesting a more general loss of leukocytes (Fig. 2 F).
+During our investigation, we noticed that the ears, paws, and
+internal organs of DNA-PKcs3A/3A
+mice were pale, suggesting the
+development of anemia. A complete peripheral blood cell count
+in 2-wk-old mice revealed a significant reduction in the num-
+bers of WBCs, RBCs, and platelets in DNA-PKcs3A/3A
+mice,
+suggesting the development of multilineage peripheral blood
+cytopenia (Table S4). Analysis of peripheral blood samples
+taken at different time points showed that pancytopenia in DNA-
+PKcs3A/3A
+mice began 2 wk after birth and worsened with age
+(Fig. 3, A and B). Consistent with the pancytopenia phenotype,
+the average number of bone marrow–nucleated cells in 2-wk-
+old DNA-PKcs3A/3A
+mice was significantly reduced (Fig. 3 C).
+These results suggest that depletion of bone marrow–nucleated
+cells in DNA-PKcs3A/3A
+mice leads to pancytopenia, which has
+not been observed in DNA-PKcs/
+or SCID mice.
+Peripheral blood cells are continuously replenished from
+HSC pools in hematopoietic organs, particularly in postnatal
+bone marrow (Kondo et al., 2003). To examine whether a defect
+in HSC homeostasis was the cause of bone marrow depletion in
+DNA-PKcs3A/3A
+mice, a population of bone marrow HSCs
+(Lin
+Sca-1+
+c-Kit+
+, hereafter referred to as LSK cells) was eval-
+uated by flow cytometric analysis (Morrison et al., 1995). The
+experiments revealed that bone marrow LSK cells and their de-
+rivative Lin
+Sca-1
+c-Kit+
+progenitor cells were almost ablated
+in 2-wk-old DNA-PKcs3A/3A
+mice and were 100 times less than
+wild type even at day 1 (Fig. 3, D and E), whereas no significant
+Figure 3.  Congenital bone marrow failure
+and HSC/progenitor cell depletion in DNA-
+PKcs3A/3A
+mice. (A) The averages of peripheral
+blood WBC counts at day 1 (D1) and day 14
+(D14) after birth (n = 4 for each group). (B) The
+averages of RBC counts reveal the develop-
+ment of anemia in DNA-PKcs3A/3A
+mice after
+birth (n = 4 for each group). (C) Bone marrow
+was depleted in DNA-PKcs3A/3A
+mice. Bone
+marrow was taken from one femur and one
+tibia of 2-wk-old mice (n = 3 for each group).
+Error bars represent SD. (D) Flow cytometric
+analysis of HSC-enriched LSK cells. Bone mar-
+row cells were stained with a lineage marker
+cocktail, c-Kit, and Sca-1. LSK cells (Lin
+Sca-
+1+
+c-Kit+
+) and myeloid progenitor cells (Lin
+Sca-
+1
+c-Kit+
+) were ablated in 2-wk-old (day 14)
+DNA-PKcs3A/3A
+mice. In newborn mice (day 1),
+myeloid progenitor cells were detected. Boxes
+indicate the LSK cell gate (Lin
+Sca-1+
+c-Kit+
+).
+(E) Quantification of flow cytometric analysis
+of HSCs (n ≥ 3 for each group). Lines indicate
+the means for each group.
+299Hematopoietic failure in DNA-PKcs mutant mice • Zhang et al.
+performed in irradiated CD45.1-recipient mice transplanted
+with fetal liver LSK cells from wild-type or DNA-PKcs3A/3A
+embryos (CD45.2 background) as well as the competing wild-type
+CD45.1 bone marrow cells. As shown in Fig. 4 F, DNA-PKcs3A/3A
+fetal liver LSKs were completely unable to repopulate in vivo,
+demonstrating the severity of hematopoietic impairment in
+DNA-PKcs3A/3A
+mice. In contrast, bone marrow cells from
+8-mo-old DNA-PKcs/
+mice retained the reconstitution abil-
+ity, though with a reduced potential compared with age-matched
+wild-type bone marrow cells (Fig. 4 G), suggesting a possible
+age-associated defect in hematopoiesis in DNA-PKcs/
+mice
+as also observed in other NHEJ-defective mice (Nijnik et al.,
+2007; Rossi et al., 2007).
+Increase of spontaneous DNA lesions
+and apoptosis in DNA-PKcs3A/3A
+fetal
+liver HSCs
+Based on our results, we hypothesized that the 3A mutant DNA-
+PKcs might interfere with endogenous DSB repair, resulting in
+an increase of spontaneous DNA lesions and cell death. To in-
+vestigate this possibility, freshly isolated LSK cells from E12.5
+fetal livers were stained for -H2AX nuclear foci, a commonly
+used surrogate marker of DSB formation. LSK cells isolated
+from wild-type and heterozygotic embryos rarely displayed
+-H2AX foci, and no more than five -H2AX foci were ob-
+served in individual wild-type cells, whereas the majority of
+DNA-PKcs3A/3A
+LSK cells were positively stained with -H2AX,
+and >30% contained more than five -H2AX foci (Fig. 5 A).
+In addition, a single-cell comet assay performed under alka-
+line conditions also revealed that a significant portion of DNA-
+PKcs3A/3A
+LSK cells contained the comet tail as compared
+with that of wild-type and heterozygotic LSK cells (Fig. S4 A).
+Consistent with the induction of spontaneous DNA lesions, an
+Bone marrow transplantation rescues
+DNA-PKcs3A/3A
+mice
+Defective HSC expansion in fetal liver and depletion of nucle-
+ated cells in postnatal bone marrow suggest that HSC failure
+might be the cause of early lethality in DNA-PKcs3A/3A
+mice. To
+test this hypothesis, bone marrow transplantation (BMT) was
+performed in 2-wk-old DNA-PKcs3A/3A
+–recipient mice using
+wild-type littermates as donors. BMT was performed without
+preconditioning procedures because DNA-PKcs3A/3A
+mice are
+highly sensitive to radiation treatment (unpublished data) and
+are immunoincompetent. After transplantation with wild-type
+bone marrow cells, DNA-PKcs3A/3A
+recipients had an 80% sur-
+vival rate at 2 mo and 60% at 1 yr (Fig. 4 D). BMT-rescued
+DNA-PKcs3A/3A
+mice gained weight normally compared with
+their heterozygotic littermates (Fig. S3 B). 8 wk after transplan-
+tation, peripheral blood cell counts in recipient mice showed a
+complete recovery from pancytopenia and the restoration of the
+bone marrow HSC pool (Fig. S3 A). Importantly, PCR genotyp-
+ing revealed that hematopoietic organs in DNA-PKcs3A/3A
+recipients were reconstituted primarily by wild-type donor cells
+(Fig. 4 E), indicating a successful hematopoietic reconstitution.
+The rescue of DNA-PKcs3A/3A
+mice could also be achieved by
+transplantation with bone marrow LSK cells from wild-type
+littermates with a reduced efficiency (Fig. 4 D), as the LSK fac-
+tion primarily contains the upstream HSCs. In contrast, bone
+marrow contains HSCs, progenitors, and partially differentiated
+progenitors for different hematopoietic lineages and is able to
+achieve a significant rescue within a shorter window of oppor-
+tunity than LSKs.
+The success of BMT rescue confirmed that HSC failure is
+the main cause of early lethality in DNA-PKcs3A/3A
+mice. To de-
+termine whether there is an intrinsic defect of DNA-PKcs3A/3A
+HSC proliferation in vivo, competitive repopulating assays were
+Figure 4.  Loss of fetal liver HSCs in DNA-PKcs3A/3A
+embryos. (A) Flow cytometric analysis of HSC-enriched LSK
+cells in the E16.5 fetal liver. Percentages of LSKs are indi-
+cated. Boxes indicate the LSK cell gate (Lin
+Sca-1+
+c-Kit+
+).
+(B) Quantitative analysis of fetal liver LSKs. Data show
+progressive LSK loss in DNA-PKcs3A/3A
+embryos (one dot
+represents one sample; at least four samples from one
+time point were analyzed for each genotype). Lines indi-
+cate the means for each group. (C) Ex vivo expansion of
+E13.5 fetal liver LSK cells. DNA-PKcs3A/3A
+LSKs showed
+limited proliferation capacity compared with wild-type
+and DNA-PKcs+/3A
+LSKs. (n = 3 for each group). (D) Kaplan–
+Meier survival curves for untreated DNA-PKcs3A/3A
+mice, bone marrow–transplanted (BMT) DNA-PKcs3A/3A
+mice, and LSK cell–transplanted DNA-PKcs3A/3A
+mice
+(*, P < 0.05; **, P < 0.001; log-rank test). (E) Hematopoi-
+etic reconstitution in DNA-PKcs3A/3A
+BMT mice by donor
+cells. DNA samples from the thymus (T), spleen (S), and
+bone marrow (B) of DNA-PKcs3A/3A
+BMT mice were PCR
+genotyped. Wild-type PCR products were predominantly
+presented in all three tissues. The asterisk denotes a
+517-bp band of the 1-kb DNA ladder (Invitrogen).
+(F) Competitive repopulation assay using E13.5 fetal liver
+cells. DNA-PKcs3A/3A
+HSCs (CD45.1
+CD45.2+
+) failed to
+repopulate in lethally irradiated B6-LY5.2/Cr host mice
+(CD45.1+
+CD45.2
+). n = 4. (G) Competitive repopulation
+was performed using bone marrow cells from 8-mo-old
+DNA-PKcs/
+and age-matched wild-type mice. DNA-
+PKcs/
+HSCs (CD45.1
+CD45.2+
+) showed reduced re-
+populating potential. n = 4. Error bars represent SD.
+JCB • VOLUME 193 • NUMBER 2 • 2011 300
+bone marrow (Fig. 5 F) but restored to a lesser degree in the
+spleen (Fig. 5 G). Furthermore, even with the loss of a single
+p53 gene, the numbers of B cells were partially rescued. There
+were very few B220+
+IgM+
+mature B cells in the 3A/p53+/+
+bone
+marrow, but these cells were clearly detectable in 3A/p53/
+mice (Fig. S4 C). Thus, in contrast to DNA-PKcs–deficient
+SCID mice in which loss of p53 does not rescue B cell develop-
+ment (Nacht et al., 1996), there is partial rescue of B lympho-
+cytes in 3A/p53/
+mice. This also suggests that the V(D)J
+recombination defect in DNA-PKcs3A/3A
+mice is less severe than
+in the complete absence of DNA-PKcs.
+Increase of genotoxic stress in the
+intestinal crypt and epidermis
+In addition to HSC loss, elevation of the p53-dependent geno-
+toxic stress response in DNA-PKcs3A/3A
+mice was also evident
+in the intestinal crypt and epidermis. The intestinal crypt is the
+proliferation compartment and contains intestine stem cells,
+which give rise to different intestine epithelial cells for intesti-
+nal homeostasis maintenance. Immunohistological analysis re-
+vealed that a significant increase of TUNEL-positive cells was
+found in the intestinal crypt of DNA-PKcs3A/3A
+mice and that the
+p53-null mutation alleviated the defect completely (Fig. 6A). Skin
+hyperpigmentation is another example of a p53-dependent
+stress response (McGowan et al., 2008) and can be found in the
+footpad and tail of DNA-PKcs3A/3A
+mice (Fig. 6, B and C). As
+expected, the hyperpigmentation phenotype is completely re-
+versed in 3A/p53/
+mice. Footpad hyperpigmentation became
+apparent in DNA-PKcs3A/3A
+mice as early as 1 wk after birth and
+increase of Annexin V staining was also confirmed in freshly
+isolated fetal liver LSK cells from DNA-PKcs3A/3A
+embryos
+(Fig. 5 B), suggesting that HSC loss in DNA-PKcs3A/3A
+mice is
+likely caused by excessive apoptotic cell death.
+Loss of p53 mitigates the stem cell
+failure and promotes survival in
+DNA-PKcs3A/3A
+mice
+To examine whether HSC loss is caused by p53-mediated apop-
+totic response, DNA-PKcs3A
+mice were crossed with p53-null
+mutant mice. Loss of both p53 alleles doubled the life span of
+homozygotic DNA-PKcs3A/3A
+mice (abbreviated as 3A; Fig. 5 C)
+and restored long-term HSCs (Lin
+Sca-1+
+c-Kit+
+Flt3
+CD34
+) in
+DNA-PKcs3A/3A
+mice (Fig. 5 D). Strikingly, loss of a single copy
+of p53 also prolonged the survival of 3A/p53+/
+mice. In a cohort
+of 22 3A/p53+/
+mice, 50% survived beyond 8 wk, which is
+significantly longer (P < 0.001) than the survival of 3A mice.
+Despite the enhanced survival, there was still a major depletion
+of bone marrow stem cells in 3A/p53+/
+mice. We estimate from
+two femur bones that there are 4.2 × 103
+LSK cells in 3A/p53+/
+mice compared with 2.9 × 105
+LSK cells in wild-type mice.
+In addition to life-span extension, a p53-null mutation
+also alleviated the developmental defect of lymphocytes in
+DNA-PKcs3A/3A
+mice. Thymocyte cell numbers were partially
+rescued (60% of wild-type mice) in 3A/p53/
+mice but not in
+3A/p53+/
+mice (Fig. 5 E), and the distribution of CD4 versus
+CD8 cells was normalized in 3A/p53/
+thymocytes (Fig. S4 B).
+The rescue of B cell development was also obvious, as the num-
+bers of B cells in 3A/p53/
+mice were completely normal in
+Figure 5.  Elevation of DNA damage and p53 signaling in
+DNA-PKcs3A/3A
+mice. (A) -H2AX foci analysis with freshly
+isolated E12.5 fetal liver LSK cells. Cells were grouped
+into three categories based on the number of -H2AX foci:
+negative (zero foci/cell), positive (one to five foci/cell),
+and strong positive (more than five foci/cell). A total of
+50 cells were randomly selected from each genotype for
+analysis. Data represent two independent assays. Bar, 10 µm.
+(B) Annexin V staining of freshly isolated LSKs from
+E13.5 fetal livers (n ≥ 3 for each group). Lines indicate the
+means for each group. (C) Kaplan–Meier survival curves
+of DNA-PKcs3A/3A
+mice (abbreviated as 3A) in different
+p53 genotype backgrounds. (D) Flow cytometric analysis
+of bone marrow (BM) HSCs in 2-wk-old mice. HSC loss,
+particularly long-term HSC (Lin
+Sca-1+
+c-Kit+
+Flt3
+CD34
+)
+loss in DNA-PKcs3A/3A
+was completely rescued in the p53-
+null background. (top) Boxes indicate the LSK cell gate
+(Lin
+Sca-1+
+c-Kit+
+). (bottom) The numbers indicate the per-
+centages of cell counts to total population in each quad-
+rant. The lines separate the negative and the positive cell
+populations in each FACS analysis. (E–G) Null mutation of
+p53 rescues the numbers of T and B cells in DNA-PKcs3A/3A
+mice. The numbers of thymocytes (E), bone marrow B cells
+(F), and splenic B cells (G) were determined from 2-wk-old
+wild-type mice as well as in DNA-PKcs3A/3A
+mice with dif-
+ferent p53 genotypes (n ≥ 3 for each group). Error bars
+represent SD.
+301Hematopoietic failure in DNA-PKcs mutant mice • Zhang et al.
+revealed that FANCD2 monoubiquitination was attenuated in
+DNA-PKcs3A/3A
+MEFs in response to IR and MMC (Fig. 7 C and
+Fig. S5 D) but was not ablated as observed in FANCA/
+MEFs
+(Fig. S5 E). This attenuation is not likely caused by a reduced
+S-phase population in DNA-PKcs3A/3A
+MEFs, as no clear differ-
+ence exists in cell cycle redistribution between wild-type and
+DNA-PKcs3A/3A
+MEFs (Fig. S5 C). Activated FANCD2 is re-
+cruited to chromatin and forms nuclear foci where it facilitates
+HR and interstrand cross-link repair (Garcia-Higuera et al., 2001).
+In response to IR treatment, FANCD2 foci formation was de-
+tected in wild-type cells as early as 20 min after irradiation
+(unpublished data), and the percentage of cells with FANCD2
+foci increases with time (Fig. 7 D). In contrast, FANCD2 foci in
+DNA-PKcs3A/3A
+MEFs appeared with delayed kinetics, and the
+percentage of cells with foci was 50% of wild-type MEFs at
+various time points after IR. A similar defect was detected in the
+formation of Rad51 nuclear foci (Fig. S5 F), a prerequisite of
+HR-mediated DNA repair (Haaf et al., 1995). Formation of
+Rad51 foci was attenuated in DNA-PKcs3A/3A
+MEFs but was en-
+hanced in DNA-PKcs/
+MEFs, which is likely because of the
+elevation of HR activity in the absence of NHEJ (Allen et al.,
+2002). Finally, we analyzed HR activity using the direct repeat
+(DR)–GFP reporter approach (Pierce et al., 1999). MEFs with a
+single integration of the DR-GFP reporter were transfected with
+an ISceI- glucocorticoid receptor (GR)–RFP construct to induce
+DSB formation and HR reaction (Soutoglou et al., 2007). Our
+result revealed that HR activity was attenuated in DNA-PKcs3A/3A
+MEFs, and a significant portion of ISceI-GR-RFP–expressing
+(RFP+
+) DNA-PKcs3A/3A
+cells was GFP
+(no recombination) as
+compared with wild-type MEFs (Fig. 7 E). In contrast, HR activ-
+ity was further enhanced in DNA-PKcs/
+MEFs because of a
+lack of NHEJ activity. The negative impact of the DNA-PKcs3A
+mutant on the HR/FA responses thus provides an explanation for
+the phenotypical difference between DNA-PKcs3A/3A
+mice and
+DNA-PKcs–null mice.
+Discussion
+The self-renewal property of HSCs and their ability to sustain
+long-term hematopoiesis require that genome integrity is strictly
+maintained (Kenyon and Gerson, 2007; Niedernhofer, 2008).
+It is well characterized that hematopoietic cells are highly sensi-
+tive to radiation-induced DNA damage, and bone marrow aplasia
+is one of main causes for radiation-induced lethality. A recent
+study showed that HSCs, but not progenitor cells, are preferen-
+tially killed by radiation, suggesting that HSCs are among the
+most sensitive cell types to DNA damage (Wang et al., 2006).
+HSCs in DNA repair-deficient individuals are highly suscepti-
+ble to various kinds of genotoxic stresses. Genetically modified
+mouse models also revealed that defects in the DNA damage
+response result in the dysfunction of HSC maintenance. Hema-
+topoietic failure with an early development of bone marrow hypo­
+cellularity is manifested in mice with a hypomorphic mutation
+of Rad50 (Rad50S/S
+; Bender et al., 2002) and mice knockout of
+ERCC1, a key factor in nucleotide excision repair and inter-
+strand cross-link repair (Niedernhofer et al., 2004; Prasher et al.,
+2005). Deficiency of ATM leads to elevated levels of oxidative
+was further darkened with age. In contrast, there was no footpad
+pigmentation in wild-type and heterozygotic pups, whereas
+mild footpad pigmentation could also be found in older (>2 mo)
+heterozygotic mice (unpublished data).
+Hypersensitivity of DNA-PKcs3A/3A
+MEFs
+to DNA cross-linking agents
+DNA-PKcs3A/3A
+MEFs exhibit a similar radiosensitivity to
+DNA-PKcs/
+MEFs and defective V(D)J recombination, yet
+only in DNA-PKcs3A/3A
+mice is there a block in hematopoiesis
+and an activation of the p53 pathway. Thus, there are likely to be
+defects in addition to impaired NHEJ. To test this possibility,
+DNA-PKcs3A/3A
+MEFs were subjected to different DNA dam-
+age agents (Fig. 7 A and Fig. S5 A). Clonogenic survival analy-
+ses revealed that DNA-PKcs3A/3A
+MEFs displayed a greater
+sensitivity toward replication stress inducers, including UV
+irradiation, camptothecin, and mitomycin C (MMC; Fig. 7 A).
+The most striking difference came from treatment with the DNA
+cross-linking agent MMC, as clonogenic survival of DNA-
+PKcs3A/3A
+MEFs was dramatically reduced, whereas hetero­
+zygotic MEFs and, importantly, DNA-PKcs/
+MEFs were not
+affected. Furthermore, MMC treatment induced a significant
+increase in chromosome aberrations in DNA-PKcs3A/3A
+MEFs
+(Fig. 7 B), among which radial structures were frequently ob-
+served (Fig. S5 B).
+Hypersensitivity toward DNA cross-linking agents and
+bone marrow failure are the hallmarks of the inherited human
+disease FA. The repair of DNA interstrand cross-links is a com-
+plex process that involves the FA complex and the HR pathway
+(Mirchandani and D’Andrea, 2006). To determine whether the
+FA pathway was affected, we analyzed the induction of FANCD2
+monoubiquitination in response to DNA damage. Immunoblotting
+Figure 6.  Activation of p53 in the intestinal crypt and epidermis in DNA-
+PKcs3A/3A
+mice. (A) Representative figures of a TUNEL assay. Increase of
+TUNEL-positive apoptotic cells (red) in the DNA-PKcs3A/3A
+intestinal crypt
+(outlined with dashed lines). Nuclei were counterstained with DAPI (blue).
+Bar, 50 µm. (B) Skin hyperpigmentation is clearly distinguishable in the
+DNA-PKcs3A/3A
+footpad and tail. (C) Hematoxylin and eosin staining of tail
+skin section. Massive melanin accumulated in the DNA-PKcs3A/3A
+epidermis
+and was abolished in a p53-null background. Bar, 20 µm.
+JCB • VOLUME 193 • NUMBER 2 • 2011 302
+DSBs are among the most dangerous types of DNA lesions
+and pose a great challenge to cellular survival and genome
+integrity maintenance. Multiple repair mechanisms, including
+NHEJ, HR, and additional backup pathways, have evolved to
+ensure that DSBs are promptly and properly eliminated from
+the genome. Outside V(D)J recombination events, endogenous
+DSBs occur primarily in the cycling cells though the conversion of
+single-strand lesions during replication (Vilenchik and Knudson,
+2003). From the standpoint of endogenous DSB production,
+we could assume that DNA-PK and its downstream NHEJ
+pathway, which is the predominant DSB repair mechanism in
+mammalian cells and is operational in all cell cycle phases, have
+a greater involvement in the replication-associated DNA damage
+response than we previously thought. However, it is not clear
+how DNA-PKcs and other factors of DSB repair are coordi-
+nated in response to replicative stresses, particularly in the
+highly proliferative cell population. Our unexpected findings
+from the DNA-PKcs3A
+mouse model provide strong evidence
+that the impact of DNA-PKcs, particularly its phosphorylation at
+the mouse Thr2605 cluster (human Thr2609), has a role beyond
+the NHEJ mechanism.
+It recently became clear that the competition between the
+NHEJ and the HR/FA pathway has important biological signifi-
+cance. For example, loss of the NHEJ factor 53BP1 alleviates
+stress and a progressive loss of the HSC pool with age (Ito
+et al., 2004). Similarly, NHEJ deficiency in Ku80 knockout
+mice diminishes HSC self-renewal capacity, whereas hypo-
+morphic Lig4Y288C
+mice display an age-dependent decrease in
+HSC numbers and bone marrow cellularity (Nijnik et al., 2007;
+Rossi et al., 2007). In contrast, HSC loss in DNA-PKcs3A/3A
+mice occurs significantly earlier during embryonic develop-
+ment, which resembles Rad50S/S
+and ERCC1/
+models,
+though it is not clear whether there is a functional overlap be-
+tween the DNA-PKcs3A
+mutant protein and these two DNA re-
+pair factors in terms of HSC maintenance. On the other hand,
+complete DNA-PKcs deficiency leads to a decrease in HSC
+number (unpublished data) and repopulating ability in aged
+DNA-PKcs knockout mice. The distinct phenotypes in HSC
+maintenance between DNA-PKcs knockout and knockin mice
+is likely a result of their difference in DSB repair capacity, as
+DNA-PKcs3A/3A
+cells are also defective in the HR/FA responses
+in addition to the diminished NHEJ activity. Thus, the com-
+bined deficiency in DSB repair renders DNA-PKcs3A/3A
+cells
+hypersensitive to MMC and other replication stress agents. It is
+conceivable that the HR/FA mechanism, but not the NHEJ, is
+essential for replication-associated DNA damage repair and is
+critical for the rapid expansion of HSC populations in develop-
+ing fetal liver.
+Figure 7.  Defect in multiple DNA repair pathways in DNA-
+PKcs3A/3A
+cells. (A) Clonogenic survival of SV40-transformed
+MEFs after UV irradiation, camptothecin (CPT), and mito­
+mycin C (MMC). Representative data of three independent as-
+says are shown. (B) Increase of MMC-induced chromosomal
+aberrations in DNA-PKcs3A/3A
+MEFs from two independent
+experiments. (left) Percentages of MEFs harboring chromo-
+somal aberrations with or without MMC treatment. (right)
+The average numbers of chromosome (Chre.) or chromatid
+(Chtid.) breaks and chromosomal fusions were calculated
+from ≥50 mitotic spreads of each genotype. (C) FANCD2
+monoubiquitination after IR treatment. Primary MEF cultures
+were subjected to 10 Gy of -ray and were harvested at
+the indicated time points for Western blotting. The ratios
+between mono- (L) and unubiquitinated (S) FANCD2 are
+shown. (D) FANCD2 nuclear foci formation after IR (5 Gy)
+treatment. Percentages of FANCD2 foci-positive cells (more
+than five foci) at different time points were analyzed from
+two independent assays. Greater than 200 cells were
+counted for each time point and genotype. (E) Measurement
+of HR with a DR-GFP assay. MEFs with a single copy of the
+DR-GFP HR reporter were mock transfected or transfected
+with the ISceI-GR-RFP plasmid and were analyzed at 24 h.
+Lines divided the cells into three populations. The bottom
+left cell population is negative for both RFP and GFP; the
+bottom right cell population is only RFP positive. The top cell
+population is positive for both RFP and GFP. The numbers
+indicate percentages of cells in each gate. Recombination
+was determined by the fraction of GFP+
+cells among all
+GFP+
+and RFP+
+cells. Each point represents data from three
+individual clones. Error bars represent SD.
+303Hematopoietic failure in DNA-PKcs mutant mice • Zhang et al.
+to the loss of stem cells in bone marrow (Kennedy and D’Andrea,
+2005; Rani et al., 2008). It is interesting to note that the human
+dyskeratosis congenita syndrome, which is caused by telomerase
+mutations, also displays bone marrow failure and hyper skin pig-
+mentation characters. Conversely, mice with combined mutations
+on telomerase and Pot1b, a component of the telomere-protecting
+shelterin complex, exhibit dyskeratosis congenita–like character-
+istics, including bone marrow failure and footpad hyperpigmen-
+tation (Hockemeyer et al., 2008; He et al., 2009). This similarity
+to DNA-PKcs3A/3A
+mice suggests a common stress response
+among different congenital bone marrow failure diseases and war-
+rants further investigation of DNA-PKcs phosphorylation on
+telomere maintenance.
+Materials and methods
+Construction of the targeting vector and generation of DNA-PKcs3A/3A
+knockin mice
+The 3A knockin targeting vector was constructed using a previously described
+self-excision gene-targeting approach (Bunting et al., 1999). The DNA-PKcs3A
+mice were maintained in the mixed genetic background of 129× C57BL/6
+and were bred with p53-null mice in an FVB background. ES cell targeting
+and generation of chimeric mice were performed at the transgenic core facility
+at the University of Texas Southwestern Medical Center. All animal experimen-
+tal protocols were approved by the Animal Care Committee of the University
+of Texas Southwestern Medical Center.
+Clonogenic survival and chromosomal aberrations
+Primary and SV40-transformed MEFs from E13.5 embryos were cultured in 
+minimum essential medium supplemented with 10% fetal calf serum and peni-
+cillin/streptomycin. MEFs were maintained in a 37°C humidified atmosphere
+with 3% O2 and 10% CO2. For clonogenic survival, SV40-transformed MEFs
+were treated with different doses of mutagens and were trypsinized/reseeded
+in appropriate numbers in 10-cm tissue-culture dishes for 7 d. For chromo-
+somal aberrations, primary MEFs (passages 2–5) were incubated with
+40 nM MMC for 24 h and 0.1 mg/ml colcemid in the last 2 h.
+Fluorescence-activated cell sorting and ex vivo expansion of HSCs
+Thymus, bone marrow, or fetal liver single-cell suspensions were stained
+with the indicated antibodies and analyzed using either a FACSCalibur
+(BD) or LSRII (BD) flow cytometer (Huynh et al., 2008). HSCs were sorted
+using a flow cytometer (FACSAria; BD) essentially as previously described
+(Huynh et al., 2008). For apoptosis analysis, cell suspensions were stained
+with phycoerythrin-anti–Annexin V (BD). Ex vivo expansion of fetal liver
+HSCs was performed using a previously published protocol (Zhang and
+Lodish, 2004).
+V(D)J recombination assay
+D2:J1 coding joint junctions were PCR amplified from total thymocyte
+DNA using a nested amplification protocol. The PCR conditions and primer
+design are detailed in Fig. S2.
+Bone marrow/HSC transplantation and competitive repopulating assay
+Total bone marrow cells (5 × 105
+) or Lin
+Sca-1+
+c-Kit+
+cells (1,500–5,000)
+from wild-type littermates were injected into the retro-orbital plexus of 2- or
+3-wk-old DNA-PKcs3A/3A
+mice without preconditioning. Competitive repopu­
+lation was performed using wild-type, DNA-PKcs3A/3A
+, or DNA-PKcs/
+cells (CD45.2 background), mixed with competitive bone marrow cells
+from B6-LY5.2/Cr mice (CD45.1 background), and injected into lethally ir-
+radiated (5 Gy × 2) B6-LY5.2/Cr–recipient mice. 2 mo after injection,
+populations of CD45.1+
+and CD45.2+
+peripheral blood cells were ana-
+lyzed by flow cytometry.
+DR-GFP HR assay
+SV40-transformed MEFs with single-copy incorporation of the DR-GFP re-
+porter (Pierce et al., 1999) were transfected with the ISceI-GR-RFP plasmid
+(Addgene) and treated with 10 nM triamcinolone acetonide for 24 h fol-
+lowed by flow cytometry analysis. HR activities were determined by the
+percentage of GFP+
+RFP+
+double-positive cells among all ISceI-GR-RFP–
+expressing (RFP+
+) cells.
+the hypersensitivity of HR-defective Brca1 mutant cells to
+DNA-damaging agents and restores DSB repair by HR (Bouwman
+et al., 2010; Bunting et al., 2010). In addition, the FA pathway
+plays a critical role in eliminating toxic NHEJ; suppression of
+NHEJ alleviates the sensitivity of FA mutant cells to DNA cross-
+linking agents and facilitates error-free repair by HR (Adamo
+et al., 2010; Pace et al., 2010). Similarly, our data suggest that
+the DNA-PKcs3A
+mutant protein interferes with the HR path-
+way, which could explain the sensitivity to replication damage
+and the severity of hematopoietic failure.
+We have previously reported that the human Thr2609 cluster
+is phosphorylated directly by the ATR kinase upon replication
+stress (Yajima et al., 2006). This ATR-dependent DNA-PKcs
+phosphorylation virtually facilitates processing of replication-
+associated DNA lesions through the HR/FA machinery. It is likely
+that, in such a repair process, the shift from error-prone end joining
+to faithful repair by the HR/FA is partially achieved by ATR-
+dependent DNA-PKcs phosphorylation. In support of this, a simi-
+lar stem cell defect was observed in conditional ATR knockout
+mice (Ruzankina et al., 2007). It is not clear yet how DNA-PKcs
+phosphorylation at the Thr2609 cluster promotes HR/FA activities.
+One possible explanation is that Thr2609 cluster phosphorylation
+changes the conformation of DSB-bound DNA-PKcs and releases
+DSB ends to the HR/FA machineries (Meek et al., 2008).
+The loss of HSCs in DNA-PKcs3A/3A
+mice is primarily
+caused by p53-mediated apoptotic response, as the p53-null
+mutation reinstates HSC reserves in DNA-PKcs3A/3A
+mice. In
+addition to HSC loss, elevation of genotoxic stress and p53 acti-
+vation was found in other proliferating tissues as evident from
+intestinal crypt cell apoptosis and epidermal hyperpigmenta-
+tion. These results reiterate that DNA-PKcs phosphorylation at
+the human Thr2609/mouse Thr2605 cluster is critical for repli-
+cation stress response and the maintenance of tissue homeosta-
+sis. The tissue-specific outcome of genotoxic stress imposed by
+the DNA-PKcs3A
+mutant protein or DNA-PKcs dysfunction
+may depend on cell type–specific apoptosis/senescence and the
+compensation capacity from varied sizes of stem cell pools in
+different tissues and organs.
+Gene mutations in the FA protein complex and HR compo-
+nents have been indentified in human FA syndrome character-
+ized by congenital bone marrow failure, short stature, abnormal
+skin pigmentation, reduced fertility, hypersensitivity toward DNA
+cross-link damages, and increased genomic instability (Moldovan
+and D’Andrea, 2009). The mechanism underlying the clinical
+findings of FA remains unclear, given the fact that none of the
+current mouse models for HR and FA systematically recapitu-
+lated these pathophysiological changes. It is interesting to note
+that the DNA-PKcs3A/3A
+mouse resembles human FA syndromes
+more than FA mouse models. The hallmarks of FA, including
+aplastic anemia, abnormal skin pigmentation, MMC sensitivity,
+and radial chromosome formation with MMC treatment, are all
+observed in DNA-PKcs3A/3A
+mice, suggesting that, in human pa-
+tients, FA mutations also likely affect the stem cell compartment
+during embryo development and activate p53, which generates
+pathological changes in multiple organs. Indeed, p53 has also
+been shown to be up-regulated in FA cells, and it has been specu-
+lated that the p53-dependent apoptotic pathway may contribute
+JCB • VOLUME 193 • NUMBER 2 • 2011 304
+Cook, A.J., L. Oganesian, P. Harumal, A. Basten, R. Brink, and C.J. Jolly. 2003.
+Reduced switching in SCID B cells is associated with altered somatic
+mutation of recombined S regions. J. Immunol. 171:6556–6564.
+Difilippantonio, S., E. Gapud, N. Wong, C.Y. Huang, G. Mahowald, H.T. Chen,
+M.J. Kruhlak, E. Callen, F. Livak, M.C. Nussenzweig, et al. 2008. 53BP1
+facilitates long-range DNA end-joining during V(D)J recombination.
+Nature. 456:529–533. doi:10.1038/nature07476
+Ding, Q., Y.V. Reddy, W. Wang, T. Woods, P. Douglas, D.A. Ramsden, S.P.
+Lees-Miller, and K. Meek. 2003. Autophosphorylation of the catalytic
+subunit of the DNA-dependent protein kinase is required for efficient
+end processing during DNA double-strand break repair. Mol. Cell. Biol.
+23:5836–5848. doi:10.1128/MCB.23.16.5836-5848.2003
+Douglas, P., G.P. Sapkota, N. Morrice,Y.Yu,A.A. Goodarzi, D. Merkle, K. Meek,
+D.R. Alessi, and S.P. Lees-Miller. 2002. Identification of in vitro and in
+vivo phosphorylation sites in the catalytic subunit of the DNA-dependent
+protein kinase. Biochem. J. 368:243–251. doi:10.1042/BJ20020973
+Gao, Y., J. Chaudhuri, C. Zhu, L. Davidson, D.T. Weaver, and F.W. Alt. 1998.
+A targeted DNA-PKcs-null mutation reveals DNA-PK-independent func-
+tions for KU in V(D)J recombination. Immunity. 9:367–376. doi:10.1016/
+S1074-7613(00)80619-6
+Garcia-Higuera, I., T. Taniguchi, S. Ganesan, M.S. Meyn, C. Timmers, J. Hejna,
+M. Grompe, and A.D. D’Andrea. 2001. Interaction of the Fanconi anemia
+proteins and BRCA1 in a common pathway. Mol. Cell. 7:249–262. doi:10
+.1016/S1097-2765(01)00173-3
+Gu, Y., K.J. Seidl, G.A. Rathbun, C. Zhu, J.P. Manis, N. van der Stoep, L.
+Davidson, H.L. Cheng, J.M. Sekiguchi, K. Frank, et al. 1997. Growth
+retardation and leaky SCID phenotype of Ku70-deficient mice. Immunity.
+7:653–665. doi:10.1016/S1074-7613(00)80386-6
+Haaf, T., E.I. Golub, G. Reddy, C.M. Radding, and D.C. Ward. 1995. Nuclear
+foci of mammalian Rad51 recombination protein in somatic cells after
+DNA damage and its localization in synaptonemal complexes. Proc. Natl.
+Acad. Sci. USA. 92:2298–2302. doi:10.1073/pnas.92.6.2298
+He, H., Y. Wang, X. Guo, S. Ramchandani, J. Ma, M.F. Shen, D.A. Garcia, Y.
+Deng, A.S. Multani, M.J. You, and S. Chang. 2009. Pot1b deletion and
+telomerase haploinsufficiency in mice initiate an ATR-dependent DNA
+damage response and elicit phenotypes resembling dyskeratosis congenita.
+Mol. Cell. Biol. 29:229–240. doi:10.1128/MCB.01400-08
+Hockemeyer, D., W. Palm, R.C. Wang, S.S. Couto, and T. de Lange. 2008.
+Engineered telomere degradation models dyskeratosis congenita. Genes
+Dev. 22:1773–1785. doi:10.1101/gad.1679208
+Huynh, H., S. Iizuka, M. Kaba, O. Kirak, J. Zheng, H.F. Lodish, and C.C. Zhang.
+2008. Insulin-like growth factor-binding protein 2 secreted by a tumori-
+genic cell line supports ex vivo expansion of mouse hematopoietic stem
+cells. Stem Cells. 26:1628–1635. doi:10.1634/stemcells.2008-0064
+Ito, K., A. Hirao, F. Arai, S. Matsuoka, K. Takubo, I. Hamaguchi, K. Nomiyama,
+K. Hosokawa, K. Sakurada, N. Nakagata, et al. 2004. Regulation of oxi-
+dative stress by ATM is required for self-renewal of haematopoietic stem
+cells. Nature. 431:997–1002. doi:10.1038/nature02989
+Kennedy, R.D., and A.D. D’Andrea. 2005. The Fanconi Anemia/BRCA path-
+way: new faces in the crowd. Genes Dev. 19:2925–2940. doi:10.1101/gad
+.1370505
+Kenyon, J., and S.L. Gerson. 2007. The role of DNA damage repair in aging of adult
+stem cells. Nucleic Acids Res. 35:7557–7565. doi:10.1093/nar/gkm1064
+Kondo, M.,A.J. Wagers, M.G. Manz, S.S. Prohaska, D.C. Scherer, G.F. Beilhack,
+J.A. Shizuru, and I.L. Weissman. 2003. Biology of hematopoietic stem
+cells and progenitors: implications for clinical application. Annu. Rev.
+Immunol. 21:759–806. doi:10.1146/annurev.immunol.21.120601.141007
+Kurimasa, A., H. Ouyang, L.J. Dong, S. Wang, X. Li, C. Cordon-Cardo, D.J.
+Chen, and G.C. Li. 1999. Catalytic subunit of DNA-dependent protein ki-
+nase: impact on lymphocyte development and tumorigenesis. Proc. Natl.
+Acad. Sci. USA. 96:1403–1408. doi:10.1073/pnas.96.4.1403
+Ma, Y., U. Pannicke, H. Lu, D. Niewolik, K. Schwarz, and M.R. Lieber. 2005.
+The DNA-dependent protein kinase catalytic subunit phosphorylation
+sites in human Artemis. J. Biol. Chem. 280:33839–33846. doi:10.1074/
+jbc.M507113200
+Manis, J.P., D. Dudley, L. Kaylor, and F.W. Alt. 2002. IgH class switch recom-
+bination to IgG1 in DNA-PKcs-deficient B cells. Immunity. 16:607–617.
+doi:10.1016/S1074-7613(02)00306-0
+McGowan, K.A., J.Z. Li, C.Y. Park, V. Beaudry, H.K. Tabor, A.J. Sabnis, W.
+Zhang, H. Fuchs, M.H. de Angelis, R.M. Myers, et al. 2008. Ribosomal
+mutations cause p53-mediated dark skin and pleiotropic effects. Nat.
+Genet. 40:963–970. doi:10.1038/ng.188
+Meek, K., P. Douglas, X. Cui, Q. Ding, and S.P. Lees-Miller. 2007. trans
+Autophosphorylation at DNA-dependent protein kinase’s two major
+autophosphorylation site clusters facilitates end processing but not end
+joining. Mol. Cell. Biol. 27:3881–3890. doi:10.1128/MCB.02366-06
+Meek, K.,V. Dang, and S.P. Lees-Miller. 2008. DNA-PK: the means to justify the
+ends? Adv. Immunol. 99:33–58. doi:10.1016/S0065-2776(08)00602-0
+Online supplemental material
+Fig. S1 shows a DNA-PKcs3A
+mouse model with three alanine substitutions
+at the Thr2605 cluster of the endogenous DNA-PKcs gene. Fig. S2 shows
+compromised lymphocyte development in DNA-PKcs3A/3A
+mice. Fig. S3
+shows BMT rescue of hematopoietic defects in DNA-PKcs3A/3A
+mice. Fig. S4
+shows spontaneous DNA damage and a p53 signaling pathway in DNA-
+PKcs3A/3A
+cells. Fig. S5 shows DNA repair defects in DNA-PKcs3A/3A
+cells.
+Table S1 shows  D2:J1 coding joint junctions cloned and sequenced
+from wild-type mice. Table S2 shows  D2:J1 coding joint junctions
+cloned and sequenced from DNA-PKcs–deficient SCID mice. Table S3
+shows  D2:J1 coding joint junctions cloned and sequenced from DNA-
+PKcs3A/3A
+mice. Table S4 shows  the peripheral blood cell count of 2-wk-old
+mice. Online supplemental material is available at http://www.jcb
+.org/cgi/content/full/jcb.201009074/DC1.
+We thank Drs. K.R. Thomas and M.R. Capecchi for providing the ACN
+plasmid, Drs. D. Boothman and T. Mashimo for providing p53 knockout
+mice, Dr. A. D’Andrea for providing the anti-FANCD2 antibody, and
+Dr. M. Digweed for FANCA/
+MEFs. We thank Robert E. Silvany for cell-
+sorting work and Carolyn Spanial, Eric Shih, Francisca Ahn, and Joyce
+Wang for mouse breeding.
+B.P.C. Chen is supported by National Aeronautics and Space Adminis-
+tration grant NNX07AP84G, D.J. Chen is supported by National Institutes of
+Health grant CA50519, and C.C. Zhang is supported by National Institutes
+of Health grant CA120099, the Michael. L. Rosenberg Endowed Scholar
+Fund, the American Cancer Society, the American Society of Hematology
+Junior Faculty Award, the Robert A. Welch Foundation, and the Basil O’Connor
+Starter Scholar Award from the March of Dimes Foundation.
+Submitted: 14 September 2010
+Accepted: 22 March 2011
+References
+Adamo, A., S.J. Collis, C.A. Adelman, N. Silva, Z. Horejsi, J.D. Ward, E.
+Martinez-Perez, S.J. Boulton, and A. La Volpe. 2010. Preventing non­
+homologous end joining suppresses DNA repair defects of Fanconi anemia.
+Mol. Cell. 39:25–35. doi:10.1016/j.molcel.2010.06.026
+Allen, C., A. Kurimasa, M.A. Brenneman, D.J. Chen, and J.A. Nickoloff. 2002.
+DNA-dependent protein kinase suppresses double-strand break-induced
+and spontaneous homologous recombination. Proc. Natl. Acad. Sci. USA.
+99:3758–3763. doi:10.1073/pnas.052545899
+Bender, C.F., M.L. Sikes, R. Sullivan, L.E. Huye, M.M. Le Beau, D.B. Roth,
+O.K. Mirzoeva, E.M. Oltz, and J.H. Petrini. 2002. Cancer predisposition
+and hematopoietic failure in Rad50(S/S) mice. Genes Dev. 16:2237–2251.
+doi:10.1101/gad.1007902
+Bouwman, P., A. Aly, J.M. Escandell, M. Pieterse, J. Bartkova, H. van der
+Gulden, S. Hiddingh, M. Thanasoula, A. Kulkarni, Q. Yang, et al. 2010.
+53BP1 loss rescues BRCA1 deficiency and is associated with triple-negative
+and BRCA-mutated breast cancers. Nat. Struct. Mol. Biol. 17:688–695.
+doi:10.1038/nsmb.1831
+Bunting, M., K.E. Bernstein, J.M. Greer, M.R. Capecchi, and K.R. Thomas.
+1999. Targeting genes for self-excision in the germ line. Genes Dev.
+13:1524–1528. doi:10.1101/gad.13.12.1524
+Bunting, S.F., E. Callén, N. Wong, H.T. Chen, F. Polato, A. Gunn, A. Bothmer,
+N. Feldhahn, O. Fernandez-Capetillo, L. Cao, et al. 2010. 53BP1 inhibits
+homologous recombination in Brca1-deficient cells by blocking resection
+of DNA breaks. Cell. 141:243–254. doi:10.1016/j.cell.2010.03.012
+Callén, E., M. Jankovic, N. Wong, S. Zha, H.T. Chen, S. Difilippantonio, M. Di
+Virgilio, G. Heidkamp, F.W. Alt, A. Nussenzweig, and M. Nussenzweig.
+2009. Essential role for DNA-PKcs in DNA double-strand break repair
+and apoptosis in ATM-deficient lymphocytes. Mol. Cell. 34:285–297.
+doi:10.1016/j.molcel.2009.04.025
+Chan, D.W., B.P. Chen, S. Prithivirajsingh, A. Kurimasa, M.D. Story, J. Qin, and
+D.J. Chen. 2002. Autophosphorylation of the DNA-dependent protein
+kinase catalytic subunit is required for rejoining of DNA double-strand
+breaks. Genes Dev. 16:2333–2338. doi:10.1101/gad.1015202
+Chen, B.P., D.W. Chan, J. Kobayashi, S. Burma, A. Asaithamby, K. Morotomi-
+Yano, E. Botvinick, J. Qin, and D.J. Chen. 2005. Cell cycle dependence
+of DNA-dependent protein kinase phosphorylation in response to DNA
+double strand breaks. J. Biol. Chem. 280:14709–14715. doi:10.1074/jbc
+.M408827200
+Chen, B.P., N. Uematsu, J. Kobayashi, Y. Lerenthal, A. Krempler, H. Yajima,
+M. Löbrich, Y. Shiloh, and D.J. Chen. 2007. Ataxia telangiectasia mu-
+tated (ATM) is essential for DNA-PKcs phosphorylations at the Thr-2609
+cluster upon DNA double strand break. J. Biol. Chem. 282:6582–6587.
+doi:10.1074/jbc.M611605200
+305Hematopoietic failure in DNA-PKcs mutant mice • Zhang et al.
+Weterings, E., and D.J. Chen. 2008. The endless tale of non-homologous end-
+joining. Cell Res. 18:114–124. doi:10.1038/cr.2008.3
+Yajima, H., K.J. Lee, and B.P. Chen. 2006. ATR-dependent phosphorylation
+of DNA-dependent protein kinase catalytic subunit in response to
+UV-induced replication stress. Mol. Cell. Biol. 26:7520–7528. doi:10
+.1128/MCB.00048-06
+Zhang, C.C., and H.F. Lodish. 2004. Insulin-like growth factor 2 expressed in a
+novel fetal liver cell population is a growth factor for hematopoietic stem
+cells. Blood. 103:2513–2521. doi:10.1182/blood-2003-08-2955
+Mikkola, H.K., and S.H. Orkin. 2006. The journey of developing hematopoietic
+stem cells. Development. 133:3733–3744. doi:10.1242/dev.02568
+Mirchandani, K.D., and A.D. D’Andrea. 2006. The Fanconi anemia/BRCA path-
+way: a coordinator of cross-link repair. Exp. Cell Res. 312:2647–2653.
+doi:10.1016/j.yexcr.2006.06.014
+Moldovan, G.L., and A.D. D’Andrea. 2009. How the fanconi anemia pathway
+guards the genome. Annu. Rev. Genet. 43:223–249. doi:10.1146/annurev-
+genet-102108-134222
+Morrison, S.J., H.D. Hemmati,A.M. Wandycz, and I.L. Weissman. 1995. The pu-
+rification and characterization of fetal liver hematopoietic stem cells. Proc.
+Natl. Acad. Sci. USA. 92:10302–10306. doi:10.1073/pnas.92.22.10302
+Nacht, M., A. Strasser, Y.R. Chan, A.W. Harris, M. Schlissel, R.T. Bronson, and
+T. Jacks. 1996. Mutations in the p53 and SCID genes cooperate in tumori-
+genesis. Genes Dev. 10:2055–2066. doi:10.1101/gad.10.16.2055
+Niedernhofer, L.J. 2008. DNA repair is crucial for maintaining hematopoietic
+stem cell function. DNA Repair (Amst.). 7:523–529. doi:10.1016/j.dnarep
+.2007.11.012
+Niedernhofer, L.J., H. Odijk, M. Budzowska, E. van Drunen, A. Maas, A.F.
+Theil, J. de Wit, N.G. Jaspers, H.B. Beverloo, J.H. Hoeijmakers, and R.
+Kanaar. 2004. The structure-specific endonuclease Ercc1-Xpf is required to
+resolve DNA interstrand cross-link-induced double-strand breaks. Mol. Cell.
+Biol. 24:5776–5787. doi:10.1128/MCB.24.13.5776-5787.2004
+Nijnik, A., L. Woodbine, C. Marchetti, S. Dawson, T. Lambe, C. Liu, N.P.
+Rodrigues, T.L. Crockford, E. Cabuy, A. Vindigni, et al. 2007. DNA
+repair is limiting for haematopoietic stem cells during ageing. Nature.
+447:686–690. doi:10.1038/nature05875
+Nussenzweig, A., C. Chen, V. da Costa Soares, M. Sanchez, K. Sokol, M.C.
+Nussenzweig, and G.C. Li. 1996. Requirement for Ku80 in growth and
+immunoglobulin V(D)J recombination. Nature. 382:551–555. doi:10
+.1038/382551a0
+Ouyang, H., A. Nussenzweig, A. Kurimasa, V.C. Soares, X. Li, C. Cordon-
+Cardo, W. Li, N. Cheong, M. Nussenzweig, G. Iliakis, et al. 1997. Ku70
+is required for DNA repair but not for T cell antigen receptor gene recom-
+bination in vivo. J. Exp. Med. 186:921–929. doi:10.1084/jem.186.6.921
+Pace, P., G. Mosedale, M.R. Hodskinson, I.V. Rosado, M. Sivasubramaniam, and
+K.J. Patel. 2010. Ku70 corrupts DNA repair in the absence of the Fanconi
+anemia pathway. Science. 329:219–223. doi:10.1126/science.1192277
+Pierce, A.J., R.D. Johnson, L.H. Thompson, and M. Jasin. 1999. XRCC3 pro-
+motes homology-directed repair of DNA damage in mammalian cells.
+Genes Dev. 13:2633–2638. doi:10.1101/gad.13.20.2633
+Prasher, J.M., A.S. Lalai, C. Heijmans-Antonissen, R.E. Ploemacher, J.H.
+Hoeijmakers, I.P. Touw, and L.J. Niedernhofer. 2005. Reduced hemato-
+poietic reserves in DNA interstrand crosslink repair-deficient Ercc1/
+mice. EMBO J. 24:861–871. doi:10.1038/sj.emboj.7600542
+Rani, R., J. Li, and Q. Pang. 2008. Differential p53 engagement in response to
+oxidative and oncogenic stresses in Fanconi anemia mice. Cancer Res.
+68:9693–9702. doi:10.1158/0008-5472.CAN-08-1790
+Rossi, D.J., D. Bryder, J. Seita, A. Nussenzweig, J. Hoeijmakers, and I.L.
+Weissman. 2007. Deficiencies in DNA damage repair limit the func-
+tion of haematopoietic stem cells with age. Nature. 447:725–729. doi:10
+.1038/nature05862
+Ruzankina, Y., C. Pinzon-Guzman, A. Asare, T. Ong, L. Pontano, G. Cotsarelis,
+V.P. Zediak, M. Velez, A. Bhandoola, and E.J. Brown. 2007. Deletion of
+the developmentally essential gene ATR in adult mice leads to age-related
+phenotypes and stem cell loss. Cell Stem Cell. 1:113–126. doi:10.1016/
+j.stem.2007.03.002
+Shiloh, Y. 2003. ATM and related protein kinases: safeguarding genome integ-
+rity. Nat. Rev. Cancer. 3:155–168. doi:10.1038/nrc1011
+Sonoda, E., H. Hochegger, A. Saberi, Y. Taniguchi, and S. Takeda. 2006.
+Differential usage of non-homologous end-joining and homologous re-
+combination in double strand break repair. DNA Repair (Amst.). 5:1021–
+1029. doi:10.1016/j.dnarep.2006.05.022
+Soutoglou, E., J.F. Dorn, K. Sengupta, M. Jasin, A. Nussenzweig, T. Ried, G.
+Danuser, and T. Misteli. 2007. Positional stability of single double-
+strand breaks in mammalian cells. Nat. Cell Biol. 9:675–682. doi:10.1038/
+ncb1591
+Taccioli, G.E., A.G. Amatucci, H.J. Beamish, D. Gell, X.H. Xiang, M.I. Torres
+Arzayus, A. Priestley, S.P. Jackson, A. Marshak Rothstein, P.A. Jeggo,
+and V.L. Herrera. 1998. Targeted disruption of the catalytic subunit of the
+DNA-PK gene in mice confers severe combined immunodeficiency and
+radiosensitivity. Immunity. 9:355–366. doi:10.1016/S1074-7613(00)80618-4
+Vilenchik, M.M., and A.G. Knudson. 2003. Endogenous DNA double-strand
+breaks: production, fidelity of repair, and induction of cancer. Proc. Natl.
+Acad. Sci. USA. 100:12871–12876. doi:10.1073/pnas.2135498100
+Wang, Y., B.A. Schulte, A.C. LaRue, M. Ogawa, and D. Zhou. 2006. Total body
+irradiation selectively induces murine hematopoietic stem cell senes-
+cence. Blood. 107:358–366. doi:10.1182/blood-2005-04-1418
+

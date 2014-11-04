@@ -1,0 +1,649 @@
+Hindawi Publishing Corporation
+Journal of Signal Transduction
+Volume 2011, Article ID 860985, 7 pages
+doi:10.1155/2011/860985
+Review Article
+Involvement of Phosphatases in
+Proliferation, Maturation, and Hemoglobinization of
+Developing Erythroid Cells
+Eitan Fibach
+Department of Hematology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel
+Correspondence should be addressed to Eitan Fibach, ﬁbach@yahoo.com
+Received 1 February 2011; Revised 11 April 2011; Accepted 4 May 2011
+Academic Editor: David Leitenberg
+Copyright © 2011 Eitan Fibach. This is an open access article distributed under the Creative Commons Attribution License, which
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Production of RBCs is triggered by the action of erythropoietin (Epo) through its binding to surface receptors (Epo-R) on erythroid
+precursors in the bone marrow. The intensity and the duration of the Epo signal are regulated by several factors, including the
+balance between the activities of kinesase and phosphatases. The Epo signal determines the proliferation and maturation of
+the precursors into hemoglobin (Hb)-containing RBCs. The activity of various protein tyrosine phosphatases, including those
+involved in the Epo pathway, can be inhibited by sodium orthovanadate (Na3VO4, vanadate). Adding vanadate to cultured
+erythroid precursors of normal donors and patients with β-thalassemia enhanced cell proliferation and arrested maturation. This
+was associated with an increased production of fetal hemoglobin (HbF). Increased HbF in patients with β-hemoglobinopathies
+(β-thalassemia and sickle cell disease) ameliorates the clinical symptoms of the disease. These results raise the possibility that
+speciﬁc and nontoxic inhibitors of phosphatases may be considered as a therapeutic modality for elevating HbF in patients with
+β-hemoglobinopathies as well as for intensifying the Epo response in other forms of anemia.
+1. Epo and Proliferation/Maturation of
+Erythroid Precursors
+Production of RBCs (erythropoiesis) in the bone marrow
+depends on the glycoprotein hormone erythropoietin (Epo),
+which prevents apoptosis and stimulates proliferation of
+erythroid precursors [1]. The activity of Epo is mediated
+through its binding to speciﬁc surface receptors (Epo-R) [2].
+Epo binding induces receptor homodimerization and the
+initiation of a stepwise signal transduction process [3]. One
+of the earliest responses detected within cells upon ligand-
+induced homodimerization is a transient increase in tyrosine
+phosphorylation of cellular proteins including the receptor.
+Since the EPO-R, like other hematopoietic cytokine recep-
+tors, lacks intrinsic enzymatic activity, the receptor must
+associate with and activate protein tyrosine kinases in order
+to transmit a signal.
+Upon Epo binding, EpoR undergoes phosphorylation on
+tyrosine residues in the cytoplasmic domain and thereby
+recruits diﬀerent SH2-containing signaling molecules, such
+as the STATs, Shc, SHP-2, and the p85 regulatory subunit of
+PI3K to activate various signal transduction pathways, most
+of which are shared with other members of the cytokine
+receptor family [4].
+Four tyrosine phosphatases are involved in regulating
+erythropoiesis. The SH2-domain containing phosphatases,
+Shp1 and Shp2, cluster designation 45 (CD45) and protein
+tyrosine phosphatase 1B (PTP-1B) [5]—all modulate activity
+of JAK2 kinase. Shp1 associates with Y429 and Y431 [6] and
+Shp2 to Y401 of the EPO-R [7]. Several studies have shown
+that Shp2 is a robust substrate for tyrosine phosphorylation
+by EPO-R, which leads to the recruitment of Grb2-Sos
+[8]. Impaired maturation of B−
+and T−
+cells was described
+originally in CD45-knockout mice and further analysis
+revealed that CD45 is a JAK phosphatase [9]. Study of the
+related tyrosine phosphatases, PTP-1B and T−
+cell tyrosine
+phosphatase (TC-PTP) reveals that these enzymes trap
+substrates with a dityrosine motif. PTP-1B targets Tyk2 and
+2 Journal of Signal Transduction
+JAK2 [10] whereas the related TC-PTP binds JAK1 and JAK3
+[11]. These data indicate that these tyrosine phosphatases
+have unique reactivity towards JAK kinase dephosphor-
+ylation.
+Another manner of desensitization involves the regu-
+lation of metabolic intermediates of inositol. Phosphat-
+idylinositol (3,4,5)-trisphosphate activates many crucial
+signaling events. Several enzymes dephosphorylate it, includ-
+ing phosphatase and tensin homolog (which dephospho-
+rylate the 3 phosphate) and SH2-inositol phosphatase,
+SHIP-1 and SHIP-2 (which dephosphorylate the 5 phos-
+phate). SHIP-1 is recruited to the EPO-R [12], and SHIP-1
+null mice show elevated formation of erythroid progenitors
+in bone marrow [13]. SHIP-1 negatively regulates B−
+cell,
+macrophage, and mast cell signal transduction pathways
+(reviewed in [14]). Further analysis of the erythroid lineage
+of SHIP-1-deﬁcient mice is needed to determine whether
+loss of SHIP-1 aﬀects Erk1/2 and PKB/Akt activation, as
+postulated in other lineages.
+The activity of Epo is mediated through its binding
+to speciﬁc surface receptors (Epo-R; [2]). Epo binding
+induces receptor homodimerization and the initiation of
+a stepwise signal transduction process [3]. The Epo signal
+is regulated by several factors. (A) The concentration of
+Epo. Epo is produced by the kidneys in response to
+hypoxia [1], secreted into the blood stream, and inter-
+acts with erythroid progenitor/precursor cells in the bone
+marrow. Physiologically, ﬂuctuations in the level of Epo
+regulate the RBC number under conditions of hypoxia such
+as at high altitudes. Pathologically, increased Epo causes
+secondary polycythemia [15] whereas decreased production
+of Epo causes anemia (e.g., in patients with chronic renal
+failure) [16]. (B) The density of Epo-R on erythroid pre-
+cursors that is downregulated during erythroid maturation
+[17]. (C) The stimulating activity of kinases that induce
+tyrosine phosphorylation of various proteins in the Epo
+signaling pathway [18]. A single-base somatic mutation in
+the gene of one of these kinases, Janus kinase 2 (JAK2),
+was reported to be responsible for autostimulation of the
+pathway, causing Epo-independent growth of erythroid cells
+in polycythemia vera [19]. (D) The inhibitory activity of
+phosphatases that downregulates the signal, causing it to
+be transient and dependent on continuous Epo binding
+[20].
+The intensity and duration of the ERO signal regulate the
+balance between the rates of proliferation and maturation
+of the erythroid precursors. At early stages of development,
+when the signal is intense due to abundance of Epo-R
+[17], proliferation prevails. As the density of the receptors
+drops, the intensity of the signal weakens, and maturation
+overcomes. The concentration of Epo, as well as other
+cytokines such as the stem cell factor (SCF), also aﬀects the
+intensity of the signal and, thereby, the rate of maturation.
+High concentrations of these cytokines delay maturation,
+increase proliferation/ampliﬁcation, and result in a high cell
+yield [21]. The intensity of the Epo signal also depends on the
+balance between the activities of kinases and phosphatases in
+the Epo pathway [18].
+2. Inhibition of Phosphatases:
+Effect on Proliferation/Maturation of
+Erythroid Precursors
+The activity of various protein tyrosine phosphatases, includ-
+ing those involved in the Epo pathway, can be inhibited
+by sodium orthovanadate (Na3VO4, vanadate; [22]) and
+thereby downregulates the signal. Pervanadate compounds
+are the most potent inhibitors of cellular protein tyrosine
+phosphatases [23]. As oxidants, their mode of action prob-
+ably involves oxidation of a cysteine residue in the active
+site of tyrosine phosphatases [24]. Treatment of cells with
+vanadate perturbs the equilibrium of tyrosine phospho-
+rylation/dephosphorylation, causing elevated protein phos-
+phorylation. In the insulin receptor, vanadate mimics the
+lipogenic eﬀect of insulin via activation of the insulin recep-
+tor tyrosine kinase [23], resulting in the phosphorylation of
+cellular substrates [25]. In T−
+cells, it was shown to mimic
+events mediated by activation of the T−
+cell antigen receptor
+[26, 27] and to activate intracellular signaling pathways
+mediated by the interleukin-2 receptor [28], STAT1 [29] and
+the MAP kinase pathway [30].
+It was reported that treatment with vanadate of the Epo-
+dependent HCD57 murine cell line resulted in increased
+tyrosine protein phosphorylation. Vanadate acted synergis-
+tically with Epo to stimulate DNA synthesis and prevented
+apoptosis following Epo withdrawal without promoting pro-
+liferation [31, 32]. It also delayed apoptosis in primary
+human erythroid progenitors [31]. Vanadate was also shown
+to act on normal erythroid progenitors as a phosphatase
+inhibitor that potentiates the kinase activity induced by Epo
+and SCF. This function was, however, reduced in poly-
+cythemia vera cells [33].
+We investigated the eﬀect of vanadate on the proliferation
+and maturation of human erythroid precursors in culture
+[34]. For this purpose we used the two-phase liquid culture
+protocol [35]. In the ﬁrst, Epo-independent, phase of this
+protocol, peripheral blood mononuclear cells are cultured
+for 1 week with various growth factors but in the absence
+of Epo. During this phase, early erythroid committed
+progenitors, erythroid burst-forming units, proliferate and
+diﬀerentiate into late, erythroid colony forming unit-like,
+Epo-dependent, progenitors. In the second phase, the latter
+cells, cultured in an Epo-supplemented medium, continue
+to proliferate and diﬀerentiate, eventually maturing into
+hemoglobin (Hb)-containing orthochromatic normoblasts
+and enucleated erythrocytes. When vanadate was added to
+cells derived from normal donors, cell proliferation was
+enhanced as indicated by studying the growth kinetics and
+the distribution in the cell cycle phases. On the contrary,
+maturation was arrested, as indicated by cell morphology,
+the rate of appearance of Hb-containing cells, and the
+pattern of expression of surface antigens (CD117, CD71, and
+glycophorin A) [34].
+3. Maturation Arrest in Erythroid Precursors
+Maturation arrest of hematopoietic precursors occurs in
+acute leukemia. Maturation arrest of erythroid precursors is
+Journal of Signal Transduction 3
+a common phenomenon in β-thalassemia. In this disease,
+due to hereditary mutations, the expression of the β-globin
+gene is reduced or abolished. This results in a relative high
+content of α-globin, which forms tetramers that precipitate
+and damage the erythroid cell. Although maturation arrest
+causes expansion of the erythroid precursors in the bone
+marrow and in extramedullary sites, such as the liver
+and spleen, the output of mature RBCs is decreased due
+to ineﬀective erythropoiesis. The latter involves premature
+apoptosis of erythroid precursors. Although this condition
+was extensively studied in patients [36] and in mouse models
+of β-thalassemia [37, 38], its causes in thalassemia are not
+entirely clear. It could be related to the following: (A)
+the reduced production of β-globin which, consequently,
+results in imbalanced production of α-globin, (B) reduced
+heme synthesis which modiﬁes the activity of the heme-
+regulated eIF2 alpha kinase which controls protein synthesis
+by phosphorylating the α-subunit of eukaryotic transla-
+tional initiation factor 2 (eIF2 alpha) [39], (C) ineﬃcient
+elimination of free radicals, which are increased in tha-
+lassemia as a result of iron overload [40], (D) the hypoxia-
+induced overproduction of Epo which is the result of the
+severe, chronic anemia. Serum-Epo is high in these patients
+although it does not reach the high levels corresponding
+to the degree of anemia [41] (as compared to other forms
+of anemia such as aplastic anemia). This could be due to
+increased consumption of Epo by the large erythroid mass.
+The increased Epo signal may lead to increased proliferation
+of erythroid precursors bearing a phosphorylated form of
+JAK2, which, in pathological conditions, may lead to a delay
+in cell maturation.
+4. Inhibition of Phosphatases:
+Effect on Hemoglobin Production
+We have found that addition of vanadate to cultures of
+erythroid precursors derived from normal donors as well as
+from patients with β-thalassemia increased the proportion
+of fetal hemoglobin (HbF) compared to untreated cells [34].
+HbF, which is composed of two chains of alpha-globin
+and two chains of gamma-globin (α2γ2) is the major Hb
+during embryonic life. It is replaced after birth by adult Hb
+(HbA; α2β2, [42]). This Hb switch is recapitulated to some
+extent postnatally during the development of erythroid cell
+in the bone marrow; HbF production is relatively abundant
+in early precursors, and as the cells mature, progressively
+decreases due to rapid synthesis of HbA [43], suggesting
+that a strong Epo signal favors HbF production. Elevated
+levels of HbF in post-natal life may be acquired, such as
+in juvenile myelomonocytic leukemia [44] or during acute
+erythropoietic stress [45], and are frequently observed in
+inherited blood disorders such as β-thalassemia and sickle
+cell anemia [46]. Increased HbF in these diseases ameliorates
+the clinical symptoms of the underlying disease [47, 48].
+In β-thalassemia, elevated HbF compensates partially for
+the deﬁciency in β-globin chains and balances the excess
+of α-globin chains. In sickle cell anemia, not only do HbF-
+containing cells have a lower concentration of sickle Hb, but
+HbF inhibits polymerization of this Hb directly, accounting
+for the lower propensity of such cells to undergo sickling
+[49–51]. Various agents have been shown to augment HbF
+production, and one of them, hydroxyurea, is currently in
+clinical use for treatment of these diseases [52].
+The mechanisms by which drugs stimulate HbF are not
+known. Two broad hypotheses have been explored. One is
+based on drug-induced modiﬁcations of the DNA due to
+hypomethylation of globin promoter regions [53], inhibition
+of histone deacetylases [54], or activation of responsive
+regions, such as following binding of butyrates to a speciﬁc
+region of the Aγ-globin promoter [55]. The other mechanism
+involves modiﬁcation of the cell cycle kinetics [56] and
+the rate of diﬀerentiation of erythroid progenitors [57, 58].
+Observations of elevated HbF during erythropoietic stress
+[45] suggest that the rate of erythroid maturation and
+the intensity and duration of the Epo signal aﬀect HbF
+production. Some studies [59, 60], but not all [61–63],
+showed that high-dose Epo treatment of primates [64, 65]
+and patients with β-hemoglobinopathies caused an elevation
+in HbF. We have previously shown that culture of erythroid
+cells in the continuous presence of low Epo reduced cell yield
+but did not aﬀect the proportion of HbF. However, reducing
+Epo levels midway through the culture period, lowered cell
+yield, accelerated maturation, shortened the period of HbA
+production, and, consequently, increased the proportion of
+HbF [21]. In another study, we found that supplying early
+erythroid cultures with exogenous hemin (heme chloride)
+resulted in high HbF in the mature cells [66]. The eﬀect of
+hemin, which is a rate-limiting factor for hemoglobinization
+in early precursors, may be related to the ﬁnding that when
+supplied with exogenous hemin, the precursors initiated Hb
+production earlier with HbF predominating. SCF, which
+delays cell maturation, was also shown to enhance HbF
+production in cultures of erythroid cells [8, 67–69]. A direct
+involvement of phosphatases in stimulation of HbF accu-
+mulation was reported by Aerbajinai et al. who examined
+the pathway of γ-globin synthesis stimulation by SCF. It was
+found that COUP-TFII a repressor of γ-globin gene was sup-
+pressed by SCF through phosphorylation of serine/threonine
+phosphatase (PP2A) and correlated well with HbF induction
+[70].
+In summary, the phosphatase-inhibitory compound
+vanadate delays maturation of erythroid precursors and po-
+tentiates their ability to produce HbF (Figure 1). The latter
+eﬀect may be beneﬁcial for patients with β-hemoglobin-
+opathies, since increased level of this Hb was found to
+ameliorate the clinical symptoms of the underlying dis-
+ease. Vanadate, in the form of sodium metavanadate, has
+been tested in clinical trials for treating both insulin- and
+noninsulin-dependent diabetes mellitus [71, 72]. In in vitro
+studies vanadate was shown to reduce the number and Hb
+content of erythroid cells [34], and therefore it is not suitable
+for treatment of anemic patients. However, other more
+speciﬁc and less toxic inhibitors of phosphatases may be
+considered as a new therapeutic modality for elevating HbF
+in patients with β-hemoglobinopathies as well as intensifying
+the Epo response in other forms of anemia.
+4 Journal of Signal Transduction
+Epo
+Plasma membrane Phosphatidylinositol(3,4,5)triphosphate
+CD45
+PTB-1B
+SHP-1
+SHIP-1/2
+Epo-R
+JAK2 JAK2
+STAT1
+STAT3
+STAT5
+Epo stimulation
+Phosphate groupP
+P
+P
+P
+P
+P
+P
+P SOCS1/3
+Survival/proliferation/maturation
+CIS
+(a)
+%HbF
+Maturation
+Proliferation
+%HbF
+Maturation
+Proliferation
+%HbF
+%HbF
+Kinase/phosphatase
+Kinase/phosphatase
+EPO signal
+EPO signal
+EPO signal
+EPO signal
+EPO
+EPO-R
+(b)
+Figure 1: The eﬀect of phosphatases on the proliferation/maturation of erythroid precursors and their fetal hemoglobin content. The
+kinetics of maturation and hemoglobinization in developing erythroid cells depends on the Epo signal. This is modulated by the level of
+erythropoietin (Epo), produced in response to hypoxic conditions, the number of erythropoietin-receptors (Epo-R), and the balance in the
+activities of kinases and phosphatases. (a) Binding of Epo causes Epo-R homodimerization and activation of the receptor-bound tyrosine
+kinase JAK2. Transphosphorylation of JAK2 results in activation of JAK2 and tyrosine phosphorylation (symbolized by the red arrows)
+of proteins (e.g., STATs), including the cytoplasmic domain of the EPO-R. Negative regulation of the Epo stimulus involves the tyrosine
+phosphatases CD45, PTP-1B, and Shp1. CIS and SOCS3 compete for STAT5 binding at Y401 whereas SOCS1 and SOCS3 bind to the
+activation loop of JAK2. Regulation of phosphoinositide metabolism by PI 3-kinase and SHIP1 is also indicated. Activation of the EPO-R
+supports survival, proliferation, and maturation of erythroid precursors. (b) Early erythroid precursors (left) carrying a large number of Epo-
+R are stimulated by Epo. The strong Epo-signal drives the cells to undergo proliferation and maturation. As maturation proceeds (right), the
+cell size and the number of Epo-R decrease, and while total Hb accumulates (red color), the proportion of HbF (%HbF) decreases. Addition
+of a phosphatase inhibitor (e.g., vanadate) to early erythroid precursors blocks phosphatase activity (lower panel, marked by X), resulting in
+continuous high Epo signaling and inhibition of cell maturation. The latter is accompanied by a relatively high proportion of HbF.
+Journal of Signal Transduction 5
+References
+[1] W. Jelkmann, “Erythropoietin: structure, control of produc-
+tion, and function,” Physiological Reviews, vol. 72, no. 2, pp.
+449–489, 1992.
+[2] V. C. Broudy, N. Lin, M. Brice, B. Nakamoto, and T. Pa-
+payannopoulou, “Erythropoietin receptor characteristics on
+primary human erythroid cells,” Blood, vol. 77, no. 12, pp.
+2583–2590, 1991.
+[3] S. S. Watowich, K. D. Liu, X. Xie et al., “Oligomerization and
+scaﬀolding functions of the erythropoietin receptor cytoplas-
+mic tail,” Journal of Biological Chemistry, vol. 274, no. 9, pp.
+5415–5421, 1999.
+[4] S. N. Constantinescu, S. Ghaﬀari, and H. F. Lodish, “The
+erythropoietin receptor: structure, activation and intracellular
+signal transduction,” Trends in Endocrinology and Metabolism,
+vol. 10, no. 1, pp. 18–23, 1999.
+[5] J. V. Frangioni, P. H. Beahm, V. Shifrin, C. A. Jost, and B. G.
+Neel, “The nontransmembrane tyrosine phosphatase PTP-1B
+localizes to the endoplasmic reticulum via its 35 amino acid
+C-terminal sequence,” Cell, vol. 68, no. 3, pp. 545–560, 1992.
+[6] U. Klingmuller, U. Lorenz, L. C. Cantley, B. G. Neel, and H. F.
+Lodish, “Speciﬁc recruitment of SH-PTP1 to the erythropoi-
+etin receptor causes inactivation of JAK2 and termination of
+proliferative signals,” Cell, vol. 80, no. 5, pp. 729–738, 1995.
+[7] T. Tauchi, J. E. Damen, K. Toyama, G. S. Feng, H. E.
+Broxmeyer, and G. Krystal, “Tyrosine 425 within the activated
+erythropoietin receptor binds Syp, reduces the erythropoietin
+required for Syp tyrosine phosphorylation, and promotes
+mitogenesis,” Blood, vol. 87, no. 11, pp. 4495–4501, 1996.
+[8] C. Peschle, M. Gabbianelli, U. Testa et al., “c-kit ligand
+reactivates fetal hemoglobin synthesis in serum-free culture
+of stringently puriﬁed normal adult burst-forming unit-
+erythroid,” Blood, vol. 81, no. 2, pp. 328–336, 1993.
+[9] J. Irie-Sasaki, T. Sasaki, W. Matsumoto et al., “CD45 is a
+JAK phosphatase and negatively regulates cytokine receptor
+signalling,” Nature, vol. 409, no. 6818, pp. 349–354, 2001.
+[10] M. P. Myers, J. N. Andersen, A. Cheng et al., “TYK2 and JAK2
+are substrates of protein-tyrosine phosphatase 1B,” Journal of
+Biological Chemistry, vol. 276, no. 51, pp. 47771–47774, 2001.
+[11] P. D. Simoncic, A. Lee-Loy, D. L. Barber, M. L. Tremblay, and
+C. J. McGlade, “The T cell protein tyrosine phosphatase is a
+negative regulator of janus family kinases 1 and 3,” Current
+Biology, vol. 12, no. 6, pp. 446–453, 2002.
+[12] J. M. Mason, B. K. Beattie, Q. Liu, D. J. Dumont, and D. L.
+Barber, “The SH2 inositol 5-phosphatase Ship1 is recruited
+in an SH2-dependent manner to the erythropoietin receptor,”
+Journal of Biological Chemistry, vol. 275, no. 6, pp. 4398–4406,
+2000.
+[13] C. D. Helgason, J. E. Damen, P. Rosten et al., “Targeted
+disruption of SHIP leads to hemopoietic perturbations, lung
+pathology, and a shortened life span,” Genes and Development,
+vol. 12, no. 11, pp. 1610–1620, 1998.
+[14] J. Kalesnikoﬀ, L. M. Sly, M. R. Hughes et al., “The role of
+SHIP in cytokine-induced signaling,” Reviews of Physiology,
+Biochemistry and Pharmacology, vol. 149, pp. 87–103, 2003.
+[15] F. S. Lee, “Genetic causes of erythrocytosis and the oxygen-
+sensing pathway,” Blood Reviews, vol. 22, no. 6, pp. 321–332,
+2008.
+[16] C. E. Lankhorst and J. B. Wish, “Anemia in renal disease:
+diagnosis and management,” Blood Reviews, vol. 24, no. 1, pp.
+39–47, 2010.
+[17] K. Shinjo, A. Takeshita, M. Higuchi, K. Ohnishi, and R. Ohno,
+“Erythropoietin receptor expression on human bone marrow
+erythroid precursor cells by a newly-devised quantitative ﬂow-
+cytometric assay,” British Journal of Haematology, vol. 96, no.
+3, pp. 551–558, 1997.
+[18] U. Klingmuller, “The role of tyrosine phosphorylation in
+proliferation and maturation of erythroid progenitor cells—
+signals emanating from the erythropoietin receptor,” European
+Journal of Biochemistry, vol. 249, no. 3, pp. 637–647, 1997.
+[19] R. L. Levine, M. Wadleigh, J. Cools et al., “Activating mutation
+in the tyrosine kinase JAK2 in polycythemia vera, essential
+thrombocythemia, and myeloid metaplasia with myeloﬁbro-
+sis,” Cancer Cell, vol. 7, no. 4, pp. 387–397, 2005.
+[20] D. Xu and C. K. Qu, “Protein tyrosine phosphatases in the
+JAK/STAT pathway,” Frontiers in Bioscience, vol. 13, no. 13, pp.
+4925–4932, 2008.
+[21] E. Fibach, A. N. Schechter, C. T. Noguchi, and G. P. Rodgers,
+“Reducing erythropoietin in cultures of human erythroid
+precursors elevates the proportion of fetal haemoglobin,”
+British Journal of Haematology, vol. 88, no. 1, pp. 39–45, 1994.
+[22] J. Cohen, H. Altaratz, Y. Zick, U. Klingmuller, and D. Neu-
+mann, “Phosphorylation of erythropoietin receptors in the
+endoplasmic reticulum by pervanadate-mediated inhibition
+of tyrosine phosphatases,” Biochemical Journal, vol. 327, part
+2, pp. 391–397, 1997.
+[23] I. G. Fantus, S. Kadota, G. Deragon, B. Foster, and B. I. Posner,
+“Pervanadate [peroxide(s) of vanadate] mimics insulin action
+in rat adipocytes via activation of the insulin receptor tyrosine
+kinase,” Biochemistry, vol. 28, no. 22, pp. 8864–8871, 1989.
+[24] K. L. Guan and J. E. Dixon, “Protein tyrosine phosphatase
+activity of an essential virulence determinant in Yersinia,”
+Science, vol. 249, no. 4968, pp. 553–556, 1990.
+[25] D. Heﬀetz, I. Bushkin, R. Dror, and Y. Zick, “The insuli-
+nomimetic agents H2O2 and vanadate stimulate protein
+tyrosine phosphorylation in intact cells,” Journal of Biological
+Chemistry, vol. 265, no. 5, pp. 2896–2902, 1990.
+[26] J. J. O’Shea, D. W. McVicar, T. L. Bailey, C. Burns, and M. J.
+Smyth, “Activation of human peripheral blood T lymphocytes
+by pharmacological induction of protein-tyrosine phospho-
+rylation,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 89, no. 21, pp. 10306–10310,
+1992.
+[27] J. P. Secrist, L. A. Burns, L. Karnitz, G. A. Koretzky, and R. T.
+Abraham, “Stimulatory eﬀects of the protein tyrosine phos-
+phatase inhibitor, pervanadate, on T-cell activation events,”
+Journal of Biological Chemistry, vol. 268, no. 8, pp. 5886–5893,
+1993.
+[28] G. A. Evans, G. G. Garcia, R. Erwin, O. M. Z. Howard, and
+W. L. Farrar, “Pervanadate simulates the eﬀects of interleukin-
+2 (IL-2) in human T cells and provides evidence for the
+activation of two distinct tyrosine kinase pathways by IL-2,”
+Journal of Biological Chemistry, vol. 269, no. 38, pp. 23407–
+23412, 1994.
+[29] N. Tourkine, C. Schindler, M. Larose, and L. M. Houdebine,
+“Activation of STAT factors by prolactin, interferon-gamma,
+growth hormones, and a tyrosine phosphatase inhibitor in
+rabbit primary mammary epithelial cells,” Journal of Biological
+Chemistry, vol. 270, no. 36, pp. 20952–20961, 1995.
+[30] Z. Zhao, Z. Tan, C. D. Diltz, M. You, and E. H. Fischer, “Acti-
+vation of mitogen-activated protein (MAP) kinase pathway
+by pervanadate, a potent inhibitor of tyrosine phosphatases,”
+Journal of Biological Chemistry, vol. 271, no. 36, pp. 22251–
+22255, 1996.
+6 Journal of Signal Transduction
+[31] J. L. Spivak, J. Fisher, M. A. Isaacs, and W. D. Hankins, “Protein
+kinases and phosphatases are involved in erythropoietin-
+mediated signal transduction,” Experimental Hematology, vol.
+20, no. 4, pp. 500–504, 1992.
+[32] A. E. Lawson, H. Bao, A. Wickrema, S. M. Jacobs-Helber, and
+S. T. Sawyer, “Phosphatase inhibition promotes antiapoptotic
+but not proliferative signaling pathways in erythropoietin-
+dependent HCD57 cells,” Blood, vol. 96, no. 6, pp. 2084–2092,
+2000.
+[33] C. H. Dai, S. B. Krantz, and S. T. Sawyer, “Polycythemia vera. V.
+Enhanced proliferation and phosphorylation due to vanadate
+are diminished in polycythemia vera erythroid progenitor
+cells: a possible defect of phosphatase activity in polycythemia
+vera,” Blood, vol. 89, no. 10, pp. 3574–3581, 1997.
+[34] I. Amoyal, E. Prus, and E. Fibach, “Vanadate elevates fetal
+hemoglobin in human erythroid precursors by inhibiting cell
+maturation,” Experimental Biology and Medicine, vol. 232, no.
+5, pp. 654–661, 2007.
+[35] E. Fibach, D. Manor, A. Oppenheim, and E. A. Rachmilewitz,
+“Proliferation and maturation of human erythroid progeni-
+tors in liquid culture,” Blood, vol. 73, no. 1, pp. 100–103, 1989.
+[36] F. Centis, L. Tabellini, G. Lucarelli et al., “The importance of
+erythroid expansion in determining the extent of apoptosis in
+erythroid precursors in patients with beta-thalassemia major,”
+Blood, vol. 96, no. 10, pp. 3624–3629, 2000.
+[37] I. V. Libani, E. C. Guy, L. Melchiori et al., “Decreased diﬀeren-
+tiation of erythroid cells exacerbates ineﬀective erythropoiesis
+in beta-thalassemia,” Blood, vol. 112, no. 3, pp. 875–885, 2008.
+[38] S. Rivella, “Ineﬀective erythropoiesis and thalassemias,” Cur-
+rent Opinion in Hematology, vol. 16, no. 3, pp. 187–194, 2009.
+[39] A. P. Han, M. D. Fleming, and J. J. Chen, “Heme-
+regulated eIF2alpha kinase modiﬁes the phenotypic severity
+of murine models of erythropoietic protoporphyria and beta-
+thalassemia,” Journal of Clinical Investigation, vol. 115, no. 6,
+pp. 1562–1570, 2005.
+[40] E. Fibach and E. Rachmilewitz, “The role of oxidative stress in
+hemolytic anemia,” Current Molecular Medicine, vol. 8, no. 7,
+pp. 609–619, 2008.
+[41] D. Manor, E. Fibach, A. Goldfarb, and E. A. Rachmilewitz,
+“Erythropoietin activity in the serum of beta thalassemic
+patients,” Scandinavian Journal of Haematology, vol. 37, no. 3,
+pp. 221–228, 1986.
+[42] G. Stamatoyannopoulos and F. Grosveld, Hemoglobin Switch-
+ing, W.B.Saunders, Philadelphia, Pa, USA, 2001.
+[43] N. Dalyot, E. Fibach, E. A. Rachmilewitz, and A. Oppenheim,
+“Adult and neonatal patterns of human globin gene expression
+are recapitulated in liquid cultures,” Experimental Hematology,
+vol. 20, no. 9, pp. 1141–1145, 1992.
+[44] D. J. Weatherall, J. A. Edwards, and W. T. Donohoe, “Hae-
+moglobin and red cell enzyme changes in juvenile myeloid
+leukaemia,” British Medical Journal, vol. 1, no. 593, pp. 679–
+681, 1968.
+[45] B. P. Alter, “Fetal erythropoiesis in stress hematopoiesis,”
+Experimental Hematology, vol. 7, supplement 5, pp. 200–209,
+1979.
+[46] V. G. Sankaran and D. G. Nathan, “Reversing the hemoglobin
+switch,” The New England Journal of Medicine, vol. 363, no. 23,
+pp. 2258–2260, 2010.
+[47] B. H. Al-Awamy, G. A. Niazi, and M. I. el-Mouzan, “Relation-
+ship of haemoglobin F and alpha thalassaemia to severity of
+sickle-cell anaemia in the Eastern Province of Saudi Arabia,”
+Annals of Tropical Paediatrics, vol. 6, no. 4, pp. 261–265, 1986.
+[48] M. Haghshenass, F. Ismail-Beigi, J. B. Clegg, and D. J.
+Weatherall, “Mild sickle cell anaemia in Iran associated with
+high levels of fetal haemoglobin,” Journal of Medical Genetics,
+vol. 14, no. 3, pp. 168–171, 1977.
+[49] R. E. Benesch, R. Edalji, R. Benesch, and S. Kwong, “Solubiliza-
+tion of hemoglobin S by other hemoglobins,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 77, no. 9, pp. 5130–5134, 1980.
+[50] W. A. Eaton and J. Hofrichter, “The biophysics of sickle cell
+hydroxyurea therapy,” Science, vol. 268, no. 5214, pp. 1142–
+1143, 1995.
+[51] C. T. Noguchi, G. P. Rodgers, G. Serjeant, and A. N. Schechter,
+“Levels of fetal hemoglobin necessary for treatment of sickle
+cell disease,” The New England Journal of Medicine, vol. 318,
+no. 2, pp. 96–99, 1988.
+[52] G. P. Rodgers and E. A. Rachmilewitz, “Novel treatment
+options in the severe beta-globin disorders,” British Journal of
+Haematology, vol. 91, no. 2, pp. 263–268, 1995.
+[53] S. Charache, G. Dover, K. Smith, C. C. Talbot Jr., M. Moyer,
+and S. Boyer, “Treatment of sickle cell anemia with 5-azacy-
+tidine results in increased fetal hemoglobin production and is
+associated with nonrandom hypomethylation of DNA around
+the gamma-delta-beta-globin gene complex,” Proceedings of
+the National Academy of Sciences of the United States of
+America, vol. 80, no. 15, pp. 4842–4846, 1983.
+[54] P. G. McCaﬀrey, D. A. Newsome, E. Fibach, M. Yoshida,
+and M. S. S. Su, “Induction of gamma-globin by histone
+deacetylase inhibitors,” Blood, vol. 90, no. 5, pp. 2075–2083,
+1997.
+[55] W. R. Hudgins, E. Fibach, S. Safaya, R. F. Rieder, A. C. Miller,
+and D. Samid, “Transcriptional upregulation of gamma-
+globin by phenylbutyrate and analogous aromatic fatty acids,”
+Biochemical Pharmacology, vol. 52, no. 8, pp. 1227–1233, 1996.
+[56] N. L. Letvin, D. C. Linch, G. P. Beardsley, K. W. McIntyre, B. A.
+Miller, and D. G. Nathan, “Inﬂuence of cell cycle phase-speciﬁc
+agents on simian fetal hemoglobin synthesis,” The Journal of
+Clinical Investigation, vol. 75, no. 6, pp. 1999–2005, 2005.
+[57] R. K. Humphries, G. Dover, N. S. Young et al., “5-Azacytidine
+acts directly on both erythroid precursors and progenitors
+to increase production of fetal hemoglobin,” The Journal of
+Clinical Investigation, vol. 75, no. 2, pp. 547–557, 1985.
+[58] A. T. Torrealba-de Ron, T. Papayannopoulou, M. S. Knapp, M.
+F. Fu, G. Knitter, and G. Stamatoyannopoulos, “Perturbations
+in the erythroid marrow progenitor cell pools may play a role
+in the augmentation of HbF by 5-azacytidine,” Blood, vol. 63,
+no. 1, pp. 201–210, 1984.
+[59] C. Breymann, E. Fibach, E. Visca, C. Huettner, A. Huch,
+and R. Huch, “Induction of fetal hemoglobin synthesis with
+recombinant human erythropoietin in anemic patients with
+heterozygous beta-thalassemia during pregnancy,” Journal of
+Maternal-Fetal and Neonatal Medicine, vol. 8, no. 1, pp. 1–7,
+1999.
+[60] A. Makis, N. Chaliasos, E. Hatzimichael, and K. L. Bourantas,
+“Recombinant human erythropoietin therapy in a trans-
+fusion-dependent beta-thalassemia major patient,” Annals of
+Hematology, vol. 80, no. 8, pp. 492–495, 2001.
+[61] M. A. Goldberg, C. Brugnara, G. J. Dover, L. Schapira, L.
+Lacroix, and H. F. Bunn, “Hydroxyurea and erythropoietin
+therapy in sickle cell anemia,” Seminars in Oncology, vol. 19,
+no. 3, pp. 74–81, 1992.
+[62] N. F. Olivieri, M. H. Freedman, S. P. Perrine et al., “Trial
+of recombinant human erythropoietin: three patients with
+thalassemia intermedia,” Blood, vol. 80, no. 12, pp. 3258–3260,
+1992.
+Journal of Signal Transduction 7
+[63] E. A. Rachmilewitz, A. Goldfarb, and G. Dover, “Adminis-
+tration of erythropoietin to patients with beta-thalassemia
+intermedia: a preliminary trial,” Blood, vol. 78, no. 4, pp. 1145–
+1147, 1991.
+[64] A. Al-Khatti, R. W. Veith, T. Papayannopoulou, E. F. Fritsch,
+E. Goldwasser, and G. Stamatoyannopoulos, “Stimulation of
+fetal hemoglobin synthesis by erythropoietin in baboons,” The
+New England Journal of Medicine, vol. 317, no. 7, pp. 415–420,
+1987.
+[65] G. Stamatoyannopoulos, T. Umemura, A. al-Khatti et al.,
+“Modulation of HBF production by erythropoietin,” Progress
+in Clinical and Biological Research, vol. 316B, pp. 269–280,
+1989.
+[66] E. Fibach, P. Kollia, A. N. Schechter, C. T. Noguchi, and
+G. P. Rodgers, “Hemin-induced acceleration of hemoglobin
+production in immature cultured erythroid cells: preferential
+enhancement of fetal hemoglobin,” Blood, vol. 85, no. 10, pp.
+2967–2974, 1995.
+[67] N. V. Bhanu, T. A. Trice, Y. T. Lee et al., “A sustained and
+pancellular reversal of gamma-globin gene silencing in adult
+human erythroid precursor cells,” Blood, vol. 105, no. 1, pp.
+387–393, 2005.
+[68] B. A. Miller, S. P. Perrine, A. Bernstein et al., “Inﬂuence of steel
+factor on hemoglobin synthesis in sickle cell disease,” Blood,
+vol. 79, no. 7, pp. 1861–1868, 1992.
+[69] K. Muta, S. B. Krantz, M. C. Bondurant, and C. H. Dai, “Stem
+cell factor retards diﬀerentiation of normal human erythroid
+progenitor cells while stimulating proliferation,” Blood, vol. 86,
+no. 2, pp. 572–580, 1995.
+[70] W. Aerbajinai, J. Zhu, C. Kumkhaek, K. Chin, and G.
+P. Rodgers, “SCF induces gamma-globin gene expression
+by regulating downstream transcription factor COUP-TFII,”
+Blood, vol. 114, no. 1, pp. 187–194, 2009.
+[71] A. B. Goldﬁne, D. C. Simonson, F. Folli, M. E. Patti, and C. R.
+Kahn, “In vivo and in vitro studies of vanadate in human and
+rodent diabetes mellitus,” Molecular and Cellular Biochemistry,
+vol. 153, no. 1-2, pp. 217–231, 1995.
+[72] A. B. Goldﬁne, D. C. Simonson, F. Folli, M. E. Patti, and C. R.
+Kahn, “Metabolic eﬀects of sodium metavanadate in humans
+with insulin-dependent and noninsulin-dependent diabetes
+mellitus in vivo and in vitro studies,” Journal of Clinical
+Endocrinology and Metabolism, vol. 80, no. 11, pp. 3311–3320,
+1995.
+

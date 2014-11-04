@@ -1,0 +1,1103 @@
+Analysis of Target Cell Susceptibility
+as a Basis for the Development of a
+Chemoprotective Strategy against
+Benzene-induced Hematotoxicities
+Michael A. Trush, Lorraine E. Twerdok* Stephen J. Rembish7t
+Hong Zhu, and Yunbo Li
+Division of Toxicological Sciences, Department of Environmental Health
+Sciences, Johns Hopkins School of Hygiene and Public Health,
+Baltimore, Maryland
+A goal of our research is to identify biochemical factors that underlie the susceptibility of bone
+marrow cell populations to benzene metabolites so as to develop a mechanistically based
+chemoprotective strategy that may be used in susceptible humans exposed to benzene. By
+doing biochemical risk analysis of bone marrow stromal cells from mice and rats and the human
+myeloid cell lines, HL-60 and ML-1; and by using buthionine sulfoximine and dicumarol we have
+observed that the susceptibility of these cell populations to hydroquinone (HQ) correlates with
+their concentration of glutathione (GSH) and activity of quinone reductase (QR). Accordingly, the
+induction of QR and GSH by 1,2-dithiole-3-thione (D3T) in these cell populations has resulted in a
+significant protection against the following hydroquinone-mediated toxicities: inhibition of cell
+proliferation and viability; reduced ability of stromal cells to support myelopoiesis; and altered
+differentiation of ML-1 cells to monocytes/macrophages. Preliminary in vivo experiments indicate
+that feeding mice D3T results in an induction of QR in the bone marrow compartment such that
+stromal cells are more resistant to hydroquinone-induced cytotoxicity in vitro. Overall, these
+studies suggest that in addition to hepatic cytochrome P4502E1, bone marrow OR and GSH are
+factors that could determine an individual's relative susceptibility to the toxic effects of benzene.
+Environ Health Perspect 104(Suppl 6):1227-1 234 (1996)
+Key words: bone marrow stromal cells, HL-60, ML-1, chemoprotection, quinone reductase,
+glutathione, susceptibility, 1,2-dithiole-3-thione, hydroquinone
+Introduction
+Although physicians have been aware of
+hematotoxicity resulting from benzene expo-
+sure for nearly a century (1), there is still
+concern for human health due to continued
+benzene exposure in certain occupational
+settings and as a result of cigarette smoking
+(2). One of the goals of toxicology as a sci-
+ence is to develop preventive interventions
+against chemical-induced disease. The
+development of rational chemoprotective
+strategies can result from an understanding
+of the underlying mechanisms involved in
+the induction of disease by a particular
+chemical (Figure 1). Such mechanistically
+based chemoprotective interventions can
+then be utilized in populations that cannot
+avoid exposure to a chemical or in exposed
+individuals within a population who may
+be inherently susceptible to even low
+concentrations of a chemical. The present
+This paper was presented at Benzene '95: An International Conference on the Toxicity, Carcinogenesis, and
+Epidemiology of Benzene held 17-20 June 1995 in Piscataway, New Jersey. Manuscript received 16 January
+1996; manuscript accepted 14 June 1996.
+The following are acknowledged for support of various aspects of this research: ES03760, ES03819,
+ES05131, ES07141, CA44530, OH02632, a Hazelton Graduate Student Fellowship (LET), and CAAT.
+Address correspondence to Dr. M.A. Trush, Johns Hopkins School of Hygiene and Public Health, 615 N.
+Wolfe St., Room 7032, Baltimore, MD 21205. Telephone: (410) 955-4712. Fax: (410) 955-0116. E-mail:
+mtrush@phnet.sph.jhu.edu
+*Present address: American Petroleum Institute, Washington, DC.
+tPresent address: Texas Natural Resource Commission, Austin, TX.
+Abbreviations used: B[a]P, benzo[alpyrene; t-BHO, tert-butylhydroquinone; BSO, buthionine sulfoximine;
+CYP2E1, cytochrome P4502E1; DMSO, dimethyl sulfoxide; D3T, 1,2-dithiole-3-thione; GSH, glutathione; HQ,
+hydroquinone; IL-1, interleukin-1; QR, quinone reductase; TPA, 12-O-tetradecanoylphorbol-13-acetate.
+studies in China examining oltipraz as a
+chemoprotective agent against aflatoxin-
+induced hepatocarcinogenesis are an example
+ofthis approach (3).
+As early as the 1920s occupational
+health physicians recognized that there are
+individual differences in susceptibility to
+benzene-induced hematotoxicity (1,4). As
+with many chemicals, it is now appreciated
+that the susceptibility to benzene is deter-
+mined in part by the activity of enzymes
+involved in its biotransformation, as well as
+by factors involved in the detoxification of
+benzene-derived reactive intermediates.
+Although human exposure to benzene
+occurs primarily through inhalation, bio-
+transformation reactions in the liver result
+in phase I and phase II metabolites (5).
+Subsequent bioactivation of some of these
+liver-derived metabolites within the various
+bone marrow cell populations results in
+altered bone marrow function leading to
+the manifestations of benzene-induced
+hematotoxicity: aplastic anemia; leukemia;
+and immunotoxicity (2). In the liver,
+the metabolism of benzene to the phase I
+metabolites, phenol, and hydroquinone
+(HQ), is catalyzed by cytochrome P4502E1
+(CYP2E1) (6). Since phenol and HQ can
+be further converted to reactive intermedi-
+ates, the activity ofCYP2E1 in the liver can
+be viewed as a factor that contributes to
+individual susceptibility (7). Likewise,
+within the bone marrow there are factors
+that probably determine the susceptibility
+ofthe various bone marrow cell populations
+to toxic reactions by benzene-derived
+metabolites. For example, the bioreactivity
+of benzoquinone, an electrophilic metabo-
+lite of HQ, can be modulated by the
+actions of quinone reductase (QR) or glu-
+tathione (GSH) (Figure 2). The purpose of
+this report is to illustrate why QR and GSH
+should be considered determinants of
+HQ-induced toxicity to bone marrow cells
+and to demonstrate that the induction of
+QR and GSH may serve as a basis for the
+development of a chemoprotective strategy
+against benzene-induced hematoxicities.
+Determinants of Toxicity to
+Bone Marrow Cell Populations
+Within the bone marrow are a number of
+cell populations that can serve as potential
+targets of environmental chemicals or
+drugs (Figure 3). These include the hemo-
+poietic and lymphopoietic stem cells, com-
+mitted progenitors, immature hemopoietic
+precursors, mature functional blood cells,
+Environmental Health Perspectives - Vol 104, Supplement 6 * December 1996 1227
+TRUSH ET AL.
+Figure 1. Steps in the induction of disease following benzene exposure.
+and the various cells that comprise the
+bone marrow stromal microenvironment
+(8). As shown in Figure 3, the altered
+function of different populations probably
+results in the manifestation of different
+types of toxicities. For example, inhibition
+of the ability of stromal macrophages to
+synthesize interleukin-1 (IL-1) results in
+the altered differentiation of myeloid and
+lymphoid cells involved in host defense
+and immune response (9,10). On the
+other hand, chemical-induced lethality to
+both stromal macrophages and fibroblasts
+could result in such an absence of cyto-
+kines and growth factors in the bone
+marrow that committed and immature
+hemopoietic progenitors would die from
+apoptosis (11), resulting in an aplastic
+state. Recent studies with radiation-induced
+bone marrow toxicity have emphasized the
+significance of alterations of the stromal
+microenvironment in the development of
+aplastic anemia (12). Similarly, an altered
+stromal microenvironment has been linked
+with the development ofleukemia (11).
+The difference in response of stromal
+macrophage and fibroblasts to toxicants
+could be a reflection of the concentration
+of the chemical (13) or the mechanism of
+toxicity involved (14). In this regard,
+Hydroquinone
+Benzoquinone
+OR
+Hydroquinone Macromolecular
+interactions
+\GSH
+BQ-GSH conjugate
+stromal macrophages are more susceptible
+to the toxic effects oflow concentrations of
+HQ than are stromal fiobroblasts (10).
+However, as the concentration of HQ is
+increased, stromal fibroblasts also succumb
+to the cytotoxic effects. The basis for this
+difference in susceptibility to HQ between
+stromal macrophages and fibroblasts can be
+attributed in part to macrophages having
+lower QR activity than stromal fibroblasts
+(13,15) and to macrophages exhibiting a
+peroxide dependent mechanism capable of
+activating HQ to a covalent binding
+species, presumably benzoquinone (15).
+HQ can be oxidized to benzoquinone by
+Stem cells and progenitors
+Overt
+cytotoxicity
+myeloperoxidase (16), prostaglandin
+synthase (17), superoxide dismutase (18)
+and copper (19). Reflective of the cellular
+conversion of HQ to benzoquinone is the
+depletion of cellular GSH, which precedes
+cell toxicity and death (20). Since cellular
+GSH is a factor that modulates the molec-
+ular interactions of benzoquinone (Figure
+2), it is a determinant of susceptibility to
+HQ. As illustrated in Figure 4, differences
+in stromal cell QR and GSH are reflected
+in the susceptibility of stromal cells from
+mice and rats to HQ (21). In vivo studies
+have shown DBA/2 mice to be more sensi-
+tive to benzene-induced hematotoxicity
+than C57BL/6 mice (22) and mice in gen-
+eral are considered more sensitive than rats
+(23). In this regard, the pattern of benzene
+metabolism in rats is different from that in
+mice (24). Rats produce a fewer number as
+well as a smaller amount of metabolites
+that contribute to toxic reactions. The data
+presented in Figure 4 also indicate that
+the bone marrow stromal cells of rats are
+inherently more resistant to both HQ and
+benzoquinone than those from mice (21).
+The overall function of the bone
+marrow is to provide blood and immune
+cells to the body. This function is accom-
+plished through the differentiation of
+committed progenitor and precursor cells.
+Benzene Metabolites
+Stromal microenvironment
+macrophages and fibroblasts
+Mutation Overt J
+cytotoxicityX
+Absence of bone
+marrow cytokines
+and colony-
+ctimiilntinn fnrtnre
+Vt Is|wuan
+Altered genes
+and signal
+transduction
+Altered
+differentiation
+F eMyeloidanemiaAp l eukei a
+'a Tators
+Committed myeloid intermediates
+Altered signal
+transduction
+Impaired production
+of cytokines Altered
+and colony- o differentiation
+stimulating factors
+Overt
+cytotoxicity
+Impaired host defense Aplastic
+and immune response anemia
+Aplastic
+anemia
+Figure 2. The role of quinone reductase and glutathione
+in modulating the molecular interactions of benzo-
+quinone resulting from the oxidation of hydroquinone.
+Figure 3. Ways in which modulation of various bone marrow populations by benzene metabolites could result in the
+induction of aplastic anemia, leukemia, and immunotoxicity.
+Environmental Health Perspectives * Vol 104, Supplement 6 * December 19961 228
+r
+SUSCEPTIBILITY AND CHEMOPROTECTION TO BENZENE
+Figure 4. Comparison of the quinone reductase activity, the glutathione content, and the hydroquinone concentra-
+tion cytotoxic to 50% (LC50) of bone marrow stromal cells from DBA/2 and C57BL/6 mice and Sprague-Dawley
+rats. Data are summarized from data presented in Twerdok et al. (13) and Zhu et al. (21).
+Our understanding of the biochemical and
+molecular processes involved in the differen-
+tiation of myeloid cells has been advanced
+through the utilization human leukemic cell
+lines such as HL-60 and ML-1 cells (25).
+In vitro, these two myeloid cell lines con-
+tinuously proliferate in suspension culture;
+however, upon addition of 12-O-tetrade-
+canoylphorbol-13-acetate (TPA) or 1,25-
+dihydroxyvitamin D3, they differentiate
+into monocytes/macrophages. Conversely,
+DMSO or retinoic acid induce their differ-
+entiation into polymorphonuclear cells.
+Recently, these myeloid cell lines have been
+utilized in toxicological studies (26-28).
+The data presented in Table 1 show that
+HL-60 cells have more GSH than ML-1
+cells. On the other hand, the HL-60 cells
+are relatively QR deficient. When chal-
+lenged in vitro with HQ, the HL-60 cells
+are more sensitive to the cytotoxic effects of
+HQ than are the ML-1 cells. GSH deple-
+tion occurs at a significantly faster rate in
+the ML-1 cells than in the HL-60 cells,
+although HL-60 cells have higher myelo-
+peroxidase activity than ML-1 cells (29).
+On the other hand, ML-1 cells are larger
+Table 1. Comparison of cellular GSH content, QR
+activity, and HQ LC50 in HL-60 or ML-1 cells.
+Cell type
+Parameter HL-60 ML-1
+GSH, nmol/mg protein 31.7 24.8
+QR, nmol/min/mg protein 0.6 16.2
+HQ LC50, pM 30.0 45.0
+Data summarized from Li et al. (29).
+and have more protein that could serve as
+nonspecific targets for benzoquinone.
+We have also compared the response to
+HQ of undifferentiated and TPA-differenti-
+ated ML-1 cells (30). In this model, 0.3
+ng/ml of TPA is added to 3 x 105 cells/ml
+seeded in fetal bovine serum (FBS)-coated
+flasks (Sigma, St. Louis, MO) and cultured
+in RPMI 1640 media (GIBCO, Grand
+Island, NY) containing 7.5% FBS. After 3
+days, the TPA is washed out, fresh media
+added, and differentiation allowed to con-
+tinue for an additional 3 days. As presented
+in Table 2, the TPA-differentiated cells have
+significantly more GSH and QR activity.
+Concomitantly, the TPA-differentiated cells
+are less susceptible to the cytotoxic effects of
+HQ than the undifferentiated cells.
+The above results with bone marrow
+stromal cells and the HL-60 and ML-1
+cells are consistent with the concept that
+GSH and QR are biochemical determinants
+of cellular toxicity to HQ. Accordingly, we
+have chemically modulated QR and GSH
+through the actions of dicumoral and
+buthionine sulfoximine (BSO), respectively
+(13,20,21,29,30). As shown in Table 3, in
+Table 2. Comparison of cellular GSH content, OR
+activity, and HQ LC50 between undifferentiated and
+differentiated ML-1 cells.
+Cell type
+Parameter Undifferentiated Differentiated
+GSH, nmol/106 cells 2.0 24.0
+QR, nmol/min/106 cells 4.6 57.3
+HQ LC50, pM 40.0 200.0
+stromal cells derived from both DBA/2
+mice and Sprague-Dawley rats, the inhibi-
+tion of QR by dicumoral enhanced the
+toxic effects of HQ. Similarly, dicumoral
+enhanced the toxicity of HQ to TPA-dif-
+ferentiated ML-1 cells but not the undif-
+ferentiated cells, although QR activity was
+inhibited by dicumoral in the undifferenti-
+ated cells (29). Thus, in undifferentiated
+myeloid cell intermediates, and possibly
+even in stem cell and progenitor cell popula-
+tions, GSH may be the major defense
+against benzoquinone, although QR enzyme
+activity is measurable. QR can utilize either
+NADPH or NADH as co-factors; however,
+the activity of QR may be limited by the
+availability of such co-factors due to the
+inability of undifferentiated cells to synthe-
+size sufficient quantities of these pyridine
+dinucleotides. One of the major biochemi-
+cal differences between undifferentiated
+and TPA-differentiated ML-1 cells is the
+relative absence ofmitochondrial respiration
+in the undifferentiated cells (31). Further
+studies are needed to better understand
+the biochemistry of these undifferentiated
+cells with regard to matters relevant to
+mechanisms ofchemical-induced toxicity.
+The inhibition of GSH synthesis by
+BSO results in the cellular depletion of
+GSH and a potentiation of HQ-induced
+toxicity to DBA/2-derived stromal cells
+(20) and undifferentiated HL-60 and ML-
+1 cells (29). Although GSH content was
+significantly decreased by BSO in Sprague-
+Dawley-derived stromal cells and TPA-
+differentiated ML-1 cells, there was no
+potentiation of HQ-induced toxicity in
+these cells (21,30). Treatment with BSO
+resulted in a significant induction in QR
+activity in the rat stromal cells and the
+TPA-differentiated ML- 1 cells. Shertzer
+et al. (32) recently reported a similar effect
+of BSO in mouse Hepa-lclc7 cells.
+Overall, the data presented in Table 3 are
+consistent with the concept that QR and
+Table 3. Effects of dicumarol and BSO on hydroquinone-
+induced toxicity.
+Cell type Dicumarol BSO
+DBA/2-derived stromal cells T I
+Sprague-Dawley-derived <e
+stromal cells
+HL-60 cells -
+ML-1 cells T1'
+ML-1 differentiated cells TI
+T indicates that the treatment resulted in an increase
+in HQ-induced toxicity and <-* indicates that the treat-
+ment did not result in a significant change in HQ-
+induced toxicity. Data summarized from Zhu et al. (21),
+Li and Trush (20), and Li et al. (29).
+Environmental Health Perspectives * Vol 104, Supplement 6 * December 1996
+540
+271
+* DBAN2
+* C57Bll6
+* Sprague-Dawley
+300
+17 31
+UR
+(nmol/min/mg protein)
+GSHxlO HQLC50
+(nmol/mg protein) (gM)
+1 229
+TRUSH ET AL.
+GSH are involved in protecting bone mar-
+row cells from the toxic effects of the
+benzene metabolite HQ.
+Chemoprotection against
+Chemical-induced Disease
+Owrview
+Over the last decade, a greater emphasis has
+been put on preventing human disease
+development. This has resulted in the devel-
+opment of molecular interventions that
+either prevent the initial induction ofdisease
+or intervene in the progression ofdisease. In
+environmental health, this concept has its
+origins in studies on the chemoprotection
+against cancer. Chemoprotection is defined
+as the protection from the toxicity of one
+chemical by the administration of another
+chemical. This phenomenon can be traced
+to observations made by Berenblum about
+the skin more than 60 years ago (33). Since
+that time, a plethora ofstructurally unrelated
+compounds, including phenolic antioxi-
+dants, coumarins, azo dyes, flavonoids,
+dithiothiones, and isothiocyanates have been
+demonstrated to protect laboratory animals
+against the carcinogenic or toxic effects of
+environmental chemicals (34,35).
+Mechanistically, the chemoprotective
+actions of many of the above classes of
+chemicals lie in their ability to induce the
+synthesis of enzymes involved in phase II
+reactions as well as glutathione (36).
+Accordingly, induction of these enzymes
+alters conditions responsible for target
+organ toxicity by shifting xenobiotic
+metabolism, either in the liver or in the tar-
+get organ, away from the generation of
+reactive intermediates or toward detoxifica-
+tion. In this regard, Talalay and co-workers
+have classified chemicals as being bifunc-
+tional or monofunctional inducers (37),
+with monofunctional inducers being those
+that elevate primarily phase II enzymes as
+well as glutathione and quinone reductase
+without significantly inducing phase I
+enzymes such as the cytochrome P450s.
+Many of the monofunctional inducers also
+elicit the induction of protective systems
+without interacting with the Ah receptor,
+which is a characteristic not shared by many
+of the bifunctional inducers. The applica-
+tion of chemoprotective strategies to tar-
+geted human populations has been further
+realized as a result of the development of
+molecular biomarkers and the incorporation
+of these biomarkers into epidemiologic
+studies (38). As mentioned previously, an
+excellent example of the development of a
+mechanistically based chemoprotective
+strategy is the studies in animal models that
+utilize oltipraz, a dithiothione, as the chemo-
+protective agent and several biomarkers for
+aflatoxin (39).
+Chemoprotection ofthe
+Bone Marrow
+Although the liver, lung, and skin are often
+the target organs examined in chemoprotec-
+tive studies, several studies suggest that a
+chemoprotective strategy is applicable to the
+bone marrow. For example, Huggins et al.
+(40,41) demonstrated that azo dyes prevent
+hydrocarbon-induced leukemia in the rat.
+Similarly, Nebert and co-workers observed
+that phenobarbital given orally protected
+against the bone marrow toxicity and lethal-
+ity elicited by dietary benzo[a]pyrene
+(B[a]P) in DBA/2 mice with AhdIAhd
+genotypes (42). In mice with this genotype,
+administration of B[a]P in the diet elicits
+severe bone marrow depression resembling
+aplastic anemia (42,43). Chronic adminis-
+tration of a low concentration of B[a]P
+results in leukemia (44). Phenobarbital
+administration also reduced the covalent
+binding of B[a]P equivalents in the bone
+marrow. The basis for the protective effects
+of phenobarbital against oral B[a]P-
+induced bone marrow toxicity has been
+attributed to its ability to induce phase II
+enzymes, thus altering the toxicokinetics of
+B[a]P. Rao et al. (45) have also observed
+that vitamin A given to Swiss mice orally
+decreased B[a] P-induced chromosomal
+damage in bone marrow. Similarly, a
+10 -
+8-
+a)
+4-
+a,
+Co
+Co
+4-
+cc
+CD
+6-
+4-
+2-
+O-
+QR GSH
+polyphenol containing tannin mixture
+extracted from green tea suppressed
+chromosome aberrations induced by afla-
+toxin B1 in rat bone marrow cells (46).
+Currently there is much interest in the
+chemoprotective properties of green tea
+and its possible utilization by humans for
+this purpose (47).
+As described above, it appears that
+GSH and QR activity are cellular determi-
+nants of susceptibility of HQ-induced
+cytotoxicity to various bone marrow-
+derived cell populations. This was sup-
+ported by the studies utilizing BSO or
+dicumarol to modulate cellular GSH or
+QR, respectively (Table 3). Therefore, we
+reasoned that the induction of QR and/or
+GSH in target bone marrow-derived cells
+may result in a chemoprotective effect
+against HQ-induced toxicities. Based on
+studies by Talalay and co-workers (35),
+with tert-butylhydroquinone (t-BHQ) we
+demonstrated that the induction of QR
+resulted in protection against HQ-induced
+cytotoxicity to stromal cells obtained from
+C57BL/6 or DBA/2 mice (48). Although
+t-BHQ is an effective inducer, it also has
+cytotoxic effects that limit its usefulness for
+this purpose. Thus, 1,2-dithiole-3-thione
+(D3T) was used as the monofunctional
+inducer in subsequent studies (13,21,29,49).
+The data summarized in Figure 5, demon-
+strate that D3T is an effective inducer of
+QR and GSH in mouse and rat bone mar-
+row stromal cells and the HL-60 and ML-1
+cell lines. Accordingly, in these cells there
+* DBA/2
+* RAT
+* L-60
+*ML-1
+HQLC50
+Figure 5. Effects of 1,2-dithole-3-thione on the quinone reductase, the glutathione content, and the LC50 of hydro-
+quinone of stromal cells from DBA/2 mice and Sprague-Dawley rats and the HL-60 and ML-1 myeloid cell lines.
+Data summarized from data presented by Zhu et al. (21) and Li et al. (29).
+Environmental Health Perspectives * Vol 104, Supplement 6 * December 19961 230
+SUSCEPTIBIUTY AND CHEMOPROTECTION TO BENZENE
+is a protection against the cytotoxic effects
+of HQ. While constitutive expression of
+QR is relatively deficient in HL-60 cells,
+this enzyme can be induced 8-fold by D3T
+treatment. However, the induced QR
+activity of HL-60 cells is still not equiva-
+lent to the basal activity of ML-1 cells
+(29). In addition, while D3T is an effec-
+tive inducer of glutathione S-transferase
+(GST) activity in mouse or rat liver
+(37,50), GST is not induced to a signifi-
+cant extent in either mouse or rat bone
+marrow-derived stomal cells (13,21) or the
+HL-60 or in ML-1 cells (29).
+Previous studies have noted that HQ is
+selectively toxic to mouse bone marrow
+stromal macrophages (9,10). At noncyto-
+toxic concentrations, HQ inhibits the syn-
+thesis of IL-1, thereby interfering with the
+ability of stromal macrophages to commu-
+nicate with stromal fibroblasts, the cells
+which are responsible for releasing granulo-
+cyte macrophage colony stimulating and
+IL-3. Thus, as a result of inhibiting the
+synthesis of IL-1, HQ can inhibit both
+myelopoiesis and lymphopoiesis (9,10).
+Renz and Kalf (51) have shown that the
+administration of recombinant IL-1 over-
+comes the bone marrow suppressive effects
+of benzene. We have also observed that in
+vitro D3T treatment can prevent the effects
+of HQ in suppressing the ability ofstromal
+cells to support colony-forming activity
+(49). Treatment of DBA/2 mouse-derived
+stromal cells with a noncytotoxic concen-
+tration of HQ inhibits colony-forming
+activity by nearly 50% (Table 4). It has
+previously been demonstrated that stromal
+fibroblasts can maintain hematopoiesis
+50% in the absence of functional macro-
+phages (9,10). Moreover, as shown in
+Table 4, stromal cells treated with HQ
+Table 4. D3T protection against HQ-induced inhibition
+of DBA/2 stromal cell-conditioned medium to support
+CFU-G/M colony formation.
+No.
+Source of CSA Stromal cell treatment colonies
+None NA 2
+Stromal medium None 361
+Stromal medium 15 pM HQ 204
+Stromal medium 75 pM D3T pretreatment 367
+followed by 15 pM HQ
+Abbreviations: CSA, colony-stimulating activity; NA,
+not applicable. Conditioned medium was obtained from
+stromal cells from DBA/2 mice cultured for 12 days in
+the presence of HQ or HQ/D3T. After the conditioned
+medium was concentrated by centrifugation in centri-
+cells, the CSA of the media was determined as
+described in Twerdok et al. (49).
+maintain their full function when pretreated
+with D3T.
+D3T can also protect against the inhi-
+bition by HQ ofthe differentiation ofML-
+1 cells to monocytes and macrophages
+(52). In these studies we used mitochondr-
+ial maturation as a marker ofthe differenti-
+ation of monocytes/macrophages (31,53)
+by monitoring mitochondrial-dependent
+lucigenin-derived chemiluminescence
+(54,55). Shown in Figure 5, treatment with
+D3T induces QR and GSH in undifferen-
+tiated ML-1 cells. As such, in D3T-treated
+cells, the inhibition of cell division and via-
+bility by HQ is reduced (29). Likewise,
+treatment of ML-1 cells with 10 pM HQ
+for 3 hr prior to the induction of differen-
+tiation by TPA results in altered differenti-
+ation (52) similar to that seen with HL-60
+cells (26). Pretreatment of the ML-1 cells
+with BSO increases their susceptibility to
+the differentiation-altering effects of HQ
+(Figure 6). Conversely pretreatment with
+D3T, which induces GSH, prevents the
+differentiation-altering effects of HQ.
+These observations suggest that the interac-
+tion of benzoquinone with a sulfhydryl-
+containing target molecule involved in
+signal transduction may underlie the effects
+of HQ on TPA-induced differentiation of
+ML-1 cells to monocytes/macrophages.
+The above in vitro studies with bone
+marrow-derived stromal cells and the ML-
+1 cells further demonstrate that QR and
+GSH are determinants of susceptibility to
+HQ and indicate that induction of QR
+and GSH by D3T may be a useful chemo-
+protective strategy against benzene-induced
+hematoxicities. As such, in vivo D3T feed-
+ing to DBA/2 mice was undertaken to
+determine ifD3T has an inductive effect in
+the bone marrow (49). The data presented
+in Table 5 indicate that feeding 0.1% D3T
+in the diet for 6 days resulted in a significant
+induction of QR activity in bone marrow
+stromal cells. Moreover, when challenged
+ex vivo with 50 pM HQ, the cells from the
+D3T-fed mice were less susceptible to the
+cytotoxic effects of HQ than cells from
+control mice. These results indicate that it
+is possible through feeding D3T to induce
+protective systems within the bone marrow
+compartment. Although only the cytotoxic
+effect of HQ was examined in these cells
+from D3T-fed mice, one would expect that
+they would also be less susceptible to the
+inhibitory effects of HQ on cytokine syn-
+thesis, which occurs at a lower concentra-
+tion (Table 4). Clearly, further studies are
+warranted to determine if D3T can protect
+against the in vivo bone marrow effects of
+A
+I- .
+I
+no HCI
+2.5iM HO
+10 gM HQ
+100 FM BSO
+100 iM BSO
++2.5ILM HO
+D 2 4 6 8 1C
+Peak chemiluminescence,
+cpm x lO5
+B
+noHQ
+[* ~~~~~~1OjMHO
+80 tM D3T
+80 pM D3T
++ 10 gM HA
+!Is
+0 2 4
+Peak chemiluminescence,
+cpmxl04
+6
+Figure 6. Effects of glutathione modulation on the effect
+of hydroquinone (HQ) on the TPA-induced differentiation
+of ML-1 cells. In these experiments differentiation was
+assessed by mitochondrial maturation as monitored by
+peak mitochondrial-dependent lucigenin-derived chemi-
+luminescence (31,54,55). (A) Cells were pretreated with
+100 pM BS0 for 24 hr prior to initiation of differentiation
+by TPA (0.3 ng/ml). (B) Cells were pretreated with 80
+pM D3T for 24 hr prior to initiation of differentiation by
+TPA. In these experiments, undifferentiated cells were
+treated with HQ for 3 hr, the HQ removed, and the TPA
+added. The results are mean ± SD of three to four experi-
+ments. Asterisk (*) indicates significantly different
+(p<0.05) from no HQ as determined by Student's t-test.
+Table 5. Effects on stromal cell quinone reductase
+activity and hydroquinone toxicity of feeding D3T to
+DBA/2 mice.
+Diet
+Control 0.1% D3T
+QR activity, 30 46
+nmole/min/mg protein
+Cell survival, %, following 37 62
+ex vivo addition of 50 pM HQ
+DBA/2 mice were fed 0.1% D3T in the diet for 6 days.
+Subsequently, bone marrow was removed, the stromal
+cells were allowed to adhere for 24 hr and QR activity
+determined. Flushed cells were also treated with 50 pM
+QR for 24 hr, and the survival of the attached (live) stro-
+mal cells determined as described in Twerdok et al. (49).
+benzene or benzene-derived metabolites. It
+should be appreciated that a chemoprotec-
+tive effect of D3T in vivo may reflect the
+inductive effects of D3T not only in the
+bone marrow, the target organ, but also in
+Environmental Health Perspectives - Vol 104, Supplement 6 * December 1996 1231
+TRUSH ETAL.
+the liver, where the metabolism of benzene
+occurs. Of particular significance in this
+regard is the role of glutathione S-trans-
+ferase, QR, and glucuronosyltransferase in
+benzene metabolism. Thus, the effect of
+D3T in the bone marrow could be viewed
+as modulating the toxicodynamics of
+benzene-derived metabolites, while its effect
+in the liver would tend to modulate the
+toxicokinetics ofbenzene.
+Identifying Individuals
+Susceptible to Benzene for
+Chemoprotective Studies
+As with all potentially hazardous chemicals,
+the best way to protect humans from the
+chronic low-dose toxic effects of benzene is
+to sufficiently reduce or, if possible, elimi-
+nate exposure. Presently, cigarette smoke is
+the major source of benzene exposure for
+the general population (2). Even under the
+best of exposure scenarios, there still may
+be individuals who are so inherently sus-
+ceptible to toxic effects of benzene that
+some mechanistically based chemoprotec-
+tive strategy may be warranted. The issue
+then becomes how to identify these suscep-
+tible individuals within populations. It is
+clear from a number of studies that ben-
+zene-induced hematotoxicity is determined
+by the metabolism and processing of ben-
+zene in both the liver and the bone marrow
+(5,7,13,15). In the liver the major suscepti-
+bility determinant is CYP2E1, since it is the
+isoform of cytochrome P450 that catalyzes
+the formation of phenol and HQ (6,7). It
+is the further processing of these metabo-
+lites to quinone derivatives and mucon-
+aldehyde that has been most implicated in
+benzene-induced toxicity (5). Studies have
+shown that there are significant differences
+in the CYP2E1 activity of human micro-
+somes that are reflected in their metabolism
+of benzene (7,56). Moreover, CYP2E1 is
+inducible by alcohol exposure, which has
+been shown to increase the risk for benzene-
+induced toxicity (6). Thus, it is reasonable
+to expect that within the human population
+there are individuals who have high CYP2E1
+levels and others who have low CYP2E1 lev-
+els. Individuals with high CYP2E1 activity
+would have the ability to produce more
+hydroxylated benzene derivatives and as such
+could be viewed as being more susceptible.
+However, the bioactivities of these metabo-
+lites could be balanced by the protective and
+detoxifying systems present in the various
+bone marrow cell populations.
+Among the liver-derived metabolites of
+benzene, HQ has been shown to accumulate
+in the bone marrow of mice, a susceptible
+species (24). Within bone marrow cells are
+a number of possible mechanisms that
+could convert HQ to the bioreactive
+benzoquinone (16-19). As pointed out
+(above), once benzoquinone is formed
+within cells, its ability to interact with tar-
+get molecules is determined by two factors,
+QR activity and GSH (Figure 2). The cel-
+lular activity of QR and availability of
+GSH could also be relevant to the bioreac-
+tivity of catechol and benzenetriol, other
+polyhydroxylated metabolites of benzene,
+while GSH would also be relevant to the
+biological actions of muconaldehyde. As
+was presented in Figure 4 and Table 1,
+there are significant differences in QR and
+GSH between different strains of mice,
+between mice and rats, and between two
+model human myeloid cell lines. In addi-
+tion, there appear to be differences in QR
+and GSH between undifferentiated and
+differentiated ML-1 cells (Table 2).
+Therefore, it is also reasonable to expect
+that there could be significant variations
+between humans with regard to bone mar-
+row QR and GSH that could contribute to
+their relative susceptibility to benzene.
+Both hepatic CYP2E1 and bone marrow
+QR and GSH should be taken into consid-
+eration in determining the relative suscep-
+tibility of individuals to benzene (Figure
+7). As such, individuals with high hepatic
+CYP2E1 and low bone marrow QR and
+GSH could be viewed as being the most
+susceptible within a population. Conversely,
+those individuals with low hepatic CYP2E1
+and high bone marrow QR and GSH
+could be viewed as being the least suscepti-
+ble within the population. As research con-
+tinues on understanding the mechanisms
+involved in benzene-induced hematotoxicity
+(Figures 1,3), additional factors in the bone
+marrow could be considered pertinent to
+susceptibility. Nonetheless, presently it is
+possible to phenotype individuals for
+CYP2E1 activity through chlorzoxazone
+hydroxylation (57,58). For the overall
+assessment of bone marrow QR and GSH,
+cells obtained from a bone marrow biopsy
+would be the most relevant. Considering the
+invasiveness of this procedure, this would
+not be practical. However, it is quite possi-
+ble that peripheral human monocytes and
+polymorphonuclear leukocytes could be
+used as surrogates for bone marrow stromal
+macrophages and committed myeloid inter-
+mediates, respectively, to obtain a relevant
+assessment of QR and GSH studies. There
+is an increase in QR and GSH with
+mononuclear differentiation (Table 2). On
+Hepatic Bone marrow Susceptibility
+to benzene
+CYP2E1 GSH and OR
+hematotoxicity
+High Low
+High High
+Low Low
+Low High
+Figure 7. Ways in which susceptibility to benzene-
+induced hematotoxicity may be related to variations in
+hepatic CYP2E1 activity and bone marrow QR and GSH.
+the other hand, we have observed that the
+DMSO-induced differentiation of HL-60
+cells along the polymorphonuclear pathway
+is not accompanied by similar increases in
+QR and GSH (Y Li and MA Trush, unpub-
+lished observations). Thus, it should be pos-
+sible to identify individuals who may differ
+in their susceptibility to benzene; depending
+upon their exposure to benzene, those con-
+sidered more susceptible could be candi-
+dates for some mechanistically based
+molecular intervention. As the data in this
+article have pointed out, D3T is able to
+induce QR and GSH in several bone mar-
+row-derived cell populations and in vitro
+significantly modify several benzene
+metabolite-induced toxicities. As such,
+given the development ofoltipraz, a dithio-
+thione, as a potential human chemoprotec-
+tive agent in a targeted population (3), a
+similar approach could be used in benzene-
+exposed populations.
+REFERENCES
+1. Hunter D. The Diseases of
+Occupations. 6th ed. London:Hodder
+and Stoughton, 1978.
+2. Paustenbach DJ, Bass DR, Price P.
+Benzene toxicity and assessment,
+1991-1992: implications for future
+regulation. Environ Health Perspect
+Suppl 101:177-200 (1993).
+3. Kensler T`W, Helzlsouer KJ. Oltripraz:
+clinical opportunities for cancer
+chemoprevention. J Cell Biochem,
+Suppl 22:101-107 (1995).
+4. Greenburg L. Results of medical
+examination and clinical tests made to
+1232 Environmental Health Perspectives * Vol 104, Supplement 6 * December 1996
+SUSCEPTIBIUTY AND CHEMOPROTECTION TO BENZENE
+discover early signs of benzol poisoning in exposed workers.
+Public Health Rep 41:1526-1539 (1926).
+5. Snyder R, Longacre SL, Witmer C, Kocsis JJ, Andrews LS, Lee
+EW. Biochemical toxicology of benzene. In: Reviews in
+Biochemical Toxicology, Vol 3 (Hodgson E, Bend JR, Philpot
+RM, eds.) New York:Elsevier, 1981;123-153.
+6. Johansson I, Ingelman-Sundberg M. Benzene metabolism by
+ethanol-, acetone-, and benzene-inducible cytochrome P-450
+(IIEI) in rat and rabbit liver microsomes. Cancer Res
+48:5387-5390 (1988).
+7. Seaton MJ, Schlosser PM, Bond JA, Medinsky MA. Benzene
+metabolism by human liver microsomes in relation to cytochrome
+P-450 2E1 activity. Carcinogenesis 15:1799-1806 (1994).
+8. Williams WJ, Bentler E, Erslev AJ, Lichtiman MA.
+Hematology. 3rd ed. New York:McGraw-Hill, 1983.
+9. King AG, Landreth KS, Wierda D. Hydroquinone inhibits
+bone marrow pre-B cell maturation in vitro. Mol Pharmacol
+32:807-812 (1987).
+10. Thomas DJ, Reasor MJ, Wierda D. Macrophage regulation of
+myelopoiesis is altered by exposure to the benzene metabolite
+hydroquinone. Toxicol Appl Pharmacol 97:440-453 (1989).
+11. Long MW, Wicha MS, eds. The Hematopoietic
+Microenvironment: the Functional and Structural Basis of
+Blood Cell Development. Baltimore:Johns Hopkins University
+Press, 1993.
+12. Jones TD, Morris MD, Young RW, Kehlet RA. A cell kinetics
+model for radiation-induced myelopoiesis. Exp Hematol
+21:816-822 (1993).
+13. Twerdok LE, Rembish SJ, Trush MA. Induction of quinone
+reductase and glutathione in bone marrow cells by 1,2-dithiole-
+3-thione: effect on hydroquinone-induced cytotoxicity. Toxicol
+App1 Pharmacol 12:273-281 (1992).
+14. Zhu H, Li Y, Trush MA. Characterization of benzo[a]pyrene
+quinone-induced toxicity to primary cultured bone marrow
+stromal cells from DBA/2 mice: potential role ofmitochondrial
+dysfunction. Toxicol Appl Pharmacol 13:108-120 (1995).
+15. Thomas DJ, Sadler A, Subrahmanyam VV, Siegel D, Reasor
+MJ, Wierda D, Ross D. Bone marrow stromal cell bioactiva-
+tion and detoxification of the benzene metabolite hydro-
+quinone: comparison of macrophages and fibroblastoid-cells.
+Mol Pharmacol 37:255-262 (1990).
+16. Subrahmanyam VV, Kolachana P, Smith MT. Metabolism of
+hydroquinone by myeloperoxidase: mechanisms of stimulation
+by other phenolic compounds. Arch Biochem Biophys
+156:759-763 (1991).
+17. Schlosser MJ, Surina RD, Kalf GF. Metabolism of phenol and
+hydroquinone to reactive products by macrophage peroxidase
+or purified prostaglandin H-synthase. Environ Health Perspect
+82:229-237 (1989).
+18. Li Y, Trush MA. Oxidative stress and its relationship to car-
+cinogen activation. In: Oxidative Stress and Agine (Culter R,
+Packer L, Bertram J, Mori A, eds). Basel:Birkuser Verlag,
+1995;203-220.
+19. Li Y, Trush MA. Oxidation of hydroquinone by copper: chem-
+ical mechanism and biological effects. Arch Biochem Biophys
+300:346-355 (1993).
+20. Li Y, Trush MA. Alteration ofcellular glutathione as a factor in
+hydroquinone-induced cytotoxicity to primary cultured bone
+marrow stromal cells from DBA/2 mice. In Vitro Toxicol
+5:59-71 (1992).
+21. Zhu H, Li Y, Trush MA. Differences in xenobiotic detoxifying
+activities between bone marrow stromal cells from mice and
+rats: implications for benzene-induced hematotoxicity.
+J Toxicol Environ Health, 46:183-201 (1995).
+22. Longacre SL, Kocsis JJ, Snyder R. Influence of strain differ-
+ences in mice on the metabolism and toxicity of benzene.
+Toxicol Appl Pharmacol 60:398-409 (1981).
+23. NTP. National Toxicology Program Technical Report on the
+Toxicology and Carcinogenesis Studies ofBenzene (CAS No. 71-
+43-2) in F344/N Rats and B6C3Fi Mice (Gavage Studies).
+Research Triangle Park, NC:National Toxicology Program, 1986.
+24. Sabourin PJ, Bechtold WE, Birnbaum LS, Lucier G,
+Henderson RF. Differences in the metabolism and disposition
+of inhaled [3H]benzene by F344/N rats and B6C3Fj mice.
+Toxicol Appl Pharmacol 94:128-140 (1988).
+25. Lyons AB, Ashman LK. Monocyte cell lines. In: Human
+Monocytes (Zembola M, Asherson GL, eds). San Diego:
+Academic Press, 1989;59-69.
+26. Oliveria NL, Kalf GF. Induced differentiation of HL-60
+promyelocytic leukemia cells to monocyte/macrophages by
+hydroquinone, a hematotoxic metabolite of benzene. Blood
+79:627-633 (1992).
+27. Levay G, Pongracz K, Modell WJ. Detection of DNA adducts
+in HL-60 cells treated with hydroquinone and p-benzoquinone
+by 32P-postlabeling. Carcinogenesis 12:1181-1186 (1991).
+28. Chuang LF, Hinton DE, Cheung ATW, Chuang RY.
+Induction of differentiation in human myeloblastic leukemia
+ML-1 cells by heptachlor, a chlorinated hydrocarbon insecti-
+cide. Toxicol AppI Pharmacol 109:98-107 (1991).
+29. Li Y, Lafuente A, Trush MA. Characterization of quinone
+reductase, glutathione and glutathione S-transferase in human
+myeloid cell lines: induction by 1,2-dithiole-3-thione and
+effects on hydroquinone-induced cytotoxicity. Life Sci
+54:901-916 (1994).
+30. Li Y, Zhu H, Trush MA. 12-O-Tetradeconylphorbol-13-
+acetate (TPA)-induced differentiation to monocyte/
+macrophages is accompanied by increased xenobiotic detoxify-
+ing activities and decreased susceptibility to hydroquinone
+(HQ)-induced toxicity. Toxicologist 15:302 (1995).
+31. Rembish SJ, Craig RW, Trush MA. Characterization of an in
+vitro model for assessing mitochondrial maturation in mono-
+cytic cells. Toxicologist 12:284 (1992).
+32. Shertzer HG, Vasiliou V, Liu R-M, Tabor MW, Nebert DW.
+Enzyme induction by L-buthionine (SR)-sulfoximine in cul-
+tured mouse hepatoma cells. Chem Res Toxicol 8:431-436
+(1995).
+33. Berenblum I. The modifying influence ofdichlorethyl sulphide
+on the induction of tumors in mice by tar. J Pathol Bacteriol
+32:425-434 (1929).
+34. Wattenberg LW. Chemoprevention of cancer. Cancer Res
+45:18 (1985).
+35. DeLong MJ, Prochaska HJ, Talalay P. Induction of
+NAD(P)H:quinone reductase in murine hepatoma cells by
+phenolic antioxidants, azo dyes, and other chemoprotectors: a
+model system for the study of anticarcinogens. Proc Natl Acad
+Sci USA 83:787-791 (1986).
+36. Talalay P, DeLong MJ, Prochaska HJ. Molecular mechanisms
+in protection against carcinogenesis. In: Cancer Biology and
+Therapeutics (Cory JG, Szentivani A, eds). New York:Plenum
+Press, 1987;197-216.
+37. Prochaska HJ, Talalay P. Regulation mechanism of monofunc-
+tional and bifunctional anticarcinogenic enzyme inducers in
+murine liver. Cancer Res 48:4776-4782 (1988).
+38. Qian G-S, Ross RK, Yu MC, Yuan J-M, Gao Y-T, Henderson
+BE, Wogan GN, Groopman JD. A follow-up study of urinary
+markers ofaflatoxin exposure and liver-cancer risk in Shanghai,
+People's Republic of China. Cancer Epidemiol Biomarkers
+Prev 3:3-10 (1994).
+39. Groopman JD, DeMatos P, Egner PA, Love-Hunt A, Kensler
+TW. Molecular dosimetry of urinary aflatoxin-N7-quanine
+and serum-albumin adducts predicts chemoprotection by 1,2-
+dithiole-3-thione in rats. Carcinogenesis 13:101-106 (1992).
+40. Huggins CB, Ueda N, Russo A. Azo dyes prevent hydrocar-
+bon-induced leukemia in the rat. Proc Natl Acad Sci USA
+75:4524-4527 (1978).
+41. Huggins C, ed. Experimental Leukemia and Mammary
+Cancer. Induction, Prevention and Cure. Chicago:University
+of Chicago Press, 1979.
+42. Nebert DW, Jensen NM, Levitt RC, Felton JS. Toxic chemi-
+cal depression of the bone marrow and possible aplastic ane-
+mia explainable on a genetic basis. Clin Toxicol 16:99-122
+(1980).
+Environmental Health Perspectives * Vol 104, Supplement 6 * December 1996 1233
+TRUSH ET AL.
+43. Nebert DW, Levitt RC, Jensen NM, Lambert GH, Felton JS.
+Birth defects and aplastic anemia: differences in polycyclic
+hydrocarbon toxicity-associated with the Ah locus. Arch
+Toxicol 39:109-132 (1977).
+44. Nebert DW, Jensen NM. Benzo[a]pyrene-initiated leukemia in
+mice associated with allelic differences at the Ah locus. Biochem
+Pharmacol 27:149-151(1970).
+45. Rao KP, Nandan BD. Modification ofbenzo[a]pyrene induced
+chromosomal damage in mouse bone marrow by vitamin A.
+Bull Environ Contam Toxicol 45:829-832(1990).
+46. Ito Y, Ohnishi S, Fujie K. Chromosome aberrations induced by
+aflatoxin B1 in rat bone marrow cells in vivo and their suppres-
+sion by green tea. Mutation Res 222:253-261 (1989).
+47. Yang CS, Wang Z-Y. Tea and cancer. J Natl Cancer Inst
+85: 1038-1049,(1993).
+48. Twerdok LE, Trush MA. Differences in quinone reductase
+activity in primary bone marrow stromal cells derived from
+C57BL/6 and DBA/2 mice. Res Commun Chem Pathol
+Pharmacol 67:375-386 (1990).
+49. Twerdok LE, Rembish SJ, Trush MA. Studies with 1,2-dithi-
+ole-3-thione as a chemoprotector of hydroquinone-induced
+toxicity to DBA/2-derived bone-marrow stromal cells. Environ
+Health Perspect 101:172-177 (1993).
+50. Kensler TW, Groopman J, Roebuck BD. Chemoprotection by
+oltripraz and other dithiothiones. In: Cancer Chemoprevention
+(Wattenberg L, Lipkin M, Boone-W, Kelloff GJ, eds). Boca
+Raton, FL:CRC Press, 1992;205-226.
+51. Renz JF, Kalf GF. Role for interleukin-1 (IL-1) in benzene-
+induced hematotoxicity. Inhibition of conversion of pre-IL-a
+to mature cytokine in murine macrophages by hydroquinone
+and prevention of benzene-induced hematotoxicity by IL-a.
+Blood 78:938-944 (1991).
+52. Rembish SJ, Craig RW, Trush MA. Characterization of the
+effects of hydroquinone on ML-1 cell differentiation.
+Toxicologist 13:424 (1993).
+53. He H, Trush MA. Time and concentration dependency of
+phorbol ester treatment on mitochondrial superoxide genera-
+tion during differentiation of ML-1 cells. Toxicologist 15:281
+(1995).
+54. Rembish SJ, Yang Y, Esterline RE, Seacat A, Trush MA.
+Lucigenin-derived chemiluminescence as a monitor of mito-
+chondrial maturation and modulation in mononuclear cells. In:
+In Vitro Toxicology: Mechanisms and New Technology, Vol 8
+(Goldberg AM, ed). New York:Mary Ann Liebert
+1991;463-469.
+55. Rembish SJ, Trush MA. Further evidence that lucigenin-
+derived chemiluminescence monitors mitochondrial superoxide
+generation in rat alveolar macrophages. Free Radic Biol Med
+17:117-126 (1994).
+56. Seaton MJ, Schlosser PM, Bond JA, Medinsky MA. In vitro
+conjugation of benzene metabolites by human liver: potential
+influence of interindividual variability on benzene toxicity.
+Carcinogenesis 16:1519-1527 (1995).
+57. Peter R, Bocker RG, Beaune PH, Iwasaki M, Guengerich FP,
+Yang CS. Hydrolylation ofchlorzoxazone as a specific probe for
+human liver cytochrome P-450 IIEI. Chem Res Toxicol
+3:566-573 (1990).
+58. Guengerich FP, Kim D-H, Iwasaki M. Role of human P-450
+IIEI in the oxidation ofmany low molecular weight cancer sus-
+pects. Chem Res Toxicol 4:168-179 (1991).
+1234 Environmental Health Perspectives * Vol 104, Supplement 6 * December 1996
+

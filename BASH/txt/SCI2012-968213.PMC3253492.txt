@@ -1,0 +1,674 @@
+Hindawi Publishing Corporation
+Stem Cells International
+Volume 2012, Article ID 968213, 8 pages
+doi:10.1155/2012/968213
+Clinical Study
+Multipotent Mesenchymal Stromal Cells for the Prophylaxis of
+Acute Graft-versus-Host Disease—A Phase II Study
+Larisa A. Kuzmina, Natalia A. Petinati, Elena N. Parovichnikova, Lidia S. Lubimova,
+Elena O. Gribanova, Tatjana V. Gaponova, Irina N. Shipounova, Oxana A. Zhironkina,
+Alexey E. Bigildeev, Daria A. Svinareva, Nina J. Drize, and Valery G. Savchenko
+FGBU Hematology Research Center, Russia Fedration Ministry of Public Health, 125167 Moscow, Russia
+Correspondence should be addressed to Nina J. Drize, ndrize@yandex.ru
+Received 29 July 2011; Revised 21 October 2011; Accepted 17 November 2011
+Academic Editor: Massimo Dominici
+Copyright © 2012 Larisa A. Kuzmina et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+The eﬃcacy and the safety of the administration of multipotent mesenchymal stromal cells (MMSCs) for acute graft-versus-
+host disease (aGVHD) prophylaxis following allogeneic hematopoietic cell transplantation (HSCT) were studied. This prospective
+clinical trial was based on the random patient allocation to the following two groups receiving (1) standard GVHD prophylaxis and
+(2) standard GVHD prophylaxis combined with MMSCs infusion. Bone marrow MMSCs from hematopoietic stem cell donors
+were cultured and administered to the recipients at doses of 0.9–1.3×106
+/kg when the blood counts indicated recovery. aGVHD of
+stage II–IV developed in 38.9% and 5.3% of patients in group 1 and group 2, respectively, (P = 0.002). There were no diﬀerences
+in the graft rejection rates, chronic GVHD development, or infectious complications. Overall mortality was 16.7% for patients
+in group 1 and 5.3% for patients in group 2. The eﬃcacy and the safety of MMSC administration for aGVHD prophylaxis were
+demonstrated in this study.
+1. Introduction
+Severe graft-versus-host disease (GVHD) is a life-threatening
+complication following allogeneic hematopoietic stem cell
+transplantation (allo-HSCT) [1, 2]. Steroids are the ﬁrst-
+line treatment for established GVHD and have a response
+rate of 30–50%. However, the outcome for patients with
+severe, steroid-resistant acute GVHD is poor, and overall
+survival is low [3]. A large variety of drugs, such as corti-
+costeroids, methotrexate, cyclosporine, and mycophenolate
+mofetil, are used for GVHD prophylaxis, but, nevertheless,
+approximately 20–80% of patients develop GVHD after allo-
+HSCT [4, 5]. Therefore, it is very important to develop new,
+eﬀective methods for GVHD prevention.
+Multiple immune processes underlie the condition that is
+clinically expressed as GVHD after allo-HSCT [6]. The recip-
+ient’s antigen-presenting cells play an essential role in GVHD
+development. Host dendritic cells (DCs) have been iden-
+tiﬁed as crucial for the priming of the CD4+ and CD8+
+donor T-cells that lead to GVHD onset [7] (“direct” allor-
+ecognition), while donor DC also participate through “indi-
+rect” allorecognition [8].
+Bone-marrow-derived multipotent mesenchymal stro-
+mal cells (MMSCs) are able to diﬀerentiate in vitro into cells
+of mesenchymal origin [9, 10]. MMSCs are immunosup-
+pressive, which has been demonstrated by in vitro coculture
+experiments with allogeneic lymphocytes. These cells do not
+induce lymphocyte proliferation, interferon-γ production,
+or the upregulation of activation markers [11, 12]. Several
+key mechanisms have been described that contribute to the
+MMSCs’ direct or indirect alteration of T-, NK, B- and
+dendritic cell function.
+The development of GVHD is mainly mediated by T-
+cells, and MMSCs can inhibit T-cell function. MMSCs down-
+regulate the responses of naive and memory antigen-speciﬁc
+T-cells to their cognate peptides, and this is an eﬀect that is
+contact dependent and does not appear to be mediated by
+DCs [13]. MMSCs are able to attenuate T-cell production
+2 Stem Cells International
+of IL-2, which results in decreased formation of cytotoxic
+CD8+ T-cells [11] and directly inhibits NK cell proliferation
+and cytotoxic activity [14]. MMSCs cause the arrest of T-
+cell division, but they have no eﬀect on early activation
+[15]. MMSCs induce apoptosis in activated T-cells but have
+no eﬀect on resting T-cell proliferation [16]. Moreover,
+MMSCs promote the formation of Th1 and Th3 regulatory
+T-cells as well as IL-10 production, which both prevent
+GVHD development [17]. Studies of the interaction between
+MMSCs and B-cells have demonstrated that MMSCs can
+inhibit B-cell proliferation, diﬀerentiation, and chemotaxis
+[18, 19]. It is worth noting that MMSCs inhibit the
+production of antibodies, which makes MMSCs useful for
+treating autoimmune diseases, such as diabetes, arthritis,
+multiple sclerosis, and Crohn’s disease [20].
+MMSCs aﬀect DCs, and this can alter their role as me-
+diators of GVHD. MMSCs are capable of blocking the dif-
+ferentiation of monocytes and bone marrow precursors
+into DCs [21–23] and inhibiting the upregulation of CD1a,
+CD40, CD80, CD86, and HLA-DR expression during DC
+maturation, which maintains DCs in an immature state
+[24]. Moreover, MMSCs downregulate the secretion of the
+Th1-promoting cytokine IL-12 [24]. The generation of
+regulatory DCs may be mediated by soluble factors such
+as IL6 and prostaglandin E2 [25–27]. MMSCs also produce
+the “tolerogenic” cytokine IL-10 [28]. Thus, MMSCs help to
+prevent GVHD.
+The ability of MMSCs to inhibit the development of
+GVHD requires not only cell-contact-dependent signals but
+also contact-independent signals, including prostaglandin
+E2, IL-6, IL-10, indoleamine 2,3-dioxygenase (IDO1), and
+transforming growth factor-β [28–31]. Of these, IDO1 in
+particular has been identiﬁed as a key mediator of MMSCs-
+based immunosuppression [32–34]. MMSCs inhibit com-
+plement activation by their production of factor H, and
+this may be an additional mechanism underlying the broad
+immunosuppressive capabilities of MMSCs [35].
+Thus, there is suﬃcient in vitro evidence to support
+the use of MMSCs in the prevention and treatment of
+GVHD. Furthermore, a number of patient cohorts treated
+with MMSCs have been reported, and the results have been
+promising to date [36, 37]. No patients have had side eﬀects
+during or immediately after the infusions of MMSCs [38].
+It has been shown that umbilical cord blood-derived
+MMSCs were very eﬀective for GVHD prevention but not
+for treatment in the xenogenic model of NOD/SCID mice
+[39, 40].
+However, there are no clear published data regarding
+the preferred dose, the timing, and the frequency of MMSC
+infusion. A phase III, randomized controlled trial on the use
+of MMSCs in acute GVHD in humans is currently underway,
+and the ﬁrst results are promising [41]. Importantly, neither
+acute nor long-term adverse events have been reported
+following the infusion of MMSCs, so it is possible to use these
+cells for aGVHD prevention.
+The aim of this study was to investigate the safety and
+the eﬃcacy of MMSC administration for GVHD prophylaxis.
+The randomized, prospective clinical trial was approved
+by the local ethics committee and was begun in October
+2008. It was based on the random allocation of patients
+to the following two groups: (1) the group receiving the
+standard GVHD prophylaxis and (2) the group receiving
+the standard GVHD prophylaxis combined with the infusion
+of the hematopoietic stem cell donors’ MMSCs. The data
+obtained demonstrated a signiﬁcantly reduced development
+of aGVHD in patients who received MMSCs.
+2. Materials and Methods
+2.1. Patients. Thirty-seven patients who had received allo-
+HSCT from related donors were eligible for the study be-
+tween October 2008 and May 2011. They were randomly
+allocated to the following two groups: (1) a group receiving
+the standard GVHD prophylaxis and (2) a group receiving
+the same prophylaxis combined with MMSC infusion. For
+each case, the MMSCs were derived from the corresponding
+hematopoietic stem cell donor. The patients’ characteristics
+are presented in Table 1. All work was conducted in ac-
+cordance with the Declaration of Helsinki (1964). This study
+was approved by the local ethics committee, and the donors
+and patients provided written informed consent.
+2.2. Procedures and Deﬁnitions. The patients received either
+myeloablative or reduced-intensity conditioning (Table 1).
+Conditioning was myeloablative in 27 patients and included
+cyclophosphamide (60 mg/kg/day for 2 days) combined
+mainly with busulfan (4 mg/kg/day for 4 days). Ten patients
+had low-intensity conditioning regimens with either ﬂudara-
+bine phosphate (30 mg/m2/day for 6 days) combined with
+busulfan (4 mg/kg/day for 2 days) and antithymocitic glob-
+ulin (ATG) (10 mg/kg/day for 4 days) or ﬂudarabine phos-
+phate (30 mg/m2/day for 5 days) combined with BCNU
+(200 mg/m2/day for 2 days), melphalan (140 mg/m2/day for
+1 day), and ATG (20 mg/kg/day for 2 days).
+As GVHD prophylaxis patients received cyclosporine
+combined with methotrexate, some patients additionally re-
+ceived mycophenolate mofetil or prednisolone.
+Acute GVHD was graded according to internationally ac-
+cepted criteria [42].
+2.3. Laboratory Methods. The characteristics of the donors
+and the grafts are shown in Table 2.
+MMSCs were derived from 25–30 mL of the stem cell
+donors’ bone marrow. For mononuclear cells, the bone
+marrow was mixed with an equal volume of alfa-MEM (ICN)
+media containing 0.2% methylcellulose (1500 cP, Sigma-Al-
+drich). After 40 min, most erythrocytes and granulocytes
+had precipitated, while the mononuclear cells remained in
+suspension. The suspended (upper) fraction was aspirated
+and centrifuged for 10 minutes at 450 g.
+The cells from the sediment were resuspended in a stan-
+dard cultivation medium that was composed of alfa-MEM
+supplemented with 4% platelet lysate obtained from the
+donors’ thrombocyte concentrates, as previously described
+[43], 2 mM L-glutamine (ICN), 100 U/mL penicillin (Fer-
+ein), and 50 μg/mL streptomycin (Ferein). The cells were
+cultured at 27 × 106 cells per T175 cm2 culture ﬂask
+Stem Cells International 3
+Table 1: Characteristics of the patients and treatments.
+Group characteristics
+First group (1) Second group (2)
+Standard GVHD prophylaxis Standard GVHD prophylaxis + MMSCs
+Sex of patient, male/female 7/11 8/11
+Median age, years (range) 29 (19–60) 34 (20–63)
+Diagnosis, n
+AML/MDS 10 14
+ALL 4 2
+CML 3 3
+CLL 1
+Disease stage, n
+complete remission 15 19
+non-complete remission 3 0
+Conditioning regimen, n
+RIC 4 6
+MAC 14 13
+Observation time, months 3.5–30.5 2.5–32
+AML: acute myeloid leukemia, MDS: myelodysplastic syndrome, ALL: acute lymphoid leukemia, CML: chronic myeloid leukemia, CLL: chronic lymphoid
+leukemia, RIC: reduced intensity conditioning, MAC: myeloablative conditioning.
+Table 2: MMSC donor and graft characteristics.
+Donors Values
+Sex of donors, M/F 19/18
+Median age, years (range) 34 (13–68)
+MMSCs
+Culture passage at MMSCs harvest 0–3
+Immunophenotype
+CD105 (Endoglin) 98,6 ± 0,2%
+CD73 (SH3, SH4) 98,1 ± 0,5%
+CD90 (Thy-1) 98 ± 0,5%
+CD59 98,8 ± 0,1%
+Fibroblast Surface Protein (FSP) 97 ± 0,4%
+CD31 (PECAM-1) 2,5 ± 0,7%
+HLA-DR 3,7 ± 0,7%
+CD34 0,00%
+CD45 4,5 ± 0,8%
+CD14 2,0 ± 0,6%
+Proportion of viable cells, % 95.3 ± 1.3%
+Median MMSCs cell dose (×106/kg, range) 1.1 (0.9–1.3)
+Relative expression level of several genes in
+MMSCs on passage 2
+IL-6 2.57 ± 0.98
+Ptges 10.07 ± 3.16
+CSF1 2.04 ± 0.39
+IDO1 0.36 ± 0.132
+IL-10 2.73 ± 0.6
+CFH 1.98 ± 0.36
+(Corning-Costar). When a conﬂuent monolayer of cells had
+formed, the cells were washed with 0.02% EDTA (ICN) in
+a physiologic solution (Sigma-Aldrich) and then trypsinised
+(ICN). The cells were seeded at 4 × 103 cells per cm2 of ﬂask
+area. The cultures were maintained in a hypoxic atmosphere
+at 37◦
+C in 5% CO2 and 5% O2. The number of harvested
+cells was counted directly; cell viability was checked by
+trypan blue dye exclusion staining. MMSCs were harvested
+in 6% polyglucin (public corporation Biochimik) and were
+either cryopreserved in 10% dimethyl sulphoxide (ROTH)
+or resuspended at a ﬁnal concentration of 3–7 × 106 cells
+per mL polyglucin, according to local guidelines, and infused
+intravenously into the patient at target dose 106 per kg of
+body weight.
+All MMSCs were immunophenotyped with following
+markers: CD105, CD73, CD45, CD34, CD14, and HLA-DR
+using standard protocols. Antibodies were purchased at BD
+Pharmingen (CD105, CD59, CD73, CD90, CD31, CD34, and
+CD14), Sigma (CD45, FSP), and DAKO (HLA-DR).
+Total RNA was extracted from MMSCs by the standard
+method [44] and cDNA was synthesized using oligo(dT)
+primers. The gene expression level was quantiﬁed by real-
+time quantitative PCR using hydrolysis probes (Taqman) and
+ABI Prism 7000 (Applied Biosystems). Gene-speciﬁc primers
+were designed by the authors and synthesized by Syntol R&D.
+All primers and probes could be provided upon request. The
+relative gene expression level was determined by normalizing
+the expression of each target gene to that of β-actin and
+GAPDH and was calculated using the ΔΔCt method [45] for
+each MMSCs sample.
+The criteria for the admission of MMSCs for clinical use
+included a spindle-shape morphology, the absence of visible
+clumps or contamination by pathogens, standard immune
+phenotyping [46] for the expression of surface molecules
+[47] and data on the in vitro diﬀerentiation of the cells
+into osteoblasts or adipocytes [48]. The cells were given as
+intravenous infusions when the blood counts were indicative
+of recovery following allo-HSCT (more than 1 × 109/L
+4 Stem Cells International
+leukocytes). The MMSC dose varied from 0.9 to 1.3 × 106/kg.
+Cells for 7 of the infusions were harvested fresh from cultures
+and were given to the patients. For the other 11 cases, frozen
+cells were thawed and infused.
+2.4. Statistical Analysis. Data were analyzed using Student’s
+t-test, with the last data collection in June 2011.
+3. Results and Discussion
+The MMSCs were expanded using the platelet lysate obtained
+from the donors’ thrombocyte concentrates to avoid the
+transmission of zoonoses and the immune reactions possible
+if fetal calf serum were used [49]. All of the human com-
+ponents used for MMSC cultivation were from hematopoi-
+etic stem cell donors. It was assumed that MMSCs were
+transplantable across major histocompatibility complex class
+1 barriers [41, 50]. However, it was recently shown that
+MMSCs are weakly immunogenic in vivo when transplanted
+across major histocompatibility complex class 1 barriers
+[51]. Thus, only MMSCs derived from the stem cell donors
+were used in this trial. The MMSC characteristics are pre-
+sented in Table 2. Nineteen patients received MMSCs for
+GVHD prophylaxis. The exact date of infusion of MMSCs
+after transplantation, the MMSCs dose, and the exact
+pharmacologic immunosuppression applied in each patient
+are presented in the Table 3.
+MMSCs were administered when the blood counts were
+indicative of leukocytes’ recovery (leukocytes more than 1
+× 109 per liter). The time of administration was chosen at
+the time of graft activation and thus also at the time of
+GVHD manifestation. The median day of administration
+was day +28 after HSCT (19–54 days). Most of the patients
+had moderate fever and chills for 24 hours after MMSC
+administration, but there were no other complications.
+In the group receiving the MMSCs, acute GVHD of
+grade II developed in only one case (5.3%) (Tables 3 and
+4). This case was a 59-year-old patient with CML, who
+had received a transplant in the 1st chronic phase from an
+HLA identical related donor. The blood counts were re-
+covered at day +17 after allo-HSCT. The acute GVHD
+manifested at day +25 with skin involvement prior to
+MMSC injection. The MMSCs were administered only at
+day +30, as the required cell dose was not ready at day
++17 due to the slow growth of the donor’s MMSCs. The
+GVHD prophylaxis included cyclosporin, methotrexate, and
+prednisolone. The hematopoietic stem cell donor was 56-
+year-old, and his MMSCs grew slower than the MMSCs from
+other donors. Moreover, the relative expression level of the
+immunomodulatory factors expressed by his MMSCs was
+altered compared with the others (Table 2), the IL-6 level
+increased 2.7-fold, and the CSF1 level increased 1.8-fold,
+while the expression level of IL-10 decreased 1.7-fold, the
+CFH level decreased 12-fold, and the Ptges level decreased
+11-fold. It is possible that the increased level of IL-6 led to the
+activation of the donor T-cells and B-cells [52]. Additionally,
+the increased level of CSF1 in the donors’ MMSCs could
+have further enhanced macrophage activation, which would
+result in GVHD progression instead of inhibition. Moreover,
+the decreased production of factors that inhibit GVHD
+[26, 28–30] by MMSCs from this donor did not permit
+GVHD prevention. However, this single case of ineﬀective
+prophylaxis did not allow clear conclusions to be made about
+the signiﬁcance of these factors expressed by MMSCs in vitro
+in the eﬃciency of GVHD prophylaxis. Nevertheless, clinical
+improvement was registered following MMSCs infusion, but,
+in one month, GVHD progression to grades III-IV and
+involving the skin, gut, and liver occurred.
+In the control group, 6 out of 19 patients had acute
+GVHD of grades II–IV (33.3%), which corresponded to the
+data from other investigators [2]. The outcomes of patients
+in each group are depicted in Table 4.
+Though the groups of patients are not great, yet there is
+a signiﬁcant diﬀerence in the development of acute GVHD
+in patients who received MMSCs prophylaxis compared
+with the control group (P = 0.009). Despite the high
+statistical diﬀerences between these groups, the data could
+not provide solid evidence for the eﬃcacy of the approach
+due to limited number of patients included in the trial.
+MMSC injection did not inﬂuence the development of
+chronic GVHD (Tables 3 and 4). The diagnosis of chronic
+GVHD is usually made earlier than 100 days after allo-HSCT
+[53]. The MMSCs injected at 28 days after allo-HSCT have
+only a small inﬂuence on chronic GVHD development likely
+due to their short life span and improper homing in the
+host [54, 55]. Clinical studies have shown that patients who
+develop GVHD have a lower risk of relapse [56]; moreover,
+it was shown that cotransplantation of mesenchymal stromal
+cells and hematopoietic stem cells may prevent GVHD, but
+the relapse rate was obviously higher than the control group
+[57], although we found no diﬀerence in the relapse rates of
+both groups of patients. It deserves to note that in this study
+MMSCs were not cotransplanted with hematopoietic stem
+cells but infused after transplant activation.
+There were no diﬀerences in the graft rejection rates
+or the infectious complications. The overall mortality was
+22.2% in the standard prophylaxis group and 5.3% in the
+MMSC-treated group.
+4. Conclusions
+The current study is the ﬁrst clinical trial to evaluate the
+feasibility and the safety of platelet lysate in vitro expanded
+stem-cell donor MMSCs for the prevention of acute GVHD.
+A high eﬃcacy of MMSCs in GVHD prophylaxis was clearly
+demonstrated even on such limited number of patients, and
+no adverse events could be directly attributed to MMSC
+administration. In order to make a MMSC administration
+in the prevention of acute GVHD a candidate for inclusion
+in the standard protocols for GVHD prophylaxis, further
+investigations on the enlarged groups of patients should
+be performed. The data obtained support the development
+of new trials focused on the use of this approach in hap-
+loidentical and unrelated HSCT.
+Stem Cells International 5
+Table3:Patientstreatment.
+PatientAgeDiagnosis
+Conditioning
+regimen
+MMSCsinfusion
+GVHDprophylaxis
+GVHDstage(days
+afterallo-HSCT)
+Chronic
+GVHDDaysafterallo-HSCTPassagenumber(P)DoseperkgCryopreservation
+Firstgroup(1)standardGVHDprophylaxis
+KO38CMLMACCSA+Mtx+prII(15)Yes
+IV27ALLMACCSA+Mtx+II(62)Yes
+TB19AMLMACCSA+Mtx+II(20)Yes
+CT59AMLRIC1CSA+Mtx+MMIIII–IV(100)Yes
+SV25AMLMACCSA+Mtx+NoNo
+ZL34CMLMACCSA+Mtx+prNoNo
+RA19ALLMACCSA+Mtx+I(23)No
+KL38MDSMACCSA+Mtx+NoNo
+AD38AMLMACCSA+Mtx+MM+prNoNo
+SO24AMLMACCSA+Mtx+I(26)No
+SE51AMLRIC2CSA+Mtx+II(39)Yes
+SI20AMLMACCSA+MtxII(10)Yes
+ZC24CMLMACCSA+MtxNoNo
+RA31AMLMACCSA+MtxI(36)No
+GN60AMLRIC2CSA+MtxNoNo
+GJ24MDSRIC2CSA+MtxNoNo
+SN36ALLMACCSA+MtxI(19)No
+PE22CLLMACCSA+MtxNoNo
+Secondgroup(2)standardGVHDprophylaxis+MMSCs
+AN34AMLMAC+31P21NoCSA+MtxNoYes
+BT20CMLMAC+28P11,25YesCSA+Mtx+prNoNo
+KA22ALLMAC+29P11,1YesCSA+MtxNoNo
+PS29AMLMAC+31P0+P11NoCSA+MtxNoNo
+PN46AMLMAC+54P31,08YesCSA+MtxNoNo
+KS37MDSRIC1+28P11,1NoCSA+Mtx+MMI(21)No
+SE54AMLRIC1+50P31,05NoCSA+Mtx+MMNoNo
+RS47MDSRIC1+34P10,93YesCSA+Mtx+MMNoYes
+CA44AMLMAC+32P11,18YesCSA+MtxNoNo
+TM28AMLMAC+28P21,05YesCSA+MtxNoNo
+IL63AMLRIC1+25P10,9NoCSA+Mtx+MMNoNo
+CM50AMLRIC1+26P11,07YesCSA+Mtx+MMI(48)No
+BP33AMLMAC+29P11,15NoCSA+MtxNoYes
+MK33AMLMAC+22P1+P21,12YesCSA+MtxI(17)Yes
+FE39CMLMAC+24P1+P21,3YesCSA+Mtx+prI(18)No
+TV40CMLMAC+30P1+P21,26YesCSA+Mtx+prII(25)Yes
+AI22ALLMAC+19P0+P11,25NoCSA+MtxI(73)No
+DE31AMLRIC1+28P10,96YesCSA+Mtx+MMNoNo
+SS34AMLMAC+24P1+P21,39YesCSA+MtxNoNo
+AML:acutemyeloidleukemia,MDS:myelodysplasticsyndrome,ALL:acutelymphoidleukemia,CML:chronicmyeloidleukemia,CLL:chroniclymphoidleukemia,RIC:reducedintensityconditioning((1)
+ﬂudarabinephosphate+busulfan+ATG,(2)ﬂudarabinephosphate+BCNU+melphalan+ATG),MAC:myeloablativeconditioning,CSA:cyclosporine,Mtx:methotrexate,pr:prednisolone,MM:mycophenolate
+mofetil.
+6 Stem Cells International
+Table 4: Patients’ outcome.
+Group characteristics
+First group (1) Second group (2)
+Standard GVHD prophylaxis (n = 18) Standard GVHD prophylaxis + MMSC (n = 19)
+Death at +100 days, n, % 1 (10%) 0
+aGVHD (II–IV grade), n, % 6 (33.3%) 1 (5.3%)
+cGVHD (lim + ext), n, % 6/17 (35.3%) 5/18 (27.8%)
+Relapse rate, n, % 5/18 (27.7%) 4/19 (21.1%)
+Alive, n, % 14 (77.7%) 18 (94.7%)
+cGVHD form: lim-limited, ext-extensive.
+Conﬂict of Interests
+The authors have no relevant conﬂict of interests to declare.
+Acknowledgments
+The authors thank the staﬀ of the Bone Marrow Transplan-
+tation Department for their compassionate and competent
+care of the patients. The study was supported by the Grant of
+Moscow Government Agreements no. 01/07-Hem-M from
+01/01/2007 to 01/01/2011.
+References
+[1] R. Storb and E. D. Thomas, “Graft-versus-host disease in dog
+and man: the Seattle experience,” Immunological Reviews, vol.
+88, pp. 215–238, 1985.
+[2] O. Ringden and B. Nilsson, “Death by graft-versus-host
+disease associated with HLA mismatch, high recipient age, low
+marrow cell dose, and splenectomy,” Transplantation, vol. 40,
+no. 1, pp. 39–44, 1985.
+[3] H. J. Deeg, “How I treat refractory acute GVHD,” Blood, vol.
+109, no. 10, pp. 4119–4126, 2007.
+[4] T. L. Schwinghammer and E. J. Bloom, “Pharmacologic pro-
+phylaxis of acute graft-versus-host disease after allogeneic
+marrow transplantation,” Clinical Pharmacy, vol. 12, no. 10,
+pp. 736–761, 1993.
+[5] H. Goker, I. C. Haznedaroglu, and N. J. Chao, “Acute graft-
+vs-host disease: pathobiology and management,” Experimental
+Hematology, vol. 29, no. 3, pp. 259–277, 2001.
+[6] W. D. Shlomchik, “Graft-versus-host disease,” Nature Reviews
+Immunology, vol. 7, no. 5, pp. 340–352, 2007.
+[7] U. A. Duﬀner, Y. Maeda, K. R. Cooke et al., “Host dendritic
+cells alone are suﬃcient to initiate acute graft-versus-host
+disease,” Journal of Immunology, vol. 172, no. 12, pp. 7393–
+7398, 2004.
+[8] C. C. Matte, J. Liu, J. Cormier et al., “Donor APCs are required
+for maximal GVHD but not for GVL,” Nature Medicine, vol.
+10, no. 9, pp. 987–992, 2004.
+[9] A. J. Friedenstein, K. V. Petrakova, A. I. Kurolesova, and G.
+P. Frolova, “Heterotopic of bone marrow.Analysis of precursor
+cells for osteogenic and hematopoietic tissues,” Transplanta-
+tion, vol. 6, no. 2, pp. 230–247, 1968.
+[10] S. E. Haynesworth, J. Goshima, V. M. Goldberg, and A. I.
+Caplan, “Characterization of cells with osteogenic potential
+from human marrow,” Bone, vol. 13, no. 1, pp. 81–88, 1992.
+[11] K. Le Blanc, I. Rasmusson, C. G¨otherstr¨om et al., “Mesenchy-
+mal stem cells inhibit the expression of CD25 (interleukin-
+2 receptor) and CD38 on phytohaemagglutinin-activated
+lymphocytes,” Scandinavian Journal of Immunology, vol. 60,
+no. 3, pp. 307–315, 2004.
+[12] E. Klyushnenkova, J. D. Mosca, V. Zernetkina et al., “T cell
+responses to allogeneic human mesenchymal stem cells: im-
+munogenicity, tolerance, and suppression,” Journal of Biomed-
+ical Science, vol. 12, no. 1, pp. 47–57, 2005.
+[13] M. Krampera, S. Glennie, J. Dyson et al., “Bone marrow
+mesenchymal stem cells inhibit the response of naive and
+memory antigen-speciﬁc T cells to their cognate peptide,”
+Blood, vol. 101, no. 9, pp. 3722–3729, 2003.
+[14] A. Pradier, J. Passweg, J. Villard, and V. Kindler, “Human bone
+marrow stromal cells and skin ﬁbroblasts inhibit natural killer
+cell proliferation and cytotoxic activity,” Cell Transplantation,
+vol. 20, no. 5, pp. 681–691, 2011.
+[15] S. Glennie, I. Soeiro, P. J. Dyson, E. W. F. Lam, and F. Dazzi,
+“Bone marrow mesenchymal stem cells induce division arrest
+anergy of activated T cells,” Blood, vol. 105, no. 7, pp. 2821–
+2827, 2005.
+[16] J. Plumas, L. Chaperot, M. J. Richard, J. P. Molens, J. C. Bensa,
+and M. C. Favrot, “Mesenchymal stem cells induce apoptosis
+of activated T cells,” Leukemia, vol. 19, no. 9, pp. 1597–1604,
+2005.
+[17] D. Mougiakakos, R. Jitschin, C. C. Johansson, R. Okita, R.
+Kiessling, and K. Le Blanc, “The impact of inﬂammatory
+licensing on heme oxygenase-1-mediated induction of regu-
+latory T cells by human mesenchymal stem cells,” Blood, vol.
+117, no. 18, pp. 4826–4835, 2011.
+[18] A. Corcione, F. Benvenuto, E. Ferretti et al., “Human mes-
+enchymal stem cells modulate B-cell functions,” Blood, vol.
+107, no. 1, pp. 367–372, 2006.
+[19] W. Deng, Q. Han, L. Liao, S. You, H. Deng, and R. C. H. Zhao,
+“Eﬀects of allogeneic bone marrow-derived mesenchymal
+stem cells on T and B lymphocytes from BXSB mice,” DNA
+and Cell Biology, vol. 24, no. 7, pp. 458–463, 2005.
+[20] A. Tyndall and A. Uccelli, “Multipotent mesenchymal stromal
+cells for autoimmune diseases: teaching new dogs old tricks,”
+Bone Marrow Transplantation, vol. 43, no. 11, pp. 821–828,
+2009.
+[21] F. Djouad, L. M. Charbonnier, C. Bouﬃ et al., “Mesenchymal
+stem cells inhibit the diﬀerentiation of dendritic cells through
+an interleukin-6-dependent mechanism,” Stem Cells, vol. 25,
+no. 8, pp. 2025–2032, 2007.
+[22] X. X. Jiang, Y. Zhang, B. Liu et al., “Human mesenchymal stem
+cells inhibit diﬀerentiation and function of monocyte-derived
+dendritic cells,” Blood, vol. 105, no. 10, pp. 4120–4126, 2005.
+[23] R. Ramasamy, H. Fazekasova, E. W. F. Lam, I. Soeiro, G. Lom-
+bardi, and F. Dazzi, “Mesenchymal stem cells inhibit dendritic
+cell diﬀerentiation and function by preventing entry into the
+cell cycle,” Transplantation, vol. 83, no. 1, pp. 71–76, 2007.
+Stem Cells International 7
+[24] W. Zhang, W. Ge, C. Li et al., “Eﬀects of mesenchymal
+stem cells on diﬀerentiation, maturation, and function of
+human monocyte-derived dendritic cells,” Stem Cells and De-
+velopment, vol. 13, no. 3, pp. 263–271, 2004.
+[25] G. M. Spaggiari, H. Abdelrazik, F. Becchetti, and L. Moretta,
+“MSCs inhibit monocyte-derived DC maturation and func-
+tion by selectively interfering with the generation of immature
+DCs: central role of MSC-derived prostaglandin E2,” Blood,
+vol. 113, no. 26, pp. 6576–6583, 2009.
+[26] S. Aggarwal and M. F. Pittenger, “Human mesenchymal stem
+cells modulate allogeneic immune cell responses,” Blood, vol.
+105, no. 4, pp. 1815–1822, 2005.
+[27] K. Sato, N. Yamashita, N. Yamashita, M. Baba, and T. Mat-
+suyama, “Regulatory dendritic cells protect mice from murine
+acute graft-versus-host disease and leukemia relapse,” Immu-
+nity, vol. 18, no. 3, pp. 367–379, 2003.
+[28] D. Gur-Wahnon, Z. Borovsky, S. Beyth, M. Liebergall, and
+J. Rachmilewitz, “Contact-dependent induction of regulatory
+antigen-presenting cells by human mesenchymal stem cells is
+mediated via STAT3 signaling,” Experimental Hematology, vol.
+35, no. 3, pp. 426–433, 2007.
+[29] A. J. Nauta and W. E. Fibbe, “Immunomodulatory properties
+of mesenchymal stromal cells,” Blood, vol. 110, no. 10, pp.
+3499–3506, 2007.
+[30] I. Rasmusson, O. Ringd´en, B. Sundberg, and K. Le Blanc,
+“Mesenchymal stem cells inhibit lymphocyte proliferation
+by mitogens and alloantigens by diﬀerent mechanisms,”
+Experimental Cell Research, vol. 305, no. 1, pp. 33–41, 2005.
+[31] K. English, J. M. Ryan, L. Tobin, M. J. Murphy, F. P. Barry, and
+B. P. Mahon, “Cell contact, prostaglandin E2 and transforming
+growth factor beta 1 play non-redundant roles in human mes-
+enchymal stem cell induction of CD4+CD25Highforkhead
+box P3+ regulatory T cells,” Clinical and Experimental
+Immunology, vol. 156, no. 1, pp. 149–160, 2009.
+[32] B. J. Jones, G. Brooke, K. Atkinson, and S. J. McTag-
+gart, “Immunosuppression by placental indoleamine 2,3-di-
+oxygenase: a role for mesenchymal stem cells,” Placenta, vol.
+28, no. 11-12, pp. 1174–1181, 2007.
+[33] R. Meisel, A. Zibert, M. Laryea, U. G¨obel, W. D¨aubener, and
+D. Dilloo, “Human bone marrow stromal cells inhibit al-
+logeneic T-cell responses by indoleamine 2,3-dioxygenase-
+mediated tryptophan degradation,” Blood, vol. 103, no. 12, pp.
+4619–4621, 2004.
+[34] J. M. Ryan, F. Barry, J. M. Murphy, and B. P. Mahon, “In-
+terferon-γ does not break, but promotes the immunosuppres-
+sive capacity of adult human mesenchymal stem cells,” Clinical
+and Experimental Immunology, vol. 149, no. 2, pp. 353–363,
+2007.
+[35] Z. Tu, Q. Li, H. Bu, and F. Lin, “Mesenchymal stem cells inhibit
+complement activation by secreting factor h,” Stem Cells and
+Development, vol. 19, no. 11, pp. 1803–1809, 2010.
+[36] K. Le Blanc, I. Rasmusson, B. Sundberg et al., “Treatment
+of severe acute graft-versus-host disease with third party
+haploidentical mesenchymal stem cells,” The Lancet, vol. 363,
+no. 9419, pp. 1439–1441, 2004.
+[37] O. Ringd´en, M. Uzunel, I. Rasmusson et al., “Mesenchymal
+stem cells for treatment of therapy-resistant graft-versus-host
+disease,” Transplantation, vol. 81, no. 10, pp. 1390–1397, 2006.
+[38] K. Le Blanc, F. Frassoni, L. Ball et al., “Mesenchymal stem cells
+for treatment of steroid-resistant, severe, acute graft-versus-
+host disease: a phase II study,” The Lancet, vol. 371, no. 9624,
+pp. 1579–1586, 2008.
+[39] V. Tisato, K. Naresh, J. Girdlestone, C. Navarrete, and F. Dazzi,
+“Mesenchymal stem cells of cord blood origin are eﬀective
+at preventing but not treating graft-versus-host disease,”
+Leukemia, vol. 21, no. 9, pp. 1992–1999, 2007.
+[40] M. Sudres, F. Norol, A. Trenado et al., “Bone marrow mes-
+enchymal stem cells suppress lymphocyte proliferation in vitro
+but fail to prevent graft-versus-host disease in mice,” Journal of
+Immunology, vol. 176, no. 12, pp. 7761–7767, 2006.
+[41] B. J. Jones and S. J. McTaggart, “Immunosuppression by mes-
+enchymal stromal cells: from culture to clinic,” Experimental
+Hematology, vol. 36, no. 6, pp. 733–741, 2008.
+[42] H. Glucksberg, R. Storb, and A. Fefer, “Clinical manifestations
+of graft versus host disease in human recipients of marrow
+from HL A matched sibling donors,” Transplantation, vol. 18,
+no. 4, pp. 295–304, 1974.
+[43] C. Lange, F. Cakiroglu, A. N. Spiess, H. Cappallo-Obermann,
+J. Dierlamm, and A. R. Zander, “Accelerated and safe expan-
+sion of human mesenchymal stromal cells in animal serum-
+free medium for transplantation and regenerative medicine,”
+Journal of Cellular Physiology, vol. 213, no. 1, pp. 18–26, 2007.
+[44] P. Chomczynski and N. Sacchi, “Single-step method of
+RNA isolation by acid guanidinium thiocyanate-phenol-chlo-
+roform extraction,” Analytical Biochemistry, vol. 162, no. 1, pp.
+156–159, 1987.
+[45] T. D. Schmittgen and K. J. Livak, “Analyzing real-time PCR
+data by the comparative CT method,” Nature Protocols, vol. 3,
+no. 6, pp. 1101–1108, 2008.
+[46] E. M. Horwitz, K. Le Blanc, M. Dominici et al., “Clariﬁcation
+of the nomenclature for MSC: the International Society for
+Cellular Therapy position statement,” Cytotherapy, vol. 7, no.
+5, pp. 393–395, 2005.
+[47] D. A. Svinareva, I. N. Shipunova, Y. V. Olshanskaya, K. S.
+Momotyuk, N. I. Drize, and V. G. Savchenko, “The basic
+properties of bone marrow mesenchymal stromal cells from
+donors: superﬁcial markers,” Terapevticheskii Arkhiv, vol. 82,
+no. 7, pp. 52–56, 2010.
+[48] D. A. Svinareva, T. V. Petrova, I. N. Shipunova, K. S. Mo-
+motiuk, E. A. Mikhalova, and N. I. Drize, “The study of pa-
+rameters of mesenchymal stromal cells diﬀerentiation in do-
+nors and patients with aplastic anemia,” Terapevticheskii
+Arkhiv, vol. 81, no. 7, pp. 66–70, 2009.
+[49] M. von Bonin, F. St¨olzel, A. Goedecke et al., “Treatment of
+refractory acute GVHD with third-party MSC expanded in
+platelet lysate-containing medium,” Bone Marrow Transplan-
+tation, vol. 43, no. 3, pp. 245–251, 2009.
+[50] T. Toubai, S. Paczesny, and Y. Shono, “Mesenchymal stem cells
+for treatment and prevention of graft-versus-host disease after
+allogeneic hematopoietic cell transplantation,” Current Stem
+Cell Research & Therapy, vol. 4, pp. 252–259, 2009.
+[51] I. A. Isakova, J. Dufour, C. Lanclos, J. Bruhn, and D. G.
+Phinney, “Cell-dose-dependent increases in circulating lev-
+els of immune eﬀector cells in rhesus macaques follow-
+ing intracranial injection of allogeneic MSCs,” Experimental
+Hematology, vol. 38, no. 10, pp. 957–967, 2010.
+[52] I. Tawara, M. Koyama, C. Liu et al., “Interleukin-6 modulates
+graft-versus-host responses after experimental allogeneic bone
+marrow transplantation,” Clinical Cancer Research, vol. 17, no.
+1, pp. 77–88, 2011.
+[53] G. B. Vogelsang, “How I treat chronic graft-versus-host
+disease,” Blood, vol. 97, no. 5, pp. 1196–1201, 2001.
+[54] G. Chamberlain, J. Fox, B. Ashton, and J. Middleton, “Concise
+review: mesenchymal stem cells: their phenotype, diﬀeren-
+tiation capacity, immunological features, and potential for
+homing,” Stem Cells, vol. 25, no. 11, pp. 2739–2749, 2007.
+8 Stem Cells International
+[55] J. M. Karp and G. S. Leng Teo, “Mesenchymal stem cell
+homing: the devil is in the details,” Cell Stem Cell, vol. 4, no. 3,
+pp. 206–216, 2009.
+[56] S. L. Petersen, “Alloreactivity as therapeutic principle in the
+treatment of hematologic malignancies: studies of clinical
+and immunologic aspects of allogeneic hematopoietic cell
+transplantation with nonmyeloablative conditioning,” Danish
+Medical Bulletin, vol. 54, no. 2, pp. 112–139, 2007.
+[57] H. Ning, F. Yang, M. Jiang et al., “The correlation between
+cotransplantation of mesenchymal stem cells and higher re-
+currence rate in hematologic malignancy patients: outcome of
+a pilot clinical study,” Leukemia, vol. 22, no. 3, pp. 593–599,
+2008.
+

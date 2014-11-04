@@ -1,0 +1,1847 @@
+Hindawi Publishing Corporation
+Journal of Biomedicine and Biotechnology
+Volume 2010, Article ID 479364, 18 pages
+doi:10.1155/2010/479364
+Review Article
+Molecular and Therapeutic Potential and Toxicity of Valproic Acid
+S´ebastien Chateauvieux, Franck Morceau, Mario Dicato, and Marc Diederich
+Laboratoire de Biologie Mol´eculaire et Cellulaire du Cancer (LBMCC), “Fondation de Recherche Cancer et Sang”,
+Hˆopital Kirchberg, Kirchberg 2540, Luxembourg
+Correspondence should be addressed to Marc Diederich, marc.diederich@lbmcc.lu
+Received 7 January 2010; Revised 3 May 2010; Accepted 6 June 2010
+Academic Editor: Ronald E. Baynes
+Copyright © 2010 S´ebastien Chateauvieux et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Valproic acid (VPA), a branched short-chain fatty acid, is widely used as an antiepileptic drug and a mood stabilizer. Antiepileptic
+properties have been attributed to inhibition of Gamma Amino Butyrate (GABA) transaminobutyrate and of ion channels. VPA
+was recently classiﬁed among the Histone Deacetylase Inhibitors, acting directly at the level of gene transcription by inhibiting
+histone deacetylation and making transcription sites more accessible. VPA is a widely used drug, particularly for children suﬀering
+from epilepsy. Due to the increasing number of clinical trials involving VPA, and interesting results obtained, this molecule will be
+implicated in an increasing number of therapies. However side eﬀects of VPA are substantially described in the literature whereas
+they are poorly discussed in articles focusing on its therapeutic use. This paper aims to give an overview of the diﬀerent clinical-
+trials involving VPA and its side eﬀects encountered during treatment as well as its molecular properties.
+1. Introduction
+Valproic acid (2-propylvaleric acid, 2-propylpentanoic acid
+or n-dipropylacetic acid) (see Figure 1(a)), derived from
+valeric acid (Figure 1(b)) (naturally produced by valerian,
+Valeriana oﬃcinalis) (see Figure 1(c)), was ﬁrst synthesized
+in 1882 by Burton [1]. It is a branched short-chain fatty
+acid, forming a clear liquid at room temperature, and
+whose half-life is 9 to 16 hours. For nearly a century,
+this molecule was used as a “physiologically inert” solvent
+for organic compounds. It was in 1963, during a study
+focused on molecules with potential anti-convulsive activity,
+in which VPA was used as a molecular carrier, that the
+pharmacological activity of VPA was demonstrated: VPA
+prevented pentylenetetrazol-induced convulsions in rodents
+[2–4].
+In the human brain, VPA alters the activity of the neu-
+rotransmitter Gamma Amino Butyrate (GABA) by poten-
+tialising the inhibitory activity of GABA through several
+mechanisms, including inhibition of GABA degradation,
+inhibition of GABA Transaminobutyratre (ABAT), increased
+GABA synthesis, and decreased turnover [5]. Moreover, VPA
+attenuates N-Methyl-D-Aspartate-mediated excitation [6, 7]
+and blocks Na+ channels, Ca2+ channels (voltage-dependent
+L type CACNA1 type C, D, N, and F), and voltage-gated K+
+channels (SCN) [8].
+Besides its clinical use as an anticonvulsant and mood-
+stabilizing drug [9], VPA presents beneﬁcial eﬀects in clinical
+depression [10], absence seizures [11, 12], tonic-clonic
+seizures, complex partial seizures [13], juvenile myoclonic
+epilepsy [14], seizures associated with Lennox-Gastaut syn-
+drome [15], migraine headaches, and schizophrenia. VPA as
+a therapeutic agent is commercially available as Depakote,
+Depakote ER, Depakene, Depacon, Stavzor, Mylproin,
+Ergenyl, Dipropylacetic acid, Myproic Acid, Dipropylacetate,
+and Convulex.
+More recently VPA has been described as an HDAC
+inhibitor, resulting in an increased interest for its use in
+cancer therapy. Chromatin is formed of DNA packaged in
+nucleosome structures, constituted by 146 base-pair DNA
+sequence winding around an octamere of histones (two
+copies of each histone: H2A, H2B, H3, and H4) held in
+place by histone H1. The condensed form of chromatin
+(heterochromatin) is inactive in terms of transcription
+whereas the decondensed form (euchromatin) corresponds
+to an active form. The transition between euchromatin
+and heterochromatin is dependent upon two families of
+proteins: histone acetyl transferases (HATs), and histone
+2 Journal of Biomedicine and Biotechnology
+deacetylases (HDACs). It has been established that histone
+acetylation leads to relaxation of the nucleosome structure,
+releasing the DNA and allowing transcription. Inhibition of
+HDAC promotes decondensed chromatin formation, thereby
+promoting the expression of genes.
+VPA, as well as other HDAC inhibitors (HDACi), is able
+to alter expression of many genes. Corresponding proteins
+were described to play important roles in cellular activity and
+could inﬂuence several important pathways such as cell cycle
+control, diﬀerentiation, DNA repair, and apoptosis [16–19].
+VPA speciﬁcally targets 2 of the 4 classes of HDACs:
+class I, subclasses Ia and Ib, and class II, subclass IIa. Within
+subclass IIa, HDAC9 is an exception to this modulation,
+being activated by VPA, which is also true for HDAC11 [20].
+HDAC 6, 8, and 10 are not modulated. It is interesting to
+mention that HDAC classes I and II have been reported to
+be strongly implicated in neuronal function, which could
+partially explain the action of VPA in neural pathologies.
+DNA methylation also contributes to the regulation of
+gene expression. Hypermethylation of the promoter, usually
+corresponding to inhibition of gene expression, is con-
+trolled by DNA methytransferase (DNMT). Demethylation
+of nucleic acid has been commonly associated with pas-
+sive processes corresponding to inhibition of maintenance
+methylation during S-Phase of the cell cycle. The existence
+of DNA demethylase was shown a decade ago, resulting
+in a demethylated active DNA form [21, 22]. HDACi have
+been associated with demethylation of DNA, and since 2001,
+were associated with the active demethylated form. The
+exact mechanism is not yet known, but it seems that VPA
+does not directly enhance the enzymatic activity of DNA
+demethylase. However, through HDACi activity, VPA enables
+methylated DNA to be more accessible, which is conﬁrmed
+by the observation that inhibition of HAT diminishes the
+demethylation eﬀect triggered by VPA [23, 24]. In addition, it
+has been shown that valproic acid downregulates expression
+of proteins essential for chromatin maintenance: SMCs 1-
+6 (Structural Maintenance of chromatin 1 to 6), DNMT1
+(DNA methyl transferase-1), and HP1 (Heterochromatin
+Protein-1) [25]. The eﬀects upon transcription are observed
+after less than 24 hours, while 48 hours are needed to see
+the eﬀects upon protein levels, which correlates with DNA
+decondensation (shown in breast cancer cell lines).
+Recently, it has been shown that VPA is also able to
+induce mono-, di-, or tri-methylation of histone 3, particu-
+larly at lysine 9 (H3K4) [20, 26–28]. Methylation of histones
+at this lysine is associated with increased transcriptional
+activity. However, this phenomenon and its purpose are not
+currently clear, considering the speciﬁc site of methylation,
+and the fact that it only occurs on already hyperacetylated
+histones, and near-demethylated genes. It is assumed that
+this modiﬁcation could serve to stabilize the transiently
+released form of chromatin, mediated by histone acetylation
+[28].
+Among many drugs named as “molecular therapies,”
+epigenetic drugs are between the most encouraging, because
+in contrast to other drugs that target the expression of a
+molecule or a family of molecules, they target chromatin
+through associated proteins (HDAC, DNMT, HP1, and
+HO
+O
+(a)
+O
+OH
+(b)
+Valeriana oﬃcinails ﬂower
+photo by Maarten.@2007 Erowid.org
+(c)
+Figure 1: (a) Structure of Valproic acid, (b) structure of
+valeric acid, (c) valeriana oﬃcinalis (valeriana oﬃcinalis in
+an early stage of ﬂowering, [Belgium] Photo by Maarten. c
+2007 Erowid.org: http://www.erowid.org/herbs/show image.php?i=
+valerian/valeriana oﬃcinalis ﬂower i2005e1334 disp.jpg).
+SMCs). Thus, epigenetic drugs aﬀect the expression of many
+proteins and therefore may be applicable to a wide range of
+pathologies, especially cancer, where multiple antioncogens
+are repressed during carcinogenesis. Epigenetic drugs could
+particularly target these repressed tumor suppressor genes.
+Moreover, given that the balance of acetylation and
+deacetylation, under the control of HAT and HDAC, is
+not restricted to histones [29], it can be hypothesized that
+VPA, like other HDACi, could modulate molecular activity
+in addition to transcription. Targeted genes could be Ku
+(releasing BAX), STAT3, HSP90, p53, and various transcrip-
+tion factors. Candidates have already been mentioned in a
+preliminary study in 2005 [30].
+For all the signaling pathways modulated, it has not
+been established if VPA acts through epigenetic regulation,
+inhibition of acetylation of molecules other than histones, or
+by other molecular mechanisms.
+Journal of Biomedicine and Biotechnology 3
+2. VPA Targets a Wide Range of Pathologies
+Valproic acid used in therapy is available in many formu-
+lations: syrup, suppositories, tablets, or locale injection; the
+diﬀerent formulations can aﬀect the bioavailability and rate
+of absorption of the molecule. Classically age or weight
+has no inﬂuence in VPA serum concentration. There is no
+proportional relationship between the dose administrated
+and the serum concentration [31]. Diet plays also a role in the
+rate of absorption as VPA is more rapidly bioavailable when
+ingested before feeding. Finally, the serum concentration
+can be strongly inﬂuenced by combination with pheny-
+toin (49.5%), carbamazepine (66.2%), or phenobarbital
+(76.3%) than when given alone (100%). On average, 250 mg
+VPA ingested induce a serum concentration of 54.6 ug/mL
+(0.34 mM) [32]. Overdosage of VPA results in somnolence,
+heart block or deep coma.
+2.1. Neurological Diseases. Many of the neurodegenerative
+diseases identiﬁed today have genetic causes. Spinal muscular
+atrophy (SMA) is caused by the homozygous loss of the
+SMN1 gene (survival motor neuron protein). The eﬀects of
+the loss of this gene could be modulated by expression of
+the Fl-SMN2 protein (Full Length), which determines the
+severity of the disease [33]. VPA is a promising candidate
+for Fl-SMN2-overexpression therapies, because it has been
+shown that it is able to increase both SMN transcript and
+protein levels in SMA patients. However, the speciﬁcity of
+target of several HDACi members decreases their eﬀective-
+ness and could lead to the choice of less speciﬁc molecules,
+such as SAHA [28].
+Parkinson’s disease (PD) is caused by the degeneration of
+nigrostriatal dopaminergic neurons. To date, several scien-
+tiﬁc papers have shown no eﬀect of VPA on PD. However,
+recent in vitro studies have shown positive eﬀects of VPA
+in models mimicking PD at diﬀerent levels: VPA treatment
+prevents apoptosis induced by rotenone (inducing PD-like
+neurodegeneration); protects neurons from dopaminergic
+toxin 1-methyl-phenylpyridinium (MPP+) by stimulating
+the release of trophic substances from glia; protects cul-
+tured dopaminergic neurons from over-activated microglia-
+induced degeneration by promoting microglia apoptosis and
+protects neurons by increasing α-synuclein expression and
+preventing its monoubiquitination and nuclear transloca-
+tion [34–37]. In rodents, experiments show that selective
+alterations of α-synuclein caused by rotenone (decrease of
+the native protein and an increase in monoubiquitination in
+substantia nigra and striatum) are counteracted by long-term
+administration of VPA [38].
+Past clinical trials had showed a lack of VPA activity in
+patients with Huntington’s disease (HD) [39], which is sur-
+prising given that the molecular explanation for this disease
+involves excitotoxicity and reduced gene transcription due
+to decreased levels of histone acetylation. However, a recent
+study showed that using high doses of VPA (100 mg/kg/days)
+is capable of prolonging life expectancy and improving
+traction [40]. This study, based on tests conducted on the
+N171-82Q transgenic mouse model of HD, showed that
+following chronic intraperitoneal daily administration, VPA
+signiﬁcantly improved the condition of mice, increasing the
+number of the surviving mice and reducing the decrease in
+motor activity, and this without exerting any noteworthy side
+eﬀects upon behavior or striatal dopamine content at the
+dose administered. This study therefore recommends further
+clinical trials, based on increasing doses of VPA administered
+in mono- or polytherapy.
+2.2. Addiction. The GABAergic system is involved in psy-
+chostimulant sensitization, and VPA can modulate central
+GABAergic neurotransmission. An initial study, conducted
+on mice, showed that multiple injections of VPA, admin-
+istered consecutively after methamphetamine, could reduce
+the addictive behavior induced by this drug. However,
+this eﬀect is not reproducible for cocaine-induced behavior
+[41]. These initial results indicated that these forms of
+addiction should not involve the same neural mechanisms.
+A clinical study of VPA use in treating addiction to various
+substances particularly targeted the stage of detoxiﬁcation
+prior to treatment and rehabilitation. It was shown that
+a combination of Buprenorphine and VPA seems to be
+the most appropriate for detoxiﬁcation, compared to the
+traditional combination Clonidine and Carbamazepine [42].
+Several addictions, obsessive-compulsive disorders, and
+compulsive sexual behaviors have similarities in their pro-
+cesses, and, in the use of VPA, may ﬁnd a possible therapeutic
+treatment.
+2.3. HIV Infection. Histone deacetylase 1 (HDAC1) has
+been implicated in maintaining HIV in infected cells. The
+inhibitory action of VPA upon this protein makes it a
+good candidate for AIDS therapy. A study published in
+2005 undertaken with four patients, showed that three
+of them treated with valproic acid in addition to highly
+active antiretroviral therapy (HAART), showed a reduction
+in latent HIV infection [43]. However, a subsequent study
+showed that VPA, alone and in a long-term treatment, is not
+suﬃcient to reduce the size of the HIV-1 reserve [44].
+2.4. Other Pathologies. The possibility of using VPA in
+treatment of Duchenne Muscular Dystrophy, a skeletal
+muscle degeneration disease, was recently demonstrated in
+vitro and in vivo on mice mdx/utrn−/−
+[45]. This study
+showed that VPA is able to induce the Akt/mTOR/p70S6K
+pathway, through the induction of phosphatidylinositol 3-
+OH kinase (PI3K), resulting in lower collagen content and
+ﬁbrosis, a decrease of hind limb contractures, an increase of
+sarcolemmal integrity, a decrease of CD8-positive inﬂamma-
+tory cells and higher levels of activated Akt in muscles.
+3. VPA Targets Signaling Pathways in
+Cancer Cells
+Epigenetic processes, such as histone deacetylation and DNA
+methylation, are known to contribute to the cancerous
+transformation of cells by silencing critical genes, leading
+to chemotherapy resistance. It has been hypothesized that
+HDACi act through a derepression or a stimulation of
+4 Journal of Biomedicine and Biotechnology
+silenced tumor suppressor genes [46–48]. Several data
+demonstrate the ability of these epigenetic drugs to modulate
+global gene expression in tumors (Figure 2).
+VPA modulates expression of p21WAF1/CDKN1A [49],
+a CDK (cyclin dependent kinase) generally associated with
+cell cycle arrest in G1/S phase. VPA appears to induce
+an increase in the amount of p21WAF1 protein over 48
+hours in AML cells, which is independent of p53 levels
+(whose expression is not modulated by VPA), but appears
+to be dependent on c-myc, whose mRNA and protein levels
+decrease in a dose-dependent manner during VPA treatment.
+Under VPA treatment, transcription of c-myc is dependent
+upon JNK/SAPK, and ectopic expression of c-myc, leading to
+more resistant cells in cell cycle arrest, shows the importance
+of this protein in VPA-mediated activity. In addition to this,
+while VPA treatment in the cell lines is followed by a decrease
+of c-myc and an induction of p21, it has been observed that
+in primary AML cells, only the systematic decrease of c-myc
+is maintained, without upregulation of p21 expression.
+VPA-induced apoptosis, via the extrinsic pathway involv-
+ing engagement of the caspase-8-dependent cascade, sensi-
+tizes cells to TRAIL/Apo2L-mediated apoptosis by increasing
+expression of DR4 and DR5 by 3- and 14-fold, respectively.
+In the absence of TRAIL/Apo2L, VPA is able to reduce the
+expression of antiapoptotic factors acting on both extrinsic
+and intrinsic apoptotic pathways, including c-FLIPs, proteins
+associated with DISC and Bcl-2/Bcl-X(L). When applied
+with TRAIL/Apo2L, VPA increased cell death and caspase-
+3 activity. These results were reproduced in AML, CLL,
+thoracic cancers, and hepatocellular carcinoma [50–53].
+VPA induces Caspase-11 and FAS-L at the transcriptomic
+level, and Caspase-3 at the proteomic level during exposition
+[54]. Long treatment periods result in enhancement of Fas-
+dependent apoptosis associated with an overexpression of
+Fas and Fas ligand, and a central role in Bcl-2 inhibition [55].
+It has been reported that VPA increased β-catenin levels
+through concentration-dependent inhibition of glycogen
+synthase kinase 3-β (and 3α) activity, and tau phosphory-
+lation [56]. On one hand, this resulted in the inhibition of
+ubiquitination of β-catenin and on the other hand, in the
+inhibition of c-jun phosphorylation leading to an increase
+in the DNA binding activity of AP-1. Inhibition of β-catenin
+ubiquitination led to its translocation into the nucleus, and
+resultant upregulation of c-myc transcription.
+The PI3-kinase/Akt pathway and Sp1 are involved in
+HSP70 induction by HDAC inhibitors, and induction of
+HSP70 by VPA in cortical neurons may contribute to its
+neuroprotective and therapeutic eﬀects [57].
+In medullary thyroid cancer (MTC) cells, VPA is able
+to modify the expression of Notch1, by increasing its
+expression, resulting in inhibition of the growth of these cells
+and the induction of apoptosis. These results along with the
+apparent tolerance of patients to VPA treatment have led to
+the suggestion to involve VPA being in future clinical trials
+on advanced medullary thyroid cancer [58].
+PPAR signaling is involved in several biochemical regula-
+tion processes, including lipidic metabolism, diﬀerentiation,
+insulin sensitivity, and cell survival. VPA appeared to be
+a pan-activator of PPAR (both PPARα, also PPARδ and
+PPARγ) [59, 60]. This mechanism could be one factor
+favoring the teratogenic eﬀect of VPA [60]. In contrast, it
+was reported that in neuronal cells VPA induced a signiﬁcant
+decrease in PPARγ signaling [61]. These results highlight
+potential tissue-speciﬁc eﬀects of VPA, as observed in several
+publications, and the diﬃculties in predicting its eﬀects prior
+to clinical trials.
+In similar fashion, HDAC3 is involved in inhibition
+of STAT3 phosphorylation [62]. This inhibition led to a
+decrease in the dimerisation of STAT3 and its translocation
+into the nucleus for transcriptional activation of many genes
+in a wide range of biological processes, including induction
+of immune response, oncogenesis, cell cycle control, develop-
+ment, cell adhesion, and diﬀerentiation [63]. HDAC3 is one
+of the direct targets of VPA, but until now no papers present
+data concerning the eﬀect of VPA on the STAT3 pathway.
+4. Clinical Trials with VPA
+As previously mentioned, several reports have demonstrated
+the ability of epigenetic drugs to modulate global gene
+expression in tumors. In many cases, such drugs have moved
+into the ﬁrst or second phase of clinical trials for treatment
+of various solid cancers or leukemia, and in cotreatment with
+several chemotherapeutic agents (Table 1).
+VPA is used for many years in the treatment of convulsive
+seizures and in chronic treatment of epilepsy. Highlighting its
+HDAC inhibitory property and therefore its potential action
+on some cancers has made this molecule, already well known,
+a top candidate in new clinical trials.
+Valproic acid has been implicated in more than two
+hundred clinical trials, sometimes in association with other
+drugs and involving various pathologies, ranging from
+mood disorders to cancers, through treatment of narcotic
+addictions, muscle disorders, and the ability to reduce viral
+load in AIDS patients (http://clinicaltrials.gov/).
+However, concerning cancer prevention and therapy, a
+recent study on a population taking VPA over a long period
+(minimum 1500 g in the last 5 years) demonstrated that it
+had no signiﬁcant eﬀect upon prevention of cancer develop-
+ment [64] and thus is not eligible for chemoprevention.
+4.1. Clinical Trial in Noncancerous Disorders. VPA has been
+used for many years as a treatment against epilepsy and
+convulsive disorders. Today, the majority of clinical trials
+involving VPA relate to neural pathology, applying to more
+than thirty diﬀerent pathologies.
+One clinical study aims to compare the antiaggressive
+eﬃcacy of risperidone monotherapy versus risperidone
+in combination with valproate in patients suﬀering from
+schizophrenia. The random blind test, including 33 patients
+(16 with risperidone and 17 with polytreatment), was unable
+to show any signiﬁcant diﬀerence between the treatments,
+except a higher capacity of patients under combination ther-
+apy to complete the study [65]. The use of valproic acid was
+investigated for its ability to improve mood stabilization. The
+blind clinical trial aimed to assess the capacity of lamotrigine
+or VPA to increase mood stabilization for patients with
+Journal of Biomedicine and Biotechnology 5
+ABAT
+C, D, N, F
+GABA
+Transaminobutyrate
+Ca2+ channel
+volt-dept L type
+SMC
+Proteins
+DNMT
+SP1-Ac SP3-Ac
+Volt-gated
+K+ channel
+CACNA1
+SCN...
+Ac-CoA
+Ac-CoA
+Ac-CoA
+AP-1
+PKC
+HDAC9,11
+Class I: HDAC1,2,3
+Class II/a: HDAC4,5,7
+HAT
+p53-ac
+p53
+Integration to the plasmic
+membrane
+Proinﬂammatory
+eﬀect
+Cell
+proliferation
+Cell
+diﬀerentiation
+Apoptosis
+DDDDDDD D
+FASL
+FAS
+Casp 6 Casp 3
+Casp 7
+C-FLIP
+FGF VEGF
+IL8
+IL6
+c-Myc
+CCND1
+p21
+VPA
+DR5
+TRAIL
+NFκBTNFα
+GSK-3β
+PPAR
+γ-β-δ
+Modiﬁcation of the properties
+Figure 2: Pharmacological activity of VPA described in the literature. Schematic representation of direct and indirect targets of VPA.
+Principal direct targets known for VPA are ionic channels and ABAT (in green). Epigenetic action of VPA (in violet) as HDACi activity:
+VPA targets the transcriptomic system and principally directly inhibits HDAC class I (subcategories 1, 2, and 3), and less strongly class
+II/a (subcategories 4, 5, and 7), but induces HDAC 9 and 11, and indirectly inhibits the function of SMC and DNMT. Probably due to
+its epigenetic properties, or interactions not yet established, VPA alters, directly or indirectly, expression of many molecules involved in
+molecular pathways such as apoptosis, inﬂammation, diﬀerentiation, and proliferation (in red).
+6 Journal of Biomedicine and Biotechnology
+schizophrenia who are both stabilized and partially respon-
+sive [66]. Eﬃciency assessment was evaluated using the Pos-
+itive and Negative Syndrome Scale, Calgary Depression Scale
+for Schizophrenia, Demoralization Scale, Clinical Global
+Impression severity and improvement scores and Lehman
+quality of life improvement scale to assess quality of life
+and social functioning. The increase of antipsychotics usage
+with mood stabilizers like lamotrigine or VPA for partially
+responsive patients with chronic schizophrenia seems to be
+an ineﬃcient treatment strategy for improving the residual
+symptoms.
+A clinical trial to establish the diﬀerence between VPA
+and Propranolol in the treatment of pediatric migraine
+prophylaxis was undertaken on a population of 120 patients
+aged from 3 to 15 years. The results showed no signiﬁcant dif-
+ference in all therapeutic eﬀects between the two molecules,
+with a mean of 70% response and a reduction of >50% in
+headache frequency [67].
+A clinical trial concerning agitation of older people with
+dementia was based upon the use of VPA as a treatment over
+several years, without any conclusive clinical trials able to
+show the eﬀects. The results presented were based on the
+compilation of three incomplete clinical studies and show
+that VPA does not induce any improvement in pathology but
+does present an unacceptable rate of side eﬀects [68].
+Acute mania is a behavioral disorder outcome of bipolar
+disorder, also known as manic-depressive disorder, manic
+depression, or bipolar aﬀective disorder. Compilation of
+data provided by European Mania in Bipolar Evaluation
+of Medication (EMBLEM) concerning the comparison of
+olanzapine and valproic acid treatments on a panel of over
+600 patients (n = 107 valproate, n = 514 olanzapine),
+demonstrated that olanzapine monotherapy seems to be
+more eﬀective than valproate monotherapy in the treatment
+of acute mania [69].
+In contrast, a recent systematic review about the eﬀect
+of VPA upon 142 patients with acute bipolar depression
+shows a signiﬁcant eﬀect of this molecule for the reduction
+of depressive symptoms of acute bipolar depression, as well
+as high patient tolerance [70]. The outcomes investigated
+were depression, anxiety, hypomania, attrition, and adverse
+events, and the study analyzed existing randomized control
+trial data for the eﬃcacy and tolerability of valproate.
+Results are particularly conclusive for depression (50%
+improvement, for 22% of patients), but inconclusive for
+anxiety, and there was no evidence for an increased risk
+of mania, as it also induces long-term antidepressant
+eﬀects.
+VPA was investigated for clinical therapy of amyotrophic
+lateral sclerosis (ALS). This prognostic neuropathy was
+studied in 163 patients who received either VPA (1500 mg)
+or placebo, daily. The end points targeted were survival and
+progression of the disease. This study concluded that VPA
+had no beneﬁcial eﬀect upon survival or disease progression
+in patients with ALS [71].
+A phase II study of the eﬀect of VPA upon spinal
+muscular atrophy (SMA), with a panel of 2 SMA type I
+(ages 2-3 years), 29 SMA type II (ages 2–14 years), and
+11 type III (ages 2–31 years) was recently published. The
+investigation focused upon several factors, such as assess-
+ment of gross motor function (via the modiﬁed Hammer-
+smith Functional Motor Scale: MHFMS), electrophysiologic
+measures of innervations (with maximum ulnar compound
+muscle action potential amplitudes: CMAP) and motor unit
+number estimation (MUNE), body composition, and bone
+density via dual-energy X-ray absorptiometry (DEXA), and
+quantitative blood SMN mRNA levels, as well as carnitine
+depletion, hepatotoxicity, and increased weakness (for the
+side eﬀects). Results revealed a trend of weight gain but
+also an increase of gross motor function in 27 patients,
+all of them with SMA type II and younger than ﬁve years
+old. There was no variation in expression of SMN protein
+(survival motor neuron protein), but bone mineral density
+and innervations increased signiﬁcantly (P ≤ .0001). In
+conclusion, the results presented by this preliminary study
+highlight the strengths and limitations of using a large
+cohort of patients for such a trial, as opposite results were
+obtained as functions of age and type of SMA. As such,
+no ﬁnal conclusion was made concerning VPA, but it was
+suggested that additional controlled clinical trials with VPA
+targeting more restricted cohorts of subjects were needed
+[72].
+A phase II clinical trial, principally investigating the
+eﬀect of glyceryl trinitrate, and incidentally that of VPA,
+on pain caused by diabetic peripheral neuropathy, showed
+that these two molecules induce signiﬁcant improvement,
+whether used alone or in combination [73]. This study,
+undertaken upon 83 patients divided into four groups,
+compared visual analogue score (VAS) and present pain
+intensity (PPI) at the beginning of the study and after
+three months, with motor and sensory nerve conduction
+velocities measured using electrophysiological tests. These
+results show signiﬁcant improvements with both drugs indi-
+vidually and in combination, except for electrophysiological
+test results with VPA treatment, which show no signiﬁcant
+modiﬁcation.
+Kaposi sarcoma (KS) is a cutaneous tumor caused by
+Human herpesvirus 8 (HHV8) and is often associated
+with coinfection by HIV (AIDS-associated Kaposi sarcoma),
+especially in African populations. Valproate stimulates HIV
+replication in some HIV-infected cell lines in culture [74, 75],
+and in the case of HHV8-infected cells, valproate induces
+expression of multiple HHV8-encoded transcripts that are
+associated with entry into the lytic phase of replication [76].
+Because valproate is sometimes used in individuals who
+might be infected with HHV8 and HIV, a recent study aimed
+to identify the eﬀect of VPA in cases of AIDS-associated
+Kaposi sarcoma [77]. Their results show that treatment with
+VPA was associated with low toxicity, and that KS clinical
+response and herpesvirus lytic induction were not high
+enough to be associated with signiﬁcant induction of virus
+replication.
+The clinical trials mentioned to date concerning treat-
+ment of nonmalignant diseases show few real beneﬁts
+associated with use of VPA in mono- or polytreatment, and
+this despite the very encouraging preclinical data obtained so
+far.
+Journal of Biomedicine and Biotechnology 7
+Table 1: Ongoing clinical studies implicating valproic acid in
+monotherapies.
+Dependences
+Alcohol abuse or dependence
+Alcoholism
+Cocaine dependence
+Marijuana abuse
+Substance abuse or dependence
+Substance withdrawal syndrome
+Cancer
+Autoimmune lymphoproliferative syndrome
+Brain and central nervous system tumor
+Breast cancer
+CLL
+HTLV-I associated myelopathy
+MDS risk; AML
+Nasopharyngeal carcinoma
+Prostate cancer
+Sarcoma
+Neurological disorders
+Alzheimer disease
+Amyotrophic lateral sclerosis
+Attention deﬁcit hyperactivity disorder
+Autism
+Bipolar disorder
+Borderline personality disorder
+Cluster headache
+Dementia
+Depression
+Disruptive behavior
+Epilepsy
+Mania
+Migraine
+Mood disorder
+Neuralgia
+Phosphosensitive epilepsy
+Post traumatic stress disorder
+Progessive supranuclear palsy
+Resistant bipolar depression
+Schizophrenia
+Spinal muscular atrophy type 1
+Others
+Asthma
+Hypersplenism; lymphadenopathy
+Hypoalbunemia
+Insulin resistance
+4.2. Clinical Trial in Solid Tumors and Leukemia
+4.2.1. VPA in Myeloid and Lymphoid Malignancies. The use
+of VPA in monotherapy or polytherapy seems promising for
+leukemia diseases. It has already been established that VPA
+exerts diﬀerent eﬀects in diﬀerent cell types, and probably in
+the function of these cell types. It can induce proliferation
+in early stem cells and can inhibit angiogenesis, production
+of TNF-α and IL-6, and activation of NF-κB. Taken together
+these properties could be beneﬁcial in the treatment of MDS
+or leukemic pathologies.
+While HDACi are emerging as valuable new agents in the
+treatment of acute myeloid leukaemia (AML), the eﬃciency
+rates of these compounds in isolation are low, which requires
+them to be used in cotreatment with other anticancer
+drugs. Research into predictive markers of the eﬃciency
+of cotreatment with VPA gave rise to a study published
+in 2009, comparing results obtained by coprocessing using
+all trans retinoic acid (ATRA) and theophylline on 20
+patients and several cell lines, and a microarray study on
+primary AML cells and cell lines. Comparison between
+results obtained with cotreatment (one Complete Remission
+(CR), two Partial Remission (PR)) and those obtained in
+treatment of primary cells and cell lines allowed the authors
+to conclude that similar factors determine both in vivo and in
+vitro sensitivity and identiﬁed elevated FOSB-expression as a
+potential marker of VPA sensitivity [78].
+Hematological improvement was reported in many
+patients with diﬀerent types of cancer following VPA
+treatment, with favorable responses; in patients with MDS
+(myelodystrophy syndromes) and MPS (myeloproliferative
+syndromes) [79]; in patients with AML developed from
+MPD (myeloproliferative disorders) [80]; in patients with
+myeloﬁbrosis in myeloid metaplasia [81]. Clinical studies on
+the use of VPA have shown the beneﬁcial eﬀect of this drug
+especially on MDS [82, 83].
+In 2007, a phase I/II study investigated the use of a
+tritherapy combination of 5-azacitidine (5-AZA), VPA, and
+ATRA in patients with acute myeloid leukemia or high-
+risk MDS. A total of 53 patients were treated with an age
+range of 5–84 years, and median age of 69 years. Maximum
+tolerated dose (MTD) for VPA was 50 mg/kg daily for 7
+days, and toxicity consisted of reversible neurotoxicity. The
+overall response rate was 42% and was 52% for previously
+untreated older patients. This tritherapy combination is safe
+and presents signiﬁcant clinical activity [84].
+Another group studied whether VPA is active against
+myeloid leukemia in a polytherapy treatment associating
+VPA and ATRA, on 26 patients with low risk AML. The
+results showed that for the 19 patients with AML arising from
+MPD who completed four weeks of treatment, no CR was
+observed, one minor HI, and two PR in patients.
+A recent phase II clinical study targeted 62 patients with
+high risk MDS, treated with a combination of 5-AZA and
+VPA. It showed that for the 26 patients who completed the
+eight cycles, 30.7% obtained complete or partial remission
+(CR or PR), 15.4% had major hematologic improvement
+(HI), whereas 38.5% showed stable disease (SD) [85]. VPA
+increased 5-azacytidine eﬃciency, and the study concluded
+that 5-AZA/VPA combined treatment is eﬀective for patients
+with MDS with a poor prognosis.
+The ﬁrst results on the use of VPA in lymphoid
+diseases, made through a study of microarrays, are very
+encouraging, showing that this molecule is capable of
+8 Journal of Biomedicine and Biotechnology
+inducing apoptosis through repression of several antiapop-
+totic genes and induction of proapoptotic genes. More-
+over, VPA signiﬁcantly increased sensitivity to ﬂudarabine,
+ﬂavopiridol, bortezomib, thalidomide, and lenalidomide
+[86].
+4.2.2. VPA in Solid Tumors. VPA shows potent antitumor
+eﬀect in a wide variety of cancers in preclinical studies, in
+vitro and in vivo, by modulating multiple pathways including
+cell cycle arrest, angiogenesis, apoptosis, diﬀerentiation, and
+senescence. These eﬀects appear to be cell type-speciﬁc and
+could be dependent upon the degree of diﬀerentiation and,
+in the case of cancer, dependent upon the degree of alteration
+[87]. The majority of preclinical studies concerning the
+antitumoral eﬀects of VPA were performed on myeloid
+or lymphoid leukemia. However, for solid tumors, some
+preclinical studies have provided interesting results. In
+2008, Duenas-Gonzalez et al. [87] summarized the state of
+preclinical data and positive eﬀects of VPA on 19 diﬀerent
+types of solid cancer. In ﬁbrosarcoma, cotreatment with
+VPA strongly increased the eﬃciency of hydralazin, and
+was able to eliminate residual disease tissue after surgery
+or treatment in xenograft models [88]. In bladder cancer,
+VPA inhibits growth of tumor xenografts [89]. In prostate
+cancer, VPA induces apoptosis in androgen-dependent and
+independent cell lines [90], and a growth inhibitory eﬀect
+was also observed in xenograft models [90, 91]. For colon
+cancer, VPA signiﬁcantly induces apoptosis in some cell
+lines which express APC [92], with similar results observed
+in primary colon cancer cells [93]. For breast cancer,
+VPA inhibits growth of cell lines independent of estrogen
+receptors [94, 95], potentiates the action of Tamoxifen,
+Raloxifen, Fulvestran, and Letrozol, and induces tumor
+regression in xenograft. Surprisingly, combined treatment
+with VPA and tamoxifen inhibits Ishikawa adenocarcinoma
+cells, which normally proliferate in response to tamoxifen
+[96]. In hepatocarcinoma cells, VPA increases cell death in
+cell lines and primary cancerous cells through the induction
+of TRAIL in TRAIL-sensitive cells (Figure 2), and through c-
+FLIP inhibition in TRAIL-resistant cells [97]. Treatment of
+neuroblastoma cells with VPA inhibits growth and induces
+neural diﬀerentiation [98]; in xenograft, VPA inhibits tumor
+growth by itself, but when associated with IFN-alpha can
+induce complete cure (33% of tested animals) [99]. VPA
+induces cell diﬀerentiation and adhesiveness in glioma cells
+[100]; it potentiates the action of etoposide for the induction
+of apoptosis in these cancer cell types [101]. In Thyroid can-
+cer, VPA acts upon both poorly diﬀerentiated, and anaplastic
+cells, by inducing proliferative and proapoptotic eﬀects
+through inhibition of BCL-2 and BCL-xl, and induction of
+Bax [102].
+A dose escalating phase I clinical trial, realized in 2007,
+targeted refractory advanced solid tumors in 26 pretreated
+patients and gave the ﬁrst indication of the eﬀect of VPA
+treatment maximum tolerated dose (MDT). Doses of up
+to 60 mg/kg/d for 5 consecutive days were well tolerated
+and showed detectable biological activity; doses of 90
+to 120 mg/kg/d corresponded to the incidence of dose-
+limiting toxicity (DLT), dominated mainly by neurocognitive
+impairment, with grade 3 or 4 neurological side eﬀects
+occurring in 8 out of 26 patients. No grade 3 or 4
+hematological toxicity was observed [103].
+Concerning clinical trials upon breast cancer, initial
+results showed that cotreatment with hydralazine and mag-
+nesium valproate exerts the proposed molecular eﬀects of
+DNA demethylation, HDAC inhibition, and gene reactiva-
+tion in primary tumors [104]. Recently a phase I/II study
+was conducted to study the eﬀects of valproic acid in patients
+with breast cancer [105]. This study, which focused on the
+HDACi eﬀect of VPA, was based on 44 patients with phase I
+cancer who had solid tumors and adequate organ function.
+The phase II dose expansion enrolled 15 patients with locally
+advanced (III), or metastatic (IV), breast cancer. Partial
+responses for 9 of 41 (22%) patients within the phase I
+cohort, and objective responses for 9 of 14 (64%) patients
+in the phase II cohort, demonstrated that valproic acid is
+clinically relevant regarding its HDAC inhibition activity in
+solid tumor malignancy. This study, which also investigated
+markers of HDACi eﬃcacy, proposed that eﬃciency should
+be checked using peripheral blood rather than the tumor,
+and that the activity of HDAC2 should be targeted.
+A recent phase I/II clinical trial aimed to examine the
+capacity of VPA to potentiate the eﬀect of karenitecin (KTN:
+a topo I inhibitor) on melanoma cells. The previous studies in
+multiple melanoma cell lines, and in mouse A375 xenografts,
+had been conducted and showed that VPA pretreatment
+potentiated KTN-induced apoptosis. This clinical study,
+realized in patients with stage IV melanoma, with any num-
+ber of prior therapies, aimed to investigate DNA cleavage,
+cytotoxicity, and maximum tolerated dose (MTD) induced
+by KTN and VPA. Encouraging results were shown for a VPA
+MTD of 75 mg/kg/d (1.28 mmol/L), in which 15 patients
+were evaluated for toxicity and eﬃciency; 47% (7 of 15) of
+patients with metastatic poor prognosis melanoma showed
+disease stabilization [106]. In comparison, another stage I/II
+clinical trial aimed to evaluate the biological activity of VPA,
+following cotreatment with standard chemoimmunotherapy
+(dacarbazine, 800 mg/m2 plus Interferon-α) for advanced
+melanoma patients. 29 patients were eligible and started
+taking valproate, 18 received chemoimmunotherapy and
+were assessed for response. Results showed only one com-
+plete response, two partial remissions, and three disease
+stabilizations lasting longer than 24 weeks and triggered an
+increase in side eﬀects. In conclusion, VPA treatment did
+not produce results superior to standard therapy in patients
+with advanced melanoma and induced severe side eﬀects
+with grade 3 (anemia, abdominal pain, ataxia, neutropenia,
+thrombocytopenia, hypocalcemia, depression consciousness,
+neurological disorder, and urinary incontinence) and grade
+4 (Dyspnea, anemia, depression consciousness, neurological
+disorder thrombocytopenia, and cerebral hemorrhage) toxi-
+cities [107].
+The use of orally administered VPA in a clinical trial tar-
+geting castration-resistant prostate cancer (CRPC) showed
+that two out of ten patients had prostate-speciﬁc antigen
+(PSA) responses, of which only one response was durable.
+Weekly biomarker collections revealed PSA levels inversely
+correlated with total VPA levels, but no histone acetylation
+Journal of Biomedicine and Biotechnology 9
+was consistently observed in peripheral lymphocytes. VPA
+toxicity eﬀects were grades 1 and 2 for neurologic events, and
+grades 1 and 2 for fatigue [108]. This study concluded that
+it was unlikely that the observed eﬀects upon PSA were due
+to the HDACi activity of VPA, and as such oral-VPA is not
+recommended to treat prostate cancer.
+In conclusion, VPA has been used for many years in
+the treatment of many neurological disorders including
+convulsive seizures related to epilepsy, as a mood stabilizer
+and in the treatment of schizophrenia. Moreover, VPA has
+been involved in clinical trials for several other neural
+disorders or diseases, such as addiction, migraine, and ALS.
+Accordingly, investigation of side eﬀects will be crucial for
+the future use of this drug.
+5. Drug’s Interactions
+To date a total of 606 drugs are known to interact
+with VPA, 12 major, 546 moderate, and 48 minor inter-
+actions (http://www.drugs.com/). The major drug inter-
+actions are with acetaminophen, aspirin/caﬀeine, cilas-
+tatin/imipenem, doripenem, ertapenem, lamotrigine, mero-
+penem, propoxyphen, sodium benzoate, sodium oxybate,
+sodium phenylacetate, and vorinostat.
+Aspirin, caﬀeine, and other salicylates can inhibit the
+clearance of valproic acid and increasing its serum-free
+concentration up to 4 times [109], this may help to reduce
+the daily dose of VPA but also increase its cytotoxicity when
+administered with aspirin [110]. Imipenem, Meropenem,
+Doripenem, Ertapenem, and Panipenem antibiotics decrease
+the serum concentrations of valproic acid likely by increasing
+the metabolism of VPA to VPA glucuronide as well as
+the renal clearance of VPA glucuronide and by inhibiting
+the intestinal absorption of VPA [111, 112]. Valproic acid
+has been shown to signiﬁcantly increase the plasma con-
+centrations of lamotrigine (doubling the half-life) [113–
+115] potentially leading to serious and life-threatening rash,
+including Stevens-Johnson syndrome and toxic epidermal
+necrolysis, but also disabling tremors and ataxia, known as
+secondary eﬀects of lamotrigine [116, 117]. Propoxyphene
+interaction with VPA is associated with an increasing
+probability of hip fracture by 60% in the elderly, presumably
+due to additive psychomotor impairment [118]. Moreover,
+as reported in several medical websites, propoxyphene
+could induce additive CNS- or respiratory-depressant eﬀects
+and cause drug-related deaths particularly when used with
+VPA, in patients with emotional disturbances or addiction.
+Administration of valproic acid diminishes the therapeutic
+eﬀects of sodium benzoate and sodium phenylacetate in the
+treatment of acute hyperammonemia due to deﬁciencies in
+enzymes of the urea cycle (see Side-eﬀects chapter) [119–
+121]. The therapeutic action on central nervous system and
+respiratory of sodium oxybate (gamma-Hydroxybutyrate,
+GHB) can be potentially increased by other CNS-depressants
+which includes the VPA, but short-chain monocarboxylic
+acids and medium-chain fatty acids signiﬁcantly inhibited
+in a competitive manner GHB brain-inﬂux by 35 to 90%
+[122] which leads to the decrease of the eﬀect of this
+molecule. Coadministration of VPA (and other HDACi)
+with vorinostat (suberoylanilide hydroxamic acid, SAHA)
+can severely aggravate thrombocytopenia and gastrointesti-
+nal bleeding induced by the treatment with SAHA [123,
+124].
+6. Side Effects of VPA
+Valproic acid (VPA) is generally used as a ﬁrst-line anticon-
+vulsive agent. It is currently in clinical trials for treatments
+in many ﬁelds, such as neurological disorders, cancer
+treatments and addictions, or as an antiviral complement.
+However, as with many antiepileptic drugs, there are a
+number of consequences associated with the use of VPA.
+Many side eﬀects related to clinical use of VPA have
+been reported in the literature. Most of them describe its
+mild and transient side eﬀects on patients [125] but also
+its serious eﬀects on embryonic development that results in
+physical and cognitive alterations. However, it is quite rarely
+made reference to other side eﬀects that can cause signiﬁcant
+disorders or even death of patients (Table 2).
+6.1. Speciﬁc Mild Side Eﬀects of VPA to Young Patients. Several
+mild side eﬀects have been reported in patients treated
+with VPA, during or after the end of treatment. In one
+study, parents reported an increase in sleep duration during
+VPA treatment on young patients. However, this study—
+based upon sleep duration and its changes during, and
+up to 8 weeks after the end of treatment—[126] showed
+that after recalibration of sleep as a function of age, it was
+the cessation of VPA treatment that induced a decrease
+in sleep time. This was at a mild level for most patients,
+but considerable in a subgroup of children, especially the
+youngest. It also appears that VPA played a role in daytime
+sleepiness.
+VPA has also been associated with weight gain and with
+changes in serum triglycerides, cholesterol, and fast glucose,
+but studies into these eﬀects have shown only slight impacts
+of treatment upon weight gain in young children or teenagers
+[127, 128]. Body mass index scores tend to increase during
+the ﬁrst 16 months of treatment and then tend to stabilize,
+resulting in an increase in the proportion of young children
+in the clinically overweight category from 6.9% to 16%. In
+older children, there was a 14% change to a higher weight
+category. However, the overall results showed no signiﬁcant
+variation in the composition of fatty acids in serum.
+6.2. Dermatologic Side Eﬀects. Valproic acid can be associated
+with cases of stomatitis, cutaneous leukoclastic vasculitis,
+and psoriasiform eruption [141]. Valproic acid induced
+alopecia due to the telogen shedding which appears within
+three months of the initiation of the treatment. It induces
+also transient alopecia (2.6% to 12%), thinning of the hair,
+hair color changes, hair texture changes, and rare rashes.
+Alopecia is not dose related and can be prevented by
+treatment with zinc and selenium-containing vitamin. VPA
+was also implicated in Stevens-Johnson syndrome and toxic
+epidermal necrolysis (Lyell Syndrom) [142].
+10 Journal of Biomedicine and Biotechnology
+Table 2: Side eﬀects and prevalence. List of classiﬁed side eﬀects observed during treatment with VPA. NA: Data not available.
+Mild side-eﬀects Prevalence
+Decrease of sleep duration after the end of treatment 15 to 45 min/day [126]
+Weight gain 14% change of weight class [127, 128]
+Drowsiness NA
+Nausea NA
+Unsteadiness NA
+Decrease appetite NA
+Fertility and teratogenic eﬀects Prevalence
+Decrease of fertility 25% [129]
+Spina biﬁda
+3-fold increase [130–132]
+Anencephaly
+Cardiac defect
+Dysmorphic features
+Valproate syndrome (decrease of intrauterine growth)
+Craniofacial, skeletal, or limb defect
+Problem of communication development NA
+Autism spectrum NA [132]
+Decrease of IQ 9 points [133, 134]
+Disorder or decrease of verbal intelligence NA
+Neurological side-eﬀects Prevalenc
+Ischiemic stroke (if associated with MTHFR mutation: 5–22% of population) 1 case reported [135]
+Enchephalopathy NA [120]
+Exacerbation of epilepsy 1 case reported [136]
+Parkinsonism 1.37–5.04% [137]
+Liver damages Prevalence
+Child hepatotoxicity 0.16% [138, 139]
+Hematopoietic damages Prevalence
+Thrombocytopenia
+4% [120]
+Platelet dysfunction
+Factor XIII deﬁciency
+Hypoﬁbrinogenemia
+Vitamin K dependent factor deﬁciency
+von Wilbrant disease 67% in children 16% in adults [120]
+Aplastic anemia 9-fold increase [140]
+6.3. VPA Eﬀects on Fertility, Pregnancy and Fetus Develop-
+ment. The inﬂuence of VPA upon murine fertility, and that
+of the descendants, has been well reported: VPA decreases
+the fertility index by 25% and decreases the number of
+fetuses. To a large degree, these side eﬀects can be corrected
+by administration of folic acid, 5-formyltetrahydrofolate
+(FOL), and S-adenosylmethionine (SAM) [129], indicating
+the eﬀect of VPA on the folic acid cycle.
+Prospective and retrospective studies demonstrate that
+VPA is a human teratogen, with an approximately threefold
+increase in major anomalies [131, 132], which is greater
+than that observed for other antiepileptic drugs (AEDs).
+Comparative studies show that while other AEDs increase
+the risk of malformation from 2.9 to 3.6%, the risk of major
+congenital malformation obtained with VPA is between 6.2
+and 7.6% [143]. These disorders usually comprise spina
+biﬁda, and more rarely anencephaly, cardiac, craniofacial
+skeletal or limb defects, dysmorphic features, and a decrease
+in intrauterine growth (Valproate syndrome) [130]. More-
+over, children aﬀected by Valproate Syndrome generally
+present developmental or communication problems, such as
+autistic spectrum disorder or decreased verbal intelligence
+[132]. The increased rate of disorders could be linked with
+taking more than 1000 mg daily, or linked with polytherapy.
+Therefore, pregnant women treated with VPA, and without
+the possibility of substitution treatment, are recommended
+to decrease dosage by 2 to 3 daily doses, limit treatment to
+monotherapy and, in addition, to take folic acid and increase
+the frequency of ultrasonographic assessments to assess any
+malformations more precisely. It has been suggested that
+the teratogenic eﬀects of VPA could be due to impaired
+methionine synthesis and DNA hypomethylation [144],
+as VPA induces disturbance of the folic acid cycle and
+subsequent synthesis of methionine [129]. It can also be due
+Journal of Biomedicine and Biotechnology 11
+to the increase in oxidative stress, to which the brain is more
+susceptible than the other fetal organs [132].
+Finally, the eﬀects of VPA may also have impact on
+the child’s intellectual development, without description of
+malformation, autism syndrome, or problems in communi-
+cation. Recent interesting publications aim to quantify the
+IQ of oﬀ-spring of women taking VPA or other AEDs during
+pregnancy. It follows from this study on more than 300
+children, that exposure to AEDs (Lamotrigine, Phenytoin,
+Carbamazepine and Valproic acid) during pregnancy can
+impair brain development of children. This phenomenon
+is particularly important with VPA, causing a signiﬁcant
+decrease in IQ by 9 points on average, irrespective of
+maternal IQ [133, 134]. These results show also that the
+decrease is dose dependant.
+6.4. Neurological Side Eﬀect of Treatment with VPA. VPA
+has been used for many years as an anticonvulsant and
+antiepileptic drug. In the recent years, it has been associated
+with treatment or clinical trials for other neurological dis-
+orders, such as mood disorders, schizophrenia, or attention
+deﬁcit hyperactivity disorder. Due to its direct neurological
+action, it is not surprising to see the emergence of side eﬀects
+in the same ﬁeld.
+One report described 19 new cases of encephalopathy
+in 2006 in Germany that possibly implicate valproic acid
+[120]. These cases are in addition to the 51 cases previously
+described in the literature. While it had been previously
+reported that these side eﬀects were visible only in children
+with metabolic defects, the new results reveal that the
+same eﬀects are found in adult patients. In these cases of
+encephalopathy, a possible direct action of VPA upon neu-
+rotransmitters has been postulated, which would explain the
+emergence of the pathology in the absence of liver failure or
+hyperammonemia [145], and in cases of hyperammonemia,
+VPA could inhibit the urea cycle.
+Valproate-induced Parkinsonism was recently described
+in the literature. Tested among several EADs, the VPA has
+shown the greatest ability to induce Parkinsonian symptoms,
+increasing the population tested from 0 to 5.04% [137]. They
+show that the eﬀects are reversible and can be controled
+by a decrease of the dose. Moreover, they also reported
+that the symptoms can appear from a dose of 750 ±
+273.86 mg/day in long-term treatment (all patients have
+been taking VPA for more than 3 years). Three years
+earlier, Easterford et al. presented the same results, with
+an incidence corresponding to a 10 times increase of the
+symptoms, but suggesting that dopaminergic neuronal loss
+is not the underlying mechanism, since beta-CIT-SPECT
+scans showed normal results [146]. Nevertheless, short-
+time treatment showed also signiﬁcant incidence. After
+one year of treatment a signiﬁcant increase up to 1.37%
+of parkinsonism or cognitive decline (P/CD) induced by
+VPA was reported [147]. Finally, one patient with short-
+term Valproate-induced Parkinsonism (3 months) has been
+described in [148]. In this case, the authors hypothesized
+that valproic acid acts through damage of the protoplasmic
+astrocytes and the decrease of the number of glioﬁlaments.
+Hyperammonia is a pathology generally associated with
+liver failure. In patients treated by VPA, hyperammonia was
+observed in the absence of liver failure [121], resulting in
+vomiting, ataxia, behavioral changes, lethargy, somnolence,
+or coma. However, it seems that the majority of VPA-
+induced hyperammonia cases in children are asymptomatic
+and can be detected only by blood tests or psychomotor
+speed, reaction time, and memory assessment. It should
+be noted that long-term hyperammonemia can induce
+encephalopathy.
+In a recent study, VPA was involved in an acute ischemic
+stroke in a patient with a mutation of methylenetetrahy-
+drofollate reductase (MTHFR) 677C/T [135]. The rate of
+this mutation, that varies from 5 to 22% of the population,
+results in a decrease in MHTFR activity from 70% to
+30%, for homozygotes and heterozygotes, respectively, which
+induces hyperhomocysteinemia (Hcy), a possible risk factor
+for epilepsy and occlusive vascular disease. It had already
+been reported that Hcy could be exacerbated by the use of
+VPA, by reducing folic acid and Vitamin B12 levels. This
+study highlights the risks associated with VPA treatment for
+this pathology and recommends taking into account family
+epilepsy history to determine the level of Hcy, particularly in
+the case of long-term treatment, in order to promote patient
+survival.
+While the eﬀectiveness of VPA is recognized in the
+treatment of epilepsy, including cases of Juvenile absence
+epilepsy, little is known about the paradoxical eﬀects that this
+molecule can have, for instance, the exacerbation of these
+disorders. This rare phenomenon was described in 2007 for
+a young patient [136].
+6.5. Association between VPA and Liver Damage. For a long
+time, it has been shown that hepatotoxicity induced by VPA
+is greatest in children under 2 years old undergoing polyther-
+apies [138, 139, 149]. The prevalence of hepatotoxicity is 1
+per 618 for this age bracket and decreases to 1 per 10,100
+for ages 11 to 20 years. Exposure of the liver to the VPA
+degradation product is the most likely explanation for cases
+of hepatotoxicity observed during treatment, particularly
+for young children. The VPA degradation product (E)-2,4-
+diene VPA, and two conjugation forms with glutathione as
+N-acethylcystein (NAC) conjugated, NAC1 and NAC2 for
+excretion in urine, seem to be the main factors causing the
+disease [150]. A statistical study, conducted in 2003 [151],
+on groups of young patients treated with VPA in mono- or
+polytherapy type A or B, shows a clear correlation between
+age, dose, and quantity of conjugate found in patient’s
+urine, with an increased excretion with decreasing age, and
+a pronounced eﬀect between 0 and 7.5 years. This study also
+shows the lack of eﬀect of type A polytherapy (non-P450-
+enzyme inducer), in comparison with the monotherapies.
+However, type B polytherapy (P450-enzyme inducer), which
+increases the metabolism of VPA, and thus increases its
+clearance, induces a signiﬁcant increase in the excretion of
+NAC.
+There is a correlation between ages, treatment, and
+amount of conjugate excreted, the latter reﬂecting exposure
+12 Journal of Biomedicine and Biotechnology
+of the liver to VPA degradation products. This correla-
+tion may be predictive, as it is possible, using gas chro-
+matography coupled with mass spectrometry, to determine
+dosage quantities precisely: using these two indices could
+be the most promising indicator for prediction of this side
+eﬀect.
+6.6. VPA and Hematological Disorders. Coagulopathies were
+described in children treated with VPA [123]. More than
+4% of children treated with VPA demonstrate this pathol-
+ogy, but this is likely to be a signiﬁcant underestimate.
+Symptoms found in this disorder are thrombocytopenia,
+platelet dysfunction, Von Wilbrant disease, Factor XIII
+deﬁciency, hypoﬁbrinogenemia, and vitamin K-dependent
+factor deﬁciency.
+Two hypotheses could explain the thrombopenia and
+platelet dysfunction. The ﬁrst is that VPA has a direct
+toxicity on bone marrow, which decreases production of
+neutrophilic and erythroic marrow. The second hypothesis
+involves the inclusion of VPA into the platelet membrane
+(structural and chemical similarity with the fatty acids of
+cell membranes). This membrane modiﬁcation could cause
+autoimmunity, due to the production of immunogobin
+M antibody directed against circulating thrombocytes, but
+this modiﬁcation could also cause simple alteration of
+membrane properties, which could explain the observation
+of thrombocytopenia without decrease in platelet number.
+VPA-induced von-Willebrand disease has been reported as
+having a high prevalence (around 67% in children during
+VPA treatment, and 16% for adult patients). The mechanism
+inducing the pathology has not been elucidated, but vWF
+is downregulated, without dose eﬀect correlation, and the
+pathology is reversible following treatment, or can be cor-
+rected by desmopressin. Vitamin K-dependent coagulopathy
+induced by VPA could imply a competitive mechanism
+between the two molecules for binding sites in plasma—as
+unbound Vitamin K has a shorter half-life—or in one of the
+many metabolic pathways shared by these molecules. VPA-
+associated hypoﬁbrinogenemia does not appear to have a
+major inﬂuence in coagulopathy but is always associated with
+a more important pathology, as described previously, and
+is probably involved in an as yet unknown step in hepatic
+synthesis. VPA-associated factor XIII deﬁciency has been
+described in a few patients, with the involvement of VPA not
+in doubt, because of recovery after treatment and the rarity
+of double mutation. No explanation has yet been advanced
+to explain the phenomenon, but the inﬂuence of VPA in the
+synthesis of other liver factors has been reported on several
+occasions.
+A second side eﬀect of blood type, after the use of VPA
+(or other antiepileptic drugs such as carbamazepine and
+phenytoin), is the development of aplastic anemia [140],
+for which prevalence appears to be increased by more than
+9 times. Just as it has been reported for hepatotoxicity,
+it appears that aplastic anemia has a higher prevalence
+during polytherapy. However, given that aplastic anemia
+is a malfunction of hematopoietic stem cells, inducing a
+break in the production of erythrocytes, the results reported
+in this study contradict those which suggest VPA as a
+potent activator of erythropoiesis in epileptic patients [152].
+This study of 30 young patients treated for more than 3
+months with VPA anticonvulsive doses shows an increase
+of the expression of fetal hemoglobin, with dose-dependent
+stimulation.
+7. Conclusion
+VPA is a molecule exhibiting a wide range of eﬀects
+upon various tissues, pathologies, and patient proﬁles. This
+molecule is capable of altering the expression of more than
+20% of the transcriptome in a tissue-dependent manner.
+Therefore, it is currently very diﬃcult to anticipate all
+the eﬀects that may occur during treatments in mono- or
+polytherapies.
+On one hand, VPA has been used for many years in
+the treatment of convulsive seizures related to epilepsy, as
+a mood stabilizer and in the treatment of schizophrenia.
+More recently, VPA has been involved in clinical trials for
+several other neural disorders or diseases, such as addiction,
+migraine, and ALS. Its eﬃciency in the treatment of cerebral
+alterations is the most described.
+On the other hand, modifying the expression of onco-
+genes or anti-oncogenes could be a proﬁtable strategy in the
+ﬁght against various forms of cancer. In this regard, VPA
+appears to have some undeniable qualities, such as the induc-
+tion of cell death (mainly by apoptosis) and diﬀerentiation,
+and the inhibition of proliferation. Interestingly, it seems that
+healthy cells are much less sensitive to these properties.
+In light of all these observations and considering the
+increase of clinical trials involving VPA, it is highly likely
+that this molecule will be used in many therapies in the
+near future. Nevertheless, numerous publications related to
+therapeutic eﬀects of VPA also mention possible side eﬀects
+associated with treatments. Thus a variety of side eﬀects,
+including coagulopathies, aplastic anemia, hepatotoxicity,
+and teratogenic eﬀects have been reported. Some preexist-
+ing pathologies such as hyperhomocysteinemia or coagu-
+lopathy and pregnancy contraindicate the use of VPA as
+a treatment.
+Balancing therapeutic potentialities with serious side
+eﬀects observed following use of VPA to favor the advan-
+tageous eﬀects will no doubt prove to be a challenging and
+complex issue for clinical management.
+Acknowledgments
+S. Chateauvieux is supported by a T´el´evie fellowship.
+Research in MD’s lab is supported in part by T´el´evie, the
+“Fondation de Recherche Cancer et Sang” and “Recherches
+Scientiﬁques” Luxembourg association. The authors thank
+“Een H¨aerz ﬁr Kriibskrank Kanner” association, the Action
+Lions “Vaincre le Cancer,” and the Foundation for Scien-
+tiﬁc Cooperation between Germany and Luxemburg for
+additional support. Further support was received from the
+European Union (ITN “RedCat” 215009, Interreg IVa project
+“Corena”). Print and editing costs were covered by the Fonds
+National de la Recherche (FNR) Luxembourg.
+Journal of Biomedicine and Biotechnology 13
+References
+[1] B. Burton, “On the propyl derivatives and decomposition
+products of ethylacetoacetate,” American Chemical Journal,
+vol. 3, pp. 385–395, 1882.
+[2] H. Meunier, G. Carraz, Y. Neunier, P. Eymard, and M.
+Aimard, “Pharmacodynamic properties of N-dipropylacetic
+acid,” Th´erapie, vol. 18, pp. 435–438, 1963.
+[3] S. Lebreton, G. Carraz, H. Behriel, and H. Meunier, “Phar-
+macodynamic properties of 2,2-dipropylacetic Acid. III,”
+Therapie, vol. 19, pp. 457–467, 1984.
+[4] S. Lebreton, G. Carraz, H. Meunier, and H. Behriel,
+“Pharmacodynamic properties of 2,2-dipropylacetic Acid. 2d
+report on its anti-epileptic properties,” Therapie, vol. 19, pp.
+451–456, 1964.
+[5] E. Mesdjian, L. Ciesielski, and M. Valli, “Sodium valproate:
+kinetic proﬁle and eﬀects on GABA levels in various brain
+areas of the rat,” Progress in Neuro-Psychopharmacology and
+Biological Psychiatry, vol. 6, no. 3, pp. 223–233, 1982.
+[6] M. L. Zeise, S. Kasparow, and W. Zieglgansberger, “Valproate
+suppresses N-methyl-D-aspartate-evoked transient depolar-
+izations in the rat neocortex in vitro,” Brain Research, vol.
+544, no. 2, pp. 345–348, 1991.
+[7] P.-W. Gean, C.-C. Huang, C.-R. Hung, and J.-J. Tsai,
+“Valproic acid suppresses the synaptic response mediated by
+the NMDA receptors in rat amygdalar slices,” Brain Research
+Bulletin, vol. 33, no. 3, pp. 333–336, 1994.
+[8] A. M. J. VanDongen, M. G. VanErp, and R. A. Voskuyl,
+“Valproate reduces excitability by blockage of sodium and
+potassium conductance,” Epilepsia, vol. 27, no. 3, pp. 177–
+182, 1986.
+[9] S. L. McElroy, P. E. Keck Jr., H. G. Pope Jr., and J. I. Hudson,
+“Valproate in psychiatric disorders: literature review and
+clinical guidelines,” Journal of Clinical Psychiatry, vol. 50,
+supplement, pp. 23–29, 1989.
+[10] J. R. Calabrese and G. A. Delucchi, “Phenomenology of rapid
+cycling manic depression and its treatment with valproate,”
+Journal of Clinical Psychiatry, supplement, pp. 30–34, 1989.
+[11] G. Erenberg, A. D. Rothner, C. E. Henry, and R. P. Cruse,
+“Valproic acid in the treatment of intractable absence seizures
+in children. A single-blind clinical and quantitative EEG
+study,” American Journal of Diseases of Children, vol. 136, no.
+6, pp. 526–529, 1982.
+[12] G. Coppola, G. Auricchio, R. Federico, M. Carotenuto, and
+A. Pascotto, “Lamotrigine versus valproic acid as ﬁrst-line
+monotherapy in newly diagnosed typical absence seizures: an
+open-label, randomized, parallel-group study,” Epilepsia, vol.
+45, no. 9, pp. 1049–1053, 2004.
+[13] J. C. Dean and J. K. Penry, “Valproate monotherapy in 30
+patients with partial seizures,” Epilepsia, vol. 29, no. 2, pp.
+140–144, 1988.
+[14] S. Calleja, J. Salas-Puig, R. Ribacoba, and C. H. Lahoz,
+“Evolution of juvenile myoclonic epilepsy treated from the
+outset with sodium valproate,” Seizure, vol. 10, no. 6, pp.
+424–427, 2001.
+[15] M. L. Friis, “Valproate in the treatment of epilepsy in people
+with intellectual disability,” Journal of Intellectual Disability
+Research, vol. 42, supplement 1, pp. 32–35, 1998.
+[16] R. R. Rosato, J. A. Almenara, and S. Grant, “The histone
+deacetylase inhibitor MS-275 promotes diﬀerentiation or
+apoptosis in human leukemia cells through a process regu-
+lated by generation of reactive oxygen species and induction
+of p21CIP1/WAF1,” Cancer Research, vol. 63, no. 13, pp.
+3637–3645, 2003.
+[17] A. Martirosyan, S. Leonard, X. Shi, B. Griﬃth, P. Gan-
+nett, and J. Strobl, “Actions of a histone deacetylase
+inhibitor NSC3852 (5-nitroso-8-quinolinol) link reactive
+oxygen species to cell diﬀerentiation and apoptosis in MCF-7
+human mammary tumor cells,” Journal of Pharmacology and
+Experimental Therapeutics, vol. 317, no. 2, pp. 546–552, 2006.
+[18] J. Savickiene, V.-V. Borutinskaite, G. Treigyte, K.-E. Mag-
+nusson, and R. Navakauskiene, “The novel histone deacety-
+lase inhibitor BML-210 exerts growth inhibitory, proapop-
+totic and diﬀerentiation stimulating eﬀects on the human
+leukemia cell lines,” European Journal of Pharmacology, vol.
+549, no. 1–3, pp. 9–18, 2006.
+[19] Y. Chen, R.-L. Pan, X.-L. Zhang et al., “Induction of hepatic
+diﬀerentiation of mouse bone marrow stromal stem cells by
+the histone deacetylase inhibitor VPA,” Journal of Cellular and
+Molecular Medicine, vol. 13, no. 8 B, pp. 2582–2592, 2009.
+[20] C. A. Bradbury, F. L. Khanim, R. Hayden et al., “Histone
+deacetylases in acute myeloid leukaemia show a distinctive
+pattern of expression that changes selectively in response to
+deacetylase inhibitors,” Leukemia, vol. 19, no. 10, pp. 1751–
+1759, 2005.
+[21] S. K. Bhattacharya, S. Ramchandani, N. Cervoni, and M.
+Szyf, “A mammalian protein with speciﬁc demethylase
+activity for mCpG DNA,” Nature, vol. 397, no. 6720, pp. 579–
+583, 1999.
+[22] S. Ramchandani, S. K. Bhattacharya, N. Cervoni, and M.
+Szyf, “DNA methylation is a reversible biological signal,”
+Proceedings of the National Academy of Sciences of the United
+States of America, vol. 96, no. 11, pp. 6107–6112, 1999.
+[23] N. Cervoni and M. Szyf, “Demethylase activity is directed by
+histone acetylation,” Journal of Biological Chemistry, vol. 276,
+no. 44, pp. 40778–40787, 2001.
+[24] N. Cervoni, N. Detich, S.-B. Seo, D. Chakravarti, and M.
+Szyf, “The oncoprotein set/TAF-1β, an inhibitor of histone
+acetyltransferase, inhibits active demethylation of DNA,
+integrating DNA methylation and transcriptional silencing,”
+Journal of Biological Chemistry, vol. 277, no. 28, pp. 25026–
+25031, 2002.
+[25] D. C. Marchion, E. Bicaku, A. I. Daud, D. M. Sullivan,
+and P. N. Munster, “Valproic acid alters chromatin structure
+by regulation of chromatin modulation proteins,” Cancer
+Research, vol. 65, no. 9, pp. 3815–3822, 2005.
+[26] K. P. Nightingale, S. Gendreizig, D. A. White, C. Bradbury,
+F. Hollfelder, and B. M. Turner, “Cross-talk between histone
+modiﬁcations in response to histone deacetylase inhibitors:
+MLL4 links histone H3 acetylation and histone H3K4
+methylation,” Journal of Biological Chemistry, vol. 282, no. 7,
+pp. 4408–4416, 2007.
+[27] K. N. Harikrishnan, T. C. Karagiannis, M. Z. Chow, and
+A. El-Osta, “Eﬀect of valproic acid on radiation-induced
+DNA damage in euchromatic and heterochromatic compart-
+ments,” Cell Cycle, vol. 7, no. 4, pp. 468–476, 2008.
+[28] S. Lunke and A. El-Osta, “The emerging role of epigenetic
+modiﬁcations and chromatin remodeling in spinal muscular
+atrophy,” Journal of Neurochemistry, vol. 109, no. 6, pp. 1557–
+1569, 2009.
+[29] S. Minucci and P. G. Pelicci, “Histone deacetylase inhibitors
+and the promise of epigenetic (and more) treatments for
+cancer,” Nature Reviews Cancer, vol. 6, no. 1, pp. 38–51, 2006.
+[30] R. Pastorelli, G. Ferrari, and A. Gozzini, “CML blasts modify
+the acetylation pattern of non histone proteins after short
+chain fatty acid histone deacetylase inhibitor treatment,” The
+American Society of Hematology, vol. 106, no. 11, p. 2884,
+2005.
+14 Journal of Biomedicine and Biotechnology
+[31] T. May and B. Rambeck, “Serum concentrations of valproic
+acid: inﬂuence of dose and comedication,” Therapeutic Drug
+Monitoring, vol. 7, no. 4, pp. 387–390, 1985.
+[32] R. A. Hamilton, W. R. Garnett, B. J. Kline, and J. M. Pellock,
+“Eﬀects of food on valproic acid absorption,” American
+Journal of Hospital Pharmacy, vol. 38, no. 10, pp. 1490–1493,
+1981.
+[33] S. Lefebvre, P. Burlet, Q. Liu et al., “Correlation between
+severity and SMN protein level in spinal muscular atrophy,”
+Nature Genetics, vol. 16, no. 3, pp. 265–269, 1997.
+[34] T. Pan, X. Li, W. Xie, J. Jankovic, and W. Le, “Valproic acid-
+mediated Hsp70 induction and anti-apoptotic neuroprotec-
+tion in SH-SY5Y cells,” FEBS Letters, vol. 579, no. 30, pp.
+6716–6720, 2005.
+[35] P.-S. Chen, G.-S. Peng, G. Li et al., “Valproate protects
+dopaminergic neurons in midbrain neuron/glia cultures
+by stimulating the release of neurotrophic factors from
+astrocytes,” Molecular Psychiatry, vol. 11, no. 12, pp. 1116–
+1125, 2006.
+[36] P. S. Chen, C.-C. Wang, C. D. Bortner et al., “Val-
+proic acid and other histone deacetylase inhibitors induce
+microglial apoptosis and attenuate lipopolysaccharide-
+induced dopaminergic neurotoxicity,” Neuroscience, vol. 149,
+no. 1, pp. 203–212, 2007.
+[37] B. Monti, E. Polazzi, L. Batti, C. Crochemore, M. Virgili, and
+A. Contestabile, “Alpha-synuclein protects cerebellar granule
+neurons against 6-hydroxydopamine-induced death,” Journal
+of Neurochemistry, vol. 103, no. 2, pp. 518–530, 2007.
+[38] B. Monti, V. Gatta, F. Piretti, S. S. Raﬀaelli, M. Virgili,
+and A. Contestabile, “Valproic acid is neuroprotective in the
+rotenone rat model of Parkinson’s disease: involvement of α-
+synuclein,” Neurotoxicity Research, vol. 17, no. 2, pp. 130–140,
+2009.
+[39] I. Pearce, K. W. G. Heathﬁeld, and J. M. S. Pearce, “Valproate
+sodium in Huntington chorea,” Archives of Neurology, vol. 34,
+no. 5, pp. 308–309, 1977.
+[40] D. Z´adori, A. Geisz, E. V´amos, L. V´ecsei, and P. Kliv´enyi,
+“Valproate ameliorates the survival and the motor perfor-
+mance in a transgenic mouse model of Huntington’s disease,”
+Pharmacology Biochemistry and Behavior, vol. 94, no. 1, pp.
+148–153, 2009.
+[41] S. Armeanu, M. Bitzer, U. M. Lauer et al., “Natural killer
+cell-mediated lysis of hepatoma cells via speciﬁc induction of
+NKG2D ligands by the histone deacetylase inhibitor sodium
+valproate,” Cancer Research, vol. 65, no. 14, pp. 6321–6329,
+2005.
+[42] ∅. Kristensen, T. Lølandsmo, ˚A. Isaksen, J.-K. Vederhus, and
+T. Clausen, “Treatment of polydrug-using opiate dependents
+during withdrawal: towards a standardisation of treatment,”
+BMC Psychiatry, vol. 6, article no. 54, 2006.
+[43] G. Lehrman, I. B. Hogue, S. Palmer et al., “Depletion of latent
+HIV-1 infection in vivo: a proof-of-concept study,” Lancet,
+vol. 366, no. 9485, pp. 549–555, 2005.
+[44] N. Sagot-Lerolle, A. Lamine, M.-L. Chaix et al., “Prolonged
+valproic acid treatment does not reduce the size of latent HIV
+reservoir,” AIDS, vol. 22, no. 10, pp. 1125–1129, 2008.
+[45] P. B. Gurpur, J. Liu, D. J. Burkin, and S. J. Kaufman, “Valproic
+acid activates the PI3K/Akt/mTOR pathway in muscle and
+ameliorates pathology in a mouse model of Duchenne
+muscular dystrophy,” American Journal of Pathology, vol. 174,
+no. 3, pp. 999–1008, 2009.
+[46] P. A. Marks, V. M. Richon, and R. A. Rifkind, “Histone
+deacetylase inhibitors: inducers of diﬀerentiation or apop-
+tosis of transformed cells,” Journal of the National Cancer
+Institute, vol. 92, no. 15, pp. 1210–1216, 2000.
+[47] A. Melnick and J. D. Licht, “Histone deacetylases as therapeu-
+tic targets in hematologic malignancies,” Current Opinion in
+Hematology, vol. 9, no. 4, pp. 322–332, 2002.
+[48] D. M. Vigushin and R. C. Coombes, “Histone deacetylase
+inhibitors in cancer treatment,” Anti-Cancer Drugs, vol. 13,
+no. 1, pp. 1–13, 2002.
+[49] Y.-C. Cheng, H. Lin, M.-J. Huang, J.-M. Chow, S. Lin, and H.
+E. Liu, “Downregulation of c-Myc is critical for valproic acid-
+induced growth arrest and myeloid diﬀerentiation of acute
+myeloid leukemia,” Leukemia Research, vol. 31, no. 10, pp.
+1403–1411, 2007.
+[50] M. Schuchmann, H. Schulze-Bergkamen, B. Fleischer
+et al., “Histone deacetylase inhibition by valproic acid
+down-regulates c-FLIP/CASH and sensitizes hepatoma cells
+towards CD95- and TRAIL receptor-mediated apoptosis and
+chemotherapy,” Oncology Reports, vol. 15, no. 1, pp. 227–230,
+2006.
+[51] M. F. Ziauddin, W.-S. Yeow, J. B. Maxhimer et al., “Val-
+proic acid, an antiepileptic drug with histone deacety-
+lase inhibitory activity, potentiates the cytotoxic eﬀect of
+Apo2L/TRAIL on cultured thoracic cancer cells through
+mitochondria-dependent caspase activation,” Neoplasia, vol.
+8, no. 6, pp. 446–457, 2006.
+[52] L. Lagneaux, N. Gillet, B. Stamatopoulos et al., “Valproic
+acid induces apoptosis in chronic lymphocytic leukemia
+cells through activation of the death receptor pathway and
+potentiates TRAIL response,” Experimental Hematology, vol.
+35, no. 10, pp. 1527–1537, 2007.
+[53] G. Iacomino, M. C. Medici, and G. L. Russo, “Valproic
+acid sensitizes K562 erythroleukemia cells to TRAIL/Apo2L-
+induced apoptosis,” Anticancer Research, vol. 28, no. 2A, pp.
+855–864, 2008.
+[54] A. Phillips, T. Bullock, and N. Plant, “Sodium valproate
+induces apoptosis in the rat hepatoma cell line, FaO,”
+Toxicology, vol. 192, no. 2-3, pp. 219–227, 2003.
+[55] A. Angelucci, A. Valentini, D. Millimaggi et al., “Valproic
+acid induces apoptosis in prostate carcinoma cell lines by
+activation of multiple death pathways,” Anti-Cancer Drugs,
+vol. 17, no. 10, pp. 1141–1150, 2006.
+[56] G. Chen, L.-D. Huang, Y.-M. Jiang, and H. K. Manji, “The
+mood-stabilizing agent valproate inhibits the activity of
+glycogen synthase kinase-3,” Journal of Neurochemistry, vol.
+72, no. 3, pp. 1327–1330, 1999.
+[57] Z. Marinova, M. Ren, J. R. Wendland et al., “Valproic acid
+induces functional heat-shock protein 70 via Class I histone
+deacetylase inhibition in cortical neurons: a potential role of
+Sp1 acetylation,” Journal of Neurochemistry, vol. 111, no. 4,
+pp. 976–987, 2009.
+[58] D. Y. Greenblatt, M. A. Cayo, J. T. Adler et al., “Valproic
+acid activates Notch1 signaling and induces apoptosis in
+medullary thyroid cancer cells,” Annals of Surgery, vol. 247,
+no. 6, pp. 1036–1040, 2008.
+[59] A. Lampen, S. Siehler, U. Ellerbeck, M. G¨ottlicher, and H.
+Nau, “New molecular bioassays for the estimation of the
+teratogenic potency of valproic acid derivatives in vitro:
+activation of the peroxisomal proliferator-activated receptor
+(PPARδ),” Toxicology and Applied Pharmacology, vol. 160, no.
+3, pp. 238–249, 1999.
+[60] U. Werling, S. Siehler, M. Litﬁn, H. Nau, and M. G¨ottlicher,
+“Induction of diﬀerentiation in F9 cells and activation of
+peroxisome proliferator-activated receptor δ by valproic acid
+Journal of Biomedicine and Biotechnology 15
+and its teratogenic derivatives,” Molecular Pharmacology, vol.
+59, no. 5, pp. 1269–1276, 2001.
+[61] M. J. Lan, P. Yuan, G. Chen, and H. K. Manji, “Neuronal
+peroxisome proliferator-activated receptor γ signaling: reg-
+ulation by mood-stabilizer valproate,” Journal of Molecular
+Neuroscience, vol. 35, no. 2, pp. 225–234, 2008.
+[62] S. Togi, S. Kamitani, S. Kawakami et al., “HDAC3 inﬂuences
+phosphorylation of STAT3 at serine 727 by interacting with
+PP2A,” Biochemical and Biophysical Research Communica-
+tions, vol. 379, no. 2, pp. 616–620, 2009.
+[63] M. Snyder, X.-Y. Huang, and J. J. Zhang, “Identiﬁcation of
+novel direct Stat3 target genes for control of growth and
+diﬀerentiation,” Journal of Biological Chemistry, vol. 283, no.
+7, pp. 3791–3798, 2008.
+[64] J. Hallas, S. Friis, L. Bjerrum et al., “Cancer risk in long-term
+users of valproate: a population-based case-control study,”
+Cancer Epidemiology Biomarkers and Prevention, vol. 18, no.
+6, pp. 1714–1719, 2009.
+[65] L. Citrome, C. B. Shope, K. A. Nolan, P. Czobor, and J.
+Volavka, “Risperidone alone versus risperidone plus val-
+proate in the treatment of patients with schizophrenia and
+hostility,” International Clinical Psychopharmacology, vol. 22,
+no. 6, pp. 356–362, 2007.
+[66] I. D. Glick, J. Bosch, and D. E. Casey, “A double-blind
+randomized trial of mood stabilizer augmentation using
+lamotrigine and valproate for patients with schizophrenia
+who are stabilized and partially responsive,” Journal of
+Clinical Psychopharmacology, vol. 29, no. 3, pp. 267–271,
+2009.
+[67] M. R. Ashraﬁ, R. Shabanian, G. R. Zamani, and F. Mahfelati,
+“Sodium Valproate versus Propranolol in paediatric migraine
+prophylaxis,” European Journal of Paediatric Neurology, vol. 9,
+no. 5, pp. 333–338, 2005.
+[68] E. Lonergan and J. Luxenberg, “Valproate preparations for
+agitation in dementia,” Cochrane Database of Systematic
+Reviews, no. 3, Article ID CD003945, 2009.
+[69] D. Novick, A. Gonzalez-Pinto, J. M. Haro et al., “Translation
+of randomised controlled trial ﬁndings into clinical practice:
+comparison of olanzapine and valproate in the EMBLEM
+study,” Pharmacopsychiatry, vol. 42, no. 4, pp. 145–152, 2009.
+[70] L. A. Smith, V. R. Cornelius, J. M. Azorin et al., “Valproate for
+the treatment of acute bipolar depression: systematic review
+and meta-analysis,” Journal of Aﬀective Disorders, vol. 122, no.
+1, pp. 1–9, 2009.
+[71] S. Piepers, J. H. Veldink, S. W. de Jong et al., “Randomized
+sequential trial of valproic acid in amyotrophic lateral
+sclerosis,” Annals of Neurology, vol. 66, no. 2, pp. 227–234,
+2009.
+[72] K. J. Swoboda, C. B. Scott, S. P. Reyna et al., “Phase II open
+label study of valproic acid in spinal muscular atrophy,” PLoS
+ONE, vol. 4, no. 5, Article ID e5268, 2009.
+[73] R. P. Agrawal, J. Goswami, S. Jain, and D. K. Kochar,
+“Management of diabetic neuropathy by sodium valproate
+and glyceryl trinitrate spray: a prospective double-blind
+randomized placebo-controlled study,” Diabetes Research and
+Clinical Practice, vol. 83, no. 3, pp. 371–378, 2009.
+[74] C. Moog, G. Kuntz-Simon, C. Caussin-Schwemling, and G.
+Obert, “Sodium valproate, an anticonvulsant drug, stim-
+ulates human immunodeﬁciency virus type 1 replication
+independently of glutathione levels,” Journal of General
+Virology, vol. 77, part 9, pp. 1993–1999, 1996.
+[75] M. Witvrouw, J.-C. Schmit, B. Van Remoortel et al.,
+“Cell type-dependent eﬀect of sodium valproate on human
+immunodeﬁciency virus type 1 replication in vitro,” AIDS
+Research and Human Retroviruses, vol. 13, no. 2, pp. 187–192,
+1997.
+[76] R. N. Shaw, J. L. Arbiser, and M. K. Oﬀermann, “Valproic acid
+induces human herpesvirus 8 lytic gene expression in BCBL-
+1 cells,” AIDS, vol. 14, no. 7, pp. 899–902, 2000.
+[77] M. Lechowicz, D. P. Dittmer, J. Y. Lee et al., “Molecular and
+clinical assessment in the treatment of AIDS Kaposi sarcoma
+with valproic acid,” Clinical Infectious Diseases, vol. 49, no.
+12, pp. 1946–1949, 2009.
+[78] F. L. Khanim, C. A. Bradbury, J. Arrazi et al., “Elevated
+FOSB-expression; a potential marker of valproate sensitivity
+in AML,” British Journal of Haematology, vol. 144, no. 3, pp.
+332–341, 2009.
+[79] A. Kuendgen, C. Strupp, M. Aivado et al., “Treatment of
+myelodysplastic syndromes with valproic acid alone or in
+combination with all-trans retinoic acid,” Blood, vol. 104, no.
+5, pp. 1266–1269, 2004.
+[80] G. Bug, M. Ritter, B. Wassmann et al., “Clinical trial of
+valproic acid and all-trans retinoic acid in patients with poor-
+risk acute myeloid leukemia,” Cancer, vol. 104, no. 12, pp.
+2717–2725, 2005.
+[81] Y. Inoue, T. Suzuki, M. Takimoto et al., “Treatment with
+valproic acid for myeloﬁbrosis with myeloid metaplasia,”
+Annals of Hematology, vol. 84, no. 12, pp. 833–834, 2005.
+[82] A. Kuendgen, S. Knipp, F. Fox et al., “Results of a phase 2
+study of valproic acid alone or in combination with all-trans
+retinoic acid in 75 patients with myelodysplastic syndrome
+and relapsed or refractory acute myeloid leukemia,” Annals
+of Hematology, Supplement, vol. 84, supplement 1, pp. 61–66,
+2005.
+[83] A. Kuendgen, M. Schmid, R. Schlenk et al., “The histone
+deacetylase (HDAC) inhibitor valproic acid as monotherapy
+or in combination with all-trans retinoic acid in patients with
+acute myeloid leukemia,” Cancer, vol. 106, no. 1, pp. 112–119,
+2006.
+[84] A. O. Soriano, H. Yang, S. Faderl et al., “Safety and clinical
+activity of the combination of 5-azacytidine, valproic acid,
+and all-trans retinoic acid in acute myeloid leukemia and
+myelodysplastic syndrome,” Blood, vol. 110, no. 7, pp. 2302–
+2308, 2007.
+[85] M. T. Voso, V. Santini, C. Finelli et al., “Valproic acid at
+therapeutic plasma levels may increase 5-azacytidine eﬃcacy
+in higher risk myelodysplastic syndromes,” Clinical Cancer
+Research, vol. 15, no. 15, pp. 5002–5007, 2009.
+[86] B. Stamatopoulos, N. Meuleman, C. De Bruyn et al.,
+“Antileukemic activity of valproic acid in chronic lym-
+phocytic leukemia B cells deﬁned by microarray analysis,”
+Leukemia, vol. 23, pp. 2281–2289, 2009.
+[87] A. Duenas-Gonzalez, M. Candelaria, C. Perez-Plascencia,
+E. Perez-Cardenas, E. de la Cruz-Hernandez, and L. A.
+Herrera, “Valproic acid as epigenetic cancer drug: preclinical,
+clinical and transcriptional eﬀects on solid tumors,” Cancer
+Treatment Reviews, vol. 34, no. 3, pp. 206–222, 2008.
+[88] A. Chavez-Blanco, C. Perez-Plasencia, E. Perez-Cardenas et
+al., “Antineoplastic eﬀects of the DNA methylation inhibitor
+hydralazine and the histone deacetylase inhibitor valproic
+acid in cancer cell lines,” Cancer Cell International, vol. 6,
+article 2, 2006.
+[89] C.-L. Chen, J. Sung, M. Cohen et al., “Valproic acid inhibits
+invasiveness in bladder cancer but not in prostate cancer
+cells,” Journal of Pharmacology and Experimental Therapeu-
+tics, vol. 319, no. 2, pp. 533–542, 2006.
+[90] P. Thelen, S. Schweyer, B. Hemmerlein, W. Wuttke, F. Seseke,
+and R. H. Ringert, “Expressional changes after histone
+16 Journal of Biomedicine and Biotechnology
+deacetylase inhibition by valproic acid in LNCaP human
+prostate cancer cells,” International Journal of Oncology, vol.
+24, no. 1, pp. 25–31, 2004.
+[91] Q. Xia, J. Sung, W. Chowdhury et al., “Chronic administra-
+tion of valproic acid inhibits prostate cancer cell growth in
+vitro and in vivo,” Cancer Research, vol. 66, no. 14, pp. 7237–
+7244, 2006.
+[92] X. Huang and B. Guo, “Adenomatous polyposis coli deter-
+mines sensitivity to histone deacetylase inhibitor-induced
+apoptosis in colon cancer cells,” Cancer Research, vol. 66, no.
+18, pp. 9245–9251, 2006.
+[93] I. Friedmann, A. Atmaca, K. U. Chow, E. J¨ager, and E. Weid-
+mann, “Synergistic eﬀects of valproic acid and mitomycin C
+in adenocarcinoma cell lines and fresh tumor cells of patients
+with colon cancer,” Journal of Chemotherapy, vol. 18, no. 4,
+pp. 415–420, 2006.
+[94] C. M. Olsen, E. T. M. Meussen-Elholm, L. S. Røste, and
+E. Taubøll, “Antiepileptic drugs inhibit cell growth in the
+human breast cancer cell line MCF7,” Molecular and Cellular
+Endocrinology, vol. 213, no. 2, pp. 173–179, 2004.
+[95] N. P. Mongan and L. J. Gudas, “Valproic acid, in combina-
+tion with all-trans retinoic acid and 5-aza-2’-deoxycytidine,
+restores expression of silenced RARβ2 in breast cancer cells,”
+Molecular Cancer Therapeutics, vol. 4, no. 3, pp. 477–486,
+2005.
+[96] L. Hodges-Gallagher, C. D. Valentine, S. E. Bader, and P.
+J. Kushner, “Inhibition of histone deacetylase enhances the
+anti-proliferative action of antiestrogens on breast cancer
+cells and blocks tamoxifen-induced proliferation of uterine
+cells,” Breast Cancer Research and Treatment, vol. 105, no. 3,
+pp. 297–309, 2007.
+[97] A. Pathil, S. Armeanu, S. Venturelli et al., “HDAC
+inhibitor treatment of hepatoma cells induces both TRAIL-
+independent apoptosis and restoration of sensitivity to
+TRAIL,” Hepatology, vol. 43, no. 3, pp. 425–434, 2006.
+[98] J. Cinatl Jr., J. Cinatl, M. Scholz et al., “Antitumor activity of
+sodium valproate in cultures of human neuroblastoma cells,”
+Anti-Cancer Drugs, vol. 7, no. 7, pp. 766–773, 1996.
+[99] M. Michaelis, T. Suhan, J. Cinatl, P. H. Driever, and J. Cinatl
+Jr., “Valproic acid and interferon-alpha synergistically inhibit
+neuroblastoma cell growth in vitro and in vivo,” International
+Journal of Oncology, vol. 25, no. 6, pp. 1795–1799, 2004.
+[100] C. L. Bacon, E. O’Driscoll, and C. M. Regan, “Valproic
+acid suppresses G1 phase-dependent sialylation of a 65 kDa
+glycoprotein in the C6 glioma cell cycle,” International
+Journal of Developmental Neuroscience, vol. 15, no. 6, pp. 777–
+784, 1997.
+[101] C. M. Das, D. Aguilera, H. Vasquez et al., “Valproic acid
+induces p21 and topoisomerase-II (α/β) expression and
+synergistically enhances etoposide cytotoxicity in human
+glioblastoma cell lines,” Journal of Neuro-Oncology, vol. 85,
+no. 2, pp. 159–170, 2007.
+[102] M. G. Catalano, N. Fortunati, M. Pugliese et al., “Valproic
+acid induces apoptosis and cell cycle arrest in poorly diﬀeren-
+tiated thyroid cancer cells,” Journal of Clinical Endocrinology
+and Metabolism, vol. 90, no. 3, pp. 1383–1389, 2005.
+[103] A. Atmaca, S.-E. Al-Batran, A. Maurer et al., “Valproic acid
+(VPA) in patients with refractory advanced cancer: a dose
+escalating phase I clinical trial,” British Journal of Cancer, vol.
+97, no. 2, pp. 177–182, 2007.
+[104] C. Arce, C. P´erez-Plasencia, A. Gonz´alez-Fierro et al.,
+“A proof-of-principle study of epigenetics therapy added
+to neoadjuvant doxorubicin cyclophosphamide for locally
+advanced breast cancer,” PLoS One, vol. 1, no. 1, article e98,
+2006.
+[105] P. Munster, D. Marchion, E. Bicaku et al., “Clinical and
+biological eﬀects of valproic acid as a histone deacetylase
+inhibitor on tumor and surrogate tissues: phase I/II trial of
+valproic acid and epirubicin/FEC,” Clinical Cancer Research,
+vol. 15, no. 7, pp. 2488–2496, 2009.
+[106] A. I. Daud, J. Dawson, R. C. DeConti et al., “Potentiation
+of a topoisomerase I inhibitor, karenitecin, by the histone
+deacetylase inhibitor valproic acid in melanoma: transla-
+tional and phase l/ll clinical trial,” Clinical Cancer Research,
+vol. 15, no. 7, pp. 2479–2487, 2009.
+[107] A. Rocca, S. Minucci, G. Tosti et al., “A phase I-II study of
+the histone deacetylase inhibitor valproic acid plus chemoim-
+munotherapy in patients with advanced melanoma,” British
+Journal of Cancer, vol. 100, no. 1, pp. 28–36, 2009.
+[108] S. Sharma, J. Symanowski, B. Wong, et al., “A phase II clinical
+trial of oral valproic acid in patients with castration-resistant
+prostate cancers using an intensive biomarker sampling
+strategy,” Translational Oncology, vol. 1, no. 3, pp. 141–147,
+2008.
+[109] H.-Y. Yu, Y.-Z. Shen, Y. Sugiyama, and M. Hanano, “Drug
+interaction. Eﬀects of salicylate on pharmacokinetics of
+valproic acid in rats,” Drug Metabolism and Disposition, vol.
+18, no. 1, pp. 121–126, 1990.
+[110] D. Battino, M. Estienne, and G. Avanzini, “Clinical pharma-
+cokinetics of antiepileptic drugs in paediatric patients. Part I:
+phenobarbital, primidone, valproic acid, ethosuximide and
+mesuximide,” Clinical Pharmacokinetics, vol. 29, no. 4, pp.
+257–286, 1995.
+[111] N. Yamamura, K. Imura, H. Naganuma, and K. Nishimura,
+“Panipenem, a carbapenem antibiotic, enhances the glu-
+curonidation of intravenously administered valproic acid in
+rats,” Drug Metabolism and Disposition, vol. 27, no. 6, pp.
+724–730, 1999.
+[112] K. Yokogawa, S. Iwashita, A. Kubota et al., “Eﬀect of
+meropenem on disposition kinetics of valproate and its
+metabolites in rabbits,” Pharmaceutical Research, vol. 18, no.
+9, pp. 1320–1326, 2001.
+[113] B. Rambeck and P. Wolf, “Lamotrigine clinical pharmacoki-
+netics,” Clinical Pharmacokinetics, vol. 25, no. 6, pp. 433–443,
+1993.
+[114] T. W. May, B. Rambeck, and U. J¨urgens, “Serum concentra-
+tions of lamotrigine in epileptic patients: the inﬂuence of
+dose and comedication,” Therapeutic Drug Monitoring, vol.
+18, no. 5, pp. 523–531, 1996.
+[115] D. Battino, D. Croci, T. Granata, M. Estienne, F. Pisani,
+and G. Avanzini, “Lamotrigine plasma concentrations in
+children and adults: inﬂuence of age and associated therapy,”
+Therapeutic Drug Monitoring, vol. 19, no. 6, pp. 620–627,
+1997.
+[116] H. Arif, R. Buchsbaum, D. Weintraub et al., “Comparison
+and predictors of rash associated with 15 antiepileptic drugs,”
+Neurology, vol. 68, no. 20, pp. 1701–1709, 2007.
+[117] N. Levi, S. Bastuji-Garin, M. Mockenhaupt et al., “Med-
+ications as risk factors of stevens-johnson syndrome and
+toxic epidermal necrolysis in children: a pooled analysis,”
+Pediatrics, vol. 123, no. 2, pp. e297–e304, 2009.
+[118] R. V. A. Sheorajpanday and P. P. De Deyn, “Epileptic
+ﬁts and epilepsy in the elderly: general reﬂections, speciﬁc
+issues and therapeutic implications,” Clinical Neurology and
+Neurosurgery, vol. 109, no. 9, pp. 727–743, 2007.
+Journal of Biomedicine and Biotechnology 17
+[119] E. Longin, M. Teich, W. Koelfen, and S. K¨onig, “Topiramate
+enhances the risk of valproate-associated side eﬀects in three
+children,” Epilepsia, vol. 43, no. 4, pp. 451–454, 2002.
+[120] T. Gerstner, D. Buesing, E. Longin et al., “Valproic acid
+induced encephalopathy—19 new cases in Germany from
+1994 to 2003—a side eﬀect associated to VPA-therapy not
+only in young children,” Seizure, vol. 15, no. 6, pp. 443–448,
+2006.
+[121] J. Nicolai, A. P. Aldenkamp, J. R. Huizenga, L. K. Teune,
+and O. F. Brouwer, “Cognitive side eﬀects of valproic
+acid-induced hyperammonemia in children with epilepsy,”
+Journal of Clinical Psychopharmacology, vol. 27, no. 2, pp.
+221–224, 2007.
+[122] I. Bhattacharya and K. M. Boje, “GHB (γ-hydroxybutyrate)
+carrier-mediated transport across the blood-brain barrier,”
+Journal of Pharmacology and Experimental Therapeutics, vol.
+311, no. 1, pp. 92–98, 2004.
+[123] T. Gerstner, M. Teich, N. Bell et al., “Valproate-associated
+coagulopathies are frequent and variable in children,” Epilep-
+sia, vol. 47, no. 7, pp. 1136–1143, 2006.
+[124] J. A. Woyach, R. T. Kloos, M. D. Ringel et al., “Lack
+of therapeutic eﬀect of the histone deacetylase inhibitor
+vorinostat in patients with metastatic radioiodine-refractory
+thyroid carcinoma,” Journal of Clinical Endocrinology and
+Metabolism, vol. 94, no. 1, pp. 164–170, 2009.
+[125] J. R. Hardy, E. A. J. Rees, B. Gwilliam, J. Ling, K. Broadley,
+and R. A’Hern, “A Phase II study to establish the eﬃcacy
+and toxicity of sodium valproate in patients with cancer-
+related neuropathic pain,” Journal of Pain and Symptom
+Management, vol. 21, no. 3, pp. 204–209, 2001.
+[126] B. Schmitt, F. Martin, H. Critelli, L. Molinari, and O. G. Jenni,
+“Eﬀects of valproic acid on sleep in children with epilepsy,”
+Epilepsia, vol. 50, no. 8, pp. 1860–1867, 2009.
+[127] E. C. Wirrell, “Valproic acid-associated weight gain in older
+children and teens with epilepsy,” Pediatric Neurology, vol. 28,
+no. 2, pp. 126–129, 2003.
+[128] S. Grosso, R. Mostardini, B. Piccini, and P. Balestri, “Body
+mass index and serum lipid changes during treatment
+with valproic acid in children with epilepsy,” Annals of
+Pharmacotherapy, vol. 43, no. 1, pp. 45–50, 2009.
+[129] N. Ubeda-Martin, E. Alonso-Aperte, M. Achon, G. Varela-
+Moreiras, J. Puerta, and J. Perez de Miguelsanz, “Morpho-
+logical alterations induced by valproate and its concomitant
+administration of folic acid or S-adenosylmethionine in
+pregnant rats,” Nutricion Hospitalaria, vol. 13, no. 1, pp. 41–
+49, 1998.
+[130] J. Clayton-Smith and D. Donnai, “Fetal valproate syndrome,”
+Journal of Medical Genetics, vol. 32, no. 9, pp. 724–727, 1995.
+[131] P. Genton, F. Semah, and E. Trinka, “Valproic acid in epilepsy:
+pregnancy-related issues,” Drug Safety, vol. 29, no. 1, pp. 1–
+21, 2006.
+[132] A. Ornoy, “Valproic acid in pregnancy: how much are we
+endangering the embryo and fetus?” Reproductive Toxicology,
+vol. 28, no. 1, pp. 1–10, 2009.
+[133] K. J. Meador, G. A. Baker, N. Browning et al., “Cognitive
+function at 3 years of age after fetal exposure to antiepileptic
+drugs,” New England Journal of Medicine, vol. 360, no. 16, pp.
+1597–1605, 2009.
+[134] K. J. Meador, P. Penovich, G. A. Baker et al., “Antiepileptic
+drug use in women of childbearing age,” Epilepsy and
+Behavior, vol. 15, no. 3, pp. 339–343, 2009.
+[135] A. O. Varoglu, “Na VPA-induced acute ischemic stroke in an
+epileptic patient with methylenetetrahydrofolate reductase
+gene polymorphism,” Epilepsy Research, vol. 86, no. 2-3, pp.
+232–236, 2009.
+[136] R. D. Buechler and J. R. Buchhalter, “Juvenile Absence
+Epilepsy Exacerbated by Valproic Acid,” Pediatric Neurology,
+vol. 36, no. 2, pp. 121–124, 2007.
+[137] D. Jamora, S.-H. Lim, A. Pan, L. Tan, and E.-K. Tan,
+“Valproate-induced Parkinsonism in epilepsy patients,”
+Movement Disorders, vol. 22, no. 1, pp. 130–133, 2007.
+[138] F. E. Dreifuss, N. Santilli, and D. H. Langer, “Valproic acid
+hepatic fatalities: a retrospective review,” Neurology, vol. 37,
+no. 3, pp. 379–385, 1987.
+[139] F. E. Dreifuss, D. H. Langer, K. A. Moline, and J. E. Maxwell,
+“Valproic acid hepatic fatalities. II. US experience since 1984,”
+Neurology, vol. 39, no. 2 I, pp. 201–207, 1989.
+[140] K. B. Handoko, P. C. Souverein, T. P. van Staa et al., “Risk
+of aplastic anemia in patients using antiepileptic drugs,”
+Epilepsia, vol. 47, no. 7, pp. 1232–1236, 2006.
+[141] S. Brenner, R. Wolf, M. Landau, and Y. Politi, “Psoriasiform
+eruption induced by anticonvulsants,” Israel Journal of Medi-
+cal Sciences, vol. 30, no. 4, pp. 283–286, 1994.
+[142] M. Baba, M. Karakas¸, V. L. Aksungur et al., “The anticon-
+vulsant hypersensitivity syndrome,” Journal of the European
+Academy of Dermatology and Venereology, vol. 17, no. 4, pp.
+399–401, 2003.
+[143] C. L. Harden and N. K. Sethi, “Epileptic disorders in
+pregnancy: an overview,” Current Opinion in Obstetrics and
+Gynecology, vol. 20, no. 6, pp. 557–562, 2008.
+[144] E. Alonso-Aperte, N. Ubeda, M. Ach´on, J. P´erez-Miguelsanz,
+and G. Varela-Moreiras, “Impaired methionine synthesis
+and hypomethylation in rats exposed to valproate during
+gestation,” Neurology, vol. 52, no. 4, pp. 750–756, 1999.
+[145] P. Kwan and M. J. Brodie, “Neuropsychological eﬀects of
+epilepsy and antiepileptic drugs,” Lancet, vol. 357, no. 9251,
+pp. 216–222, 2001.
+[146] K. Easterford, P. Clough, M. Kellett, K. Fallonand, and S.
+Duncan, “Reversible parkinsonism with normal beta-CIT-
+SPECT in patients exposed to sodium valproate,” Neurology,
+vol. 62, no. 8, pp. 1435–1437, 2004.
+[147] A. J. Risti´c, N. Vojvodi´c, S. Jankovi´c, A. Sindeli´c, and D. Soki´c,
+“The frequency of reversible parkinsonism and cognitive
+decline associated with valproate treatment: a study of 364
+patients with diﬀerent types of epilepsy,” Epilepsia, vol. 47,
+no. 12, pp. 2183–2185, 2006.
+[148] G. P. Sechi, M. Conti, G. F. Sau, and G. A. Cocco, “Valproate-
+induced parkinsonism, glial cells and Alexander’s disease,”
+Progress in Neuro-Psychopharmacology and Biological Psychi-
+atry, vol. 32, no. 5, pp. 1351–1352, 2008.
+[149] A. E. Bryant III and F. E. Dreifuss, “Valproic acid hepatic
+fatalities. III. U.S. experience since 1986,” Neurology, vol. 46,
+no. 2, pp. 465–469, 1996.
+[150] K. Kassahun, K. Farrell, and F. Abbott, “Identiﬁcation and
+characterization of the glutathione and N-acetylcysteine
+conjugates of (E)-2-propyl-2,4-pentadienoic acid, a toxic
+metabolite of valproic acid, in rats and humans,” Drug
+Metabolism and Disposition, vol. 19, no. 2, pp. 525–535, 1991.
+[151] S. Gopaul, K. Farrell, and F. Abbott, “Eﬀects of age and poly-
+therapy, risk factors of valproic acid (VPA) hepatotoxicity,
+on the excretion of thiol conjugates of (E)-2,4-diene VPA in
+people with epilepsy taking VPA,” Epilepsia, vol. 44, no. 3, pp.
+322–328, 2003.
+18 Journal of Biomedicine and Biotechnology
+[152] M. Kieslich, D. Schwabe, J. Cinatl Jr., and P. Hern´aiz
+Driever, “Increase of fetal hemoglobin synthesis indicating
+diﬀerentiation induction in children receiving valproic acid,”
+Pediatric Hematology and Oncology, vol. 20, no. 1, pp. 15–22,
+2003.
+

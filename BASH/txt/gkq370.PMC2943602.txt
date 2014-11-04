@@ -1,0 +1,1586 @@
+SURVEY AND SUMMARY
+InTERTpreting telomerase structure and function
+Haley D. M. Wyatt1
+, Stephen C. West1,
+* and Tara L. Beattie2
+1
+London Research Institute, Cancer Research UK, Clare Hall Laboratories, South Mimms, EN6 3LD, UK
+and 2
+Southern Alberta Cancer Research Institute and Departments of Biochemistry and Molecular
+Biology and Oncology, Calgary, Alberta, T2N 4N1, Canada
+Received January 13, 2010; Revised April 20, 2010; Accepted April 26, 2010
+ABSTRACT
+The Nobel Prize in Physiology or Medicine was
+recently awarded to Elizabeth Blackburn, Carol
+Greider and Jack Szostak for their pioneering
+studies on chromosome termini (telomeres) and
+their discovery of telomerase, the enzyme that syn-
+thesizes telomeres. Telomerase is a unique cellular
+reverse transcriptase that contains an integral RNA
+subunit, the telomerase RNA and a catalytic protein
+subunit, the telomerase reverse transcriptase
+(TERT), as well as several species-specific acces-
+sory proteins. Telomerase is essential for genome
+stability and is associated with a broad spectrum
+of human diseases including various forms of
+cancer, bone marrow failure and pulmonary
+fibrosis. A better understanding of telomerase
+structure and function will shed important insights
+into how this enzyme contributes to human disease.
+To this end, a series of high-resolution structural
+studies have provided critical information on TERT
+architecture and may ultimately elucidate novel
+targets for therapeutic intervention. In this review,
+we discuss the current knowledge of TERT structure
+and function, revealed through the detailed analysis
+of TERT from model organisms. To emphasize the
+physiological importance of telomeres and telomer-
+ase, we also present a general discussion of the
+human diseases associated with telomerase
+dysfunction.
+INTRODUCTION
+Telomeres are essential nucleoprotein structures that
+deﬁne the terminal segments of linear chromosomes. In
+eukaryotes, telomeres are essential for genome stability,
+functioning to prevent chromosome ends from being
+recognized and processed as bona ﬁde DNA double-strand
+(ds) breaks. Importantly, telomeres also provide a solution
+to the ‘end-replication problem’, which was ﬁrst proposed
+by Olovnikov and Watson in the early 1970s (1–3). This
+model predicts that during the process of DNA replica-
+tion, a small amount of DNA from the 30
+-ends of linear
+chromosomes is left unreplicated. As a result, chromo-
+some 30
+-ends progressively shorten during consecutive
+cell divisions, which limits cellular lifespan (1–3).
+Chromosome ends that lack suﬃcient telomeric repeats
+are prone to recombination and fusion with other pieces
+of genomic DNA, events that can interfere with normal
+cell cycle progression and promote genetic instability.
+Thus, telomeres provide a protective cap for the ends of
+linear chromosomes.
+One universal feature of telomeric DNA is the organ-
+ization into a C/A-rich strand and a complementary
+G/T-rich strand. Telomeric DNA almost always
+contains tandem repeats of simple, species-speciﬁc
+sequences that are 6–8 nucleotides (nt) long [e.g. (TTAG
+GG)n in mammals]. Another conserved feature of telomer-
+ic DNA is the organization into a ds segment with a
+single-stranded (ss) 30
+-overhang. Electron microscopic
+analysis of psoralen cross-linked human and mouse telo-
+meric DNA revealed large lariat-like structures containing
+thousands of TTAGGG repeats (4). These structures are
+known as telomere-loops (t-loops) and are postulated to
+be formed and stabilized by invasion of the telomeric
+30
+-overhang into the duplex repeat array (4). Telomere
+loops have also been detected in trypanosomes (5),
+ciliates (6), plants (7), nematodes (8) and some strains of
+yeast (9,10). The existence of t-loops provides an attractive
+model that could explain how ss chromosome ends are
+protected from degradation, recombination and fusion
+(11). However, the molecular mechanism(s) that regulate
+t-loop formation in vivo remain to be elucidated. If living
+cells do contain t-loops, one interesting possibility is that
+telomeres may adopt alternative conformations at speciﬁc
+stages of the cell cycle (12). The identiﬁcation of novel,
+cell-cycle-speciﬁc telomere-associated proteins will provide
+important insights into telomere dynamics and length
+regulation in vivo.
+*To whom correspondence should be addressed. Tel: +44 1707 625868; Fax: +44 1707 625801; Email: stephen.west@cancer.org.uk
+Published online 11 May 2010 Nucleic Acids Research, 2010, Vol. 38, No. 17 5609–5622
+doi:10.1093/nar/gkq370
+ß The Author(s) 2010. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.5), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Various proteins have been shown to associate with
+telomeric DNA and are implicated in the formation and
+maintenance of telomere architecture. These proteins are
+the focus of excellent reviews by Linger and Price (13) and
+Palm and de Lange (11), and will not be discussed in detail
+in this article. One general concept, however, relates to the
+evolution of telomere-associated proteins. Although
+telomere function is conserved in diverse organisms,
+the architecture and composition of telomere-associated
+proteins is remarkably varied and seems to have
+changed rapidly during evolution (13). For example,
+human telomeres are bound by a six-protein complex
+called shelterin, comprised of TRF1, TRF2, POT1,
+RAP1, TIN2 and TPP1, which interacts with ss and ds
+telomeric DNA (11). In contrast, budding yeast telomeres
+are bound by two separate protein complexes (13). One
+contains the Cdc13, Stn1 and Ten1 proteins and binds the
+G-rich 30
+-overhang (14). The other, which binds duplex
+telomeric DNA, is minimally composed of Rap1, Rif1
+and Rif2 (15). Despite these diﬀerences in composition,
+however, the telomere-associated proteins have a
+conserved function, which is to assemble a protective
+cap that ensures telomeres are maintained at an appropri-
+ate length and are protected from being recognized and
+processed as broken DNA. The ability to perform this
+task is facilitated by additional species-speciﬁc protein–
+protein interactions (11,13).
+De novo synthesis of telomeric DNA in most eukaryotes
+is performed by the cellular ribonucleoprotein reverse
+transcriptase (RT) telomerase. Originally discovered by
+Carol Greider and Elizabeth Blackburn in the ciliate
+Tetrahymena thermophila (16–18), telomerase is a unique
+RT that contains a catalytic protein subunit, the telomer-
+ase RT (TERT), the telomerase RNA (TR) and species-
+speciﬁc accessory proteins. Telomere synthesis involves
+TERT-catalyzed reverse transcription of a small
+template region within TR and telomerase activity can
+be reconstituted in rabbit reticulocyte lysates by
+co-expressing the TERT and TR subunits (19–21).
+Importantly, species-speciﬁc accessory proteins regulate
+telomerase biogenesis, subcellular localization and
+function in vivo. For example, mass spectrometric
+analysis of aﬃnity-puriﬁed telomerase from HeLa cells
+has identiﬁed integral protein components of human tel-
+omerase: dyskerin, NHP2, NOP10, pontin/reptin and
+TCAB1 (22–25). Dyskerin, NHP2 and NOP10 are
+required for the stability and accumulation of human tel-
+omerase RNA (hTR) in vivo (22). Similarly, pontin and
+reptin are two closely related ATPases necessary for the
+stability of dyskerin and hTR in vivo (24). The current
+model is that dyskerin, pontin and reptin form a scaﬀold
+that recruits and stabilizes hTR, and assembles the tel-
+omerase ribonucleoprotein particle. Once this complex is
+formed, pontin and reptin are thought to dissociate from
+the complex and yield the catalytically active enzyme (24).
+The subcellular localization of telomerase appears to be
+regulated by the recently identiﬁed protein TCAB1 (25).
+Further studies are needed to elucidate the biochemical
+and molecular signiﬁcance of the intricate network of
+protein–protein and protein–nucleic acid interactions
+within the telomerase holoenzyme. Moreover, it will be
+important to investigate whether the composition of the
+holoenzyme changes in speciﬁc stages of the cell cycle.
+This information will provide important insight into
+how human telomerase functions in vivo. Notably, the
+composition of the telomerase holoenzyme varies signiﬁ-
+cantly between species and the reader is referred to Collins
+(26) and Gallardo and Chartrand (27) for excellent
+reviews of this topic.
+THE TELOMERASE RT SUBUNIT
+The catalytic core of telomerase is composed of the RNA
+subunit (TR) and the catalytic protein subunit (TERT),
+whereas the holoenzyme contains additional
+species-speciﬁc accessory proteins. The ﬁrst TERT
+subunits were identiﬁed through genetic screens in yeast
+(28) and the biochemical puriﬁcation of Euplotes
+aediculatus telomerase (29,30). The E. aediculatus protein
+was identiﬁed as a homolog of the yeast protein and
+sequence comparison with prototypical RTs revealed an
+evolutionarily conserved RT domain in both proteins (30).
+The ﬁrst direct evidence that TERT was the catalytic
+subunit of telomerase came from in vivo studies showing
+that substitution of evolutionarily conserved residues
+within the RT catalytic triad of the yeast protein caused
+telomere shortening and cellular senescence in vivo and
+eliminated enzymatic activity in vitro (30). TERT
+homologs were subsequently identiﬁed in humans,
+rodents and ciliates (21,31–35). Further evidence that
+TERT was the catalytic subunit of human and
+T. thermophila telomerase came from studies showing
+that telomerase activity could be reconstituted in vitro by
+co-expressing wild-type TERT and TR in rabbit reticulo-
+cyte lysates (19–21). These studies were also the ﬁrst to
+demonstrate that TERT and TR were suﬃcient to recon-
+stitute telomerase activity in vitro (19–21), although it is
+important to note that rabbit reticulocyte lysates contain
+endogenous proteins that interact with telomerase to fa-
+cilitate its assembly and activity [e.g. heat shock (36) and
+chaperone (37) proteins].
+Bioinformatics and mutational studies have collectively
+established that TERT contains three main structural
+elements: (i) a long N-terminal extension that contains
+conserved DNA- and RNA-binding domains; (ii) a
+central catalytic RT domain; and (iii) a short C-terminal
+extension (38). To exemplify this domain organization, the
+predicted linear architecture of human TERT (hTERT) is
+illustrated in Figure 1A. Although this organization
+deﬁnes almost all TERT proteins, there are a few
+notable exceptions. First, certain insect and nematode
+TERTs harbor a truncated N-terminus that does not
+contain the telomerase essential N-terminal (TEN)
+domain (39,40). Second, the C-terminal region is absent
+from Giardia lamblia and nematode TERTs (40). Third,
+Plasmodium falciparum TERT contains an abundance of
+hypervariable insertions between the conserved domains
+and is at least three times larger than all other TERT
+proteins (41). The biological signiﬁcance of this divergent
+architecture is not clear and it will be interesting to
+5610 Nucleic Acids Research, 2010, Vol. 38, No. 17
+determine if other TERT domains and/or cellular proteins
+compensate for the missing domains in vivo.
+A potential advance in our understanding of telomerase
+architecture came from the recent atomic-resolution struc-
+ture of a protein thought to represent full-length Tribolium
+castaneum (ﬂour beetle) TERT, in complex with an 18-nt
+telomeric oligonucleotide (42). However, whether this
+protein truly represents a telomerase is currently contro-
+versial. Formal proof that this T. castaneum protein rep-
+resents the catalytic TERT subunit remains to be
+demonstrated, which is an important question to address
+given the complex evolution of telomerase and telomere-
+maintenance in insects (39,43). For example, Dipteran
+insects (e.g. mosquitoes) lack telomerase activity and
+maintain their telomeres via recombination-based mech-
+anisms, whereas Arthropods (e.g. silkworm) have
+pentanucleotide (TTAGG)n telomeric repeats and
+contain detectable levels of telomerase activity (39,43).
+Interestingly, the predicted T. castaneum TERT lacks a
+signiﬁcant portion of the N-terminus that is critical for
+telomerase activity in ciliates, yeast and humans (42).
+One possibility is that T. castaneum TERT may be
+inactive, which would be supported by the absence of ca-
+nonical telomeric repeats in this insect. Another predic-
+tion, which cannot be excluded in the absence of
+biochemical support for telomerase activity, is that the
+putative TERT represents a non-telomerase RT. Despite
+these potential caveats, the crystal structure reported by
+Skordalakes and colleagues (42) represents an important
+snapshot of a TERT-like protein and provides the basis
+for structural comparisons with other TERTs.
+The T. castaneum TERT structure suggests a
+ring-shaped protein held together by extensive hydropho-
+bic interactions between the N- and C-terminal regions
+(Figure 1B) (42). This architecture is congruent with
+previous biochemical studies of human and Euplotes
+crassus TERT, which revealed physical interactions
+between N- and C-terminal domains (44–46). The ring-
+like structure of TERT is akin to that of other nucleic
+acid polymerases, including that of human immunodeﬁ-
+ciency virus (HIV), and contains the hallmark ‘thumb’,
+‘palm’ and ‘ﬁngers’ motifs (Figure 1A and B) (42).
+Notably, the interior dimensions of the TERT ring struc-
+ture predict that it can accommodate seven or eight base
+pairs of ds nucleic acid (42). This is consistent with
+previous biochemical studies demonstrating that the
+RNA–DNA duplex in the telomerase active site is main-
+tained at a length of seven to eight base pairs (47,48). The
+ring’s interior is lined with amino acids that mediate
+protein–nucleic acid interactions, nucleotide binding and
+DNA synthesis in yeast and hTERT (49–54). An import-
+ant future challenge will be to determine the high-
+resolution structure of TERT in complex with its
+integral RNA subunit and/or additional protein compo-
+nents. Towards this goal, recent studies allowed the deter-
+mination of the crystal structure of the T. castaneum
+TERT in complex with a short RNA–DNA hybrid
+designed to resemble the putative RNA-templating
+Figure 1. Structural organization of the TERT. (A) Predicted linear architecture of hTERT. In most organisms, TERT contains a long N-terminal
+extension (NTE), a central catalytic RT domain and a short C-terminal extension (CTE). Green boxes indicate the predicted locations of the
+telomerase essential N-terminal (TEN) domain and the telomerase-speciﬁc motifs CP, QFP and TS. Blue boxes indicate the TRBD, containing the
+CP motif, QFP motif and part of the TS motif. An unstructured linker region connects the TEN domain and TRBD. Orange and tan boxes represent
+the seven evolutionarily conserved motifs in the RT domain (1, 2, A, B0
+, C, D, E) and a red box illustrates the telomerase-speciﬁc IFD. The CTE
+contains four blocks of conserved amino acids, which are shown as pink boxes (E-I, E-II, E-III, E-IV). (B) Domain organization of the protein
+predicted to be T. castaneum TERT (cartoon and surface representation), reprinted with permission from ref. (42). The protein is organized into a
+ring-shaped structure, containing hallmark ‘thumb’ (red), ‘palm’ (tan) and ‘ﬁngers’ (orange) motifs. The telomerase-speciﬁc TRBD is shown in violet.
+The color scheme used in (A) corresponds to that shown in (B).
+Nucleic Acids Research, 2010, Vol. 38, No. 17 5611
+region and complementary DNA sequence (55). One po-
+tential caveat to this study, however, is that the RNA
+component of this telomerase is not known and therefore,
+the physical contacts observed in this structure may be
+signiﬁcantly diﬀerent than those that occur in the
+presence of the biological RNA subunit and telomeric
+chromatin. An equally important challenge will be to
+solve the crystal structure of full length TERT from an
+organism with well-characterized telomerase activity.
+The TERT N-terminal extension
+The N-terminal extension of most TERTs contains two
+conserved domains, the TEN domain and telomerase
+RNA-binding domain (TRBD) (Figure 1A). High-
+resolution structures of the T. thermophila TEN domain
+and TRBD indicate that both of these regions represent
+novel protein folds involved in binding ss nucleic acids
+(56,57). In between these domains is a relatively long
+and unstructured linker region that may be important
+for conformational ﬂexibility within the holoenzyme
+(Figure 1A). The N-terminal extension also contains
+several conserved telomerase-speciﬁc motifs, including
+the CP, QFP and TS motifs (Figure 1A) (58,59). These
+regions are important for TERT-TR binding interactions
+and the rate of template copying during telomere synthe-
+sis (19,58,60–69), and may thus be amenable to thera-
+peutic interventions that inhibit or augment telomerase
+activity.
+The crystal structure of the T. thermophila TRBD
+reveals that it is organized into two asymmetric lobes
+that contain residues from the CP and TS motifs
+(Figure 2A) (56). The two halves are connected by
+extended loops that impart the domain with structural
+ﬂexibility (56). Hydrophilic and hydrophobic CP and TS
+residues form an extended RNA-binding groove on the
+surface of the domain. The dimensions of this cavity
+reveal a relatively wide hydrophilic pocket that could ac-
+commodate dsRNA and a narrow hydrophobic pocket
+that could accommodate ssRNA (56). In the context of
+full-length T. castaneum TERT, the RNA-binding groove
+is located on the side of the ring and faces the interior of
+the ring in close proximity to the active site (Figure 2B)
+(42). This is believed to permit the RNA 50
+-end to enter
+the ring’s interior where the active site is located. The
+structural data is supported by biochemical studies with
+ciliate, yeast and human telomerase that have identiﬁed
+the CP and TS motifs as being critical for TR-binding
+and telomerase activity in vitro and in vivo (19,58,60–68).
+The most N-terminal domain in TERT (the TEN
+domain) exhibits binding aﬃnity for ss telomeric DNA
+and contains residues that are essential for telomerase
+activity (38,57,70–75). Furthermore, a speciﬁc leucine in
+the TEN domain of ciliate TERT (L14) has been identiﬁed
+as a critical determinant of the enzyme’s ability to add
+multiple telomeric repeats to a single telomeric primer
+(74). These observations indicate that the TEN domain
+has an important role in DNA substrate recognition and
+elongation. Interestingly, the TEN domain also displays a
+weak non-speciﬁc RNA-binding activity (57). Although
+the signiﬁcance of this interaction is presently unclear,
+it is possible that in the context of the full-length
+protein, the TEN domain and TRBD co-operate to
+ensure sequence-speciﬁc TERT–TR binding interactions
+and optimal template positioning during telomerase
+assembly and/or telomere synthesis.
+The TERT RT domain
+The catalytic domain of TERT is the most characterized
+region of the protein and contains seven evolutionarily
+conserved RT motifs (see Figures 1A and 2C) essential
+for enzymatic activity (19,20,30,31,33,51,76–78). The
+TERT RT domain is organized into two subdomains
+that resemble the ‘ﬁngers’ and ‘palm’ subdomains of
+prototypical RT enzymes (Figure 2C) (30,31,79). These
+regions are connected by a loop that contains the
+conserved ‘primer grip’ region of motif E (42).
+Molecular models predict that the loop makes direct
+contacts with the RNA–DNA hybrid and the 30
+-end of
+the ssDNA, suggesting that the primer grip region could
+be involved in positioning the 30
+-end within the enzyme
+active site (Figure 2B) (42). This model is supported by
+biochemical studies of yeast and hTERT that have
+identiﬁed an important role for this region in ssDNA-
+binding and processive telomere synthesis in vitro and
+in vivo (80,81). Further evidence for contacts between
+the TERT primer grip and DNA primer have been
+provided by structural studies of T. castaneum TERT in
+complex with an RNA–DNA hairpin designed to
+resemble the putative telomerase RNA template and telo-
+meric DNA (55).
+One unique structural feature of the telomerase RT
+domain is a large insertion between motifs A and B0
+,
+called the ‘insertion in ﬁngers’ domain (IFD)
+(Figure 1A) (30,31). The IFD is comprised of two antipar-
+allel a-helices that are sandwiched between the ﬁngers and
+palm subdomains (Figure 2C) (42). The crystal structure
+reveals that the IFD is engaged in intramolecular
+protein-protein interactions that organize and stabilize
+this region of the RT domain (42). Importantly, the IFD
+makes extensive contacts with an a-helix that is implicated
+in making direct contacts with the backbone of the
+incoming DNA primer (42). Mutations that alter the
+structural integrity of the IFD are expected to indirectly
+compromise protein–DNA and RNA–DNA interactions,
+thus impairing enzyme activity. Consistent with this,
+alanine substitutions of moderately conserved residues in
+the IFD of Est2p (yeast TERT) were found to impair tel-
+omerase activity and processivity in vitro and prevented
+telomere maintenance in vivo (52).
+The TERT active site contains three invariant aspartic
+acids, one of which resides in motif A and the other two
+within motif C (Figure 2D) (30,31). These residues are
+conserved in RTs and form a catalytic triad that partici-
+pates directly in nucleotide addition via a two-metal ion
+mechanism (30,31). Alanine substitution of these amino
+acids abrogates telomerase activity (19,33,64,76,77).
+Conserved residues from motifs 1, 2, A, B0
+, C and D
+form the nucleotide-binding pocket, located at the
+interface between the palm and ﬁngers subdomains
+(Figure 2D) (42). Two conserved surface-exposed
+5612 Nucleic Acids Research, 2010, Vol. 38, No. 17
+residues from motifs A and C (tyrosine and valine, re-
+spectively) form a hydrophobic patch that is predicted to
+bind the base of the nucleotide substrate. This interaction
+would facilitate nucleotide positioning in the active site for
+co-ordination with a metal ion and the 30
+-end of the DNA
+primer (42). This model is supported by biochemical
+studies of ciliate, yeast and hTERT that have implicated
+these residues in nucleotide insertion rate, polymerase
+ﬁdelity and enzyme processivity (78,80,82).
+Sequence alignment of the TERT RT domain revealed a
+novel telomerase-speciﬁc motif (motif 3) between motifs 2
+and A (Figure 1A) (83,84). Interestingly, although the pre-
+dicted secondary-structure of motif 3 is evolutionarily
+conserved, the primary sequence is only conserved in ver-
+tebrate and ciliate telomerases. This suggests that motif 3
+may regulate species-speciﬁc aspects of telomerase bio-
+chemistry, such as repeat addition processivity (84).
+Alanine substitution screening of this motif in hTERT
+identiﬁed mutations that either abrogated telomerase
+activity or caused a signiﬁcant increase in the rate or
+processivity of telomere synthesis in vitro (84). These bio-
+chemical characterizations have provided new insight into
+the telomerase reaction mechanism by identifying speciﬁc
+amino acids in hTERT that independently regulate two
+critical aspects of telomere synthesis. An important area
+of future research will be to elucidate how mutations in
+motif 3 aﬀect the biogenesis, activity and regulation of
+telomerase.
+The TERT C-terminal extension
+In contrast to the N-terminus and RT domain, the
+C-terminus of TERT shows only weak sequence conser-
+vation suggesting that it may have species-speciﬁc func-
+tions or that diﬀerent amino acid sequences have evolved
+to fold into similar structural domains. The C-terminal
+extension of TERT adopts a novel protein fold,
+although structural comparison of TERT with the
+closely related HIV RT indicates that this region repre-
+sents the thumb domain of telomerase (42). The
+C-terminus is a helical bundle that contains several
+surface-exposed loops that are thought to contribute to
+the formation and stabilization of an RNA–DNA
+heteroduplex in the enzyme active site (Figure 2B)
+(42,55). Mutations in this region aﬀect the nucleotide
+Figure 2. Molecular models of T. thermophila (A) and T. castaneum (B–D) TERT. (A) Surface representation of the isolated TRBD from
+T. thermophila TERT, reprinted with permission from ref. (56). This cartoon shows the two asymmetric lobes that comprise the TRBD. Amino
+acids that form the TS motif are shown in pink and those that comprise the CP motif are indicated in blue. (B) Model of the protein suggested to be
+T. castaneum TERT (surface representation) in complex with the telomerase RNA subunit (dark green) and single-stranded telomeric DNA (dark
+purple), reprinted with permission from ref. (42). The hallmark motifs of the RT domain are illustrated as follows: motif 1 (red), 2 (grey), A (green),
+B0
+(dark purple), C (blue), D (dark blue), E (magenta) and IFD (light blue). The TRBD comprises residues from the CP (yellow) and TS (cyan)
+motifs. Structural elements of the TERT C-terminal extension (light green) are predicted to stabilize and orientate the TERT–RNA–DNA complex.
+(C) Domain folds of the predicted T. castaneum TERT RT domain, colored as in (B) and reprinted with permission from ref. (42). Elements that
+form the palm domain are colored in tan and those that form the ﬁngers domain are shown in orange. (D) The active site and nucleotide-binding
+pocket of T. castaneum TERT, reprinted with permission from ref. (42). This ﬁgure shows the predicted location of three invariant aspartic acids
+(D251, D343 and D344) that form the catalytic triad of the active site in complex with a modeled nucleotide of ATP (black stick). The RT motifs are
+colored as in (B).
+Nucleic Acids Research, 2010, Vol. 38, No. 17 5613
+and repeat addition processivity of human and yeast tel-
+omerase, telomere length maintenance in human cells and
+the subcellular localization of hTERT (49,53,54,80,85).
+Furthermore, it was shown that the addition of an
+epitope tag to the C-terminus of hTERT abolishes
+telomere elongation in vivo, suggesting that the conform-
+ation of this region is important for hTERT function (86).
+Interestingly, the C-terminal extension is essential for tel-
+omerase activity in T. thermophila and humans, but is dis-
+pensable for telomerase activity in yeast (58,62,63,65) and
+is completely absent in other organisms (40). These obser-
+vations further suggest that the C-terminal extension has
+species-speciﬁc roles in vivo. Additional structure–function
+studies are needed to understand how this region contrib-
+utes to the biochemical and molecular properties of tel-
+omerase from diﬀerent organisms. In this regard, the
+in vitro and in vivo characterization of disease-associated
+hTERT mutants will likely provide invaluable insight
+these aspects of human telomerase (87,88).
+THE TELOMERASE RNA SUBUNIT
+A unique feature of telomerase is that the RNA template
+for DNA synthesis is an integral component of the holo-
+enzyme. Although a detailed discussion of the RNA
+subunit is beyond the scope of this review, it is necessary
+to comment on some of the key properties of the verte-
+brate TR. The reader is referred to Theimer and Feigon
+(89) for a comprehensive review of the structure and
+function of TR subunits from various organisms.
+Phylogenetic comparative analysis of vertebrate TR
+predicts three conserved domains: (i) the pseudoknot/
+template core domain; (ii) the CR4/CR5 domain (for
+conserved regions 4 and 5, respectively); and (iii) a box
+H/ACA domain (90). The core domain is essential for
+telomerase activity in vitro and in vivo (89). This region
+contains the template for telomere addition, the 50
+- and
+30
+-boundary elements that prevent the incorporation of
+non-template nucleotides, a putative TERT binding site
+and a conserved pseudoknot structure (90,91). Human tel-
+omerase activity can be reconstituted in vitro by
+co-expressing the pseudoknot/template domain and the
+CR4/CR5 domain in the presence of hTERT (92,93).
+The TR domains work together to mediate TR-TERT
+interactions, nucleotide and repeat addition processivity,
+and enzyme ﬁdelity (89). The 30
+-end of vertebrate TR
+contains two conserved motifs, the box H and ACA
+elements (box H/ACA domain), which serve as binding
+sites for proteins involved in RNA processing, stability
+and subcellular localization (89). The box H/ACA
+domain is essential for TR stability, processing, nuclear
+localization and telomerase activity in vivo (89,94,95).
+Mutations in the gene encoding TR have been linked to
+the multi-system disorder called dyskeratosis congenita,
+highlighting the clinical importance of this molecule.
+Furthermore, the TR gene is ampliﬁed in several human
+cancers (96–98), thus making it a potential target for
+therapeutic inhibitors of telomerase activity in cancer
+cells (99).
+THE TELOMERASE REACTION CYCLE
+Telomerase has the unique ability to catalyze multiple
+rounds of template copying and add hundreds of nucleo-
+tides to the same DNA primer. This contrasts with proto-
+typical RTs, which copy a relatively large RNA genome
+into a single molecule of complementary DNA. As
+illustrated in Figure 3 and discussed in the following
+sections, the telomerase reaction cycle can be divided
+into three basic steps: (i) primer recognition and binding;
+(ii) synthesis of the ﬁrst telomeric repeat; and (iii) trans-
+location and realignment of the new DNA 30
+-end to
+initiate the next round of telomere synthesis.
+During telomere elongation, the RNA template is
+reverse transcribed using canonical Watson–Crick
+base-pairing to specify the telomeric sequence. Telomere
+synthesis proceeds by the sequential addition of
+deoxynucleotide triphosphates (dNTPs) to the free
+30
+-hydroxyl group of the telomeric ssDNA primer. The
+telomeric ssDNA overhang is believed to be the natural
+primer for telomerase-mediated DNA synthesis in vivo.
+However, telomerase can elongate almost any G-rich
+linear ssDNA primer that contains a free 30
+-end in vitro
+(16, 100). Parallel intermolecular G-quadruplex substrates
+are also eﬃcient substrates for ciliate telomerase in vitro
+(101–103).
+Telomerase incorporates consecutive dNTPs without
+dissociating from the primer by a reaction known as nu-
+cleotide addition processivity (38). During telomere elong-
+ation, the RNA–DNA hybrid is kept at a constant length
+of seven to eight base pairs by melting bonds at the distal
+end of the template as new bonds are formed at the
+proximal end (48). When the 50
+-template boundary
+element is reached, a translocation step repositions the
+new DNA 30
+-end within the template for a second round
+of telomere synthesis. The ability of telomerase to catalyze
+more than one round of DNA synthesis while bound to
+the same telomeric primer is referred to as repeat addition
+processivity. As discussed below, interactions between the
+50
+-end of the primer and regions of TERT outside the RT
+domain are required for repeat addition processivity and
+have been termed ‘anchor sites’ to emphasize their pre-
+dicted role in anchoring TERT to the DNA primer
+during telomere synthesis (38).
+Repeat addition processivity
+Repeat addition processivity was ﬁrst observed with
+T. thermophila telomerase and subsequently with human
+telomerase (104,105). Many rodent and fungal telomer-
+ases, however, are relatively non-processive and catalyze
+short elongation products in vitro and in vivo (106–108).
+Furthermore, genetic studies with mutant T. thermophila
+telomerase RNAs indicate that telomerase has limited
+processivity in vivo (109,110). These studies raise questions
+regarding the signiﬁcance of repeat addition processivity
+in vivo. Nonetheless, biochemical and genetic studies
+indicate that processive repeat addition is a biologically
+relevant property of telomerase. First, telomerase-speciﬁc
+residues that mediate processivity have been located in the
+RT domain (52,78,84), the N-terminal extension
+(71,74,111–113) and the C-terminal extension (53).
+5614 Nucleic Acids Research, 2010, Vol. 38, No. 17
+Mutations in these regions in human, ciliate or yeast TERT
+selectively alters repeat addition processivity in vitro and
+causes defects in telomere length maintenance in vivo
+(52,69,74,84,111–113). Second, these regions are important
+for telomerase-dependent extension of partially or com-
+pletely nontelomeric primers, which provides indirect
+evidence for a role in primer binding (74,111–113). Third,
+mutations that speciﬁcally increase repeat addition
+processivity in vitro and cause telomere over-elongation
+in vivo have been identiﬁed in ciliate and yeast TERT
+(71,78). Finally, in vivo analyses of budding yeast telomer-
+ase show that repeat addition processivity is signiﬁcantly
+increased at extremely short telomeres, suggesting that this
+unique feature of telomerase may enable cells to rapidly
+elongate critically short telomeres (114,115). This model
+predicts that the extent of processive repeat addition
+depends upon telomere length and thus, could partially
+explain the variance observed between telomerase repeat
+addition processivity in vitro and in vivo. Further studies
+will be required to completely understand this unique
+aspect of telomerase biochemistry.
+Telomerase anchor sites
+A long-standing notion in telomerase biochemistry is that
+the enzyme contains DNA-binding regions outside the
+RT domain that are required for processive telomere
+elongation. The existence of one or more telomerase
+‘anchor sites’ was precipitated by studies demonstrating
+that ciliate and human telomerase could elongate non-
+telomeric G-rich ssDNA primers in vitro (16,17,105,116).
+Furthermore, telomerase was shown to add telomeric
+repeats to chromosome breaks that contained non-
+telomeric DNA during in vivo chromosome healing
+(110,117). It was subsequently shown that primers con-
+taining almost any sequence of ssDNA could be
+extended in vitro if telomeric repeats were added to the
+50
+-end (100,118). These observations suggested that hy-
+bridization between the DNA 30
+-end and RNA template
+was not required for primer elongation. This hypothesis
+was further supported by biochemical studies of human
+and yeast telomerase, which showed that the enzyme/
+primer complex was mainly stabilized by contacts with
+the catalytic protein subunit (119,120).
+The ﬁrst direct evidence for a telomerase anchor region
+was provided by photo-cross-linking studies performed
+with E. aediculatus telomerase (121). Speciﬁcally, a
+TERT-sized protein was cross-linked to the 50
+-end of
+photo-reactive ssDNA primers that were aligned in the
+enzyme active site (121). The most eﬃcient protein–
+DNA cross-links were established with bases 20–22 nt
+upstream of the primer 30
+-end and required the telomerase
+RNA subunit. More recent studies have shown that
+human and T. thermophila TERT can interact sequence-
+speciﬁcally with telomeric ssDNA in the absence of TR
+(75,81). These studies used biotinylated ssDNA primers to
+Figure 3. Schematic diagram of the telomerase reaction cycle. This ﬁgure summarizes the fundamental steps of the telomerase reaction cycle: initial
+primer recognition and binding, nucleotide addition and translocation. The telomerase RNA (TR) subunit is represented by a black line (not drawn
+to scale). The TR supplies the template (grey rectangle) for telomere synthesis. DNA synthesis is catalyzed by the TERT. TERT contains a TEN
+domain (pink sphere), a TRBD (purple oval), RT domain (blue sphere) and CTE (green oval). The TEN domain contains a unique ssDNA-binding
+region, called the telomerase anchor site (transparent rectangle). The red line represents telomeric ssDNA. Telomerase binds the telomeric ssDNA
+such that the 30
+-end is aligned with the TR template in the active site (white star) and the 50
+-end is positioned within the telomerase anchor site.
+Telomerase reverse transcribes the template region, 1 nt at a time (nucleotide addition), until reaching the 50
+-template boundary element (top right).
+At this point, a translocation step repositions the new DNA 30
+-end within the template for a second round of telomere synthesis (bottom).
+Conformational changes within the telomerase holoenzyme are believed to facilitate nucleotide and repeat addition processivity.
+Nucleic Acids Research, 2010, Vol. 38, No. 17 5615
+investigate TERT–DNA interactions in vitro. One import-
+ant ﬁnding was that a fragment of hTERT encompassing
+amino acids 1–300 bound telomeric ssDNA as eﬃciently
+as the full-length protein, providing the ﬁrst physical
+evidence for an anchor site in the N-terminus of tel-
+omerase (81). An equally important ﬁnding was that
+the T. thermophila TERT (tTERT) C-terminus ex-
+hibited telomeric ssDNA-binding activity in vitro (75).
+Furthermore, it has been recently shown that a
+puriﬁed human TEN domain spanning amino acids
+1–200 directly interacts with telomeric DNA and this
+interaction is dependent on the length and register of the
+telomeric repeat (73). These studies indicate that TERT
+contains multiple anchor sites, which are believed to
+co-ordinate and regulate various stages of primer
+binding and extension. Importantly, some studies
+indicate that TERT-DNA interactions are enhanced by
+the telomerase RNA subunit, suggesting that TR has an
+important role in regulating anchor site interactions
+(57,75,111,121).
+Genetic and biochemical studies with ciliate, yeast and
+mammalian telomerase suggest that the anchor site may
+be comprised of a template-proximal and a template-distal
+component (57,71,74,81,105,112,116,120,122–125). In this
+model, both regions contribute to telomere binding and
+elongation, but only relatively long primers (20 nt)
+extend into the template-distal anchor region (47). The
+existence of two separate anchor sites indicates a tripartite
+mode of DNA-binding: (i) the primer 30
+-end hybridizes
+with the RNA template in the active site; (ii) the primer
+nucleotides adjacent to the template-hybridizing region
+interact with a template-proximal anchor site; and (iii)
+the primer nucleotides at the 50
+-end interact with the
+template-distal anchor site (123).
+The template-proximal telomerase anchor region has
+been physically and functionally mapped to the
+N-terminus of ciliate, yeast and hTERT
+(38,71,72,74,75,81). The crystal structure of the tTERT
+TEN domain revealed a previously-unrecognized
+ssDNA-binding groove on the surface of this domain.
+Photo-cross-linking studies showed that the tTERT TEN
+domain possessed telomere-speciﬁc ssDNA-binding
+activity in vitro (57,72). Mutagenesis of key residues
+thought to be involved in ssDNA-binding, such as an in-
+variant glutamine (tTERT Q168), signiﬁcantly reduced the
+interaction between tTERT and telomeric ssDNA, and
+impaired enzyme activity in vitro (57,72). Furthermore,
+mutation of the corresponding residue in yeast Est2p
+(Q146A) caused severe growth defects and telomere loss
+in vivo (71). Most recently, hTERT Q169 was shown to be
+important for the structure of the human telomerase
+N-terminal extension, primer binding and nucleotide in-
+corporation in vitro, as well as telomere length mainten-
+ance in vivo (70,73). Interestingly, Q169 appears to be
+particularly important for incorporating the second nu-
+cleotide during telomere extension in vitro (70).
+Collectively, the above studies indicate that this glutamine
+residue forms part of an evolutionarily conserved anchor
+site that facilitates primer recognition and orientation in
+the active site for telomere synthesis.
+Telomerase structural mobility
+DNA polymerases undergo a series of conformational
+changes during DNA synthesis (79,126). Structural
+mobility confers polymerases with the ability to discrim-
+inate against nucleotide misinsertion and incorporate
+multiple nucleotides without dissociating from the DNA
+primer. With respect to telomerase, it has been long
+proposed that conformational changes mediate the tran-
+sition between telomere synthesis initiation, elongation
+and translocation (104).
+Recent work with T. thermophila telomerase has
+provided new insights into the structural mobility of the
+telomerase anchor site (74). The crystal structure of the
+tTERT TEN domain revealed that an evolutionarily-
+conserved leucine (L14), in close proximity of Q168, was
+involved in forming one edge of the ssDNA-binding
+groove (57). The branched, hydrophobic side-chain of
+leucine can theoretically engage in intra- or inter-
+molecular protein–protein interactions. Structure–
+function studies of tTERT identiﬁed an essential role for
+L14 in the repeat addition processivity of ciliate telomer-
+ase in vitro (74). Importantly, L14 mutants displayed
+normal nucleotide addition processivity, thus identifying
+a speciﬁc role for L14 in the telomerase translocation step
+(74). An attractive model has been proposed in which L14
+represents an intramolecular ‘door latch’, which holds the
+TEN domain in close proximity of the catalytic site and
+facilitates processive nucleotide addition (Figure 3) (74).
+After synthesizing a complete telomeric repeat, a conform-
+ational change occurs within telomerase that releases the
+door latch (‘open’ state) and allows the new DNA 30
+-end
+to be repositioned within the RNA template and align-
+ment regions for the next round of telomere synthesis.
+This model is supported by cross-linking studies indicating
+that the tTERT TEN domain is displaced relative to the
+catalytic site during telomere synthesis in vitro (72).
+A second prediction of this model is that the 50
+-end of
+the elongated DNA slides through the ssDNA-binding
+groove on the surface of the TEN domain (Figure 3).
+This movement is believed to signal telomerase
+to re-establish the intramolecular protein–protein inter-
+action (‘closed’ state) and initiate the next round of
+telomere synthesis (74).
+Processivity factors
+In addition to anchor sites located within telomerase itself,
+accumulating evidence suggests that telomerase-associated
+proteins facilitate the enzyme’s repeat addition
+processivity in vivo. For example, the TPP1–POT1
+heterodimer stimulates the activity and processivity of
+human telomerase in vitro (127–129). TPP1 has been
+shown to interact with hTERT in vitro (128) and
+mutation of a conserved glycine residue in the hTERT
+TEN domain (G100) was shown to suppress the stimula-
+tory eﬀect of TPP1–POT1 on human telomerase
+processivity in vitro (129). These results are important
+because they identify a physical link between the human
+shelterin complex and telomerase, and provide new insight
+into the mechanism of processive telomere synthesis.
+One interpretation of these observations is that
+5616 Nucleic Acids Research, 2010, Vol. 38, No. 17
+telomere-bound TPP1–POT1 interacts with hTERT to
+transfer the telomeric ssDNA 30
+-end to telomerase for sub-
+sequent elongation. It will be interesting to elucidate
+whether the interaction between hTERT and TPP1 is
+direct or indirect (i.e. mediated by the telomeric ssDNA
+primer) and to investigate the conformational changes
+that occur in hTERT upon binding the TPP1–POT1 and
+TPP1–POT1–ssDNA complexes. Identiﬁcation of the
+TERT binding site in TPP1 should also help clarify the
+relationships between telomerase, shelterin and telomeric
+ssDNA.
+How else might telomere-associated proteins contribute
+to telomerase activity and repeat addition processivity
+in vivo? It is possible that ssDNA-binding proteins, such
+as RPA or POT1, coat the elongating telomere as it slides
+through the TEN domain. This protein–DNA interaction
+could stabilize and protect the otherwise naked ssDNA
+and facilitate primer movement through telomerase. In
+this model, telomere-binding proteins fulﬁll the
+template-distal anchor site function. Another possibility
+is that one or more telomerase-associated proteins
+mediate anchor site function in vivo. In this regard, a
+recent study of T. thermophila telomerase identiﬁed an
+RPA1-like DNA-binding protein p82 in stable association
+with the endogenous holoenzyme (130). Interestingly, p82
+exhibits telomere sequence-speciﬁc ssDNA-binding
+activity and confers ciliate telomerase with high levels of
+repeat addition processivity in vitro (130,131). Recent ob-
+servations suggest that the function of p82 may be to bind
+the telomeric primer and stabilize its association with tel-
+omerase as well as to suppress the formation of DNA
+structures that could impede processive telomere synthesis
+(131). It will be important to determine if repeat addition
+processivity is regulated by similar proteins and mechan-
+isms in other organisms. To this end, it will be useful to
+devise puriﬁcation strategies that can be used to charac-
+terize the composition of the telomerase holoenzyme at
+various stages of the cell cycle and in diﬀerent organisms
+and cell types. This would provide new insight into speciﬁc
+factors that regulate telomerase biogenesis and activity
+in vivo.
+TELOMERASE, TELOMERES AND HUMAN
+DISEASE
+Many studies have illustrated the molecular complexity of
+telomerase and telomere biology by implicating these
+processes in a broad spectrum of human diseases,
+ranging from cancer to premature aging disorders. This
+area has been the focus of several excellent reviews
+(132–134), and therefore, we will only brieﬂy summarize
+the relationships between telomerase and human disease
+to emphasize the clinical importance of understanding tel-
+omerase biochemistry.
+Telomerase, chromosome instability and cancer
+Telomerase is active in germ line and stem cells but re-
+pressed in most somatic cells and tissues, which is achieved
+through various transcriptional and post-transcriptional
+mechanisms (32,135). In the absence of telomerase
+activity, telomeres shorten during each round of cell
+division until they reach a critically short-length threshold
+(136–138). This triggers a p53 and pRB-dependent DNA
+damage response and induces a non-proliferative state
+called replicative senescence, which is an important
+barrier to tumorigenesis (139–142). Cells with defective
+p53 and pRB pathways can bypass this barrier and
+undergo additional 20–30 cell divisions (143,144).
+During this extended period of proliferation, telomeres
+continue to shorten and eventually undergo chromosome
+end-to-end fusions (i.e. the breakage-fusion-bridge cycle),
+which promotes genome instability by generating loss of
+heterozygosity or the ampliﬁcation of genetic loci (132).
+This usually triggers a second proliferative blockade called
+crisis, which is characterized by massive genome instability
+and apoptosis (145). However, rare clones (1 in 107
+human cells) can emerge from crisis by up-regulating tel-
+omerase or homologous recombination-based telomere
+maintenance mechanisms called alternative lengthening
+of telomeres (ALT), all of which stabilize critically short
+telomeres and permit further rounds of cell division (146).
+Telomerase activation is the most common pathway for
+cellular immortalization and transformation; at least 85%
+of human cancer cells constitutively express the telomerase
+catalytic subunit and utilize telomerase-dependent
+telomere elongation to attain unlimited growth potential
+(147). Thus, telomerase is an attractive target for the de-
+velopment of anti-cancer therapeutics that speciﬁcally
+target cancer versus healthy cells (99). However, some
+mammalian tumors and immortalized cell lines lack tel-
+omerase activity and use ALT pathways for telomere
+maintenance (146). A better understanding of these
+non-telomerase telomere-maintenance pathways could
+lead to novel anti-cancer therapies.
+Diseases associated with telomerase deﬁciency
+The ﬁrst disease-associated mutations in human telomer-
+ase were identiﬁed in patients aﬄicted with a rare,
+multi-system disorder called dyskeratosis congenita [see
+Walne (148) for a historical review of dyskeratosis
+congenita]. The clinical manifestations of dyskeratosis
+congenita generally appear during childhood and include
+a monocutaneous triad of abnormal skin pigmentation,
+nail dystrophy and oral leukoplakia. These symptoms
+are accompanied by a spectrum of other somatic
+abnormalities, such as developmental delay, premature
+hair loss and organ failure. Bone marrow failure is the
+principal cause of premature mortality. More recently, tel-
+omerase mutations have been detected in the context of
+aplastic anemia (149–151), Hoyeraal–Hreidarsson
+syndrome (152–155), idiopathic pulmonary ﬁbrosis
+(156,157) and liver disease (158). Aplastic anemia is a
+hematological disorder characterized by reduced red
+blood cell counts, bone marrow failure, and liver and
+lung disease. Hoyeraal–Hreidarsson syndrome is a
+multisystem disorder characterized by bone marrow
+failure, immunodeﬁciency and severe growth retardation.
+Idiopathic pulmonary ﬁbrosis is a chronic, progressive,
+and fatal disease that is deﬁned by irreversible lung
+ﬁbrosis. The unifying molecular characteristic of these
+Nucleic Acids Research, 2010, Vol. 38, No. 17 5617
+diseases is that patients harbor telomeres that are signiﬁ-
+cantly shorter than age-matched control subjects (133).
+This indicates that mutations in the telomerase holoen-
+zyme compromise its ability to maintain telomere length,
+which is thought to impair stem cell function and limit the
+renewal capacity of highly proliferative cells. Indeed, in-
+herited forms of dyskeratosis congenita exhibit disease an-
+ticipation, whereby successive generations exhibit earlier
+disease onset and present with more severe phenotypes
+(159–161). The mechanism of disease anticipation is
+thought to be caused by the inheritence of short telomeres
+that continue to shorten at an accelerated rate in the af-
+ﬂicted oﬀspring. Furthermore, patients aﬄicted with
+dyskeratosis congenita are predisposed to developing car-
+cinomas, lymphomas and leukemias. This is believed to
+result from the accelerated rate of telomere attrition,
+which promotes genetic instability and tumor formation.
+Mutations have been detected in ﬁve subunits of the
+human telomerase holoenzyme (TERT, TR, dyskerin,
+NHP2 and NOP10) and one shelterin protein (TIN2)
+[the reader is referred to the telomerase database
+(http://telomerase.asu.edu/diseases.html) for a current
+list of disease-linked mutations]. Dyskerin, NHP2 and
+NOP10 are essential for the biogeneisis of human telomer-
+ase and disease-linked mutant proteins have been shown
+to compromise enzyme stability (162–165). Similarly, mu-
+tations in hTR can either impair its stability or disrupt the
+catalytic activity of human telomerase (88,159,166–168).
+hTERT mutants exhibit catalytic defects in vitro and
+fail to maintain telomere length in human cells
+(84,87,88,150,161). Importantly, telomere maintenance
+defects observed in cultivated human cells can be
+rescued by the ectopic expression of wild-type hTR or
+hTERT, providing direct evidence that these mutations
+impair telomerase-mediated telomere maintenance
+(150,163,169). However, a comprehensive study that de-
+scribes how these mutations inﬂuence the biochemical and
+cellular properties of human telomerase is not yet avail-
+able. One possibility that has not been explored is that
+some of these mutations interfere with enzyme activity
+by disrupting critical protein–protein interactions within
+the holoenzyme. It will be interesting to isolate human
+telomerase from healthy and diseased cells and compare
+the composition of the holoenzyme in these diﬀerent
+cellular contexts. These experiments will provide novel
+insights into the mechanism of telomerase regulation in
+healthy and diseased human cells.
+CONCLUSIONS
+Telomerase has emerged as a central player in several
+devastating human disorders, including various forms of
+cancer, bone marrow failure and pulmonary ﬁbrosis. This
+emphasizes the need for a detailed understanding of tel-
+omerase structure and function. High-resolution crystal
+structures of ciliate and insect TERTs provide
+much-needed insight into the intricate details of this
+unique RT. An important future challenge will be to de-
+termine the crystal structure of TERT in complex with TR
+and integral protein components of the telomerase
+holoenzyme. This structural information will form the
+basis for biochemical and molecular studies that could
+provide important insights into telomerase assembly and
+regulation. An equally important challenge will be to solve
+the crystal structure of the full-length TERT from an
+organism with well-characterized enzyme activity, espe-
+cially in light of the controversy regarding the identity of
+T. castaneum TERT. Finally, structure–function studies of
+disease-associated TERT mutants will be particularly in-
+formative since these mutations have abrogated amino
+acids that are required for telomerase function in vivo.
+The information obtained from these studies may ultim-
+ately translate into novel therapeutic strategies that
+improve the diagnosis, treatment and management of
+human diseases associated with telomerase dysfunction.
+FUNDING
+Alberta Cancer Research Institute and Canadian Institute
+of Health Research (T.L.B.); Cancer Research UK, the
+Louis-Jeantet Foundation and Swiss Bridge (S.C.W.).
+H.D.M.W. was a recipient of a doctoral student scholar-
+ship from the Alberta Cancer Research Institute and
+National Science and Engineering Research Council.
+Funding for open access charge: Cancer Research UK.
+Conﬂict of interest statement. None declared.
+REFERENCES
+1. Olovnikov,A.M. (1971) Principle of marginotomy in template
+synthesis of polynucleotides. Dokl. Akad. Nauk. SSSR, 201,
+1496–1499.
+2. Watson,J.D. (1972) Origin of concatemeric T7 DNA.
+Nat. New Biol., 239, 197–201.
+3. Olovnikov,A. (1973) A theory of marginotomy. The incomplete
+copying of template margin in enzymic synthesis of
+polynucleotides and biological signiﬁcance of the phenomenon.
+J. Theor. Biol., 41, 181–190.
+4. Griﬃth,J.D., Comeau,L., Rosenﬁeld,S., Stansel,R.M., Bianchi,A.,
+Moss,H. and de Lange,T. (1999) Mammalian telomeres end in a
+large duplex loop. Cell, 97, 503–514.
+5. Munoz-Jordan,J.L., Cross,G.A., de Lange,T. and Griﬃth,J.D.
+(2001) T-loops at trypanosome telomeres. EMBO J., 20, 579–588.
+6. Murti,K.G. and Prescott,D.M. (1999) Telomeres of polytene
+chromosomes in a ciliated protozoan terminate in duplex DNA
+loops. Proc. Natl Acad. Sci. USA, 96, 14436–14439.
+7. Cesare,A.J., Quinney,N., Willcox,S., Subramanian,D. and
+Griﬃth,J.D. (2003) Telomere looping in P. sativum (common
+garden pea). Plant J., 36, 271–279.
+8. Raices,M., Verdun,R.E., Compton,S.A., Haggblom,C.I.,
+Griﬃth,J.D., Dillin,A. and Karlseder,J. (2008) C. elegans
+telomeres contain G-strand and C-strand overhangs that are
+bound by distinct proteins. Cell, 132, 745–757.
+9. Tomaska,L., Willcox,S., Slezakova,J., Nosek,J. and Griﬃth,J.D.
+(2004) Taz1 binding to a ﬁssion yeast model telomere: formation
+of telomeric loops and higher order structures. J. Biol. Chem.,
+279, 50764–50772.
+10. Cesare,A.J., Groﬀ-Vindman,C., Compton,S.A., McEachern,M.J.
+and Griﬃth,J.D. (2008) Telomere loops and homologous
+recombination-dependent telomeric circles in a Kluyveromyces
+lactis telomere mutant strain. Mol. Cell Biol., 28, 20–29.
+11. Palm,W. and de Lange,T. (2008) How shelterin protects
+mammalian telomeres. Annu. Rev. Genet., 42, 301–334.
+12. Tomaska,L., Nosek,J., Kramara,J. and Griﬃth,J.D. (2009)
+Telomeric circles: universal players in telomere maintenance?
+Nat. Struct. Mol. Biol., 16, 1010–1015.
+5618 Nucleic Acids Research, 2010, Vol. 38, No. 17
+13. Linger,B.R. and Price,C.M. (2009) Conservation of telomere
+protein complexes: shuﬄing through evolution. Crit. Rev.
+Biochem. Mol. Biol., 44, 434–446.
+14. Gao,H., Cervantes,R.B., Mandell,E.K., Otero,J.H. and
+Lundblad,V. (2007) RPA-like proteins mediate yeast telomere
+function. Nat. Struct. Mol. Biol., 14, 208–214.
+15. Marcand,S., Gilson,E. and Shore,D. (1997) A protein-counting
+mechanism for telomere length regulation in yeast. Science, 275,
+986–990.
+16. Greider,C.W. and Blackburn,E.H. (1985) Identiﬁcation of a
+speciﬁc telomere terminal transferase activity in Tetrahymena
+extracts. Cell, 43, 405–413.
+17. Greider,C.W. and Blackburn,E.H. (1987) The telomere terminal
+transferase of Tetrahymena is a ribonucleoprotein enzyme with
+two kinds of primer speciﬁcity. Cell, 51, 887–898.
+18. Greider,C.W. and Blackburn,E.H. (1989) A telomeric sequence in
+the RNA of Tetrahymena telomerase required for telomere repeat
+synthesis. Nature, 337, 331–337.
+19. Weinrich,S.L., Pruzan,R., Ma,L., Ouellette,M., Tesmer,V.M.,
+Holt,S.E., Bodnar,A.G., Lichtsteiner,S., Kim,N.W., Trager,J.B.
+et al. (1997) Reconstitution of human telomerase with the
+template RNA component hTR and the catalytic protein subunit
+hTRT. Nat. Genet., 17, 498–502.
+20. Beattie,T.L., Zhou,W., Robinson,M.O. and Harrington,L. (1998)
+Reconstitution of human telomerase activity in vitro. Curr. Biol.,
+8, 177–180.
+21. Collins,K. and Gandhi,L. (1998) The reverse transcriptase
+component of the Tetrahymena telomerase ribonucleoprotein
+complex. Proc. Natl Acad. Sci. USA, 95, 8485–8490.
+22. Fu,D. and Collins,K. (2007) Puriﬁcation of human telomerase
+complexes identiﬁes factors involved in telomerase biogenesis and
+telomere length regulation. Mol. Cell, 28, 773–785.
+23. Cohen,S.B., Graham,M.E., Lovrecz,G.O., Bache,N.,
+Robinson,P.J. and Reddel,R.R. (2007) Protein composition of
+catalytically active human telomerase from immortal cells.
+Science, 315, 1850–1853.
+24. Venteicher,A.S., Meng,Z., Mason,P.J., Veenstra,T.D. and
+Artandi,S.E. (2008) Identiﬁcation of ATPases pontin and reptin
+as telomerase components essential for holoenzyme assembly.
+Cell, 132, 945–957.
+25. Venteicher,A.S., Abreu,E.B., Meng,Z., McCann,K.E., Terns,R.M.,
+Veenstra,T.D., Terns,M.P. and Artandi,S.E. (2009) A human
+telomerase holoenzyme protein required for Cajal body
+localization and telomere synthesis. Science, 323, 644–648.
+26. Collins,K. (2006) The biogenesis and regulation of telomerase
+holoenzymes. Nat. Rev. Mol. Cell Biol., 7, 484–494.
+27. Gallardo,F. and Chartrand,P. (2008) Telomerase biogenesis: the
+long road before getting to the end. RNA Biol., 5, 212–215.
+28. Lendvay,T.S., Morris,D.K., Sah,J., Balasubramanian,B. and
+Lundblad,V. (1996) Senescence mutants of Saccharomyces
+cerevisiae with a defect in telomere replication identify three
+additional EST genes. Genetics, 144, 1399–1412.
+29. Lingner,J. and Cech,T.R. (1996) Puriﬁcation of telomerase
+from Euplotes aediculatus: requirement of a primer 30
+overhang.
+Proc. Natl Acad. Sci. USA, 93, 10712–10717.
+30. Lingner,J., Hughes,T.R., Shevchenko,A., Mann,M., Lundblad,V.
+and Cech,T.R. (1997) Reverse transcriptase motifs in the catalytic
+subunit of telomerase. Science, 276, 561–567.
+31. Nakamura,T.M., Morin,G.B., Chapman,K.B., Weinrich,S.L.,
+Andrews,W.H., Lingner,J., Harley,C.B. and Cech,T.R. (1997)
+Telomerase catalytic subunit homologs from ﬁssion yeast and
+human. Science, 277, 955–959.
+32. Meyerson,M., Counter,C.M., Eaton,E.N., Ellisen,L.W., Steiner,P.,
+Caddle,S.D., Ziaugra,L., Beijersbergen,R.L., Davidoﬀ,M.J., Liu,Q.
+et al. (1997) hEST2, the putative human telomerase catalytic
+subunit gene, is up-regulated in tumor cells and during
+immortalization. Cell, 90, 785–795.
+33. Harrington,L., Zhou,W., McPhail,T., Oulton,R., Yeung,D.S.,
+Mar,V., Bass,M.B. and Robinson,M.O. (1997) Human telomerase
+contains evolutionarily conserved catalytic and structural subunits.
+Genes Dev., 11, 3109–3115.
+34. Bryan,T.M., Sperger,J.M., Chapman,K.B. and Cech,T.R. (1998)
+Telomerase reverse transcriptase genes identiﬁed in Tetrahymena
+thermophila and Oxytricha trifallax. Proc. Natl Acad. Sci. USA,
+95, 8479–8484.
+35. Greenberg,R.A., Allsopp,R.C., Chin,L., Morin,G.B. and
+DePinho,R.A. (1998) Expression of mouse telomerase reverse
+transcriptase during development, diﬀerentiation and proliferation.
+Oncogene, 16, 1723–1730.
+36. Holt,S.E., Aisner,D.L., Baur,J., Tesmer,V.M., Dy,M.,
+Ouellette,M., Trager,J.B., Morin,G.B., Toft,D.O., Shay,J.W. et al.
+(1999) Functional requirement of p23 and Hsp90 in telomerase
+complexes. Genes Dev., 13, 817–826.
+37. Bachand,F., Boisvert,F.M., Cote,J., Richard,S. and Autexier,C.
+(2002) The product of the survival of motor neuron (SMN) gene
+is a human telomerase-associated protein. Mol. Biol. Cell, 13,
+3192–3202.
+38. Autexier,C. and Lue,N.F. (2006) The structure and function of
+telomerase reverse transcriptase. Annu. Rev. Biochem., 75,
+493–517.
+39. Osanai,M., Kojima,K.K., Futahashi,R., Yaguchi,S. and
+Fujiwara,H. (2006) Identiﬁcation and characterization of the
+telomerase reverse transcriptase of Bombyx mori (silkworm) and
+Tribolium castaneum (ﬂour beetle). Gene, 376, 281–289.
+40. Malik,H.S., Burke,W.D. and Eickbush,T.H. (2000) Putative
+telomerase catalytic subunits from Giardia lamblia and
+Caenorhabditis elegans. Gene, 251, 101–108.
+41. Figueiredo,L.M., Rocha,E.P., Mancio-Silva,L., Prevost,C.,
+Hernandez-Verdun,D. and Scherf,A. (2005) The unusually large
+Plasmodium telomerase reverse-transcriptase localizes in a discrete
+compartment associated with the nucleolus. Nucleic Acids Res.,
+33, 1111–1122.
+42. Gillis,A.J., Schuller,A.P. and Skordalakes,E. (2008) Structure of
+the Tribolium castaneum telomerase catalytic subunit TERT.
+Nature, 455, 633–637.
+43. Sasaki,T. and Fujiwara,H. (2000) Detection and distribution
+patterns of telomerase activity in insects. Eur. J. Biochem., 267,
+3025–3031.
+44. Wang,L., Dean,S.R. and Shippen,D.E. (2002) Oligomerization
+of the telomerase reverse transcriptase from Euplotes crassus.
+Nucleic Acids Res., 30, 4032–4039.
+45. Arai,K., Masutomi,K., Khurts,S., Kaneko,S., Kobayashi,K. and
+Murakami,S. (2002) Two independent regions of human
+telomerase reverse transcriptase are important for its
+oligomerization and telomerase activity. J. Biol. Chem., 277,
+8538–8544.
+46. Beattie,T.L., Zhou,W., Robinson,M.O. and Harrington,L. (2001)
+Functional multimerization of the human telomerase reverse
+transcriptase. Mol. Cell Biol., 21, 6151–6160.
+47. Hammond,P.W. and Cech,T.R. (1998) Euplotes telomerase:
+evidence for limited base-pairing during primer elongation and
+dGTP as an eﬀector of translocation. Biochemistry, 37,
+5162–5172.
+48. Forstemann,K. and Lingner,J. (2005) Telomerase limits the extent
+of base pairing between template RNA and telomeric DNA.
+EMBO Rep., 6, 361–366.
+49. Hossain,S., Singh,S. and Lue,N.F. (2002) Functional analysis of
+the C-terminal extension of telomerase reverse transcriptase. A
+putative ‘‘thumb’’ domain. J. Biol. Chem., 277, 36174–36180.
+50. Bosoy,D. and Lue,N.F. (2001) Functional analysis of conserved
+residues in the putative ‘‘ﬁnger’’ domain of telomerase reverse
+transcriptase. J. Biol. Chem., 276, 46305–46312.
+51. Haering,C.H., Nakamura,T.M., Baumann,P. and Cech,T.R.
+(2000) Analysis of telomerase catalytic subunit mutants in vivo
+and in vitro in Schizosaccharomyces pombe. Proc. Natl Acad. Sci.
+USA, 97, 6367–6372.
+52. Lue,N.F., Lin,Y.C. and Mian,I.S. (2003) A conserved telomerase
+motif within the catalytic domain of telomerase reverse
+transcriptase is speciﬁcally required for repeat addition
+processivity. Mol. Cell Biol., 23, 8440–8449.
+53. Huard,S., Moriarty,T.J. and Autexier,C. (2003) The C-terminus of
+the human telomerase reverse transcriptase is a determinant of
+enzyme processivity. Nucleic Acids Res., 31, 4059–4070.
+54. Banik,S.S., Guo,C., Smith,A.C., Margolis,S.S., Richardson,D.A.,
+Tirado,C.A. and Counter,C.M. (2002) C-terminal regions of the
+human telomerase catalytic subunit essential for in vivo enzyme
+activity. Mol. Cell Biol., 22, 6234–6246.
+Nucleic Acids Research, 2010, Vol. 38, No. 17 5619
+55. Mitchell,M., Gillis,A., Futahashi,M., Fujiwara,H. and
+Skordalakes,E. (2010) Structural basis for telomerase catalytic
+subunit TERT binding to RNA template and telomeric DNA.
+Nat. Struct. Mol. Biol., 17, 513–518.
+56. Rouda,S. and Skordalakes,E. (2007) Structure of the
+RNA-binding domain of telomerase: implications for RNA
+recognition and binding. Structure, 15, 1403–1412.
+57. Jacobs,S.A., Podell,E.R. and Cech,T.R. (2006) Crystal structure
+of the essential N-terminal domain of telomerase reverse
+transcriptase. Nat. Struct. Mol. Biol., 13, 218–225.
+58. Friedman,K.L. and Cech,T.R. (1999) Essential functions of
+amino-terminal domains in the yeast telomerase catalytic subunit
+revealed by selection for viable mutants. Genes Dev., 13,
+2863–2874.
+59. Xia,J., Peng,Y., Mian,I.S. and Lue,N.F. (2000) Identiﬁcation of
+functionally important domains in the N-terminal region of
+telomerase reverse transcriptase. Mol. Cell Biol., 20, 5196–5207.
+60. Miller,M.C., Liu,J.K. and Collins,K. (2000) Template deﬁnition
+by Tetrahymena telomerase reverse transcriptase. EMBO J., 19,
+4412–4422.
+61. Bosoy,D., Peng,Y., Mian,I.S. and Lue,N.F. (2003) Conserved
+N-terminal motifs of telomerase reverse transcriptase required for
+ribonucleoprotein assembly in vivo. J. Biol. Chem., 278,
+3882–3890.
+62. Bachand,F. and Autexier,C. (2001) Functional regions of human
+telomerase reverse transcriptase and human telomerase RNA
+required for telomerase activity and RNA-protein interactions.
+Mol. Cell Biol., 21, 1888–1897.
+63. Beattie,T.L., Zhou,W., Robinson,M.O. and Harrington,L. (2000)
+Polymerization defects within human telomerase are distinct from
+telomerase RNA and TEP1 binding. Mol. Biol. Cell, 11,
+3329–3340.
+64. Bryan,T.M., Goodrich,K.J. and Cech,T.R. (2000) Telomerase
+RNA bound by protein motifs speciﬁc to telomerase reverse
+transcriptase. Mol. Cell, 6, 493–499.
+65. Lai,C.K., Mitchell,J.R. and Collins,K. (2001) RNA binding
+domain of telomerase reverse transcriptase. Mol. Cell Biol., 21,
+990–1000.
+66. Lai,C.K., Miller,M.C. and Collins,K. (2002) Template boundary
+deﬁnition in Tetrahymena telomerase. Genes Dev., 16, 415–420.
+67. Moriarty,T.J., Huard,S., Dupuis,S. and Autexier,C. (2002)
+Functional multimerization of human telomerase requires an
+RNA interaction domain in the N-terminus of the catalytic
+subunit. Mol. Cell Biol., 22, 1253–1265.
+68. O’Connor,C.M., Lai,C.K. and Collins,K. (2005) Two puriﬁed
+domains of telomerase reverse transcriptase reconstitute
+sequence-speciﬁc interactions with RNA. J. Biol. Chem., 280,
+17533–17539.
+69. Drosopoulos,W.C. and Prasad,V.R. The telomerase-speciﬁc T
+motif is a restrictive determinant of repetitive reverse transcription
+by human telomerase. Mol. Cell Biol., 30, 447–459.
+70. Wyatt,H.D., Tsang,A.R., Lobb,D.A. and Beattie,T.L. (2009)
+Human telomerase reverse transcriptase (hTERT) Q169 is
+essential for telomerase function in vitro and in vivo. PLoS One,
+4, e7176.
+71. Lue,N.F. and Li,Z. (2007) Modeling and structure function
+analysis of the putative anchor site of yeast telomerase. Nucleic
+Acids Res., 35, 5213–5222.
+72. Romi,E., Baran,N., Gantman,M., Shmoish,M., Min,B., Collins,K.
+and Manor,H. (2007) High-resolution physical and functional
+mapping of the template adjacent DNA binding site in
+catalytically active telomerase. Proc. Natl Acad. Sci. USA, 104,
+8791–8796.
+73. Sealey,D.C., Zheng,L., Taboski,M.A., Cruickshank,J., Ikura,M.
+and Harrington,L.A. (2010) The N-terminus of hTERT
+contains a DNA-binding domain and is required for telomerase
+activity and cellular immortalization. Nucleic Acids Res., 38,
+2019–2035.
+74. Zaug,A.J., Podell,E.R. and Cech,T.R. (2008) Mutation in TERT
+separates processivity from anchor-site function. Nat. Struct. Mol.
+Biol., 15, 870–872.
+75. Finger,S.N. and Bryan,T.M. (2008) Multiple DNA-binding sites
+in Tetrahymena telomerase. Nucleic Acids Res., 36, 1260–1272.
+76. Counter,C.M., Meyerson,M., Eaton,E.N. and Weinberg,R.A.
+(1997) The catalytic subunit of yeast telomerase. Proc. Natl Acad.
+Sci. USA, 94, 9202–9207.
+77. Nakayama,J., Tahara,H., Tahara,E., Saito,M., Ito,K.,
+Nakamura,H., Nakanishi,T., Ide,T. and Ishikawa,F. (1998)
+Telomerase activation by hTRT in human normal ﬁbroblasts and
+hepatocellular carcinomas. Nat. Genet., 18, 65–68.
+78. Bryan,T.M., Goodrich,K.J. and Cech,T.R. (2000) A mutant of
+Tetrahymena telomerase reverse transcriptase with increased
+processivity. J. Biol. Chem., 275, 24199–24207.
+79. Cote,M.L. and Roth,M.J. (2008) Murine leukemia virus reverse
+transcriptase: structural comparison with HIV-1 reverse
+transcriptase. Virus Res., 134, 186–202.
+80. Peng,Y., Mian,I.S. and Lue,N.F. (2001) Analysis of telomerase
+processivity: mechanistic similarity to HIV-1 reverse transcriptase
+and role in telomere maintenance. Mol. Cell, 7, 1201–1211.
+81. Wyatt,H.D., Lobb,D.A. and Beattie,T.L. (2007) Characterization
+of physical and functional anchor site interactions in human
+telomerase. Mol. Cell Biol., 27, 3226–3240.
+82. Drosopoulos,W.C. and Prasad,V.R. (2007) The active site residue
+Valine 867 in human telomerase reverse transcriptase inﬂuences
+nucleotide incorporation and ﬁdelity. Nucleic Acids Res., 35,
+1155–1168.
+83. Li,Y., Yates,J.A. and Chen,J.J. (2007) Identiﬁcation and
+characterization of sea squirt telomerase reverse transcriptase.
+Gene, 400, 16–24.
+84. Xie,M., Podlevsky,J.D., Qi,X., Bley,C.J. and Chen,J.J. (2010) A
+novel motif in telomerase reverse transcriptase regulates telomere
+repeat addition rate and processivity. Nucleic Acids Res., 38,
+1982–1996.
+85. Seimiya,H., Sawada,H., Muramatsu,Y., Shimizu,M., Ohko,K.,
+Yamane,K. and Tsuruo,T. (2000) Involvement of 14-3-3 proteins
+in nuclear localization of telomerase. EMBO J., 19, 2652–2661.
+86. Counter,C.M., Hahn,W.C., Wei,W., Caddle,S.D.,
+Beijersbergen,R.L., Lansdorp,P.M., Sedivy,J.M. and
+Weinberg,R.A. (1998) Dissociation among in vitro telomerase
+activity, telomere maintenance, and cellular immortalization.
+Proc. Natl Acad. Sci. USA, 95, 14723–14728.
+87. Vulliamy,T.J., Walne,A., Baskaradas,A., Mason,P.J., Marrone,A.
+and Dokal,I. (2005) Mutations in the reverse transcriptase
+component of telomerase (TERT) in patients with bone marrow
+failure. Blood Cells Mol. Dis., 34, 257–263.
+88. Robart,A.R. and Collins,K. (2009) Investigation of human
+telomerase holoenzyme assembly, activity, and processivity using
+disease-linked subunit variants. J. Biol. Chem., 285, 4375–4386.
+89. Theimer,C.A. and Feigon,J. (2006) Structure and function of
+telomerase RNA. Curr. Opin. Struct. Biol., 16, 307–318.
+90. Chen,J.L., Blasco,M.A. and Greider,C.W. (2000) Secondary
+structure of vertebrate telomerase RNA. Cell, 100, 503–514.
+91. Chen,J.L. and Greider,C.W. (2003) Template boundary deﬁnition
+in mammalian telomerase. Genes Dev., 17, 2747–2752.
+92. Autexier,C., Pruzan,R., Funk,W.D. and Greider,C.W. (1996)
+Reconstitution of human telomerase activity and identiﬁcation of
+a minimal functional region of the human telomerase RNA.
+EMBO J., 15, 5928–5935.
+93. Tesmer,V.M., Ford,L.P., Holt,S.E., Frank,B.C., Yi,X.,
+Aisner,D.L., Ouellette,M., Shay,J.W. and Wright,W.E. (1999)
+Two inactive fragments of the integral RNA cooperate to
+assemble active telomerase with the human protein catalytic
+subunit (hTERT) in vitro. Mol. Cell Biol., 19, 6207–6216.
+94. Theimer,C.A., Jady,B.E., Chim,N., Richard,P., Breece,K.E.,
+Kiss,T. and Feigon,J. (2007) Structural and functional
+characterization of human telomerase RNA processing and Cajal
+body localization signals. Mol. Cell, 27, 869–881.
+95. Cristofari,G., Adolf,E., Reichenbach,P., Sikora,K., Terns,R.M.,
+Terns,M.P. and Lingner,J. (2007) Human telomerase RNA
+accumulation in Cajal bodies facilitates telomerase recruitment to
+telomeres and telomere elongation. Mol. Cell, 27, 882–889.
+96. Feng,J., Funk,W.D., Wang,S.S., Weinrich,S.L., Avilion,A.A.,
+Chiu,C.P., Adams,R.R., Chang,E., Allsopp,R.C., Yu,J. et al.
+(1995) The RNA component of human telomerase. Science, 269,
+1236–1241.
+97. Nowak,T., Januszkiewicz,D., Zawada,M., Pernak,M.,
+Lewandowski,K., Rembowska,J., Nowicka,K., Mankowski,P. and
+5620 Nucleic Acids Research, 2010, Vol. 38, No. 17
+Nowak,J. (2006) Ampliﬁcation of hTERT and hTERC genes in
+leukemic cells with high expression and activity of telomerase.
+Oncol. Rep., 16, 301–305.
+98. Andersson,S., Wallin,K.L., Hellstrom,A.C., Morrison,L.E.,
+Hjerpe,A., Auer,G., Ried,T., Larsson,C. and Heselmeyer-
+Haddad,K. (2006) Frequent gain of the human telomerase gene
+TERC at 3q26 in cervical adenocarcinomas. Br. J. Cancer, 95,
+331–338.
+99. Phatak,P. and Burger,A.M. (2007) Telomerase and its potential
+for therapeutic intervention. Br. J. Pharmacol., 152, 1003–1011.
+100. Morin,G.B. (1991) Recognition of a chromosome truncation site
+associated with alpha-thalassaemia by human telomerase. Nature,
+353, 454–456.
+101. Zahler,A.M., Williamson,J.R., Cech,T.R. and Prescott,D.M.
+(1991) Inhibition of telomerase by G-quartet DNA structures.
+Nature, 350, 718–720.
+102. Oganesian,L., Moon,I.K., Bryan,T.M. and Jarstfer,M.B. (2006)
+Extension of G-quadruplex DNA by ciliate telomerase.
+EMBO J., 25, 1148–1159.
+103. Oganesian,L., Graham,M.E., Robinson,P.J. and Bryan,T.M.
+(2007) Telomerase recognizes G-quadruplex and linear DNA as
+distinct substrates. Biochemistry, 46, 11279–11290.
+104. Greider,C.W. (1991) Telomerase is processive. Mol. Cell Biol.,
+11, 4572–4580.
+105. Morin,G.B. (1989) The human telomere terminal transferase
+enzyme is a ribonucleoprotein that synthesizes TTAGGG
+repeats. Cell, 59, 521–529.
+106. Cohn,M. and Blackburn,E.H. (1995) Telomerase in yeast.
+Science, 269, 396–400.
+107. Prowse,K.R., Avilion,A.A. and Greider,C.W. (1993)
+Identiﬁcation of a nonprocessive telomerase activity from mouse
+cells. Proc. Natl Acad. Sci. USA, 90, 1493–1497.
+108. Prescott,J. and Blackburn,E.H. (1997) Telomerase RNA
+mutations in Saccharomyces cerevisiae alter telomerase action
+and reveal nonprocessivity in vivo and in vitro. Genes Dev., 11,
+528–540.
+109. Yu,G.L., Bradley,J.D., Attardi,L.D. and Blackburn,E.H. (1990)
+In vivo alteration of telomere sequences and senescence caused
+by mutated Tetrahymena telomerase RNAs. Nature, 344,
+126–132.
+110. Yu,G.L. and Blackburn,E.H. (1991) Developmentally
+programmed healing of chromosomes by telomerase in
+Tetrahymena. Cell, 67, 823–832.
+111. Lue,N.F. (2005) A physical and functional constituent of
+telomerase anchor site. J. Biol. Chem., 280, 26586–26591.
+112. Moriarty,T.J., Ward,R.J., Taboski,M.A. and Autexier,C. (2005)
+An anchor site-type defect in human telomerase that disrupts
+telomere length maintenance and cellular immortalization.
+Mol. Biol. Cell, 16, 3152–3161.
+113. Moriarty,T.J., Marie-Egyptienne,D.T. and Autexier,C. (2004)
+Functional organization of repeat addition processivity and
+DNA synthesis determinants in the human telomerase multimer.
+Mol. Cell Biol., 24, 3720–3733.
+114. Teixeira,M.T., Arneric,M., Sperisen,P. and Lingner,J. (2004)
+Telomere length homeostasis is achieved via a switch between
+telomerase-extendible and -nonextendible states. Cell, 117,
+323–335.
+115. Chang,M., Arneric,M. and Lingner,J. (2007) Telomerase repeat
+addition processivity is increased at critically short telomeres in
+a Tel1-dependent manner in Saccharomyces cerevisiae. Genes
+Dev., 21, 2485–2494.
+116. Collins,K. and Greider,C.W. (1993) Tetrahymena telomerase
+catalyzes nucleolytic cleavage and nonprocessive elongation.
+Genes Dev., 7, 1364–1376.
+117. Wang,H. and Blackburn,E.H. (1997) De novo telomere addition
+by Tetrahymena telomerase in vitro. EMBO J., 16, 866–879.
+118. Harrington,L.A. and Greider,C.W. (1991) Telomerase primer
+speciﬁcity and chromosome healing. Nature, 353, 451–454.
+119. Prescott,J. and Blackburn,E.H. (1997) Functionally interacting
+telomerase RNAs in the yeast telomerase complex. Genes Dev.,
+11, 2790–2800.
+120. Wallweber,G., Gryaznov,S., Pongracz,K. and Pruzan,R. (2003)
+Interaction of human telomerase with its primer substrate.
+Biochemistry, 42, 589–600.
+121. Hammond,P.W., Lively,T.N. and Cech,T.R. (1997) The anchor
+site of telomerase from Euplotes aediculatus revealed by
+photo-cross-linking to single- and double-stranded DNA primers.
+Mol. Cell Biol., 17, 296–308.
+122. Lee,M.S. and Blackburn,E.H. (1993) Sequence-speciﬁc DNA
+primer eﬀects on telomerase polymerization activity. Mol. Cell
+Biol., 13, 6586–6599.
+123. Lue,N.F. and Peng,Y. (1998) Negative regulation of yeast
+telomerase activity through an interaction with an upstream
+region of the DNA primer. Nucleic Acids Res., 26, 1487–1494.
+124. Baran,N., Haviv,Y., Paul,B. and Manor,H. (2002) Studies on
+the minimal lengths required for DNA primers to be extended
+by the Tetrahymena telomerase: implications for primer
+positioning by the enzyme. Nucleic Acids Res., 30, 5570–5578.
+125. Lee,S.R., Wong,J.M. and Collins,K. (2003) Human telomerase
+reverse transcriptase motifs required for elongation of a
+telomeric substrate. J. Biol. Chem., 278, 52531–52536.
+126. Berdis,A.J. (2008) DNA polymerases as therapeutic targets.
+Biochemistry, 47, 8253–8260.
+127. Wang,F., Podell,E.R., Zaug,A.J., Yang,Y., Baciu,P., Cech,T.R.
+and Lei,M. (2007) The POT1-TPP1 telomere complex is a
+telomerase processivity factor. Nature, 445, 506–510.
+128. Xin,H., Liu,D., Wan,M., Safari,A., Kim,H., Sun,W.,
+O’Connor,M.S. and Songyang,Z. (2007) TPP1 is a homologue of
+ciliate TEBP-beta and interacts with POT1 to recruit telomerase.
+Nature, 445, 559–562.
+129. Zaug,A.J., Podell,E.R., Nandakumar,J. and Cech,T.R. (2010)
+Functional interaction between telomere protein TPP1 and
+telomerase. Genes Dev., 24, 613–622.
+130. Min,B. and Collins,K. (2009) An RPA-related sequence-speciﬁc
+DNA-binding subunit of telomerase holoenzyme is required for
+elongation processivity and telomere maintenance. Mol. Cell, 36,
+609–619.
+131. Min,B. and Collins,K. (2010) Multiple mechanisms for
+elongation processivity within the reconstituted Tetrahymena
+telomerase holoenzyme. J. Biol. Chem., doi:101074/
+jbc.M110.119172.
+132. Artandi,S.E. and DePinho,R.A. (2010) Telomeres and telomerase
+in cancer. Carcinogenesis, 31, 9–18.
+133. Armanios,M. (2009) Syndromes of telomere shortening.
+Annu. Rev. Genomics Hum. Genet., 10, 45–61.
+134. Calado,R.T. and Young,N.S. (2009) Telomere diseases.
+N. Engl. J. Med., 361, 2353–2365.
+135. Wright,W.E., Piatyszek,M.A., Rainey,W.E., Byrd,W. and
+Shay,J.W. (1996) Telomerase activity in human germline and
+embryonic tissues and cells. Dev. Genet., 18, 173–179.
+136. Harley,C.B., Futcher,A.B. and Greider,C.W. (1990) Telomeres
+shorten during ageing of human ﬁbroblasts. Nature, 345,
+458–460.
+137. Allsopp,R.C., Vaziri,H., Patterson,C., Goldstein,S.,
+Younglai,E.V., Futcher,A.B., Greider,C.W. and Harley,C.B.
+(1992) Telomere length predicts replicative capacity of human
+ﬁbroblasts. Proc. Natl Acad. Sci. USA, 89, 10114–10118.
+138. Hemann,M.T., Strong,M.A., Hao,L.Y. and Greider,C.W. (2001)
+The shortest telomere, not average telomere length, is critical for
+cell viability and chromosome stability. Cell, 107, 67–77.
+139. Smogorzewska,A. and de Lange,T. (2002) Diﬀerent telomere
+damage signaling pathways in human and mouse cells.
+EMBO J., 21, 4338–4348.
+140. Herbig,U., Jobling,W.A., Chen,B.P., Chen,D.J. and Sedivy,J.M.
+(2004) Telomere shortening triggers senescence of human cells
+through a pathway involving ATM, p53, and p21(CIP1), but not
+p16(INK4a). Mol. Cell, 14, 501–513.
+141. d’Adda di Fagagna,F., Reaper,P.M., Clay-Farrace,L., Fiegler,H.,
+Carr,P., Von Zglinicki,T., Saretzki,G., Carter,N.P. and
+Jackson,S.P. (2003) A DNA damage checkpoint response in
+telomere-initiated senescence. Nature, 426, 194–198.
+142. Beausejour,C.M., Krtolica,A., Galimi,F., Narita,M., Lowe,S.W.,
+Yaswen,P. and Campisi,J. (2003) Reversal of human cellular
+senescence: roles of the p53 and p16 pathways. EMBO J., 22,
+4212–4222.
+143. Shay,J.W., Pereira-Smith,O.M. and Wright,W.E. (1991) A role
+for both RB and p53 in the regulation of human cellular
+senescence. Exp. Cell Res., 196, 33–39.
+Nucleic Acids Research, 2010, Vol. 38, No. 17 5621
+144. Hara,E., Tsurui,H., Shinozaki,A., Nakada,S. and Oda,K. (1991)
+Cooperative eﬀect of antisense-Rb and antisense-p53 oligomers
+on the extension of life span in human diploid ﬁbroblasts,
+TIG-1. Biochem. Biophys. Res. Commun., 179, 528–534.
+145. Wright,W.E. and Shay,J.W. (1992) The two-stage mechanism
+controlling cellular senescence and immortalization. Exp.
+Gerontol., 27, 383–389.
+146. Cesare,A.J. and Reddel,R.R. (2008) Telomere uncapping and
+alternative lengthening of telomeres. Mech. Ageing Dev., 129,
+99–108.
+147. Kim,N.W., Piatyszek,M.A., Prowse,K.R., Harley,C.B.,
+West,M.D., Ho,P.L., Coviello,G.M., Wright,W.E., Weinrich,S.L.
+and Shay,J.W. (1994) Speciﬁc association of human telomerase
+activity with immortal cells and cancer. Science, 266, 2011–2015.
+148. Walne,A.J. and Dokal,I. (2008) Dyskeratosis Congenita: a
+historical perspective. Mech. Ageing Dev., 129, 48–59.
+149. Yamaguchi,H., Calado,R.T., Ly,H., Kajigaya,S.,
+Baerlocher,G.M., Chanock,S.J., Lansdorp,P.M. and Young,N.S.
+(2005) Mutations in TERT, the gene for telomerase reverse
+transcriptase, in aplastic anemia. N. Engl. J. Med., 352,
+1413–1424.
+150. Xin,Z.T., Beauchamp,A.D., Calado,R.T., Bradford,J.W.,
+Regal,J.A., Shenoy,A., Liang,Y., Lansdorp,P.M., Young,N.S.
+and Ly,H. (2007) Functional characterization of natural
+telomerase mutations found in patients with hematologic
+disorders. Blood, 109, 524–532.
+151. Vulliamy,T., Marrone,A., Dokal,I. and Mason,P.J. (2002)
+Association between aplastic anaemia and mutations in
+telomerase RNA. Lancet, 359, 2168–2170.
+152. Knight,S.W., Heiss,N.S., Vulliamy,T.J., Aalfs,C.M.,
+McMahon,C., Richmond,P., Jones,A., Hennekam,R.C.,
+Poustka,A., Mason,P.J. et al. (1999) Unexplained aplastic
+anaemia, immunodeﬁciency, and cerebellar hypoplasia
+(Hoyeraal-Hreidarsson syndrome) due to mutations in the
+dyskeratosis congenita gene, DKC1. Br. J. Haematol., 107,
+335–339.
+153. Marrone,A., Walne,A., Tamary,H., Masunari,Y., Kirwan,M.,
+Beswick,R., Vulliamy,T. and Dokal,I. (2007) Telomerase
+reverse-transcriptase homozygous mutations in autosomal
+recessive dyskeratosis congenita and Hoyeraal-Hreidarsson
+syndrome. Blood, 110, 4198–4205.
+154. Walne,A.J., Vulliamy,T., Beswick,R., Kirwan,M. and Dokal,I.
+(2008) TINF2 mutations result in very short telomeres: analysis
+of a large cohort of patients with dyskeratosis congenita and
+related bone marrow failure syndromes. Blood, 112, 3594–3600.
+155. Savage,S.A., Giri,N., Baerlocher,G.M., Orr,N., Lansdorp,P.M.
+and Alter,B.P. (2008) TINF2, a component of the shelterin
+telomere protection complex, is mutated in dyskeratosis
+congenita. Am. J. Hum. Genet., 82, 501–509.
+156. Marrone,A., Sokhal,P., Walne,A., Beswick,R., Kirwan,M.,
+Killick,S., Williams,M., Marsh,J., Vulliamy,T. and Dokal,I.
+(2007) Functional characterization of novel telomerase RNA
+(TERC) mutations in patients with diverse clinical and
+pathological presentations. Haematologica, 92, 1013–1020.
+157. Armanios,M.Y., Chen,J.J., Cogan,J.D., Alder,J.K.,
+Ingersoll,R.G., Markin,C., Lawson,W.E., Xie,M., Vulto,I.,
+Phillips,J.A.,3rd et al. (2007) Telomerase mutations in families
+with idiopathic pulmonary ﬁbrosis. N. Engl. J. Med., 356,
+1317–1326.
+158. Calado,R.T., Regal,J.A., Kleiner,D.E., Schrump,D.S.,
+Peterson,N.R., Pons,V., Chanock,S.J., Lansdorp,P.M. and
+Young,N.S. (2009) A spectrum of severe familial liver disorders
+associate with telomerase mutations. PLoS One, 4, e7926.
+159. Vulliamy,T., Marrone,A., Goldman,F., Dearlove,A., Bessler,M.,
+Mason,P.J. and Dokal,I. (2001) The RNA component of
+telomerase is mutated in autosomal dominant dyskeratosis
+congenita. Nature, 413, 432–435.
+160. Vulliamy,T., Marrone,A., Szydlo,R., Walne,A., Mason,P.J. and
+Dokal,I. (2004) Disease anticipation is associated with
+progressive telomere shortening in families with dyskeratosis
+congenita due to mutations in TERC. Nat. Genet., 36, 447–449.
+161. Armanios,M., Chen,J.L., Chang,Y.P., Brodsky,R.A.,
+Hawkins,A., Griﬃn,C.A., Eshleman,J.R., Cohen,A.R.,
+Chakravarti,A., Hamosh,A. et al. (2005) Haploinsuﬃciency of
+telomerase reverse transcriptase leads to anticipation in
+autosomal dominant dyskeratosis congenita. Proc. Natl Acad.
+Sci. USA, 102, 15960–15964.
+162. Mitchell,J.R., Wood,E. and Collins,K. (1999) A telomerase
+component is defective in the human disease dyskeratosis
+congenita. Nature, 402, 551–555.
+163. Wong,J.M. and Collins,K. (2006) Telomerase RNA level limits
+telomere maintenance in X-linked dyskeratosis congenita. Genes
+Dev., 20, 2848–2858.
+164. Walne,A.J., Vulliamy,T., Marrone,A., Beswick,R., Kirwan,M.,
+Masunari,Y., Al-Qurashi,F.H., Aljurf,M. and Dokal,I. (2007)
+Genetic heterogeneity in autosomal recessive dyskeratosis
+congenita with one subtype due to mutations in the
+telomerase-associated protein NOP10. Hum. Mol. Genet., 16,
+1619–1629.
+165. Vulliamy,T., Beswick,R., Kirwan,M., Marrone,A., Digweed,M.,
+Walne,A. and Dokal,I. (2008) Mutations in the telomerase
+component NHP2 cause the premature ageing syndrome
+dyskeratosis congenita. Proc. Natl Acad. Sci. USA, 105,
+8073–8078.
+166. Fu,D. and Collins,K. (2003) Distinct biogenesis pathways for
+human telomerase RNA and H/ACA small nucleolar RNAs.
+Mol. Cell, 11, 1361–1372.
+167. Errington,T.M., Fu,D., Wong,J.M. and Collins,K. (2008)
+Disease-associated human telomerase RNA variants show loss of
+function for telomere synthesis without dominant-negative
+interference. Mol. Cell Biol., 28, 6510–6520.
+168. Trahan,C. and Dragon,F. (2009) Dyskeratosis congenita
+mutations in the H/ACA domain of human telomerase RNA
+aﬀect its assembly into a pre-RNP. RNA, 15, 235–243.
+169. Kirwan,M., Beswick,R., Vulliamy,T., Nathwani,A.C.,
+Walne,A.J., Casimir,C. and Dokal,I. (2009) Exogenous TERC
+alone can enhance proliferative potential, telomerase activity and
+telomere length in lymphocytes from dyskeratosis congenita
+patients. Br. J. Haematol., 144, 771–781.
+5622 Nucleic Acids Research, 2010, Vol. 38, No. 17
+

@@ -1,0 +1,1108 @@
+Hindawi Publishing Corporation
+Journal of Oncology
+Volume 2011, Article ID 946936, 14 pages
+doi:10.1155/2011/946936
+Research Article
+Survivin Selectively Modulates Genes Deregulated in
+Human Leukemia Stem Cells
+Seiji Fukuda,1, 2 Mariko Abe,1 Chie Onishi,3 Takeshi Taketani,1, 4 Jamiyan Purevsuren,1
+Seiji Yamaguchi,1 Edward M. Conway,5 and Louis M. Pelus2
+1 Department of Pediatrics, Shimane University School of Medicine, 89-1 Enya-Cho, Izumo, Shimane 693-8501, Japan
+2 Department of Microbiology and Immunology, Indiana University School of Medicine, Indianapolis, IN 46202-5254, USA
+3 Department of Hematology, Shimane University School of Medicine, Shimane 693-8501, Japan
+4 Division of Blood Transfusion, Shimane University Hospital, Shimane 693-8501, Japan
+5 Centre for Blood Research, University of British Columbia, Vancouver, BC, Canada V6T 1Z3
+Correspondence should be addressed to Seiji Fukuda, sfukuda@med.shimane-u.ac.jp
+Received 1 September 2010; Accepted 19 October 2010
+Academic Editor: Shih Hwa Chiou
+Copyright © 2011 Seiji Fukuda et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ITD-Flt3 mutations are detected in leukemia stem cells (LSCs) in acute myeloid leukemia (AML) patients. While antagonizing
+Survivin normalizes ITD-Flt3-induced acute leukemia, it also impairs hematopoietic stem cell (HSC) function, indicating that
+identiﬁcation of diﬀerences in signaling pathways downstream of Survivin between LSC and HSC are crucial to develop selective
+Survivin-based therapeutic strategies for AML. Using a Survivin-deletion model, we identiﬁed 1,096 genes regulated by Survivin
+in ITD-Flt3-transformed c-kit+, Sca-1+, and lineageneg (KSL) cells, of which 137 are deregulated in human LSC. Of the 137, 124
+genes were regulated by Survivin exclusively in ITD-Flt3+ KSL cells but not in normal CD34neg KSL cells. Survivin-regulated genes
+in LSC connect through a network associated with the epidermal growth factor receptor signaling pathway and falls into various
+functional categories independent of eﬀects on apoptosis. Pathways downstream of Survivin in LSC that are distinct from HSC
+can be potentially targeted for selective anti-LSC therapy.
+1. Introduction
+Survivin has been implicated in regulation of apoptosis,
+cell division, and cell cycle both in cancer cells and nor-
+mal tissues, through caspase-dependent and -independent
+mechanisms [1–3]. We previously showed that Survivin is
+expressed and growth factor regulated in human CD34+ cells
+[4–6]. Antagonizing Survivin impairs production of mouse
+bone marrow hematopoietic progenitor cells in vitro [4, 7]
+and conditional Survivin gene deletion in vivo in mice leads
+to bone marrow ablation as a result of loss of hematopoietic
+stem and progenitor cells (HSPC) [8]. In contrast to tight
+regulation of Survivin by hematopoietic growth factors in
+normal CD34+ cells, deregulated expression of Survivin
+is frequently observed in hematological diseases, particu-
+larly those associated with hematopoietic stem cell (HSC)
+expansion. For instance, Survivin is aberrantly overexpressed
+in acute myeloid leukemia [9, 10] but downregulated in
+marrow cells of patients with aplastic anemia where HSPC
+are signiﬁcantly reduced [11]. These ﬁndings suggest that
+Survivin regulates HSPC fate under normal and pathological
+conditions.
+We previously reported that ITD-Flt3 mutations found
+in ∼25–30% of patients with acute myeloid leukemia
+(AML) and strongly associated with poor prognosis [12–14],
+increase expression of Survivin. Survivin mediates aberrant
+hematopoietic cell proliferation induced by ITD-Flt3 and
+regulates development of ITD-Flt3+ acute leukemia, sug-
+gesting that antagonizing Survivin may provide therapeutic
+beneﬁt for patients with AML expressing ITD-Flt3 [14]. Sur-
+vivin is the fourth most highly expressed transcript in cancer
+[15] and is commonly associated with a higher proliferative
+index, reduced apoptosis, resistance to chemotherapy and
+increased rate of tumor recurrence in cancer cells, making
+anti-Survivin therapy an attractive strategy in cancer [3].
+Several anti-Survivin preclinical trials in solid tumor models
+2 Journal of Oncology
+show that disrupting Survivin can reduce tumor growth [1–
+3]. However, studies from our group and others indicate
+that Survivin regulates normal HSPC [4, 7, 8], suggesting
+that targeting Survivin will likely result in hematopoietic
+toxicity. Therefore, identiﬁcation of diﬀerences in signaling
+cascades downstream of Survivin between normal HSPC and
+cancer stem cells (CSC) or leukemia stem cells (LSC) are
+required to pinpoint targets that can eﬀectively eradicate
+CSC/LSC with little toxicity on HSC. Previous reports show
+that ITD-Flt3 mutations are present in human LSC [13]
+and genes expressed in AML stem cells are deregulated
+[16]. The primary purpose of this study was to identify
+downstream Survivin signaling pathways in LSC that are
+distinct from normal HSC. Using ITD-Flt3 transformed c-
+kit+, Sca-1+, and lineageneg (KSL) cells from conditional
+Survivin knockout mice as surrogates for AML stem cells and
+littermate controls, we identiﬁed a panel of genes that are
+speciﬁcally regulated by Survivin in ITD-Flt3 transformed
+KSL cells and known to be deregulated in human LSC.
+The data identify selective signaling pathways downstream of
+Survivin in LSC that are distinct from normal HSC that can
+be potentially targeted for selective anti-LSC therapy.
+2. Materials and Methods
+2.1. Antibodies and Cytokines. Anti-Fcγ-III/II receptor anti-
+body, APC conjugated antimouse c-kit (clone 2B8), biotin-
+conjugated anti-Sca-1 (E13-161.7), R-Phycoerythrin (PE)
+conjugated anti-mouse CD3 (clone 143-2C11), GR-1 (clone
+RB6-8C5), B220 (clone RA3-6B2), Mac1 (clone M1/70),
+Ter119 (clone Ter119), rat IgG2a, rat IgG2b, hamster IgG,
+and Streptavidin-PE-Cy7 were purchased from BD Bio-
+sciences (San Diego, CA). Recombinant human Flt3 ligand
+(FL) and Thrombopoietin (Tpo) were provided by Amgen,
+Thousand Oaks, CA. Recombinant murine stem cell factor
+(rmSCF) was purchased from R&D Systems (Minneapolis,
+MN). Tamoxifen and 4-hydroxy (4OH) tamoxifen were from
+Sigma-Aldrich (St. Louis, MO).
+2.2. Cell Culture, Plasmid Transfection, Retrovirus Transduc-
+tion, and In Vitro Survivin Gene Deletion. Mice with the
+Survivin gene ﬂanked by loxP sites and a Tamoxifen-
+inducible form of Cre (Cre-ER) were reported previously
+[14]. All mice were housed in microisolators with continuous
+access to rodent chow and acidiﬁed water. The Indiana Uni-
+versity School of Medicine IACUC approved all experimental
+procedures. Retrovirus transduction of ITD-Flt3 into mouse
+bone marrow cells was carried out as described [14]. Brieﬂy,
+bone marrow cells from littermate control Survivinﬂox/ﬂox or
+CreER-Survivinﬂox/ﬂox mice were transduced with ITD-Flt3
+(N51) in MSCV-IRES-EGFP vector [17]. Seventy-two hours
+after sequential transduction, the medium was replaced with
+IMDM containing 10% FBS and the cells were incubated for
+14 days without growth factors in the presence of 1uM of
+4OH-Tamoxifen to induce Survivin gene deletion. All cells
+were cultured in triplicates in two independent experiments.
+Viable cells were enumerated using trypan blue exclusion and
+GFP+, c-kit+, Sca-1+, and lineage negative (KSL) cells were
+sorted on day 14 by FACSAria (BD Biosciences). Sorted cells
+were immediately lysed and subjected to diﬀerential mRNA
+microarray analysis.
+2.3. In Vivo Survivin Deletion. Survivinﬂox/ﬂox and CreER-
+Survivinﬂox/ﬂox mice were treated with 5 mg Tamoxifen
+(5 mg/mouse i.p.) for 3 consecutive days and allowed to rest
+for 3 days, and Tamoxifen was administered for 3 additional
+days. Fourteen days after the ﬁnal Tamoxifen injection,
+marrow cells were harvested, stained with anti-CD34, c-kit,
+Sca-1, and lineage markers and CD34neg KSL cells isolated by
+FACSAria for mRNA microarray analysis.
+2.4. mRNA Microarray. Sorted cells were immediately lysed
+and subjected to diﬀerential mRNA microarray analysis.
+Microarray analysis was performed on a fee basis by Miltenyi
+Biotec (Auburn, CA). Brieﬂy, 250 nanograms of each cDNA
+were used as template for Cy3 and Cy5 labeling which
+was performed according to Miltenyi Biotec’s proprietary
+protocol. Equal amounts of labeled cDNAs from Tamoxifen-
+treated Survivinﬂox/ﬂox and CreER-Survivinﬂox/ﬂox mice or
+those cells expressing ITD-Flt3 were hybridized overnight
+(17 hours, 65◦
+C) to Agilent Whole Mouse Genome Oligo
+Microarrays (44 K) according to the manufacturers’ pro-
+tocol. Fluorescence signals of the hybridized microarrays
+were detected using Agilent’s DNA microarray scanner
+(Agilent, Palo Alto, USA). The Agilent Feature Extraction
+Software (FES) was used to read out and process the
+microarray image ﬁles. The software determines feature
+intensities and ratios (including background subtraction
+and normalization), rejects outliers, and calculates statistical
+conﬁdences (P-values). For determination of diﬀerential
+gene expression, FES derived output data ﬁles were fur-
+ther analyzed using the Rosetta Resolverˆa gene expression
+data analysis system (Rosetta Biosoftware, Seattle, USA).
+Signiﬁcantly regulated genes were annotated and assigned to
+functional categories using the DAVID 2008 (the Database
+for Annotation, Visualization and Integrated Discovery;
+http://david.abcc.ncifcrf.gov/home.jsp) program [18]. Func-
+tional networks of the genes regulated by Survivin was visu-
+alized using Cytoscape software: http://www.cytoscape.org/
+[19].
+3. Results
+3.1. Reduction in Proliferation ITD-Flt3 Transformed KSL
+Cells by Survivin Deletion Is Associated with Alteration of
+Expression of 1,096 Genes Classiﬁed into Various Biological
+Functions. While incubation of marrow cells transduced
+with wild-type Flt3 in IMDM containing 10% FBS without
+hematopoietic any growth factors failed to support KSL
+proliferation, overexpression of ITD-Flt3-EGFP in primary
+mouse bone marrow cells results in the ability of KSL cells to
+proliferate in the same culture condition without additional
+any hematopoietic growth factors as we reported, indicating
+that ITD-Flt3 is suﬃcient to transform primitive HSPC [14].
+Incubation of ITD-Flt3 transduced marrow cells derived
+from CreER-Survivinﬂox/ﬂox mice with 1uM 4OH-Tamoxifen
+signiﬁcantly reduced factor-independent KSL cells on day 14
+compared to Survivinﬂox/ﬂox cells treated in exactly the same
+Journal of Oncology 3
+104103102101100
+GFP
+100
+101
+102
+103
+104
+Lineage
+104103102101100
+GFP
+100
+101
+102
+103
+104
+Lineage
+104103102101100
+Sca-1
+100
+101
+102
+103
+104
+c-kit
+104103102101100
+Sca-1
+100
+101
+102
+103
+104
+c-kit
+Survivinﬂox/ﬂoxCre+Survivinﬂox/ﬂox
+(a)
+Survivinﬂox/ﬂox
+Cre + Survivin ﬂox/ﬂox
+∗
+∗
+KSLTotal
+50
+100
+150
+200
+×103
+Cell(mL) (b)
+Figure 1: The eﬀect of Survivin deletion on the number of KSL cells transformed by ITD-Flt3 (a) The KSL cells transformed by ITD-Flt3
+were FACS sorted using GFP as a marker. Marrow cells derived from littermate control Survivinﬂox/ﬂox or CreER-Survivinﬂox/ﬂox mice were
+transduced with ITD-Flt3 (N51) in MSCV-IRES-EGFP vector. Seventy-two hours after transduction, the medium was replaced with IMDM
+containing 10%FBS and the cells were incubated for 14 days in the presence of 1uM of 4OH-Tamoxifen without hematopoietic growth
+factors. GFP+, c-kit+, Sca-1+, and lineage-negative (KSL) cells shown in red box were sorted on day 14 by FACSAria (BD Biosciences).
+(b) The number of whole cells and KSL cells derived from Survivinﬂox/ﬂox or CreER-Survivinﬂox/ﬂox marrow cells transduced with ITD-Flt3
+cultured with 4OH-tamoxifen in the absence of any growth factors was quantitiated in triplicate wells of each sample averaged from 2
+independent experiments. ∗
+P < .02 compared to control Survivinﬂox/ﬂox.
+manner (Figure 1), conﬁrming that Survivin is required for
+factor independent growth of ITD-Flt3 transformed KSL
+cells.
+To investigate the mechanism by which Survivin reg-
+ulates aberrant proliferation of ITD-Flt3 transformed KSL
+cells, mRNA expression was compared between ITD-Flt3
+transformed Survivinﬂox/ﬂox and CreER-Survivinﬂox/ﬂox KSL
+using mRNA microarrays. Although inhibition of Survivin
+mRNA expression in CreER-Survivinﬂox/ﬂox KSL cells by
+4OH-Tamoxifen was only 50% compared to control, the
+mRNA microarray identiﬁed 1,096 transcripts diﬀerentially
+regulated by Survivin. These genes were classiﬁed based
+on biological process and molecular function deﬁned by
+Gene Ontology Term (http://www.geneontology.org/) using
+DAVID 2008 program (Figure 2). Representative groups for
+biological process include phosphate metabolic process, cell
+cycle, cell division, response to DNA damage stimulus, RNA
+biosynthetic process and transcription (Figure 2(a), P <
+.02). Ion-binding, nucleotide-binding, DNA-binding, and
+protein kinase activity were the top 4 signiﬁcantly enriched
+categories in molecular function deﬁned by Gene Ontology
+database (Figure 2(b), P < .02). The list of genes classiﬁed by
+biological process and molecular function are listed in sup-
+plementary Table S1 available at doi:10.1155/2011/946936.
+3.2. Survivin Modulates Expression of Genes Deregulated in
+Human AML LSC. The requirement of Survivin for the self-
+renewing capability of ITD-Flt3 transformed KSL cells or
+CFU [14] and the presence of ITD-Flt3 in LSC [13] strongly
+suggests that Survivin is important for LSC fate decisions
+resulting from deregulated gene expression. We compared
+1,096 diﬀerentially expressed genes in Survivin deleted ITD-
+Flt3+KSL cells with the existing deregulated gene expression
+database for human AML stem cells [16]. Out of 1,096 genes
+regulated by Survivin in KSL cells transformed by ITD-Flt3,
+137 genes are also listed in the deregulated molecules
+in human AML stem cells (Tables 1(a)–1(d)) [16]. The
+relationship between Survivin and LSC on the modulation
+4 Journal of Oncology
+Glutamate signaling
+pathway Regulation
+of osteoclast
+diﬀerentiation
+Cytokine production
+Transcription,
+DNA-dependent
+Visual perception
+Ribonucleotide metabolic
+process
+RNA biosynthetic
+process
+Monosaccharide
+metabolic
+process
+Response to
+DNA damage
+stimulus
+Biological process
+Phosphate
+metabolic
+process
+Organelle
+ﬁssion
+Cell
+division
+Cell cycle
+(a)
+Nucleotidyl
+transferase
+activity
+Integrin
+binding
+Lipid transporter
+activity
+ATPase activity
+Protein kinase
+activty
+Molecular function
+DNA
+binding
+Ion binding
+Nucleotide
+binding
+(b)
+Figure 2: Classiﬁcation of the Survivin regulated genes in ITD-Flt3 transformed KSL cells. The 1,096 genes identiﬁed by Survivin gene
+deletion were classiﬁed into biological process (a) and molecular function (b) deﬁned by Gene Ontology (GO) Term using DAVID program
+(P < .02). Genes for which annotations could not be assigned were excluded. Representative functional categories are shown in the ﬁgures
+because of redundancies in classiﬁcation categories. The complete Gene ID and annotations are listed in Supplementary Table S1 available
+at doi:10.1155/2011/946936.
+of the gene expression is illustrated in Figure 3(a). Of the 137
+genes identiﬁed, 79 genes were downregulated by Survivin
+deletion while 58 genes were upregulated, implying that
+these genes are conversely increased and decreased by the
+presence of Survivin in LSC (Figure 3(a)). In contrast, 92
+genes were upregulated and 45 genes were downregulated by
+LSC. Among the 79 genes downregulated genes by Survivin
+deletion, 55 transcripts were upregulated (Figure 3(a) and
+Table 1(a)) whereas 24 genes were downregulated by LSC
+(Figure 3(a) and Table 1(c)). Similarly, out of 58 upregulated
+transcripts by Survivin deletion, 21 genes were downregu-
+lated (Figure 3(a) and Table 1(b)) and 37 genes were upreg-
+ulated in LSC (Figure 3(a) and Table 1(d)) (Figure 3(a)).
+Next, we classiﬁed the 137 genes into functional anno-
+tation groups using the DAVID program (P < .05,
+Figure 3(b)). Signiﬁcantly enriched functional groups were
+annotated as phosphoprotein, nucleus, acetylation, cell cycle,
+ATP binding, regulation of EGF signaling pathway, cell
+adhesion and others. The size of each circle in Figure 3(b)
+represents the number of genes involved in each functional
+category and the thickness of the line indicates the number
+of genes shared with any function, suggesting enrichment
+of the gene groups with functional redundancy. Among
+the molecules most frequently shared within the functional
+groups include BGLAP, Chrac1, Hmgb1 and Smarce1.
+Similarly, 76 genes upregulated or downregulated both by
+Survivin and LSC (55 + 21 genes shown in Figure 1(a))
+were functionally classiﬁed (Figure 3(c)). Phosphoprotein,
+acetylation, DNA binding, ATP binding and DNA replication
+were signiﬁcantly enriched.
+The 1,096 diﬀerentially Survivin-regulated genes were
+also searched against the list of genes expressed in mouse
+HSC [20]. We identiﬁed 94 diﬀerentially expressed genes
+in the list of genes that include HSC. There were 45 genes
+whose expression was selectively enriched in HSC compared
+to other populations (Table 2). Crem, Emp1, Hmga2, Lrrn1,
+Maﬀ, Myef2, Rps4x, and Sos1 listed in HSC database are
+also deregulated in LSC. We next compared the human
+LSC associated 137 genes regulated by Survivin in ITD-
+Flt3+KSL cells with diﬀerentially regulated genes in normal
+bone marrow CD34neg KSL cells obtained from CreER-
+Survivinﬂox/ﬂox and control Survivinﬂox/ﬂox mice following
+Survivin deletion. Tamoxifen reduced Survivin expression
+by 10-fold in CD34neg KSL cells from CreER-Survivinﬂox/ﬂox
+mice compared to control Survivinﬂox/ﬂox in two independent
+experiments. Out of 137 genes, Arg2, Med25, Pmaip1, Pola2,
+Ube3b, Ephb2 and Rab18 were diﬀerentially regulated in
+both ITD-Flt3+KSL cells and normal CD34neg KLS cells by
+Survivin deletion. In contrast, Cenpa, Cpd, Myef2, Nmt2,
+Taf1b and Tmpo were downregulated in ITD-Flt3+KSL cells
+while they were upregulated in normal CD34neg KSL cells by
+Survivin deletion. These ﬁndings suggest that the 124 genes
+are regulated by Survivin exclusively in ITD-Flt3+KSL cells
+but not in CD34neg KSL cells. The complete list of the genes
+regulated by Survivin in CD34neg KSL cells will be reported
+elsewhere (manuscript in preparation).
+Journal of Oncology 5
+Table 1
+(a) Genes upregulated in LSC but downregulated in ITD-Flt3+KSL cells deleted with Survivin (55 genes).
+Symbol Name Fold change
+Acaa2
+acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase) (Acaa2),
+[NM 177470]
+−3.7
+Ankrd12
+Mus musculus 15 days embryo head cDNA, RIKEN full-length enriched library,
+clone:D930020E11 product: unknown EST, full insert sequence. [AK086311]
+−5.5
+Ankrd28
+Mus musculus 2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library,
+clone:E430019N21 product: unknown EST, full insert sequence. [AK088541]
+−2.9
+Ap1g2 adaptor protein complex AP-1, gamma 2 subunit (Ap1g2), [NM 007455] −5.2
+Arhgef18 rho/rac guanine nucleotide exchange factor (GEF) 18 (Arhgef18), [NM 133962] −3.6
+Arrdc1 arrestin domain containing 1 (Arrdc1), [NM 178408] −2.1
+Atp11a ATPase, class VI, type 11A, [AK006628] −2.6
+BGLAP bone gamma carboxyglutamate protein 1 (Bglap1), [NM 007541] −10.2
+Cars cysteinyl-tRNA synthetase (Cars), [NM 013742] −2.3
+Ccr1 chemokine (C-C motif) receptor 1 (Ccr1), [NM 009912] −3.5
+Cd96 CD96 antigen (Cd96), [NM 032465] −2.1
+Cfp complement factor properdin (Cfp), [NM 008823] −4.3
+Cyyr1 cysteine and tyrosine-rich protein 1 (Cyyr1), [NM 144853] −2.7
+Dpagt1
+dolichyl-phosphate (UDP-N-acetylglucosamine) acetylglucosaminephosphotransferase 1
+(GlcNAc-1-P transferase) (Dpagt1), [NM 007875]
+−2.8
+Dpp9 dipeptidylpeptidase 9 (Dpp9), [NM 172624] −2.4
+Elovl1
+elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 1 (Elovl1),
+[NM 019422]
+−2.5
+Ets2 E26 avian leukemia oncogene 2, 3 domain (Ets2), [NM 011809] −2.5
+Fgr
+Mus musculus Gardner-Rasheed feline sarcoma viral (Fgr) oncogene homolog (Fgr), mRNA
+[NM 010208]
+−2.9
+Gﬁ1 growth factor independent 1 (Gﬁ1), [NM 010278] −2.7
+Gga2 golgi associated, gamma adaptin ear containing, ARF binding protein 2 (Gga2), [NM 028758] −2.5
+Git2 G protein-coupled receptor kinase-interactor 2, [AK017943] −3.1
+Hdac10 histone deacetylase 10 (Hdac10), [NM 199198] −4.1
+Ipo13 importin 13 (Ipo13), [NM 146152] −2.3
+Isyna1 myo-inositol 1-phosphate synthase A1 (Isyna1), [NM 023627] −2.5
+Klhl17 kelch-like 17 (Drosophila) (Klhl17), [NM 198305] −4.8
+Lars2
+leucyl-tRNA synthetase, mitochondrial (Lars2), nuclear gene encoding mitochondrial protein,
+[NM 153168]
+−3.6
+Lrrk1 leucine-rich repeat kinase 1 (Lrrk1), [NM 146191] −2.7
+Lztr1 leucine-zipper-like transcriptional regulator, 1 (Lztr1), [NM 025808] −3.4
+Mapk8ip3 mitogen-activated protein kinase 8 interacting protein 3 (Mapk8ip3), [NM 013931] −2.9
+Mcm8 minichromosome maintenance deﬁcient 8 (S. cerevisiae) (Mcm8), [NM 025676] −2.4
+Med25 TCBAP0758 protein (Fragment) homolog [Homo sapiens], [AK165760] −5.4
+6 Journal of Oncology
+(a) Continued.
+Symbol Name Fold change
+Mr1 laminin receptor 1 (ribosomal protein SA) (Lamr1), [NM 011029] −2.6
+Napa N-ethylmaleimide sensitive fusion protein attachment protein alpha (Napa), [NM 025898] −3.0
+Ndrg1 N-myc downstream regulated gene 1 (Ndrg1), [NM 010884] −3.3
+Nsﬂ1c NSFL1 (p97) cofactor (p47) (Nsﬂ1c), [NM 198326] −2.2
+Otud5
+bZ30I22.1 (Novel protein similar to human FLJ12550) (Fragment) homolog [Brachydanio rerio],
+[AK169921]
+−3.1
+Pank4 pantothenate kinase 4 (Pank4), [NM 172990] −3.0
+Pgls 6-phosphogluconolactonase, [AK158308] −5.6
+Phkg2 phosphorylase kinase, gamma 2 (testis) (Phkg2), [NM 026888] −3.3
+Pmaip1 phorbol-12-myristate-13-acetate-induced protein 1 (Pmaip1), [NM 021451] −6.6
+Pola2 polymerase (DNA directed), alpha 2 (Pola2), [NM 008893] −2.7
+Polg polymerase (DNA directed), gamma 2, accessory subunit (Polg2), [NM 015810] −3.2
+Rnf126 ring ﬁnger protein 126 (Rnf126), [NM 144528] −2.1
+Ropn1l ropporin 1-like (Ropn1l), [NM 145852] −6.8
+Rtel1 regulator of telomere elongation helicase 1 (Rtel1), [NM 001001882] −4.3
+Slc1a5 solute carrier family 1 (neutral amino acid transporter), member 5 (Slc1a5), [NM 009201] −2.3
+Slc25a28 solute carrier family 25, member 28 (Slc25a28), [NM 145156] −2.9
+Snapc4 small nuclear RNA activating complex, polypeptide 4 (Snapc4), [NM 172339] −2.7
+Solh small optic lobes homolog (Drosophila) (Solh), [NM 015830] −3.9
+Synj1 PREDICTED: synaptojanin 1 (Synj1), [XM 358889] −2.8
+Trim21 tripartite motif protein 21 (Trim21), [NM 009277] −11.4
+Trpm2 transient receptor potential cation channel, subfamily M, member 2 (Trpm2), [NM 138301] −4.2
+Trpm7 transient receptor potential cation channel, subfamily M, member 7 (Trpm7), [NM 021450] −3.2
+Ube3b ubiquitin protein ligase E3B (Ube3b), [NM 054093] −2.8
+Upp1 uridine phosphorylase 1 (Upp1), [NM 009477] −3.4
+Fold change: ITD-Flt3+ KLS cells derived from CreER-Survivinfx/fx compared to control Survivinfx/fx in two experiments.
+(b) Genes downregulated in LSC but upregulated in ITD-Flt3+KSL cells deleted with Survivin (21 genes)
+symbol Name Fold change
+Aebp2 AE binding protein 2 (Aebp2), transcript variant 3, [NM 009637] 11. 4
+Anp32b
+unspliced dna for: PROLIFERATION RELATED ACIDIC LEUCINE RICH PROTEIN PAL31
+(SIMILAR TO ACIDIC PROTEIN RICH IN LEUCINES) homolog [Mus musculus], ...
+2.9
+App amyloid beta protein precursor, [M18373] 25.7
+Cd164 CD164 antigen, [AK018009] 2.5
+Crem cAMP responsive element modulator. [AK016156] 7.3
+Journal of Oncology 7
+(b) Continued.
+symbol Name Fold change
+Emp1 epithelial membrane protein 1 (Emp1), [NM 010128] 2.3
+Fbxl17
+Mus musculus 10 days neonate cerebellum cDNA, RIKEN full-length enriched library,
+clone:B930094M09 product: unknown EST. [AK081162]
+5.1
+Gas2l3
+Mus musculus 16 days embryo head cDNA, RIKEN full-length enriched library,
+clone:C130036O09 product: unclassiﬁable, [AK048137]
+12.5
+Myef2 myelin basic protein expression factor 2, repressor (Myef2), [NM 010852] 10.6
+Nrip1 nuclear receptor interacting protein 1 (Nrip1), [NM 173440] 6.2
+Pla2g12a phospholipase A2, group XIIA (Pla2g12a), [NM 023196] 3.2
+Psmd11
+Mus musculus adult male testis cDNA, RIKEN full-length enriched library, clone: 1700089D09
+product: unclassiﬁable. [AK007029]
+12.3
+Rps20
+Mus musculus bone marrow macrophage cDNA, RIKEN full-length enriched library,
+clone:I830013G23 product: hypothetical protein. [AK150667]
+5.5
+Senp7 SUMO1/sentrin speciﬁc protease 7 (Senp7), transcript variant 3, [NM 001003972] 12.3
+Slc25a16
+solute carrier family 25 (mitochondrial carrier, Graves disease autoantigen), member 16
+(Slc25a16), [NM 175194]
+2.8
+Spire1 spire homolog 1 (Drosophila) (Spire1), transcript variant 2, [NM 176832] 9.5
+Tdrd3
+Mus musculus adult male olfactory brain cDNA, RIKEN full-length enriched library,
+clone:6430599B16 product: hypothetical Tudor domain containing protein. [AK078326]
+2.9
+Tmpo thymopoietin (Tmpo), [NM 011605] 4.3
+Trps1
+Mus musculus adult male adrenal gland cDNA, RIKEN full-length enriched library, clone:
+7330401C17 product: expressed sequence AI115454, [AK078617]
+11.4
+Ube2n ubiquitin-conjugating enzyme E2N (Ube2n), [NM 080560] 2.4
+Wtap
+Mus musculus 12 days embryo embryonic body between diaphragm region and neck cDNA,
+RIKEN full-length enriched library, clone: 9430038B09 product: unclassiﬁable. [AK020459]
+14. 2
+Fold change: ITD-Flt3+ KLS cells derived from CreER-Survivinfx/fx compared to control Survivinfx/fx in two experiments.
+(c) Genes down regulated in LSC and in ITD-Flt3+KSL cells deleted with Survivin (24 genes)
+Symbol Name Fold change
+Arg2 arginase type II (Arg2), [NM 009705] −2.2
+Atp2c1
+CALCIUM-TRANSPORTING ATPASE TYPE 2C, MEMBER 1 (EC 3.6.3.8) (ATPASE 2C1)
+(ATP-DEPENDENT CA2+ PUMP PMR1) homolog
+−2.2
+Chrac1 chromatin accessibility complex 1,. [AK031914] −4.3
+Dhx30 DEAH (Asp-Glu-Ala-His) box polypeptide 30 (Dhx30), [NM 133347] −3.1
+Dsg2 desmoglein 2, (cDNA clone IMAGE:4036406), [BC034056] −4.1
+Eef1g eukaryotic translation elongation factor 1 gamma (Eef1g), [NM 026007] −2.2
+Herc5 hypothetical regulator of chromosome condensation (RCC1) containing protei· · · −2.3
+Hmga2 high mobility group AT-hook 2 (Hmga2), [NM 178057] −5.0
+Hmgb1 high mobility group box 1, [BC064790] −3.4
+Hmmr hyaluronan mediated motility receptor (RHAMM) (Hmmr), [NM 013552] −3.2
+Il15 interleukin 15 (Il15), [NM 008357] −6.1
+Jmy junction-mediating and regulatory protein (Jmy), [NM 021310] −4.1
+Lrrn1
+Mus musculus 10, 11 days embryo whole body cDNA, RIKEN full-length enriched library,
+clone:2810047E21 product: unclassiﬁable, full insert sequence. [AK012914]
+−4.0
+8 Journal of Oncology
+(c) Continued.
+Symbol Name Fold change
+Maﬀ
+v-maf musculoaponeurotic ﬁbrosarcoma oncogene family, protein F (avian) (Maﬀ),
+[NM 010755]
+−8.4
+Mapk14 mitogen activated protein kinase 14 (Mapk14), [NM 011951] −2.4
+Ncoa7 nuclear receptor coactivator 7, [BC076623] −8.9
+Nedd1 neural precursor cell expressed, developmentally downregulated gene 1 (Nedd1), [NM 008682] −2.6
+Parp11 poly (ADP-ribose) polymerase family, member 11 (Parp11), [NM 181402] −2.5
+Pawr PRKC, apoptosis, WT1, regulator (Pawr), [NM 054056] −2.8
+Rps4x ribosomal protein S4, X-linked (Rps4x), [NM 009094] −2.2
+Smarce1 SWI [AK042961] −2.9
+Tpbg trophoblast glycoprotein, [AK050794] −4.5
+Vwf Von Willebrand factor homolog (Vwf), [NM 011708] −5.8
+Zbtb20 zinc ﬁnger and BTB domain containing 20 (Zbtb20), [NM 019778] −3.1
+Fold change: ITD-Flt3+ KLS cells derived from CreER-Survivinfx/fx compared to control Survivinfx/fx in two experiments.
+(d) Genes upregulated in LSC and in ITD-Flt3+KSL cells deleted with Survivin (37 genes).
+symbol Name fold change
+Cenpa
+Mus musculus 0 day neonate eyeball cDNA, RIKEN full-length enriched library,
+clone:E130306P06 product: hypothetical protein, [AK165029]
+10.7
+Clcn3 chloride channel 3 (Clcn3), transcript variant c, [NM 173876] 5.5
+Cpd carboxypeptidase D (Cpd), [NM 007754] 6.2
+Cul4b cullin 4B,. [AK164640] 4.9
+Ddx52 DEAD (Asp-Glu-Ala-Asp) box polypeptide 52 (Ddx52), [NM 030096] 3.3
+Dnajc1 DnaJ (Hsp40) homolog, subfamily C, member 11 (Dnajc11), [NM 172704] 6.4
+Ephb2 Eph receptor B2 (Ephb2), [NM 010142] 3.0
+Gnaq guanine nucleotide binding protein, alpha q polypeptide (Gnaq), [NM 008139] 17.2
+Gripap1 premature mRNA for mKIAA1167 protein [AK173119] 2.2
+Il1rap interleukin 1 receptor accessory protein (Il1rap), transcript variant 2, [NM 134103] 11.0
+Itsn2 SH3 domain protein 1B, [AK161743] 4.4
+Lass6 longevity assurance homolog 6 (S. cerevisiae) (Lass6), [NM 172856] 2.3
+Lpp
+caseinolytic protease, ATP-dependent, proteolytic subunit homolog (E. coli) (Clpp),
+[NM 017393]
+2.1
+Mppe1 metallophosphoesterase 1 (Mppe1), [NM 172630] 3.4
+Mrps5 mitochondrial ribosomal protein S5, [AK047438] 9.0
+Myh9 myosin heavy chain IX (Myh9), [NM 181327] 2.8
+Nck2 non-catalytic region of tyrosine kinase adaptor protein 2 (Nck2), [NM 010879] 4.8
+Nin microtubule associated serine/threonine kinase-like (Mastl), [NM 025979] 7.6
+Nmt2 N-myristoyltransferase 2, [AK049483] 2.3
+Orc5l origin recognition complex, subunit 5 homolog (S. cerevisiae), [AK054452] 4.6
+Journal of Oncology 9
+(d) Continued.
+symbol Name Fold change
+Osbpl3
+Mus musculus adult male aorta and vein cDNA, RIKEN full-length enriched library,
+clone:A530055M08 product: unknown EST, [AK040984]
+8.7
+Paqr3
+Mus musculus adult male pituitary gland cDNA, RIKEN full-length enriched library,
+clone:5330440B03 product: unknown EST, [AK030634]
+4.4
+Pcbd2
+pterin 4 alpha carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1
+alpha (TCF1) 2 (Pcbd2), [NM 028281]
+4.2
+Rab18 RAB18, member RAS oncogene family (Rab18), [NM 181070] 6.3
+Rab8b RAB8B, member RAS oncogene family (Rab8b), [NM 173413] 2.7
+Rae1
+RAE1 RNA export 1 homolog (S. pombe), (cDNA clone MGC:73449 IMAGE:5718934), complete
+cds. [BC060072]
+3.3
+Sfrs6 splicing factor, arginine/serine-rich 6 (Sfrs6), [NM 026499] 2.2
+Sla src-like adaptor (Sla), [NM 009192] 2.7
+Slc31a1 solute carrier family 31, member 1 (Slc31a1), [NM 175090] 4.2
+Snx11 sorting nexin 11, [AK037747] 2.6
+Sos1 Son of sevenless homolog 1 (Drosophila) (Sos1), [NM 009231] 2.4
+Ssh2 mKIAA1725 protein [AK173243] 4.6
+Stk3 serine/threonine kinase 3 (Ste20, yeast homolog) (Stk3), [NM 019635] 9.7
+Taf1b TATA box binding protein (Tbp)-associated factor, RNA polymerase I, B (Taf1b), [NM 020614] 4.3
+Vps13d
+PREDICTED: Mus musculus vacuolar protein sorting 13D (yeast), transcript variant 2 (Vps13d),
+[XM 001002241]
+8.4
+Wdr26 PREDICTED: Mus musculus WD repeat domain 26, transcript variant 1 (Wdr26), [XM 977731] 3.3
+Xpo4 exportin 4 (Xpo4), [NM 020506] 6.9
+Fold change: ITD-Flt3+ KLS cells derived from CreER-Survivinfx/fx compared to control Survivinfx/fxin two experiments.
+3.3. Survivin Modulates Gene Expression in LSC That Con-
+nects Through a Functional Signaling Network Associated
+with Epidermal Growth Factor Receptor Signaling Pathway.
+Functional annotation analysis indicates that genes related
+with dorsoventral axis formation or epidermal growth factor
+receptor signaling pathway (EGFR) are signiﬁcantly enriched
+in the shared genes associated with LSC and Survivin
+signaling in KEGG database (http://www.genome.jp/kegg/)
+(P < .03). Similarly, genes associated with regulation of
+EGFR signaling pathway are enriched in the Gene Ontology
+database (P < .02). Our analysis shows that 13 molecules
+shared by LSC and Survivin signaling are mapped on a
+functional signaling network that connects through the
+EGFR pathway (Figure 4).
+4. Discussion
+Survivin deletion in ITD-Flt3 transformed KSL cells results
+in a signiﬁcant reduction in growth factor-independent pro-
+liferation coincident with growth inhibition. Our data shows
+that Survivin deletion modulates gene expression of 1,096
+genes that are associated with various cellular and metabolic
+functions. Comparison of the 1,096 Survivin regulated genes
+in ITD-Flt3+KSL cells with 3,005 diﬀerentially regulated
+genes in the human AML stem cell database identiﬁed
+137 shared genes. Functional classiﬁcation of these 137
+genes indicates they connect through a functional signaling
+network associated with EGFR signaling pathway and aﬀect
+various biological and molecular processes. Comparison of
+the 137 Survivin-regulated genes in LSC with transcripts
+regulated by Survivin in normal CD34neg KSL cells show
+that 124 genes are regulated by Survivin exclusively in ITD-
+Flt3+KSL cells and not in normal HSC. These data suggest
+that Survivin contributes to deregulation of gene expression
+in AML stem cells via selective signaling pathways distinct
+from normal HSC that can be potentially targeted for
+therapeutic beneﬁt.
+There is no direct evidence that Survivin directly reg-
+ulates gene transcription; however, modulation of Survivin
+can clearly aﬀect transcription in cancer cells [21–23] and
+transgenic expression of Survivin alters the expression of
+multiple genes in the bladder [24].
+The involvement of Survivin in transcriptional regula-
+tion is consistent with the fact that Bir1, a Caenorhabditis
+10 Journal of Oncology
+Up-regulated by survivin
+(down-regulated by survivin deletion)
+Down-regulated
+in LSC
+Up-regulated
+in LSC
+Down-regulated by survivin
+(up-regulated by survivin deletion)
+79
+58
+24 55
+21 37
+45 92
+(a)
+Chromatin
+remodeling
+Chromosome
+DNA
+binding
+DNA directed
+polymerase activity
+DNA replication
+Nucleoplasm
+Transcriptional
+factor binding
+Gologi apparatus
+Transition metal ion transport
+Ras guanyl nucleotide exchange factor activity
+ATP binding
+Cell adhesion
+Cell cycle
+Regulation of EGF
+signaling pathway
+Neuron
+remodeling
+Acetylation
+Swissprot keywords
+GO biological process
+GO cellular component
+GO molecular function
+Nucleus
+Phosphoprotein
+(b)
+Figure 3: Continued.
+Journal of Oncology 11
+AEBP2, MCM8,
+POLG, SNAPC4,
+CREM, TRPS1,
+ETS2, MYEF2,
+GFI1, TMPO,
+TRIM21, RTEL1
+AEBP2, ACAA2,
+SNAPC4,
+MYEF2, LARS2,
+WTAP, TRPM2,
+NRIP1, PANK4,
+UBE2N, SLC1A5,
+PGLS, ANKRD28,
+PSMD11, DPP9,
+RPS20, TMPO
+UBE2N, PANK4,
+MCM8, CARS,
+FGR, TRPM7,
+PHKG2,
+ATP11A, LARS2,
+LRRK1, RTEL1
+GAS2L3, OTUD5,
+TDRD3, SOLH,
+FGR, UBE3B,
+CREM, SYNJ1,
+POLA2, WTAP,
+SENP7, RNF126,
+APP, GIT2,
+NDRG1, RPS20,
+GFI1, AEBP2,
+ACAA2, CARS,
+ANP32B, TRPM7,
+ARHGEF18, SNAPC4,
+NSFL1C, ATP11A,
+SPIRE1, NRIP1,
+ANKRD28, PSMD11,
+ETS2, TRPS1,
+MAPK8IP3, TMPO,
+LRRK1
+MCM8,
+POLG,
+POLA2
+DNA binding
+DNA replication
+ATP binding
+Acetylation
+Phosphoprotein
+(c)
+Figure 3: Classiﬁcation of genes regulated by Survivin and LSC. (a) The 137 genes were classiﬁed based on the regulation by human LSC
+and Survivin in ITD-Flt3+KSL cells. Arrow bars in the quadrant indicate the direction of gene regulation by Survivin or LSC. The top-
+right corner shows 55 genes upregulated by both LSC and Survivin (downregulated by Survivin gene deletion), whereas bottom-left corner
+represents 21 genes downregulated by both LSC and Survivin (upregulated by Survivin gene deletion). The top left corner shows 24 genes
+downregulated by LSC but upregulated by Survivin. The bottom-right corner indicates 37 genes upregulated by LSC but downregulated by
+Survivin. (b) Functional group association networks for Survivin regulated genes in the list of deregulated genes in human LSC visualized
+using Cytoscape program. The 137 genes listed in Tables 1(a)–1(d) were functionally annotated using DAVID software (P < .05). The size of
+each circle represents the number of genes involved in each functional categories and the thickness of the line indicates the number of genes
+shared with any function. Functional classiﬁcation was performed based on Gene Ontology Term database (biological process, molecular
+function and cellular component) and Swissprot Keywords. (c) The 76 genes upregulated or downregulated by Survivin and LSC (55 + 21
+genes shown in Figure 3(a)) were functionally classiﬁed by DAVID software and visualized by Cytoscapse program as shown in Figure 3(b).
+The size of each circle represents the number of genes involved in each functional categories and the thickness of the line indicates the
+number of genes shared with any function. Functional classiﬁcation was performed based on Swissprot Keywords. Genes annotated in each
+functional category are shown in the box.
+elegans homologue of Survivin, regulates transcription, most
+likely through Histone phosphorylation by Aurora kinase
+[25]. Survivin is essential for activation of Aurora kinase
+that phosphorylates Histone H3 [26, 27], an event required
+for transcriptional regulation [28–30] and cytokinesis [31],
+suggesting that Survivin may regulate transcription via
+Aurora kinase mediated Histone H3 phosphorylation. Over
+expression of Survivin also leads to phosphorylation of
+the Sp1 transcription factor [21]. Since microarray analysis
+was performed on lineage marker negative viable cells that
+express GFP, c-kit, and Sca-1 and survived in culture, it
+is unlikely that the eﬀects of Survivin on gene expression
+is a consequence of KSL apoptosis, although we cannot
+rule out indirect eﬀects resulting from cell cycle arrest as a
+consequence of Survivin deletion.
+Survivin is known to inhibit caspases 3, 7, and 10 that
+mediate apoptosis [1–3]. Our functional annotation analysis
+of the genes regulated by Survivin indicates that Survivin
+modulates a number of genes that aﬀect multiple biological
+processes and molecular functions, although inhibition of
+Survivin mRNA expression in CreER-Survivinﬂox/ﬂox KSL
+cells by 4OH-Tamoxifen was only 50% compared to control.
+While incompleteness of the gene deletion may aﬀect
+the downstream signals, signiﬁcant reduction of total cell
+number was observed. Since Survivin deletion induces cell
+death, the deleted cells are likely no longer present in the
+culture at the time of cell harvest for analyses, resulting
+in an underestimate of the eﬃciency of Survivin gene
+deletion and likely represents Survivin expression in cells
+that have escaped the Tamoxifen-induced deletion. The
+genes aﬀected by Survivin deletion were classiﬁed into
+cell cycle, adhesion, DNA replication, transcriptional factor
+binding, acetylation, phosphorylation, and polymerase. We
+did not observe changes in genes that mediate apoptosis.
+These results suggest that Survivin can regulate ITD-Flt3
+transformed KSL cell fate independent of its activity as a
+caspase inhibitor. More importantly, comparison of the 1,096
+Survivin regulated genes in ITD-Flt3+KLS cells with the
+12 Journal of Oncology
+GnRH
+GnRHR
+Gs
+AC
+PKA
+PLD
+PLCb
+Gnaq
+PLA2
+Raf1 Ras
+CREB ERK
+MAPK8IP3
+MEK1/2 MEKK
+MKK4/7 MKK3/6
+JNK
+c-Jun MAPK14
+Yan Rolled
+Ets2 Br-C
+Cf2
+Dsor1
+Ph1
+Ras85DSos
+PAKCDC42RasGAP Nck
+STK3 CASP
+AktSTATSHP2Grb2
+FAK JAK PI3K
+vWF IL15R IL1R
+IL1IL15
+CREM
+Pyk2
+BMK
+PKC
+Spire1GrkCCR1EphB
+Ephexin
+RhoA
+Src (Fgr) EGFR
+DNA DNA
+Figure 4: Genes regulated by Survivin in ITD-Flt3+KSL cells and deregulated in LSC are mapped on functional signaling network associated
+with epidermal growth factor receptor signaling pathway. Epidermal growth factor receptor signaling pathway (EGFR) is signiﬁcantly
+enriched in the shared genes associated with LSC and Survivin signaling by pathway enrichment analysis in KEGG and Gene Ontology
+database. Our analysis shows that 13 molecules shared by LSC and Survivin signaling are mapped on a functional signaling network
+associated with EGFR. The network was created based on KEGG database using Cytoscape software. Green circle and red circle represents
+downregulation and upregulation by Survivin gene deletion, respectively.
+human AML stem cell database demonstrates that 137 genes
+(12.4%) modulated by Survivin are also deregulated in LSCs.
+Functional annotation analysis indicates that genes related
+to dorsoventral axis formation or epidermal growth factor
+receptor signaling pathway (EGFR) are signiﬁcantly enriched
+in the shared genes associated with LSC and Survivin
+signaling, even though the number of molecules detected
+that associates with EGFR signaling is small. EGFR signaling
+activates signaling cascades involved in cell proliferation,
+such as Src, Sos, and MAP-kinases, and is known to be
+dysregulated in solid tumors [32, 33]. Our data also indicates
+that Survivin modulates expression of several genes that
+connect through the EGFR signaling pathway (Figure 4),
+suggesting a potential role of EGFR signaling downstream
+of Survivin in AML stem cells, despite the fact that EGFR is
+not usually upregulated in AML cells [34]. However, recent
+studies indicate an antineoplastic eﬀect of an EGFR inhibitor
+in AML via oﬀ-target eﬀects [34, 35]. Thus, our data would
+support EGFR signaling as a candidate pathway for treatment
+of patients with AML.
+While Survivin is not listed in the LSC database [16],
+it is expressed at higher levels in AML cells compared to
+normal CD34+ cells [9, 10]. Our data clearly show that
+Survivin aﬀects expression of 137 genes associated with LSC
+and reduces aberrant KSL proliferation induced by ITD-
+Flt3. This ﬁnding suggests that antagonizing Survivin in LSC
+may normalize expression of the deregulated genes, which in
+turn can inhibit their aberrant proliferation. Since Survivin
+Journal of Oncology 13
+Table 2: Genes regulated by Survivin in ITD-Flt3+KSL cells that are
+preferentially expressed in HSC.
+symbol dysregulation in LSC
+2310057J16Rik
+2610002J02Rik
+2610042L04Rik
+4930533K18Rik
+9130011E15Rik
+Adrb3
+Arl3
+Atp1b1
+AW112010
+Ccnd1
+Cdk9
+Chst1
+Crem dysregulated in LSC
+Cyp2e1
+Dnmt3b
+Emp1 dysregulated in LSC
+Erbb2ip
+Fmn2
+Fnbp4
+Foxb1
+Gabpb1
+Glycam1
+Gpr56
+Hmga2 dysregulated in LSC
+Iﬁ203
+Kcnj6
+Kcnmb1
+Lama5
+Lrrn1 dysregulated in LSC
+Ltbr
+Maﬀ dysregulated in LSC
+Mup3
+Myef2 dysregulated in LSC
+PCP4
+Prox1
+Rps4x dysregulated in LSC
+Scd2
+Slc22a9
+Slit2
+Sos1 dysregulated in LSC
+Stx3
+Tcf3
+Traf1
+Wnt6
+Xrcc1
+is expressed and regulated in normal CD34+ cells [4, 6] and
+antagonizing Survivin reduces normal HSPC in vivo [8], it
+is likely that Survivin deletion will aﬀect normal HSC in
+the patients. Although direct comparison of gene expression
+in in vitro ITD-Flt3+KSL cells with in vivo CD34neg KSL
+cells may not necessarily provide deﬁnite diﬀerences in
+Survivin signaling between these populations in vivo, we
+found that 124 out of 137 Survivin associated genes shared
+by ITD-Flt3+KSL cells and human LSC were not regulated
+in normal CD34neg KSL cells by Survivin. This disparity
+of downstream signaling of Survivin between normal and
+transformed HSC may represent as a means of identifying
+novel therapeutic targets against LSC that would thereby
+supplant direct Survivin disruption which would otherwise
+toxic to normal HSC.
+5. Conclusion
+We identiﬁed genes regulated by Survivin in ITD-Flt3
+transformed KSL cells that are deregulated in human AML
+stem cells that are distinct from normal HSC. This study
+will facilitate the identiﬁcation of speciﬁc therapeutic targets
+downstream of Survivin to eradicate LSC without aﬀecting
+normal HSC.
+Acknowledgments
+The authors thank Susan Rice and Denessa Lucket for
+cell sorting. Supported by Biomedical Research Grant from
+Indiana University School of Medicine, Research Support
+Funds Grant from Indiana University, Purdue University,
+Indianapolis, Research Support Funds from Mochida Memo-
+rial Foundation for Medical and Pharmaceutical Research,
+Sankyo Biomedical Research Foundation and Mitsubishi
+Pharma Research Foundation, Japan Leukaemia Research
+Fund, AstraZeneca Research Grant, Grant-in-Aid for Sci-
+entiﬁc Research (B) (20390298) from Japan Society for the
+Promotion of Science (to SF) and US Public Health Service
+grants (HL69669, HL079654, and HL096305) from the
+National Institutes of Health (to LMP). EMC is an adjunct
+scientist with the Canadian Blood Services, holds a Canada
+Research Chair in Endothelial Biology and a CSL-Behring
+Research Chair. The authors disclose no conﬂict of interest
+associated with this work. Human subjects are not involved.
+References
+[1] D. C. Altieri, “Survivin, versatile modulation of cell division
+and apoptosis in cancer,” Oncogene, vol. 22, no. 53, pp. 8581–
+8589, 2003.
+[2] D. C. Altieri, “Validating survivin as a cancer therapeutic
+target,” Nature Reviews Cancer, vol. 3, no. 1, pp. 46–54, 2003.
+[3] S. Fukuda and L. M. Pelus, “Survivin, a cancer target with
+an emerging role in normal adult tissues,” Molecular Cancer
+Therapeutics, vol. 5, no. 5, pp. 1087–1098, 2006.
+[4] S. Fukuda, R. G. Foster, S. B. Porter, and L. M. Pelus, “The
+antiapoptosis protein survivin is associated with cell cycle
+entry of normal cord blood CD34+
+cells and modulates cell
+cycle and proliferation of mouse hematopoietic progenitor
+cells,” Blood, vol. 100, no. 7, pp. 2463–2471, 2002.
+[5] S. Fukuda and L. M. Pelus, “Elevation of Survivin levels
+by hematopoietic growth factors occurs in quiescent CD34+
+hematopoietic stem and progenitor cells before cell cycle
+entry,” Cell Cycle, vol. 1, no. 5, pp. 322–326, 2002.
+14 Journal of Oncology
+[6] S. Fukuda and L. M. Pelus, “Regulation of the inhibitor-of-
+apoptosis family member survivin in normal cord blood and
+bone marrow CD34+
+cells by hematopoietic growth factors:
+implication of survivin expression in normal hematopoiesis,”
+Blood, vol. 98, no. 7, pp. 2091–2100, 2001.
+[7] S. Fukuda, C. R. Mantel, and L. M. Pelus, “Survivin
+regulates hematopoietic progenitor cell proliferation through
+p21WAF1/Cip1-dependent and—independent pathways,”
+Blood, vol. 103, no. 1, pp. 120–127, 2004.
+[8] C. G. Leung, Y. Xu, B. Mularski, H. Liu, S. Gurbuxani, and
+J. D. Crispino, “Requirements for survivin in terminal diﬀer-
+entiation of erythroid cells and maintenance of hematopoietic
+stem and progenitor cells,” Journal of Experimental Medicine,
+vol. 204, no. 7, pp. 1603–1611, 2007.
+[9] B. Z. Carter, M. Milella, D. C. Altieri, and M. Andreeﬀ,
+“Cytokine-regulated expression of survivin in myeloid
+leukemia,” Blood, vol. 97, no. 9, pp. 2784–2790, 2001.
+[10] C. Adida, C. Recher, E. Raﬀoux et al., “Expression and
+prognostic signiﬁcance of survivin in de novo acute myeloid
+leukaemia,” British Journal of Haematology, vol. 111, no. 1, pp.
+196–203, 2000.
+[11] A. Badran, A. Yoshida, Y. Wano et al., “Expression of the
+anti-apoptotic gene survivin in myelodysplastic syndrome,”
+International Journal of Oncology, vol. 22, no. 1, pp. 59–64,
+2003.
+[12] D. G. Gilliland and J. D. Griﬃn, “The roles of FLT3 in
+hematopoiesis and leukemia,” Blood, vol. 100, no. 5, pp. 1532–
+1542, 2002.
+[13] M. Levis, K. M. Murphy, R. Pham et al., “Internal tandem
+duplications of the FLT3 gene are present in leukemia stem
+cells,” Blood, vol. 106, no. 2, pp. 673–680, 2005.
+[14] S. Fukuda, P. Singh, A. Moh et al., “Survivin mediates
+aberrant hematopoietic progenitor cell proliferation and acute
+leukemia in mice induced by internal tandem duplication of
+Flt3,” Blood, vol. 114, no. 2, pp. 394–403, 2009.
+[15] V. E. Velculescu, S. L. Madden, L. Zhang et al., “Analysis of
+human transcriptomes,” Nature Genetics, vol. 23, no. 4, pp.
+387–388, 1999.
+[16] R. Majeti, M. W. Becker, Q. Tian et al., “Dysregulated gene
+expression networks in human acute myelogenous leukemia
+stem cells,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 106, no. 9, pp. 3396–3401,
+2009.
+[17] L. M. Kelly, Q. Liu, J. L. Kutok, I. R. Williams, C. L. Boulton,
+and D. G. Gilliland, “FLT3 internal tandem duplication
+mutations associated with human acute myeloid leukemias
+induce myeloproliferative disease in a murine bone marrow
+transplant model,” Blood, vol. 99, no. 1, pp. 310–318, 2002.
+[18] D. W. Huang, B. T. Sherman, and R. A. Lempicki, “Systematic
+and integrative analysis of large gene lists using DAVID
+bioinformatics resources,” Nature Protocols, vol. 4, no. 1, pp.
+44–57, 2009.
+[19] M. S. Cline, M. Smoot, E. Cerami et al., “Integration of bio-
+logical networks and gene expression data using Cytoscape,”
+Nature Protocols, vol. 2, no. 10, pp. 2366–2382, 2007.
+[20] N. B. Ivanova, J. T. Dimos, C. Schaniel, J. A. Hackney, K. A.
+Moore, and I. R. Lemischka, “A stem cell molecutar signature,”
+Science, vol. 298, no. 5593, pp. 601–604, 2002.
+[21] K. Asanuma, N. Tsuji, T. Endoh, A. Yagihashi, and N.
+Watanabe, “Survivin enhances fas ligand expression via up-
+regulation of speciﬁcity protein 1-mediated gene transcription
+in colon cancer cells,” The Journal of Immunology, vol. 172, no.
+6, pp. 3922–3929, 2004.
+[22] B. T. Takizawa, E. M. Uchio, J. J. Cohen, M. A. Wheeler,
+and R. M. Weiss, “Downregulation of survivin is associated
+with reductions in TNF receptors’ mRNA and protein and
+alterations in nuclear factor kappa B signaling in urothelial
+cancer cells,” Cancer Investigation, vol. 25, no. 8, pp. 678–684,
+2007.
+[23] M. Y. Balkhi, M. Christopeit, Y. Chen, M. Geletu, and G. Behre,
+“AML1/ETO-induced survivin expression inhibits transcrip-
+tional regulation of myeloid diﬀerentiation,” Experimental
+hematology, vol. 36, no. 11, pp. 1449–1460, 2008.
+[24] W. Salz, D. Eisenberg, J. Plescia et al., “A survivin gene signa-
+ture predicts aggressive tumor behavior,” Cancer Research, vol.
+65, no. 9, pp. 3531–3534, 2005.
+[25] M. Kostrouchova, Z. Kostrouch, V. Saudek, J. Piatigorsky, and
+J. E. Rall, “BIR-1, a Caenorhabditis elegans homologue of Sur-
+vivin, regulates transcription and development,” Proceedings
+of the National Academy of Sciences of the United States of
+America, vol. 100, no. 9, pp. 5240–5245, 2003.
+[26] J. Chen, S. Jin, S. K. Tahir et al., “Survivin enhances aurora-
+B kinase activity and localizes aurora-B in human cells,” The
+Journal of Biological Chemistry, vol. 278, no. 1, pp. 486–490,
+2003.
+[27] M. A. Bolton, W. Lan, S. E. Powers, M. L. McCleland, J. Kuang,
+and P. T. Stukenberg, “Aurora B kinase exists in a complex with
+survivin and INCENP and its kinase activity is stimulated by
+survivin binding and phosphorylation,” Molecular Biology of
+the Cell, vol. 13, no. 9, pp. 3064–3077, 2002.
+[28] S. J. Nowak and V. G. Corces, “Phosphorylation of histone
+H3 correlates with transcriptionally active loci,” Genes and
+Development, vol. 14, no. 23, pp. 3003–3013, 2000.
+[29] J. Li, Q. Lin, H.-G. Yoon et al., “Involvement of histone methy-
+lation and phosphorylation in regulation of transcription by
+thyroid hormone receptor,” Molecular and Cellular Biology,
+vol. 22, no. 16, pp. 5688–5697, 2002.
+[30] P. Cheung, K. G. Tanner, W. L. Cheung, P. Sassone-Corsi, J.
+M. Denu, and C. D. Allis, “Synergistic coupling of histone
+H3 phosphorylation and acetylation in response to epidermal
+growth factor stimulation,” Molecular Cell, vol. 5, no. 6, pp.
+905–915, 2000.
+[31] Y. Wei, L. Yu, J. Bowen, M. A. Gorovsky, and C. David
+Allis, “Phosphorylation of histone H3 is required for proper
+chromosome condensation and segregation,” Cell, vol. 97, no.
+1, pp. 99–109, 1999.
+[32] R. H. Alvarez, V. Valero, and G. N. Hortobagyi, “Emerging
+targeted therapies for breast cancer,” Journal of Clinical
+Oncology, vol. 28, no. 20, pp. 3366–3379, 2010.
+[33] T. J.R. Harris and F. McCormick, “The molecular pathology
+of cancer,” Nature Reviews Clinical Oncology, vol. 7, no. 5, pp.
+251–265, 2010.
+[34] C. K. Hahn, J. E. Berchuck, K. N. Ross et al., “Proteomic and
+genetic approaches identify Syk as an AML target,” Cancer Cell,
+vol. 16, no. 4, pp. 281–294, 2009.
+[35] S. Boehrer, L. Ad`es, T. Braun et al., “Erlotinib exhibits
+antineoplastic oﬀ-target eﬀects in AML and MDS: a preclinical
+study,” Blood, vol. 111, no. 4, pp. 2170–2180, 2008.
+

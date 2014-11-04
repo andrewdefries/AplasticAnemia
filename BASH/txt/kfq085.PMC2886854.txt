@@ -1,0 +1,748 @@
+TOXICOLOGICAL SCIENCES 116(1), 140–150 (2010)
+doi:10.1093/toxsci/kfq085
+Advance Access publication March 25, 2010
+Chloramphenicol Causes Mitochondrial Stress, Decreases ATP
+Biosynthesis, Induces Matrix Metalloproteinase-13 Expression, and
+Solid-Tumor Cell Invasion
+Ching-Hao Li,* Yu-Wen Cheng,† Po-Lin Liao,* Ya-Ting Yang,* and Jaw-Jou Kang*,1
+*Institute of Toxicology, College of Medicine, National Taiwan University, Taipei 100, Taiwan; and †School of Pharmacy, Taipei Medicine University,
+Taipei 110, Taiwan
+1
+To whom correspondence should be addressed at Institute of Toxicology, College of Medicine, National Taiwan University, No. 1 Jen-Ai Road, Section 1, Taipei,
+Taiwan. Fax: þ886-2-23410217. E-mail: jjkang@ntu.edu.tw.
+Received October 27, 2009; accepted March 16, 2010
+Overuse and abuse of antibiotics can increase the risk of cancer.
+Chloramphenicol can inhibit both bacterial and mitochondrial
+protein synthesis, causing mitochondrial stress and decreased ATP
+biosynthesis. Chloramphenicol can accelerate cancer progression;
+however, the underlying mechanisms of chloramphenicol in
+carcinogenesis and cancer progression are still unclear. We found
+that chloramphenicol can induce matrix metalloproteinase
+(MMP)-13 expression and increase MMP-13 protein in conditioned
+medium, resulting in an increase in cancer cell invasion.
+Chloramphenicol also activated c-Jun N-terminal kinases (JNK)
+and phosphatidylinositol 3-kinase (PI-3K)/Akt signaling, leading
+to c-Jun protein phosphorylation. The activated c-Jun protein has
+been proven to activate binding to the MMP-13 promoter and also
+upregulate the amount of MMP-13. Both the SP 600125 (JNK
+inhibitor) and LY 294002 (PI-3K/Akt inhibitor) can inhibit
+chloramphenicol-induced c-Jun phosphorylation, MMP-13 expres-
+sion, and cell invasion. Overexpression of the dominant-negative
+JNK and PI-3K p85 subunit also negate chloramphenicol-induced
+responses. Other antibiotics that cause mitochondrial stress and
+a decrease in ATP biosynthesis also induce MMP-13 expression.
+These ﬁndings suggest that chloramphenicol-induced PI-3K/Akt,
+JNK phosphorylation, and activator protein 1 activation might
+function as a novel mitochondrial stress signal that result in an
+increase of MMP-13 expression and MMP-13-associated cancer cell
+invasion. The ﬁndings of this study conﬁrms that chloramphenicol,
+and other 70S ribosomal inhibitors, should be administered with
+caution, especially during cancer therapy.
+Key Words: chloramphenicol; matrix metalloproteinase; cell
+invasion; antibiotics; JNK; PI-3K, mitochondria stress.
+Chloramphenicol, extracted from Streptomyces venezuelae,
+is an antibiotic with a small molecular size and highly lipid
+soluble. Chloramphenicol is indicated for the treatment of
+wound healing and ocular infections. Chloramphenicol reaches
+therapeutic concentrations in the cerebrospinal ﬂuid and is used
+for the treatment of meningitis in the third-world countries.
+Also, it is used as the last-line defense for multiple drug-resistant
+organisms, such as vancomycin-resistant Enterococcus
+(Hammett-Stabler and Johns, 1998). Aside from its pharmaceu-
+tical application, chloramphenicol has become a major contam-
+inant in farmed seafood (especially shrimps, crab, and ﬁsh). Due
+to the fact that some farmed seafood contain excessive
+chloramphenicol residue, new concerns about its toxicity have
+been raised. Adverse effects caused by overdose and overuse of
+chloramphenicol include aplastic anemia, gray baby syndrome,
+and leukemogenesis (Hammett-Stabler and Johns, 1998; Holt
+et al., 1993; Robin et al., 1981). In a mouse T-cell model,
+chloramphenicol induced abnormal cell differentiation and
+inhibited apoptosis, leading to the development of leukemia-
+like syndrome (Yuan and Shi, 2008). Based on epidemiologic
+studies, chloramphenicol did not contribute to carcinogenesis
+when applied topically. However, its causal association with
+leukemia, especially through systemic use, was probably not
+adequately tested in these studies (Smith et al., 2000). From
+a thorough review by the International Agency for Research on
+Cancer, chloramphenicol is listed as a probable carcinogen to
+humans (Group 2A). The underlying mechanism of chloram-
+phenicol in human solid-tumor progression is still unclear.
+Chloramphenicol reversibly binds to the 50S subunit of the
+70S ribosome, inhibiting peptidyl transferase in both prokaryotic
+organisms and mitochondria (Balbi, 2004). In histopathological
+studies, chloramphenicol-stressed mitochondria showed mor-
+phological and functional deterioration (Duewelhenke et al.,
+2007). Mitochondrial damage is an important contributor to
+human aging and aging-related diseases. Thus, we assumed that
+chloramphenicol-treated somatic cells may show senescence-
+related phenotypes. In 2005, we found that chloramphenicol
+caused senescence-associated morphological changes and se-
+nescence biomarker SA-bGal activation in somatic cancer cells
+(Li et al., 2005). Besides morphological alteration, senescent
+cells often exhibit cell cycle blockage, decreased sensitivity to
+growth factors and apoptosis stimulators, and changes in their
+Ó The Author 2010. Published by Oxford University Press on behalf of the Society of Toxicology. For permissions, please email: journals.permissions@oxfordjournals.org.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/2.5), which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+gene expression pattern. A study using complementary DNA
+(cDNA) array showed that a variety of genes involved in cell
+cycle regulation, cytoskeleton, stress response, and metabolism
+are altered during senescence (Kang et al., 2003).
+Upregulation of matrix metalloproteinases (MMPs) during
+senescence may contribute to matrix degradation and senescent
+phenotype appearance (Kang et al., 2003). MMPs are a group
+of zinc-dependent endopeptidases. It has been demonstrated
+that MMPs participate in several physiological (including
+embryonic development and wound healing) and pathological
+events (rheumatoid arthritis and tumor metastasis) (Kuzuya and
+Iguchi, 2003; Leeman et al., 2002). At least 23 different MMPs
+have been identiﬁed in humans. MMPs have been classiﬁed
+into gelatinases, collagenases, stromelysins, and membrane-
+type MMPs. The MMP-13 (also called collagenase-3) can
+hydrolyze collagen types I, II, III, IV, X, and XIV; gelatin;
+aggrecan; tenascin C; and ﬁbronectin (Kna¨uper et al., 1997a;
+Leeman et al., 2002). Because of its proteolytic potency and
+wide substrate speciﬁcity, the expression of MMP-13 is
+restricted to speciﬁc tissues, including human ﬁbroblasts,
+keratinocytes, and solid-tumor cells (Kna¨uper et al., 1997a).
+High levels of MMP-13 often correlate with malignant tumor
+invasion, suggesting an important role for MMP-13 in tumor
+progression (Kna¨uper et al., 1997a; Leeman et al., 2002).
+The rationale of the study is to verify chloramphenicol-induced
+senescence-like responses, especially the mitochondria-to-nucleus
+stress signals and MMP expression in chloramphenicol-treated
+H1299 cells. We found that chloramphenicol treatment activates
+PI-3 kinase/Akt/c-Jun N-terminal kinases (JNK) signaling and
+increases nuclear c-Jun activity, which contribute to MMP-13
+expression and H1299 cell invasion.
+MATERIALS AND METHODS
+Reagents, cell culture, and treatments. All chemicals used were of
+analytical grade and, unless otherwise indicated, were purchased from Sigma
+(St Louis, MO). Chloramphenicol was dissolved in ethanol, prepared freshly,
+and protected from light. The solvent content was < 5 ll/ml in all experiments.
+The H1299 (non–small-cell lung cancer), HepG2 (hepatocarcinoma), A549
+(lung adenocarcinoma), and HaCaT cell (immortalized keratinocyte) were
+maintained in Dulbecco’s modiﬁed Eagle’s medium (DMEM), supplemented
+with 10% heat-inactivated fetal bovine serum, and cultured in a humidiﬁed
+atmosphere of 5% CO2 at 37°C.
+Transient transfection of dominant-negative-JNK and DN p85. H1299
+cells were seeded in complete medium in six-well plates for 24 h before
+transfection. Cells were transfected with 2-lg plasmid DNA containing
+dominant-negative (DN) JNK (a gift from Dr H.-F. Yang-Yen, Institute of
+Molecular Biology, Academia Sinica, Taiwan) or DN p85 (d-p85; a gift from
+Dr W. M. Fu, Institute of Pharmacology, National Taiwan University, Taiwan)
+using the Lipofectamine 2000 reagent (Invitrogen, Carlsbad, CA) in serum-free
+medium, according to the manufacturer’s protocol. The medium was replaced
+with complete medium 6 h later. Cells were then incubated for another 24 h and
+were then exposed to chloramphenicol.
+Cellular ATP content measurement. Total cellular ATP levels were
+determined by ATP-bioluminescent assay. Cell lysate was prepared as describe
+in the manufacturer’s protocol (BioVision, Mountain View, CA). Each reaction
+was performed by mixing 5–10 ll lysates in 90 ll reaction buffer in a 96-well
+plate. Finally, luciferase and its substrates were added and luminescence
+intensity was counted immediately, using a luminometer (TopCount; Packard,
+Ramsey, MN) calibrated with appropriate ATP standards.
+RNA isolation, reverse transcription–PCR, and real-time quantitative
+PCR. Total RNA was isolated by the acid guanidium thiocyanate-
+phenol-chloroform extraction as described previously (Li et al., 2005). To
+analyze MMP messenger RNA (mRNA) expression, reverse transcription
+(RT)-PCR were performed by evaluating MMP mRNA content and that of
+a housekeeping gene, b-actin, as an internal control. In brief, the ﬁrst strand
+cDNA was synthesized from 3 lg total RNA at 42°C for 60 min. Speciﬁc
+MMP cDNAs were ampliﬁed as follows: denaturation at 95°C for 5 min,
+followed by 35 cycles of denaturation at 95°C for 30 s, annealing at 60°C for
+30 s, and extension at 72°C for 30 s and a ﬁnal 10 min extension at 72°C. The
+PCR products were separated by 2% agarose gel electrophoresis, with
+ethidium bromide staining. The PCR primer sets for MMPs and b-actin are
+listed in Supplementary table 1.
+The real-time quantitative PCR (qPCR) and quantitative measurements were
+performed with SYBR-Green PCR Mix essentially as described by the
+manufacturer (Bio-Rad, Hercules, CA). For MMP-13, the RT-PCR primer set
+was purchased from SABiosciences (Frederick, MD). Normalized expression
+levels were then calculated using the starting levels of b-actin in each sample to
+normalize for differences in total RNA content in individual samples.
+Nuclear protein extraction. Nuclear extracts were prepared using nuclear
+and cytoplasmic extraction reagents (Pierce, Rockford, IL). According to the
+manufacturer’s protocol, cell monolayer on 100-mm dishes were scraped and
+resuspended in cytoplasmic extraction reagent by repetitive pipetting. The
+cytosolic fraction was separated by centrifugation (15,000 3 g, 5 min). The
+nuclear protein was extracted with nuclear extraction reagent by intermittently
+vortexing over 40 min.
+Western blots. To evaluate the MMP-13 content in the culture medium,
+serum-free DMEM-conditioned medium was collected and precipitated with
+10% trichloroacetic acid at 4°C for 30 min (Ahmed et al., 2003). The
+precipitated proteins were separated by centrifugation (14,000 3 g) and
+redissolved in 23 sample buffer (125mM Tris/HCl, 4% SDS, 20% glycerin,
+b-mercaptoethanol, and 0.25% bromophenol blue, pH 6.8) and boiled for
+10 min. To obtain total cellular protein extracts, a cell monolayer was washed
+with PBS and lysed in RIPA lysis buffer (50mM Tris-HCl [pH 7.4], 1%
+Nonidet P-40, 150mM NaCl, 1mM ethylene glycol tetraacetic acid, 1mM NaF,
+1mM Na3VO4, and proteinase inhibitor cocktail). The protein concentration
+was determined by the Bradford method (Bio-Rad). Proteins were separated by
+10 or 12% SDS-polyacrylamide gel electrophoresis and electroblotted onto
+polyvinylidene ﬂuoride (PVDF) membranes. For immunodetection, the PVDF
+membrane was blocked in nonfat milk and incubated in Tris-buffered saline
+with Tween-20 (TBST) with antibodies speciﬁc to Erk, phospho-Erk, p38-
+MAPK, phospho-p38-MAPK, Akt, phospho-Akt, JNK, phospho-JNK, and
+phospho-cJun (Santa Cruz, Santa Cruz, CA), MMP-13 (BioVision), and b-actin
+(Sigma). For chemiluminescent detection, blots were incubated with horserad-
+ish peroxidase-conjugated secondary antibodies (1:5000 in TBST) for 2 h at
+room temperature, followed by enhanced chemiluminescence detection,
+according to the manufacturer’s protocol (PerkinElmer).
+In vitro invasion assay. The in vitro invasion assay was carried out in
+transwell plates with 8-lm pores. Each transwell was precoated with 25–30 ll
+diluted Matrigel (BD Biosciences, Belford, MA) (1:3 dilution with serum-free
+DMEM) as described previously (Yagel et al., 1989). H1299 (2.5 3 104
+cells
+per well) or A549 (5 3 104
+cells per well) was seeded on top of the Matrigel
+layer and incubated for 12–48 h. Noninvading cells and the Matrigel layer were
+removed using a cotton bud and the migrated cells, attached to the lower
+membrane, were ﬁxed by immersion in 4% formaldehyde for 3 min. Finally,
+the invading cells were counterstained with 0.05% crystal violet and counted.
+Lung colonization assay. Experimental in vivo metastatic potential of the
+H1299 (with or without chloramphenicol treatment) was measured by the lung
+CHLORAMPHENICOL INDUCES MMP-13 EXPRESSION 141
+colonization assay (Kim et al., 2009). Cells used for injection were grown to
+subconﬂuence, treated with chloramphenicol for 24 h, trypsinized, washed, and
+single-cell suspensions were prepared in serum-free DMEM. The cell
+suspensions (5 3 104
+single cells/0.2 ml DMEM) were injected into the tail
+vein of 4- to 6-week-old male mice. C57BL/6J mice were obtained from
+National Taiwan University Animal Center and housed aseptically in the
+animal facilities. All experimental procedures were performed in accordance
+with the Guide for the Care and Use of Laboratory Animals. Twenty days later,
+the mice were anesthetized with isoﬂurane and sacriﬁced. The lungs were ﬁxed
+with Bouin’s solution, and metastatic colonies on the lung surface were counted
+macroscopically.
+Gelatin zymography. The enzymatic activity of MMP-13 was assayed by
+gelatin zymography (Yoon et al., 2002). Conditioned medium was mixed with
+sample buffer without reducing agent. The sample was loaded into a gelatin
+(1 mg/ml)-containing SDS-polyacrylamide gel electrophoresis. After electro-
+phoresis, the gel was washed twice in washing buffer (50mM Tris-HCl, pH 7.4;
+150mM NaCl; and 2.5% Triton X-100) for 30 min and then incubated in
+incubation buffer (50mM Tris-HCl, pH 7.4; 150mM NaCl, 0.02% NaN3,
+10mM CaCl2, and 1lM ZnCl2) at 37°C. After 12 h of incubation, the gel was
+stained with 0.1% Coomassie brilliant R-250 in 50% methanol and 10% acetic
+acid for 30 min and destained with staining solution without Coomassie
+brilliant R-250. The clear zone of gelatin digestion indicated the presence of
+MMP protein.
+Chromatin immunoprecipitation. The assay was performed using the
+chromatin immunoprecipitation (ChIP) kit (Upstate Biotech, Lake Placid, NY).
+Living cells were treated with formaldehyde to generate protein-DNA cross-
+links. Then, sheer chromatin (with an average DNA fragment size to ~500 base
+pairs) was prepared by repeated sonication. The extract was divided to INPUT
+and ChIP portions. Anti-phospho-cJun IgG (Catalog sc-822; Santa Cruz) were
+added to the ChIP portions at 1:100 dilution for immunoprecipitation. The
+nonspeciﬁc IgG was used as a negative control. The immunocomplexes were
+pulled down by protein A/Sepharose and washed out of the nonspeciﬁc
+binding. The cross-links in the immunoprecipitated chromatin were reversed by
+heating overnight with proteinase K at 65°C. The DNA was puriﬁed by phenol/
+chloroform extraction and ethanol precipitation. The puriﬁed ChIP-captured
+DNA of samples and of input DNA samples were ampliﬁed by the PCR
+method as described before. The following oligonucleotides: 5#-CACCCACAT-
+CAGGAACCCCCCATC-3#, 5#-GAGGAAGACCTCCAGTTTGCA GAG-3#
+(MMP-13) and 5#-GATATCGCCGCGCTCGTCGTCGAC-3#, 5#-ACCATCAC
+GCCCTGGTGCCTGGGG-3# (b-actin) were used for PCR detection.
+Statistical analysis. All data were expressed as mean ± SD from at least
+three independent experiments. Statistical analysis was carried out using
+Student’s t-test or one-way ANOVA, and values of p < 0.05 were considered
+statistically signiﬁcant.
+RESULTS
+Chloramphenicol Caused Mitochondrial Stress, ATP
+Restriction, and Increased Cancer Cell Invasion
+Chloramphenicol testing dosages (10–100 lg/ml) used in
+these studies were without cytotoxicity in MTT assay (Supple-
+mentary ﬁg. 1). The clinical dosage of chloramphenicol normally
+used against infectious diseases is 10–30 lg/ml in serum, which
+corresponds to a dose of 50–100 mg/kg/day (Balbi, 2004).
+Chloramphenicol inhibited mitochondrial protein translation
+(Fig. 1A), caused mitochondrial stress, and decreased ATP
+biosynthesis (Fig. 1B) in H1299 cells in a dose-dependent
+manner. A transwell assay showed that the ATP-restricted cell
+condition could promote cancer cell invasion (Fig. 1C).
+Chloramphenicol Induced MMP-13 mRNA Expression in
+Cancer Cells and Facilitated Cancer Cell Invasion
+The mRNA levels of MMPs were analyzed by RT-PCR
+in chloramphenicol-treated H1299 cells. Cellular MMP-3
+(stromelysin-1) and MMP-13 (collagenase-3) mRNA levels
+FIG. 1. Chloramphenicol treatment caused mitochondria stress, ATP
+restriction, and increased cancer cell invasion. (A) Chloramphenicol treatment
+suppressed mitochondria translation of mtDNA-encoded cytochrome c oxidase
+subunit I (Cox I) in H1299 cell. (B) Total ATP was determined by using ATP
+bioluminescent assay kit as described in the ‘‘Materials and Methods’’ section.
+Mitochondria inhibitor rotenone was used as positive control. Chloramphenicol
+treatment decreased ATP biosynthesis in H1299 cell. The ATP restriction
+condition resembled the hypoxia. (C) To evaluate the invasion capacity of
+chloramphenicol-treated H1299 cell, the Matrigel-coated 8-lm transwells were
+used as described in the ‘‘Materials and Methods’’ section. The data showed
+that chloramphenicol-induced ATP-restricted H1299 cell exhibited stronger
+invasion activity than control. *p < 0.05, **p < 0.01, and ***p < 0.001
+indicate a statistical difference with the control.
+142 LI ET AL.
+were increased in both dose- and time-dependent manner
+(Figs. 2A and 2B). In a qPCR assay, the MMP-13 mRNA was
+also increased in chloramphenicol-treated H1299 cells (Fig. 2C).
+Under the testing conditions, the collagenases (MMP-1),
+gelatinases (MMP-2 and MMP-9), stromelysins (MMP-10 and
+MMP-11), and MMP-14 remained either unaffected or down-
+regulated (Fig. 2A). Chloramphenicol-induced MMP-13 mRNA
+expression was observed in H1299, A549, and HepG2, whereas
+the MMP-3 mRNA expression was observed only in H1299 and
+A549. Chloramphenicol-induced MMP-13 expression was
+observed in nine solid-tumor cell lines (including H1299,
+HepG2, A549, CL-10, NCI-N87, Huh7, SAS, GBM8401, and
+Hep1) but not in leukemia suspensions (including THP-1,
+HL-60, and Jurkat) (Supplementary ﬁg. 2). Leukemia suspen-
+sions usually have less mitochondria copy number than somatic
+cells (Mendoza et al., 2004; Shen et al., 2008; Shmookler
+Reis and Goldstein, 1983). The less mitochondria copy number
+in leukemia suspensions may diminish the mitochondria-to-
+nucleus stress signaling, resulting in less response of cells to
+chloramphenicol.
+Both MMP-3 and MMP-13 mRNA expression levels remained
+unaffected in immortalized normal cells (including HaCaT
+keratinocytes, CCD-966SK ﬁbroblast, IMR-90, retinal pigmented
+epithelial cell [ARPE]) and primary cultures (human umbilical
+veinendothelialcell,humankidneyepithelialcell,mouselungcell,
+rat cardiocyte, and rat vascular smooth muscle cell) (Supplemen-
+tary ﬁg. 2). Our ﬁndings suggest that the chloramphenicol-induced
+MMP-13 expression only existed in solid-tumor cells but not in
+leukemia suspensions and normal cells.
+Recently, both MMP-3 and MMP-13 have been demon-
+strated to enhance extracellular matrix degradation and cancer
+cell invasion. However, the chloramphenicol-induced invasive
+activities were inhibited by coincubation with the speciﬁc
+MMP-13 inhibitor CL-82198 but not the MMP-3 inhibitor
+NNGH (N-isobutyl-N-[4-methoxyphenylsulphonyl] glycyl
+hydroxamic acid) (Fig. 2D).
+FIG. 2. The MMP-13 mRNA was induced in chloramphenicol-treated cancer cell and then facilitated cancer cell invasive activity. The mRNA levels of
+MMPs in chloramphenicol-treated cells were analyzed by RT-PCR as described in the ‘‘Materials and Methods’’ section. (A) Both MMP-3 and MMP-13 mRNA
+expression were induced in chloramphenicol (10–100 lg/ml)-treated H1299 cell in a dose-dependent manner. (B) Chloramphenicol (20 lg/ml)-induced MMP-13
+mRNA expression was observed in cancer cell lines H1299, A549, and HepG2 in a time-dependent manner. However, chloramphenicol-induced MMP-3 mRNA
+expression was observed only in cancer cell lines H1299 and A549. Both MMP-3 and MMP-13 mRNA expression levels remained unaffected in immortalized
+HaCaT and primary human umbilical vein endothelial cell . (C) The qPCR data showed that chloramphenicol treatment increased MMP-13 mRNA expression.
+(D) Chloramphenicol-induced cancer cell invasion could be inhibited by MMP-13 inhibitor, CL-82198 (20lM), but not by MMP-3 inhibitor, NNGH (20lM).
+*p < 0.05, **p < 0.01, and ***p < 0.001 indicate a statistical difference with the control. #
+p < 0.05, ##
+p < 0.01, and ###
+p < 0.001 indicate a statistical difference
+with chloramphenicol-treated control.
+CHLORAMPHENICOL INDUCES MMP-13 EXPRESSION 143
+Wealsofoundthattheconditionedmediumofchloramphenicol-
+treated H1299 cells could enhance the invasive ability of
+A549 cells, which have previously been demonstrated to have
+weak invasive ability (Mooradian et al., 1992). This increase
+could also be inhibited by CL-82198 (Fig. 3A). During the
+entire process, the Western blots and gelatin zymography also
+showed strong proteolytic activity of the MMP-13 protein in
+conditioned medium with chloramphenicol-treated H1299
+cells (Fig. 3B). Next, we investigated the effect of
+chloramphenicol-induced MMP-13 expression on cancer cell
+metastasis in vivo. In comparison with H1299, treatment with
+100 lg/ml chloramphenicol for 24 h led to a remarkable
+increase in metastatic colony formation on lung surface. The
+MMP-13 inhibitor, CL-82198, inhibited metastatic activity of
+chloramphenicol-treated cells (Fig. 3C). The in vivo data
+supported that chloramphenicol-induced MMP-13 expression
+is strongly associated with metastatic capacity of solid-tumor
+cells.
+Chloramphenicol Activated Mitogen-Activated Protein
+Kinases and PI-3 Kinase/Akt Signaling
+Mitogen-activated protein kinases (MAPKs), including p42/
+p44 ERK, JNK and p38-MAPK, and Akt, were activated in
+chloramphenicol-treated H1299 cells in both a dose-dependent
+(Fig. 4A) and a time-dependent manner (Supplementary ﬁg. 3).
+The Effects of MAPKs and PI-3 Kinase Inhibitors on
+Chloramphenicol-Induced MMP-13 Expression
+To assess the involvement of MAPK and phosphatidylino-
+sitol 3-kinase (PI-3K)/Akt signaling in chloramphenicol-
+induced MMP-13 mRNA expression, cells pretreated with
+MAPKs and PI-3K inhibitors were cotreated with chloram-
+phenicol and assayed by RT-PCR. Results showed that both SP
+600125 and LY 294002 suppressed chloramphenicol-mediated
+MMP-13 mRNA expression. However, the induction of MMP-
+13 by chloramphenicol treatment remained unaffected by PD
+98059 or SB 203580 (Fig. 4B). The SP 600125 and LY 294002
+FIG. 3. The MMP-13 protein in chloramphenicol-treated H1299 condition
+medium facilitated A549 cell invasion. (A) About 5 3 104
+A549 cells were
+seeded into transwells and incubated with condition medium of chloramphenicol-
+treated H1299 cell for 24 h. The data showed that secreted MMP-13 in condition
+medium could enhance A549 cells invasion. The increase in invasive A549 cell
+counts could be prevented by MMP-13 inhibitor, CL-82198 (20lM), but not by
+MMP-3 inhibitor, NNGH (20lM). *p < 0.05, **p < 0.01, and ***p < 0.001
+indicate a statistical difference with the control. #
+p < 0.05, ##
+p < 0.01, and
+###
+p < 0.001 indicate a statistical difference with chloramphenicol-treated
+condition medium control. (B) Chloramphenicol-treated H1299 condition medium
+was collected, and the protein was precipitated by 10% trichloroacetic acid. MMP-
+13 protein in condition medium was detected by Western blotting. For gelatin
+zymography, the condition medium was concentrated. The gelatin enzymatic
+digestion wasperformed as described inthe ‘‘Materialsand Methods’’ section. Both
+MMP-13 protein level and activity were increased in chloramphenicol-treated
+H1299 condition medium in a time-dependent manner. (C) The in vivo metastatic
+activity was evaluated by lung colonization assay. The H1299 or chloramphenicol-
+treated H1299 cells were iv injected into living C57BL/6J mice. Twenty days later,
+the colonies formation on lung surface was counted. No colony was found in mice
+received DMEM injection. Treatment with 100 lg/ml chloramphenicol for 24 h led
+to a remarkable increase of metastatic colonies formation on lung surface compared
+to H1299 cell control. MMP-13 inhibitor, CL-82198, treatment inhibited metastatic
+activity to a resting state. ***p < 0.001 indicate a statistical difference with the
+H1299 control. ##
+p < 0.01 indicate a statistical difference with chloramphenicol-
+treated H1299 group.
+144 LI ET AL.
+CHLORAMPHENICOL INDUCES MMP-13 EXPRESSION 145
+also inhibited MMP-13 activity by gelatin zymography
+(Fig. 4C) and chloramphenicol-induced cell invasion
+(Fig. 4D). Chloramphenicol-induced JNK phosphorylation
+could also be inhibited by LY 294002, whereas SP 600125
+did not abolish Akt activation (Fig. 5A). The data suggest that
+PI-3K/Akt/JNK signaling is essential for chloramphenicol-
+associated MMP-13 induction and cancer cell invasion.
+PI-3 Kinase/Akt/JNK Signaling Required for
+Chloramphenicol-Induced c-Jun Phosphorylation and
+MMP-13 Expression
+Coincubation with SP 600125 or LY 294002 inhibited
+chloramphenicol-induced c-Jun phosphorylation in the nu-
+cleus. The proliferating cell nuclear antigen (PCNA) protein
+was used as an internal control in the nuclear extracts (Fig. 5A).
+Plasmids encoding DN JNK or the p85 subunit of PI-3K
+(DN p85) were transfected into H1299 cells. The HA-tag
+protein conﬁrmed the successful expression of the DN JNK
+and p85 proteins. In these successfully transfected cells,
+chloramphenicol-induced JNK activation and c-Jun phosphor-
+ylation were reduced, and there was no MMP-13 activity in
+gelatin digestion (Fig. 5B).
+Chloramphenicol Increased Activator Protein 1 DNA–
+Binding Activity and Induced MMP-13 Expression
+The transcription factor activator protein 1 (AP-1) com-
+ponent protein, phospho-cJun, increased in nuclear extracts
+from chloramphenicol-induced H1299 cells in both a dose-
+dependent (Fig. 6A) a and time-dependent manner (Supplemen-
+tary ﬁg. 6). MMP-13 expression could be repressed by the AP-1
+inhibitor curcumin (Fig. 6B), but not by the nuclear factor-jB
+inhibitor pyrrolidine dithiocarbamate or Bay–17–7085 (Supple-
+mentary ﬁg. 4). The direct DNA binding between phospho-cJun
+protein and AP-1 consensus sequence (TGACTCA) were
+demonstrated by EMSA studies in vitro (data not shown).
+ChIP was used for assaying the phospho-cJun protein–
+binding activity to the MMP-13 promoter. Validation of the
+method is shown in Supplementary ﬁgure 5. The phospho-cJun
+protein was coimmunoprecipitated together with the MMP-13
+promoter in both a dose-dependent (Fig. 6C) and a time-
+dependent manner (Supplementary ﬁg. 6). Coincubation with
+SP 600125 or LY 294002 inhibited the interaction between
+phospho-cJun and MMP-13 promoter (Fig. 6D). This ﬁnding
+suggests that the transcription factor AP-1 is required for
+chloramphenicol-induced MMP-13 expression and further
+MMP-13–mediated cell invasion.
+Antibiotics Causing Mitochondrial Stress and ATP
+Restriction Induced MMP-13 Expression
+In addition to chloramphenicol, other antibiotics, including
+minocycline, doxycycline, and clindamycin, may also inhibit
+FIG. 4. Effects of MAPKs and PI-3 kinase inhibitors on chloramphenicol-induced MMP-13 mRNA expression. (A) H1299 cells were treated with
+0–100 lg/ml chloramphenicol for 24 h, and the phosphorylation of MAPKs and Akt were detected by Western blotting. The blots showed that ERK, JNK,
+p38-MAPK, and Akt were activated in respond to chloramphenicol treatments. Chloramphenicol-induced activation of MAPKs and Akt can be inhibited by
+speciﬁc inhibitors, PD 98059 (ERK inhibitor), SP 600125 (JNK inhibitor), SB 203580 (p38-MAPK inhibitor), and LY 294002 (PI-3K inhibitor). The fold
+changes of protein phosphorylation were analyzed by densitometry. (B) Chloramphenicol-mediated MMP-13 expression was inhibited by SP 600125 and
+LY 294002 but not by PD 98059 and SB 203580. The fold changes of MMP-13 mRNA were analyzed by densitometry. (C) The gelatin zymography showed
+SP 600125 and LY 294002 could inhibit chloramphenicol-mediated increase in pro-MMP-13 activities. (D) Chloramphenicol-induced increase in invasion
+activity was inhibited by SP 600125 and LY 294002. *p < 0.05, **p < 0.01, and ***p < 0.001 indicate a statistical difference with the control. #
+p < 0.05,
+##
+p < 0.01, and ###
+p < 0.001 indicate a statistical difference with chloramphenicol-treated control.
+FIG. 5. JNK and PI-3 kinase/Akt signaling were required for
+chloramphenicol-induced c-Jun phosphorylation and MMP-13 expression.
+(A) The blot showed that LY 294002 inhibited both JNK and Akt phosphory-
+lation. SP 600125 inhibited JNK phosphorylation, whereas the Akt phosphor-
+ylation was unaffected. The data suggested that the involvement of PI-3K/Akt
+signaling in chloramphenicol-induced JNK activation. (B) Plasmids encoded DN
+JNK and p85 subunit of PI-3K were transfected into H1299 cell as described in the
+‘‘Materials and Methods’’ section. The HA-tag indicated the successful transfection
+of DN protein. The condition medium was collected and analyzed by gelatin
+zymography. The DN JNK- or DN p85-overexpressing H1299 cell were reduced in
+pro-MMP-13 activity in relation to chloramphenicol-treated control.
+146 LI ET AL.
+mitochondrial translation (Fig. 7A), cause ATP restriction
+(Fig. 7B), induce MMP-13 mRNA expression (Fig. 7C), and
+facilitate cell invasion (Fig. 7D). It has been reported
+previously that doxycycline inhibits MMPs. For MMP-13,
+doxycycline did not function as an inhibitor below 200lM
+(48 lg/ml). The inhibition concentration may be difﬁcult to
+achieve in vivo (Smith et al., 1998). However, the 10 lg/ml
+doxycycline induced MMP-13 expression in H1299 cell.
+DISCUSSION
+Tumor cells usually change their mitochondrial function,
+triggers a mitochondria-to-nucleus signaling, and changes gene
+expression that make the tumor cells more likely to invade
+(Fosslien, 2008; Uchiyama et al., 2004). The MMPs are well-
+known metastatic factors (Kuzuya and Iguchi, 2003). Tumor
+metastatic potential correlated with enzymatic degradation of
+type IV collagen. MMP-13 shows the highest proteolytic
+activity among the collagenases and could degrade type IV
+collagen at both a2(IV) and a1(IV) chains. Thus, MMP-13–
+expressing cells often have strong invasive capacities (Kna¨uper
+et al., 1997a). Clinical evidence support the fact that MMP-13
+appearances is highly relevant to the invasive of squamous cell
+carcinomas, non–small cell lung cancer, malignant peripheral
+nerve sheath tumors, and breast tumors (Holtkamp et al., 2007;
+Hsu et al., 2006; Nil et al., 2004; Zhang et al., 2008). Our
+previous studies showed that chloramphenicol treatment
+caused mitochondrial stress and senescence-associated apopto-
+sis resistance in cancer cells (Li et al., 2005). In this study, we
+further proved that chloramphenicol treatment caused ATP
+restriction and enhanced cancer cell invasion both in vitro and
+in vivo. The involvement of MMP-13 was supported by the fact
+that both MMP-13 protein and mRNA were induced by
+chloramphenicol treatment. This enhanced invasion was
+blocked by MMP-13 inhibitors. The activation of proMMP-
+13 can be regulated by membrane-type MMPs (MMP-14) and
+stromelysin (MMP-10) (Itoh and Seiki, 2006; Nakamura et al.,
+1998). In this study, the expression of MMP-14 did not change
+signiﬁcantly. However, MMP-10 and MMP-11 were down-
+regulated, suggesting that the invasive effects mentioned above
+resulted directly from MMP-13 induction. Furthermore, the
+activated MMP-13 can activate gelatinases and enhance
+invasion indirectly (Kna¨uper et al., 1997b).
+FIG. 6. Chloramphenicol treatment increased AP-1 DNA–binding activity to MMP-13 promoter. (A) The blot showed that the phospho-cJun was accumulated
+in nuclear extract of chloramphenicol-treated H1299 cell. The PCNA was used as internal control of nuclear extract. (B) Chloramphenicol-induced MMP-13
+expression was inhibited by the transcription factor AP-1 inhibitor, curcumin (10–50lM). The fold changes of MMP-13 mRNA were analyzed by densitometry.
+(C) The ChIP was used for assay the interaction between phospho-cJun and MMP-13 promoter. In chloramphenicol-treated cell, the ChIP-captured MMP-13
+promoter was increased in dose-dependent manner. (D) Coincubation with SP 600125 and LY 294002 decreased the DNA-binding activity of phospho-cJun
+protein to MMP-13 promoter. These data suggested that JNK, PI-3K/Akt, and AP-1 activities were required for chloramphenicol-induced MMP-13 mRNA
+induction. *p < 0.05, **p < 0.01, and ***p < 0.001 indicate a statistical difference with the control. #
+p < 0.05, ##
+p < 0.01, and ###
+p < 0.001 indicate a statistical
+difference with chloramphenicol-treated control.
+CHLORAMPHENICOL INDUCES MMP-13 EXPRESSION 147
+MMP-13 can be induced by parathyroid hormone, platelet-
+derived growth factor, basic ﬁbroblast growth factor, TGF-b,
+and interleukins (Rydziel et al., 2000; Selvamurugan et al.,
+1998; Solı´s-Herruzo et al., 1999; Varghese et al., 2000). The
+JNK/AP-1, p38-MAPK/NF-jB, p38-MAPK/Smad, PI-3K/Akt,
+and NO/cGMP/ERK have been associated with MMP-13
+expression as previously reported (Ahmed et al., 2003;
+Barchowsky et al., 2000; Lechuga et al., 2004; Leivonen
+et al., 2002; Zaragoza et al., 2002). Our data showed that PI-
+3K/Akt/JNK was activated in chloramphenicol-treated cells.
+Inhibition of JNK and PI-3K/Akt (by chemical inhibitor or by
+DN kinases) could negate chloramphenicol-induced c-Jun
+phosphorylation, MMP-13 expression, and cell invasion. The
+c-Jun phosphorylation proved that transcription factor AP-1 is
+essential. The AP-1–responsive genes, including proteases
+(MMPs and cathepsins) and actin cytoskeleton regulators, are
+strongly associated with cell invasion (Ozanne et al., 2000).
+An AP-1 consensus sequence was found in the proximal
+region of MMP-13 promoter (Tardif et al., 1997), and the
+binding of phospho-cJun protein with MMP-13 promoter was
+demonstrated by ChIP assay. These ﬁndings suggest that
+chloramphenicol-induced MMP-13 upregulation is dependent
+on PI-3K/JNK/AP-1 activity (Supplementary ﬁg. 7).
+Mitochondrial stress, by mitochondrial DNA depletion,
+hypoxia, or aging, resulted in altered energy metabolism and
+intracellular calcium homeostasis. Mitochondrial stress also
+induced mitochondria-to-nucleus stress signaling, such as
+MAPKs and PI-3 kinase/Akt signaling (Uchiyama et al.,
+2004). The speciﬁc stress signaling conﬁrmed apoptosis
+resistance and enhanced cancer cell invasion (Fosslien,
+2008). Recently, 2,3,7,8-tetrachlorodibenzo-p-dioxin has been
+demonstrated to interfere with mitochondrial transcription,
+inhibit apoptosis, and lead to invasive phenotype formation
+(Biswas et al., 2008). In mitochondria-damaged cells, with the
+increase of cytosolic calcium, calcineurin-sensitive NF-jB/Rel
+factor is activated. This signaling strengthens the expression of
+cathepsin L and cathepsin B and leads to an increase in
+invasive ability (Amuthan et al., 2001; Biswas et al., 2008;
+Hamer et al., 2009).
+In our study, we found that chloramphenicol-induced
+PI-3K/JNK/AP-1 activation might function as a novel
+mitochondria-to-nucleus stress signal. The signal increased
+MMP-13 expression and MMP-13–associated cancer cell
+invasion. Moreover, antibiotics with the ability to inhibit
+mitochondrial translation would also cause senescence-
+associated apoptosis resistance (Li et al., 2005) and MMP-
+13 expression. These antibiotics have been used for many
+years in the treatment of skin and other infections. Hence, the
+clinical signiﬁcance of our study is that chloramphenicol
+application, as well as other 70S ribosomal inhibitors, should
+be used with caution, especially during cancer therapy. As
+a result, the chloramphenicol-treated solid-tumor cell also
+provides a model for further investigation of mitochondrial
+damage and cancer progression.
+SUPPLEMENTARY DATA
+Supplementary data are available online at http://toxsci
+.oxfordjournals.org/.
+FIG. 7. Antibiotics causing mitochondria stress and ATP restriction also induced MMP-13 expression. (A) In addition to chloramphenicol, antibiotics
+including minocycline, doxycycline, and clindamycin, also inhibited mitochondrial translation. (B) Minocycline, doxycycline, and clindamycin caused ATP
+restriction in H1299 cell. The oilgomycin was used as positive control. (C) Chloramphenicol, as well as minocycline, doxycycline, and clindamycin, induced
+MMP-13 mRNA expression. The induction was evaluated by densitometer. (D) Antibiotics treatment facilitated H1299 cancer cell invasion in transwell assay.
+*p < 0.05, **p < 0.01, and ***p < 0.001 indicate a statistical difference with the control.
+148 LI ET AL.
+FUNDING
+The National Science Council, Taiwan (NSC97-2320-B002-
+029).
+REFERENCES
+Ahmed, S., Rahman, A., Hasnain, A., Goldberg, V. M., and Haqqi, T. M. (2003).
+Phenyl N-tert-butylnitrone down-regulates interleukin-1 beta-stimulated matrix
+metalloproteinase-13 gene expression in human chondrocytes: suppression of
+c-Jun NH2-terminal kinase, p38-mitogen-activated protein kinase and activating
+protein-1. J. Pharmacol. Exp. Ther. 305, 981–988.
+Amuthan, G., Biswas, G., Zhang, S. Y., Klein-Szanto, A., Vijayasarathy, C.,
+and Avadhani, N. G. (2001). Mitochondria-to-nucleus stress signaling
+induces phenotypic changes, tumor progression and cell invasion. EMBO J.
+20, 1910–1920.
+Balbi, H. J. (2004). Chloramphenicol: a review. Pediatrics Rev. 25,
+284–288.
+Barchowsky, A., Frleta, D., and Vincenti, M. P. (2000). Integration of the NF-
+jB and mitogen-activated protein kinase/AP-1 pathways at the collagenase-1
+promoter: divergence of IL-1 and TNF-dependent signal transduction in
+rabbit primary synovial ﬁbroblasts. Cytokine 12, 1469–1479.
+Biswas, G., Srinivasan, S., Anandatheerthavarada, H. K., and Avadhani, N. G.
+(2008). Dioxin-mediated tumor progression through activation of
+mitochondria-to-nucleus stress signaling. Proc. Natl. Acad. Sci. U.S.A.
+105, 186–191.
+Duewelhenke, N., Krut, O., and Eysel, P. (2007). Inﬂuence on mitochondria
+and cytotoxicity of different antibiotics administered in high concentrations
+on primary human osteoblasts and cell lines. Antimicrob. Agents Chemother.
+51, 54–63.
+Fosslien, E. (2008). Cancer morphogenesis: role of mitochondrial failure. Ann.
+Clin. Lab. Sci. 38, 307–330.
+Hamer, I., Delaive, E., Dieu, M., Abdel-Sater, F., Mercy, L., and Jadot, M.
+(2009). Upregulation of cathepsin B expression and enhanced secretion in
+mitochondrial DNA-depleted steosarcoma cells. Biol. Cell. 101, 31–41.
+Hammett-Stabler, C. A., and Johns, T. (1998). Laboratory guidelines for
+monitoring of antimicrobial drugs. Clin. Chem. 44, 1129–1140.
+Holt, D., Harvey, D., and Hurley, R. (1993). Chloramphenicol toxicity. Adv.
+Drug Reac. Toxicol. Rev. 12, 83–95.
+Holtkamp, N., Atallah, I., Okuducuy, A. F., Muchaz, J., Hartmannz, C.,
+Mautner, V. F., Friedrich, R. E., Mawrin, C., and Deimling, A. (2007).
+MMP-13 and p53 in the progression of malignant peripheral nerve sheath
+tumors. Neoplasia 9, 671–677.
+Hsu, C. P., Shen, G. H., and Ko, J. L. (2006). Matrix metalloproteinase-13
+expression is associated with bone marrow microinvolvement and prognosis
+in non-small cell lung cancer. Lung Cancer 52, 349–357.
+Itoh, Y., and Seiki, M. (2006). MT1-MMP: a potent modiﬁer of pericellular
+microenvironment. J. Cell Physiol. 206, 1–8.
+Kang, M. K., Kameta, A., Shin, K. H., Baluda, M. A., Kim, H. R., and
+Park, N. H. (2003). Senescence-associated genes in normal human oral
+keratinocytes. Exp. Cell Res. 287, 272–281.
+Kim, A., Kim, M. J., Yang, Y., Kim, J. W., Yeom, Y., and Lim, J. S. (2009).
+Suppression of NF-jB activity by NDRG2 expression attenuates the
+invasive potential of highly malignant tumor cells. Carcinogenesis 30,
+927–936.
+Kna¨uper, V., Cowell, S., Smith, B., Lo´pez-Otin, C., O’Shea, M., Morris, H.,
+Zardi, L., and Murphy, G. (1997a). The role of the C-terminal domain of
+human collagenase-3 (MMP-13) in the activation of procollagenase-3,
+substrate speciﬁcity, and tissue inhibitor of metalloproteinase interaction.
+J. Biol. Chem. 272, 7608–7616.
+Kna¨uper, V., Smith, B., Lo´pez-Otin, C., and Murphy, G. (1997b). Activation of
+progelatinase B (proMMP-9) by active collagenase-3 (MMP-13). Eur. J.
+Biochem. 248, 369–373.
+Kuzuya, M., and Iguchi, A. (2003). Role of matrix metalloproteinases in
+vascular remodeling. J. Atheroscler. Thromb. 10, 275–282.
+Lechuga, C. G., Herna´ndez-Nazara, Z. H., Domı´nguez Rosales, J. A.,
+Morris, E. R., Rinco´n, A. R., Rivas-Estilla, A. M., Esteban-Gamboa, A.,
+and Rojkind, M. (2004). TGF-beta1 modulates matrix metalloproteinase-13
+expression in hepatic stellate cells by complex mechanisms involving
+p38MAPK, PI3-kinase, AKT, and p70S6k
+. Am. J. Physiol. Gastrointest. Liver
+Physiol. 287, G974–G987.
+Leeman, M. F., Curran, S., and Murray, G. I. (2002). The structure, regulation,
+and function of human matrix metalloproteinase-13. Crit. Rev. Biochem.
+Mol. Biol. 37, 149–166.
+Leivonen, S. K., Chantry, A., Hakkinen, L., Han, J., and Kahari, V. M. (2002).
+Smad3 mediates transforming growth factor-beta-induced collagenase-3
+(matrix metalloproteinase-13) expression in human gingival ﬁbroblasts.
+Evidence for cross-talk between Smad3 and p38 signaling pathways. J. Biol.
+Chem. 277, 46338–46346.
+Li, C. H., Tzeng, S. L., Cheng, Y. W., and Kang, J. J. (2005).
+Chloramphenicol-induced mitochondrial stress increases p21 expression
+and prevents cell apoptosis through a p21-dependent pathway. J. Biol. Chem.
+280, 26193–26199.
+Mendoza, C., Ronde, A., Smolders, K., Blanco, F., Garcia-benayas, T.,
+Baar, M., Fernandez-Casas, P., Gonzalez-Lahoz, J., and Soriano, V. (2004).
+Changes in mitochondrial DNA copy number in blood cells from HIV-
+infected patients undergoing antiretroviral therapy. AIDS Res. Hum. Retrovir.
+20, 271–273.
+Mooradian, D. L., McCarthy, J. B., Komanduri, K. V., and Furcht, L. T.
+(1992). Effects of transforming growth factor-beta 1 on human pulmonary
+adenocarcinoma cell adhesion, motility, and invasion in vitro. J. Natl.
+Cancer Inst. 84, 523–527.
+Nakamura, H., Fujii, Y., Ohuchi, E., Yamamoto, E., and Okada, Y. (1998).
+Activation of the precursor of human stromelysin 2 and its interactions with
+other matrix metalloproteinases. Eur. J. Biochem. 253, 67–75.
+Nil, C., Kubilay, M., Eray, C., and Emel, D. (2004). Elevated expression of
+MMP-13 and TIMP-1 in head and neck squamous cell carcinomas may
+reﬂect increased tumor invasiveness. BMC Cancer 4, 42.
+Ozanne, B. W., McGarry, L., Spence, H. J., Johnston, I., Winnie, J.,
+Meagher, L., and Stapleton, G. (2000). Transcriptional regulation of cell
+invasion: AP-1 regulation of a multigenic invasion programme. Eur. J.
+Cancer 36, 1640–1648.
+Robin, E., Berman, M., Bhoopalam, N., Cohen, H., and Fried, W. (1981).
+Induction of lymphomas in mice by busulfan and chloramphenicol. Cancer
+Res. 41, 3478–3482.
+Rydziel, S., Durant, D., and Canalis, E. (2000). Platelet-derived growth factor
+induces collagenase 3 transcription in osteoblasts through the activator
+protein 1 complex. J. Cell. Physiol. 184, 326–333.
+Selvamurugan, N., Chou, W. Y., Pearman, A. T., Pulumati, M. R., and
+Partridge, N. C. (1998). Parathyroid hormone regulates the rat collagenase-3
+promoter in osteoblastic cells through the cooperative interaction of the
+activator protein-1 site and the runt domain binding sequence. J. Biol. Chem.
+273, 10647–10657.
+Shen, M., Zhang, L., Banner, M. R., Liu, C. S., Li, G., Roe, L., Mustafa, D.,
+Yin, S., and Lan, Q. (2008). Association between mitochondrial DNA copy
+number, blood cell counts, and occupational benzene exposure. Environ.
+Mol. Muta. 49, 453–457.
+Shmookler Reis, R. J., and Goldstein, S. (1983). Mitochondrial DNA in mortal
+and immortal human cells. Genome number, integrity, and methylation.
+J. Biol. Chem. 258, 9078–9085.
+CHLORAMPHENICOL INDUCES MMP-13 EXPRESSION 149
+Smith, A. G., Dovey, G. J., and Cartwright, R. A. (2000). Topical
+chloramphenicol and the risk of acute leukaemia in adults. Pharmacoepi-
+demiol Drug Saf. 9, 215–219.
+Smith, G. N., Yu, L. P., Brandt, K. D., and Capello, W. N. (1998). Oral
+administration of doxycycline reduces collagenase and gelatinase activities
+in extracts of human osteoarthritic cartilage. J. Rheumatol. 25, 532–535.
+Solı´s-Herruzo, J. A., Rippe, R. A., Schrum, L. W., de La Torre, P., Garcı´a, I.,
+Jeffrey, J. J., Mun˜oz-Yagu¨e, T., and Brenner, D. A. (1999). Interleukin-6
+increases rat metalloproteinase-13 gene expression through stimulation of
+activator protein 1 transcription factor in cultured ﬁbroblasts. J. Biol. Chem.
+274, 30919–30926.
+Tardif, G., Pelletier, J. P., Dupuis, M., Hambor, J. E., and Martel-Pelletier, J.
+(1997). Cloning, sequencing and characterization of the 5’-ﬂanking region of
+the human collagenase-3 gene. Biochem. J. 323, 13–16.
+Uchiyama, T., Engelman, R. M., Maulik, N., and Das, D. K. (2004). Role of
+Akt signaling in mitochondrial survival pathway triggered by hypoxic
+preconditioning. Circulation 109, 3042–3049.
+Varghese, S., Rydziel, S., and Canalis, E. (2000). Basic ﬁbroblast growth factor
+stimulates collagenase-3 promoter activity in osteoblasts through an activator
+protein-1-binding site. Endocrinology 141, 2185–2191.
+Yagel, S., Warner, A. H., Nellans, H. N., Lala, P. K., Waghorne, C., and
+Denhardt, D. T. (1989). Suppression by cathepsin L inhibitors of the
+invasion of amnion membranes by murine cancer cells. Cancer Res. 49,
+3553–3557.
+Yoon, S. O., Park, S. J., Yoon, S. Y., Yun, C. H., and Chung, A. S. (2002).
+Sustained production of H2O2 activates pro-matrix metalloproteinase-2
+through receptor tyrosine kinases/phosphatidylinositol 3-kinase/NFjB
+pathway. J. Biol. Chem. 277, 30271–30282.
+Yuan, Z. R., and Shi, Y. (2008). Chloramphenicol induces abnormal
+differentiation and inhibits apoptosis in activated T cells. Cancer Res. 68,
+4875–4881.
+Zaragoza, C., Soria, E., Lo´pez, E., Browning, D., Balbı´n, M., Lo´pez-Otı´n, C.,
+and Lamas, S. (2002). Activation of the mitogen activated protein kinase
+extracellular signal-regulated kinase 1 and 2 by the nitric oxide-cGMP-
+dependent protein kinase axis regulates the expression of matrix metal-
+loproteinase 13 in vascular endothelial cells. Mol. Pharmacol. 62, 927–935.
+Zhang, B., Cao, X., Liu, Y., Cao, W., Zhang, F., Zhang, S., Li, H., Ning, L.,
+Fu, L., Niu, Y., et al. (2008). Tumor-derived matrix metalloproteinase-13
+(MMP-13) correlates with poor prognoses of invasive breast cancer. BMC
+Cancer 8, 83.
+150 LI ET AL.
+

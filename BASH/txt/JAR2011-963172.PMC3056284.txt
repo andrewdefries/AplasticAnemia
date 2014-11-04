@@ -1,0 +1,1700 @@
+SAGE-Hindawi Access to Research
+Journal of Aging Research
+Volume 2011, Article ID 963172, 15 pages
+doi:10.4061/2011/963172
+Review Article
+Regulation of Senescence in Cancer and Aging
+Yahui Kong, Hang Cui, Charusheila Ramkumar, and Hong Zhang
+Department of Cell Biology, University of Massachusetts Medical School, 55 Lake Avenue North, S7-125, Worcester, MA 01655, USA
+Correspondence should be addressed to Hong Zhang, hong.zhang@umassmed.edu
+Received 15 December 2010; Accepted 12 January 2011
+Academic Editor: Amancio Carnero
+Copyright © 2011 Yahui Kong et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Senescence is regarded as a physiological response of cells to stress, including telomere dysfunction, aberrant oncogenic activation,
+DNA damage, and oxidative stress. This stress response has an antagonisticallypleiotropic eﬀect to organisms: beneﬁcial as a tumor
+suppressor, but detrimental by contributing to aging. The emergence of senescence as an eﬀective tumor suppression mechanism
+is highlighted by recent demonstration that senescence prevents proliferation of cells at risk of neoplastic transformation.
+Consequently, induction of senescence is recognized as a potential treatment of cancer. Substantial evidence also suggests that
+senescence plays an important role in aging, particularly in aging of stem cells. In this paper, we will discuss the molecular
+regulation of senescence its role in cancer and aging. The potential utility of senescence in cancer therapeutics will also be discussed.
+1. Introduction
+Senescence was ﬁrst described as a state of irreversible growth
+arrest that normal human ﬁbroblasts enter at the end of their
+replicative lifespan [1]. This phenomenon has been observed
+in a variety of somatic cells derived from many species, which
+is in contrast to the inﬁnite replicative capacity displayed by
+germline, cancer, and certain stem cells [2]. Senescent cells
+are irreversibly arrested in G1/G0 phase of the cell cycle and
+lose the ability to respond to growth factors [3, 4]. They show
+sustained metabolic activity for long periods of time [5] and
+become resistant to apoptosis [6, 7]. In addition, senescent
+cells undergo distinctive changes in morphology to a ﬂat
+and enlarged cell shape [8] and are often accompanied by
+the induction of acidic senescence-associated β-galactosidase
+(SA-β-gal) activity [9]. At the molecular level, alterations
+in gene expression speciﬁc to senescent cells have been
+identiﬁed [10–14], including those constituting senescence-
+associated secretome, which can trigger profound changes in
+the surrounding cells and microenvironment [15–17]. The
+changes of gene expression in senescent cells can be partially
+explained by alterations in chromatin structure [13], includ-
+ing the formation of senescence-associated heterochromatic
+foci (SAHF), which is associated with trimethylated lysine 9
+of histone H3, heterochromatin protein 1, and high-mobility
+group A protein [18–20]. The formation of SAHF requires
+the recruitment of pRb to E2F-responsive promoters and
+is responsible for the stable repression of E2F target genes,
+possibly contributing to the irreversibility of senescence [18].
+2. Telomere-Dependent Replicative
+Senescence and Telomere-Independent
+Premature Senescence
+The onset of replicative senescence is determined by the
+number of times that a population of cells can divide,
+suggesting that a mitotic clock recording cell divisions
+governs this cellular process [21, 22]. The discovery that
+telomeres get progressively shortened with each cell division
+provides a plausible explanation for the nature of this mitotic
+clock [23–26]. Because of the inability of DNA polymerases
+to replicate DNA at the very ends of linear chromosomes,
+telomeres become progressively shortened during successive
+cell divisions [23, 27, 28]. Telomerase, which is responsible
+for de novo synthesis of telomeric repeats and maintenance
+of telomere length [29], is expressed in germline, stem and
+cancer cells, but undetectable in majority of normal somatic
+cells [30, 31]. In the absence of telomerase, progressive
+telomere shortening is thought to be the major cause
+of replicative senescence. Supporting this notion, enforced
+expression of the telomerase catalytic subunit (TERT) has
+been shown to prevent telomere shortening and extend
+2 Journal of Aging Research
+the lifespan of human somatic cells [32–34]. Conversely,
+inhibition of telomerase in immortal cells has been found to
+limit their replicative lifespan [35, 36]. Critically shortened
+telomeres lose the protection of telomere-binding proteins,
+leading to telomere “uncapping” [26]. Recent studies have
+revealed that DNA damage foci containing multiple DNA
+damage-response proteins, such as 53BP1, γH2AX, MDC1
+and MRE11, are found at telomeres in senescent cells,
+suggesting that uncapped telomeres are recognized as DNA
+breaks and thus trigger a DNA damage response [37–39].
+In addition to telomere attrition, senescence can be acti-
+vated by many types of stress, including aberrant activation
+of certain oncogenes [40–42], damage to chromatin struc-
+ture [43–45], oxidative stress [46–48], DNA damage [49, 50],
+and inadequate culture conditions [48, 51, 52]. Collectively,
+they are referred to as stress-induced premature senescence.
+Among these senescence-inducing stimuli, oxidative stress
+has been shown to accelerate telomere shortening [47,
+53], possibly by inducing telomeric single-strand breaks
+[54]. However, stress-induced premature senescence, unlike
+replicative senescence, is largely independent of the telomere
+length or the number of cell divisions [55–57].
+The ﬁnal outcome of both replicative senescence and
+stress-induced premature senescence is remarkably similar
+in that they share common changes in cell cycle regulation
+and morphological properties [40, 41, 46, 49, 50, 58, 59].
+Although gene expression pattern can vary depending on
+the speciﬁc types of tissues and cells or the speciﬁc stimuli
+to trigger the senescence response, senescent cells display
+a unique pattern of gene expression that diﬀers from
+proliferating cells or quiescent cells. In addition to the
+cell cycle regulatory genes, the expression of DNA damage
+checkpoint genes, inﬂammation and stress-associated genes,
+genes encoding extracellular matrix proteins and extracel-
+lular matrix-degrading enzymes, and cytoskeletal genes and
+metabolic genes is generally altered during replicative and
+premature senescence. Recent studies suggest that DNA
+damage could be a common cause for diﬀerent forms of
+senescence induced by various stimuli [11, 12, 14, 60–
+63]. Senescence is now considered as a general stress re-
+sponse in normal cells to various types of cellular damage
+[64].
+3. Molecular Regulation of Senescence
+Despite the commonality shared by senescence induced by
+various stimuli, regulation of senescence varies signiﬁcantly
+among cells derived from diﬀerent species, or even diﬀerent
+types of cells from the same species [65]. For example,
+telomere shortening is the major cause of senescence in
+human ﬁbroblasts [34], whereas mouse ﬁbroblasts undergo
+senescence that is independent of telomere shortening and
+probably mediated by oxidative stress [48, 52]. Diverse
+senescence-inducing stimuli can trigger the senescence re-
+sponse through multiple genetic pathways. However, these
+pathways seem to converge on p53 and pRb, and inactivation
+of both the p53 and pRb pathways is often required to
+prevent the activation of senescence [66–70].
+In senescent cells, p53 is phosphorylated and its transac-
+tivation activity is elevated, although its mRNA and protein
+levels are largely unchanged [38, 71–74]. DNA damage
+response elicited by telomere dysfunction leads to activation
+of ATM/ATR and Chk1/Chk2, which in turn phosphorylate
+and stabilize p53 [37–39, 75, 76]. In addition, p53 is activated
+and plays an important role in stress-induced premature
+senescence [40, 50, 77–79]. This p53 activation is mediated
+by p14ARF (or p19ARF in mouse) encoded by the INK4a/Arf
+locus. ARF stabilizes p53 by sequestering Mdm2, an E3
+ubiquitin ligase targeting p53 for degradation [80]. The ARF-
+p53 axis plays an important role during senescence in mouse
+cells. Inactivation of p53 or ARF in mouse embryo ﬁbroblasts
+(MEFs) is suﬃcient to prevent senescence [81–83].
+One of the p53 targets is p21(CIP1/WAF1) (p21), whose
+increased expression transactivated by p53 is responsible
+for cell cycle arrest [84]. The expression of p21 is up-
+regulated during replicative senescence [85–89]. This p21
+up-regulation is dependent on signal(s) initiated by telom-
+ere shortening, as expression of TERT blocks this up-
+regulation [89–91]. Overexpression of p21 is able to induce
+a senescence-like growth arrest in some cells [92, 93], while
+deletion of p21 can postpone senescent arrest [94, 95]. Col-
+lectively, these studies suggest that p53 regulates senescence
+at least in part by inducing p21. As a cyclin-dependent kinase
+inhibitor, up-regulation of p21 in senescent cells leads to
+inhibition of pRb phosphorylation, which controls cell cycle
+progression [18, 84]. There are instances that inactivation
+of either p53 or pRb can signiﬁcantly delay the onset of
+senescence, supporting a linear p53-pRb pathway [68, 96].
+In many other instances, both p53 and pRb need to be
+inhibited to prevent replicative senescence, suggesting two
+independent pathways [66–69].
+In parallel to p21, p16INK4a (p16) is another cyclin-
+dependent kinase inhibitor that leads to pRb hypophospho-
+rylation [84]. The expression of p16 is increased during
+replicative senescence [88, 97–99], but whether increased
+p16 expression is regulated by telomere shortening is
+controversial. As telomere shortening is the major cause
+of replicative senescence in human ﬁbroblasts [34], and
+inactivation of both the p53 and pRb pathways is required
+to prevent replicative senescence [67], it is reasonable to
+expect that dysfunctional telomeres may signal into p16-
+pRb axis. There is indeed an example showing that telomere
+dysfunction induces p16 expression [69]. However, the
+dynamics of p16 and p21 elevation in senescent cells are
+diﬀerent. The increased expression of p16 occurs after
+senescence has already been established in culture [88, 97,
+98, 100], in contrast to the rapid increase of p21 expression
+in cells approaching replicative senescence [89]. Within a
+senescent population of human cells, some cells express
+p16, while others express p21 [38, 96, 100]. DNA damage
+foci at telomeres are found only in cells expressing p21,
+but not in p16 positive cells [38], suggesting that p16
+elevation is independent of telomere shortening. Consistent
+with this notion, p16 induction during senescence, unlike
+p21, is not prevented by ectopic expression of TERT
+[53].
+Journal of Aging Research 3
+The expression of p16 is readily increased during pre-
+mature senescence induced by a variety of stress [40–42,
+49, 51, 101]. It is not entirely clear how p16 expression is
+regulated by various senescence signals [102–104]. Under
+certain circumstances, p16 is coordinately regulated with Arf,
+which is also encoded by the INK4a/Arf locus. For example,
+polycomb complex proteins have been shown to repress the
+INK4a/Arf locus [100, 105–108]. Decreased expression of
+polycomb complex proteins relieves the repression of the
+INK4a/Arf locus and is responsible, at least in part, for the
+elevation of p16 and Arf in senescent cells [100, 106, 107].
+The expression of p16 and Arf can also be regulated inde-
+pendently. Id1, whose expression is decreased in senescent
+cells [109], has been shown to speciﬁcally suppress p16
+expression by forming heterodimers with transcriptional
+factors Ets1/2 or E47 and inhibiting their ability to transac-
+tivate p16 [110–112]. Down-regulation of Id1 in human and
+mouse ﬁbroblasts has been shown to induce p16 expression
+and senescence [110, 112], while ectopic expression of Id1
+delays senescence in human ﬁbroblasts, mammary epithelial
+cells, keratinocytes, and endothelial cells [98, 113–115],
+suggesting an important role for Id1 in regulating p16 and
+senescence.
+The expression of p16 varies signiﬁcantly among dif-
+ferent human cell lines [100], and this variable expression
+seems to hold the key to as whether p53 and pRb function
+in a linear manner or in parallel. In cells with low or
+no p16 expression, p53 and pRb may function in a linear
+pathway, whereas p53 and pRb work in parallel in cells
+with signiﬁcant p16 expression. In mouse embryo ﬁbroblasts
+(MEFs), inactivation of p53 or ARF, but not p16, is suﬃcient
+to prevent senescence [81–83, 116], indicating that p53-Arf
+axis is the major regulator of senescence pathway in mouse
+cells. Human mammary epithelial cells quickly encounter
+a growth arrest state that is not associated with telomere
+shortening but mediated by p16 up-regulation [33, 101].
+A subset of cells with p16 inactivation emerge from the
+arrest population and continue to divide until reaching a
+second growth arrest state that is associated with telomere
+shortening [33, 51, 101]. Depending on cell types, culture
+conditions, and the extent of stress, inactivation of either
+p53-p21-pRb or p16-pRb pathway individually, or both
+pathways together, is required to prevent senescence.
+4. Senescence As a Barrier to Tumorigenesis
+Tumorigenesis is a multistep process, in which a normal
+cell acquires mutations in a number of cancer-causing
+genes [117]. By restricting cell proliferation and thereby
+impeding the accumulation of mutations, senescence acts as
+an important tumor suppression mechanism. Furthermore,
+senescence induced by aberrant activation of oncogenes,
+oxidative stress, or DNA damage prevents cells at risk of
+malignant transformation from proliferating [55, 59, 118,
+119]. Senescence represents a physiologic response that cells
+must overcome in order to divide indeﬁnitely and develop
+into tumors. Consistent with the notion that senescence
+is a tumor suppression mechanism, well-established tumor
+suppressors, including p53, pRb, p16, Arf, and p21, are regu-
+lators of senescence [102, 118, 120].
+In contrast to normal somatic cells, cells derived from
+tumors divide indeﬁnitely in culture. The ability to escape
+senescence (i.e., immortality) is a necessary step for cells
+to become transformed and one of the hallmarks of can-
+cer cells [120]. 80%–90% of human cancer cells acquire
+unlimited proliferative potential through reactivation of
+telomerase [30, 31], while the rest maintain telomere length
+by a recombination-mediated process termed alternative
+lengthening of telomeres [121, 122]. These observations
+in human cancer strongly suggest a connection between
+telomere checkpoint and tumor suppression. Supporting
+this connection, inhibition of telomerase activity in cancer
+cells limits their growth by triggering telomere shortening
+and cell death [35, 36]. Conversely, ectopic expression of
+telomerase in normal human cells leads to immortalization
+and enhances the ability of these cells to be neoplastically
+transformed [33, 34, 123]. Furthermore, transgenic mice
+overexpressing TERT show increased propensity to tumori-
+genesis [124–128].
+Genetic studies in mice deﬁcient in telomerase provide
+further support for telomere shortening as a tumor suppres-
+sion mechanism. Mice deﬁcient in the telomerase RNA com-
+ponent (mTERC−/−
+) gradually lose telomeres over several
+generations [129], and tumorigenesis is signiﬁcantly reduced
+in late generations of mTERC−/−
+mice with telomere attrition
+[130–140]. Decreased tumorigenesis is also observed in late
+generation of mice with a null mutation in telomere catalytic
+subunit (mTERT−/−
+), and p53 mutation enables tumor pro-
+gression in these mice [141]. More importantly, two recent
+studies provide evidence that senescence induced by telomere
+shortening is responsible for tumor suppression [142, 143].
+When apoptosis is blocked by the expression of Bcl-2 or a
+speciﬁc p53 mutant (R172P), shortened telomeres reduce
+tumorigenesis in mTERC−/−
+mice. Suppression of tumor
+development requires p53-dependent activation of senes-
+cence [142, 143], demonstrating that senescence induced
+by telomere shortening is an eﬀective tumor suppression
+mechanism in vivo.
+The discovery that oncogenic Ras protein can induce a
+senescent arrest after causing an initial hyperproliferation
+in normal cells suggests that induction of senescence is an
+intrinsic cellular response that prevents cells at risk from
+proliferating [40]. In mouse tumor models with oncogenic
+Ras, senescent cells are found in premalignant lesions in lung
+[61], spleen [144], breast [145], and pancreas [146]. The
+observation of senescent cells has been extended to many
+premalignant lesions or benign tissues induced by diﬀerent
+oncogene activation or tumor suppressor inactivation in
+mouse [147–155] and human [148, 156–159]. Importantly,
+senescent cells are absent in malignant tumors [61, 144,
+145, 147–150, 152, 156, 158, 160], suggesting that oncogene-
+induced senescence is a powerful tumor suppression mech-
+anism by restricting proliferation of cells with oncogenic
+mutations and this senescence block must be evaded for
+malignancy to progress. Consistently, deletion of senescence
+regulators such as p53, Arf, p16, p27, SUV39H1 or PRAK
+abrogates senescence and causes progression of tumors to
+4 Journal of Aging Research
+the malignant stage [144–146, 148–150, 152, 153, 160]. These
+observations point to a causal link between loss of senescence
+and malignant transformation.
+5. Senescence in Anticancer Therapy
+In theory, senescence oﬀers an attractive therapeutic option
+if it can be induced in tumor cells. Because of the uncertainty
+in reactivating in cells, a response that otherwise has been
+overcome, senescence remains as an underappreciated thera-
+peutic approach [161, 162]. Surprisingly, many cancer cells
+retain the ability to senesce either spontaneously or in
+response to external stress stimuli, even though most cancer
+cells have overcome the senescent arrest during tumorigene-
+sis. As tumors often develop resistance to apoptosis induced
+by anticancer treatment, induction of senescence in tumor
+cells serves as an alternative approach in cancer therapy, and
+could be especially eﬀective in treatment of cancer cells in
+which apoptotic pathways are disabled [163].
+Telomerase is an attractive target for inducing senescence
+in cancer cells. As telomerase is critical for the maintenance
+of telomere length [29], inhibition of telomerase in cancer
+cells leads to shortening of telomeres, which is a major
+cause of senescence activation [24, 33, 34]. Since 80–90%
+of human cancers acquire unlimited proliferative potential
+through activation of telomerase [30, 31], the strategy of
+inhibiting telomerase in cancer therapeutics targets a broad
+range of malignancies. In addition, this approach oﬀers
+desired speciﬁcity in targeting cancer cells, as telomerase
+is expressed in most cancer cells, but undetectable in the
+majority of normal cells including adult stem cells [164,
+165]. The emerging cancer therapeutics targeting telomerase
+include small molecule or oligonucleotide inhibitors of
+telomerase enzymatic activity, antitelomerase immunother-
+apy, inhibitors of telomerase expression and telomere-
+disrupting agents [166–168]. The strengths and weaknesses
+of these diﬀerent approaches are discussed in an excellent
+review [166]. Although apoptosis is induced by inhibition
+of telomerase in some studies, induction of senescence as
+a result of telomerase inhibition is clearly demonstrated
+to be responsible for tumor suppression [169–173]. The
+eﬀectiveness of these approaches has been demonstrated in
+many studies [174–177], and several clinical trials targeting
+telomerase for cancer therapeutics are now ongoing [166].
+Senescence induced by oncogene activation or inactiva-
+tion of tumor suppressor genes must be evaded for tumors
+to progress to full malignancy, which is often associated
+with inhibition of crucial senescence regulators. Reactivation
+of senescence response oﬀers a great opportunity in cancer
+therapeutics. Considering the critical role of p53 in senes-
+cence regulation and common occurrence of p53 mutations
+in cancer cells, p53 is an attractive target for reactivation
+of senescence in cancer cells. Various approaches have been
+developed to target p53 in order to restore normal p53
+function in cancer cells, including pharmacological depletion
+of mutant p53 protein [178, 179], restoring normal function
+in mutant p53 [180, 181], and reactivation of p53 [182–
+189]. In most of these reports, apoptosis is the overwhelming
+response that is responsible for tumor suppression. Senes-
+cence as a tumor suppression mechanism after restoring
+p53 expression has been demonstrated in two recent elegant
+studies [190, 191]. In a mouse model of hepatocellular
+carcinoma, reactivation of p53 in these tumors results in
+rapid activation of senescence and subsequent immune
+cell inﬁltration which leads to clearance of tumor cells
+[191]. In a separate study, restoration of p53 in p53-
+deﬁcient mouse models of lymphoma, and osteosarcoma
+leads to tumor regression. Apoptosis is selectively induced
+by p53 in lymphomas, while senescence induced by p53
+in osteosarcomas is responsible for tumor regression [190],
+suggesting that tissue type and/or genetic context play a
+critical role in determining the cellular response in p53-
+mediated tumor regression. Taken together, restoration of
+p53 function in tumors oﬀers an eﬀective way to restrict
+tumor growth by inducing senescence or apoptosis. As p16
+and p21 have been shown to induce senescence eﬃciently
+[92], these senescence regulators together with Arf and pRb
+may provide additional targets for the eﬀective activation of
+senescence in cancer therapeutics.
+In addition to restoration of tumor suppressor genes,
+oncogene inactivation oﬀers another possible intervention
+to induce senescence in cancer cells. Suppression of c-Myc
+oncogene induces senescence and leads to tumor regression
+in diverse tumor types including hepatocellular carcinoma,
+lymphoma and osteosarcoma [192]. Senescence induced by
+Myc inhibition depends on critical senescence regulators
+such as p53, p16 or pRb. Inactivation of these senescence
+regulators impairs senescence induction and tumor regres-
+sion [192]. Inhibition of Myc as therapeutic intervention
+is further illustrated in lung carcinoma mouse model
+initiated by oncogenic Ras. Inhibition of Myc triggers rapid
+tumor regression associated with apoptosis and senescence
+induction [193]. These studies indicate that senescence
+response not only is functional in cancer cells, but also
+can be reactivated to cause tumor regression. Furthermore,
+these studies suggest that therapeutic intervention aimed at
+molecules required to support tumor growth may also lead
+to senescence induction and ultimately tumor regression.
+The ﬁnding that senescence can be induced by DNA
+damage [49, 50] suggests that chemotherapeutic drugs,
+which cause DNA damage, may activate senescence in tumor
+cells and therefore determine the drug response in cancer
+treatment [194]. Chemotherapeutic drugs induce senescence
+in various types of tumor cells in culture [195–199]. In
+a Myc-driven mouse lymphoma model, chemotherapeutic
+drug cyclophosphamide induces p53- and p16-dependent
+senescence in lymphomas, leading to better prognosis follow-
+ing chemotherapy [163]. In human breast cancer, a high per-
+centage of tumors after chemotherapy show positive staining
+for senescence markers, and induction of senescence in these
+tumors is associated with p53 and p16. Induction of senes-
+cence is not observed in tumors before chemotherapy [199],
+suggesting that senescence observed in tumors is induced by
+chemotherapy. Taken together, these studies show that senes-
+cence induction can positively inﬂuence the outcome of can-
+cer treatment. Senescence-inducing drugs may be eﬀective
+Journal of Aging Research 5
+alone or in combination with classic therapeutic approaches
+to reduce tumor growth and toxicity to normal cells.
+6. Senescence and Aging
+Aging is characterized by progressive deterioration of phys-
+iological function in all tissues and organs after a period
+of development. This biological process is associated with
+increased susceptibility to major chronic diseases and ulti-
+mately mortality. Since the discovery of senescence in
+cultured cells, it is recognized that cellular senescence and
+organismal aging may be closely related because of their
+shared ability to limit lifespan [21]. It is hypothesized
+that constant tissue regeneration results in accumulation of
+senescent cells in somatic tissues, which limits tissue renewal,
+perturbs normal tissue homeostasis and ultimately leads to
+aging [59, 118, 200]. Cells with characteristics of senescence
+have been reported to increase with advancing age in mice,
+primates and humans [9, 201–206]. In addition, accumula-
+tion of senescent cells is linked with age-associated patholog-
+ical conditions, such as osteoarthritis [207], atherosclerosis
+[208–211], dementia [212], liver cirrhosis [203], and respira-
+tory disease [213, 214]. The initial support for the senescence
+theory of aging comes from the observation of an inverse
+correlation between the in vitro lifespan of cells and the age
+of donors from which they are derived [215–219], although
+this correlation has been disputed [220]. Subsequent support
+comes from studies of cells derived from progeroid patients,
+such as Werner syndrome, which achieve fewer cell divisions
+before entering senescence than cells derived from normal
+individuals of same age [221]. Direct evidence supporting
+senescence as one of the aging mechanisms, however, is still
+missing. It remains to be determined whether accumulation
+of senescent cells is responsible for aging or age-related
+diseases.
+Recent studies suggest that telomere checkpoint plays
+an important role in the aging process. It is evident that
+telomere shortening occurs in aged human tissues [222–
+235], at sites of age-related pathological conditions [203,
+236–243], or associated with stress and obesity [244, 245].
+Although it remains to be demonstrated whether telomere
+shortening leads to the accumulation of senescent cells in
+vivo, and more importantly makes a substantial contribution
+to aging, studies of human premature aging syndromes
+support a link between telomere attrition and aging. Patients
+of dyskeratosis congenita and aplastic anemia have mutations
+in telomerase RNA or catalytic subunit [246–248], and are
+characterized by accelerated telomere shortening [239, 246].
+Further evidence for a role of telomere attrition in aging
+comes from genetic studies of mice deﬁcient in telomerase.
+While mice with a null mutation in telomerase RNA
+(mTERC−/−
+) are apparently normal in early generations,
+these mice in later generations gradually lose telomeres [129]
+and show accelerated aging phenotypes [140, 249]. Similarly,
+premature aging phenotypes are observed in mTERC−/−
+mice on a CAST/EiJ background, which have shorter and
+more homogenous telomere length than C576BL/6 strain.
+Even with the presence of telomerase, shortened telomeres
+in mTERC+/−
+mice on CAST/EiJ background are associated
+with premature aging [250]. A recent study shows that
+telomerase reactivation can reverse much of the premature
+aging phenotypes in telomerase-deﬁcient mice [251], indi-
+cating that telomere attrition plays a critical role in aging.
+Furthermore, mutations in WRN or BLM in the telomere
+dysfunctional background in mouse cause premature aging
+phenotypes that are characteristics of Werner or Bloom
+syndrome in human. Such premature aging phenotypes
+are absent in mice with WRN or BLM mutation but with
+long telomeres [252, 253]. These studies clearly establish
+a link between telomere attrition and aging. Whether this
+link is mediated through senescence triggered by telomere
+shortening is currently unknown.
+PrematureagingphenotypesinlategenerationmTERC−/−
+mice are associated with reduced renewal capacity in highly
+regenerative tissues such as skin, intestine, bone marrow
+and reproductive organs [140, 249–251], suggesting that
+stem cells may be aﬀected by telomere shortening. Tissue-
+speciﬁc or adult stem cells, which are capable of self-renewal
+and diﬀerentiation, are essential for the normal homeostatic
+maintenance and regenerative repair of tissues throughout
+the lifetime of an organism. The self-renewal ability of stem
+cells is known to decline with advancing age, eventually
+leading to the accumulation of unrepaired, damaged tissues
+in old organisms [59, 254–256]. By limiting cell proliferation,
+senescence in stem cells is hypothesized to contribute to
+aging by reducing the renewal capacity of these cells [21, 59,
+118]. Not all stem cells express high level of telomerase. For
+example, human mesenchymal stem cells have no detectable
+telomerase activity [257], and hematopoietic stem cells from
+human and mouse have low level of telomerase activity [258–
+260]. Telomere attrition has been observed in these stem
+cells [257, 260–263]. It is possible that senescence induced by
+telomere attrition may occur in stem cells over the lifespan of
+an organism and would result in the reduction of the renewal
+capacity of stem cells. However, it remains to be determined
+whether stem cells undergo senescence during aging.
+Several senescence regulators have been found to play
+a critical role in aging. The expression of p16 increases
+with advancing age in humans and rodents [264–270].
+Increase of p16 in aged rodents is attenuated in several
+tissues (adrenal, heart, kidney, ovary, and testis) by caloric
+restriction [264], which potently slows aging. Moreover, age-
+related increase of p16 is found to be associated with a decline
+in the renewal capacity of stem cells in brain, pancreas,
+and hematopoietic system, and these stem cells derived
+from aged mice lacking p16 have increased regenerative
+potential [271–273]. In addition, p53 and p21 have also
+been implicated to impact aging. It has been shown that
+p21 is required to maintain quiescence of hematopoietic
+stem cells (HSCs). In the absence of p21, increased cell
+cycling leads to stem cell exhaustion, which is responsible for
+impaired self-renewal of HSCs [274]. Interestingly, deletion
+of p21 in late generation mTERC−/−
+mice improves stem
+cells function and rescues much of the premature aging
+phenotypes associated with telomere attrition [275]. HSCs
+from p53-deﬁcient mice have increased stem cell population
+and enhanced renewal capacity [276, 277]. Suppression of
+6 Journal of Aging Research
+stem cells function by p53 is also observed in neural stem
+cells [278]. Furthermore, mice with excessive p53 activity
+maintain cancer protection, but age prematurely including
+impairment of HSCs [279–282], which is at least in part due
+to increased sensitivity to senescence-inducing stimuli [280].
+Interestingly, concomitant increase of normal p53 and p19Arf
+leads to increased longevity in mice [283], although elevation
+of p53 alone is not suﬃcient to increase longevity [284, 285].
+Collectively, these recent studies support an emerging link
+between senescence regulation and aging, and show the
+potential importance of senescence regulation in stem cells
+aging.
+Senescence is regarded as an antagonistic pleiotropy:
+beneﬁcial as a tumor suppressor, but detrimental to organ-
+isms by contributing to aging. Great progress has been made
+in our understanding of senescence regulation in cancer and
+aging. Challenges remain as how to effectively utilize senes-
+cence as a potent treatment for cancer. The exact function
+of senescence-associated secretome in cancer and aging is
+of great interest and needs to be investigated. Investigation
+of telomere shortening and senescence in stem cells during
+physiological aging is much needed for our understanding of
+the role of senescence in aging, which leads to the intriguing
+question as whether inhibition of senescence may slow aging.
+Acknowledgments
+The authors apologize that many important references can-
+not be included due to space restriction. Their research is
+supported by Grants from the National Cancer Institute
+(R01CA131210) and The Ellison Medical Foundation New
+Scholar in Aging to H. Zhang.
+References
+[1] L. Hayﬂick and P. S. Moorhead, “The serial cultivation
+of human diploid cell strains,” Experimental Cell Research,
+vol. 25, no. 3, pp. 585–621, 1961.
+[2] P. J. Vojta and J. C. Barrett, “Genetic analysis of cellular
+senescence,” Biochimica et Biophysica Acta, vol. 1242, no. 1,
+pp. 29–41, 1995.
+[3] S. W. Sherwood, D. Rush, J. L. Ellsworth, and R. T. Schimke,
+“Deﬁning cellular senescence in IMR-90 cells: a ﬂow cyto-
+metric analysis,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 85, no. 23,
+pp. 9086–9090, 1988.
+[4] V. J. Cristofalo, P. D. Phillips, T. Sorger, and G. Gerhard,
+“Alterations in the responsiveness of senescent cells to growth
+factors,” Journals of Gerontology, vol. 44, no. 6, pp. 55–62,
+1989.
+[5] T. Matsumura, Z. Zerrudo, and L. Hayﬂick, “Senescent
+human diploid cells in culture: survival, DNA synthesis and
+morphology,” Journals of Gerontology, vol. 34, no. 3, pp. 328–
+334, 1979.
+[6] E. Wang, “Senescent human ﬁbroblasts resist programmed
+cell death, and failure to suppress bcl2 is involved,” Cancer
+Research, vol. 55, no. 11, pp. 2284–2292, 1995.
+[7] B. Hampel, M. Wagner, D. Teis, W. Zwerschke, L. A.
+Huber, and P. Jansen-D¨urr, “Apoptosis resistance of senes-
+cent human ﬁbroblasts is correlated with the absence of
+nuclear IGFBP-3,” Aging Cell, vol. 4, no. 6, pp. 325–330,
+2005.
+[8] S. Goldstein, “Replicative senescence: the human ﬁbroblast
+comes of age,” Science, vol. 249, no. 4973, pp. 1129–1133,
+1990.
+[9] G. P. Dimri, X. Lee, G. Basile et al., “A biomarker that
+identiﬁes senescent human cells in culture and in aging skin
+in vivo,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 92, no. 20, pp. 9363–9367,
+1995.
+[10] V. J. Cristofalo, C. Volker, M. K. Francis, and M. Tresini,
+“Age-dependent modiﬁcations of gene expression in human
+ﬁbroblasts,” Critical Reviews in Eukaryotic Gene Expression,
+vol. 8, no. 1, pp. 43–80, 1998.
+[11] D. N. Shelton, E. Chang, P. S. Whittier, D. Choi, and W.
+D. Funk, “Microarray analysis of replicative senescence,”
+Current Biology, vol. 9, no. 17, pp. 939–945, 1999.
+[12] S. R. Schwarze, S. E. DePrimo, L. M. Grabert, V. X. Fu, J. D.
+Brooks, and D. F. Jarrard, “Novel pathways associated with
+bypassing cellular senescence in human prostate epithelial
+cells,” Journal of Biological Chemistry, vol. 277, no. 17,
+pp. 14877–14883, 2002.
+[13] H. Zhang, K. H. Pan, and S. N. Cohen, “Senescence-speciﬁc
+gene expression ﬁngerprints reveal cell-type-dependent
+physical clustering of up-regulated chromosomal loci,”
+Proceedings of the National Academy of Sciences of the
+United States of America, vol. 100, no. 6, pp. 3251–3256,
+2003.
+[14] H. Zhang, B. S. Herbert, K. H. Pan, J. W. Shay, and S.
+N. Cohen, “Disparate eﬀects of telomere attrition on gene
+expression during replicative senescence of human mam-
+mary epithelial cells cultured under diﬀerent conditions,”
+Oncogene, vol. 23, no. 37, pp. 6193–6198, 2004.
+[15] J. P. Coppe, K. Kauser, J. Campisi, and C. M. Beaus´ejour,
+“Secretion of vascular endothelial growth factor by primary
+human ﬁbroblasts at senescence,” Journal of Biological Chem-
+istry, vol. 281, no. 40, pp. 29568–29574, 2006.
+[16] J. P. Copp´e, C. K. Patil, F. Rodier et al., “Senescence-associ-
+ated secretory phenotypes reveal cell-nonautonomous func-
+tions of oncogenic RAS and the p53 tumor suppressor,” PLoS
+Biology, vol. 6, no. 12, article e301, pp. 2853–2868, 2008.
+[17] T. Kuilman and D. S. Peeper, “Senescence-messaging secre-
+tome: SMS-ing cellular stress,” Nature Reviews Cancer, vol. 9,
+no. 2, pp. 81–94, 2009.
+[18] M. Narita, S. Nunez, E. Heard et al., “Rb-mediated hete-
+rochromatin formation and silencing of E2F target genes
+during cellular senescence,” Cell, vol. 113, no. 6, pp. 703–716,
+2003.
+[19] R. Zhang, M. V. Poustovoitov, X. Ye et al., “Formation
+of macroH2A-containing senescence-associated heterochro-
+matin foci and senescence driven by ASF1a and HIRA,”
+Developmental Cell, vol. 8, no. 1, pp. 19–30, 2005.
+[20] M. Narita, M. Narita, V. Krizhanovsky et al., “A novel role
+for high-mobility group a proteins in cellular senescence and
+heterochromatin formation,” Cell, vol. 126, no. 3, pp. 503–
+514, 2006.
+[21] L. Hayﬂick, “The cell biology of human aging,” The New
+England Journal of Medicine, vol. 295, no. 23, pp. 1302–1308,
+1976.
+[22] S. Goldstein and D. P. Singal, “Senescence of cultured human
+ﬁbroblasts: mitotic versus metabolic time,” Experimental Cell
+Research, vol. 88, no. 2, pp. 359–364, 1974.
+Journal of Aging Research 7
+[23] C. B. Harley, A. B. Futcher, and C. W. Greider, “Telom-
+eres shorten during ageing of human ﬁbroblasts,” Nature,
+vol. 345, no. 6274, pp. 458–460, 1990.
+[24] C. B. Harley, “Telomere loss: mitotic clock or genetic time
+bomb?” Mutation Research, vol. 256, no. 2–6, pp. 271–282,
+1991.
+[25] S. E. Holt, J. W. Shay, and W. E. Wright, “Reﬁning the
+telomere-telomerase hypothesis of aging and cancer,” Nature
+Biotechnology, vol. 14, no. 7, pp. 836–839, 1996.
+[26] E. H. Blackburn, “Switching and signaling at the telomere,”
+Cell, vol. 106, no. 6, pp. 661–673, 2001.
+[27] T. de Lange, L. Shiue, R. M. Myers et al., “Structure and
+variability of human chromosome ends,” Molecular and
+Cellular Biology, vol. 10, no. 2, pp. 518–527, 1990.
+[28] U. M. Martens, E. A. Chavez, S. S. S. Poon, C. Schmoor, and
+P. M. Lansdorp, “Accumulation of short telomeres in human
+ﬁbroblasts prior to replicative senescence,” Experimental Cell
+Research, vol. 256, no. 1, pp. 291–299, 2000.
+[29] C. W. Greider and E. H. Blackburn, “Identiﬁcation of a
+speciﬁc telomere terminal transferase activity in tetrahymena
+extracts,” Cell, vol. 43, no. 2 I, pp. 405–413, 1985.
+[30] N. W. Kim, M. A. Piatyszek, K. R. Prowse et al., “Speciﬁc
+association of human telomerase activity with immortal cells
+and cancer,” Science, vol. 266, no. 5193, pp. 2011–2015, 1994.
+[31] J. W. Shay and S. Bacchetti, “A survey of telomerase activity
+in human cancer,” European Journal of Cancer Part A, vol. 33,
+no. 5, pp. 787–791, 1997.
+[32] H. Vaziri and S. Benchimol, “Reconstitution of telomerase
+activity in normal human cells leads to elongation of
+telomeres and extended replicative life span,” Current Biology,
+vol. 8, no. 5, pp. 279–282, 1998.
+[33] T. Kiyono, S. A. Foster, J. I. Koop, J. K. McDougall, D. A. Gal-
+loway, and A. J. Klingelhutz, “Both Rb/p16INK4a
+inactivation
+and telomerase activity are required to immortalize human
+epithelial cells,” Nature, vol. 396, no. 6706, pp. 84–88, 1998.
+[34] A. G. Bodnar, M. Ouellette, M. Frolkis et al., “Extension of
+life-span by introduction of telomerase into normal human
+cells,” Science, vol. 279, no. 5349, pp. 349–352, 1998.
+[35] W. C. Hahn, S. A. Stewart, M. W. Brooks et al., “Inhibition of
+telomerase limits the growth of human cancer cells,” Nature
+Medicine, vol. 5, no. 10, pp. 1164–1170, 1999.
+[36] X. Zhang, V. Mar, W. Zhou, L. Harrington, and M. O. Robin-
+son, “Telomere shortening and apoptosis in telomerase-
+inhibited human tumor cells,” Genes & Development, vol. 13,
+no. 18, pp. 2388–2399, 1999.
+[37] F. d’Adda di Fagagna, P. M. Reaper, L. Clay-Farrace et al.,
+“A DNA damage checkpoint response in telomere-initiated
+senescence,” Nature, vol. 426, no. 6963, pp. 194–198, 2003.
+[38] U. Herbig, W. A. Jobling, B. P. C. Chen, D. J. Chen, and J. M.
+Sedivy, “Telomere shortening triggers senescence of human
+cells through a pathway involving ATM, p53, and p21, but
+not p16,” Molecular Cell, vol. 14, no. 4, pp. 501–513, 2004.
+[39] H. Takai, A. Smogorzewska, and T. de Lange, “DNA damage
+foci at dysfunctional telomeres,” Current Biology, vol. 13,
+no. 17, pp. 1549–1556, 2003.
+[40] M. Serrano, A. W. Lin, M. E. McCurrach, D. Beach, and S.
+W. Lowe, “Oncogenic ras provokes premature cell senescence
+associated with accumulation of p53 and p16INK4a
+,” Cell,
+vol. 88, no. 5, pp. 593–602, 1997.
+[41] J. Zhu, D. Woods, M. McMahon, and J. M. Bishop, “Senes-
+cence of human ﬁbroblasts induced by oncogenic Raf,” Genes
+& Development, vol. 12, no. 19, pp. 2997–3007, 1998.
+[42] A. W. Lin, M. Barradas, J. C. Stone, L. van Aelst, M. Serrano,
+and S. W. Lowe, “Premature senescence involving p53 and
+p16 is activated in response to constitutive MEK/MAPK
+mitogenic signaling,” Genes & Development, vol. 12, no. 19,
+pp. 3008–3019, 1998.
+[43] V. V. Ogryzko, T. H. Hirai, V. R. Russanova, D. A. Barbie,
+and B. H. Howard, “Human ﬁbroblast commitment to
+a senescence-like state in response to histone deacetylase
+inhibitors is cell cycle dependent,” Molecular and Cellular
+Biology, vol. 16, no. 9, pp. 5210–5218, 1996.
+[44] B. Villeponteau, “The heterochromatin loss model of aging,”
+Experimental Gerontology, vol. 32, no. 4-5, pp. 383–394, 1997.
+[45] B. H. Howard, “Replicative senescence: considerations relat-
+ing to the stability of heterochromatin domains,” Experimen-
+tal Gerontology, vol. 31, no. 1-2, pp. 281–293, 1996.
+[46] Q. Chen, A. Fischer, J. D. Reagan, L. J. Yan, and B. N.
+Ames, “Oxidative DNA damage and senescence of human
+diploid ﬁbroblast cells,” Proceedings of the National Academy
+of Sciences of the United States of America, vol. 92, no. 10,
+pp. 4337–4341, 1995.
+[47] T. von Zglinicki, G. Saretzki, W. Docke, and C. Lotze, “Mild
+hyperoxia shortens telomeres and inhibits proliferation of
+ﬁbroblasts: a model for senescence?” Experimental Cell
+Research, vol. 220, no. 1, pp. 186–193, 1995.
+[48] S. Parrinello, E. Samper, A. Krtolica, J. Goldstein, S.
+Melov, and J. Campisi, “Oxygen sensitivity severely limits
+the replicative lifespan of murine ﬁbroblasts,” Nature Cell
+Biology, vol. 5, no. 8, pp. 741–747, 2003.
+[49] S. J. Robles and G. R. Adami, “Agents that cause DNA double
+strand breaks lead to p16INK4a
+enrichment and the premature
+senescence of normal ﬁbroblasts,” Oncogene, vol. 16, no. 9,
+pp. 1113–1123, 1998.
+[50] A. Di Leonardo, S. P. Linke, K. Clarkin, and G. M. Wahl,
+“DNA damage triggers a prolonged p53-dependent G1
+arrest and long-term induction of Cip1 in normal human
+ﬁbroblasts,” Genes & Development, vol. 8, no. 21, pp. 2540–
+2551, 1994.
+[51] R. D. Ramirez, C. P. Morales, B. S. Herbert et al., “Puta-
+tive telomere-independent mechanisms of replicative aging
+reﬂect inadequate growth conditions,” Genes & Development,
+vol. 15, no. 4, pp. 398–403, 2001.
+[52] C. J. Sherr and R. A. DePinho, “Cellular senescence: mitotic
+clock or culture shock?” Cell, vol. 102, no. 4, pp. 407–410,
+2000.
+[53] N. R. Forsyth, A. P. Evans, J. W. Shay, and W. E. Wright,
+“Developmental diﬀerences in the immortalization of lung
+ﬁbroblasts by telomerase,” Aging Cell, vol. 2, no. 5, pp. 235–
+243, 2003.
+[54] T. von Zglinicki, R. Pilger, and N. Sitte, “Accumulation
+of single-strand breaks is the major cause of telomere
+shortening in human ﬁbroblasts,” Free Radical Biology and
+Medicine, vol. 28, no. 1, pp. 64–74, 2000.
+[55] W. E. Wright and J. W. Shay, “Cellular senescence as a
+tumor-protection mechanism: the essential role of counting,”
+Current Opinion in Genetics and Development, vol. 11, no. 1,
+pp. 98–103, 2001.
+[56] W. E. Wright and J. W. Shay, “Historical claims and current
+interpretations of replicative aging,” Nature Biotechnology,
+vol. 20, no. 7, pp. 682–688, 2002.
+[57] S. Wei, W. Wei, and J. M. Sedivy, “Expression of catalytically
+active telomerase does not prevent premature senescence
+caused by overexpression of oncogenic Ha-Ras in normal
+human ﬁbroblasts,” Cancer Research, vol. 59, no. 7, pp. 1539–
+1543, 1999.
+8 Journal of Aging Research
+[58] M. Serrano and M. A. Blasco, “Putting the stress on
+senescence,” Current Opinion in Cell Biology, vol. 13, no. 6,
+pp. 748–753, 2001.
+[59] N. E. Sharpless and R. A. DePinho, “Telomeres, stem cells,
+senescence, and cancer,” Journal of Clinical Investigation,
+vol. 113, no. 2, pp. 160–168, 2004.
+[60] J. Pedro de Magalh˜aes, F. Chainiaux, F. de Longueville et al.,
+“Gene expression and regulation in H2O2-induced prema-
+ture senescence of human foreskin ﬁbroblasts expressing or
+not telomerase,” Experimental Gerontology, vol. 39, no. 9,
+pp. 1379–1389, 2004.
+[61] M. Collado, J. Gil, A. Efeyan et al., “Tumour biology:
+senescence in premalignant tumours,” Nature, vol. 436,
+no. 7051, p. 642, 2005.
+[62] S. Franco, A. Canela, P. Klatt, and M. A. Blasco, “Eﬀectors of
+mammalian telomere dysfunction: a comparative transcrip-
+tome analysis using mouse models,” Carcinogenesis, vol. 26,
+no. 9, pp. 1613–1626, 2005.
+[63] B. W. Darbro, G. B. Schneider, and A. J. Klingelhutz, “Co-
+regulation of p16 and migratory genes in culture conditions
+that lead to premature senescence in human keratinocytes,”
+Journal of Investigative Dermatology, vol. 125, no. 3, pp. 499–
+509, 2005.
+[64] I. Ben-Porath and R. A. Weinberg, “The signals and pathways
+activating cellular senescence,” International Journal of Bio-
+chemistry and Cell Biology, vol. 37, no. 5, pp. 961–976, 2005.
+[65] N. E. Sharpless and R. A. DePinho, “Cancer: crime and
+punishment,” Nature, vol. 436, no. 7051, pp. 636–637, 2005.
+[66] E. Hara, H. Tsurui, A. Shinozaki, S. Nakada, and K.
+Oda, “Cooperative eﬀect of antisense-Rb and antisense-p53
+oligomers on the extension of life span in human diploid
+ﬁbroblasts, TIG-1,” Biochemical and Biophysical Research
+Communications, vol. 179, no. 1, pp. 528–534, 1991.
+[67] J. W. Shay, O. M. Pereira-Smith, and W. E. Wright, “A role
+for both RB and p53 in the regulation of human cellular
+senescence,” Experimental Cell Research, vol. 196, no. 1,
+pp. 33–39, 1991.
+[68] W. Wei, U. Herbig, S. Wei, A. Dutriaux, and J. M. Sedivy,
+“Loss of retinoblastoma but not p16 function allows bypass
+of replicative senescence in human ﬁbroblasts,” EMBO
+Reports, vol. 4, no. 11, pp. 1061–1066, 2003.
+[69] A. Smogorzewska and T. de Lange, “Diﬀerent telomere
+damage signaling pathways in human and mouse cells,” The
+EMBO Journal, vol. 21, no. 16, pp. 4338–4348, 2002.
+[70] J. Campisi and F. d’Adda Di Fagagna, “Cellular senescence:
+when bad things happen to good cells,” Nature Reviews
+Molecular Cell Biology, vol. 8, no. 9, pp. 729–740, 2007.
+[71] C. A. Afshari, P. J. Vojta, L. A. Annab, P. A. Futreal, T. B.
+Willard, and J. C. Barrett, “Investigation of the role of G1/S
+cell cycle mediators in cellular senescence,” Experimental Cell
+Research, vol. 209, no. 2, pp. 231–237, 1993.
+[72] P. Atadja, H. Wong, I. Garkavtsev, C. Veillette, and K.
+Riabowol, “Increased activity of p53 in senescing ﬁbroblasts,”
+Proceedings of the National Academy of Sciences of the United
+States of America, vol. 92, no. 18, pp. 8348–8352, 1995.
+[73] K. Webley, J. A. Bond, C. J. Jones et al., “Posttranslational
+modiﬁcations of p53 in replicative senescence overlapping
+but distinct from those induced by DNA damage,” Molecular
+and Cellular Biology, vol. 20, no. 8, pp. 2803–2808, 2000.
+[74] J. Bond, M. Haughton, J. Blaydes, V. Gire, D. Wynford-
+Thomas, and F. Wyllie, “Evidence that transcriptional acti-
+vation by p53 plays a direct role in the induction of cellular
+senescence,” Oncogene, vol. 13, no. 10, pp. 2097–2104, 1996.
+[75] V. Gire, P. Roux, D. Wynford-Thomas, J. M. Brondello, and
+V. Dulic, “DNA damage checkpoint kinase Chk2 triggers
+replicative senescence,” The EMBO Journal, vol. 23, no. 13,
+pp. 2554–2563, 2004.
+[76] V. Gire, “Dysfunctional telomeres at senescence signal cell
+cycle arrest via Chk2,” Cell Cycle, vol. 3, no. 10, pp. 1217–
+1220, 2004.
+[77] Q. M. Chen, J. C. Bartholomew, J. Campisi, M. Acosta, J.
+D. Reagan, and B. N. Ames, “Molecular analysis of H2O2-
+induced senescent-like growth arrest in normal human
+ﬁbroblasts: p53 and Rb control G1 arrest but not cell
+replication,” The Biochemical Journal, vol. 332, pp. 143–50,
+1998.
+[78] G. Ferbeyre, E. de Stanchina, E. Querido, N. Baptiste, C.
+Prives, and S. W. Lowe, “PML is induced by oncogenic ras
+and promotes premature senescence,” Genes & Development,
+vol. 14, no. 16, pp. 2015–2027, 2000.
+[79] M. Pearson, R. Carbone, C. Sebastiani et al., “PML regulates
+p53 acetylation and premature senescence induced by onco-
+genic Ras,” Nature, vol. 406, no. 6792, pp. 207–210, 2000.
+[80] F. J. Stott, S. Bates, M. C. James et al., “The alternative prod-
+uct from the human CDKN2A locus, p14ARF
+, participates in a
+regulatory feedback loop with p53 and MDM2,” The EMBO
+Journal, vol. 17, no. 17, pp. 5001–5014, 1998.
+[81] A. M. G. Dirac and R. Bernards, “Reversal of senescence
+in mouse ﬁbroblasts through lentiviral suppression of p53,”
+Journal of Biological Chemistry, vol. 278, no. 14, pp. 11731–
+11734, 2003.
+[82] M. Harvey, A. T. Sands, R. S. Weiss et al., “In vitro growth
+characteristics of embryo ﬁbroblasts isolated from p53-
+deﬁcient mice,” Oncogene, vol. 8, no. 9, pp. 2457–2467, 1993.
+[83] T. Kamijo, F. Zindy, M. F. Roussel et al., “Tumor suppression
+at the mouse INK4a locus mediated by the alternative reading
+frame product p19ARF
+,” Cell, vol. 91, no. 5, pp. 649–659, 1997.
+[84] C. J. Sherr and J. M. Roberts, “CDK inhibitors: positive
+and negative regulators of G-phase progression,” Genes &
+Development, vol. 13, no. 12, pp. 1501–1512, 1999.
+[85] V. Dulic, L. F. Drullinger, E. Lees, S. I. Reed, and G. H.
+Stein, “Altered regulation of G1 cyclins in senescent human
+diploid ﬁbroblasts: accumulation of inactive cyclin E-Cdk2
+and cyclin D1-Cdk2 complexes,” Proceedings of the National
+Academy of Sciences of the United States of America, vol. 90,
+no. 23, pp. 11034–11038, 1993.
+[86] A. Noda, Y. Ning, S. F. Venable, O. M. Pereira-Smith, and
+J. R. Smith, “Cloning of senescent cell-derived inhibitors of
+DNA synthesis using an expression screen,” Experimental Cell
+Research, vol. 211, no. 1, pp. 90–98, 1994.
+[87] H. Tahara, K. Kamada, E. Sato et al., “Increase in expression
+levels of interferon-inducible genes in senescent human
+diploid ﬁbroblasts and in SV40-transformed human ﬁbrob-
+lasts with extended lifespan,” Oncogene, vol. 11, no. 6,
+pp. 1125–1132, 1995.
+[88] G. H. Stein, L. F. Drullinger, A. Soulard, and V. Duli´c,
+“Diﬀerential roles for cyclin-dependent kinase inhibitors p21
+and p16 in the mechanisms of senescence and diﬀerentiation
+in human ﬁbroblasts,” Molecular and Cellular Biology, vol. 19,
+no. 3, pp. 2109–2117, 1999.
+[89] U. Herbig, W. Wei, A. Dutriaux, W. A. Jobling, and J. M.
+Sedivy, “Real-time imaging of transcriptional activation in
+live cells reveals rapid up-regulation of the cyclin-dependent
+kinase inhibitor gene CDKN1A in replicative cellular senes-
+cence,” Aging cell, vol. 2, no. 6, pp. 295–304, 2003.
+Journal of Aging Research 9
+[90] M. Modestou, V. Puig-Antich, C. Korgaonkar, A. Eapen,
+and D. E. Quelle, “The alternative reading frame tumor
+suppressor inhibits growth through p21-dependent and p21-
+independent pathways,” Cancer Research, vol. 61, no. 7,
+pp. 3145–3150, 2001.
+[91] W. Wei, R. M. Hemmer, and J. M. Sedivy, “Role of p14 in
+replicative and induced senescence of human ﬁbroblasts,”
+Molecular and Cellular Biology, vol. 21, no. 20, pp. 6748–6757,
+2001.
+[92] B. B. McConnell, M. Starborg, S. Brookes, and G. Peters,
+“Inhibitors of cyclin-dependent kinases induce features
+of replicative senescence in early passage human diploid
+ﬁbroblasts,” Current Biology, vol. 8, no. 6, pp. 351–354,
+1998.
+[93] B. D. Chang, K. Watanabe, E. V. Broude et al., “Eﬀects of p21
+on cellular gene expression: implications for carcinogenesis,
+senescence, and age-related diseases,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 97, no. 8, pp. 4291–4296, 2000.
+[94] J. P. Brown, W. Wei, and J. M. Sedivy, “Bypass of senescenoe
+after disruption of p21CIP1/WAF1
+gene in normal diploid
+human ﬁbroblasts,” Science, vol. 277, no. 5327, pp. 831–834,
+1997.
+[95] A. S. C. Medcalf, A. J. P. Klein-Szanto, and V. J. Cristofalo,
+“Expression of p21 is not required for senescence of human
+ﬁbroblasts,” Cancer Research, vol. 56, no. 20, pp. 4582–4585,
+1996.
+[96] C. M. Beaus´ejour, A. Krtolica, F. Galimi et al., “Reversal
+of human cellular senescence: roles of the p53 and p16
+pathways,” The EMBO Journal, vol. 22, no. 16, pp. 4212–4222,
+2003.
+[97] D. A. Alcorta, Y. Xiong, D. Phelps, G. Hannon, D. Beach, and
+J. C. Barrett, “Involvement of the cyclin-dependent kinase
+inhibitor p16INK4a
+in replicative senescence of normal human
+ﬁbroblasts,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 93, no. 24, pp. 13742–13747,
+1996.
+[98] E. Hara, R. Smith, D. Parry, H. Tahara, S. Stone, and G.
+Peters, “Regulation of p16 expression and its implications for
+cell immortalization and senescence,” Molecular and Cellular
+Biology, vol. 16, no. 3, pp. 859–867, 1996.
+[99] H. Wong and K. Riabowol, “Diﬀerential CDK-inhibitor gene
+expression in aging human diploid ﬁbroblasts,” Experimental
+Gerontology, vol. 31, no. 1-2, pp. 311–325, 1996.
+[100] K. Itahana, Y. Zou, Y. Itahana et al., “Control of the replicative
+life span of human ﬁbroblasts by p16 and the polycomb
+protein Bmi-1,” Molecular and Cellular Biology, vol. 23, no. 1,
+pp. 389–401, 2003.
+[101] S. R. Romanov, B. K. Kozakiewicz, C. R. Holst, M. R.
+Stampfer, L. M. Haupt, and T. D. Tlsty, “Normal human
+mammary epithelial cells spontaneously escape senescence
+and acquire genomic changes,” Nature, vol. 409, no. 6820,
+pp. 633–637, 2001.
+[102] W. Y. Kim and N. E. Sharpless, “The regulation of INK4/ARF
+in cancer and aging,” Cell, vol. 127, no. 2, pp. 265–275, 2006.
+[103] J. Gil and G. Peters, “Regulation of the INK4b-ARF-INK4a
+tumour suppressor locus: all for one or one for all,” Nature
+Reviews Molecular Cell Biology, vol. 7, no. 9, pp. 667–677,
+2006.
+[104] C. J. Collins and J. M. Sedivy, “Involvement of the INK4a/Arf
+gene locus in senescence,” Aging Cell, vol. 2, no. 3, pp. 145–
+150, 2003.
+[105] J. L. Jacobs, K. Kieboom, S. Marino, R. A. DePinho, and
+M. van Lohuizen, “The oncogene and Polycomb-group gene
+bmi-1 regulates cell proliferation and senescence through the
+ink4a locus,” Nature, vol. 397, no. 6715, pp. 164–168, 1999.
+[106] A. P. Bracken, D. Kleine-Kohlbrecher, N. Dietrich et al.,
+“The Polycomb group proteins bind throughout the INK4A-
+ARF locus and are disassociated in senescent cells,” Genes &
+Development, vol. 21, no. 5, pp. 525–530, 2007.
+[107] J. Gil, D. Bernard, D. Mart´ınez, and D. Beach, “Polycomb
+CBX7 has a unifying role in cellular lifespan,” Nature Cell
+Biology, vol. 6, no. 1, pp. 67–72, 2004.
+[108] N. Dietrich, A. P. Bracken, E. Trinh et al., “Bypass of
+senescence by the polycomb group protein CBX8 through
+direct binding to the INK4A-ARF locus,” The EMBO Journal,
+vol. 26, no. 6, pp. 1637–1648, 2007.
+[109] E. Hara, T. Yamaguchi, H. Nojima et al., “Id-related genes
+encoding helix-loop-helix proteins are required for G1 pro-
+gression and are repressed in senescent human ﬁbroblasts,”
+Journal of Biological Chemistry, vol. 269, no. 3, pp. 2139–
+2145, 1994.
+[110] W. Zheng, H. Wang, L. Xue, Z. Zhang, and T. Tong,
+“Regulation of cellular senescence and p16 expression by Id1
+and E47 proteins in human diploid ﬁbroblast,” Journal of
+Biological Chemistry, vol. 279, no. 30, pp. 31524–31532, 2004.
+[111] N. Ohtani, Z. Zebedee, T. J. G. Huot et al., “Opposing eﬀects
+of Ets and Id proteins on p16 expression during cellular
+senescence,” Nature, vol. 409, no. 6823, pp. 1067–1070, 2001.
+[112] R. M. Alani, A. Z. Young, and C. B. Shiﬄett, “Id1 regulation
+of cellular senescence through transcriptional repression of
+p16/Ink4a,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 98, no. 14, pp. 7812–7816,
+2001.
+[113] R. M. Alani, J. Hasskarl, M. Grace, M. C. Hernandez, M.
+A. Israel, and K. M¨unger, “Immortalization of primary
+human keratinocytes by the helix-loop-helix protein, Id-1,”
+Proceedings of the National Academy of Sciences of the United
+States of America, vol. 96, no. 17, pp. 9637–9641, 1999.
+[114] B. J. Nickoloﬀ, V. Chaturvedi, P. Bacon, J. Z. Qin, M.
+F. Denning, and M. O. Diaz, “Id-1 delays senescence but
+does not immortalize keratinocytes,” Journal of Biological
+Chemistry, vol. 275, no. 36, pp. 27501–27504, 2000.
+[115] J. Tang, G. M. Gordon, B. J. Nickoloﬀ, and K. E. Foreman,
+“The helix-loop-helix protein Id-1 delays onset of replicative
+senescence in human endothelial cells,” Laboratory Investiga-
+tion, vol. 82, no. 8, pp. 1073–1079, 2002.
+[116] N. E. Sharpless, N. Bardeesy, K. H. Lee et al., “Loss of p16
+with retention of p19 predisposes mice to tumorigenesis,”
+Nature, vol. 413, no. 6851, pp. 86–91, 2001.
+[117] B. Vogelstein and K. W. Kinzler, “The multistep nature of
+cancer,” Trends in Genetics, vol. 9, no. 4, pp. 138–141, 1993.
+[118] J. Campisi, “Senescent cells, tumor suppression, and organis-
+mal aging: good citizens, bad neighbors,” Cell, vol. 120, no. 4,
+pp. 513–522, 2005.
+[119] R. Sager, “Senescence as a mode of tumor suppression,”
+Environmental Health Perspectives, vol. 93, pp. 59–62, 1991.
+[120] D. Hanahan and R. A. Weinberg, “The hallmarks of cancer,”
+Cell, vol. 100, no. 1, pp. 57–70, 2000.
+[121] T. M. Bryan, A. Englezou, J. Gupta, S. Bacchetti, and R.
+R. Reddel, “Telomere elongation in immortal human cells
+without detectable telomerase activity,” The EMBO Journal,
+vol. 14, no. 17, pp. 4240–4248, 1995.
+[122] A. Muntoni and R. R. Reddel, “The ﬁrst molecular details
+of ALT in human tumor cells,” Human Molecular Genetics,
+vol. 14, no. 2, pp. R191–R196, 2005.
+10 Journal of Aging Research
+[123] W. C. Hahn, C. M. Counter, A. S. Lundberg, R. L. Beijersber-
+gen, M. W. Brooks, and R. A. Weinberg, “Creation of human
+tumour cells with deﬁned genetic elements,” Nature, vol. 400,
+no. 6743, pp. 464–468, 1999.
+[124] E. Gonz´alez-Su´arez, E. Samper, A. Ram´ırez et al., “Increased
+epidermal tumors and increased skin wound healing in
+transgenic mice overexpressing the catalytic subunit of
+telomerase, mTERT, in basal keratinocytes,” The EMBO
+Journal, vol. 20, no. 11, pp. 2619–2630, 2001.
+[125] S. E. Artandi, S. Alson, M. K. Tietze et al., “Constitutive
+telomerase expression promotes mammary carcinomas in
+aging mice,” Proceedings of the National Academy of Sciences
+of the United States of America, vol. 99, no. 12, pp. 8191–8196,
+2002.
+[126] A. Canela, J. Mart´ın-Caballero, J. M. Flores, and M. A.
+Blasco, “Constitutive expression of tert in thymocytes leads to
+increased incidence and dissemination of T-cell lymphoma
+in Lck-tert mice,” Molecular and Cellular Biology, vol. 24,
+no. 10, pp. 4275–4293, 2004.
+[127] A. K. Bednarek, Y. Chu, T. J. Slaga, and C. M. Aldaz,
+“Telomerase and cell proliferation in mouse skin papillo-
+mas,” Molecular Carcinogenesis, vol. 20, no. 4, pp. 329–331,
+1997.
+[128] E. Gonz´alez-Su´arez, J. M. Flores, and M. A. Blasco, “Cooper-
+ation between p53 mutation and high telomerase transgenic
+expression in spontaneous cancer development,” Molecular
+and Cellular Biology, vol. 22, no. 20, pp. 7291–7301, 2002.
+[129] M. A. Blasco, H. W. Lee, M. P. Hande et al., “Telomere
+shortening and tumor formation by mouse cells lacking
+telomerase RNA,” Cell, vol. 91, no. 1, pp. 25–34, 1997.
+[130] C. M. Khoo, D. R. Carrasco, M. W. Bosenberg, J. H. Paik,
+and R. A. DePinho, “Ink4a/Arf tumor suppressor does not
+modulate the degenerative conditions or tumor spectrum of
+the telomerase-deﬁcient mouse,” Proceedings of the National
+Academy of Sciences of the United States of America, vol. 104,
+no. 10, pp. 3931–3936, 2007.
+[131] R. A. Greenberg, L. Chin, A. Femino et al., “Short dys-
+functional telomeres impair tumorigenesis in the INK4aΔ2/3
+cancer-prone mouse,” Cell, vol. 97, no. 4, pp. 515–525, 1999.
+[132] E. Gonz´alez-Su´arez, E. Samper, J. M. Flores, and M. A.
+Blasco, “Telomerase-deﬁcient mice with short telomeres are
+resistant to skin tumorigenesis,” Nature Genetics, vol. 26,
+no. 1, pp. 114–117, 2000.
+[133] K. L. Rudolph, M. Millard, M. W. Bosenberg, and R. A.
+DePinho, “Telomere dysfunction and evolution of intestinal
+carcinoma in mice and humans,” Nature Genetics, vol. 28,
+no. 2, pp. 155–159, 2001.
+[134] K. K. Wong, R. S. Maser, R. M. Bachoo et al., “Telomere
+dysfunction and Atm deﬁciency compromises organ home-
+ostasis and accelerates ageing,” Nature, vol. 421, no. 6923,
+pp. 643–648, 2003.
+[135] L. Qi, M. A. Strong, B. O. Karim, D. L. Huso, and C. W.
+Greider, “Telomere fusion to chromosome breaks reduces
+oncogenic translocations and tumour formation,” Nature
+Cell Biology, vol. 7, no. 7, pp. 706–711, 2005.
+[136] L. Qi, M. A. Strong, B. O. Karim, M. Armanios, D. L. Huso,
+and C. W. Greider, “Short telomeres and ataxia-telangiectasia
+mutated deﬁciency cooperatively increase telomere dysfunc-
+tion and suppress tumorigenesis,” Cancer Research, vol. 63,
+no. 23, pp. 8188–8196, 2003.
+[137] X. Guo, Y. Deng, Y. Lin et al., “Dysfunctional telomeres
+activate an ATM-ATR-dependent DNA damage response to
+suppress tumorigenesis,” The EMBO Journal, vol. 26, no. 22,
+pp. 4709–4719, 2007.
+[138] A. Lechel, H. Holstege, Y. Begus et al., “Telomerase deletion
+limits progression of p53-mutant hepatocellular carcinoma
+with short telomeres in chronic liver disease,” Gastroenterol-
+ogy, vol. 132, no. 4, pp. 1465–1475, 2007.
+[139] E. Gonz´alez-Su´arez, F. A. Goytisolo, J. M. Flores, and
+M. A. Blasco, “Telomere dysfunction results in enhanced
+organismal sensitivity to the alkylating agent N-methyl-N-
+nitrosourea,” Cancer Research, vol. 63, no. 21, pp. 7047–7050,
+2003.
+[140] K. L. Rudolph, S. Chang, H. W. Lee et al., “Longevity, stress
+response, and cancer in aging telomerase-deﬁcient mice,”
+Cell, vol. 96, no. 5, pp. 701–712, 1999.
+[141] P. A. Farazi, J. Glickman, J. Horner, and R. A. DePinho,
+“Cooperative interactions of p53 mutation, telomere dys-
+function, and chronic liver damage in hepatocellular carci-
+noma progression,” Cancer Research, vol. 66, no. 9, pp. 4766–
+4773, 2006.
+[142] D. M. Feldser and C. W. Greider, “Short telomeres limit
+tumor progression in vivo by inducing senescence,” Cancer
+Cell, vol. 11, no. 5, pp. 461–469, 2007.
+[143] W. Cosme-Blanco, M. F. Shen, A. J. F. Lazar et al., “Telomere
+dysfunction suppresses spontaneous tumorigenesis in vivo
+by initiating p53-dependent cellular senescence,” EMBO
+Reports, vol. 8, no. 5, pp. 497–503, 2007.
+[144] M. Braig, S. Lee, C. Loddenkemper et al., “Oncogene-
+induced senescence as an initial barrier in lymphoma
+development,” Nature, vol. 436, no. 7051, pp. 660–665, 2005.
+[145] C. J. Sarkisian, B. A. Keister, D. B. Stairs, R. B. Boxer, S.
+E. Moody, and L. A. Chodosh, “Dose-dependent oncogene-
+induced senescence in vivo and its evasion during mammary
+tumorigenesis,” Nature Cell Biology, vol. 9, no. 5, pp. 493–
+505, 2007.
+[146] J. P. Morton, P. Timpson, S. A. Karim et al., “Mutant p53
+drives metastasis and overcomes growth arrest/senescence
+in pancreatic cancer,” Proceedings of the National Academy
+of Sciences of the United States of America, vol. 107, no. 1,
+pp. 246–251, 2010.
+[147] E. L. Denchi, C. Attwooll, D. Pasini, and K. Helin, “Dereg-
+ulated E2F activity induces hyperplasia and senescence-like
+features in the mouse pituitary gland,” Molecular and Cellular
+Biology, vol. 25, no. 7, pp. 2660–2672, 2005.
+[148] Z. Chen, L. C. Trotman, D. Shaﬀer et al., “Crucial role of
+p53-dependent cellular senescence in suppression of Pten-
+deﬁcient tumorigenesis,” Nature, vol. 436, no. 7051, pp. 725–
+730, 2005.
+[149] D. Dankort, E. Filenova, M. Collado, M. Serrano, K. Jones,
+and M. McMahon, “A new mouse model to explore the
+initiation, progression, and therapy of BRAF-induced lung
+tumors,” Genes & Development, vol. 21, no. 4, pp. 379–384,
+2007.
+[150] L. Ha, T. Lchikawa, M. Anver et al., “ARF functions as a
+melanoma tumor suppressor by inducing p53-independent
+senescence,” Proceedings of the National Academy of Sciences
+of the United States of America, vol. 104, no. 26, pp. 10968–
+10973, 2007.
+[151] N. Dhomen, J. S. Reis-Filho, S. da Rocha Dias et al., “Onco-
+genic Braf induces melanocyte senescence and melanoma in
+mice,” Cancer Cell, vol. 15, no. 4, pp. 294–303, 2009.
+[152] V. K. Goel, N. Ibrahim, G. Jiang et al., “Melanocytic nevus-
+like hyperplasia and melanoma in transgenic BRAFV600E
+mice,” Oncogene, vol. 28, no. 23, pp. 2289–2298, 2009.
+[153] P. K. Majumder, C. Grisanzio, F. O’Connell et al., “A
+prostatic intraepithelial neoplasia-dependent p27 checkpoint
+Journal of Aging Research 11
+induces senescence and inhibits cell proliferation and cancer
+progression,” Cancer Cell, vol. 14, no. 2, pp. 146–155, 2008.
+[154] M. Xu, Q. Yu, R. Subrahmanyam, M. J. Diﬁlippantonio, T.
+Ried, and J. M. Sen, “β-catenin expression results in p53-
+independent DNA damage and oncogene-induced senes-
+cence in prelymphomagenic thymocytes in vivo,” Molecular
+and Cellular Biology, vol. 28, no. 5, pp. 1713–1723, 2008.
+[155] A. P. Young, S. Schisio, Y. A. Minamishima et al., “VHL
+loss actuates a HIF-independent senescence programme
+mediated by Rb and p400,” Nature Cell Biology, vol. 10, no. 3,
+pp. 361–369, 2008.
+[156] C. Michaloglou, L. C. W. Vredeveld, M. S. Soengas et al.,
+“BRAF-associated senescence-like cell cycle arrest of human
+naevi,” Nature, vol. 436, no. 7051, pp. 720–724, 2005.
+[157] S. Courtois-Cox, S. M. Genther Williams, E. E. Reczek et al.,
+“A negative feedback signaling network underlies oncogene-
+induced senescence,” Cancer Cell, vol. 10, no. 6, pp. 459–472,
+2006.
+[158] V. C. Gray-Schopfer, S. C. Cheong, H. Chong et al., “Cellular
+senescence in naevi and immortalisation in melanoma: a role
+for p16?” British Journal of Cancer, vol. 95, no. 4, pp. 496–505,
+2006.
+[159] J. Bartkova, N. Rezaei, M. Liontos et al., “Oncogene-induced
+senescence is part of the tumorigenesis barrier imposed
+by DNA damage checkpoints,” Nature, vol. 444, no. 7119,
+pp. 633–637, 2006.
+[160] P. Sun, N. Yoshizuka, L. New et al., “PRAK is essential for ras-
+induced senescence and tumor suppression,” Cell, vol. 128,
+no. 2, pp. 295–308, 2007.
+[161] C. A. Schmitt, “Senescence, apoptosis and therapy—cutting
+the lifelines of cancer,” Nature Reviews Cancer, vol. 3, no. 4,
+pp. 286–295, 2003.
+[162] J. W. Shay and I. B. Roninson, “Hallmarks of senescence in
+carcinogenesis and cancer therapy,” Oncogene, vol. 23, no. 16,
+pp. 2919–2933, 2004.
+[163] C. A. Schmitt, J. S. Fridman, M. Yang et al., “A senescence
+program controlled by p53 and p16 contributes to the
+outcome of cancer therapy,” Cell, vol. 109, no. 3, pp. 335–346,
+2002.
+[164] W. E. Wright, M. A. Piatyszek, W. E. Rainey, W. Byrd, and
+J. W. Shay, “Telomerase activity in human germline and
+embryonic tissues and cells,” Developmental Genetics, vol. 18,
+no. 2, pp. 173–179, 1996.
+[165] G. A. Ulaner, J. F. Hu, T. H. Vu, L. C. Giudice, and A.
+R. Hoﬀman, “Telomerase activity in human development
+is regulated by human telomerase reverse transcriptase
+(hTERT) transcription and by alternate splicing of hTERT
+transcripts,” Cancer Research, vol. 58, no. 18, pp. 4168–4172,
+1998.
+[166] C. B. Harley, “Telomerase and cancer therapeutics,” Nature
+Reviews Cancer, vol. 8, no. 3, pp. 167–179, 2008.
+[167] L. R. Kelland, “Overcoming the immortality of tumour cells
+by telomere and telomerase based cancer therapeutics—
+current status and future prospects,” European Journal of
+Cancer, vol. 41, no. 7, pp. 971–979, 2005.
+[168] J. W. Shay and W. E. Wright, “Telomerase therapeutics for
+cancer: challenges and new directions,” Nature Reviews Drug
+Discovery, vol. 5, no. 7, pp. 577–584, 2006.
+[169] K. Damm, U. Hemmann, P. Garin-Chesa et al., “A highly
+selective telomerase inhibitor limiting human cancer cell
+proliferation,” The EMBO Journal, vol. 20, no. 24, pp. 6958–
+6968, 2002.
+[170] J. H. Kim, J. H. Kim, G. E. Lee, S. W. Kim, and I. K.
+Chung, “Identiﬁcation of a quinoxaline derivative that is a
+potent telomerase inhibitor leading to cellular senescence of
+human cancer cells,” The Biochemical Journal, vol. 373, no. 2,
+pp. 523–529, 2003.
+[171] A. Preto, S. K. Singhrao, M. F. Haughton, D. Kipling,
+D. Wynford-Thomas, and C. J. Jones, “Telomere erosion
+triggers growth arrest but not cell death in human cancer
+cells retaining wild-type p53: implications for antitelomerase
+therapy,” Oncogene, vol. 23, no. 23, pp. 4136–4145, 2004.
+[172] J. F. Riou, L. Guittat, P. Mailliet et al., “Cell senescence
+and telomere shortening induced by a new series of speciﬁc
+G-quadruplex DNA ligands,” Proceedings of the National
+Academy of Sciences of the United States of America, vol. 99,
+no. 5, pp. 2672–2677, 2002.
+[173] M. A. Shammas, H. Koley, D. G. Beer, C. Li, R. K. Goyal,
+and N. C. Munshi, “Growth arrest, apoptosis, and telomere
+shortening of Barrett’s-associated adenocarcinoma cells by
+a telomerase inhibitor,” Gastroenterology, vol. 126, no. 5,
+pp. 1337–1346, 2004.
+[174] M. W. Djojosubroto, A. C. Chin, N. Go et al., “Telomerase
+antagonists GRN163 and GRN163L inhibit tumor growth
+and increase chemosensitivity of human hepatoma,” Hepa-
+tology, vol. 42, no. 5, pp. 1127–1136, 2005.
+[175] P. F. Brunsvig, S. Aamdal, M. K. Gjertsen et al., “Telomerase
+peptide vaccination: a phase I/II study in patients with non-
+small cell lung cancer,” Cancer Immunology, Immunotherapy,
+vol. 55, no. 12, pp. 1553–1564, 2006.
+[176] W. G. Deng, G. Jayachandran, G. Wu, K. Xu, J. A. Roth, and L.
+Ji, “Tumor-speciﬁc activation of human telomerase reverses
+transcriptase promoter activity by activating enhancer-
+binding protein-2β in human lung cancer cells,” Journal of
+Biological Chemistry, vol. 282, no. 36, pp. 26460–26470, 2007.
+[177] A. E. Hochreiter, H. Xiao, E. M. Goldblatt et al., “Telomerase
+template antagonist GRN163L disrupts telomere mainte-
+nance, tumor growth, and metastasis of breast cancer,”
+Clinical Cancer Research, vol. 12, no. 10, pp. 3184–3192, 2006.
+[178] W. G. An, R. C. Schnur, L. Neckers, and M. V. Blagosklonny,
+“Depletion of p185erbB2
+, Raf-1 and mutant p53 proteins
+by geldanamycin derivatives correlates with antiproliferative
+activity,” Cancer Chemotherapy and Pharmacology, vol. 40,
+no. 1, pp. 60–64, 1997.
+[179] G. Dasgupta and J. Momand, “Geldanamycin prevents
+nuclear translocation of mutant p53,” Experimental Cell
+Research, vol. 237, no. 1, pp. 29–37, 1997.
+[180] G. Selivanova, L. Ryabchenko, E. Jansson, V. Iotsova, and K.
+G. Wiman, “Reactivation of mutant p53 through interaction
+of a C-terminal peptide with the core domain,” Molecular and
+Cellular Biology, vol. 19, no. 5, pp. 3395–3402, 1999.
+[181] B. A. Foster, H. A. Coﬀey, M. J. Morin, and F. Rastinejad,
+“Pharmacological rescue of mutant p53 conformation and
+function,” Science, vol. 286, no. 5449, pp. 2507–2510, 1999.
+[182] R. E. Buller, I. B. Runnebaum, B. Y. Karlan et al., “A phase I/II
+trial of rAd/p53 (SCH 58500) gene replacement in recurrent
+ovarian cancer,” Cancer Gene Therapy, vol. 9, no. 7, pp. 553–
+566, 2002.
+[183] K. Butz, C. Denk, A. Ullmann, M. Scheﬀner, and F. Hoppe-
+Seyler, “Induction of apoptosis in human papillomavirus-
+positive cancer cells by peptide aptamers targeting the viral
+E6 oncoprotein,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 97, no. 12,
+pp. 6693–6697, 2000.
+12 Journal of Aging Research
+[184] P. Seth, U. Brinkmann, G. N. Schwartz et al., “Adenovirus-
+mediated gene transfer to human breast tumor cells: an
+approach for cancer gene therapy and bone marrow purg-
+ing,” Cancer Research, vol. 56, no. 6, pp. 1346–1351, 1996.
+[185] S. R. Quist, S. Wang-Gohrke, T. K¨ohler, R. Kreienberg, and
+I. B. Runnebaum, “Cooperative eﬀect of adenoviral p53 gene
+therapy and standard chemotherapy in ovarian cancer cells
+independent of the endogenous p53 status,” Cancer Gene
+Therapy, vol. 11, no. 8, pp. 547–554, 2004.
+[186] S. Hietanen, S. Lain, E. Krausz, C. Blattner, and D. P.
+Lane, “Activation of p53 in cervical carcinoma cells by small
+molecules,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 97, no. 15, pp. 8501–8506,
+2000.
+[187] T. Maehama, A. Patzelt, M. Lengert et al., “Selective down-
+regulation of human papillomavirus transcription by 2-
+deoxyglucose,” International Journal of Cancer, vol. 76, no. 5,
+pp. 639–646, 1998.
+[188] J. Nemunaitis, S. G. Swisher, T. Timmons et al., “Adenovirus-
+mediated p53 gene transfer in sequence with cisplatin to
+tumors of patients with non-small-cell lung cancer,” Journal
+of Clinical Oncology, vol. 18, no. 3, pp. 609–622, 2000.
+[189] C. P. Martins, L. Brown-Swigart, and G. I. Evan, “Modeling
+the therapeutic eﬃcacy of p53 restoration in tumors,” Cell,
+vol. 127, no. 7, pp. 1323–1334, 2006.
+[190] A. Ventura, D. G. Kirsch, M. E. McLaughlin et al., “Restora-
+tion of p53 function leads to tumour regression in vivo,”
+Nature, vol. 445, no. 7128, pp. 661–665, 2007.
+[191] W. Xue, L. Zender, C. Miething et al., “Senescence and
+tumour clearance is triggered by p53 restoration in murine
+liver carcinomas,” Nature, vol. 445, no. 7128, pp. 656–660,
+2007.
+[192] C. H. Wu, J. van Riggelen, A. Yetil et al., “Cellular senescence
+is an important mechanism of tumor regression upon c-Myc
+inactivation,” Proceedings of the National Academy of Sciences
+of the United States of America, vol. 104, no. 32, pp. 13028–
+13033, 2007.
+[193] L. Soucek, J. Whitﬁeld, C. P. Martins et al., “Modelling Myc
+inhibition as a cancer therapy,” Nature, vol. 455, no. 7213,
+pp. 679–683, 2008.
+[194] I. B. Roninson, “Tumor senescence as a determinant of drug
+response in vivo,” Drug Resistance Updates, vol. 5, no. 5,
+pp. 204–208, 2002.
+[195] B.-D. Chang, E. V. Broude, M. Dokmanovic et al., “A
+senescence-like phenotype distinguishes tumor cells that
+undergo terminal proliferation arrest after exposure to
+anticancer agents,” Cancer Research, vol. 59, no. 15, pp. 3761–
+3767, 1999.
+[196] B. D. Chang, Y. Xuan, E. V. Broude et al., “Role of p53 and
+p21waf1/cip1
+in senescence-like terminal proliferation arrest
+induced in human tumor cells by chemotherapeutic drugs,”
+Oncogene, vol. 18, no. 34, pp. 4808–4818, 1999.
+[197] L. W. Elmore, C. W. Rehder, X. Di et al., “Adriamycin-
+induced senescence in breast tumor cells involves functional
+p53 and telomere dysfunction,” Journal of Biological Chem-
+istry, vol. 277, no. 38, pp. 35509–35515, 2002.
+[198] X. Wang, S. C. H. Wong, J. Pan et al., “Evidence of cisplatin-
+induced senescent-like growth arrest in nasopharyngeal
+carcinoma cells,” Cancer Research, vol. 58, no. 22, pp. 5019–
+5022, 1998.
+[199] R. H. te Poele, A. L. Okorokov, L. Jardine, J. Cummings, and
+S. P. Joel, “DNA damage is able to induce senescence in tumor
+cells in vitro and in vivo,” Cancer Research, vol. 62, no. 6,
+pp. 1876–1883, 2002.
+[200] M. Collado, M. A. Blasco, and M. Serrano, “Cellular senes-
+cence in cancer and aging,” Cell, vol. 130, no. 2, pp. 223–233,
+2007.
+[201] V. Paradis, N. Youssef, D. Darg`ere et al., “Replicative senes-
+cence in normal liver, chronic hepatitis C, and hepatocellular
+carcinomas,” Human Pathology, vol. 32, no. 3, pp. 327–332,
+2001.
+[202] J. J. Going, R. C. Stuart, M. Downie, A. J. Fletcher-
+Monaghan, and W. N. Keith, “‘Senescence-associated’ β-
+galactosidase activity in the upper gastrointestinal tract,”
+Journal of Pathology, vol. 196, no. 4, pp. 394–400, 2002.
+[203] S. U. Wiemann, A. Satyanarayana, M. Tsahuridu et al.,
+“Hepatocyte telomere shortening and senescence are general
+markers of human liver cirrhosis,” FASEB Journal, vol. 16,
+no. 9, pp. 935–942, 2002.
+[204] U. Herbig, M. Ferreira, L. Condel, D. Carey, and J. M. Sedivy,
+“Cellular senescence in aging primates,” Science, vol. 311,
+no. 5765, p. 1257, 2006.
+[205] K. Mishima, J. T. Handa, A. Aotaki-Keen, G. A. Lutty, L.
+S. Morse, and L. M. Hjelmeland, “Senescence-associated
+β-galactosidase histochemistry for the primate eye,” Inves-
+tigative Ophthalmology and Visual Science, vol. 40, no. 7,
+pp. 1590–1593, 1999.
+[206] J. C. Jeyapalan, M. Ferreira, J. M. Sedivy, and U. Herbig,
+“Accumulation of senescent cells in mitotic tissue of aging
+primates,” Mechanisms of Ageing and Development, vol. 128,
+no. 1, pp. 36–44, 2007.
+[207] J. S. Price, J. G. Waters, C. Darrah et al., “The role of
+chondrocyte senescence in osteoarthritis,” Aging Cell, vol. 1,
+no. 1, pp. 57–65, 2002.
+[208] M. Fenton, S. Barker, D. J. Kurz, and J. D. Erusalim-
+sky, “Cellular senescence after single and repeated balloon
+catheter denudations of rabbit carotid arteries,” Arteriosclero-
+sis, Thrombosis, and Vascular Biology, vol. 21, no. 2, pp. 220–
+226, 2001.
+[209] C. Matthews, I. Gorenne, S. Scott et al., “Vascular smooth
+muscle cells undergo telomere-based senescence in human
+atherosclerosis: eﬀects of telomerase and oxidative stress,”
+Circulation Research, vol. 99, no. 2, pp. 156–164, 2006.
+[210] E. Vasile, Y. Tomita, L. F. Brown, O. Kocher, and H. F.
+Dvorak, “Diﬀerential expression of thymosin β-10 by early
+passage and senescent vascular endothelium is modulated by
+VPF/VEGF: evidence for senescent endothelial cells in vivo
+at sites of atherosclerosis,” FASEB Journal, vol. 15, no. 2,
+pp. 458–466, 2001.
+[211] T. Minamino and I. Komuro, “Vascular cell senescence: con-
+tribution to atherosclerosis,” Circulation Research, vol. 100,
+no. 1, pp. 15–26, 2007.
+[212] B. E. Flanary, N. W. Sammons, C. Nguyen, D. Walker, and
+W. J. Streit, “Evidence that aging and amyloid promote
+microglial cell senescence,” Rejuvenation Research, vol. 10,
+no. 1, pp. 61–74, 2007.
+[213] T. Tsuji, K. Aoshiba, and A. Nagai, “Alveolar cell senescence
+in patients with pulmonary emphysema,” American Journal
+of Respiratory and Critical Care Medicine, vol. 174, no. 8,
+pp. 886–893, 2006.
+[214] K.-C. M¨uller, L. Welker, K. Paasch et al., “Lung ﬁbroblasts
+from patients with emphysema showmarkers of senescence
+in vitro,” Respiratory Research, vol. 7, article 32, 2006.
+[215] E. L. Schneider and Y. Mitsui, “The relationship between in
+vitro cellular aging and in vivo human age,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 73, no. 10, pp. 3584–3588, 1976.
+Journal of Aging Research 13
+[216] J. G. Rheinwald and H. Green, “Serial cultivation of strains of
+human epidermal keratinocytes: the formation of keratiniz-
+ing colonies from single cells,” Cell, vol. 6, no. 3, pp. 331–334,
+1975.
+[217] G. M. Martin, C. A. Sprague, and C. J. Epstein, “Replicative
+life-span of cultivated human cells. Eﬀects of donor’s age,
+tissue, and genotype,” Laboratory Investigation, vol. 23, no. 1,
+pp. 86–92, 1970.
+[218] S. A. Bruce, S. F. Deamond, and P. O. P. Ts’o, “In vitro
+senescence of syrian hamster mesenchymal cells of fetal to
+aged adult origin. Inverse relationship between in vivo donor
+age and in vitro proliferative capacity,” Mechanisms of Ageing
+and Development, vol. 34, no. 2, pp. 151–173, 1986.
+[219] E. L. Bierman, “The eﬀect of donor age on the in vitro life
+span of cultured human arterial smooth-muscle cells,” In
+Vitro, vol. 14, no. 11, pp. 951–955, 1978.
+[220] V. J. Cristofalo, R. G. Allen, R. J. Pignolo, B. G. Martin,
+and J. C. Beck, “Relationship between donor age and the
+replicative lifespan of human cells in culture: a reevaluation,”
+Proceedings of the National Academy of Sciences of the
+United States of America, vol. 95, no. 18, pp. 10614–10619,
+1998.
+[221] S. Goldstein, S. Murano, H. Benes et al., “Studies on the
+molecular-genetic basis of replicative senescence in Werner
+syndrome and normal ﬁbroblasts,” Experimental Gerontol-
+ogy, vol. 24, no. 5-6, pp. 461–468, 1989.
+[222] K. I. Nakamura, N. Izumiyama-Shimomura, M. Sawabe
+et al., “Comparative analysis of telomere lengths and erosion
+with age in human epidermis and lingual epithelium,”
+Journal of Investigative Dermatology, vol. 119, no. 5, pp. 1014–
+1019, 2002.
+[223] R. C. Allsopp, H. Vaziri, C. Patterson et al., “Telomere
+length predicts replicative capacity of human ﬁbroblasts,”
+Proceedings of the National Academy of Sciences of the United
+States of America, vol. 89, no. 21, pp. 10114–10118, 1992.
+[224] R. M. Cawthon, K. R. Smith, E. O’Brien, A. Sivatchenko, and
+R. A. Kerber, “Association between telomere length in blood
+and mortality in people aged 60 years or older,” The Lancet,
+vol. 361, no. 9355, pp. 393–395, 2003.
+[225] N. D. Hastie, M. Dempster, M. G. Dunlop, A. M. Thompson,
+D. K. Green, and R. C. Allshire, “Telomere reduction in
+human colorectal carcinoma and with ageing,” Nature,
+vol. 346, no. 6287, pp. 866–868, 1990.
+[226] M. Sugimoto, R. Yamashita, and M. Ueda, “Telomere length
+of the skin in association with chronological aging and
+photoaging,” Journal of Dermatological Science, vol. 43, no. 1,
+pp. 43–47, 2006.
+[227] A. Melk, V. Ramassar, L. M. H. Helms et al., “Telomere short-
+ening in kidneys with age,” Journal of the American Society of
+Nephrology, vol. 11, no. 3, pp. 444–453, 2000.
+[228] K. Takubo, K. I. Nakamura, N. Izumiyama et al., “Telomere
+shortening with aging in human liver,” The Journals of
+Gerontology Series A, vol. 55, no. 11, pp. B533–B536, 2000.
+[229] H. Aikata, H. Takaishi, Y. Kawakami et al., “Telomere reduc-
+tion in human liver tissues with age and chronic inﬂamma-
+tion,” Experimental Cell Research, vol. 256, no. 2, pp. 578–582,
+2000.
+[230] G. M. Baerlocher, I. Vulto, G. de Jong, and P. M. Lansdorp,
+“Flow cytometry and FISH to measure the average length
+of telomeres (ﬂow FISH),” Nature Protocols, vol. 1, no. 5,
+pp. 2365–2376, 2006.
+[231] A. Canela, E. Vera, P. Klatt, and M. A. Blasco, “High-
+throughput telomere length quantiﬁcation by FISH and its
+application to human population studies,” Proceedings of
+the National Academy of Sciences of the United States of
+America, vol. 104, no. 13, pp. 5300–5305, 2007.
+[232] E. Chang and C. B. Harley, “Telomere length and replicative
+aging in human vascular tissues,” Proceedings of the National
+Academy of Sciences of the United States of America, vol. 92,
+no. 24, pp. 11190–11194, 1995.
+[233] M. Kimura, M. Barbieri, J. P. Gardner et al., “Leukocytes
+of exceptionally old persons display ultra-short telomeres,”
+American Journal of Physiology, vol. 293, no. 6, pp. R2210–
+R2217, 2007.
+[234] M. Kveiborg, M. Kassem, B. Langdahl, E. F. Eriksen, B. F. C.
+Clark, and S. I. S. Rattan, “Telomere shortening during aging
+of human osteoblasts in vitro and leukocytes in vivo: lack of
+excessive telomere loss in osteoporotic patients,” Mechanisms
+of Ageing and Development, vol. 106, no. 3, pp. 261–271, 1999.
+[235] C. Mondello, C. Petropoulou, D. Monti, E. S. Gonos, C.
+Franceschi, and F. Nuzzo, “Telomere length in ﬁbroblasts
+and blood cells from healthy centenarians,” Experimental Cell
+Research, vol. 248, no. 1, pp. 234–242, 1999.
+[236] T. Kitada, S. Seki, N. Kawakita, T. Kuroki, and T. Monna,
+“Telomere shortening in chronic liver diseases,” Biochemical
+and Biophysical Research Communications, vol. 211, no. 1,
+pp. 33–39, 1995.
+[237] N. Miura, I. Horikawa, A. Nishimoto et al., “Progressive
+telomere shortening and telomerase reactivation during hep-
+atocellular carcinogenesis,” Cancer Genetics and Cytogenetics,
+vol. 93, no. 1, pp. 56–62, 1997.
+[238] Y. Urabe, K. Nouso, T. Higashi et al., “Telomere length in
+human liver diseases,” Liver, vol. 16, no. 5, pp. 293–297, 1996.
+[239] S. E. Ball, F. M. Gibson, S. Rizzo, J. A. Tooze, J. C. W. Marsh,
+and E. C. Gordon-Smith,“Progressive telomere shortening in
+aplastic anemia,” Blood, vol. 91, no. 10, pp. 3582–3592, 1998.
+[240] N. J. Samani, R. Boultby, R. Butler, J. R. Thompson, and
+A. H. Goodall, “Telomere shortening in atherosclerosis,” The
+Lancet, vol. 358, no. 9280, pp. 472–473, 2001.
+[241] N. Obana, S. Takagi, Y. Kinouchi et al., “Telomere shortening
+of peripheral blood mononuclear cells in coronary disease
+patients with metabolic disorders,” Internal Medicine, vol. 42,
+no. 2, pp. 150–153, 2003.
+[242] L. A. Panossian,V. R. Porter, H. F. Valenzuela et al., “Telomere
+shortening in T cells correlates with Alzheimer’s disease
+status,” Neurobiology of Aging, vol. 24, no. 1, pp. 77–84, 2003.
+[243] M. Ogami, Y. Ikura, M. Ohsawa et al., “Telomere shortening
+in human coronary artery diseases,” Arteriosclerosis, Throm-
+bosis, and Vascular Biology, vol. 24, no. 3, pp. 546–550, 2004.
+[244] E. S. Epel, E. H. Blackburn, J. Lin et al., “Accelerated telomere
+shortening in response to life stress,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 101, no. 49, pp. 17312–17315, 2004.
+[245] A. M. Valdes, T. Andrew, J. P. Gardner et al., “Obesity,
+cigarette smoking, and telomere length in women,” The
+Lancet, vol. 366, no. 9486, pp. 662–664, 2005.
+[246] T. Vulliamy, A. Marrone, R. Szydlo, A. Walne, P. J. Mason,and
+I. Dokal, “Disease anticipation is associated with progressive
+telomere shortening in families with dyskeratosis congenita
+due to mutations in TERC,” Nature Genetics, vol. 36, no. 5,
+pp. 447–449, 2004.
+[247] T. Vulliamy, A. Marrone, F. Goldman et al., “The RNA
+component of telomerase is mutated in autosomal dominant
+dyskeratosis congenita,” Nature, vol. 413, no. 6854, pp. 432–
+435, 2001.
+14 Journal of Aging Research
+[248] H. Yamaguchi, R. T. Calado, H. Ly et al., “Mutations in TERT,
+the gene for telomerase reverse transcriptase, in aplastic
+anemia,” The New England Journal of Medicine, vol. 352,
+no. 14, pp. 1413–1424, 2005.
+[249] H. W. Lee, M. A. Blasco, G. J. Gottlieb, J. W. Horner, C.
+W. Greider, and R. A. DePinho, “Essential role of mouse
+telomerase in highly proliferative organs,” Nature, vol. 392,
+no. 6676, pp. 569–574, 1998.
+[250] L. Y. Hao, M. Armanios, M. A. Strong et al., “Short telomeres,
+even in the presence of telomerase, limit tissue renewal
+capacity,” Cell, vol. 123, no. 6, pp. 1121–1131, 2005.
+[251] M. Jaskelioﬀ, F. L. Muller, J.-H. Paik et al., “Telomerase
+reactivation reverses tissue degeneration in aged telomerase-
+deﬁcient mice,” Nature, vol. 469, no. 7328, pp. 102–107, 2011.
+[252] S. Chang, A. S. Multani, N. G. Cabrera et al., “Essential role of
+limiting telomeres in the pathogenesis of Werner syndrome,”
+Nature Genetics, vol. 36, no. 8, pp. 877–882, 2004.
+[253] X. Du, J. Shen, N. Kugan et al., “Telomere shortening exposes
+functions for the mouse Werner and Bloom syndrome
+genes,” Molecular and Cellular Biology, vol. 24, no. 19,
+pp. 8437–8446, 2004.
+[254] D. J. Rossi, C. H. M. Jamieson, and I. L. Weissman, “Stems
+cells and the pathways to aging and cancer,” Cell, vol. 132,
+no. 4, pp. 681–696, 2008.
+[255] T. A. Rando, “Stem cells, ageing and the quest for immortal-
+ity,” Nature, vol. 441, no. 7097, pp. 1080–1086, 2006.
+[256] I. Beerman, W. J. Maloney, I. L. Weissmann, and D. J. Rossi,
+“Stem cells and the aging hematopoietic system,” Current
+Opinion in Immunology, vol. 22, no. 4, pp. 500–506, 2010.
+[257] S. Zimmermann, M. Voss, S. Kaiser, U. Kapp, C. F. Waller,
+and U. M. Martens, “Lack of telomerase activity in human
+mesenchymal stem cells,” Leukemia, vol. 17, no. 6, pp. 1146–
+1149, 2003.
+[258] S. J. Morrison, K. R. Prowse, P. Ho, and I. L. Weissman,
+“Telomerase activity in hematopoietic cells is associated with
+self-renewal potential,” Immunity, vol. 5, no. 3, pp. 207–216,
+1996.
+[259] R. C. Allsopp, G. B. Morin, R. DePinho, C. B. Harley, and
+I. L. Weissman, “Telomerase is required to slow telomere
+shortening and extend replicative lifespan of HSCs during
+serial transplantation,” Blood, vol. 102, no. 2, pp. 517–520,
+2003.
+[260] J. Yui, C. P. Chiu, and P. M. Lansdorp, “Telomerase activity in
+candidate stem cells from fetal liver and adult bone marrow,”
+Blood, vol. 91, no. 9, pp. 3255–3262, 1998.
+[261] R. C. Allsopp, S. Cheshier, and I. L. Weissman, “Telomere
+shortening accompanies increased cell cycle activity during
+serial transplantation of hematopoietic stem cells,” Journal of
+Experimental Medicine, vol. 193, no. 8, pp. 917–924, 2001.
+[262] R. C. Allsopp and I. L. Weissman, “Replicative senescence of
+hematopoietic stem cells during serial transplantation: does
+telomere shortening play a role?” Oncogene, vol. 21, no. 21,
+pp. 3270–3273, 2002.
+[263] H. Vaziri, W. Dragowska, R. C. Allsopp, T. E. Thomas, C. B.
+Harley, and P. M. Lansdorp, “Evidence for a mitotic clock in
+human hematopoietic stem cells: loss of telomeric DNA with
+age,” Proceedings of the National Academy of Sciences of the
+United States of America, vol. 91, no. 21, pp. 9857–9860, 1994.
+[264] J. Krishnamurthy, C. Torrice, M. R. Ramsey et al., “Ink4a/Arf
+expression is a biomarker of aging,” Journal of Clinical
+Investigation, vol. 114, no. 9, pp. 1299–1307, 2004.
+[265] A. B. Chkhotua, E. Gabusi, A. Altimari et al., “Increased
+expression of p16 and p27 cyclin-dependent kinase inhibitor
+genes in aging human kidney and chronic allograft
+nephropathy,” American Journal of Kidney Diseases, vol. 41,
+no. 6, pp. 1303–1313, 2003.
+[266] S. Ressler, J. Bartkova, H. Niederegger et al., “p16INK4A
+is a
+robust in vivo biomarker of cellular aging in human skin,”
+Aging Cell, vol. 5, no. 5, pp. 379–389, 2006.
+[267] G. P. Nielsen, A. O. Stemmer-Rachamimov, J. Shaw, J. E.
+Roy, J. Koh, and D. N. Louis, “Immunohistochemical survey
+of p16INK4A
+expression in normal human adult and infant
+tissues,” Laboratory Investigation, vol. 79, no. 9, pp. 1137–
+1143, 1999.
+[268] A. Melk, B. M. W. Schmidt, O. Takeuchi, B. Sawitzki, D. C.
+Rayner, and P. F. Halloran, “Expression of p16INK4a
+and other
+cell cycle regulator and senescence associated genes in aging
+human kidney,” Kidney International, vol. 65, no. 2, pp. 510–
+520, 2004.
+[269] H. Chen, X. Gu, I. H. Su et al., “Polycomb protein Ezh2 regu-
+lates pancreatic β-cell Ink4a/Arf expression and regeneration
+in diabetes mellitus,” Genes & Development, vol. 23, no. 8,
+pp. 975–985, 2009.
+[270] F. Zindy, D. E. Quelle, M. F. Roussel, and C. J. Sherr,
+“Expression of the p16INK4a
+tumor suppressor versus other
+INK4 family members during mouse development and
+aging,” Oncogene, vol. 15, no. 2, pp. 203–211, 1997.
+[271] J. Krishnamurthy, M. R. Ramsey, K. L. Ligon et al., “p16INK4a
+induces an age-dependent decline in islet regenerative poten-
+tial,” Nature, vol. 443, no. 7110, pp. 453–457, 2006.
+[272] V. Janzen, R. Forkert, H. E. Fleming et al., “Stem-cell ageing
+modiﬁed by the cyclin-dependent kinase inhibitor p16INK4a
+,”
+Nature, vol. 443, no. 7110, pp. 421–426, 2006.
+[273] A. V. Molofsky, S. G. Slutsky, N. M. Joseph et al., “Increasing
+p16INK4a
+expression decreases forebrain progenitors and
+neurogenesis during ageing,” Nature, vol. 443, no. 7110,
+pp. 448–452, 2006.
+[274] T. Cheng, N. Rodrigues, H. Shen et al., “Hematopoietic stem
+cell quiescence maintained by p21cip1/waf1
+,” Science, vol. 287,
+no. 5459, pp. 1804–1809, 2000.
+[275] A. R. Choudhury, Z. Ju, M. W. Djojosubroto et al., “Cdkn1a
+deletion improves stem cell function and lifespan of mice
+with dysfunctional telomeres without accelerating cancer
+formation,” Nature Genetics, vol. 39, no. 1, pp. 99–105, 2007.
+[276] Y. Liu, S. E. Elf, Y. Miyata et al., “p53 regulates hematopoietic
+stem cell quiescence,” Cell Stem Cell, vol. 4, no. 1, pp. 37–48,
+2009.
+[277] M. TeKippe, D. E. Harrison, and J. Chen, “Expansion of
+hematopoietic stem cell phenotype and activity in Trp53-null
+mice,” Experimental Hematology, vol. 31, no. 6, pp. 521–527,
+2003.
+[278] K. Meletis, V. Wirta, S. M. Hede, M. Nist´er, J. Lundeberg,
+and J. Fris´en, “p53 suppresses the self-renewal of adult neural
+stem cells,” Development, vol. 133, no. 2, pp. 363–369, 2006.
+[279] S. D. Tyner, S. Venkatachalam, J. Choi et al., “p53 mutant
+mice that display early ageing-associated phenotypes,”
+Nature, vol. 415, no. 6867, pp. 45–53, 2002.
+[280] B. Maier, W. Gluba, B. Bernier et al., “Modulation of
+mammalian life span by the short isoform of p53,” Genes &
+Development, vol. 18, no. 3, pp. 306–319, 2004.
+[281] S. M. Chambers, C. A. Shaw, C. Gatza, C. J. Fisk, L. A. Done-
+hower, and M. A. Goodell, “Aging hematopoietic stem cells
+decline in function and exhibit epigenetic dysregulation,”
+PLoS Biology, vol. 5, no. 8, article e201, 2007.
+Journal of Aging Research 15
+[282] M. Dumble, L. Moore, S. M. Chambers et al., “The impact
+of altered p53 dosage on hematopoietic stem cell dynamics
+during aging,” Blood, vol. 109, no. 4, pp. 1736–1742, 2007.
+[283] A. Matheu, A. Maraver, P. Klatt et al., “Delayed ageing
+through damage protection by the Arf/p53 pathway,” Nature,
+vol. 448, no. 7151, pp. 375–379, 2007.
+[284] I. Garc´ıa-Cao, M. Garc´ıa-Cao, J. Mart´ın-Caballero et al.,
+“‘Super p53’ mice exhibit enhanced DNA damage response,
+are tumor resistant and age normally,” The EMBO Journal,
+vol. 21, no. 22, pp. 6225–6235, 2002.
+[285] I. Garc´ıa-Cao, M. Garc´ıa-Cao, A. Tom´as-Loba et al.,
+“Increased p53 activity does not accelerate telomere-driven
+ageing,” EMBO Reports, vol. 7, no. 5, pp. 546–552, 2006.
+

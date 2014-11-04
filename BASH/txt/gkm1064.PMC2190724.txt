@@ -1,0 +1,1090 @@
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7557–7565
+doi:10.1093/nar/gkm1064
+SURVEY AND SUMMARY
+The role of DNA damage repair in aging of adult
+stem cells
+Jonathan Kenyon and Stanton L. Gerson*
+Case Comprehensive Cancer Center and the Cancer Biology Training Program Case Western Reserve University
+and the Ireland Cancer Center, University Hospitals Case Medical Center, Cleveland, OH 44106, USA
+Received July 26, 2007; Revised and Accepted November 11, 2007
+ABSTRACT
+DNA repair maintains genomic stability and the loss
+of DNA repair capacity results in genetic instability
+that may lead to a decline of cellular function. Adult
+stem cells are extremely important in the long-term
+maintenance of tissues throughout life. They regen-
+erate and renew tissues in response to damage
+and replace senescent terminally differentiated
+cells that no longer function. Oxidative stress,
+toxic byproducts, reduced mitochondrial function
+and external exposures all damage DNA through
+base modification or mis-incorporation and result in
+DNA damage. As in most cells, this damage may
+limit the survival of the stem cell population affect-
+ing tissue regeneration and even longevity. This
+review examines the hypothesis that an age-related
+loss of DNA damage repair pathways poses a
+significant threat to stem cell survival and longevity.
+Normal stem cells appear to have strict control of
+gene expression and DNA replication whereas stem
+cells with loss of DNA repair may have altered
+patterns of proliferation, quiescence and differentia-
+tion. Furthermore, stem cells with loss of DNA repair
+may be susceptible to malignant transformation
+either directly or through the emergence of cancer-
+prone stem cells. Human diseases and animal
+models of loss of DNA repair provide longitudinal
+analysis of DNA repair processes in stem cell
+populations and may provide links to the physiology
+of aging.
+STEM CELL FUNCTION
+In adult tissues, cells maintain a delicate balance between
+proliferation and apoptosis. Stem cells are important
+mediators of tissue maintenance and wound repair. Their
+longevity is dependent on careful control of gene
+expression, proliferation and cell cycle, and diﬀerentiation
+signals. Of note, a number of human genetic abnormalities
+associated with aging, and those replicated in the mouse,
+suggest that loss of DNA repair may contribute to the
+aging process. This review will provide support for the
+argument that maintenance of the adult stem cell genome
+through robust DNA repair is fundamental in the
+prevention of aging and disease; furthermore, that failure
+of genomic maintenance is a leading cause of cancer,
+as well as senescence.
+Adult stem cells are located in a variety of locations
+throughout the body and provide support for a variety
+of tissue functions (Figure 1). Chief among these are
+the function of providing undiﬀerentiated cells for the
+rejuvenation of tissue. In this regard, most adult stem cells
+function in a tissue-restricted fashion; hematopoietic stem
+cells (HSC) that reside in the bone marrow have long been
+known to mediate the production of both lymphoid and
+myeloid cell lineages. High-dose radiation and chemother-
+apy are used to ablate these cells as well as hematologic
+malignancies; however, single stem-cell clones either
+normal or cancerous in origin, are capable of repopulation
+(1–4). As humans age, the HSC as well as all adult stem
+cells must maintain a delicate balance between prolifera-
+tion and tissue maintenance, senescence and oncogenesis
+(Figure 2). With age, disease and in humans who have
+a genetic loss of DNA repair capacity, recovery of
+hematopoietic progenitor and stem cell populations from
+the marrow of humans, characterized by the CD34
+antigen, decrease as a function of age, while not directly
+measured, these data suggest that there is a decrease in the
+capacity for multi-lineage hematopoietic reconstitution
+with age (5,6). One example of this is the increasing
+incidence of various types of anemia and hematologic as
+well as most other malignancies that occurs in humans
+with age (7–9). Neural stem cells (NSC) reside within the
+olfactory lobe, spinal cord and sub-ventricular zone of the
+brain. These cells then migrate and diﬀerentiate to sites
+of damage to potentially mediate repair. Abnormalities
+of this function may enable the NSC pool to transform
+and give rise to neural cancers speciﬁcally glioblastomas,
+medulloblastomas and ependymomas, whereas NSC
+*To whom correspondence should be addressed. Tel: +1 216 844 8562; Fax: +1 216 844 4975; Email: Slg5@case.edu
+ß 2007 The Author(s)
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+failure has been implicated in neural degenerative diseases
+(10,11). Adult stem cells can also be isolated from the skin,
+liver, gut, glandular tissue, vasculature and even muscle.
+Evidence suggests that there are undiﬀerentiated adult
+cells capable of tissue repair in many organs (9,12,13). As
+noted below, defects in DNA repair aﬀect these organs as
+well. The global process of aging may in fact be linked
+to a global decline in tissue stem cell function and this in
+turn may be linked to changes in DNA damage repair
+processes.
+STEM CELL FAILURE ASSOCIATED WITH LOSS
+OF DNA REPAIR AND AGING
+Double strand break (DSB)repair and stem cell failure
+HSC deﬁciency in the DSB non-homologous end-joining
+(NHEJ) pathway has been observed in mouse models
+(14,15). NHEJ repairs exogenous DSBs, such as after
+radiation exposure or endogenous breaks such as during
+VDJ recombination. The complex of proteins and
+enzymes involved includes DNA-PK, Ku70 and Ku80,
+which form a complex at the break, aligning short
+homologies in overhand regions, and the Ligase IV/
+XRCC4 complex that seals the break. Nijnik et al. (15)
+described a mouse with hypomorphic mutations within
+ligase IV, LigIV, resulting in the Lig4y288c
+mouse. This
+mouse is characterized by growth retardation, immuno-
+deﬁciency and pancytopenia. These mice develop a
+progressive, age-dependent defect in hematopoiesis. By
+20–26 weeks, they have reduced multipotent hematopoie-
+tic progenitors, deﬁned as c-Kit+
+, lineage –, c-SCA+
+(KLS) cells, reduced total bone marrow cell count and
+erythroid cell count by ﬂow cytometry. This seems to hint
+at reduced stem cell maintenance resulting from the
+loss of Ligase IV. When Lig4y288c
+donor stem cells were
+subject to competitive repopulation of lethally irradiated
+recipient mice that were infused with equal numbers of
+normal marrow cells and Lig4y288c
+donor marrow cells,
+a repopulation defect was observed. Flow cytometric
+analysis revealed that 8 weeks post transplant, Lig4y288c
+KLS donor cells have reduced contribution to all compo-
+nents of hematopoiesis, including whole bone marrow cell
+counts, pro-B-cell and granulocyte lineages. Thus this data
+conﬁrms that defects in DNA DSB repair inﬂuence stem
+cell hematopoietic reconstitution function. However, the
+precise role that DSBs play during hematopoiesis and why
+repair of these breaks is so crucial to stem cell survival has
+not been elucidated.
+In related work by Rossi et al. (14) Ku80À/À
+mice, also
+defective in NHEJ, were examined for stem cell defects.
+They found that these mice are signiﬁcantly retarded in
+macrophage and granulocyte reconstitution after trans-
+plantation. In addition, after competitive repopulation
+with wild-type marrow cells, the Ku80À/À
+donor derived
+HSC reconstituted poorly and were lost over time (14).
+Recent data from our laboratory also implicate a role
+for Ku70 in hematopoiesis. Multilineage hematopoietic
+failure is seen in Ku70À
+/À
+mice leading to severe immuno-
+deﬁciency of both T and B cells and poor hematopoietic
+reconstitution after transplantation (16). These cells also
+have a competitive repopulation defect compared to wild-
+type marrow cells. Together, these mouse models provide
+evidence that NHEJ deﬁciencies result in reduced HSC
+activity, deﬁned by reduced capacity for hematopoietic
+reconstitution and failure to compete against normal
+reconstituting stem cells after transplantation. In these
+mice, the hematopoietic defect is exacerbated with age.
+Whether a qualitative loss of NHEJ contributes to accu-
+mulated abnormalities of normal hematopoietic capacity
+with age has not been evaluated.
+Of note, NHEJ proteins are also involved in VDJ
+recombination, a process in T and B cells of generating
+diversity in the T-cell receptor and B-cell heavy chain loci.
+During this process, initiated by Rag1 and Rag2, a strand
+break at the VDJ loci is initiated, followed by formation
+of a hairpin recognized by DNA-PK and Ku70/80 and
+closed by Ligase IV. In the process, and to increase genetic
+diversity, terminal deoxytransferase ﬁlls in the overhang,
+creating mismatches in the double strand that are
+then repaired by the mismatch repair (MMR) pathway
+(17,18). Given the activity of VDJ recombination in early
+lymphoid progenitors, it is possible that in the absence of
+well-regulated NHEJ, a similar process is ongoing in more
+primitive HSC populations.
+Another component of the DSBs repair response,
+telomere maintenance and DNA replication is the
+MRE11, Rad50 and NBS1 (MRN) complex. This complex
+Figure 1. The generally accepted pathway of stem cell self-renewal and
+diﬀerentiation.
+Figure 2. An illustration depicting the role of DNA repair in stem cell
+maintenance and apoptotic signaling.
+7558 Nucleic Acids Research, 2007, Vol. 35, No. 22
+is also a factor in hematopoietic maintenance. The MRN
+complex participates in repair of DSB by sensing and
+unwinding the region of the break. The complex also
+participates in DNA-strand break scaﬀold formation and
+signaling of the repair response, including ATM (see
+below). MRN complex partner null mutants are not
+viable (19–22), and Bender et al. (23) identiﬁed that a
+hypomorphic Rad50k22m
+mutation in mice results in partial
+embryonic lethality. At birth, Rad50k22m
+mice are under-
+weight compared to wild type and had an average survival
+of about 2.5 months. In 20% cases the cause of death was a
+B-cell lymphoma with splenic hyperplasia. The death of the
+other 80% of Rad50k22m
+mice could be attributed to sever
+anemia, a form of hematopoietic failure. HSC were present
+at 2 weeks, however, complete ablation of bone marrow
+HSC was observed by 4–8 weeks. The authors observed
+that the HSC ablation was mirrored by loss of macrophage,
+T cell and pro- and pre- B cells when compared to wild type
+at Week 4. Co-transplant experiments involving mixing
+wild-type and Rad50k22m
+mutant marrow cells in a 1:1 ratio
+and transplantation into a normal but lethally irradiated
+host, failed to demonstrate any Rad50k22m
+mutant HSC
+survival. Rather, all recipient cells detected were derived
+from the wild-type donor cells.
+This indicates that there is a stem cell defect caused by
+the reduced function of Rad50 either alone, or implicating
+the entire MRN complex. It appears that the MRN
+complex, by mediating DNA strand break repair, main-
+tains stem cell function (23).
+A partial rescue of the Rad50k22m
+phenotype occurs
+with loss of p53 function, indicating that cell cycle and
+apoptotic signaling from the unrepaired DSB through p53
+results in stem cell death so that loss of function allows
+stem cell survival. The p53–/–
+Rad50k22m
+mice did not have
+severe anemia or HSC ablation, and had an extended
+lifespan. However, the stem cell pool is not normal
+because these animals died of lymphoma suggesting that
+loss of genomic stability contributed to malignant
+transformation (23). This evidence illustrates the impor-
+tance of DNA damage repair to the self-renewal capacity
+of the HSC and indicates that stem cell death is mediated
+by p53-dependent apoptotic signaling.
+These results raise the question of whether there is
+evidence that DNA repair capacity decreases with age and
+if so under what circumstances. This has been studied in
+mice. Goodell et al. (24) evaluated a number of genes in
+mouse kit+sca+lin- (KLS) HSC isolated from aged
+mice, 21–28 months of age or young mice aged 2, 8 or 12
+months. While a number of stress response, protein
+folding and inﬂammatory genes were upregulated, these
+authors also identiﬁed a number of DNA repair associated
+genes that were downregulated. Although these results
+were not associated with a phenotype in the mice
+analyzed, they do suggest that there is a trend toward, if
+not a substantial reduction in, DNA repair capacity
+associated with aging in mice. The speciﬁc genes noted to
+be reduced in expression with age include Xab2 [XPA-
+binding protein 2, involved in the nucleotide excision
+repair (NER) pathway], Rad52 (a ssDNA-binding protein
+involved in homologous recombination) (25), XRCC1
+[involved in coordination of single-strand break repair and
+base excision repair (BER) pathways] (26) and Blm (a req
+helicase involved in DSB repair) (27). It is feasible that
+reduced expression of these genes could disrupt DNA
+repair performance and lead to genomic instability. Since
+this is likely to occur in single somatic cells, the immediate
+impact on a stem or progenitor cell population would be
+diﬃcult to assess. However, over time, these changes may
+cumulatively lead to decreased stem cell function with age.
+There are data in human HSC from Prall et al. (28) that
+these stem cells acquire NHEJ repair deﬁciency with age.
+Using immuno-magnetic separation to isolate CD34+ cell
+fractions of human umbilical cord bloods and bone
+marrow samples from donors ranging in age from 18 to
+101 years, HSC were obtained. cDNA from these samples
+was then synthesized and ampliﬁed on arrays. The
+resulting gene cluster analysis revealed a number of
+genes that were up- or downregulated. Ku70, the
+heterodimeric partner of Ku80, was shown to be down-
+regulated. Further BIK or BCL2-interacting killer protein
+was upregulated in HSC from older individuals. The
+authors postulate that BIK and Ku70 have roles in the
+apoptotic response. Ku70 interacts with a promoter
+of apoptosis, Bax, while BIK (29) interacts with the anti-
+apoptotic protein Blc2. Thus, reduced Ku70 expression
+leads to reduced NHEJ repair eﬃciency as well as priming
+the apoptosis signaling pathway in stem cells of elderly
+individuals.
+In DNA ligase 1 (Lig1) knockout mice (30), several
+phenotypic characteristics also indicate a role for this
+enzyme in stem cell maintenance. Lig1(À/À)
+is an embryo-
+nic lethal, with abnormalities observed after embryonic
+Day 10.5 due to increasingly anemic and death by E 15.5
+(30) due to a failure to develop fetal liver erythropoiesis.
+Fetal liver cells from the Lig(À/À)
+embryos were unable to
+repopulate lethally irradiated recipients, resulting in bone
+marrow failure by 10 weeks. Surviving mice exhibited
+anemia, enlarged erythrocytes and reticulocytosis (30).
+This indicates the reliance of HSC on proﬁcient and
+reliable genomic replication and maintenance to function,
+even without overt external DNA damage.
+These various lines of evidence exhibit a delicate
+balance between DNA replication and repair in cell prolif-
+eration, self-renewal and quiescence in stem cell main-
+tenance. While DNA repair is essential for stem cell
+maintenance, there appears to be a decline in DNA repair
+function with age. While not proven, we propose that this
+sets the stage for a programmed loss of stem cell capacity
+with age. Adult stem cells must serve as long-term
+reservoirs of undiﬀerentiated tissue that can be called
+upon to repair, and yet they prime themselves to undergo
+apoptosis as they age. These results also indicate a
+relationship between long-term stem cell survival and
+cancer. For instance, one response to limited cell pool
+and a decline in function is selection of surviving stem
+cells for properties of increased proliferation and resis-
+tance to apoptosis, two requisites for malignant transfor-
+mation. This is facilitated by emergence of genomic
+instability in the face of decreased DNA repair capacity.
+Alternatively, these defects in stem cells may lead to adult
+stem cell failure syndromes, either aplastic anemia,
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7559
+osteoporosis or myelodysplastic syndrome, a defect in
+hematopoiesis.
+MMR DEFECTS IN STEM CELLS AND CANCER
+STEM CELLS
+A number of malignancies occur in the setting of genomic
+instability and these tumors may be linked to DNA repair
+defects at the level of the tissue stem cell. Hereditary non-
+polyposis colorectal cancer (HNPCC) was discovered
+in patients who had functional heterozygous mutations
+in a gene for MMR. Receiving a second hit in the single
+functional copy due to gene deletion, promoter hyper-
+methylation or other epigenetic events leads to the
+formation of a hypermutator phenotype in the intestinal
+stem cell. This hypermutator adult stem cell exhibits
+increased rates of mutation at microsatellite loci, described
+as microsatellite instability (MSI) (31). One of the results
+of high levels of MSI in the intestinal stem cell is
+the resulting mutation of a particular microsatellite
+loci located within the TNF-b receptor gene, which results
+in a nonfunctional truncated TNF-b receptor. Haploin-
+suﬃciency then reduces TNF-b anti-tumor signaling and
+leads to the formation of aberrant crypt foci, and later
+cancer (32,33). Thus, the consequences of loss of MMR
+are progressive over time and with age.
+It appears that similar processes occur with loss of
+MMR in HSC. In mice with a knockout of many of the
+MMR genes—Pms2, Msh2 and Mlh1, lymphomagenesis
+is observed. MMR also plays a broad role in the survival
+and function of the HSC. Using Msh2À/À
+mice by our
+laboratory, Reese et al. 2003 (34) found that HSC from
+mice lacking MMR were defective in hematopoiesis.
+Serial-transplant experiments revealed that these MMR-
+defective HSC possess a severe repopulation defect
+characterized by loss of HSC in recipient mice, decrease
+in hematopoiesis and inability to rescue tertiary transplant
+mice that received lethal irradiation prior to cell
+infusion. Rather, these mice die of stem cell failure.
+In hematopoietic competitive reconstitution experiments,
+co-transplanting HSC mixtures of wild-type and Msh2À/À
+marrow cells in a 1:1 ratio results in loss of the Msh2
+knockout HSC in the recipient, indicating a severe
+repopulation defect. Progenitor colony-forming cells
+from the Msh2 marrow recipient mice also showed
+evidence of MSI in the Msh2À
+/À
+cells. This occurs as a
+function of age, since no evidence of microsatellites is seen
+in young Msh2À
+/À
+mice.
+In humans, acquired defects in MMR have been
+observed in both childhood and adult leukemias and
+lymphomas. While a family with a germline defect in
+MLH1 is predisposed to leukemias (35) and neuroﬁbro-
+matosis (36,37), sporadic leukemias and lymphomas (38)
+are also associated with MSI and with defects in MMR.
+Human leukemia cell lines also show evidence of loss of
+MMR protein expression (39). Secondary leukemias,
+those induced in patients previously receiving chemother-
+apy also have a high incidence of MSI, suggesting both
+selection in favor of leukemic clones from the stem cell
+population, and possibly the impact of drug selection of
+MMR-defective drug-resistant cells (40–42). Cumula-
+tively, these data suggest that maintenance of genomic
+stability retains stem cells in their normal physiologic
+composition whereas the presence of MMR defects allows
+expansion of stem cell clones with acquired mutations
+leading to malignant transformation (43). Given the fact
+that families with HNPCC also are at risk for ovarian
+cancers—Geisler et al. (44) report 16.8% of ovarian tumor
+samples tested showed high-frequency MSI—and that
+other patients with ovarian cancer demonstrate MSI, and
+have no expression at the mRNA level of hMLH1, due to
+promoter hypermethylation, the overall impact of MMR
+on maintenance of stem cells from multiple organs and
+their tendency towards malignant transformation is
+relatively clear. Thus, there is evidence that MMR is
+important in HSC preservation, human carcinogenesis,
+and perhaps with the overall aging process of multiple
+tissues and their respective stem cells.
+STEM CELL DEFECTS DUE TO LOSS OF
+INTERSTRAND DNA CROSS-LINK REPAIR
+Fanconi’s anemia (FA) is characterized by early onset
+aplastic anemia due to HSC exhaustion, increased
+incidence of cancer—particularly AML—as well as
+heterogeneous birth defects. The hematologic defects
+include pancytopenia, low marrow reserve, poor cytokine
+responsiveness, increased apoptosis of hematopoietic
+progenitors and poor stem cell transplantation capabilities
+(45). The molecular phenotypes of FA are hypersensitivity
+to DNA cross-linking agents, mild sensitivity to ionizing
+radiation and reactive oxygen species, chromosomal
+instability, growth arrest, apoptosis and G2/M phase
+delay (45–48). Patients with FA are also hypersensitive to
+cancer therapies that cause DNA damage. Thus, DNA
+repair function appears to link the phenotypes of both
+cancer and cancer stem cells when repair function is
+disrupted and maintenance of normal stem cells when
+DNA repair is intact.
+Early descriptions of FA found that cell lines from FA
+patients could be divided into 12 complementation groups
+and later, 11 gene mutations. These have now been
+clariﬁed as FANC[A–C, D1(BRCA2),D2-F,G, BRIP1, J,
+L, M] (48). Additionally, a 13th complementation group
+has been reported to be associated with mutations in
+the partner and localizer of BRCA2, or PALB2 (49,50).
+Five of the FA proteins (FANCA, C, E, F and G) form a
+nuclear complex that monoubiquinate FANCD2. One
+protein is a ubiquitin ligase (FANCL), one has helicase
+function, (FANCJ) and one is homologous with the breast
+cancer susceptibility gene BRCA1 (48). While still not
+fully characterized, these proteins bind to other complexes
+involved in DSB repair and at DNA replication forks (51)
+and in this way appear to mediate these processes.
+While the FA protein complex includes BRCA 1 and 2,
+the FA protein complex is not the primary functional
+group for either DSB repair or homologous recombina-
+tion. Conversely, hematopoietic defects are not recognized
+in carriers of BRCA1 or BRCA2. It is clear that indivi-
+duals possessing a single mutated copy of the BRCA2
+7560 Nucleic Acids Research, 2007, Vol. 35, No. 22
+gene have an increased risk of breast and ovarian cancer
+(52). However, possessing two mutated copies of BRCA2
+results in the HSC exhaustion associated with FA.
+Loss of function leads to chromosomal translocations,
+rearrangements and deletions. Disruptions of the FANC
+pathway alter the response to DSB in DNA. Thus it is
+possible that complete loss of FA-associated gene
+products results in adult stem cell failure due to senescence
+and apoptosis; however, single allele mutations in the FA
+core complex and associated proteins lead to a require-
+ment for a second hit to initiate a mutator phenotype in
+adult stem cells that potentially escape cell cycle and
+apoptotic controls, leading to immortalization, transfor-
+mation and carcinogenesis (48).
+STEM CELL DEFECTS ASSOCIATED WITH
+ABNORMALITIES IN NER
+Premature aging diseases are rare and multivariate in
+cause; however, many seem to be related in some way to
+abnormalities in genomic maintenance. Many of these
+diseases also have evidence of defects in stem cell
+maintenance. Table 1 depicts a number of the recognized
+premature aging diseases, phenotypes and corresponding
+genetic mutations in DNA damage repair and response
+genes, particularly NER genes.
+The NER pathway removes DNA lesions caused by a
+wide variety of chemical alterations of the DNA bases
+including pyrimidine dimers produced by exposure to UV
+radiation. NER functions in two major pathways, the
+global genome NER pathway (GG-NER) and the
+transcription coupled NER pathway (TC-NER). As its
+name implies, GG-NER is involved in the global
+surveillance and repair of the genome, while TC-NER
+repairs lesions that block elongation of transcription
+complexes.
+Ten gene products of the NER pathway have been
+associated with human disease—these are XPA-G, named
+for their association with Xeroderma Pigmentosa (XP),
+CSA, CSB and ERCC-1 (53,54). XP, Cockayne Syndrome
+(CS) and Trichothiodystrophy (TTD) diseases are char-
+acterized by solar hypersensitivity and all share mutations
+in the NER pathway. TTD patients have also been
+observed with mutations in or lowered expression of
+TFIIH a general transcription factor complex with heli-
+case activity that is required for transcriptional elongation
+as well as NER but also mutations in XPD and XPB
+(55,56). This illustrates very clearly the multifunctional
+nature of NER gene products. Those mutations that lead
+to XP are related to GG-NER and more speciﬁcally the
+XP proteins that function to recognize and bind DNA
+lesions and participate in apoptotic signaling. CS and
+TTD patients have mutations in NER genes associated
+with TC-NER and retain apoptotic signaling as well as
+DNA lesion recognition but lack the ability to rapidly
+restore stalled transcription due to base alterations. Thus,
+the CS or TTD mutant cell is unable to restore
+transcription during important transcriptionally regulated
+developmental signaling. On the other hand, increased
+rates of apoptosis due to DNA lesion accumulation and
+recognition, could account for neural degenerative
+phenotypes as well as the segmental progeroid phenotype
+due to tissue-speciﬁc stem cell failure (53).
+The stem cell defect of these conditions is best
+characterized in mouse knockout models. First, mouse
+models of TTD, in which the Xpd helicase is mutated,
+show striking similarities to the human disease (14,57).
+In addition, hematopoietic marrow transplant studies
+using competitive transplantation with 26 week wt or Xpd
+helicase mutant mice show that Xpd mutant donor cells
+have a signiﬁcant repopulation defect compared to wild-
+type cells with reductions in whole-bone marrow engraft-
+ment of B cell, T cell, myeloid and granulocytes (14). In
+Ercc1À/À
+mice, a premature aging phenotype is observed
+by 3 weeks of age that is associated with hematopoietic
+failure (58). Normal Ercc1 forms a heterodimer with XPF
+to crease an endonuclease that functions in NER and
+interstrand cross-link repair. These mice have a progres-
+sive peripheral blood cytopenia, marrow fatty inﬁltrate,
+progressive reduced bone marrow cellularity, decreased
+progenitor potential and decreased lymphoid lineage
+commitment (58). In humans, the phenotype of stem cell
+failure is subtler, with an increased risk of leukemogenesis
+but only minimal evidence of hematopoietic failure.
+Thus, loss of NHEJ, MMR, DSB repair and NER in
+mice are all associated with progressive severe hemato-
+poietic repopulation defects, many have a primary
+engraftment defect, with loss of stem cell pools, and
+many are also associated with a tendency to develop
+genomic instability among stem cell pools giving rise to
+carcinogenesis. In each case, the defects manifest them-
+selves with progressive loss of hematopoietic function over
+time, suggesting that age contributes to the severity of
+hematopoietic failure. Whether acquired defects in these
+pathways contribute to loss of hematopoietic function
+during the normal aging process is not yet clear.
+TELOMERASE: A NONESSENTIAL ENZYME FOR
+HEMATOPOIESIS LEADING TO LATE STEM CELL
+DYSFUNCTION
+Despite the recognized need to maintain telomere length
+in proliferating cells especially stem cells, and the
+Table 1. Premature aging syndromes, associated genetic mutations and
+aﬀected DNA damage repair pathway
+Disease Aﬀected DNA
+repair pathway
+Gene(s) mutated
+Xeroderma Pigmentosa Nucleotide excision
+repair
+XP(A-G)
+Cockayne syndrome Nucleotide excision
+repair
+CSA & CSB
+Trichothiodystrophy Nucleotide excision
+repair
+Various XP and
+CS related
+Werner syndrome DSB repair
+homologous Rec.
+WRN (a RECQ
+family member)
+Rothmund–Thomson
+syndrome
+DSB repair
+homologous Rec.
+RECQ4
+Bloom DSB repair
+homologous Rec.
+BLM (a RECQ
+family member)
+Ataxia Telangiectasia Global DSB repair ATM (a PI3K)
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7561
+recognition that aging might be associated with loss of
+telomere length leading to senescence, hematopoiesis in
+telomere knockout mice is surprisingly normal. However,
+examining late generation telomerase-deﬁcient mice
+[mTerc(À/À
+)], hematopoietic reserve is indeed limited and
+is accompanied by short telomeres in the progenitor
+population (59). This is pronounced under forced stem cell
+proliferation either in repopulation assays as described
+above or in short term proliferation assays of hemato-
+poietic progenitors—the colony forming unit (CFU)—
+granulocyte-macrophage or CFU-spleen (CFU-S). In
+serial repopulation transplantation experiments, stem cell
+failure is seen (59) and p21 is activated, leading to
+checkpoint activation and cell cycle arrest. This can be
+partially rescued by loss of p21 (Cdkn1a, Cip1/Waf)
+because DNA strand break sensing which occurs in cells
+with short telomeres does not occur, limiting the apoptotic
+signaling and cell cycle arrest that normally occurs as a
+consequence of telomere shortening in proliferating cells
+(60). Not only is hematopoiesis restored, but also marrow
+cells retain multilineage repopulation capacity.
+DISORDERS OF HELICASE FUNCTION AND
+STEM CELL DEFECTS
+An essential feature of homologous recombination is the
+role of RECQ family helicases. Abnormalities of three
+genes are associated with premature aging: Werner (WS),
+Rothmund–Thomson (RTS) and Bloom (BL) syndromes
+(61,62), caused by mutations in the WRN, RECQ4 and
+BLM genes, respectively. Each of these syndromes shares
+some common traits and yet is characterized by distinct
+pathologies. To understand the diﬀerences between these
+diseases, a more complete picture of the functional overlap
+and speciﬁcities of these gene products must be formed.
+All ﬁve of the RECQ family of gene products are 30
+–50
+DNA helicases; and all are associated with resolution of
+DNA DSB. Furthermore, each of those associated with
+human disease have unique as well as overlapping
+functions (62).
+WS is characterized by several premature aging
+phenotypes, which occur by the end of the third decade
+of life. These include diabetes, increased cancer incidence,
+gray hair, as well as myocardial and cerebral vascular
+diseases (61,62). The pathologies associated with RTS are
+primarily skin disorders; including pigment and hair
+follicle growth, osteosarcoma and skeletal defects (63).
+Bloom patients suﬀer from dwarﬁsm, hair and nail
+malformations and an elevated risk of malignancies and
+rare tumors that is especially increased in hematologic
+malignancies (27,63). These distinct relationships with the
+various RECQ genes and tissue-speciﬁc pathology seem to
+distinguish speciﬁc roles for the various RECQ enzymes in
+development and genomic surveillance.
+WRN has been associated with telomere maintenance
+in mouse models (64). A mouse double knockout model
+of Wrn and TerC, results in successive shortening of
+the telomeres (65,66) and subsequent failure to protect
+chromosome ends from being recognized and ‘repaired’ as
+DSB, giving rise to premature aging, stem cell and marrow
+failure and shortened lifespan.
+BLM seems to have a more global genomic surveillance
+role. Normal BLM has also been shown to interact with
+TOPIIIa (67) suggesting that this interaction plays a role
+in Holliday junction resolution and suppression of
+aberrant recombination (27,68). The association of BLM
+mutation with nearly 100-fold greater incidence of nearly
+all forms of cancer as well as numerous chromosomal
+abnormalities supports this statement. While these cells
+have abnormalities in sister chromatid exchange and
+chromosomal rearrangements and translocations, actual
+HSC defects, if present, are more subtle.
+Mutations of RECQ4 associated with RTS on the other
+hand are less well studied. In fact, $33% of RTS cases
+lack a recognized RECQ4 mutation (69). A mouse model
+however conﬁrms that RecQ4 disruption causes at least
+similar pathology as that seen in RTS (70) but no obvious
+HSC or other stem cell defect. Thus, despite the
+importance of helicases in maintaining hematopoiesis is
+in humans, mouse models have not conﬁrmed a linkage
+between these processes.
+STEM CELL DEFECTS ACCOMPANYING LOSS
+OF DSB SENSING PROTEINS
+Ataxia Telangiectasia (AT) is a disease associated with
+premature aging, particularly of the skin, progressive loss
+of cerebellar architecture and neuromotor dysfunction,
+immunodeﬁciency including thymic involution, low T-cell
+numbers, recurrent respiratory infections, low antibody
+production as well as increased incidence of lymphoma
+and leukemia and acquisition of chromosomal abnormal-
+ities of the skin and hematopoietic system. AT patients
+are sensitive to ionizing radiation and DSB-inducing
+compounds. AT is caused by a mutation in phosphatidy-
+linositol 3-kinase (PI3K)-like protein kinase, ATM (71,72)
+which senses DNA damage and induces Chk2, a cell cycle
+checkpoint protein, phosphorylation and cell cycle arrest.
+Following DSBs, ATM and ATM-related PI3Ks (ATR)
+signal the presence of DSBs and initiate DSB repair and
+cell cycle control through a series of protein phosphoryla-
+tion events (73). ATM undergoes auto-phosphorylation
+and activates mediators of the DSB pathway including
+H2AX, Nbs1 and MRE11. These then localize to a DSB
+forming a complex and recruiting the necessary repair
+proteins, such as DNA-PK and the Ku70/80 heterodimer
+for NHEJ or Rad51 for homologous recombination.
+Furthermore, ATM activates checkpoint proteins to
+control the cell cycle during repair, including both Chk2
+and the mediator of DNA damage checkpoint (MDC1).
+Upon its activation, MDC1 seems to be involved in
+further Chk2 signaling activation (73). Thus, ATM sits at
+the cross roads of DSB repair and cell signaling. This tight
+relationship between cell cycle control and DSB repair
+seems to be the cause of developmental abnormalities and
+accelerated aging observed in AT patients.
+In ATM knockout mice, aging is associated with a
+progressive loss of lymphoid function, both B- and T-cell
+loss and a fundamental defect in HSC function, with
+7562 Nucleic Acids Research, 2007, Vol. 35, No. 22
+decreased stem cell numbers, loss of repopulation capacity
+and increased apoptosis (74). Clear loss of hematopoietic
+activity is age-dependent, apparent by 24 weeks of age,
+and the mice have an increased incidence of T-cell
+lymphomas. The mice are unable to adequately mount a
+DNA repair response in the face of reactive oxygen
+species, initiating the caspase apoptotic cascade (74). Ito
+et al. (74) found that reactive oxygen species are critical to
+maintenance of hematopoiesis since treatment with anti-
+oxidants reduced the oxidative stress and maintained stem
+cell function in ATMÀ/À
+mice.
+The ATM HSC defect can also be ameliorated by loss
+of other cell cycle check point genes including the proteins
+of the DSB recognition complex, mre11/Rad50/Nbs1.
+As noted above, the Rad50 hypomorph has evidence of
+severe hematopoietic deﬁciency ameliorated by p53 (23).
+In regards to rescue of the hematopoietic defect of ATM,
+double knockout of ATM and Rad50 results in better
+HSC survival (75). Since increased reactive oxygen species
+and increased reactive oxidative stress accompanies aging,
+these pathways may be critical for stem cell maintenance.
+How these processes impact physiologic aging and
+contribute to a decline in hematopoietic function are not
+yet well deﬁned.
+Other Causes of Stem Cell Failure
+Aplastic anemia can arise following viral infection,
+immune reaction, drug associated toxicity and over-
+whelming DNA damage. Parvovirus B19 (76), inﬂuenza
+virus (77) and CMV (78) can directly infect HSC inducing
+stem cell loss or infect stromal elements that alter the viral
+response and impede hematopoiesis. Other viral processes
+including EBV (79) and HIV often with coinfection with
+Mycobacterium avium intracellulare (80) are associated
+with infection of other cells within the stroma that alter
+hematopoietic signaling and induce immune responses
+that can directly target HSC leading to stem cell failure.
+Hepatitis C infection can give rise to a severe immune
+mediated aplastic anemia (81). In some instances, either
+aplastic anemia or myelodysplastic syndrome appears to
+occur as part of an immune response, either as primary or
+secondary events. Is has been proposed that abnormal
+stem cells present altered surface peptides that induce a
+T-cell-mediated immune response (82–84) or that drugs
+bind to the surface of these cells eliciting a similar T-cell
+response, leading to cell-mediated stem cell death. Finally,
+for over 60 years we have recognized that agents and
+exposures that cause DNA damage to the stem cell
+genome induces stem cell failure such as high-dose
+radiation and chemotherapy.
+Dna Repair During Aging, Stem Cell Survival and
+Carcinogenesis
+Stem cells continually renew and rejuvenate tissues as
+these tissues age and become injured. Reactive oxygen
+species from mitochondria, exposure to solar and other
+forms of radiation, chemical exposures and extensive
+rounds of replication can damage the genome and for
+long-lived cells require authentic repair to insure that there
+is ﬁdelity in stem cell progeny. Since stem cell survival
+through maintenance of pools and self-renewal are
+essential for tissue homeostasis, it can be inferred that
+DNA repair and genome maintenance may be key factors
+in stem cell maintenance and survival of the organism.
+If adult stem cells respond to damage with increasing
+apoptotic signaling, an organism faces stem cell ablation,
+and without further tissue rejuvenation, senescent death.
+On the other hand, if an adult stem cell fails to recognize
+and repair DNA damage and fails to signal apoptosis,
+then damaged adult stem cells will incur mutations over
+time, eventually leading to either stem cell loss due to
+altered gene expression and loss of stem cell phenotypic
+properties or loss of stem cell homeostasis and
+carcinogenesis.
+SUMMARY
+A number of diseases of DNA repair are associated with
+premature aging, stem cell failure and carcinogenesis.
+Animal knockout models of these processes similarly
+show evidence of premature aging, loss of competitive
+hematopoiesis, stem cell failure and carcinogenesis.
+Recent data suggests that age dependent and acquired
+loss of DNA repair may contribute to physiologic aging
+and could contribute to the increase in cancer incidence
+with age.
+Whether these acquired defects are programmed,
+subject to genetic polymorphisms or due to environmental
+factors remains to be determined. Likewise, interventions
+into this decline in DNA repair function may improve
+stem cell function and reserve, delay aging and reduce the
+incidence of stem cell failure, leukemia and lymphomas.
+ACKNOWLEDGEMENTS
+This work was supported by P30 CA043703-18 and R01
+AG024916-03. Funding to pay the Open Access publica-
+tion charges for this article was provided by University
+Hospitals Of Cleveland Research funds.
+Conﬂict of interest statement. None declared.
+REFERENCES
+1. Becker,A.J., McCulloch,E.A. and Till,J.E. (1963) Cytological
+demonstration of the clonal nature of spleen colonies derived from
+transplanted mouse marrow cells. Nature, 197, 452–454.
+2. Morrison,S.J. and Weissman,I.L. (1994) The long-term repopulating
+subset of hematopoietic stem cells is deterministic and isolatable
+by phenotype. Immunity, 1, 661–673.
+3. Bellantuono,I. (2004) Haemopoietic stem cells. Int. J. Biochem. Cell
+Biol., 36, 607–620.
+4. Tam,W.-L., Ang,Y.-S. and Lim,B. (2007) The molecular basis of
+ageing in stem cells. Mech. Ageing Dev., 128, 137–148.
+5. French,R.A., Broussard,S.R., Meier,W.A., Minshall,C., Arkins,S.,
+Zachary,J.F., Dantzer,R. and Kelley,K.W. (2002) Age-associated
+loss of bone marrow hematopoietic cells is reversed by GH and
+accompanies thymic reconstitution. Endocrinology, 143, 690–699.
+6. Morris,C.L., Siegel,E., Barlogie,B., Cottler-Fox,M., Lin,P.,
+Fassas,A., Zangari,M., Anaissie,E. and Tricot,G. (2003)
+Mobilization of CD34+ cells in elderly patients (>/= 70 years)
+with multiple myeloma: inﬂuence of age, prior therapy, platelet
+count and mobilization regimen. Br. J. Haematol., 120, 413–423.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7563
+7. Perryman,S.V. and Sylvester,K.G. (2006) Repair and regeneration:
+opportunities for carcinogenesis from tissue stem cells. J. Cell. Mol.
+Med., 10, 292–308.
+8. Wicha,M.S., Liu,S. and Dontu,G. (2006) Cancer stem cells: an old
+idea–a paradigm shift. Cancer Res., 66, 1883–1890.
+9. Rando,T.A. (2006) Stem cells, ageing and the quest for immortality.
+Nature, 441, 1080–1086.
+10. Vescovi,A.L., Galli,R. and Reynolds,B.A. (2006) Brain tumour stem
+cells. Nat. Rev. Cancer, 6, 425–436.
+11. Liu,Z. and Martin,L.J. (2006) The adult neural stem and progenitor
+cell niche is altered in amyotrophic lateral sclerosis mouse brain.
+J. Comp. Neurol., 497, 468–488.
+12. Asakura,A., Seale,P., Girgis-Gabardo,A. and Rudnicki,M.A. (2002)
+Myogenic speciﬁcation of side population cells in skeletal muscle.
+J. Cell. Biol., 159, 123–134.
+13. Machida,S. and Narusawa,M. (2006) The roles of satellite cells and
+hematopoietic stem cells in impaired regeneration of skeletal muscle
+in old rats. Ann. NY Acad. Sci., 1067, 349–353.
+14. Rossi,D.J., Bryder,D., Seita,J., Nussenzweig,A., Hoeijmakers,J. and
+Weissman,I.L. (2007) Deﬁciencies in DNA damage repair limit the
+function of haematopoietic stem cells with age. Nature, 447,
+725–729.
+15. Nijnik,A., Woodbine,L., Marchetti,C., Dawson,S., Lambe,T.,
+Liu,C., Rodrigues,N.P., Crockford,T.L., Cabuy,E. et al. (2007)
+DNA repair is limiting for haematopoietic stem cells during ageing.
+Nature, 447, 686–690.
+16. Qing,Y. and Gerson,SL. (2007) Loss of Ku70 results in a HSC
+repopulating defect. Blood, 110, 378A–379A.
+17. Larson,E.D., Duquette,M.L., Cummings,W.J., Streiﬀ,R.J. and
+Maizels,N. (2005) MutSalpha binds to and promotes synapsis of
+transcriptionally activated immunoglobulin switch regions. Curr.
+Biol., 15, 470–474.
+18. Longo,N.S. and Lipsky,P.E. (2001) Somatic hypermutation in
+human B cell subsets. Springer Semin. Immunopathol., 23, 367–385.
+19. Xiao,Y. and Weaver,D.T. (1997) Conditional gene targeted
+deletion by Cre recombinase demonstrates the requirement for the
+double-strand break repair Mre11 protein in murine embryonic
+stem cells. Nucleic Acids Res., 25, 2985–2991.
+20. Luo,G., Yao,M.S., Bender,C.F., Mills,M., Bladl,A.R., Bradley,A.
+and Petrini,J.H.J. (1999) Disruption of mRad50 causes embryonic
+stem cell lethality, abnormal embryonic development, and sensitivity
+to ionizing radiation. Proc. Natl Acad. Sci. USA, 96, 7376–7381.
+21. Yamaguchi-Iwai,Y., Sonoda,E., Sasaki,M.S., Morrison,C.,
+Haraguchi,T., Hiraoka,Y., Yamashita,Y.M., Yagi,T., Takata,M.
+et al. (1999) Mre11 is essential for the maintenance of chromosomal
+DNA in vertebrate cells. EMBO J., 18, 6619–6629.
+22. Zhu,J., Petersen,S., Tessarollo,L. and Nussenzweig,A. (2001)
+Targeted disruption of the Nijmegen breakage syndrome gene
+NBS1 leads to early embryonic lethality in mice. Curr. Biol., 11,
+105–109.
+23. Bender,C.F., Sikes,M.L., Sullivan,R., Huye,L.E., Le Beau,M.M.,
+Roth,D.B., Mirzoeva,O.K., Oltz,E.M. and Petrini,J.H.J. (2002)
+Cancer predisposition and hematopoietic failure in Rad50S/S mice.
+Genes Dev., 16, 2237–2251.
+24. Chambers,S.M., Shaw,C.A., Gatza,C., Fisk,C.J., Donehower,L.A.
+and Goodell,M.A. (2007) Aging hematopoietic stem cells decline in
+function and exhibit epigenetic dysregulation. PLoS Biol., 5, e201.
+25. Sugiyama,T., New,J.H. and Kowalczykowski,S.C. (1998) DNA
+annealing by Rad52 Protein is stimulated by speciﬁc interaction
+with the complex of replication protein A and single-stranded
+DNA. Proc. Natl Acad. Sci. USA, 95, 6049–6054.
+26. Nazarkina,Z.K., Khodyreva,S.N., Marsin,S., Lavrik,O.I. and
+Radicella,J.P. (2007) XRCC1 interactions with base excision repair
+DNA intermediates. DNA Repair, 6, 254–264.
+27. Chester,N., Babbe,H., Pinkas,J., Manning,C. and Leder,P. (2006)
+Mutation of the Murine Bloom’s syndrome gene produces global
+genome destabilization. Mol. Cell. Biol., 26, 6713–6726.
+28. Prall,W.C., Czibere,A., Jager,M., Spentzos,D., Libermann,T.A.,
+Gattermann,N., Haas,R. and Aivado,M. (2007) Age-related
+transcription levels of KU70, MGST1 and BIK in CD34+
+hematopoietic stem and progenitor cells. Mech. Ageing Dev., 128,
+503–510.
+29. Li,G.C., Ouyang,H., Li,X., Nagasawa,H., Little,J.B., Chen,D.J.,
+Ling,C.C., Fuks,Z. and Cordon-Cardo,C. (1998) Ku70: a candidate
+tumor suppressor gene for murine T cell lymphoma. Mol. Cell, 2,
+1–8.
+30. Bentley,D.J., Harrison,C., Ketchen,A.-M., Redhead,N.J.,
+Samuel,K., Waterfall,M., Ansell,J.D. and Melton,D.W. (2002)
+DNA ligase I null mouse cells show normal DNA repair activity
+but altered DNA replication and reduced genome stability. J. Cell.
+Sci., 115, 1551–1561.
+31. Umar,A., Boland,C.R., Terdiman,J.P., Syngal,S., Chapelle,A.D.L.,
+Ruschoﬀ,J., Fishel,R., Lindor,N.M., Burgart,L.J. et al. (2004)
+Revised Bethesda guidelines for hereditary nonpolyposis colorectal
+cancer (Lynch syndrome) and microsatellite instability. J. Natl
+Cancer Inst., 96, 261–268.
+32. Markowitz,S.D. and Roberts,A.B. (1996) Tumor suppressor activity
+of the TGF-[beta] pathway in human cancers. Cytokine Growth
+Factor Rev., 7, 93–102.
+33. Markowitz,S. (2000) TGF-[beta] receptors and DNA repair genes,
+coupled targets in a pathway of human colon carcinogenesis.
+Biochim. Biophys. Acta Rev. Cancer, 1470, M13–M20.
+34. Reese,J.S., Liu,L. and Gerson,S.L. (2003) Repopulating defect of
+mismatch repair-deﬁcient hematopoietic stem cells. Blood, 102,
+1626–1633.
+35. Gu,L., Cline-Brown,B., Zhang,F., Qiu,L. and Li,G.M. (2002)
+Mismatch repair deﬁciency in hematological malignancies with
+microsatellite instability. Oncogene, 21, 5758–5764.
+36. Whiteside,D., McLeod,R., Graham,G., Steckley,J.L., Booth,K.,
+Somerville,M.J. and Andrew,S.E. (2002) A homozygous germ-line
+mutation in the human MSH2 gene predisposes to hematological
+malignancy and multiple cafe-au-lait spots. Cancer Res., 62,
+359–362.
+37. Bandipalliam,P. (2005) Syndrome of early onset colon cancers,
+hematologic malignancies and features of neuroﬁbromatosis
+in HNPCC families with homozygous mismatch repair gene
+mutations. Familial Cancer, 4, 323–333.
+38. Morimoto,H., Tsukada,J., Kominato,Y. and Tanaka,Y. (2005)
+Reduced expression of human mismatch repair genes in adult T-cell
+leukemia. Am. J. Hematol., 78, 100–107.
+39. Taverna,P., Liu,L., Hanson,A.J., Monks,A. and Gerson,S.L. (2000)
+Characterization of MLH1 and MSH2 DNA mismatch repair
+proteins in cell lines of the NCI anticancer drug screen. Cancer
+Chemother. Pharmacol., 46, 507–516.
+40. Oﬀman,J., Opelz,G., Doehler,B., Cummins,D., Halil,O.,
+Banner,N.R., Burke,M.M., Sullivan,D., Macpherson,P. et al. (2004)
+Defective DNA mismatch repair in acute myeloid leukemia/
+myelodysplastic syndrome after organ transplantation. Blood, 104,
+822–828.
+41. Casorelli,I., Oﬀman,J., Mele,L., Pagano,L., Sica,S., D’Errico,M.,
+Giannini,G., Leone,G., Bignami,M. et al. (2003) Drug treatment in
+the development of mismatch repair defective acute leukemia and
+myelodysplastic syndrome. DNA Repair, 2, 547–559.
+42. Olipitz,W., Hopﬁnger,G., Aguiar,R.C., Gunsilius,E.,
+Girschikofsky,M., Bodner,C., Hiden,K., Linkesch,W., Hoeﬂer,G.
+et al. (2002) Defective DNA-mismatch repair: a potential mediator
+of leukemogenic susceptibility in therapy-related myelodysplasia
+and leukemia. Genes Chromosomes Cancer, 34, 243–248.
+43. Vaish,M. (2007) Mismatch repair deﬁciencies transforming stem
+cells into cancer stem cells and therapeutic implications. Mol.
+Cancer, 6, 26.
+44. Geisler,J.P., Goodheart,M.J., Sood,A.K., Holmes,R.J., Hatterman-
+Zogg,M.A. and Buller,R.E. (2003) Mismatch repair gene expression
+defects contribute to microsatellite instability in ovarian carcinoma.
+Cancer, 98, 2199–2206.
+45. Butturini,A., Gale,R.P., Verlander,P.C., Adler-Brecher,B.,
+Gillio,A.P. and Auerbach,A.D. (1994) Hematologic abnormalities in
+Fanconi anemia: an International Fanconi Anemia Registry study
+[see comments]. Blood, 84, 1650–1655.
+46. Grompe,M. and D’Andrea,A. (2001) Fanconi anemia and DNA
+repair. Hum. Mol. Genet., 10, 2253–2259.
+47. Kutler,D.I., Singh,B., Satagopan,J., Batish,S.D., Berwick,M.,
+Giampietro,P.F., Hanenberg,H. and Auerbach,A.D. (2003) A
+20-year perspective on the International Fanconi Anemia Registry
+(IFAR). Blood, 101, 1249–1256.
+48. Taniguchi,T. and D’Andrea,A.D. (2006) Molecular pathogenesis
+of Fanconi anemia: recent progress. Blood, 107, 4223–4233.
+7564 Nucleic Acids Research, 2007, Vol. 35, No. 22
+49. Xia,B., Sheng,Q., Nakanishi,K., Ohashi,A., Wu,J., Christ,N.,
+Liu,X., Jasin,M., Couch,F.J. et al. (2006) Control of BRCA2
+cellular and clinical functions by a nuclear partner, PALB2. Mol.
+Cell, 22, 719–729.
+50. Xia,B., Dorsman,J.C., Ameziane,N., de Vries,Y., Rooimans,M.A.,
+Sheng,Q., Pals,G., Errami,A., Gluckman,E. et al. (2007) Fanconi
+anemia is associated with a defect in the BRCA2 partner PALB2.
+Nat. Genet., 39, 159–161.
+51. Hussain,S., Wilson,J.B., Medhurst,A.L., Hejna,J., Witt,E.,
+Ananth,S., Davies,A., Masson,J.Y., Moses,R. et al. (2004) Direct
+interaction of FANCD2 with BRCA2 in DNA damage response
+pathways. Hum. Mol. Genet., 13, 1241–1248.
+52. Levy-Lahad,E. and Friedman,E. (2007) Cancer risks among
+BRCA1 and BRCA2 mutation carriers. Br. J. Cancer, 96, 11–15.
+53. de Laat,W.L., Jaspers,N.G.J. and Hoeijmakers,J.H.J. (1999)
+Molecular mechanism of nucleotide excision repair. Genes Dev., 13,
+768–785.
+54. Lehmann,A.R. (2003) DNA repair-deﬁcient diseases, xeroderma
+pigmentosum, Cockayne syndrome and trichothiodystrophy.
+Biochimie, 85, 1101–1111.
+55. Vermeulen,W., Bergmann,E., Auriol,J., Rademakers,S., Frit,P.,
+Appeldoorn,E., Hoeijmakers,J.H.J. and Egly,J.-M. (2000)
+Sublimiting concentration of TFIIH transcription/DNA repair
+factor causes TTD-A trichothiodystrophy disorder. Nat. Genet., 26,
+307–313.
+56. Lehmann,A.R. (2001) The xeroderma pigmentosum group D (XPD)
+gene: one gene, two functions, three diseases. Genes Dev., 15, 15–23.
+57. de Boer,J., Andressoo,J.O., de Wit,J., Huijmans,J., Beems,R.B.,
+van Steeg,H., Weeda,G., van der Horst,G.T.J., van Leeuwen,W.
+et al. (2002) Premature aging in mice deﬁcient in DNA repair and
+transcription. Science, 296, 1276–1279.
+58. Prasher,J.M., Lalai,A.S., Heijmans-Antonissen,C.,
+Ploemacher,R.E., Hoeijmakers,J.H.J., Touw,I.P. and
+Niedernhofer,L.J. (2005) Reduced hematopoietic reserves in
+DNA interstrand crosslink repair-deﬁcient Ercc1-/- mice. EMBO J.,
+24, 861–871.
+59. Samper,E., Fernandez,P., Eguia,R., Martin-Rivera,L., Bernad,A.,
+Blasco,M.A. and Aracil,M. (2002) Long-term repopulating ability
+of telomerase-deﬁcient murine hematopoietic stem cells. Blood, 99,
+2767–2775.
+60. Choudhury,A.R., Ju,Z., Djojosubroto,M.W., Schienke,A.,
+Lechel,A., Schaetzlein,S., Jiang,H., Stepczynska,A., Wang,C. et al.
+(2007) Cdkn1a deletion improves stem cell function and lifespan
+of mice with dysfunctional telomeres without accelerating cancer
+formation. Nat. Genet., 39, 99–105.
+61. Oshima,J. (2000) The Werner syndrome protein: an update.
+BioEssays, 22, 894–901.
+62. Killoran,M.P. and Keck,J.L. (2006) Sit down, relax and unwind:
+structural insights into RecQ helicase mechanisms. Nucleic Acids
+Res., 34, 4098–4105.
+63. Larizza,L., Magnani,I. and Roversi,G. (2006) Rothmund–Thomson
+syndrome and RECQL4 defect: splitting and lumping. Cancer Lett.,
+232, 107–120.
+64. Chang,S., Multani,A.S., Cabrera,N.G., Naylor,M.L., Laud,P.,
+Lombard,D., Pathak,S., Guarente,L. and DePinho,R.A. (2004)
+Essential role of limiting telomeres in the pathogenesis of Werner
+syndrome. Nat. Genet., 36, 877–882.
+65. Martin,G.M. (2005) Genetic modulation of senescent phenotypes in
+homo sapiens. Cell, 120, 523–532.
+66. Crabbe,L., Jauch,A., Naeger,C.M., Holtgreve-Grez,H. and
+Karlseder,J. (2007) Telomere dysfunction as a cause of genomic
+instability in Werner syndrome. Proc. Natl Acad. Sci. USA, 104,
+2205–2210.
+67. Wu,L., Davies,S.L., North,P.S., Goulaouic,H., Riou,J.-F.,
+Turley,H., Gatter,K.C. and Hickson,I.D. (2000) The Bloom’s
+syndrome gene product interacts with topoisomerase III. J. Biol.
+Chem., 275, 9636–9644.
+68. Wu,L. and Hickson,I.D. (2003) The Bloom’s syndrome helicase
+suppresses crossing over during homologous recombination. Nature,
+426, 870–874.
+69. Wang,L.L., Gannavarapu,A., Kozinetz,C.A., Levy,M.L.,
+Lewis,R.A., Chintagumpala,M.M., Ruiz-Maldanado,R.,
+Contreras-Ruiz,J., Cunniﬀ,C. R.P. et al. (2003) Association
+between osteosarcoma and deleterious mutations in the RECQL4
+gene in Rothmund–Thomson syndrome. J. Natl Cancer Inst., 95,
+669–674.
+70. Hoki,Y., Araki,R., Fujimori,A., Ohhata,T., Koseki,H.,
+Fukumura,R., Nakamura,M., Takahashi,H., Noda,Y. et al. (2003)
+Growth retardation and skin abnormalities of the Recql4-deﬁcient
+mouse. Hum. Mol. Genet., 12, 2293–2299.
+71. Savitsky,K., Bar-Shira,A., Gilad,S., Rotman,G., Ziv,Y.,
+Vanagaite,L., Tagle,D.A., Smith,S., Uziel,T. et al. (1995) A single
+ataxia telangiectasia gene with a product similar to PI-3 kinase.
+Science, 268, 1749–1753.
+72. Shiloh,Y. (2003) ATM and related protein kinases: safeguarding
+genome integrity. Nat. Rev. Cancer, 3, 155–168.
+73. Lavin,M.F., Birrell,G., Chen,P., Kozlov,S., Scott,S. and Gueven,N.
+(2005) ATM signaling and genomic stability in response to DNA
+damage. Mutat. Res. Fundam. Mol. Mech. Mutagen., 569, 123–132.
+74. Ito,K., Hirao,A., Arai,F., Matsuoka,S., Takubo,K., Hamaguchi,I.,
+Nomiyama,K., Hosokawa,K., Sakurada,K. et al. (2004) Regulation
+of oxidative stress by ATM is required for self-renewal of
+haematopoietic stem cells. Nature, 431, 997–1002.
+75. Morales,M., Theunissen,J.W., Kim,C.F., Kitagawa,R.,
+Kastan,M.B. and Petrini,J.H. (2005) The Rad50S allele promotes
+ATM-dependent DNA damage responses and suppresses ATM
+deﬁciency: implications for the Mre11 complex as a DNA damage
+sensor. Genes Dev., 19, 3043–3054.
+76. Young,N.S., Abkowitz,J.L. and Luzzatto,L. (2000) New insights
+into the pathophysiology of acquired cytopenias. Hematology
+(Am. Soc. Hematol. Educ. Prog.), 18–38.
+77. Curzon,P.G., Muers,M.F. and Rajah,S.M. (1983) Aplastic anaemia
+associated with inﬂuenza A infection. Scand. J. Haematol., 30,
+232–234.
+78. Mayer,A., Podlech,J., Kurz,S., Steﬀens,H.P., Maiberger,S.,
+Thalmeier,K., Angele,P., Dreher,L. and Reddehase,M.J. (1997)
+Bone marrow failure by cytomegalovirus is associated with an
+in vivo deﬁciency in the expression of essential stromal hemopoietin
+genes. J. Virol., 71, 4589–4598.
+79. Revoltella,R.P., Vigneti,E., Fruscalzo,A., Park,M., Ragona,G.,
+Rocchi,G. and Calef,E. (1989) Epstein-Barr virus DNA sequences
+in precursor monocyte-macrophage cell lines established from
+the bone marrow of children with maturation defects of
+haematopoiesis. J. Gen. Virol., 70(Pt 5), 1203–1215.
+80. Meira,D.G., Lorand-Metze,I., Toro,A.D., Silva,M.T. and
+Vilela,M.M. (2005) Bone marrow features in children with HIV
+infection and peripheral blood cytopenias. J. Trop. Pediatr., 51,
+114–119.
+81. Ramos-Casals,M., Garcia-Carrasco,M., Lopez-Medrano,F.,
+Trejo,O., Forns,X., Lopez-Guillermo,A., Munoz,C., Ingelmo,M.
+and Font,J. (2003) Severe autoimmune cytopenias in treatment-
+naive hepatitis C virus infection: clinical description of 35 cases.
+Medicine, 82, 87–96.
+82. Lu,J., Basu,A., Melenhorst,J.J., Young,N.S. and Brown,K.E. (2004)
+Analysis of T-cell repertoire in hepatitis-associated aplastic anemia.
+Blood, 103, 4588–4593.
+83. Young,N.S. (2002) Acquired aplastic anemia. Ann. Intern. Med.,
+136, 534–546.
+84. Zeng,W., Nakao,S., Takamatsu,H., Yachie,A., Takami,A.,
+Kondo,Y., Sugimori,N., Yamazaki,H., Miura,Y. S. et al. (1999)
+Characterization of T-cell repertoire of the bone marrow in
+immune-mediated aplastic anemia: evidence for the involvement of
+antigen-driven T-cell response in cyclosporine-dependent aplastic
+anemia. Blood, 93, 3008–3016.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7565
+

@@ -1,0 +1,1183 @@
+7406–7416 Nucleic Acids Research, 2007, Vol. 35, No. 22 Published online 2 October 2007
+doi:10.1093/nar/gkm644
+SURVEY AND SUMMARY
+Human diseases of telomerase dysfunction:
+insights into tissue aging
+Christine Kim Garcia1
+, Woodring E. Wright2
+and Jerry W. Shay2,
+*
+1
+McDermott Center for Human Growth and Development and the Department of Internal Medicine, Division of
+Pulmonary and Critical Care Medicine and 2
+Department of Cell Biology, University of Texas Southwestern Medical
+Center, 5323 Harry Hines Boulevard, Dallas, TX 75390, USA
+Received June 29, 2007; Revised and Accepted August 2, 2007
+ABSTRACT
+There are at least three human diseases that are
+associated with germ-line mutations of the genes
+encoding the two essential components of telomer-
+ase, TERT and TERC. Heterozygous mutations of
+these genes have been described for patients with
+dyskeratosis congenita, bone marrow failure and
+idiopathic pulmonary fibrosis. In this review, we will
+detail the clinical similarities and difference of these
+diseases and review the molecular phenotypes
+observed. The spectrum of mutations in TERT and
+TERC varies for these diseases and may in part
+explain the clinical differences observed.
+Environmental insults and genetic modifiers that
+accelerate telomere shortening and increase cell
+turnover may exaggerate the effects of telomerase
+haploinsufficiency, contributing to the variability of
+age of onset as well as tissue-specific organ
+pathology. A central still unanswered question is
+whether telomerase dysfunction and short telo-
+meres are a much more prominent factor than
+previously suspected in other adult-onset,
+age-related diseases. Understanding the biological
+effects of these mutations may ultimately lead to
+novel treatments for these patients.
+INTRODUCTION
+Telomeres are repetitive, non-coding DNA [TTAGGG]
+elements at the ends of chromosomes. Telomerase is a
+multimeric ribonucleoprotein complex consisting of at
+least a functional RNA (hTR) that contains the template
+region complementary to the telomeric sequence (1) and a
+reverse transcriptase protein component (hTERT) that
+catalyzes the addition of telomeric repeats to the ends of
+chromosomes (2,3). hTR is expressed in all tissues but
+hTERT is only highly expressed in speciﬁc germ line cells,
+proliferative stem cells of renewal tissues, and immortal
+cancer cells (4–9). In most human somatic cells, telomeres
+shorten with each cell division due to incomplete lagging
+DNA strand synthesis (10–12) and oxidative damage
+(13,14). Even cells that express telomerase (e.g. peripheral
+blood mononuclear cells and other stem-like cells)
+undergo telomere shortening with age (15,16). Telomere
+lengths are aﬀected by their starting set points, the cellular
+activity of telomerase, the cell’s history of cell division and
+environmental eﬀects. Overexpression of the catalytic
+subunit of human telomerase (hTERT) induces telomerase
+activity and telomere elongation (17).
+While there is substantial evidence for replicative
+senescence in cell culture models that is associated with
+telomere attrition, the evidence for in vivo telomere
+shortening actually contributing to human aging has been
+diﬃcult to document. There is agreement that telomeres are
+shorter in older individuals as compared to younger
+individuals (12,18), but proving that telomere dysfunction
+causes age-related pathology has been diﬃcult to rigor-
+ously test because it is not easy (technically or ethically) to
+restore telomere length in humans. Rodent animal models
+do not provide an optimal system for testing the
+importance of telomeres in human aging. In addition,
+there is considerable heterogeneity of telomere length
+between humans and also diﬀerences between tissues and
+cell types within an individual. This makes it very diﬃcult
+to directly link telomere shortening as a proximal cause of
+aging. Only some cells in a given tissue may have critically
+shortened telomeres as a consequence of replicative
+exhaustion leading to cell senescence. This small fraction
+of senescent cells may interfere with the function of
+otherwise normal tissues by expression of degradative
+enzymes that can destroy tissue architecture and by
+secretion of inﬂammatory cytokines and growth factors
+that cause local activation of neighboring cells (19). Thus,
+central questions include what is the minimal threshold of
+senescent cells and what is the identity of senescent cells
+that can change the homeostasis of a speciﬁc tissue leading
+to a decline in tissue function?
+*To whom correspondence should be addressed. Tel: +1 214-648-3282; Fax: +1 214-648-8694; Email: jerry.shay@utsouthwestern.edu
+ß 2007 The Author(s)
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The relevance of telomere shortening induced by
+dysfunctional telomerase to physiological aging is sug-
+gested by the phenotypes of a telomerase deﬁcient mouse
+model (20,21). Early generations of mTRÀ/À
+mice do not
+show abnormalities presumably because laboratory mice
+have a much longer telomere length (20–150 kb) than
+humans (5–15 kb). However, late generations of mTRÀ/À
+mice have defects in cell viability of highly proliferative
+tissues. They have a shorter life span compared with wild-
+type mice and show hair loss/early graying of hair,
+decreased capacity for wound healing and a slight
+increased incidence of cancer. However, the telomerase-
+deﬁcient mouse models may not completely mirror human
+diseases of telomerase dysfunction as they have longer
+telomeres (20,22), express telomerase activity in most
+tissues (23,24) and do not use telomere shortening as a
+counting mechanism (25).
+The most widely accepted hypothesis is that the major
+function of clonal attenuation and replicative aging in
+humans is to form a barrier against the development of
+cancer. The number of permitted cell divisions may
+represent a balance between providing enough cell turn-
+overs to provide maintenance and repair of tissues and
+limiting the number of times a cell can divide to prevent
+cancer. Few stone-age human ancestors lived beyond
+30–40 years of age before dying, usually from infections
+(26). There may have been selective pressure to have a
+suﬃcient number of cell divisions to provide for reason-
+able ﬁtness until the time one was likely to have died
+(by age 40), but additional capacity for cell division
+beyond this point would come at the expense of a greater
+risk of cancer (27). In the modern era humans live beyond
+their historical lifespan and, as a consequence, the limit on
+replicative capacity may have physiological consequences
+that contribute to the pathologies of aging. Rare inherited
+diseases described below provide additional evidence
+that telomerase dysfunction and short telomeres play a
+role in certain age-related human diseases.
+During the past few years, experimental evidence has
+been obtained suggesting that telomere shortening may be
+causative for three diﬀerent human disorders. These are
+dyskeratosis congenita (DKC), multiple diﬀerent diseases
+collectively characterized by bone marrow failure and
+idiopathic pulmonary ﬁbrosis (IPF). In this review, we will
+summarize the evidence for telomere dysfunction in these
+conditions. The review will end with speculation on the
+future for telomere therapy that may lead to novel
+interventions to slow down or even reverse disease
+progression.
+DYSKERATOSIS CONGENITA (DKC)
+DKC is a rare inherited multisystem disorder character-
+ized by the triad of reticulated skin pigmentation,
+nail dystrophy and white patches (leukoplakia) in the
+mouth. The prevalence is approximately 1 in 1 000 000
+individuals, with death occurring at a median age of
+16 (28). Patients typically appear healthy at birth and
+develop the mucocutaneous features later in life as well as
+a wide range of somatic abnormalities including bone
+marrow, pulmonary, gastrointestinal, endocrine, skeletal,
+urologic, immunologic and neurologic abnormalities.
+Bone marrow failure is the leading cause of death,
+followed by pulmonary disease and cancer.
+There is both clinical and genetic heterogeneity of
+DKC. Most aﬀected patients in families in a large
+international registry of DKC are male, suggesting an
+X-linked pattern of inheritance (29). Almost all the
+patients in this group develop the mucocutaneous
+features of the disease during the ﬁrst two decades of
+life. Bone marrow failure is especially common and severe.
+Over 85% of patients have a peripheral cytopenia of at
+least one lineage and 76% develop pancytopenia at a
+median age of 10 years. Other families exhibit an
+autosomal dominant or autosomal recessive pattern of
+inheritance.
+Mutations in genes involved with telomere maintenance
+have been identiﬁed in $40% of clinically diagnosed DKC
+cases (30). A positional cloning approach led to the
+identiﬁcation of mutations in the gene DKC1 encoding
+dyskerin for the X-linked recessive form of the disease
+(31). Dyskerin is a nucleolar protein that copuriﬁes with
+the RNA component (hTR) and protein component of
+telomerase (hTERT) in the catalytically active human
+complex (32). It is one of four proteins found to
+be associated with the telomerase complex (Figure 1).
+Cell lines from patients with X-linked DKC have reduced
+levels of hTR that limit telomere length (33,34). Aﬀected
+males have one copy of the X-linked DKC1 gene and their
+cells express only the mutated form of dyskerin. Most
+mutations are missense changes that result in single amino
+acid substitutions that cluster in two regions, the
+N-terminal domain and the archaeosine-speciﬁc
+Figure 1. Schematic structure of the telomerase complex and diseases
+associated with mutations in the genes encoding each protein within the
+complex. TERT, hTR, dyskerin, NOP10, NHP2 and GAR1 constitute
+the telomerase ribonucleoprotein complex. Mutations in the genes
+TERT or TERC (encoding hTR) are associated with autosomal
+dominant pulmonary ﬁbrosis, bone marrow failure syndromes and
+DKC. Mutations in DKC1, encoding dyskerin, cause X-linked recessive
+DKC. Autosomal recessive DKC has been described in one family with
+a homozygous mutation in NOLA3, encoding NOP10.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7407
+transglycosylase (PUA) domain (35). By homology with
+the crystal structure of a bacterial ortholog of dyskerin,
+both of these domains are predicted to play a role in
+binding of hTR (36,37).
+Several diﬀerent deletion and nucleotide substitution
+mutations in the TERC gene, encoding hTR, were ﬁrst
+found in patients with the rare autosomal dominant form
+of DKC (38,39). Many of these mutations aﬀect in vitro
+hTR accumulation and/or catalytic activity (40) but all
+demonstrate in vivo telomere length shortening (discussed
+below). Subsequently, missense mutations in the gene
+TERT, encoding the protein component of telomerase,
+have been described in patients with DKC (30,41,42).
+Aﬀected individuals with mutations in either gene
+(TERC or TERT) have shorter telomere lengths than
+age-matched controls. Autosomal dominant inheritance
+can arise from a dominant negative eﬀect through
+interaction and inhibition of the wild-type product by
+the mutated gene product in a multiprotein complex.
+Alternatively, autosomal dominant inheritance can arise
+from haploinsuﬃciency with a reduction in the normal
+level of telomerase due to one mutated copy of the gene.
+In most cases, the eﬀect of the mutations of these two
+genes appears to be consistent with a mechanism of
+haploinsuﬃciency (41,43,44).
+Homozygosity mapping of one large consanguineous
+Saudi Arabian family with autosomal recessive DKC led
+to the identiﬁcation of a homozygous missense mutation
+in NOLA3 (encoding the protein NOP10) that segregated
+with the phenotype (45). This mutation is predicted to
+result in an arginine to tryptophan substitution (R34W) in
+a highly conserved region of the protein NOP10, one of
+four proteins associated with the telomerase complex
+(Figure 1) (46). None of the 15 other autosomal recessive
+families showed linkage to this region and none of the
+probands (index cases) of 171 uncharacterized DKC
+families had rare sequence variants in this gene, under-
+scoring the rarity of mutations in this gene as a cause
+of DKC (45).
+Regardless of the pattern of genetic inheritance, all
+patients with DKC have very short telomeres, implying a
+common pathway underlying the mechanism of this
+disease (33,39,41,47). When patients with DKC1 muta-
+tions are categorized by disease severity, those with the
+most severe phenotypes have shorter telomeres than those
+with the mildest phenotypes (age over 15 years with no co-
+existent aplastic anemia) (30). Using the telomere ﬂow-
+FISH assay and a cut oﬀ of total leukocyte telomere
+lengths below the ﬁrst percentile, DKC patients could be
+distinguished from their unaﬀected relatives with 100%
+sensitivity and 90% speciﬁcity (48). Interestingly, DKC
+families with mutations in either TERC or TERT
+demonstrate genetic anticipation with a worsening of
+disease severity and an earlier onset of symptoms with
+successive generations (39,41). The onset and severity of
+disease correlates with progressive telomere shortening
+in later generations. Siblings that do not inherit the
+mutated TERC gene do not have symptoms. Even though
+these siblings inherit short telomeres from the aﬀected
+parent, the non-mutated telomerase preferentially acts on
+the shortest telomeres to normalize their lengths (49).
+Thus, DKC patients have to inherit both short
+telomeres and have a mutation in one of the components
+of telomerase in order to show anticipation. This is a new
+mechanism underlying genetic anticipation. Instead of
+ampliﬁcation of triplet repeats as is frequently seen in
+neurodegenerative disorders (50), in DKC there is a
+‘contraction’ of telomere repeats.
+Most clinical presentations of DKC are associated with
+an impaired proliferative capacity of tissues. For example,
+skin ﬁbroblasts from DKC patients have a longer
+doubling time and abnormal chromosomal rearrange-
+ments in cell culture (51). In addition, the number of
+hematopoietic progenitor cells is decreased in DKC
+patients (52). The tissues requiring constant renewal,
+i.e. skin, oral mucosa and bone marrow are the ones that
+are aﬀected most frequently in DKC.
+Connection between sporadic bone marrow failure and
+dyskeratosis congenita
+Over 80% of patients with DKC have bone marrow
+failure, usually characterized by aplastic anemia or a
+reduction in all three blood cell lineages (53). Because of
+this, DKC can be considered one of the inherited bone
+marrow failure syndromes. After mutations in TERC were
+ﬁrst described for patients with the rare autosomal
+dominant form of DKC (38), it was noted that the clinical
+phenotypes of mutation carriers were often only bone
+marrow failure without the mucocutaneous features
+typical of this disease (54). This led to the sequencing of
+TERC for patients with either the familial or sporadic
+forms of various bone marrow failure syndromes.
+Subsequently, diﬀerent mutations in TERC have been
+found in patients with aplastic anemia (43,54–58),
+myelodysplastic syndrome, acute myelogenous leukemia
+arising from myelodysplastic syndrome (30,56,59), parox-
+ysmal nocturnal hemoglobinuria (60) and essential
+thrombocytosis (43). A similar sequencing strategy led to
+the identiﬁcation of mutations in the gene encoding the
+protein component of telomerase, TERT, in patients with
+aplastic anemia (42,58,61,62). A number of diﬀerent
+mutations in both TERC and TERT have been found in
+patients with bone marrow failure syndromes (Figure 2).
+Again, most variants in either gene lead to reduced
+telomerase activity by haploinsuﬃciency, except for two
+diﬀerent mutations in TERC that aﬀect the template
+domain of hTR and which appear to have a dominant
+negative eﬀect (58).
+Telomere shortening of circulating leukocytes is
+observed in many of the diﬀerent inherited bone marrow
+failure syndromes. Some patients with these disorders
+have short telomeres and deﬁned mutations in TERC or
+TERT, as described above. For others, the connection
+between accelerated telomere shortening and reduced
+telomerase activity is not clear. Shwachman-Diamond
+syndrome (SDS) is an autosomal recessive syndrome
+characterized by bone marrow failure, pancreatic
+exocrine insuﬃciency, skeletal defects, an increased risk
+of hematologic cancers and abnormal telomere shortening
+(63,64). Mutations in the gene SBDS are found in >90%
+of patients with SDS (65). Indirect evidence suggests that
+7408 Nucleic Acids Research, 2007, Vol. 35, No. 22
+the SBDS gene product may function in RNA metabolism
+(65). There is no evidence of a reduction in telomerase
+activity in lymphocytes from SDS patients or a physical
+interaction between the SBDS gene product and
+the telomerase complex of hTR and hTERT (65,66).
+Short telomeres have also been seen in subpopulations
+of patients with aplastic anemia (67–69), paroxysmal
+nocturnal hemoglobinuria (70) and Fanconi’s anemia (71),
+suggesting that short telomeres of circulating leukocytes
+may be a marker of progenitor cell depletion in sporadic
+cases of several bone marrow failure syndromes.
+IDIOPATHIC PULMONARY FIBROSIS
+Idiopathic pulmonary ﬁbrosis (IPF) is a progressive,
+fatal lung disease characterized by lung scarring and
+abnormal gas exchange (72). The disease is rare in children
+and typically aﬀects individuals age 50 or more, with
+the incidence increasing with advanced age (73). The
+prevalence is 4 per 100 000 in adults aged 18–34 years but
+increases to over 227 per 100 000 among those 75 years
+and older. The disease is more common in men and in
+smokers (74,75). There are approximately 89 000 persons
+diagnosed with IPF in the United States, with about
+34 000 new cases diagnosed each year (74). IPF is
+always fatal with no spontaneous remission. The median
+life span after diagnosis is usually between 2.5 and
+3.5 years (76).
+The clinical presentation of IPF is similar to that of all
+the scarring lung diseases, collectively called interstitial
+lung diseases, which lead to pulmonary ﬁbrosis and
+symptoms of a chronic cough and shortness of breath.
+Patients with IPF have abnormal pulmonary function
+tests (PFTs) reﬂecting a restrictive respiratory pattern
+coupled with evidence of lung scarring, characteristically
+involving the periphery of the lower lobes of the lung.
+The diagnosis of IPF is supported by thorascopic lung
+biopsy, which reveals a histological pattern of ‘usual
+interstitial pneumonia’ (UIP), with ﬁbroblastic foci at the
+interface between normal and scarred lung. In the absence
+of a surgical lung biopsy, IPF can be diagnosed after other
+known causes of PF are excluded and certain clinical
+criteria have been met using spirometry to assess lung
+function, high resolution computed tomography (CT) of
+the chest to assess lung morphology, and a transbronchial
+lung biopsy or bronchoalveolar ﬂuid (BAL) to rule out
+alternative diagnoses (76). Over one hundred diﬀerent
+clinical interstitial lung diseases are associated with
+PF, including connective tissue diseases, occupational
+exposures, drug toxicities and other primary diseases of
+the lung. If no culprit can be identiﬁed, the interstitial lung
+disease may represent a class of lung disease called
+idiopathic interstitial pneumonias (IIP). These have been
+further classiﬁed (77) to assist with predicting clinical
+course and outcome. IPF is the most common of all the
+IIPs and also the most deadly, with no deﬁnitive medical
+treatments. Lung transplantation is an option for younger
+patients.
+A small subset of patients with IPF has a familial form
+of the disease. The ﬁrst large collection of familial
+IPF families was reported just 7 years ago by Marshall
+and his colleagues who identiﬁed 25 families (including
+67 cases) (78). They estimated that familial cases account
+for 0.5–2.2% of all cases of IPF, with a prevalence of
+1.3 cases per million. The familial form of IPF accounts
+for 3.3–3.7% of all cases in Finland with geographic
+clustering of the familial cases suggesting a founder
+eﬀect (79). In cohorts of patients with early onset disease,
+Figure 2. Schematic representation of hTR (A) and TERT (B) and the location of mutations associated with DKC (red), bone marrow failure
+syndromes (orange) and pulmonary ﬁbrosis (black). Mutations in TERC, encoding hTR and TERT have been described for patients with DKC
+(30,38,39,88) and bone marrow failure syndromes including aplastic anemia (30,43,54–58), myelodysplastic syndrome (56,59) and essential
+thrombocytemia (43). Rare mutations in TERC have been found in patients with familial pulmonary ﬁbrosis (86,87). Mutations in TERT have been
+found in patients with DKC (30,41), familial pulmonary ﬁbrosis (86,87) and aplastic anemia (42,58,61,62). Common genetic polymorphisms and
+promoter mutations are not shown. The schematic depiction of the predicted secondary structure of hTR is indicated (103); mutations in TERT are
+shown relative to conserved domains (3,104,105).
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7409
+such as those referred for lung transplantation, the
+incidence of the familial form of the disease has been
+reported to be much higher, up to 14–19% (80,81).
+The pattern of inheritance in most families is consistent
+with an autosomal dominant pattern with incomplete
+penetrance (78,81–83).
+The clinical presentation of familial IPF in the United
+Kingdom appears to be indistinguishable from sporadic
+IPF except that the age of onset tends to be younger
+(84,85). The mean age at diagnosis is 55.5 years for
+familial IPF compared to 67.4–69.8 years in sporadic IPF.
+In familial IPF, males outnumber females, with a ratio
+of 1.75:1. Half of the cases in families are smokers.
+In another collection of over 100 families with IPF, older
+age, male sex and smoking cigarettes were strongly
+associated with the development of the disease (83).
+An autosomal dominant pattern of inheritance was seen
+in 20% of these families. Within the families, aﬀected
+individuals have radiographic and/or histopathologic
+features consistent with two or even three diﬀerent types
+of IIP, suggesting that the inherited genetic factor(s)
+confer an increased risk for the development of pulmonary
+ﬁbrosis in response to injury, but not an absolute risk for
+one particular histologic subtype of IIP.
+Connections between idiopathic pulmonary fibrosis and
+telomere dysfunction
+A clue to the molecular basis of familial IPF emerged from
+studies performed simultaneously by two groups using
+diﬀerent approaches: Armanios and her colleagues at
+Johns Hopkins used a candidate gene approach (86) while
+our group used a non-biased whole genome mapping
+approach (87). Armanios had previously described a
+family with autosomal dominant DKC with haploinsuﬃ-
+ciency of telomerase due to a missense mutation in the
+reverse transcriptase domain of TERT in which four of
+the seven aﬀected individuals were diagnosed with
+idiopathic pulmonary ﬁbrosis between 21 and 63 years
+of age. She and her colleagues subsequently sequenced
+TERT in probands of a collection of 73 kindreds with
+familial IPF. They identiﬁed six probands (8%) with
+mutations; ﬁve were heterozygous for mutations in TERT
+and one was heterozygous for a mutation in TERC.
+The telomere lengths in lymphocytes from these aﬀected
+individuals were all less than the 10th percentile when
+compared to age-matched controls.
+Taking an unbiased genetic approach, we performed a
+whole genome linkage scan in two large families with
+familial IPF. We found evidence of linkage to the short
+arm of chromosome 5 in a small region that contained the
+TERT gene. Since a mutation in this gene had been
+previously found in a DKC family in which many of the
+aﬀected individuals had pulmonary ﬁbrosis (41), we
+considered this to be an excellent candidate gene.
+Heterozygous mutations in TERC or TERT are seen in
+$12% of our cohort of families; TERT mutations were
+found not only in the two large families used for the
+linkage analysis but also in four other kindreds with
+familial pulmonary ﬁbrosis, and a TERC mutation was
+found in an additional family (87). The mutations in
+TERT segregated not only with individuals that met the
+strict diagnosis of IPF, but also several with pulmonary
+ﬁbrosis favoring the upper lobes of the lung and others
+with unclassiﬁed pulmonary disease. Several family
+members of these kindreds with no self-reported lung
+problems were identiﬁed to be heterozygous for a mutant
+TERT allele; thus, the pulmonary disease was not
+completely penetrant. We have found that almost 70%
+of telomerase mutation carriers over the age of 40 have
+pulmonary disease of some kind. More than one-third has
+osteoporosis or osteopenia aﬀecting the axial skeleton.
+While this condition may have been exacerbated by
+corticosteroid treatment that is frequently given to
+patients with pulmonary ﬁbrosis, in half the cases this
+diagnosis either preceded steroid treatment or occurred
+independently of a diagnosis of pulmonary ﬁbrosis.
+A mild to moderate anemia (hematocrit of 23–32%) and
+several cancers (lymphoma, breast, skin) were occasionally
+found among the telomerase mutations carriers in the
+kindreds with familial pulmonary ﬁbrosis. Thus, our
+preliminary ﬁndings indicate that the clinical phenotypes
+of anemia and osteoporosis may provide additional
+clinical indices of disease in IPF families due to telomerase
+mutations.
+The mutations in TERT found in kindreds with
+familial IPF are diﬀerent from those previously found in
+patients with DKC or bone marrow failure (Figure 2B).
+Three identiﬁed mutations are nucleotide deletions that
+are predicted to create frameshifts and truncated proteins.
+As predicted, the V747fs frameshift mutations missing
+half the reverse transcriptase domain had undetectable
+in vitro telomerase activity. Co-translation of diﬀerent
+ratios of plasmids encoding the V747fs protein and the
+wild-type TERT protein did not negatively aﬀect the
+activity of the wild-type protein, suggesting a mechanism
+of haploinsuﬃciency (87). The other two identiﬁed
+deletion mutants, P122fs and E1116fs, are predicted to
+delete most of the protein or just the terminal 17 amino
+acids of the protein containing the conserved E-IV
+domain, respectively. The latter mutation has almost
+undetectable in vitro telomerase activity (87).
+The other identiﬁed mutations in TERT in patients with
+familial pulmonary ﬁbrosis are missense and splice site
+mutations. The missense mutations demonstrate a range
+of 30–100% wild-type telomerase activity in conventional
+rabbit reticulocyte in vitro assays (87). The missense
+mutations span all the diﬀerent functional domains of
+the protein. There is a cluster of three independent
+mutations in the motif C region of the reverse transcrip-
+tase domain. We found the R865H mutation in motif
+C that segregated in one of the large families used in the
+original linkage scan. Sequencing TERT in 44 individuals
+with sporadic IIPs identiﬁed one individual with a
+mutation involving the same amino acid residue, R866C.
+Armanios et al. also identiﬁed a mutation that results
+in selective skipping of exon 10, which encodes motif C
+(86). These three independent mutations in motif C in IPF
+patients suggest a potential genotype–phenotype
+relationship.
+Only two diﬀerent mutations in TERC have been
+described in kindreds with familial IPF. One mutation,
+7410 Nucleic Acids Research, 2007, Vol. 35, No. 22
+37a > g, aﬀecting the terminal residue of the P1b helix that
+functions in the hTR template boundary deﬁnition,
+was previously identiﬁed in a patient with DKC and
+severe aplastic anemia who is a compound heterozygote
+for mutations in TERC (88). It was not reported whether
+family members with the same mutation had any signs or
+symptoms of pulmonary ﬁbrosis. A second mutation in
+TERC was found in a family with pulmonary ﬁbrosis and
+aplastic anemia. Mutations in TERC thus appear more
+likely associated with DKC and bone marrow failure
+syndromes than familial pulmonary ﬁbrosis.
+When compared with age-matched normal controls,
+individuals heterozygous for all the identiﬁed mutations in
+TERT or TERC had shorter telomere lengths of circulat-
+ing white blood cells (86,87). When these lengths were
+compared between individuals belonging to the same
+large family with the R865H mutation in TERT, the
+younger heterozygous mutation carriers had telomere
+lengths similar to age-matched controls. In contrast,
+many of the mutation carriers older than 40 had telomeres
+with a shorter mean length and an increased proportion
+of short telomeres. Haploinsuﬃciency of telomerase
+due to TERT mutations may lead to the clinical pheno-
+type of pulmonary ﬁbrosis only after suﬃcient time has
+elapsed and after multiple rounds of cell division have
+occurred to shorten telomeres to critical lengths. This may
+explain why individuals present with this disease later in
+life, as adults. IPF is an age-related disease, with markedly
+increased prevalence with advanced age, especially after
+the ﬁfth decade of life. Some fraction of sporadic cases is
+likely due to telomere attrition from age and environ-
+mental insults independent of speciﬁc genetic mutations.
+Comparisons between DKC, bone marrow failure
+syndromes and IPF
+Table 1 compares the clinical characteristics of these
+diseases associated with mutations in genes encoding the
+telomerase complex. Is telomere shortening a common
+molecular mechanism underlying them all? With rare
+exceptions, telomere lengths of circulating cells, cultured
+ﬁbroblasts and lymphoblasts, or of genomic DNA isolated
+from leukocytes are all abnormally short for patients with
+DKC, bone marrow failure and IPF with mutations in
+genes associated with the telomerase complex. In general,
+the shorter telomeres are associated with earlier onset and
+more severe phenotypes. This is seen most dramatically in
+families with genetic anticipation.
+But how can mutations in the same genes lead to such
+diﬀerent clinical presentations? We believe that the
+resulting phenotype is likely determined by genotype,
+time and tissue-speciﬁc environmental eﬀects. As seen in
+Figure 2, diﬀerent mutations in TERC and TERT are
+found in patients with diﬀerent clinical diseases.
+Mutations in TERC are usually found in patients with
+DKC or bone marrow failure. Mutations in TERT have
+been found more often in patients with IPF or bone
+marrow failure than those with the classic skin features of
+DKC. In addition to the eﬀect of the mutations upon
+telomere length, these mutations may have other cellular
+eﬀects. For example, DKC patients with NOLA3, DKC1
+and TERC mutations show signiﬁcantly reduced levels of
+hTR RNA expression in whole blood than controls or
+patients with TERT mutations (45). In addition, hTR
+has been shown to have functions that are separable from
+its role in telomerase (89,90). In particular, hTR has
+recently been implicated as a negative regulator of ATR
+activity (86). It is possible that some classes of stem cells
+are programmed to leave the stem cell compartment in
+response to sub-lethal DNA damage signals, in order to
+reduce the likelihood of cancer. The increased hemato-
+poietic/mucocutaneous prominence in DKC versus IPF
+may reﬂect a preferential exhaustion of progenitors in the
+marrow and skin due to this non-telomeric eﬀect of hTR.
+There is no evidence of loss of heterozygosity in aﬀected
+lung tissue to explain the lung-speciﬁc ﬁbrosis seen with
+germline TERT mutations (data not shown).
+Telomere lengths are decreased not only in IPF patients
+with TERT mutations, but also in mutation carriers
+within the same family without lung disease (87),
+suggesting that other factors inﬂuence the clinical expres-
+sion of IPF associated with TERT mutations.
+Environmental factors may inﬂuence cell proliferation or
+the rate of telomere loss in an organ-speciﬁc manner.
+Cigarette smoking has been associated with a dose-
+dependent shortening of telomere lengths of circulating
+leukocytes (91), and this eﬀect may be magniﬁed in lung
+tissue. In our study, mutation carriers of TERT or TERC
+with a past history of smoking died on average 10 years
+earlier than non-smokers (58 years versus 68 years) (87).
+In family F11, one individual who was a non-smoker with
+Table 1. Characteristics of diseases associated with mutations in genes encoding proteins in the telomerase complex: dyskeratosis congenita (DKC),
+various bone marrow failure syndromes and Idiopathic Pulmonary Fibrosis
+DKC Bone marrow failure syndromes Idiopathic pulmonary ﬁbrosis
+Inheritance patterns XLR, AD, AR AD, AR, sporadic AD, sporadic
+Age of onset Birth—60 (usually 10–30) All ages Adult (usually >40)
+Skin abnormalities Yes No No
+Bone marrow failure Yes (>80%) Yes Anemia?
+Somatic abnormalities Yes Rare Osteoporosis?
+Cancer Yes Yes ?
+Chromosomal instability Yes Yes ?
+Short telomeres in patients with disease All Some ?
+Genes in which mutations have been described DKC1, TERC, TERT, NOLA3 TERC, TERT TERT, TERC
+XLR, X-linked recessive; AD, autosomal dominant and AR, autosomal recessive.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7411
+liver cirrhosis of unknown etiology had the same inherited
+TERT mutation as the proband with IPF who was a
+previous cigarette smoker (87). The full spectrum of
+phenotypes associated with TERT mutations is likely
+to grow as more heterozygous mutation carriers are
+identiﬁed. As discussed above, IPF associated with
+heterozygous TERT mutations is always diagnosed in
+adults, not children, suggesting that age is important in
+the pathogenesis of disease. Older adults have a greater
+magnitude of cumulative environmental exposures
+than children. With the passage of time, there is further
+telomere shortening with cell proliferation and replicative
+exhaustion.
+A key feature of the disease process in DKC is that
+there is a failure of proliferative tissues that are dependent
+upon renewal by stem cell activity. In a model initially
+proposed by Mason et al. (35), germline mutations in the
+genes encoding the telomerase complex cause progressive
+telomere shortening, resulting in the senescence and
+perhaps death of stem cells (Figure 3). An increased
+number of quiescent cells with replicative potential must
+then be recruited into the cell cycle. These new stem cells
+proliferate and undergo further telomere shortening,
+followed by senescence. The premature exhaustion of the
+pool of stem cells leads to clinical disease. If mutations in
+cell cycle checkpoint genes such as p53 have occurred,
+cells with very short telomeres can continue to divide until
+their telomeres become more dysfunctional and lose their
+ability to protect the ends of chromosomes. These can
+then initiate breakage-fusion-bridge cycles and generate
+genomic instability, which in turn can lead to cancer.
+In contrast to the bone marrow, the adult lung has a much
+slower turnover of cells. The diﬀerent regions of the lung
+house diﬀerent stem cell populations that contribute
+to repair and maintenance (92). The observations of
+TERT mutations and shortened telomere lengths in
+patients with IPF suggest that the lung is among the
+tissues that are dependent upon renewal by telomerase-
+expressing stem cells, with disruption of this process
+leading to ﬁbrosis. Similarly, in diﬀerent rodent models of
+pulmonary ﬁbrosis, injury of the lung epithelial cells leads
+to increased expression of telomerase suggesting its
+protective role in this disease process (93,94).
+Several correlative studies lend support to the idea
+that individuals with shorter than age-matched control
+telomeres are prone to disease. For example, patients with
+atherosclerotic heart disease have signiﬁcantly shorter
+telomeres compared to healthy aged-matched controls
+(95–97). Independent of age and mean arterial pressure,
+arterial stiﬀness and pulse pressure are inversely correlated
+with TRF length in men (95). In a retrospective study of
+archival cryopreserved blood cells, telomere length was a
+major independent predictor for overall mortality.
+Patients (60–97 years of age) with the shortest quartile
+of blood telomeres had an 8-fold higher mortality due to
+infectious disease compared to those in the other quartiles
+(98). Shorter telomere lengths have also been associated
+with reduced bone mineral density and osteoporosis (99),
+obesity (100) and cigarette smoking (91,100). Whether
+mutations in TERT or TERC or the genes that encode
+telomerase-associated proteins underlie these more
+common age-related diseases remains to be seen.
+Can we slow down the progressive telomeres shortening
+in DKC, bone marrow failure or IPF?
+There is now strong circumstantial evidence that inherited
+defects in the telomerase pathway cause some cases of
+DKC, bone marrow failure and IPF. Collectively, these
+studies lend support to the hypothesis that short telomeres
+caused by various insults (increases in cell turnover
+associated with chronic age-associated diseases, inﬂam-
+matory processes, oxidative damage, genetic alterations in
+telomerase components) correlate with disease. Showing
+cause and eﬀect will require demonstrating that slowing
+down the rate of telomere loss or resetting the telomere
+clock reverses or delays the onset of disease. Are DKC,
+bone marrow failure and IPF the appropriate diseases to
+test the therapeutic value of telomere rejuvenation?
+We have expressed TERT to immortalize a variety of
+human cell types including skin keratinocytes, dermal
+ﬁbroblasts, muscle satellite (stem) cells, endothelial cells,
+retinal-pigmented epithelial cells, breast epithelial cells,
+and both corneal ﬁbroblasts (keratocytes) and corneal
+epithelial cells. Human corneal and skin cells expressing
+TERT can be used to form organotypic cultures.
+Such bioengineered tissues express diﬀerentiation-speciﬁc
+proteins, suggesting that TERT does not inhibit
+the normal diﬀerentiation of cells. TERT-immortalized
+myoblasts form apparently normal muscle in vivo follow-
+ing injection into immunoincompetent mice (101).
+Even the overexpression of TERT, cdk4 and mutant
+Ras does not prevent the diﬀerentiation of normal skin
+keratinocytes in organotypic culture (unpublished data).
+The production of engineered cells and tissues thus oﬀers
+Figure 3. A proposed model underlying the pathogenesis of inherited
+human diseases of telomere dysfunction. Inherited genetic eﬀects and
+certain environmental eﬀects can aﬀect telomere lengths. With each
+round of cell division telomeres shorten until a critical telomere length
+is reached. Additional quiescent cells with replicative potential are then
+recruited into the cell cycle. These new stem cells proliferate and
+undergo further telomere shortening, followed by senescence. The
+premature exhaustion of the pool of stem cells leads to the clinical
+diseases of pulmonary ﬁbrosis, bone marrow failure and failure of other
+organs associated with dyskeratosis congenita. If mutations in cell cycle
+checkpoint genes such as p53 have occurred, the senescent growth
+arrest is blocked, cells divide and telomeres continue to shorten until
+they lose their ability to protect the ends of chromosomes. These can
+initiate breakage-fusion-bridge cycles and generate genomic instability,
+which can lead to cancer.
+7412 Nucleic Acids Research, 2007, Vol. 35, No. 22
+the possibility of treating a variety of age-related medical
+diseases that are due to telomere-based replicative
+senescence.
+TREATMENT OPTIONS
+We propose that there are likely to be many diﬀerent
+diseases in which replicative aging due to excess telomere
+shortening contributes to tissue-speciﬁc or cell-speciﬁc
+disease. For these pathologic processes, rejuvenating
+cells by increasing telomere lengths may be beneﬁcial.
+We already have the ability to express telomerase, leaving
+cells with long telomeres and a greatly extended lifespan.
+Advances in gene therapy, particularly the development of
+‘fail-safe’ constructs that encode inducible cell-suicide
+products, will reduce the risk of cancerous transformation
+associated with telomerase expression for therapeutic
+purposes. To test if telomere rejuvenation could impact
+on the progression of disease such as bone marrow
+failure, one approach would be to isolate hematopoietic
+stem cells from patients with short telomeres, expand the
+cells in the laboratory, transfect them with adenoviral
+hTERT (that does not integrate into nuclear DNA),
+characterize telomere lengths of the cells in vitro and
+return the rejuvenated stem cells to the patient. The
+obvious advantages of this approach over allogenic
+bone marrow transplants are that using the patient’s
+own cells would avoid problems of rejection and there
+would be no need for bone marrow ablation. Clearly,
+safety and eﬃcacy standards, as well as quality and
+control assurances will need to be carefully considered
+prior to initiating these studies. Several reports have
+suggested that small molecule activators of telomerase can
+extend the lifespan of lymphocytes, and such molecules
+might potentially work with hematopoietic stem cells
+as well (102).
+Treatment of pulmonary ﬁbrosis may present an
+especially diﬃcult clinical challenge because ﬁbrosis of
+the lung parenchyma is generally considered an end-stage
+manifestation of an irreversible pathologic process. For
+this reason, eﬀective treatment of pulmonary ﬁbrosis due
+to telomerase insuﬃciency may require early recognition
+of preclinical disease, modiﬁcation of environmental
+exposures and strategies for early intervention with
+telomerase activation. Since oxidative damage has been
+shown to shorten telomeres in tissue culture models
+(13,14), systemic administration of antioxidants may be
+beneﬁcial at preserving telomere lengths and delaying the
+onset of disease in susceptible individuals. Strategies
+towards activation of telomerase should be targeted to
+cells of replicative potential in the lung, ideally before the
+onset of disease. The goal would be to maintain a balance
+of enough telomerase activity to lengthen critically short
+telomeres without allowing pre-malignant lesions to
+progress. Since this may be diﬃcult, the most promising
+approach may involve gene therapy including several
+conditional replication-dependent suicide genes. Under
+these conditions, any tumors that develop could have
+built-in therapeutic targets for their control.
+CONCLUSIONS
+The identiﬁcation of mutations in multiple components
+of the telomerase complex in IPF, DKC and sporadic
+bone marrow failure patients underscores the importance
+of telomerase in the pathogenesis of these disorders.
+These mutations may decrease the stability of the
+telomerase complex, reduce the recruitment or activation
+of telomerase at the telomere itself, or directly aﬀect the
+enzymatic activity of telomerase. An insuﬃcient level of
+telomerase results in progressive telomere shortening,
+most notably in tissues that require continuous renewal.
+Progress has been slow in DKC since it is such a rare
+disease. However, the discovery that other more common
+diseases, such as bone marrow failure syndromes and IPF,
+are also associated with telomerase mutations and
+telomere shortening opens up more opportunities so that
+we may learn a great deal about the mechanisms and
+consequences of telomere maintenance in humans.
+ACKNOWLEDGEMENTS
+We would like to thank Angela Diehl for drawing
+the ﬁgure illustrations. This work was supported by the
+Ted Nash Foundation (J.W.S. and W.E.W), Lung Cancer
+SPORE P50 CA75907, NSCOR NNJ05HD36G (J.W.S.)
+and NIH K23 RR020632 (C.K.G.). Funding to pay the
+Open Access publication charges for this article was
+provided by Ted Nash Foundation.
+Conﬂict of interest statement. None.
+REFERENCES
+1. Feng,J., Funk,W.D., Wang,S.S., Weinrich,S.L., Avilion,A.A.,
+Chiu,C.P., Adams,R.R., Chang,E., Allsopp,R.C. et al. (1995)
+The RNA component of human telomerase. Science, 269,
+1236–1241.
+2. Greider,C.W. and Blackburn,E.H. (1985) Identiﬁcation of a
+speciﬁc telomere terminal transferase activity in Tetrahymena
+extracts. Cell, 43, 405–413.
+3. Nakamura,T.M., Morin,G.B., Chapman,K.B., Weinrich,S.L.,
+Andrews,W.H., Lingner,J., Harley,C.B. and Cech,T.R. (1997)
+Telomerase catalytic subunit homologs from ﬁssion yeast and
+human. Science, 277, 955–959.
+4. Wright,W.E., Piatyszek,M.A., Rainey,W.E., Byrd,W. and
+Shay,J.W. (1996) Telomerase activity in human germline and
+embryonic tissues and cells. Dev. Genet., 18, 173–179.
+5. Harle-Bachor,C. and Boukamp,P. (1996) Telomerase activity in
+the regenerative basal layer of the epidermis inhuman skin and in
+immortal and carcinoma-derived skin keratinocytes. Proc. Natl
+Acad. Sci. USA, 93, 6476–6481.
+6. Broccoli,D., Young,J.W. and de Lange,T. (1995) Telomerase
+activity in normal and malignant hematopoietic cells. Proc. Natl
+Acad. Sci. USA, 92, 9082–9086.
+7. Hiyama,K., Hirai,Y., Kyoizumi,S., Akiyama,M., Hiyama,E.,
+Piatyszek,M.A., Shay,J.W., Ishioka,S. and Yamakido,M. (1995)
+Activation of telomerase in human lymphocytes and hematopoietic
+progenitor cells. J. Immunol., 155, 3711–3715.
+8. Kim,N.W., Piatyszek,M.A., Prowse,K.R., Harley,C.B., West,M.D.,
+Ho,P.L., Coviello,G.M., Wright,W.E., Weinrich,S.L. et al. (1994)
+Speciﬁc association of human telomerase activity with immortal
+cells and cancer. Science, 266, 2011–2015.
+9. Shay,J.W. and Bacchetti,S. (1997) A survey of telomerase activity in
+human cancer. Eur. J. Cancer, 33, 787–791.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7413
+10. de Lange,T., Shiue,L., Myers,R.M., Cox,D.R., Naylor,S.L.,
+Killery,A.M. and Varmus,H.E. (1990) Structure and variability of
+human chromosome ends. Mol. Cell. Biol., 10, 518–527.
+11. Harley,C.B., Futcher,A.B. and Greider,C.W. (1990) Telomeres
+shorten during ageing of human ﬁbroblasts. Nature, 345, 458–460.
+12. Hastie,N.D., Dempster,M., Dunlop,M.G., Thompson,A.M.,
+Green,D.K. and Allshire,R.C. (1990) Telomere reduction in human
+colorectal carcinoma and with ageing. Nature, 346, 866–868.
+13. von Zglinicki,T., Saretzki,G., Docke,W. and Lotze,C. (1995)
+Mild hyperoxia shortens telomeres and inhibits proliferation of
+ﬁbroblasts: a model for senescence? Exp. Cell Res., 220, 186–193.
+14. von Zglinicki,T. (2002) Oxidative stress shortens telomeres.
+Trends Biochem. Sci., 27, 339–344.
+15. Vaziri,H., Dragowska,W., Allsopp,R.C., Thomas,T.E., Harley,C.B.
+and Lansdorp,P.M. (1994) Evidence for a mitotic clock in human
+hematopoietic stem cells: loss of telomeric DNA with age. Proc.
+Natl Acad. Sci. USA, 91, 9857–9860.
+16. Iwama,H., Ohyashiki,K., Ohyashiki,J.H., Hayashi,S., Yahata,N.,
+Ando,K., Toyama,K., Hoshika,A., Takasaki,M. et al. (1998)
+Telomeric length and telomerase activity vary with age in peripheral
+blood cells obtained from normal individuals. Hum. Genet., 102,
+397–402.
+17. Bodnar,A.G., Ouellette,M., Frolkis,M., Holt,S.E., Chiu,C.P.,
+Morin,G.B., Harley,C.B., Shay,J.W., Lichtsteiner,S. et al. (1998)
+Extension of life-span by introduction of telomerase into normal
+human cells. Science, 279, 349–352.
+18. Lindsey,J., McGill,N.I., Lindsey,L.A., Green,D.K. and Cooke,H.J.
+(1991) In vivo loss of telomeric repeats with age in humans.
+Mutat. Res., 256, 45–48.
+19. Krtolica,A. and Campisi,J. (2002) Cancer and aging: a model for
+the cancer promoting eﬀects of the aging stroma. Int. J. Biochem.
+Cell Biol., 34, 1401–1414.
+20. Blasco,M.A., Lee,H.W., Hande,M.P., Samper,E., Lansdorp,P.M.,
+DePinho,R.A. and Greider,C.W. (1997) Telomere shortening and
+tumor formation by mouse cells lacking telomerase RNA. Cell, 91,
+25–34.
+21. Lee,H.W., Blasco,M.A., Gottlieb,G.J., Horner,J.W.II, Greider,C.W.
+and DePinho,R.A. (1998) Essential role of mouse telomerase in
+highly proliferative organs. Nature, 392, 569–574.
+22. Zijlmans,J.M., Martens,U.M., Poon,S.S., Raap,A.K., Tanke,H.J.,
+Ward,R.K. and Lansdorp,P.M. (1997) Telomeres in the mouse have
+large inter-chromosomal variations in the number of T2AG3
+repeats. Proc. Natl Acad. Sci. USA, 94, 7423–7428.
+23. Prowse,K.R. and Greider,C.W. (1995) Developmental and tissue-
+speciﬁc regulation of mouse telomerase and telomere length.
+Proc. Natl Acad. Sci. USA, 92, 4818–4822.
+24. Martin-Rivera,L., Herrera,E., Albar,J.P. and Blasco,M.A. (1998)
+Expression of mouse telomerase catalytic subunit in embryos and
+adult tissues. Proc. Natl Acad. Sci. USA, 95, 10471–10476.
+25. Wright,W.E. and Shay,J.W. (2000) Telomere dynamics in cancer
+progression and prevention: fundamental diﬀerences in human and
+mouse telomere biology. Nat. Med., 6, 849–851.
+26. Finch,C.E. (1990) Longevity, Senescence, and the Genome University
+of Chicago Press, Chicago.
+27. Shay,J.W. and Wright,W.E. (2007) Hallmarks of telomeres in
+ageing research. J. Pathol., 211, 114–123.
+28. Drachtman,R.A. and Alter,B.P. (1995) Dyskeratosis congenita.
+Dermatol. Clin., 13, 33–39.
+29. Dokal,I. (2000) Dyskeratosis congenita in all its forms.
+Br. J. Haematol., 110, 768–779.
+30. Vulliamy,T.J., Marrone,A., Knight,S.W., Walne,A., Mason,P.J. and
+Dokal,I. (2006) Mutations in dyskeratosis congenita: their impact
+on telomere length and the diversity of clinical presentation. Blood,
+107, 2680–2685.
+31. Heiss,N.S., Knight,S.W., Vulliamy,T.J., Klauck,S.M., Wiemann,S.,
+Mason,P.J., Poustka,A. and Dokal,I. (1998) X-linked dyskeratosis
+congenita is caused by mutations in a highly conserved gene with
+putative nucleolar functions. Nat. Genet., 19, 32–38.
+32. Cohen,S.B., Graham,M.E., Lovrecz,G.O., Bache,N., Robinson,P.J.
+and Reddel,R.R. (2007) Protein composition of catalytically active
+human telomerase from immortal cells. Science, 315, 1850–1853.
+33. Mitchell,J.R., Wood,E. and Collins,K. (1999) A telomerase
+component is defective in the human disease dyskeratosis congenita.
+Nature, 402, 551–555.
+34. Wong,J.M. and Collins,K. (2006) Telomerase RNA level limits
+telomere maintenance in X-linked dyskeratosis congenita.
+Genes. Dev., 20, 2848–2858.
+35. Mason,P.J., Wilson,D.B. and Bessler,M. (2005) Dyskeratosis
+congenita–a disease of dysfunctional telomere maintenance.
+Curr. Mol. Med., 5, 159–170.
+36. Rashid,R., Liang,B., Baker,D.L., Youssef,O.A., He,Y., Phipps,K.,
+Terns,R.M., Terns,M.P. and Li,H. (2006) Crystal structure of a
+Cbf5-Nop10-Gar1 complex and implications in RNA-guided
+pseudouridylation and dyskeratosis congenita. Mol. Cell, 21,
+249–260.
+37. Li,L. and Ye,K. (2006) Crystal structure of an H/
+ACA box ribonucleoprotein particle. Nature, 443, 302–307.
+38. Vulliamy,T., Marrone,A., Goldman,F., Dearlove,A., Bessler,M.,
+Mason,P.J. and Dokal,I. (2001) The RNA component of
+telomerase is mutated in autosomal dominant dyskeratosis
+congenita. Nature, 413, 432–435.
+39. Vulliamy,T., Marrone,A., Szydlo,R., Walne,A., Mason,P.J. and
+Dokal,I. (2004) Disease anticipation is associated with progressive
+telomere shortening in families with dyskeratosis congenita due to
+mutations in TERC. Nat. Genet., 36, 447–449.
+40. Fu,D. and Collins,K. (2003) Distinct biogenesis pathways for
+human telomerase RNA and H/ACA small nucleolar RNAs.
+Mol. Cell, 11, 1361–1372.
+41. Armanios,M., Chen,J.L., Chang,Y.P., Brodsky,R.A., Hawkins,A.,
+Griﬃn,C.A., Eshleman,J.R., Cohen,A.R., Chakravarti,A. et al.
+(2005) Haploinsuﬃciency of telomerase reverse transcriptase
+leads to anticipation in autosomal dominant dyskeratosis congenita.
+Proc. Natl Acad. Sci. USA, 102, 15960–15964.
+42. Vulliamy,T.J., Walne,A., Baskaradas,A., Mason,P.J., Marrone,A.
+and Dokal,I. (2005) Mutations in the reverse transcriptase
+component of telomerase (TERT) in patients with bone marrow
+failure. Blood Cells Mol. Dis., 34, 257–263.
+43. Ly,H., Calado,R.T., Allard,P., Baerlocher,G.M., Lansdorp,P.M.,
+Young,N.S. and Parslow,T.G. (2005) Functional characterization of
+telomerase RNA variants found in patients with hematologic
+disorders. Blood, 105, 2332–2339.
+44. Marrone,A., Stevens,D., Vulliamy,T., Dokal,I. and Mason,P.J.
+(2004) Heterozygous telomerase RNA mutations found in
+dyskeratosis congenita and aplastic anemia reduce telomerase
+activity via haploinsuﬃciency. Blood, 104, 3936–3942.
+45. Walne,A.J., Vulliamy,T., Marrone,A., Beswick,R., Kirwan,M.,
+Masunari,Y., Al-Qurashi,F.H., Aljurf,M. and Dokal,I. (2007)
+Genetic heterogeneity in autosomal recessive dyskeratosis
+congenita with one subtype due to mutations in the telomerase-
+associated protein NOP10. Hum. Mol. Genet, 16, 1619–1629.
+46. Collins,K. and Mitchell,J.R. (2002) Telomerase in the human
+organism. Oncogene, 21, 564–579.
+47. Vulliamy,T.J., Knight,S.W., Mason,P.J. and Dokal,I. (2001) Very
+short telomeres in the peripheral blood of patients with X-linked
+and autosomal dyskeratosis congenita. Blood Cells Mol. Dis., 27,
+353–357.
+48. Alter,B.P., Baerlocher,G.M., Savage,S.A., Chanock,S.J.,
+Weksler,B.B., Willner,J.P., Peters,J.A., Giri,N. and Lansdorp,P.M.
+(2007) Very short telomere length by ﬂow FISH identiﬁes patients
+with Dyskeratosis Congenita. Blood. (Epub ahead of print).
+49. Goldman,F., Bouarich,R., Kulkarni,S., Freeman,S., Du,H.Y.,
+Harrington,L., Mason,P.J., Londono-Vallejo,A. and Bessler,M.
+(2005) The eﬀect of TERC haploinsuﬃciency on the inheritance of
+telomere length. Proc. Natl Acad. Sci. USA, 102, 17119–17124.
+50. Ashley,C.T.Jr and Warren,S.T. (1995) Trinucleotide repeat
+expansion and human disease. Annu. Revi. Genet., 29, 703–728.
+51. Dokal,I., Bungey,J., Williamson,P., Oscier,D., Hows,J. and
+Luzzatto,L. (1992) Dyskeratosis congenita ﬁbroblasts are
+abnormal and have unbalanced chromosomal rearrangements.
+Blood, 80, 3090–3096.
+52. Marsh,J.C., Will,A.J., Hows,J.M., Sartori,P., Darbyshire,P.J.,
+Williamson,P.J., Oscier,D.G., Dexter,T.M. and Testa,N.G. (1992)
+‘‘Stem cell’’ origin of the hematopoietic defect in dyskeratosis
+congenita. Blood, 79, 3138–3144.
+53. Dokal,I. and Vulliamy,T. (2003) Dyskeratosis congenita: its link to
+telomerase and aplastic anaemia. Blood Rev., 17, 217–225.
+54. Fogarty,P.F., Yamaguchi,H., Wiestner,A., Baerlocher,G.M.,
+Sloand,E., Zeng,W.S., Read,E.J., Lansdorp,P.M. and
+7414 Nucleic Acids Research, 2007, Vol. 35, No. 22
+Young,N.S. (2003) Late presentation of dyskeratosis congenita as
+apparently acquired aplastic anaemia due to mutations in
+telomerase RNA. Lancet, 362, 1628–1630.
+55. Vulliamy,T., Marrone,A., Dokal,I. and Mason,P.J. (2002)
+Association between aplastic anaemia and mutations in telomerase
+RNA. Lancet, 359, 2168–2170.
+56. Yamaguchi,H., Baerlocher,G.M., Lansdorp,P.M., Chanock,S.J.,
+Nunez,O., Sloand,E. and Young,N.S. (2003) Mutations of the
+human telomerase RNA gene (TERC) in aplastic anemia and
+myelodysplastic syndrome. Blood, 102, 916–918.
+57. Ortmann,C.A., Niemeyer,C.M., Wawer,A., Ebell,W., Baumann,I.
+and Kratz,C.P. (2006) TERC mutations in children with refractory
+cytopenia. Haematologica, 91, 707–708.
+58. Xin,Z.T., Beauchamp,A.D., Calado,R.T., Bradford,J.W.,
+Regal,J.A., Shenoy,A., Liang,Y., Lansdorp,P.M., Young,N.S. and
+Ly,H. (2007) Functional characterization of natural telomerase
+mutations found in patients with hematologic disorders. Blood, 109,
+524–532.
+59. Field,J.J., Mason,P.J., An,P., Kasai,Y., McLellan,M., Jaeger,S.,
+Barnes,Y.J., King,A.A., Bessler,M. et al. (2006) Low frequency of
+telomerase RNA mutations among children with aplastic anemia or
+myelodysplastic syndrome. J Pediatr. Hematol. Oncol., 28, 450–453.
+60. Keith,W.N., Vulliamy,T., Zhao,J., Ar,C., Erzik,C., Bilsland,A.,
+Ulku,B., Marrone,A., Mason,P.J. et al. (2004) A mutation in a
+functional Sp1 binding site of the telomerase RNA gene (hTERC)
+promoter in a patient with Paroxysmal Nocturnal
+Haemoglobinuria. BMC Blood Disord., 4, 3.
+61. Yamaguchi,H., Calado,R.T., Ly,H., Kajigaya,S., Baerlocher,G.M.,
+Chanock,S.J., Lansdorp,P.M. and Young,N.S. (2005) Mutations in
+TERT, the gene for telomerase reverse transcriptase, in aplastic
+anemia. N. Engl. J. Med., 352, 1413–1424.
+62. Liang,J., Yagasaki,H., Kamachi,Y., Hama,A., Matsumoto,K.,
+Kato,K., Kudo,K. and Kojima,S. (2006) Mutations in telomerase
+catalytic protein in Japanese children with aplastic anemia.
+Haematologica, 91, 656–658.
+63. Thornley,I., Dror,Y., Sung,L., Wynn,R.F. and Freedman,M.H.
+(2002) Abnormal telomere shortening in leucocytes of children with
+Shwachman-Diamond syndrome. Br. J. Haematol., 117, 189–192.
+64. Dror,Y. (2005) Shwachman-Diamond syndrome. Pediatr. Blood
+Cancer, 45, 892–901.
+65. Boocock,G.R., Morrison,J.A., Popovic,M., Richards,N., Ellis,L.,
+Durie,P.R. and Rommens,J.M. (2003) Mutations in SBDS are
+associated with Shwachman-Diamond syndrome. Nat. Genet., 33,
+97–101.
+66. Calado,R.T., Graf,S.A., Wilkerson,K.L., Kajigaya,S., Ancliﬀ,P.J.,
+Dror,Y., Chanock,S.J., Lansdorp,P.M. and Young,N.S. (2007)
+Mutations in the SBDS gene in acquired aplastic anemia. Blood,
+110, 1141–1146.
+67. Ball,S.E., Gibson,F.M., Rizzo,S., Tooze,J.A., Marsh,J.C. and
+Gordon-Smith,E.C. (1998) Progressive telomere shortening in
+aplastic anemia. Blood, 91, 3582–3592.
+68. Brummendorf,T.H., Maciejewski,J.P., Mak,J., Young,N.S. and
+Lansdorp,P.M. (2001) Telomere length in leukocyte subpopulations
+of patients with aplastic anemia. Blood, 97, 895–900.
+69. Lee,J.J., Kook,H., Chung,I.J., Na,J.A., Park,M.R., Hwang,T.J.,
+Kwak,J.Y., Sohn,S.K. and Kim,H.J. (2001) Telomere length
+changes in patients with aplastic anaemia. Br. J. Haematol., 112,
+1025–1030.
+70. Karadimitris,A., Araten,D.J., Luzzatto,L. and Notaro,R. (2003)
+Severe telomere shortening in patients with paroxysmal nocturnal
+hemoglobinuria aﬀects both GPI- and GPI+ hematopoiesis. Blood,
+102, 514–516.
+71. Leteurtre,F., Li,X., Guardiola,P., Le Roux,G., Sergere,J.C.,
+Richard,P., Carosella,E.D. and Gluckman,E. (1999) Accelerated
+telomere shortening and telomerase activation in Fanconi’s
+anaemia. Br. J. Haematol., 105, 883–893.
+72. Gross,T.J. and Hunninghake,G.W. (2001) Idiopathic pulmonary
+ﬁbrosis. N. Engl. J. Med., 345, 517–525.
+73. Conkright,J.J., Na,C.L. and Weaver,T.E. (2002) Overexpression of
+surfactant protein-C mature peptide causes neonatal lethality in
+transgenic mice. Am. J. Respir. Cell Mol. Biol., 26, 85–90.
+74. Raghu,G., Weycker,D., Edelsberg,J., Bradford,W.Z. and Oster,G.
+(2006) Incidence and prevalence of idiopathic pulmonary ﬁbrosis.
+Am. J. Respir. Crit. Care Med., 174, 810–816.
+75. Baumgartner,K.B., Samet,J.M., Stidley,C.A., Colby,T.V. and
+Waldron,J.A. (1997) Cigarette smoking: a risk factor for idiopathic
+pulmonary ﬁbrosis. Am. J. Respir. Crit. Care Med., 155, 242–248.
+76. American Thoracic Society/European Respiratory Society
+International Multidisciplinary Consensus Classiﬁcation of the
+Idiopathic Interstitial Pneumonias (2002). This joint statement of
+the American Thoracic Society (ATS), and the European
+Respiratory Society (ERS) was adopted by the ATS board of
+directors, June 2001 and by the ERS Executive Committee, June
+2001. Am. J. Respir. Crit. Care Med., 165, 277–304.
+77. Katzenstein,A.L. and Myers,J.L. (1998) Idiopathic pulmonary
+ﬁbrosis: clinical relevance of pathologic classiﬁcation. Am. J. Respir.
+Crit. Care Med., 157, 1301–1315.
+78. Marshall,R.P., Puddicombe,A., Cookson,W.O. and Laurent,G.J.
+(2000) Adult familial cryptogenic ﬁbrosing alveolitis in the United
+Kingdom. Thorax, 55, 143–146.
+79. Hodgson,U., Laitinen,T. and Tukiainen,P. (2002) Nationwide
+prevalence of sporadic and familial idiopathic pulmonary ﬁbrosis:
+evidence of founder eﬀect among multiplex families in Finland.
+Thorax, 57, 338–342.
+80. Nadrous,H.F., Myers,J.L., Decker,P.A. and Ryu,J.H. (2005)
+Idiopathic pulmonary ﬁbrosis in patients younger than 50 years.
+Mayo. Clin. Proc., 80, 37–40.
+81. Loyd,J.E. (2003) Pulmonary ﬁbrosis in families. Am. J. Respir. Cell
+Mol. Biol., 29, S47–S50.
+82. Lee,H.L., Ryu,J.H., Wittmer,M.H., Hartman,T.E., Lymp,J.F.,
+Tazelaar,H.D. and Limper,A.H. (2005) Familial idiopathic
+pulmonary ﬁbrosis: clinical features and outcome. Chest, 127,
+2034–2041.
+83. Steele,M.P., Speer,M.C., Loyd,J.E., Brown,K.K., Herron,A.,
+Slifer,S.H., Burch,L.H., Wahidi,M.M., Phillips,J.A.III et al. (2005)
+Clinical and pathologic features of familial interstitial pneumonia.
+Am. J. Respir. Crit. Care Med., 172, 1146–1152.
+84. Johnston,I., Britton,J., Kinnear,W. and Logan,R. (1990) Rising
+mortality from cryptogenic ﬁbrosing alveolitis. BMJ, 301,
+1017–1021.
+85. Johnston,I.D., Prescott,R.J., Chalmers,J.C. and Rudd,R.M. (1997)
+British Thoracic Society study of cryptogenic ﬁbrosing alveolitis:
+current presentation and initial management. Fibrosing Alveolitis
+Subcommittee of the Research Committee of the British Thoracic
+Society. Thorax, 52, 38–44.
+86. Armanios,M.Y., Chen,J.J., Cogan,J.D., Alder,J.K., Ingersoll,R.G.,
+Markin,C., Lawson,W.E., Xie,M., Vulto,I. et al. (2007) Telomerase
+mutations in families with idiopathic pulmonary ﬁbrosis. N. Engl. J.
+Med., 356, 1317–1326.
+87. Tsakiri,K.D., Cronkhite,J.T., Kuan,P.J., Xing,C., Raghu,G.,
+Weissler,J.C., Rosenblatt,R.L., Shay,J.W. and Garcia,C.K. (2007)
+Adult-onset pulmonary ﬁbrosis caused by mutations in telomerase.
+Proc. Natl Acad. Sci. USA, 104, 7552–7557.
+88. Ly,H., Schertzer,M., Jastaniah,W., Davis,J., Yong,S.L., Ouyang,Q.,
+Blackburn,E.H., Parslow,T.G. and Lansdorp,P.M. (2005)
+Identiﬁcation and functional characterization of 2 variant alleles of
+the telomerase RNA template gene (TERC) in a patient with
+dyskeratosis congenita. Blood, 106, 1246–1252.
+89. Blasco,M.A., Rizen,M., Greider,C.W. and Hanahan,D. (1996)
+Diﬀerential regulation of telomerase activity and telomerase RNA
+during multi-stage tumorigenesis. Nat. Genet., 12, 200–204.
+90. Kedde,M., le Sage,C., Duursma,A., Zlotorynski,E., van
+Leeuwen,B., Nijkamp,W., Beijersbergen,R. and Agami,R. (2006)
+Telomerase-independent regulation of ATR by human telomerase
+RNA. J. Biol. Chem., 281, 40503–40514.
+91. Morla,M., Busquets,X., Pons,J., Sauleda,J., MacNee,W. and
+Agusti,A.G. (2006) Telomere shortening in smokers with and
+without COPD. Eur. Respir. J., 27, 525–528.
+92. Rawlins,E.L. and Hogan,B.L. (2006) Epithelial stem cells of the
+lung: privileged few or opportunities for many? Development
+(Cambridge,England), 133, 2455–2465.
+93. Fridlender,Z.G., Cohen,P.Y., Golan,O., Wallach-Dayan,S. and
+Breuer,R. (2007) Telomerase activity in bleomycin-induced epithe-
+lial cell apoptosis and lung ﬁbrosis. Eur. Respir. J.
+94. Driscoll,B., Buckley,S., Bui,K.C., Anderson,K.D. and
+Warburton,D. (2000) Telomerase in alveolar epithelial
+development and repair. Am. J. Physiol. Lung Cell Mol. Physiol.,
+279, L1191–1198.
+Nucleic Acids Research, 2007, Vol. 35, No. 22 7415
+95. Benetos,A., Gardner,J.P., Zureik,M., Labat,C., Xiaobin,L.,
+Adamopoulos,C., Temmar,M., Bean,K.E., Thomas,F. et al. (2004)
+Short telomeres are associated with increased carotid
+atherosclerosis in hypertensive subjects. Hypertension, 43, 182–185.
+96. Okuda,K., Khan,M.Y., Skurnick,J., Kimura,M., Aviv,H. and
+Aviv,A. (2000) Telomere attrition of the human abdominal aorta:
+relationships with age and atherosclerosis. Atherosclerosis, 152,
+391–398.
+97. Samani,N.J., Boultby,R., Butler,R., Thompson,J.R. and
+Goodall,A.H. (2001) Telomere shortening in atherosclerosis.
+Lancet, 358, 472–473.
+98. Cawthon,R.M., Smith,K.R., O’Brien,E., Sivatchenko,A. and
+Kerber,R.A. (2003) Association between telomere length in blood
+and mortality in people aged 60 years or older. Lancet, 361, 393–395.
+99. Valdes,A.M., Richards,J.B., Gardner,J.P., Swaminathan,R.,
+Kimura,M., Xiaobin,L., Aviv,A. and Spector,T.D. (2007)
+Telomere length in leukocytes correlates with bone mineral density
+and is shorter in women with osteoporosis. Osteoporos. Int.(Epub
+ahead of print).
+100. Valdes,A.M., Andrew,T., Gardner,J.P., Kimura,M., Oelsner,E.,
+Cherkas,L.F., Aviv,A. and Spector,T.D. (2005) Obesity,
+cigarette smoking, and telomere length in women. Lancet, 366,
+662–664.
+101. Zhu,C.H., Mouly,V., Cooper,R.N., Mamchaoui,K., Bigot,A.,
+Shay,J.W., Di Santo,J.P., Butler-Browne,G.S. and Wright,W.E.
+(2007) Cellular senescence in human myoblasts is overcome by
+human telomerase reverse transcriptase and cyclin-dependent
+kinase 4: consequences in aging muscle and therapeutic
+strategies for muscular dystrophies. Aging Cell, 6, 515–523.
+102. Eﬀros,R.B. (2007) Telomerase induction in T cells: a cure for
+aging and disease? Exp. Gerontol., 42, 416–420.
+103. Chen,J.L., Blasco,M.A. and Greider,C.W. (2000)
+Secondary structure of vertebrate telomerase RNA. Cell, 100,
+503–514.
+104. Jacobs,S.A., Podell,E.R. and Cech,T.R. (2006) Crystal
+structure of the essential N-terminal domain of
+telomerase reverse transcriptase. Nat. Struct. Mol. Biol., 13,
+218–225.
+105. Banik,S.S., Guo,C., Smith,A.C., Margolis,S.S., Richardson,D.A.,
+Tirado,C.A. and Counter,C.M. (2002) C-terminal regions of the
+human telomerase catalytic subunit essential for in vivo enzyme
+activity. Mol. Cell Biol., 22, 6234–6246.
+7416 Nucleic Acids Research, 2007, Vol. 35, No. 22
+

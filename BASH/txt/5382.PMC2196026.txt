@@ -1,0 +1,1245 @@
+517 J. Exp. Med. © The Rockefeller University Press • 0022-1007/97/02/517/14 $2.00
+Volume 185, Number 3, February 3, 1997 517–530
+Virus-induced Transient Bone Marrow Aplasia: Major
+Role of Interferon-␣/␤ during Acute Infection with the
+Noncytopathic Lymphocytic Choriomeningitis Virus
+By Daniel Binder,*‡ Jörg Fehr,‡ Hans Hengartner,*
+and Rolf M. Zinkernagel*
+From the *Institute of Experimental Immunology, Department of Pathology, University Hospital of
+Zürich, CH-8091 Zürich, Switzerland; and the ‡Division of Hematology, Department of Internal
+Medicine, University Hospital of Zürich, CH-8091 Zürich, Switzerland
+Summary
+The hematologic consequences of infection with the noncytopathic lymphocytic choriomen-
+ingitis virus (LCMV) were studied in wild-type mice with inherent variations in their inter-
+feron (IFN)-␣/␤ responder ability and in mutant mice lacking ␣/␤ (IFN-␣/␤ R0/0) or ␥ IFN
+(IFN-␥ R0/0) receptors. During the first week of infection, wild type mice demonstrated a
+transient pancytopenia. Within a given genetic background, the extent of the blood cell abnor-
+malities did not correlate with the virulence of the LCMV isolate but variations were detected
+between different mouse strains; they were found to depend on their IFN-␣/␤ responder phe-
+notype. Whereas IFN-␥ R0/0 mice were comparable to wild-type mice, IFN-␣/␤ R0/0 mice
+exhibited unchanged peripheral blood values during acute LCMV infection. In parallel, the bone
+marrow (BM) cellularity, the pluripotential and committed progenitor compartments were up
+to 30-fold reduced in wild type and IFN-␥ R0/0, but remained unchanged in IFN-␣/␤ R0/0
+mice. Viral titers in BM 3 d after LCMV infection were similar in these mice, but antigen lo-
+calization was different. Viral antigen was predominantly confined to stromal BM in normal
+mice and IFN-␥ R0/0 knockouts, whereas, in IFN-␣/␤ R0/0 mice, LCMV was detected in
+Ͼ90% of megakaryocytes and 10–15% of myeloid precursors, but not in erythroblasts. Al-
+though IFN-␣/␤ efficiently prevented viral replication in potentially susceptible hematopoietic
+cells, even in overwhelming LCMV infection, unlimited virus multiplication in platelet and
+myeloid precursors in IFN-␣/␤ R0/0 mice did not interfere with the number of circulating
+blood cells. Natural killer (NK) cell expansion and activity in the BM was comparable on day 3
+after infection in mutant and control mice. Adaptive immune responses did not play a major
+role because comparable kinetics of LCMV-induced pancytopenia and transient depletion of
+the pluripotential and committed progenitor compartments were observed in CD80/0 and
+CD40/0 mice, in mice depleted of NK cells, in lpr mice, and in perforin-deficient (P0/0) mice
+lacking lytic NK cells. Thus, the reversible depression of hematopoiesis during early LCMV in-
+fection was not mediated by LCMV-WE–specific cytotoxic T lymphocyte, cytolysis, or se-
+creted IFN-␥ from virally induced NK cells but was a direct effect of IFN-␣/␤.
+Viral infections are frequently associated with a transient
+reduction of the number of circulating blood cells as a
+consequence of bone marrow (BM)1 suppression. If virus-
+induced dysfunction of the BM is severe, secondary bacte-
+rial invasion or bleeding may be lethal for the host (1). The
+majority of viruses inducing abnormalities of hematopoiesis
+are non- or poorly cytopathic for blood cells or have no
+known tropism for blood cell precursors (for review see
+reference 2). In vivo, few data analyzing virus and/or host
+mechanisms of suppressed BM function are available. In
+vitro, some viruses may interfere with the proliferation and
+maturation of hematopoietic progenitors by infecting stro-
+mal fibroblasts (e.g., cytomegalovirus [3]) or BM macro-
+phages (e.g., human immunodeficiency virus [4]). More-
+over, there is evidence suggesting a critical role of the
+host’s own immune response in causing BM suppression
+in several virus infections (5, 6). Lymphocytic choriomen-
+ingitis virus (LCMV) is a non-cytopathic RNA virus for
+1Abbrevations used in this paper: BFU-E, burst-forming unit-erythroid; BM,
+bone marrow; CBC, cellular blood count; CFU-GM, colony-forming
+unit-granulocyte/macrophage; CFU-Meg, colony-forming unit-mega-
+karyocyte; CFU-S, colony-forming unit-spleen; hEpo, human erythro-
+poietin; LCMV, lymphocytic choriomeningitis virus; mTPO, murine
+thrombopoietin.
+518 LCMV-induced Transient Bone Marrow Aplasia
+which many aspects of viral immunobiology have been
+studied in great detail (7, 8). Although mice are the natural
+host and reservoir for LCMV (9, 10), occasional transmis-
+sion to laboratory workers has been followed by mild ab-
+normalities of the cellular blood count (CBC) (11). Only
+very rarely, a fatal hemorrhagic disease has been observed
+in humans (12), but it occurs in guinea pigs (9, 10). In sev-
+eral other arenavirus infections (e.g., Machupo, Junin, and
+Tamiami viruses), hemorrhagic fever, widespread necrosis
+in the lymphatic tissue, and a global depression of BM are
+consistently found (9, 13). Few studies analyzed the mecha-
+nism of LCMV-induced hematopoietic dysfunction (14–16);
+some have speculated that LCMV-induced radioresistant
+NK cells caused the hematopoietic abnormalities (17). The
+respective role of the effects of soluble cytokines, NK or T
+cells or LCMV itself, interfering with BM function, how-
+ever, were not assessed in these studies.
+The control of a primary LCMV infection and successful
+virus elimination from infected organs depends on virus
+specific CTL (18). These protective CTL have also been
+shown to cause immunopathological disease dependent
+upon virus and host parameters and according to the domi-
+nant early location of the infection, i.e., choriomeningitis
+after intracerebral infection, hepatitis after systemic infec-
+tion, and footpad swelling after local subcutaneous infec-
+tion (19). Therefore, it would be expected that at least
+part of the BM suppression seen during LCMV infection
+might also be caused by T cell–mediated immunopathol-
+ogy. Type I IFNs (IFN-␣/␤) and type II IFNs (IFN-␥)
+play an important role in the early phase of infection. They
+inhibit unlimited viral replication before antiviral effector
+CTL are induced and thereby prevent exhaustion of virus-
+specific CTL (20, 21). In parallel with the IFN-␣/␤ re-
+sponse, NK cells become activated, proliferate, and infil-
+trate infected tissue (22, 23). Effector functions of NK cells
+elicited during LCMV infection involve perforin-mediated
+cytolysis of infected target cells (24) and/or cytokines pro-
+duced by NK cells, such as IFN-␥ (25) or TNF-␣ (26). In
+tissue culture systems, these cytokines have been found to
+inhibit hematopoietic progenitor cell growth (27). In one
+report, minute amounts of Fas ligand on the surface of
+freshly isolated murine NK cells were demonstrated; how-
+ever, there is still contradictory evidence for Fas-mediated
+cytotoxicity of NK cells against Fas-expressing targets and
+its functional role in vivo remains to be established (28, 29).
+Therefore, murine LCMV infections offer an experi-
+mental model to analyze pathogenesis of BM suppression
+and virus-induced hemorrhagic fever. The present study
+attempts to explore the respective role of innate resistance
+or immune mechanisms versus that of specific immunity in
+the dysregulation of hematopoiesis in vivo during the acute
+phase of LCMV infection. By comparing wild-type with
+mutant mice, which had inactivated IFN-␣/␤ receptors
+(IFN-␣/␤ R0/0) or IFN-␥ receptors (IFN-␥ R0/0), the fol-
+lowing questions were addressed. First, are IFNs, acting via
+IFN R expressed on pluripotential or on lineage-commit-
+ted hematopoietic progenitors, involved in early LCMV-
+induced hematopoietic suppression, and what is the respec-
+tive role of IFN-␣/␤ and that of IFN-␥? Second, does the
+absence of IFN R expression interfere with LCMV-induced
+NK cell activation, and what are the consequences of possi-
+bly activated NK cells for hematopoietic cells in vivo?
+Third, the LCMV-induced effects on circulating blood
+cells and blood cell precursors were analyzed under condi-
+tions of NK cell depletion with a mAb, absent expression
+of Fas on hematopoietic cells, or lack of perforin produced
+by NK cells, or of deficiency of CD8ϩ or CD4ϩ T cells.
+The results show a major role for IFN-␣/␤ but neither of
+IFN-␥, nor of perforin nor of Fas and neither of NK nor of
+T cells during the first 7 d of LCMV infection. Impor-
+tantly, in absence of a functional IFN-␣/␤ R, extensive vi-
+rus replication of LCMV in megakaryocytes and, to a lesser
+extent, in myeloid precursors appeared not to interfere
+with maturation and release of differentiated blood cells,
+including platelets, into circulation.
+Materials and Methods
+Mice. Mice with a homozygous inactivation of the IFN-␣/␤
+receptor (IFN-␣/␤ R0/0) and those lacking the IFN-␥ receptor
+(IFN-␥ R0/0) have been described previously (21, 30). These mu-
+tant mice have a pure 129Sv/Ev (H-2b) genetic background and
+129Sv/Ev mice were used as controls in all experiments. The an-
+tiviral immune response of knockout mice devoid of CD8ϩ
+(CD80/0) (31) or CD4ϩ (CD40/0) (32) T cells or with a disrupted
+perforin gene (P0/0) (24) have been reported before. CD80/0 mu-
+tants have a pure C57BL/6 (H-2b) background and CD40/0 mice
+have been backcrossed four times to C57BL/6 mice. CD40/0,
+CD80/0, and P0/0 mice were compared with normal C57BL/6
+mice in all experiments. Knockout mice, C57BL/6, DBA/2, and
+BALB/c mice were obtained from the breeeding colony at the
+Institut für Versuchstierkunde (University of Zürich, Switzer-
+land); CBA/J and C57BL/6 lpr/lpr mice were purchased from
+BRL (Füllinsdorf, Switzerland), and C3H/HeJ from Harlan Olac,
+Ltd. (Zeist, Netherlands). All mouse strains were kept under spe-
+cific pathogen-free conditions. Sex-matched mice of 8–12 wk of
+age were used. The animal protection law of the Kanton of
+Zürich limits numbers of mice to be used in experiments, partic-
+ularly if disease is severe; therefore, experiments generally were
+repeated two times with groups of 2–4 mice.
+Virus. LCMV-WE was originally obtained from Dr. F. Leh-
+mann-Grube (Hamburg, Germany) (9) and LCMV-Docile (a var-
+iant isolated from a LCMV-WE(UBC)-carrier mouse) was ob-
+tained from Dr. C.J. Pfau (Troy, NY) (33) as a plaque-purified
+second passage virus. The original LCMV–Armstrong isolate was
+obtained from Dr. M.B.A. Oldstone (Scripps Clinic and Re-
+search Foundation, La Jolla, CA) (34). Second passage virus de-
+rived from plaque-purified isolates was propagated on BHK cells
+(Armstrong) or L929-fibroblast cells (WE) or MDCK cells (Doc-
+ile). The viruses were titrated using an immunological focus assay,
+which is two to threefold less sensitive than virus titers detected
+by in vivo infection (35). LCMV titers of BM cells are presented
+as PFU per 106 nucleated BM cells.
+Peripheral Blood Values and BM Cytology. Blood samples (40
+␮l) were obtained from the retro bulbar plexus of ether-anesthe-
+tized mice; they were diluted 1:5 in electro-coated EDTA micro-
+tainer tubes (Becton Dickinson, Mountain View, CA) containing
+DMEM ϩ 5% FCS. CBC were then determined in a hemocy-
+tometer using mouse-specific discriminator settings (TECHNI-
+519 Binder et al.
+CON H1®, Technicon Instruments Corp., Tarrytown, NY), and
+the differential white blood cell count was defined microscopi-
+cally by scoring blood smears stained with May-Grünwald-Giemsa.
+Reticulocyte counts were quantitated by flow cytometry (SYS-
+MEX R 3000®, Toa Medical Electronics, Kobe, Japan). BM was
+obtained by flushing femora and/or tibiae with a 25-gauge nee-
+dle; differential counts of 200 cells were determined on May-
+Grünwald-Giemsa, chloracetate esterase, ␣-naphthyl butyrate es-
+terase, or Sudan black B stained smears.
+Pluripotential and Committed Progenitor Assays. The pluripoten-
+tial hematopoietic progenitor pool (CFU-S) of LCMV-infected
+mice was enumerated as described before (36). Recipient mice
+were immunized with 102 PFU LCMV-WE. 2–3 wk later these
+mice were lethally irradiated (9 Gy), and within 3 h were recon-
+stituted intravenously with 104 or 105 syngeneic sex-matched BM
+cells from acutely infected or uninfected control mice. The ratio-
+nale in preimmunizing recipient mice was to prevent growth in-
+hibition of the transplanted CFU-S by cotransferred virus from
+infected mice, which activates innate effector mechanisms in the
+naive unprimed recipient and thus would alter the CFU-S con-
+tent in question (14). 8 d after irradiation, the recipient mice were
+killed and the spleens fixed in Tellesnicky’s fixative. Individual
+colonies visible on the surface of the spleen were counted under a
+dissecting microscope and the numbers of CFU-S per femur were
+calculated.
+Cell suspensions from BM in isotonic balanced salt solution
+(BSS) were counted and assessed for viability by Trypan blue ex-
+clusion before testing in vitro for colony formation. The culture
+mixture was prepared in IMDM supplemented with 5 ϫ 10Ϫ5
+mol/l 2-ME, penicillin–streptomycin, 0.9% methylcellulose, 30%
+FCS, 1% BSA in the presence of optimized concentrations of growth
+factors (mIL-3 [30 U/ml] and mGM-CSF [30 U/ml] for CFU-
+GM; mIL-3 [30 U/ml] and hEpo [5 U/ml] for BFU-E; mIL-3
+[30 U/ml] and mTPO [500 ng/ml] for CFU-Meg). Recombi-
+nant murine IL-3 and GM-CSF were obtained from PharMin-
+gen, Inc. (San Diego, CA), recombinant human erythropoietin
+was purchased from Cilag AG (Schaffhausen, Switzerland), and re-
+combinant murine thrombopoietin (mTPO) was a gift from Ge-
+nentech, Inc. (South San Francisco, CA). Total BM cells were
+plated at a concentration of 5 ϫ 104 cells/ml in duplicate plates.
+The cultures were incubated at 37ЊC in a humidified atmosphere
+containing 5% CO2 for 5–7 d (CFU-Meg), 7 d (CFU-GM), or 8 d
+(BFU-E) and individual colonies were scored by morphology.
+Colonies were defined as containing at least three large refractile
+cells for CFU-Meg (37) and Ͼ50 cells for CFU-GM. For the mi-
+croscopic identification of the cell type present, colonies were pe-
+riodically picked, spread on glass slides, and stained with May-
+Grünwald-Giemsa or acetylcholinesterase (megakaryocytes) for
+confirmation. Each experiment was performed using individual
+unpooled BM cells and results from four to eight culture plates
+were combined for each determination. The total number of col-
+onies per femur was calculated using the cellularity obtained for
+the individual BM.
+Immunocytochemistry Procedures. BM smears on slides were
+fixed in acetone for 10 min. The rat anti-LCMV mAb VL-4 was
+used as primary Ab and detected by an indirect immunoenzy-
+matic staining procedure using peroxidase-labeled goat anti–rat Ig
+(Tago; diluted 1:30), followed by alkaline phosphatase–labeled
+donkey anti–goat Ig (Jackson Immunoresearch Laboratories, Inc.,
+West Grove, PA; diluted 1:30). Smears were counterstained with
+Meyer’s hemalum (Kantonsapotheke, Zürich, Switzerland) for 2
+min. Percentages of infected BM cells were quantitated micro-
+scopically by counting at least 200 cells from one or more smears
+per individual mouse. The infected cell type was readily defined
+by the cytomorphology after counterstaining.
+Antibody and Poly I/C Treatment. Mice were treated intra-
+peritoneally with 1 mg of the IL-2R␤-specific mAb TM-␤1 (rat
+IgG2b) (38) or control normal rat IgG (Sigma Chemical Co., St.
+Louis, MO) in 500 ␮l of PBS. One single dose of Ab was injected
+2 d before virus challenge. Poly I/C (Serva, Heidelberg, Ger-
+many) was administered intravenously at a concentration of 200
+␮g/mouse 20 h before the cytotoxicity assay.
+Cytotoxicity Assays. NK cell activity of spleen and BM cells
+was determined by a 51Cr-release assay as described previously
+(20). In brief, mice were infected intravenously 3 d previously
+with LCMV. Doses and virus strains used are indicated in the re-
+sults. BM cells (pooled cells from both femora) were resuspended
+at 7 ϫ 106/ml in MEM plus 2% FCS. YAC-1 target cells were
+labeled with 1 ␮Ci of 51Cr sodium chromate for 1 h at 37Њ C,
+washed twice, and resuspended at 105/ml. Threefold dilutions of
+spleen cells were incubated with 100 ␮l of targets in 96-well mi-
+crotiter round-bottomed plates for 5 h. A total of 70 ␮l of the
+supernatant was assayed for released 51Cr. The percent-specific
+release of 51Cr was calculated as ([experimental release Ϫ sponta-
+neous release] ϫ 100/[total release Ϫ spontaneous release]). LU,
+a measure of relative cytolytic activity, was determined according
+to established methods to be the number of lymphocytes neces-
+sary to lyse 33% of the standard number of target cells during the
+standard test duration. LUs per femur were computed by dividing
+the total number of lymphocytes per organ by LU.
+Flow Cytometry. Single-cell suspensions of spleen or BM
+were preparated at 4ЊC in BSS containing 2% FCS and 0.2%
+NaN3. Cell surface markers were quantified by staining with mAbs
+conjugated with fluorochromes; the antibodies used were the fol-
+lowing: anti-CD4 and anti-CD8 (Becton Dickinson), anti-NK 1.1
+(PharMingen), anti-TER 119 (PharMingen). To analyze NK expan-
+sion, cells were triple stained with FITC-conjugated anti-CD8,
+FITC-conjugated anti-CD4, PE-conjugated NK 1.1, a biotiny-
+lated anti-erythroid (TER 119) Ab, and a Tricolor–streptavidin con-
+jugate. Multiparameter analysis was performed with a FACScan®
+(Becton Dickinson) using logarythmic scales. Viable cells were
+gated by forward and side scatter of light.
+Statistics. Hematologic data are presented as means Ϯ SD un-
+less stated otherwise. Virus titers are expressed as log10 of PFU per
+organ. Comparisons were made using the two-tailed unpaired
+Student’s t test, the analysis of variance (ANOVA), and the
+Scheffe’s post hoc procedure as appropriate. A P value of less than
+0.05 was regarded as significant.
+Results
+Abnormalities of the CBC in Acute LCMV Infection: Depen-
+dence upon Virus Isolate, Dose, and Genetic Background of
+Mice. The transient depression of the peripheral CBC
+during the first week of LCMV infection varied according
+to the virus dose and the different genetic backgrounds of
+the murine host. For all virus isolates tested, maximally de-
+creased blood values were observed between days 3 and 5
+after infection and were most prominent in the reticulo-
+cyte, granulocyte, and platelet compartments (in decreasing
+order of suppression). There was some variation in the ab-
+solute CBC of uninfected control mice between the differ-
+ent mouse strains (e.g., mean reticulocyte count: 182 ϫ
+106/ml in C57BL/6; 247 ϫ 106/ml in BALB/c mice);
+520 LCMV-induced Transient Bone Marrow Aplasia
+therefore, the relative decrease from baseline values (per-
+cent) was compared (as shown for reticulocytes; Table 1).
+Within one mouse strain, the extent of suppression of blood
+cell numbers did weakly correlate with the LCMV isolate,
+i.e., all blood cell parameters were comparably reduced on
+days 3–5 after infection in Armstrong-, WE-, or Docile-
+infected mice. However, between different mouse strains the
+CBC varied after infection with low LCMV doses (2 ϫ 102
+PFU): C57BL/6, CBA/J, and C3H/HeJ had lower relative
+reticulocyte (Table 1) and granulocyte counts than DBA/2
+and BALB/c mice; less stringently, the same pattern was
+observed in the platelet numbers (e.g., CBA/J, 83%; C3H/
+HeJ, 49%; and C57BL/6, 37% below baseline after LCMV-
+WE 2 ϫ 102 PFU). The magnitude of these variations be-
+tween different mouse strains was small but significant and
+correlated with the IFN-␣/␤ responder status (i.e., IFN-␣/␤
+high responders had a lower CBC than IFN-␣/␤ low re-
+sponders) as reported after infection with LCMV (39, 40).
+In contrast, infection with a high dose of LCMV (2 ϫ 106
+PFU) induced an extensive decrease of all blood cell parame-
+ters, to an extent that was comparable for all the mouse
+strains tested (Table 1, granulocytes 90–95%, platelets 78–
+95% below baseline). After infection with all three LCMV
+isolates, reductions in RBC counts were small. If the half-
+life of the mouse RBCs is taken into account (around 50
+d), it is probable that decreases from baseline were mainly
+due to repetitive individual blood sampling. Thus, high
+doses of LCMV (2 ϫ 106 PFU) induced a drastic transient
+pancytopenia with minimal values 3–5 d after infection, in-
+dependently of the virus isolate or the genetic background
+of mice. To avoid variations, high doses of LCMV-WE
+therefore were used for all subsequent experiments.
+Peripheral Blood Values of IFN R-deficient Mice after Acute
+Infection with LCMV. Because the responder phenotype
+of mice seemed to influence the severity of LCMV-induced
+blood cell abnormalities, peripheral hematologic parame-
+ters after LCMV infection were studied in mice with inac-
+tive receptors for IFN-␣/␤ (IFN-␣/␤ R0/0) or for IFN-␥
+(IFN-␥ R0/0). The hematologic status of uninfected recep-
+tor-deficient and wild-type mice maintained under specific
+pathogen-free conditions was identical (data not shown).
+Infection of 129Sv/Ev wild-type mice with a high dose of
+LCMV-WE (2 ϫ 106 PFU) resulted in the same kinetics of
+peripheral pancytopenia as seen in infected mice of other
+genetic backgrounds (Table 2). Starting on day 1 after in-
+fection, maximal depression of blood cell values was seen
+on days 3–5 with predominant abnormalities in the circu-
+lating reticulocyte (97% below baseline), platelet (65% be-
+low baseline), and neutrophil (72% below baseline) com-
+partments. All peripheral parameters returned near baseline
+values on day 7. A similar time course was observed for in-
+fected IFN-␥ R0/0 mice. In contrast, LCMV-WE–infected
+IFN-␣/␤ R0/0 mice showed stable hematologic parameters
+comparable to that of uninfected controls during the entire
+study period. When compared with infected wild-type or
+IFN-␥ R0/0 mice they had a 180–200-fold higher reticulo-
+cyte, a three- to fivefold increased platelet, and a two- to
+threefold increased neutrophil count on day 3 after infec-
+tion (Table 2).
+BM Analysis of LCMV-infected, IFN R-deficient, and Wild-
+type Mice. BM function was evaluated in wild-type and
+IFN R mutants after acute infection with LCMV–WE (2 ϫ
+106 PFU). Femoral cellularity of wild-type and IFN-␥ R0/0
+mice was reduced by half on day 1 after infection and re-
+duced to a minimum of 7% in wild-type mice and 11% of
+baseline values in IFN-␥ R0/0 mice on day 3, respectively
+(Fig. 1). Thereafter, total cellularity returned to normal val-
+ues in IFN-␥ R0/0 mice by day 7 and in wild-type mice by
+day 10. In contrast, IFN-␣/␤ R0/0 mice showed minimal
+changes in femoral cell content during the entire study pe-
+riod. In parallel, splenic cellularity decreased considerably un-
+til day 3 in wild-type and IFN-␥ R0/0 mice but remained
+unchanged in IFN-␣/␤ R0/0 mice (data not shown). Cyto-
+logical analysis of BM preparations on day 3 after infection
+Table 1. Influence of LCMV Isolate, Virus Dose, and IFN Responder Status on Circulating Reticulocytes 3 d after LCMV Infection
+Mouse strain H-2
+IFN peak titer
+(LCMV)‡
+Percent reduction of reticulocyte numbers in blood
+Low dose (2 ϫ 102 PFU)* High dose (2 ϫ 106 PFU)*
+Armstrong WE Docile Armstrong WE Docile
+C57BL/6 b h 50 Ϯ 4 60 Ϯ 7 52 Ϯ 8 96 Ϯ 1 96 Ϯ 1 ND
+DBA/2 d l 20 Ϯ 9 26 Ϯ 9 20 Ϯ 11 95 Ϯ 2 95 Ϯ 1 ND
+BALB/c d l 17 Ϯ 2 21 Ϯ 8 16 Ϯ 2 84 Ϯ 3 89 Ϯ 3 ND
+CBA/J k h 64 Ϯ 1 74 Ϯ 1 60 Ϯ 1 96 Ϯ 1 96 Ϯ 1 ND
+C3H/HeJ k h 61 Ϯ 7 69 Ϯ 7 52 Ϯ 4 ND ND ND
+*Mice were infected i.v. with the indicated doses of LCMV. Reticulocyte numbers were determined cytofluorometrically in blood collected from
+the retrobulbar plexus on day 3 after infection; values are presented as percent below baseline values, as determined in uninfected control mice. Indi-
+cated are means Ϯ SD of three mice.
+‡Relative serum IFN-␣/␤ peak titers as assessed after infection with different LCMV isolates (39, 40).
+521 Binder et al.
+revealed a marked deficiency of the nonmitotic mature cell
+population in wild-type and IFN-␥ R0/0 mice but not in
+IFN-␣/␤ R0/0 mice (Table 3). In wild-type and IFN-␥ R0/0
+mice, LCMV-WE infection resulted in a 2–2.4-fold reduc-
+tion of erythroid elements, which was more apparent
+when absolute cell numbers per femur were compared
+(wild type 0.4 ϫ 106; IFN-␥ R0/0, 0.7 ϫ 106; IFN-␣/␤
+R0/0, 4.5 ϫ 106). Polymorphnuclear granulocytes of wild-
+type and IFN-␥ R0/0 mice were reduced 3–3.4-fold and
+the proportion of early myeloid precursors (blasts, promye-
+locytes) was significantly increased by a factor of 2.5 when
+compared with IFN-␣/␤ R0/0 mice. The relative increase
+of marrow lymphocytes in wild-type and IFN-␥ R0/0 mice
+on day 3 after infection had disappeared by day 7; mono-
+cytes were slightly increased in both mutants and wild-type
+mice 7 d after LCMV-WE infection. The amount of mega-
+karyocytes was determined semiquantitatively and was two-
+to fourfold reduced in wild-type and IFN-␥ R0/0 mice, but
+unchanged in IFN-␣/␤ R0/0 mice during the entire study
+period.
+Analysis of committed hematopoietic progenitors 3 d af-
+ter infection with LCMV-WE showed a distinct effect on
+different lineages in the BM of wild-type and IFN-␥ R0/0
+mice: the absolute numbers of BFU-E and CFU-GM per
+femur were 30-fold below baseline levels and, to some
+lesser extent, also the numbers of CFU-Meg were reduced
+(20-fold) (Fig. 2). This was in contrast with IFN-␣/␤ R0/0
+mice, which, when compared with uninfected control mice,
+had normal or slightly increased numbers of all lineage-
+committed progenitors 3 d after LCMV-WE infection. In-
+fection with LCMV of wild-type and of IFN-␥ R0/0 mice
+resulted in much smaller sizes of colonies and the relative
+frequencies of all CFUs per plated BM cells were at least
+10-fold reduced as compared with IFN-␣/␤ R0/0 mice.
+We then examined the effect of LCMV-WE infection
+on the number of primitive clonal progenitors (CFU-S) de-
+pending on their expression of IFN R. Syngeneic lethally
+irradiated LCMV-WE immune mice of the 129Sv/Ev wild-
+type strain were used as recipients in these experiments.
+The absolute number of CFU-S per femur 3 d after in-
+Table 2. Kinetics of Peripheral Blood Values of Wild-type, IFN-␣/␤ R0/0, and IFN-␥ R0/0 Mice after Acute Infection with LCMV-WE
+Genotype
+Days after
+infection* RBC‡ Reticulocytes Platelets WBC Neutrophils
+Eosino-
+phils Lymphocytes Monocytes
+Wild type
+(Sv129/Ev) 1 9.1 Ϯ 0.5§ 110.2 Ϯ 9.2 635 Ϯ 44 3.3 Ϯ 1.0 0.9 Ϯ 0.2 Ͻ0.1 2.4 Ϯ 0.7 Ͻ0.1
+3 9.0 Ϯ 0.5 5.2 Ϯ 1.6 216 Ϯ 28 2.7 Ϯ 0.4 0.7 Ϯ 0.1 Ͻ0.1 2.0 Ϯ 0.3 Ͻ0.1
+7 8.0 Ϯ 0.2 106.5 Ϯ 21.0 381 Ϯ 42 15.1 Ϯ 3.6 7.1 Ϯ 1.7 Ͻ0.1 7.6 Ϯ 1.8 0.3 Ϯ 0.1
+IFN-␣/␤ R0/0 1 9.4 Ϯ 0.7 173.7 Ϯ 18.9 650 Ϯ 33 9.3 Ϯ 1.1 2.2 Ϯ 0.4 0.2 Ϯ 0.02 6.5 Ϯ 0.6 0.4 Ϯ 0.03
+3 8.9 Ϯ 0.4 183.8 Ϯ 23.3ʈ 530 Ϯ 26¶ 7.1 Ϯ 0.2 2.4 Ϯ 0.7** 0.1 Ϯ 0.01 4.3 Ϯ 0.2 0.2 Ϯ 0.01
+7 8.6 Ϯ 0.3 217.2 Ϯ 24.9 580 Ϯ 14 10.2 Ϯ 1.2 3.5 Ϯ 0.4 0.2 Ϯ 0.03 6.2 Ϯ 0.8 0.3 Ϯ 0.04
+IFN-␥ R0/0 1 9.1 Ϯ 0.2 124.6 Ϯ 25.1 508 Ϯ 34 1.5 Ϯ 0.3 0.4 Ϯ 0.1 Ͻ0.1 1.1 Ϯ 0.2 Ͻ0.1
+3 9.1 Ϯ 0.3 1.1 Ϯ 1.0ʈ 124 Ϯ 11¶ 4.4 Ϯ 0.6 1.2 Ϯ 0.2** Ͻ0.1 3.1 Ϯ 0.5 Ͻ0.1
+7 8.1 Ϯ 0.4 130.5 Ϯ 29.5 374 Ϯ 50 13.7 Ϯ 1.6 2.5 Ϯ 0.4 Ͻ0.1 10.5 Ϯ 1.3 0.73 Ϯ 0.15
+*Sex-matched 8–12-wk-old mice of the indicated genotype (129Sv/Ev background, H-2b) were infected i.v. with LCMV-WE (2 ϫ 106 PFU per
+mouse; four mice per group). Blood was collected from the retrobulbar plexus of individual mice at the indicated timepoints. Cellular blood values
+were quantified in hemocytometer and differential blood counts were determined microscopically from blood smears.
+‡RBC, total erythrocytes (ϫ109/ml); WBC, total leucocytes (ϫ106/ml); reticulocytes, platelets, neutrophils, eosinophils, lymphocytes, and mono-
+cytes (ϫ106/ml).
+§Data represent means Ϯ SD. Student’s t-tests for differences between LCMV-WE–infected IFN-␣/␤ R0/0 vs IFN-␥ R0/0 mice on day 3 after in-
+fection: ʈP Ͻ0.0001; ¶ P Ͻ0.0001; **P Ͻ0.01.
+Figure 1. Kinetics of BM cellularity after LCMV-WE infection. Mice
+of wild type genotype (open columns) or mutant mice with inactivated ␣/␤
+IFN (closed columns) or ␥ IFN (hatched columns) receptors were infected in-
+travenously with LCMV-WE (2 ϫ 106 PFU). At the indicated time-
+points, mice were killed and the absolute number of nucleated BM cells
+per femur was determined. The data represent mean Ϯ SD of 3–4 mice
+per group.
+522 LCMV-induced Transient Bone Marrow Aplasia
+fection with LCMV-WE was ‫-01ف‬fold reduced in wild-
+type and IFN-␥ R0/0 mice as compared with uninfected
+control mice of the same genotype (Fig. 3). In contrast,
+IFN-␣/␤ R0/0 mice had a normal or even higher fre-
+quency of CFU-S after LCMV-WE infection. Obvious
+differences in the mean size of the CFU-S obtained were
+observed, i.e., spleen colonies of uninfected wild-type and
+LCMV-WE-infected IFN-␣/␤ R0/0 mice had a three- to
+fourfold increase in diameter as compared with infected
+wild-type and IFN-␥ R0/0 mice.
+These results indicate that the abnormalities of circulat-
+ing blood cells observed early in LCMV-WE infection
+were caused by a marked deficiency of all functional com-
+partments of the BM. The reduction of the frequency of
+the pluripotential and the lineage-committed progenitors
+was much greater than that of the cytomorphologically dif-
+ferentiated population. This transient, LCMV-induced sup-
+pression of BM was abrogated in mice lacking a functional
+IFN-␣/␤ R, but not in mice deficient of the IFN-␥ R.
+Replication of LCMV-WE in Hematopoietic Cells Depending
+upon IFN R Expression. In vivo susceptibility to LCMV
+infection of wild-type and IFN R-deficient hematopoietic
+BM cells was evaluated for a high-dose (2 ϫ 106 PFU)
+challenge with LCMV-WE. Wild-type and IFN-␥ R0/0
+mice showed a similar kinetics of LCMV replication with
+slightly higher titers in IFN-␥ R0/0 mice 7 d after infection
+(Fig. 4). In contrast, IFN-␣/␤ R0/0 mice exhibited an en-
+hanced initial replication, i.e., the highest titer in the BM
+was reached already on day 1. All three groups showed a
+comparable maximal viral load of ‫6.5ف‬ log10 PFU/femur 3 d
+after virus inoculation. Thus, under high-dose conditions,
+absence of the IFN-␣/␤ R favored uncontrolled viral rep-
+Table 3. BM Cytology of Wild type, IFN-␣/␤ R0/0, and IFN-␥ R0/0 Mice Infected with LCMV-WE
+Genotype
+Days after
+infection* Megakaryocyte§
+Cell type (%)‡
+Erythroblast
+Myeloblast
+promyelocyte
+Myelocyte
+metamyelocyte
+band Polymorph Monocyte Lymphocyte
+Wild type Uninfected 17–25 35.5 Ϯ 1 9.5 Ϯ 1.8 36.5 Ϯ 2.8 7.7 Ϯ 1.5 0.8 Ϯ 0.3 10 Ϯ 1.4
+Wild type 3 4–11 15.5 Ϯ 1.4 28.5 Ϯ 1.3 37.5 Ϯ 2.5 4.0 Ϯ 1 Ͻ0.5 14.5 Ϯ 2.3
+IFN-␣/␤ R0/0 3 21–26 37.5 Ϯ 1.5 10.5 Ϯ 0.5 33.5 Ϯ 2.6 12.0 Ϯ 2 1.0 Ϯ 0.4 5.5 Ϯ 0.1
+IFN-␥ R0/0 3 8–13 17.0 Ϯ 1.8 28.5 Ϯ 1.8 39.5 Ϯ 3.2 3.5 Ϯ 0.5 Ͻ0.5 11.5 Ϯ 0.3
+*Sex-matched mice (8–12 wk) of different genotypes (three mice per group) were infected with LCMV-WE (2 ϫ 106 PFU). At the time points in-
+dicated, BM smears were stained with May-Günwald/Giemsa, chloracetate esterase, ␣-naphthyl butyrate esterase, and Sudan black B. Differential
+counts were obtained microscopically by counting 200 or more cells.
+‡Data are means Ϯ SD of the relative number of total cells per lineage. Eosinophils were included in granulocyte counts.
+§Numbers represent megakaryocytes per visual field at a magnification of ϫ80. They were determined semiquantitatively by counting at least four
+visual fields.
+Figure 2. Lineage-committed
+precursor cells in wild-type (open
+columns) or mutant (closed col-
+umns, IFN-␣/␤ R0/0; hatched col-
+umns, IFN-␥ R0/0) mice 3 d after
+LCMV-WE (2 ϫ 106 PFU) in-
+fection. Results are presented as
+the mean number (Ϯ SD) of
+BFU-E, CFU-GM, or CFU-
+Meg for duplicate methylcellu-
+lose cultures of total BM cells per
+femur. Pooled data from two in-
+dependent experiments with 2–3
+individual mice per group are
+shown.
+523 Binder et al.
+lication maximally in the initial phase of infection, but
+overall maximal viral loads in BM were not affected by the
+expression of IFN receptors (note that IFN-␣/␤ R0/0 mice
+become persistently infected with LCMV but titers are 1–2
+log10 lower in the chronic state than the peak virus titer
+measured on day 3 [21, 41]). The kind of BM cell permis-
+sive for LCMV replication was characterized in wild-type,
+IFN-␣/␤ R0/0, and IFN-␥ R0/0 mice at different time-
+points after infection (Fig. 5 A). Viral antigen was detected
+by an LCMV-WE–specific mAb on BM smears; in parallel,
+the type of infected hematopoietic cell was identified mi-
+croscopically by cytomorphologic criteria by counterstain-
+ing with Meyer’s hemalum. The prevalence of LCMV-
+WE–positive morphologically differentiated hematopoie-
+tic cells in wild-type and IFN-␥ R0/0 mice was low and did
+not exceed 20% of megakaryocytes and 0.5% of granulo-
+cytes at any timepoint of infection (Fig. 5 B). Virtually all
+detectable LCMV-specific antigen in wild-type and IFN-␥
+R0/0 mice was confined to stromal BM cells also on day 3,
+at times when highest LCMV titers were recovered. In
+contrast, in IFN-␣/␤ R0/0 mice Ͼ90% of megakaryocytes
+were positive for viral antigen 1 d after virus inoculation,
+‫%06ف‬ stained positively on day 3 and р50% of all mega-
+karyocytes remained infected during the following week.
+In addition, ‫%21ف‬ predominantly immature myeloid pre-
+cursors (promyelocytes, myelocytes) of IFN-␣/␤ R0/0 BM
+exhibited viral antigen peaking on day 3 after LCMV-WE
+infection (Fig. 5, A and B). In comparison to wild-type and
+IFN-␥ R0/0 mice, stromal BM cells of IFN-␣/␤ R0/0 mice
+were infected to a comparable extent. Interestingly, eryth-
+roblasts were resistant to LCMV-WE infection in all three
+mouse strains tested, i.e., the frequency of LCMV-positive
+erythroblasts in IFN-␣/␤ R0/0 mice was less than 1:800.
+NK Activity During Acute Infection with LCMV in IFN R-defi-
+cient Mice versus Wild-type Mice. Because IFN-␣/␤ plays an
+important role in NK responses and because NK cells
+might be involved in regulation of differentiation of stem
+cells, probably dependent upon MHC expression, the vari-
+ous mice used in this study were tested for NK activation
+in the BM. Earlier studies had shown that NK activity in
+spleens generated in IFN-␣/␤ R0/0 mice was drastically re-
+duced when compared with wild-type or IFN-␥ R0/0 mice
+(21). Primary ex vivo NK-mediated cytolysis was measured
+on YAC-1 targets. When compared at maximal effector to
+target ratios, a vigorous cytolytic NK activity was observed
+in the wild-type mice and, to some lesser extent, in the IFN-
+␣/␤ R0/0 and IFN-␥ R0/0 mice after infection with 2 ϫ
+106 PFU LCMV-WE (Fig. 6). Given the three- to fourfold
+reduction of marrow cellularity of wild-type and IFN-␥
+R0/0 mice, the absolute number of cytolytic NK cells in the
+BM (expressed as LU per femur) was two- to threefold
+higher in IFN-␣/␤ R0/0 mice. Interestingly, a comparable
+NK response was seen in BM after infection with a low
+dose of LCMV-WE (2 ϫ 102 PFU; data not shown) in
+both mutants and the wild-type strain, but not in IFN-␣/␤
+R0/0 mice treated with poly I/C. Next, we examined the
+LCMV-WE–induced NK proliferation in the BM by flow
+cytometry. A triple staining of total marrow cells using an
+erythroid-specific mAb (TER 119), a NK cell–specific
+mAb (NK 1.1), and a mixture of anti-CD8 and anti-CD4
+was performed 3 d after infection with 2 ϫ 106 PFU
+LCMV-WE. To increase sensitivity and detection levels of
+NK cells, subset analysis was performed with cells gated
+negatively on TER 119; this eliminated the high number
+of erythroid cells in uninfected mice. Baseline NK and
+CD4/CD8 percentages were comparable for uninfected
+wild-type and IFN R-deficient mice (Ͻ2%). After infec-
+tion, the percentage of NK 1.1-positive cells in the BM in-
+Figure 3. Number of pluripotential hematopoietic progenitors in the
+BM 3 d after infection with LCMV-WE (2 ϫ 106 PFU). 105 syngeneic
+BM cells of uninfected (open symbols) or infected (closed symbols) wild-type
+(129Sv/Ev, H-2b) or mutant (IFN-␣/␤ R0/0 or IFN-␥ R0/0, H-2b) donor
+mice were injected intravenously into lethally irradiated LCMV-immune
+recipient wild-type mice (129Sv/Ev, H-2b). CFU-S in the spleens were
+determined 8 d later. Each dot shows the number of colonies of an indi-
+vidual recipient. The horizontal lines represent the mean number of colo-
+nies per femur transferred from one individual donor mouse. The mean
+CFU-S of two individual donor mice per group are shown.
+Figure 4. Time kinetics of virus titers in the BM after infection with
+LCMV. Mice were infected intravenously with LCMV-WE (2 ϫ 106
+PFU) and virus titers were determined in 106 nucleated BM cells at the
+timepoints indicated. Data points are values for individual mice and the
+horizontal lines represent the mean of the indicated group.
+524 LCMV-induced Transient Bone Marrow Aplasia
+creased ninefold in wild-type mice, four- to fivefold in
+IFN-␣/␤ R0/0 mice, and six- to sevenfold in IFN-␥ R0/0
+mice (Fig. 7). To a lesser extent, an expansion of the CD4/
+CD8ϩ population was observed in the BM of wild-type
+and IFN-␥ R0/0 mice, whereas in the IFN-␣/␤ R0/0 mu-
+tant mice no significant increase in the percentage of CD4/
+CD8ϩ cells was detected on day 3 after infection. Thus,
+there was no correlation between NK activity in BM and
+susceptibility to LCMV-induced BM suppression.
+Hematologic Effects in Absence of Perforin- or FAS-mediated
+Cytolytic Effector Functions of NK Cells or Virus-specific CTL
+after LCMV-WE Infection. The correlation between LCMV-
+WE–associated changes of blood cells and NK activity was
+evaluated in infected C57BL/6 mice depleted of NK cells
+with TM-␤1 (38), in P0/0 mice, which show no cytolytic T
+cell or NK acitvity on susceptible target cells in vitro (24),
+and in lpr mutants with no functional Fas–Fas ligand inter-
+action. LCMV-WE–infected (2 ϫ 106 PFU) mice of all
+groups showed the same kinetics of blood cell depression as
+observed for wild-type C57BL/6 mice. On day 3 after viral
+inoculation, all groups had clearly reduced reticulocyte
+counts (82–98% below baseline), thrombocytopenia (75–
+82% below baseline), two- to fivefold reduction of neutro-
+phils, and some lymphopenia (Table 4). Mutant mice defi-
+cient for the CD8 or CD4 molecule were included in this
+experiment, because LCMV-specific CTL responses in
+these mice are either absent (CD80/0) (31) or partially
+(CD40/0) (32) reduced. Both of these LCMV-WE–infected
+mutant mouse strains showed a comparable pancytopenia
+on day 3, as did lpr, P0/0, normal rat IgG–treated mice, and
+TM-␤1–treated mice. TM-␤1 treatment 2 d before
+LCMV-WE infection efficiently eliminated NK-mediated
+cytolytic activity on sensitive YAC-1 targets when compared
+with normal rat IgG–treated controls (Table 4).
+To assess potential effects of perforin- or Fas-dependent
+early induced CTL on pluripotential and lineage-commit-
+ted progenitors, a quantitative analysis of hematopoietic
+precursors was performed in CD40/0, CD80/0, P0/0, and lpr
+mice infected with 2 ϫ 106 PFU of LCMV-WE (Table 5).
+The absolute numbers of BFU-E, CFU-GM, and CFU-Meg
+per femur did not differ significantly between the mutant
+mouse strains tested on day 3 of infection and all values
+were in the range of 72–85% below baseline levels. BFU-E
+and CFU-GM of these four mouse strains were less affected
+by LCMV when compared with infected wild-type 129Sv/
+Ev and IFN-␥ R0/0 mice. This finding suggested that non–
+MHC-linked genes were important for quantitative differ-
+ences, because CD80/0, P0/0, and lpr mice are of pure
+C57BL/6 origin (H-2b) and CD40/0 mice are four times
+backcrossed to C57BL/6, whereas IFN-␥ R0/0 mutants are
+Figure 5. (A) Infection of stromal cells in wild-type and IFN-␥ R0/0
+mice versus blood precursor cells in IFN-␣/␤ R0/0 mice. Viral protein in
+differentiated BM cells was detected by immunocytochemical staining 1 d
+(A–C) and 3 d (D–F) after infection with 2 ϫ 106 PFU LCMV-WE. BM
+smears were stained with a LCMV-specific mAb followed by a peroxi-
+dase-labeled goat anti–rat Ig and by an alkaline phosphatase–labeled don-
+key anti–goat Ig. LCMV-WE–infected cells are colored red and unin-
+fected cells appear blue due to counterstaining with Meyer’s hemalum.
+Note the intense staining of viral antigen in megakaryoctes and, to a lesser
+extent, in myeloid precursors and stromal cells in IFN-␣/␤ R0/0 mice (B, E).
+In wild-type and IFN-␥ R0/0 mice, LCMV-WE is detected in substantial
+amounts exclusively in stromal fibroblast and endothelial cells (A, D, C, F).
+Original magnification, (A–C) ϫ500; (D–F) ϫ1,000. (B) Differential quan-
+tification of LCMV-infected BM cells. Fixed BM smears of mice of the
+indicated genotypes were stained with a LCMV-specific mAb at different
+timepoints after infection with LCMV-WE. The frequency of infected cells was determined microscopically by counting 200 cells per individual mouse.
+Bars represent the mean Ϯ SD of the percentage of WE-positive BM cells of 2–3 individual mice per group.
+525 Binder et al.
+of pure 129Sv/Ev background (H-2b). Accordingly, le-
+thally irradiated LCMV immune C57BL/6 mice were used
+as recipients to determine CFU-S numbers of LCMV-
+WE–infected CD40/0, CD80/0, P0/0, and lpr mice. The ab-
+solute numbers of CFU-S per femur on day 3 after LCMV
+infection were in the same range in these mutants and 10-
+fold lower as compared with uninfected controls (see Table 5).
+Thus, CTL or NK effectors are apparently not influencing
+suppression of hematopoiesis in early LCMV infection.
+Discussion
+The current study implicates endogenously produced
+IFN-␣/␤ in causing depletion of the pluripotential and lin-
+eage-committed hematopoietic progenitors during the first
+week of LCMV infection. LCMV-induced abnormalities
+of peripheral blood parameters correlated positively with
+the IFN responder phenotype of mice. The key finding was
+that in IFN-␣/␤ R0/0 mice, peripheral hematologic param-
+eters and the frequency of blood cell precursors in the BM
+Figure 6. NK activity in the BM of acutely infected (day 3) IFN
+R-deficient/competent mice. Effector cells of LCMV-WE–infected
+(closed triangle) or uninfected (open triangle) or poly I/C-treated (closed circle)
+mice were incubated for 5 h with 51Cr-labeled NK-sensitive YAC-1 cells.
+LUs were determined as the number of lymphocytes necessary to lyse
+33% of the target cells during the standard test duration. The indicated
+number represents the LU per BM of the lower extremities and was com-
+puted by dividing the total number of BM cells by LU. Spontaneous 51Cr
+release was Ͻ25%.
+Figure 7. Expansion of NK cells in the BM in response to LCMV
+studied by FACS® analysis 3 d after infection with LCMV-WE (2 ϫ 106
+PFU). NK cells in the BM were detected by positive expression of the
+NK 1.1 marker and absence of CD8 and CD4. CD4/CD8 (FITC) and
+NK 1.1 (PE) staining is shown for cells electronically gated on the eryth-
+roid (TER 119 Tricolor) negative BM population. Percentages are given
+for dot plot quadrants. Plots are repesentative for three mice per group.
+Table 4. Peripheral Blood Values of Mice of Different Genotypes and NK-depleted C57BL/6 Mice after Infection with LCMV-WE
+Genotype or
+treatment with* RBC‡ Reticulocytes Platelets WBC Neutrophils Eosinophils Lymphocytes Monocytes
+Uninfected (P0/0) 9.1 Ϯ 0.3§ 226.1 Ϯ 36.0 1289 Ϯ 124 8.8 Ϯ 1.4 2.0 Ϯ 0.6 0.13 Ϯ 0.06 4.1 Ϯ 0.8 Ͻ0.1
+CD40/0 9.6 Ϯ 0.5 7.5 Ϯ 2.5 255 Ϯ 65ʈ 2.8 Ϯ 0.5 0.9 Ϯ 0.3 Ͻ0.1 1.5 Ϯ 0.3 Ͻ0.1
+CD80/0 9.2 Ϯ 0.5 1.6 Ϯ 0.5 272 Ϯ 24ʈ 2.0 Ϯ 0.5 0.5 Ϯ 0.2 Ͻ0.1 1.3 Ϯ 0.3 Ͻ0.1
+P0/0 9.0 Ϯ 0.4 8.9 Ϯ 2.4 318 Ϯ 24ʈ 2.4 Ϯ 0.4 0.7 Ϯ 0.1 Ͻ0.1 1.6 Ϯ 0.2 Ͻ0.1
+lpr 8.8 Ϯ 0.5 18.0 Ϯ 4.5 228 Ϯ 65ʈ 1.2 Ϯ 0.3 0.4 Ϯ 0.05 Ͻ0.1 0.8 Ϯ 0.1 Ͻ0.1
+¶TM-␤1 10.0 Ϯ 0.7 10.7 Ϯ 4.8 268 Ϯ 61ʈ 3.3 Ϯ 0.7 0.9 Ϯ 0.4 Ͻ0.1 2.5 Ϯ 0.4 Ͻ0.1
+normal rat IgG 9.3 Ϯ 0.4 11.9 Ϯ 5.9 235 Ϯ 18ʈ 2.7 Ϯ 0.6 0.8 Ϯ 0.05 Ͻ0.1 1.7 Ϯ 0.3 Ͻ0.1
+*Sex-/age-matched C57BL/6 mice of the indicated genotypes or antibody treatment (3–4 mice per group) were infected with LCMV-WE (2 ϫ 106
+PFU). Blood values 3 d after infection are shown.
+‡RBC, total erythrocytes (ϫ109/ml); WBC, total leucocytes (ϫ106/ml); reticulocytes, platelets, neutrophils, eosinophils, lymphocytes, and mono-
+cytes (ϫ106/ml).
+§Data represent means Ϯ SD. One way analysis of variance (ANOVA), ʈP ϭ 0.16, NS.
+¶Mice were treated i.p. with 1 mg TM-␤1 or normal rat IgG and infected 2 d later with LCMV-WE (2 ϫ 106 PFU). Splenic NK activity, deter-
+mined 3 d later by percent specific lysis of 51Cr-labeled YAC-1 target cells was 7, 7, 2, and 0 at E/T ratios of 90:1, 45:1, 22.5:1, and 11:1 in TM-␤1-
+treated mice; percent specific lysis at the corresponding E/T ratios was 72, 76, 63, and 47 after treatment with normal rat IgG.
+526 LCMV-induced Transient Bone Marrow Aplasia
+were comparable in LCMV-infected and uninfected con-
+trol mice. Conversely, the decrease in peripheral blood val-
+ues after infection with LCMV in wild-type, IFN-␥ R0/0,
+CD40/0, CD80/0, P0/0, or lpr mice was associated with a
+substantial reduction of the numbers of pluripotential pro-
+genitor cells and lineage-committed precursors and, to a
+lesser extent, of the morphologically recognizable compart-
+ment in the BM. The depletion of the blood cell progeni-
+tors was attributable to a direct effect of IFN-␣/␤ and was
+independent of contact-dependent cytotoxicity or secreted
+factors from NK cells. This is suggested by the NK activity
+in BM of wild-type mice and in mice lacking either the
+IFN-␣/␤ R or the IFN-␥ R. Additionally, virus specific
+effector T cells generated within the first 7 d of infection
+apparently played no critical role in LCMV-induced tran-
+sient BM aplasia, because knockout mice either lacking pe-
+ripheral CD8ϩ or CD4ϩ T cells were similarly depleted of
+pluripotential and committed progenitors. A summary of
+the relevant findings in wild type and in the different mu-
+tant mouse strains is presented in Table 6.
+The viral and host parameters defining the abnormalities
+of peripheral blood cells in the acute phase were influenced
+to a minor extent by the LCMV isolate; however, they
+correlated with the IFN-␣/␤ responder phenotype of the
+genetic background of the host. This is documented by the
+fact that within a given mouse strain, the extent of the pan-
+cytopenia in the acute phase of infection was not deter-
+mined by the divergent replication kinetics of a rapidly
+(Docile), intermediate (WE), or slowly (Armstrong) repli-
+cating LCMV isolate. This observation is in accordance
+with earlier findings, demonstrating comparable maximal
+serum levels of IFN-␣/␤ induced by several LCMV iso-
+Table 5. Frequency of Pluripotential and Committed Progenitors in Mice of Different Genotypes after Infection with LCMV-WE
+Genotype* Virus Cellularity‡
+Colonies/femur§
+CFU-S BFU-E CFU-GM CFU-Meg
+CD40/0 None 13.3 Ϯ 1.4 5,978 Ϯ 345 3,306 Ϯ 500 33,672 Ϯ 690 2,085 Ϯ 237
+WE 4.4 Ϯ 1.1 (33%)ʈ 639 Ϯ 163 (11%) 566 Ϯ 30 (17%) 7,509 Ϯ 899 (22%) 312 Ϯ 26 (15%)
+CD80/0 None 13.8 Ϯ 0.6 6,700 Ϯ 379 3,956 Ϯ 379 35,376 Ϯ 3,790 2,756 Ϯ 152
+WE 3.7 Ϯ 1.3 (27%) 569 Ϯ 148 (8%) 888 Ϯ 140 (22%) 9,562 Ϯ 984 (27%) 634 Ϯ 15 (23%)
+P0/0 None 15.3 Ϯ 1.3 7,452 Ϯ 916 3,263 Ϯ 33 27,356 Ϯ 1,498 2,825 Ϯ 162
+WE 3.7 Ϯ 0.5 (24%) 667 Ϯ 224 (9%) 796 Ϯ 111 (24%) 7,712 Ϯ 316 (28%) 565 Ϯ 56 (20%)
+lpr None 19.5 Ϯ 2.6 ND 3,728 Ϯ 247 28,302 Ϯ 2,860 2,527 Ϯ 188
+WE 7.0 Ϯ 1.5 (35%) ND 559 Ϯ 28 (15%) 5,377 Ϯ 524 (19%) 430 Ϯ 37 (17%)
+*Sex-matched 10–12-wk-old C57BL/6 mice of the indicated genotypes were infected with LCMV-WE (2 ϫ 106 PFU) or left untreated.
+‡BM cellularity ϫ106/femur.
+§BM cells were harvested 3 d after infection and colony-forming cells per femur were determined in methylcellulose cultures containing IL-3 and
+erythropoietin (BFU-E), IL-3 and GM-CSF (CFU-GM), or IL-3 and thrombopoietin (CFU-Meg). CFU-S were counted on the spleen surface of
+lethally irradiated LCMV-immune C57BL/6 mice reconstituted with BM from infected or control mice. Shown are combined data from duplicate
+cultures of three mice tested individually.
+ʈData represent means Ϯ SD, values in brackets are relative numbers of cells/colonies compared with uninfected control mice of the same genotype.
+Table 6. Summary of the Correlation Between Immune Status and BM Function in the Acute Phase of LCMV Infection
+Genotype
+LCMV-WE (day ϩ 3)
+Transient BM
+aplasia
+Virus Replication
+in BM cells
+NK activity
+in BM
+LCMV-specific
+CTL (references)
+Wild type ϩϩϩϩ Ϯ ϩϩϩ ϩ (21)
+IFN-␥ R0/0 ϩϩϩ Ϯ ϩϩϩ ϩ (21, 30)
+IFN-␣ր␤ R0/0 Ϫ ϩϩϩ ϩϩ Ϫ (21)
+CD40/0 ϩϩϩϩ ND ND Ϯ (32)
+CD80/0 ϩϩϩϩ ND ND Ϫ (31)
+P0/0 ϩϩϩϩ Ϯ Ϫ Ϫ (24)
+lpr ϩϩϩϩ ND ϩϩϩ ϩ
+527 Binder et al.
+lates in mice of the same genetic background (40). Be-
+tween the various mouse strains marked differences in the
+amount of IFN-␣/␤ production have been measured, yet in
+adult mice no correlation between serum levels of IFN-␣/␤
+and susceptibility to lethal choriomeningitis has been dem-
+onstrated (40). Evidence for a link between IFN-␣/␤ in-
+duction and disease, however, was established in newborn
+mice infected with LCMV (39). In these studies, the sever-
+ity of the delay in organ maturation and liver necrosis as
+well as the incidence of death was directly dependent on
+the extent of the endogenous IFN-␣/␤ response of the dif-
+ferent mouse strains infected with LCMV. Moreover, the
+concept of a causal correlation between the amount of en-
+dogenously induced IFN-␣/␤ by LCMV and the severity
+of BM suppression is in line with in vitro findings, demon-
+strating IFN-␣/␤ to be a potent inhibitor of proliferation/
+maturation of normal BM-derived hematopoietic progeni-
+tors (42), as well as of certain leukemic cells in vivo (e.g.,
+hairy cell leukemia [43], and CML [44]).
+Interestingly, expansion and functional activation of NK
+cells in LCMV-infected BM of IFN-␣/␤ R0/0 mice was
+comparable to that in IFN-␥ R0/0 and wild-type mice, es-
+pecially when absolute numbers of NK cells were consid-
+ered. NK cells are cytolytically activated and proliferate
+after stimulation with IFN-␣/␤, IFN-␥, or IL-2 in vitro
+and in vivo (45, 46) and the peak of NK activity after
+LCMV infection parallels the maximal serum concentra-
+tion of IFN-␣/␤ (22, 23). Apparently, in our experimental
+model, NK cells from IFN-␣/␤ R0/0 mice, which cannot
+be stimulated by IFN-␣/␤ signaling via the IFN-␣/␤ R,
+were comparably activated. This result may hypothetically
+signal an IFN-␣/␤ effect that is not mediated via the classic
+IFN-␣/␤ R deleted in these mice. An alternative (i.e., not
+IFN-␣/␤ R-dependent) activation pathway of NK cells in
+LCMV-infected IFN-␣/␤ R0/0 mice is documented fur-
+ther by the finding, that poly I/C, which is a synthetic
+double-stranded RNA and a potent inducer of the IFN-␣/␤
+system in vivo (47), did not stimulate NK cells in the BM.
+More likely, NK activity in LCMV-infected IFN-␣/␤ R0/0
+mice could be due to stimulation by other cytokines (e.g.,
+IL-2, IL-12) induced by the overwhelming replication of
+LCMV in IFN-␣/␤ R0/0 mice.
+There is conflicting data on the role of NK cells inhibit-
+ing hematopoiesis in vitro. Under some conditions, human
+NK cells suppress myelopoietic (48, 49) and erythropoietic
+(50) colony formation. In murine systems, NK cells have
+been reported to inhibit growth of syngeneic hematopoie-
+tic progenitors (51) or the more primitive CFU-S (52), but
+other studies have demonstrated normal hematopoiesis in
+vitro in the presence of NK cells (53). Moreover, it has
+been suggested that both the antiviral properties (25, 26) as
+well as the suppressive effect on in vitro colony formation
+of NK cells function via the secretion of soluble factors,
+such as IFN-␥ or TNF-␣ (27, 54). As for acute LCMV in-
+fection, one report proposed syngeneic rejection of stem
+cells by activated NK cells, because treatment with anti-
+asialo GM1 (a rabbit antiserum depleting NK cells but also
+partially LCMV-specific CTL nonspecifically [55]) partially
+restored the marrow repopulating ability of stem cells from
+uninfected syngeneic controls transferred into irradiated
+LCMV-infected mice (17). In our experimental system,
+there was no evidence of NK-mediated suppression of he-
+matopoiesis, either via contact-dependent cytotoxicity or
+secreted cytokines, because (a) at the timepoint of maximal
+NK activity we found normal precursor and differentiated
+blood cell frequencies in the BM of IFN-␣/␤ R0/0, but a
+drastic reduction of all hematopoietic compartments in
+IFN-␥ R0/0, lpr, and P0/0 mice, in which functionally inac-
+tive NK cells proliferate after LCMV infection (24), and (b)
+TM-␤1, which is a mAb specific for the IL-2 R ␤ chain
+and which induces a long-lasting selective depletion of NK
+cells, but considerably less of T cells (38, 56), did not abro-
+gate LCMV-induced suppression of peripheral blood pa-
+rameters. A subtle effect of IFN-␥ could be observed 7 d
+after LCMV infection, at a timepoint when bone marrow
+cellularity was restored in IFN-␥ R0/0 mice, but not in
+wild-type mice (Fig. 1). When compared with IFN-␣/␤,
+the efficiency of LCMV-induced endogenous IFN-␥ in
+suppressing BM function seems to be much weaker, how-
+ever, because the CBC and BM cellularity of IFN-␣/␤ R0/0
+mice were not altered at that stage of LCMV infection.
+The finding of megakaryocytes and myeloid precursors
+expressing LCMV antigen in high amounts in the presence
+of activated NK cells, and yet lack of NK-mediated immu-
+nopathology in the BM of IFN-␣/␤ R0/0 mice, was sur-
+prising. One possible explanation might be that LCMV by
+itself, in contrast with some other viruses, such as murine
+cytomegalovirus, does not alter class I MHC expression nor
+does it inhibit the ability of IFN-␥ to upregulate MHC
+class I in virus-infected cells (57). Therefore, LCMV-infected
+MHC class I–expressing hematopoietic precursors could be
+protected from NK cell–mediated lysis because cells ex-
+pressing high levels of MHC class I are more resistant to
+NK cells than those lacking expression of MHC class I (58).
+Although there is evidence for Fas ligand expression on the
+cell surface of freshly isolated murine NK cells (29), the
+role of the Fas pathway in NK killing in vivo is still poorly
+understood. In vitro studies have demonstrated some Fas
+expression on human erythroid and myeloid colonies in
+the presence of TNF-␣ and/or IFN-␥ (59), as well as up-
+regulation of the Fas antigen by influenza virus–elicited
+IFN-␣/␤ on HeLa cells (60). The theoretical possibility,
+that Fas-mediated cytotoxicity of NK cells against Fas-express-
+ing BM cells could be involved in LCMV-induced BM
+aplasia, is not supported here because NK cells were not
+critical in the first place. Furthermore, lpr mice exhibited a
+comparable suppression of BM and blood values in the
+presence of highly activated NK cells (data not shown) 3 d
+after LCMV infection; this documents a minor significance
+of the Fas receptor–Fas ligand system of NK cells, because a
+nonoperational apoptotic signaling in lpr mice did not re-
+vert LCMV-induced transient depression of hematopoiesis.
+Mutant IFN-␣/␤ R0/0 mice exhibited an intense viral
+replication in megakaryocytes and, to a lesser extent, in
+myeloid precursors. Interestingly, LCMV by itself did not
+interfere with maturation and the release of platelets or
+528 LCMV-induced Transient Bone Marrow Aplasia
+granulocytes into the circulation, because the number of
+these blood cells remained unchanged in acutely infected
+IFN-␣/␤ R0/0 mice. We do not not know at which stage
+of maturation megakaryocytes are infected in IFN-␣/␤ R0/0
+mice, but it is conceivable that LCMV might infect mor-
+phologically unidentifiable progenitors of the megakaryo-
+cytic lineage. A similar finding has been described for HIV
+patients, for which it has been proposed that HIV infection of
+megakaryocytic or myeloid progenitors by itself does not in-
+hibit their proliferation/differentiation potential in vivo un-
+less antibodies suppressing the growth of these progenitors
+are present in the serum (61, 62). We had no evidence of in-
+fection of pluripotential hematopoietic progenitors, because
+erythroblasts did not express viral Ag in serial BM analysis
+during the first week of LCMV infection. LCMV seemed
+to persist for a longer time period in megakaryocytes than
+in myeloid precursors, because immature granulocytes were
+virus free on day 7 of LCMV infection, whereas a consid-
+erable proportion of megakaryocytes still stained positively
+for viral Ag. This finding may be due to differences in the
+cellular tropism of LCMV but could simply reflect the fact
+that the turnover of myeloid cells is much higher and,
+therefore, infected myeloid precursors were released into
+circulation very efficiently.
+Although IFN-␣/␤ R0/0 mice are able to mount normal
+Th and CTL responses against cytopathic viruses like vac-
+cinia or vesicular stomatitis virus, LCMV specific CTL acti-
+vity is lacking due to exhaustive activation of virus-specific
+CTL (21). Therefore, the excessive viral multiplication in
+megakaryocytes and, to a lesser extent, in myeloid precur-
+sors was not associated with a CTL-mediated immunopa-
+thology, documented by the normal range of these cells in
+the BM and normal values of circulating blood cells. In ad-
+dition, LCMV-activated CD4ϩ or CD8ϩ T cells or their
+secreted products (e.g., TNF-␤, IFN-␥) could not account
+for BM suppression in acute LCMV infection, since CD80/0
+and CD40/0 mutant mice, which have no CD8ϩ or CD4ϩ
+T cells in the periphery (31, 32), respectively, had compa-
+rably reduced hematopoietic progenitors and blood cells. It
+should be pointed out, however, that the present study an-
+alyzed the acute phase of LCMV infection, in which innate
+immune mechanisms dominate and the frequency of LCMV-
+specific CTL is still increasing. Therefore, the pathogenesis
+of hematologic abnormalities at later timepoints of infec-
+tion might be distinct from the one described here and may
+involve other immunopathologic mechanisms, e.g., cytolytic
+activity or secreted cytokines from CTL, such as TNF-␤ or
+IFN-␥. The presented results and concepts may be general-
+izable and offer explanations for mechanisms of hematopoi-
+etic disease in noncytopathic viral infections and hemor-
+rhagic fevers caused not only by infection with arenaviruses
+such as LCMV or Junin virus but also by Dengue fever vi-
+rus. For these viruses, high concentrations of IFN-␣/␤
+have been measured in the serum, and the magnitude and
+the duration of circulating IFN-␣/␤ correlated directly
+with the severity and the evolution of the disease (63–65).
+We are grateful to A. Althage, E. Horvath, and R. Rüegg for excellent technical assistance and to N. Wey
+for processing the microphotographs. We thank M. Aguet, P. Aichele, M. van den Broek, S. Ehl, Paul Kle-
+nerman, and K. Maloy for helpful discussions and critical reading of the manuscript.
+Recombinant mTPO was kindly provided as a gift by Genentech, Inc. (South San Francisco, CA).
+This work was supported by the Union Bank of Switzerland, the Swiss National Science Foundation, and
+the Kanton of Zürich.
+Address correspondence to Daniel Binder, the Institute of Experimental Immunology, Schmelzbergotrasse
+12, CH-8091 Zürich, Switzerland.
+Received for publication 19 September 1996 and in revised form 20 November 1996.
+Woon, and J.E. Groopman. 1990. Lack of evidence for in-
+fection of or effect on growth of hematopoietic progenitor
+cells after in vivo or in vitro exposure to human immunode-
+ficiency virus. Blood. 76:2476–2482.
+5. Shadduck, R.K., A. Winkelstein, Z. Ziegler, J. Lichter, M.
+Goldstein, M. Michaels, and B. Rabin. 1979. Aplastic anemia
+following infectious mononucleosis: possible immune etiol-
+ogy. Exp. Hematol. 7:264–271.
+6. Liang, D.C., K.H. Lin, D.T. Lin, C.P. Yang, K.L. Hung, and
+K.S. Lin. 1990. Post-hepatitis aplastic anemia in children in
+Taiwan, a hepatitis prevalent area. Br. J. Haematol. 74:487–
+491.
+7. Buchmeier, M.J., R.M. Welsh, F.J. Dutko, and M.B.A. Old-
+References
+1. Rosenfeld, S., and N.S. Young. 1991. Viruses and bone mar-
+row failure. Blood. Rev. 5:71–77.
+2. Young, N.S., M. Yoshida, and W. Sugden. 1992. Viral
+pathogenesis of hematologic disorders. In Molecular Basis of
+Blood Diseases. G. Stamatoyanapoulos, A.S. Nienhuis, P. Le-
+der, P. Majerus and H. Varmus, editors. WB Saunders Com-
+pany, Philadelphia.
+3. Apperley, J.F., C. Dowding, J. Hibbin, J. Buiter, E. Matutes,
+P.J. Sissons, M. Gordon, and J.M. Goldman. 1989. The effect
+of cytomegalovirus on hemopoiesis: in vitro evidence for se-
+lective infection of marrow stromal cells. Exp. Hematol. 17:
+38–45.
+4. Molina, J.-M., D.T. Scadden, M. Sakaguchi, B. Fuller, A.
+529 Binder et al.
+stone. 1980. The virology and immunobiology of lympho-
+cytic choriomeningitis virus infection. Adv. Immunol. 30:
+275–331.
+8. Oldstone, M.B.A. 1987. The arenaviruses—an introduction.
+Curr. Topics. Microbiol. Immun. 133:1–4.
+9. Lehmann-Grube, F. 1971. Lymphocytic choriomeningitis vi-
+rus. Monogr. Virol. 10:1–173.
+10. Hotchin, J.E. 1971. Persistent and slow virus infections.
+Monogr. Virol. 3:1–211.
+11. Hinmann, A.R., D.W. Fraser, R.G. Douglas, G.S. Bowen,
+A.L. Kraus, W.G. Winkler, and W.W. Rhodes. 1975. Out-
+break of lymphocytic choriomeningitis virus infections in
+medical center personnel. Am. J. Epidemiol. 101:103–110.
+12. Smadel, J.E., R.H. Green, R.M. Paltauf, and T.A. Gonzales.
+1942. Lymphocytic choriomeningitis: two human fatalities
+following an unusual febrile illness. Proc. Soc. Exp. Biol., N.Y.
+49:683–686.
+13. Martinez Peralta, L.A., C.E. Coto, and M.C. Weissenbacher.
+1993. The Tacaribe complex: the close relationship between
+a pathogenic (Junin) and a nonpathogenic (Tacaribe) arenavi-
+rus. In The Arenaviridae. M.S. Salvato, editor. Plenum Press,
+New York.
+14. Bro-Jørgensen, K. 1978. The interplay between lymphocytic
+choriomeningitis virus, immune function, and hemopoiesis
+in mice. Adv. Virus. Res. 22:327–369.
+15. Broomhall, K.S., M. Morin, D.C. Pevear, and C.J. Pfau.
+1987. Severe and transient pancytopenia associated with a
+chronic arenavirus infection. J. Exp. Pathol. 3:259–269.
+16. Silberman, S.L., R.P. Jacobs, and G.A. Cole. 1978. Mecha-
+nisms of hemopoietic and immunological dysfunction in-
+duced by lymphocytic choriomeningitis virus. Infect. Immun.
+19:533–539.
+17. Thomsen, A.R., P. Pisa, K. Bro-Jørgensen, and R. Kiessling.
+1986. Mechanisms of lymphocytic choriomeningitis virus-
+induced hemopoietic dysfunction. J. Virol. 59:428–433.
+18. Zinkernagel, R.M., and R.M. Welsh. 1976. H-2 compatibil-
+ity requirement for virus-specific T cell–mediated effector
+functions in vivo. I. Specificity of T cells conferring antiviral
+protection against lymphocytic choriomeningitis virus is asso-
+ciated with H-2K and H-2D. J. Immunol. 117:1495–1502.
+19. Hotchin, J. 1962. The biology of lymphocytic choriomenin-
+gitis infection: Virus induced immune disease. Cold Spring
+Harbor Symp. Quant. Biol. 27:479–499.
+20. Moskophidis, D., M. Battegay, M.A. Bruendler, E. Laine, I.
+Gresser, and R.M. Zinkernagel. 1994. Resistance of lympho-
+cytic choriomeningitis virus to alpha/beta interferon and to
+gamma interferon. J. Virol. 68:1951–1955.
+21. Müller, U., U. Steinhoff, L.F.L. Reis, S. Hemmi, J. Pavlovic,
+R.M. Zinkernagel, and M. Aguet. 1994. Functional role of
+type I and type II interferons in antiviral defense. Science
+(Wash. DC). 264:1918–1921.
+22. Biron, C.A., and R.M. Welsh. 1982. Blastogenesis of natural
+killer cells during viral infection in vivo. J. Immunol. 129:
+2788–2795.
+23. Welsh, R.M. 1978. Cytotoxic cells induced during lympho-
+cytic choriomeningitis virus infection of mice. I. Character-
+ization of natural killer cell induction. J. Exp. Med. 148:
+163–181.
+24. Kägi, D., B. Ledermann, K. Bürki, P. Seiler, B. Odermatt,
+K.J. Olsen, E.R. Podack, R.M. Zinkernagel, and H. Hen-
+gartner. 1994. Cytotoxicity mediated by T cells and natural
+killer cells is greatly impaired in perforin-deficient mice. Na-
+ture (Lond.). 369:31–37.
+25. Karupiah, G., R.V. Blanden, and I.A. Ramshaw. 1990. Inter-
+feron-␥ is involved in the recovery of athymic nude mice
+from recombinant vaccinia virus/interleukin 2 infection. J.
+Exp. Med. 172:1495–1503.
+26. Paya, C.V., R.A. Kenmotsu, R.A. Schoon, and P.J. Leibson.
+1988. Tumor necrosis factor and lymphotoxin secretion by
+human natural killer cells leads to antiviral cytotoxicity. J. Im-
+munol. 141:1989–1995.
+27. Murphy, M., R. Loudon, M. Kobayashi, and G. Trinchieri.
+1986. Gamma-interferon and lymphotoxin released by acti-
+vated T cells synergize to inhibit granulocyte/monocyte col-
+ony formation. J. Exp. Med. 164:263–279.
+28. van den Broek, M.F., D. Kägi, R.M. Zinkernagel, and H.
+Hengartner. 1995. Perforin dependence of natural killer cell–
+mediated tumor control in vivo. Eur. J. Immunol. 25:3514–
+3516.
+29. Hisashi, A., A. Noriko, and S. Takashi. 1995. Fas-mediated
+cytotoxicity by freshly isolated natural killer cells. J. Exp.
+Med. 181:1235–1238.
+30. Huang, S., W. Hendriks, A. Althage, S. Hemmi, H. Blueth-
+mann, R. Kamijo, J. Vilcek, R.M. Zinkernagel, and M.
+Aguet. 1993. Immune response in mice that lack the inter-
+feron-gamma receptor. Science (Wash. DC). 259:1742–1745.
+31. Fung-Leung, W.P., T.M. Kündig, R.M. Zinkernagel, and
+T.W. Mak. 1991. Immune response against lymphocytic
+choriomeningitis virus infection in mice without CD8 ex-
+pression. J. Exp. Med. 174:1425–1429.
+32. Rahemtulla, A., W.P. Fung-Leung, M.W. Schilham, T.M.
+Kündig, S.R. Sambhara, A. Narendran, A. Arabian, A.
+Wakeham, C.J. Paige, R.M. Zinkernagel et al. 1991. Normal
+development and function of CD8ϩ cells but a markedly de-
+creased helper cell activity in mice lacking CD4. Nature
+(Lond.). 353:180–184.
+33. Pfau, C.J., J.K. Valenti, D.C. Pevear, and K.D. Hunt. 1982.
+Lymphocytic choriomeningitis virus killer T cells are lethal
+only in weakly disseminated murine infections. J. Exp. Med.
+156:79–89.
+34. Dutko, F.J., and M.B.A. Oldstone. 1983. Genomic and bio-
+logical variation among commonly used lymphocytic chori-
+omeningitis virus strains. J. Gen. Virol. 64:1689–1698.
+35. Battegay, M., S. Cooper, A. Althage, J. Baenziger, H. Hen-
+gartner, and R.M. Zinkernagel. 1991. Quantification of lym-
+phocytic choriomeningitis virus with an immunological focus
+assay in 24 or 96 well plates. J. Virol. Methods. 33:191–198.
+36. Bro-Jørgensen, K., and M. Volkert. 1972. Haemopoietic de-
+fects in mice infected with lymphocytic choriomeningitis vi-
+rus. 2. The viral effect upon the function of colony forming
+stem cells. Acta. Pathol. Microbiol. Scand. (B). 80:853–862.
+37. Broudy, V.C., L.L. Nancy, and K. Kaushansky. 1995. Throm-
+bopoietin (c-mpl ligand) acts synergistically with erythropoi-
+etin, stem cell factor, and interleukin-11 to enhance murine
+megakaryocyte colony growth and increases megakaryocyte
+ploidy in vitro. Blood. 85:1719–1726.
+38. Tanaka, T., F. Kitamura, Y. Nagasaka, K. Kuida, H. Suwa,
+and M. Miyasaka. 1993. Selective long-term elimination of
+natural killer cells in vivo by an anti-interleukin 2 receptor ␤
+chain monoclonal antibody in mice. J. Exp. Med. 178:1103–
+1107.
+39. Riviere, Y., I. Gresser, J.C. Guillon, M.T. Bandu, P. Ronco,
+L. Morel-Maroger, and P. Verroust. 1980. Severity of lym-
+phocytic choriomeningitis virus disease in different strains of
+suckling mice correlates with increasing amounts of endoge-
+nous interferon. J. Exp. Med. 152:633–640.
+530 LCMV-induced Transient Bone Marrow Aplasia
+40. Leist, T.P., M. Aguet, M. Hassig, D.C. Pevear, C.J. Pfau, and
+R.M. Zinkernagel. 1987. Lack of correlation between serum
+titres of interferon alpha, beta, natural killer cell activity and
+clinical susceptibility in mice infected with two isolates of
+lymphocytic choriomeningitis virus. J. Gen. Virol. 68:2213–
+2218.
+41. van den Broek, M.F., U. Müller, S. Huang, R.M. Zinkerna-
+gel, and M. Aguet. 1995. Immune defence in mice lacking
+type I and/or type II interferon receptors. Immunol. Rev. 148:
+5–18.
+42. Raefsky, E., L. Platanias, N. Zoumbos, and N.S. Young.
+1985. Studies of interferon as a regulator of hematopoietic
+proliferation. J. Immunol. 135:2507–2512.
+43. Quesada, J.R., J. Reuben, J.T. Manning, E.M. Hersh, and
+J.U. Gutterman. 1984. Alpha interferon for induction of re-
+mission in hairy-cell leukemia. N. Engl. J. Med. 310:15–18.
+44. Talpaz, M., H.M. Kantarjian, K. McCredie, J.M. Trujillo,
+M.J. Keating, and J.U. Gutterman. 1986. Hematologic re-
+mission and cytogenetic improvement induced by recombi-
+nant human interferon alpha A in chronic myelogenous leu-
+kemia. N. Engl. J. Med. 314:1065–1069.
+45. Biron, C.A., H.A. Young, and M.T. Kasaian. 1990. Interleu-
+kin 2-induced proliferation of murine natural killer cells in
+vivo. J. Exp. Med. 171:173–188.
+46. Biron, C.A. 1994. Cytokines in the generation of immune
+responses to, and resolution of, virus infection. Curr. Opin.
+Immunol. 6:530–538.
+47. Hansson, M., R.W. Kiessling, B. Andersson, and R.M. Welsh.
+1980. Effect of interferon and interferon inducers on the NK
+sensitivity of normal mouse thymocytes. J. Immunol. 125:
+2225–2231.
+48. Hansson, M., M. Beran, B. Andersson, and R. Kiessling.
+1982. Inhibition of in vitro granulopoiesis by autologous al-
+logeneic human NK cells. J. Immunol. 129:126–132.
+49. Degliantoni, G., B. Perussia, L. Mangoni, and G. Trinchieri.
+1985. Inhibition of bone marrow colony formation by hu-
+man natural killer cells and by natural killer cell–derived col-
+ony-inhibiting activity. J. Exp. Med. 161:1152–1168.
+50. Herrmann, F., R.E. Schmidt, J. Ritz, and J.D. Griffin. 1987.
+In vitro regulation of human hematopoiesis by natural killer
+cells: Analysis at a clonal level. Blood. 69:246–254.
+51. Holmberg, L.A., B.A. Miller, and K.A. Ault. 1984. The ef-
+fect of natural killer cells on the development of syngeneic
+hematopoietic progenitors. J. Immunol. 133:2933–2939.
+52. Barlozzari, T., R.B. Herberman, and C.W. Reynolds. 1987.
+Inhibition of pluripotent hematopoietic stem cells of bone
+marrow by large granular lymphocytes. Proc. Natl. Acad. Sci.
+USA. 84:7691–7695.
+53. Niemeyer, C.M., C.A. Sieff, B.R. Smith, K.A. Ault, and
+D.G. Nathan. 1989. Hematopoiesis in vitro coexists with
+natural killer lymphocytes. Blood. 74:2376–2382.
+54. Cannistra, S.A., P. Groshek, and J.D. Griffin. 1988. Mono-
+cytes enhance gamma-interferon-induced inhibition of mye-
+loid progenitor cell growth through secretion of tumor ne-
+crosis factor. Exp. Hematol. 16:865–870.
+55. Stitz, L., J. Baenziger, H.P. Pircher, H. Hengartner, and
+R.M. Zinkernagel. 1986. Effect of rabbit anti-asialo GM1
+treatment in vivo or with anti-asialo GM1 plus complement
+in vitro on cytotoxic T cell activities. J. Immunol. 136:4674–
+4680.
+56. Ehl, S., R. Nuesch, T. Tanaka, M. Myasaka, H. Hengartner,
+and R.M. Zinkernagel. 1996. A comparison of efficacy and
+specificity of three NK depleting antibodies. J. Immunol.
+Methods. 199:149–153.
+57. Bukowski, J.F., and R.M. Welsh. 1985. Inability of inter-
+feron to protect virus-infected cells against lysis by natural
+killer (NK) cells correlates with NK cell–mediated antiviral
+effects in vivo. J. Immunol. 135:3537–3541.
+58. Karre, K. 1995. Express yourself or die: peptides, MHC mol-
+ecules, and NK cells. Science (Wash. DC). 267:978–979.
+59. Maciejewski, J., C. Selleri, S. Anderson, and N.S. Young.
+1995. Fas antigen expression on CD34ϩ human marrow
+cells is induced by IFN ␥ and tumor necrosis factor ␣ and po-
+tentiates cytokine-mediated hematopoetic suppression in vitro.
+Blood. 11:3183–3190.
+60. Takizawa, T., R. Fukuda, T. Miyawaki, K. Ohashi, and Y.
+Nakanishi. 1995. Activation of the apoptotic Fas antigen-
+encoding gene upon influenza virus infection involving spon-
+taneously produced beta-interferon. Virology. 209:288–296.
+61. Zucker-Franklin, D., and Y. Cao. 1989. Megakaryocytes of
+human immunodeficiency virus–infected individuals express
+viral RNA. Proc. Natl. Acad. Sci. USA. 86:5595–5599.
+62. Donahue, R.E., M.M. Johnson, L.I. Zon, and L.I. Groop-
+man. 1987. Suppression of in vitro haematopoiesis following
+human immunodeficiency virus infection. Nature (Lond.).
+326:200–203.
+63. Levis, S.C., M.C. Saavedra, C. Ceccoli, M.R. Feuillade,
+D.A. Enria, J.I. Maiztegui, and R. Falcoff. 1985. Correlation
+between endogenous interferon and the clinical evolution of
+patients with Argentine hemorrhagic fever. J. Interferon Res.
+5:383–389.
+64. Levis, S.C., M.C. Saavedra, C. Ceccoli, E. Falcoff, M.R.
+Feuillade, D.A. Enria, J.I. Maiztegui, and R. Falcoff. 1984.
+Endogenous interferon in Argentine hemorrhagic fever. J. In-
+fect. Dis. 149:428–433.
+65. Kurane, I., B.L. Innis, and S. Nimmannitya. 1993. High lev-
+els of interferon alpha in the sera of children with dengue vi-
+rus infection. Am. J. Trop. Med. Hyg. 48:222–229.
+

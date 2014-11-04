@@ -1,0 +1,1465 @@
+1903 J. Exp. Med. © The Rockefeller University Press • 0022-1007/98/06/1903/18 $2.00
+Volume 187, Number 11, June 1, 1998 1903–1920
+http://www.jem.org
+Aplastic Anemia Rescued by Exhaustion of
+Cytokine-secreting CD8ϩ T Cells in Persistent
+Infection with Lymphocytic Choriomeningitis Virus
+By Daniel Binder,*‡ Maries F. van den Broek,* David Kägi,*
+Horst Bluethmann,§ Jörg Fehr,‡ Hans Hengartner,*
+and Rolf M. Zinkernagel*
+From the *Institute of Experimental Immunology, Department of Pathology, University Hospital of
+Zürich, CH-8091 Zürich, Switzerland; the ‡Division of Hematology, Department of Internal
+Medicine, University Hospital of Zürich, CH-8091 Zürich, Switzerland; and the §CNS
+Department, Pharmaceutical Research GeneTechnologies, F. Hoffmann–La Roche Ltd., CH-4070
+Basel, Switzerland
+Summary
+Aplastic anemia may be associated with persistent viral infections that result from failure of the
+immune system to control virus. To evaluate the effects on hematopoiesis exerted by sustained
+viral replication in the presence of activated T cells, blood values and bone marrow (BM) func-
+tion were analyzed in chronic infection with lymphocytic choriomeningitis virus (LCMV) in
+perforin-deficient (P0/0) mice. These mice exhibit a vigorous T cell response, but are unable to
+eliminate the virus. Within 14 d after infection, a progressive pancytopenia developed that
+eventually was lethal due to agranulocytosis and thrombocytopenia correlating with an increas-
+ing loss of morphologically differentiated, pluripotent, and committed progenitors in the BM.
+This hematopoietic disease caused by a noncytopathic chronic virus infection was prevented by
+depletion of CD8ϩ, but not of CD4ϩ, T cells and accelerated by increasing the frequency of
+LCMV-specific CD8ϩ T cells in T cell receptor (TCR) transgenic (tg) mice. LCMV and
+CD8ϩ T cells were found only transiently in the BM of infected wild-type mice. In contrast,
+increased numbers of CD8ϩ T cells and LCMV persisted at high levels in antigen-presenting cells of
+infected P0/0 and P0/0 ϫ TCR tg mice. No cognate interaction between the TCR and hematopoi-
+etic progenitors presenting either LCMV-derived or self-antigens on the major histocompatibility
+complex was found, but damage to hematopoiesis was due to excessive secretion and action of tu-
+mor necrosis factor (TNF)/lymphotoxin (LT)-␣ and interferon (IFN)-␥ produced by CD8ϩ T
+cells. This was studied in double-knockout mice that were genetically deficient in perforin and TNF
+receptor type 1. Compared with P0/0 mice, these mice had identical T cell compartments and T cell
+responses to LCMV, yet they survived LCMV infection and became life-long virus carriers. The
+numbers of hematopoietic precursors in the BM were increased compared with P0/0 mice after
+LCMV infection, although transient blood disease was still noticed. This residual disease activity was
+found to depend on IFN-␥–producing LCMV-specific T cells and the time point of hematopoietic
+recovery paralleled disappearance of these virus-specific, IFN-␥–producing CD8ϩ T cells. Thus, in
+the absence of IFN-␥ and/or TNF/LT-␣, exhaustion of virus-specific T cells was not hampered.
+Key words: aplastic anemia • lymphocytic choriomeningitis virus • cytotoxicT lymphocytes •
+cytokines • immune tolerance
+Sustained suppression and/or destruction of pluripotent
+and committed hematopoietic precursors in the bone
+marrow (BM)1 leads to aplastic anemia (AA) (1). Severely
+impaired hematopoiesis in the BM and, as a consequence,
+failure to produce mature blood cells, are usually fatal for
+the host due to bacterial invasion or bleeding. Apart from
+1Abbreviations used in this paper: aa, amino acids; AA, aplastic anemia; BFU-E,
+burst-forming unit–erythroid; BM, bone marrow; BSS, balanced salt so-
+lution; CBC, cellular blood count; CFU-GM, CFU–granulocyte/mac-
+rophage; CFU-Meg, CFU–megakaryocyte; CFU-S, CFU–stem cell; gp,
+glycoprotein; LCMV, lymphocytic choriomeningitis virus; LCMV-GP,
+glycoprotein of LCMV; LT, lymphotoxin; m, murine; NU, neutralizing
+units; NSS, normal sheep serum; P0/0, perforin-deficient; p.i., post infec-
+tion; SPF, specific pathogen-free; tg, transgenic; vacc-LCMV-GP, vac-
+cinia virus recombinant expressing LCMV-GP; wild-type, wt.
+1904 Aplastic Anemia in Persistent LCMV Infection
+drugs and chemicals, host genes, autoimmune responses,
+cytokines, and viruses have been implicated in the initia-
+tion and progression of this disorder (for review see refer-
+ence 2). Most of the known viruses causing human BM
+failure tend to persistently infect the host and are non- or
+poorly cytopathic for blood cell progenitors; therefore a
+major role of destructive immunity in the pathogenesis of
+the disease has been postulated. Examples of this class of vi-
+ruses include Epstein-Barr virus (3, 4), cytomegalovirus (5,
+6), human immunodeficiency virus (7), and probably the
+putative viral agent associated with non–A-G posthepatitis
+AA (8, 9). Furthermore, T cells seem to be important be-
+cause there is a correlation between susceptibility to AA
+and certain MHC haplotypes (10, 11) and hematopoietic
+function improves after immunosuppressive strategies with
+antilymphocyte sera or syngeneic BM transplantation (12,
+13). It is not known, however, whether virus-induced T
+cell–mediated AA depends on (a) a cognate interaction be-
+tween T cells and hematopoietic cells presenting a virus-
+derived T cell epitope on the appropriate MHC, (b) on sol-
+uble mediators released from virus-specific T cells, or (c) on
+loss of tolerance and autoimmune destruction of pluripo-
+tent and committed stem cells (14).
+We previously investigated innate immune effector
+mechanisms involved in transient BM aplasia during acute
+infection with lymphocytic choriomeningitis virus (LCMV)
+in mice devoid of the IFN-␣/␤R, IFN-␥R, functional NK
+cells (perforin-deficient [P0/0] mice), Fas (CD95, lpr),
+CD4ϩ, or CD8ϩ T cells (15). This study documented that
+the reversible suppressive effect on hematopoietic precur-
+sors in the BM was predominantly mediated by IFN-␣/␤
+and that virally induced NK cells either by direct cytolysis
+and/or secreted factors or LCMV-specific CTLs were not
+involved at this early stage of infection. Although the non-
+cytopathic LCMV replicated vigorously in megakaryocytes
+and myeloid precursors in mice lacking IFN type I R
+(IFN-␣/␤R0/0), the role of T cells could not be studied in
+these mice because LCMV-specific CTLs are rapidly ex-
+hausted by the overwhelming amounts of viral antigen
+(16). The murine model infection with LCMV has con-
+tributed substantially to the view, however, that T cell–
+mediated protective immunity is involved in autoimmune
+and/or immunopathological diseases via a direct cognate
+cell to cell interaction in tissues that are either infected with
+LCMV or express the relevant epitopes derived from
+LCMV (17). Thus, the classical choriomeningitis (18), hep-
+atitis (19), immunosuppression (20) and LCMV-triggered
+destruction of the islets of Langerhans (21) or oligodendro-
+cytes in the central nervous system expressing the glyco-
+protein of LCMV (LCMV-GP; reference 22) have been
+shown to be CD8ϩ T cell mediated and contact depen-
+dent. It has been suggested that the permanent release of
+cytokines secreted by virus-specific T cells during persistent
+LCMV infection induces cachexia and supports inflamma-
+tory processes causing chronic disease, and that both CD4ϩ
+T helper cells and CD8ϩ CTLs are involved (23–25). The
+BM may be particularly susceptible to T cell–mediated, cy-
+tokine-dependent injury because blood cells, in contrast to
+solid epithelial organs, must continuously regenerate and
+their constant levels in the periphery are maintained by
+asymmetric division from a small number of pluripotent
+stem cells (26).
+We therefore evaluated the respective potential role of
+CD4ϩ and CD8ϩ T cells and of their released soluble me-
+diators in causing hematopoietic abnormalities during per-
+sistent LCMV infection in P0/0 mice. These mutant mice
+were chosen as experimental model because they exhibit a
+vigorous and continuous LCMV-specific T cell response
+but are unable to clear the virus (27). Here we report that
+LCMV-specific CD8ϩ T cells, but not CD4ϩ T cells,
+caused AA in LCMV-infected P0/0 mice. By generating
+double-knockout mice genetically deficient for perforin and
+TNFR1 (P0/0/TNFR10/0) and by using a sheep antiserum
+neutralizing mouse IFN-␥, LCMV-induced AA was pre-
+vented and infected mice became life-long virus carriers
+through functional exhaustion of virus-specific, IFN-␥–
+secreting CD8ϩ T cells.
+Materials and Methods
+Mice. The generation and breeding of P0/0, LCMV-GP–spe-
+cific TCR-transgenic (tg; line 318), P0/0 TCR-tg (P0/0 ϫ TCR),
+and mice expressing the LCMV-GP transgene under the control
+of the rat insulin promoter have been described previously (21,
+27). These mice and C57BL/6 mice as controls were obtained
+from the breeding colony at the Institut für Versuchstierkunde
+(University of Zürich, Zürich, Switzerland). Mice lacking
+TNFR1 (TNFR10/0 [28]) were bred at the animal facility of F.
+Hoffmann–La Roche Ltd. (Basel, Switzerland). All mouse strains
+were kept under specific pathogen-free (SPF) conditions. Sex-
+matched mice of 8–12 wk of age were used. The animal protec-
+tion law of the Kanton of Zürich (Zürich, Switzerland) limits the
+number of mice to be used in experiments, particularly if disease
+is severe. Therefore, experiments generally were repeated twice
+with groups of two to four mice.
+Breeding of Mice with Double Deficiency for Perforin and TNFR1 (P0/0/
+TNFR10/0). TNFR10/0 mice are homozygous mutant mice that
+originally were bred by crossing germline transmitters of the mu-
+tated TNFR1 allele (129/SvEv, H-2b) with C57BL/6 (H-2b)
+mice. These single-knockout mice were crossed with P0/0 mice
+(pure C57BL/6 background) and the resulting F1 generation with
+heterozygosity for both alleles (TNFR1 and perforin) was inter-
+bred to yield homozygous double-knockout F2 offsprings (P0/0/
+TNFR10/0). The F2 generation displayed the expected mendelian
+1:16 frequency of homozygous P0/0/TNFR10/0 mice, indicating
+that these mice are fertile and breed normally; in addition, they
+have no apparent phenotypic abnormalities and have a normal life
+span. Homozygous P0/0/TNFR10/0 mice were identified by the
+presence of both mutated alleles, determined with PCR using
+two different primer pairs for each, perforin and TNFR1, respec-
+tively, on DNA prepared from tail biopsies. The first pair (5Ј-
+TTT TTG AGA CCC TGT AGA CCC A-3Ј, 5Ј-GCA TCG
+CCT TCT ATC GCC TTC T-3Ј) detecting the perforin geno-
+type yields a band of 665 bp for the mutated and is negative for
+the wild-type (wt) allele, the second pair (5Ј-CCG GTC CTG
+AAC TCC TGG CCA A-3Ј, 5Ј-CCC CTG CAC ACA TTA
+CTG GAA G-3Ј) yields a 300-bp fragment for the wt and a
+1905 Binder et al.
+1,300-bp fragment for the mutated allele. The TNFR1 genotype
+was determined with a first pair detecting the neo cassette (5Ј-
+GTT AGG TCT CTC CTG AAT GTG ATC-3Ј, 5Ј-TCC
+CGC TTC AGT GAC AAC GTC-3Ј), which results in a 2,000-bp
+fragment for the mutated and is negative for the wt allele; the sec-
+ond pair (5Ј-CTC TCT TGT GAT CAG CAC TG-3Ј, 5Ј-CTG
+GAA GTG TGT CTC AC-3Ј) yields a 1,400-bp fragment for
+the wt and a 2,000-bp fragment for the mutated allele.
+Virus. LCMV-WE, originally obtained from Dr. F. Leh-
+mann-Grube (Pette Institut, Hamburg, Germany; reference 29),
+was used in all experiments and mice were always infected with
+200 PFU intravenously. Second passage virus derived from
+plaque-purified isolates was propagated on L929-fibroblast cells.
+The virus was titrated using an immunological focus assay that is
+two- to threefold less sensitive than virus titers detected by in
+vivo infection (30). LCMV titers are expressed as log10 of PFU/
+ml (blood), log10 of PFU/107 nucleated cells (BM), or as log10 of
+PFU/g of tissue (solid organs). Recombinant vaccinia virus ex-
+pressing LCMV-GP (vacc-LCMV-GP) was a gift from Dr.
+D.H.L. Bishop (Institute of Virology, Oxford University, Ox-
+ford, UK). Recombinant vaccinia virus stocks were grown on
+BSC 40 cells. The cells and culture supernatants were collected 2 d
+after infection, subjected to three cycles of freezing and thawing,
+sonicated on ice for 30 s, and centrifuged.
+Peripheral Blood Values and BM Cytology. Blood samples (40
+␮l diluted 1:5) were obtained from the retrobulbar plexus of
+ether-anesthetized mice and cellular blood counts (CBCs) were
+determined in a hemocytometer (TECHNICON H2®; Techni-
+con Instruments Corp., Tarrytown, NY). Differential white
+blood cell counts were defined microscopically by scoring blood
+smears stained with May-Grünwald/Giemsa. Reticulocyte counts
+were quantitated by flow cytometry (SYSMEX R-3000®; Toa
+Medical Electronics, Kobe, Japan). Differential counts of BM cells
+were determined on May-Grünwald/Giemsa, Sudan black B, my-
+eloperoxidase, chloracetate esterase, or ␣-naphthyl butyrate es-
+terase stained smears. For immunocytochemical detection of
+LCMV, BM smears on slides were fixed in acetone and stained
+with the rat anti-LCMV mAb VL-4 as described (15). CD11c on
+dendritic cells was stained with the hamster mAb N418 (HB-224;
+American Type Culture Collection, Rockville, MD). Primary
+hamster Igs were detected by alkaline-phosphatase–labeled rabbit
+anti–hamster Ig followed by alkaline-phosphatase–labeled goat
+anti–rabbit Ig.
+Pluripotent and Committed Progenitor Assays. Pluripotent and com-
+mitted hematopoietic progenitors were determined as described
+before (15). In brief, recipient mice were immunized with 102
+PFU of LCMV. 2 wk later they were lethally irradiated (900 cGy)
+and reconstituted intravenously with 104–105 syngeneic BM cells
+from infected or uninfected control mice. 12 d after irradiation,
+the spleens of the recipient mice were fixed in Tellesnicky’s fixa-
+tive and individual colonies on the spleen surface (colony-form-
+ing unit–stem cells [CFU-S]) were counted under a dissecting
+microscope. Cell suspensions from BM in isotonic balanced salt
+solution (BSS) were counted and assessed for viability by trypan
+blue exclusion before testing in vitro for colony formation. The
+culture mixture was prepared in IMDM supplemented with 5 ϫ
+10-5 mol/liter 2-mercaptoethanol, penicillin-streptomycin, 0.9%
+methylcellulose, 30% FCS, and 1% BSA in the presence of opti-
+mized concentrations of growth factors (murine [m]IL-3 [30 U/
+ml] and mGM-CSF [30 U/ml] for CFU–granulocyte/macro-
+phage [CFU-GM]; mIL-3 [30 U/ml] and human erythropoietin
+[5 U/ml] for burst-forming unit–erythroid [BFU-E]; and mIL-3
+[30 U/ml] and murine thrombopoietin [mTPO; 500 ng/ml] for
+CFU–megakaryocyte [CFU-Meg]). Recombinant murine IL-3
+and GM-CSF were obtained from PharMingen Inc. (San Diego,
+CA), recombinant human erythropoietin was purchased from
+Cilag AG (Schaffhausen, Switzerland), and recombinant mTPO
+was a gift from Genentech Inc. (South San Francisco, CA). Indi-
+vidual colonies were scored by morphology after 5–7 d (CFU-
+Meg), 7 d (CFU-GM), or 8 d (BFU-E). The total number of col-
+onies per femur was calculated using the cellularity obtained for
+the individual BM.
+Antiserum Treatment of Mice. Monoclonal rat anti–mouse CD4
+(YTS 191.1) and monoclonal rat anti–mouse CD8 (YTS 169.4)
+were originally obtained from Dr. H. Waldmann (Dunn School
+of Pathology, Oxford, UK; reference 31). Thymectomized mice
+were injected intravenously with 2 mg of the appropriate mAb 3
+and 1 d before LCMV infection. Efficacy of treatment was
+checked by FACS® (Becton Dickinson, Mountain View, CA)
+analysis. The production of sheep anti–mouse IFN-␥ antiserum
+has been described (32). After partial purification of pooled sera
+by (NH4)2SO4 precipitation, neutralizing titers of 5 ϫ 104 neu-
+tralizing units (NU)/ml were obtained. Mice were treated daily
+from day 5 to day 15 after LCMV infection with 2 ϫ 104 NU
+anti–IFN-␥ in 0.2 ml of BSS intraperitoneally. Control mice
+were injected with normal sheep serum.
+Cytotoxicity Assay. CTL activity of spleen cells was deter-
+mined by a 51Cr–release assay as described (33). In brief, mice
+were infected intravenously 8 d before with 200 PFU of LCMV.
+Single spleen cell suspensions were prepared at 7 ϫ 106/ml in
+MEM ϩ 2% FCS. Fibroblast target cells MC57G (H-2b) or T cell
+lymphoma target cells RMA (H-2b) were coated with LCMV-
+GP–derived immunodominant peptide amino acids (aa)33-41
+(glycoprotein [gp]33) at a concentration of 10-6 M, and were la-
+beled with 1 ␮Ci of Na51CrO4 for 2 h at 37ЊC, washed three
+times, and resuspended at 105/ml. Threefold dilutions of spleen
+cells were incubated with 100 ␮l of target cells in 96-well micro-
+titer round-bottomed plates for 5 h. A total of 70 ␮l of the super-
+natant was assayed for released 51Cr. The percent specific release
+of 51Cr was calculated as [(experimental release Ϫ spontaneous re-
+lease) ϫ 100/(total release Ϫ spontaneous release)]. Spontaneous
+release was always Ͻ20%.
+Analysis of Secreted Cytokines by LCMV-specific T Cells. Mice were
+immunized intravenously with 200 PFU LCMV-WE. 8 or 14 d
+later, CD8ϩ T cells were purified from spleen cell suspensions by
+MACS® sorting according to the protocol of the supplier (Mil-
+tenyi Biotec, Bergisch Gladbach, Germany); the proportion of
+pure CD8ϩ T cells obtained was in the range of 70–85%. 105
+CD8ϩ T cells were incubated in 96 wells with threefold serial di-
+lutions of gp33 in concentrations ranging from 10-6 to 10-8 M or
+medium only (RPMI, FCS 5%, with Con A supernatant 2%) in
+the presence of 6 ϫ 105 irradiated (2,000 cGy) C57BL/6 spleen
+cells. 48 h later supernatants were analyzed for IFN-␥ and TNF/
+lymphotoxin (LT)-␣ by ELISA as described (34).
+Flow Cytometry. Single-cell suspensions of BM, thymus, or
+spleen were prepared at 4ЊC in buffer solution (BSS containing
+2% FCS and 0.2% NaN3) for staining with mAbs conjugated with
+fluorochromes. The following antibodies were used: anti-CD4
+and anti-CD8 (Becton Dickinson), anti-TCR V␣2, anti–IFN-␥,
+and anti-TNF/LT-␣ (PharMingen). To detect expansion of
+gp33-specific TCR-tg T cells in the BM, cell suspensions were
+doubly stained with a PE-conjugated V␣2-specific mAb and
+FITC-conjugated anti-CD8–specific mAb. After lysis of erythro-
+cytes with FACS® lysis solution and washing, cell suspensions
+were analyzed on a FACScan® using logarithmic scales. To detect
+intracellular cytokines, MACS®-enriched CD8ϩ T cells were
+1906 Aplastic Anemia in Persistent LCMV Infection
+stimulated with PMA (0.05 ␮g/ml) and ionomycin (0.5 ␮g/ml)
+for 4 h. Subsequently, the cells were incubated for a further 2 h in
+the presence of 2 ␮M monensin. After washing and surface label-
+ing with PE-conjugated anti-CD8, cells were fixed in PBS con-
+taining 2% paraformaldehyde. Thereafter, cells were permeabi-
+lized with saponine (0.1%) and unspecific binding to cytoplasmic
+proteins was blocked with 1:16 diluted normal rat serum. Intra-
+cellular cytokines were then stained with FITC-conjugated anti–
+IFN-␥ or FITC-conjugated anti-TNF/LT-␣ and saponine was
+removed by washing with buffer solution. Multiparameter analy-
+sis was performed with a FACScan® using logarithmic scales. Via-
+ble cells were gated by forward and side scatter of light.
+Statistics. Data are presented as means Ϯ SD unless stated
+otherwise. Comparisons were made using the two-tailed un-
+paired Student’s t test, the analysis of variance (ANOVA), and the
+Scheffe’s post hoc procedure as appropriate. A P value of Ͻ0.05
+was regarded as significant.
+Results
+Lethal Pancytopenia Caused by Virus-specific CD8ϩ T Cells
+in Chronic LCMV Infection of P0/0 Mice. The initial CBCs
+of uninfected P0/0 and wt C57BL/6 mice kept under SPF
+conditions were comparable (Fig. 1). After infection with
+LCMV, wt C57BL/6 mice showed a moderate, but revers-
+ible depression of the CBCs. Neutrophils were lowest on
+day 3 and reticulocytes on days 9–12 after infection. The
+transient reduction of platelets and RBCs in C57BL/6
+mice was very mild and mainly due to repetitive blood
+sampling (Fig. 1 A). In contrast, LCMV-infected P0/0 mice
+exhibited an abrupt and continuous stop of reticulocyte
+production starting from day 5 post infection (p.i.), the
+RBC and the thrombocyte count progressively dropped
+within 14 d, and the neutrophil count remained below
+1,000/␮l after day 3. Death ensued between day 14 and 24
+p.i. To assess the respective role of CD8ϩ and/or CD4ϩ T
+cells, thymectomized P0/0 mice were treated with either a
+rat mAb specific for CD4 (YTS 191.1) or a rat anti–mouse
+CD8 (YTS 169.4) on days Ϫ3 and Ϫ1 before infection
+with LCMV (Fig. 1 B). CD8-depleted P0/0 mice showed
+an identical time course of the altered CBCs as compared
+with CD8-depleted wt C57BL/6 mice (not shown). Com-
+pared with untreated LCMV-infected C57BL/6 mice,
+reticulocytes recovered 4 d earlier and numerically to a
+lesser extent in CD8-depleted P0/0 mice (Fig. 1, A and B).
+The kinetics of the transient decrease of the thrombocytes
+and the neutrophils was comparable between CD8-depleted
+P0/0 and untreated C57BL/6 mice, except for a slightly
+higher neutrophil count after day 10. This difference was
+probably due to the increased viral load in the CD8-
+depleted P0/0 mice that become LCMV carriers, whereas
+untreated C57BL/6 mice have cleared LCMV on day 10
+(not shown). In contrast, anti-CD4–treated P0/0 mice had
+succumbed similarly to untreated P0/0 mice between 14 and
+24 d after LCMV infection, due to the severely depressed
+CBCs (Fig. 1 B). In addition to early induced IFN-␣/␤
+(15), these results implicate that LCMV-specific CD8ϩ
+Figure 1. Kinetics of peripheral blood
+values after infection with LCMV (109/
+ml RBCs, 109/ml reticulocytes [RC],
+109/ml thrombocytes [TC], 106/ml neu-
+trophils [NP]). (A) C57BL/6 mice (᭹)
+or P0/0 mice (᭡) were infected intrave-
+nously with LCMV (2 ϫ 102 PFU).
+Blood was collected from the retroor-
+bital plexus of individual mice at the in-
+dicated time points. CBCs were quanti-
+fied in a hemocytometer and neutrophils
+were determined microscopically from
+blood smears. (B) TCR-tg P0/0 (᭿) or
+thymectomized P0/0 mice treated with
+either anti-CD4 (᭝) or anti-CD8 (᭞)
+before LCMV infection. The data repre-
+sent mean Ϯ SD of four mice per group.
+1907 Binder et al.
+T cells contribute to transient BM suppression also in wt
+C57BL/6 mice during the later phase of LCMV-infection.
+The predominant role of LCMV-specific CD8ϩ T cells
+causing pancytopenia in P0/0 mice was further analyzed by
+infecting P0/0 mice expressing a tg TCR specific for the
+glycoprotein peptide aa33-41 derived from LCMV-GP
+(P0/0 ϫ TCR). In naive P0/0 ϫ TCR mice, the proportion
+of CD8ϩ spleen cells expressing the tg TCR is ‫,%05ف‬ and
+88% of T cells in the blood periphery are positive for the tg
+TCR 9 d after LCMV infection (21). As shown in Fig. 1 B,
+in the presence of an increased frequency of LCMV-spe-
+cific CD8ϩ T cells in P0/0 ϫ TCR mice, the CBCs dimin-
+ished very rapidly, and within 6–10 d irreversible pancy-
+topenia caused death of infected mice. These TCR-tg mice
+(V␣2/V␤8.1) allowed us to follow directly the kinetics of
+LCMV-specific lymphocytes infiltrating and damaging the
+BM in response to viral replication.
+BM Analysis of P0/0 Mice after Infection with LCMV in the
+Presence or Absence of CD4ϩ and CD8ϩ T Cells. To address
+the question of whether pancytopenia in LCMV-infected
+P0/0 mice reflected consumption or destruction of blood
+cells rather than suppression of BM function, the different
+BM compartments (i.e., pluripotent, lineage-committed,
+and morphologically defined) were studied at several time
+points after infection. Femoral cellularity in P0/0 mice had
+dropped to 29 Ϯ 12% of baseline on day 14 and in P0/0 ϫ
+TCR mice to 42 Ϯ 10% on day 8, whereas in C57BL/6
+mice minimal values of 86 Ϯ 15% were observed 6–8 d af-
+ter LCMV infection. Serial cytological analysis of BM
+preparations revealed a complete loss of megakaryocytes
+and a gradual deficiency of erythroblasts and postmytotic
+myeloid cells until day 8 in P0/0 ϫ TCR and day 14 in P0/0
+mice, respectively (Table 1). A gradual relative increase of
+marrow monocytes and lymphocytes was noted in P0/0
+and, more vigorously, in P0/0 ϫ TCR mice after LCMV
+infection. Correlating with the morphologically defined
+compartment, P0/0 mice exhibited a progressive decrease of
+the number of pluripotent CFU-S (Fig. 2 A) and commit-
+ted progenitors (Fig. 2 B), which reached minimal values
+shortly before death on day 14. In LCMV-infected wt
+C57BL/6 mice, a transient reduction of stem cells was also
+observed, but it was less severe and was close to normal on
+day 14 after LCMV infection. CD4-depleted P0/0 mice
+showed loss of committed and pluripotent stem cells com-
+parable to untreated P0/0 mice, whereas CD8-depleted P0/0
+mice had Ͼ10-fold higher numbers of blood cell progenitors
+after 14 d of LCMV-infection (Fig. 2). Thus, CD8ϩ, but not
+CD4ϩ, T cells altered peripheral blood values of LCMV-
+infected P0/0 mice by drastically reducing the frequency of
+the pluripotent and the lineage-committed stem cells.
+Role of Immunopathology versus Autoreactivity in AA of
+LCMV-infected P0/0 Mice. Infiltration of virus-specific T
+cells into the BM, replication kinetics of LCMV, and type
+of BM cells infected with LCMV were assessed in P0/0 and
+P0/0 ϫ TCR mice at various time points after infection.
+Both strains of P0/0 (TCR tg and TCR non-tg) showed a
+similar kinetics of LCMV replication in the BM and a
+comparable plateau of persisting viral load in the range of
+Table 1. Kinetics of BM Cytology of C57BL/6, P0/0, and P0/0 ϫ TCR Mice Infected with LCMV
+Genotype
+Days*
+after
+infection
+Cell type (%)§
+Megakaryocyte‡ Erythroblast
+Blasts
+promyelocyte
+Myelocyte
+metamyelocyte
+band Polymorph Monocyte Lymphocyte
+P0/0 Uninfected 12–24 35.5 Ϯ 1.0 9.5 Ϯ 1.8 36.5 Ϯ 2.8 5.0 Ϯ 1.5 0.5 Ϯ 0.3 13.0 Ϯ 1.4
+C57BL/6 Day 6 6–10 9.5 Ϯ 0.7 27.5 Ϯ 1.4 31.5 Ϯ 1.4 9.5 Ϯ 2.0 5.5 Ϯ 0.8 16.5 Ϯ 2.6
+P0/0 6–12 11.5 Ϯ 0.4 28.5 Ϯ 1.4 27.0 Ϯ 1.8 10.0 Ϯ 2.0 3.0 Ϯ 0.5 20.0 Ϯ 1.3
+P0/0 ϫ TCR 4–8 4.0 Ϯ 0.2 27.0 Ϯ 1.3 32.0 Ϯ 1.1 7.0 Ϯ 0.8 3.5 Ϯ 1.5 26.5 Ϯ 2.8
+C57BL/6 Day 8 6–10 4.5 Ϯ 0.6 23.0 Ϯ 2.0 37.5 Ϯ 0.8 18.0 Ϯ 1.0 6.0 Ϯ 1.0 11.0 Ϯ 2.3
+P0/0 5–10 7.0 Ϯ 0.3 40.5 Ϯ 2.8 29.0 Ϯ 2.0 3.0 Ϯ 0.1 6.5 Ϯ 0.5 14.0 Ϯ 1.8
+P0/0 ϫ TCR 0 2.5 Ϯ 0.4 31.5 Ϯ 3.3 8.0 Ϯ 0.3 1.0 Ϯ 0.3 9.5 Ϯ 4.5 47.5 Ϯ 2.0
+C57BL/6 Day 14 8–14 22.0 Ϯ 1.5 16.5 Ϯ 0.8 20.5 Ϯ 2.2 31.0 Ϯ 3.0 1.5 Ϯ 0.8 9.0 Ϯ 0.8
+P0/0ʈ 0–3 2.0 Ϯ 0.5 10.0 Ϯ 1.0 28.5 Ϯ 9.2 5.0 Ϯ 1.0 24.0 Ϯ 1.5 29.5 Ϯ 0.3
+*Mice (8–12 wk) of different genotypes (three mice per group) were infected with LCMV (2 ϫ 102 PFU). At the time points indicated, BM smears
+were stained with May-Grünwald/Giemsa, chloracetate esterase, ␣-naphthyl butyrate esterase, and Sudan black B. Differential counts were obtained
+microscopically by counting 200 or more cells.
+‡Numbers represent megakaryocytes per visual field at a magnification of 80. They were determined semiquantitatively by counting at least four vi-
+sual fields.
+§Data are means Ϯ SD of the relative number of total cells per lineage. Eosinophils were included in granulocyte counts.
+ʈP0/0 ϫ TCR mice had all died by day 14.
+1908 Aplastic Anemia in Persistent LCMV Infection
+103–104 PFU/107 BM cells after day 6 of LCMV infection
+(Fig. 3 A). In contrast, viral titers in wt C57BL/6 mice did
+not exceed 102 PFU/107 nucleated BM cells and were be-
+low detection levels already on day 8 p.i. Concomitant ex-
+pansion of polyclonal CD8ϩ T cells and T cells expressing
+the TCR for gp33 presented on H-2b were followed flow
+cytometrically by staining BM cells with a CD8– and a
+TCR-V␣2–specific mAb (Fig. 3 B). By day 2 after LCMV
+infection, the frequency of CD8ϩ T cells expressing the
+V␣2 segment of the TCR was ‫%2ف‬ of all nucleated BM
+cells and reached maximal levels 6 d p.i. in P0/0 ϫ TCR
+mice. In P0/0 mice, BM infiltration with polyclonal CD8ϩ
+T cells was less vigorous, but their proportion persisted
+above 20% of BM cells until 14 d after LCMV infection.
+Morphologically defined hematopoietic cells (according to
+Table 1) infected with LCMV were detected by staining
+BM smears with an LCMV-specific mAb (15) and N418,
+an antibody detecting CD11c on dendritic cells (Fig. 3 C).
+Although LCMV Ag was expressed in great amounts in
+CD11c-positive APCs and stromal BM cells, LCMV did
+not replicate to a detectable extent in hematopoietic cells in
+C57BL/6, P0/0, and P0/0 ϫ TCR mice at any time point of
+infection. Additionally, staining with the same mAb of picked
+colonies of BFU-E, CFU-GM, and CFU-Meg of infected
+P0/0 mice did not reveal replication of LCMV in early he-
+matopoietic progenitors (data not shown).
+To study whether blood cell precursors in the BM
+shared antigenic determinants with LCMV and cross-reac-
+tivity to self-Ags was involved in AA of LCMV-infected
+P0/0 and P0/0 ϫ TCR mice, an experimental approach was
+chosen that has been described previously (21). TCR-tg T
+cells were activated by infecting P0/0 ϫ TCR mice intrave-
+nously with 2 ϫ 106 PFU of vacc-LCMV-GP. After 6 d, 5 ϫ
+106 spleen cells were adoptively transferred into sex-
+Figure 2. Number of stem cells in the BM after LCMV infection. (A) To determine the pluripotent hematopoietic progenitors (CFU-S), 105 synge-
+neic BM cells of normal or infected C57BL/6 mice (᭹), P0/0 (᭡), or thymectomized P0/0 mice treated with either anti-CD4 (᭝) or anti-CD8 (᭞) donor
+mice were injected intravenously into lethally irradiated LCMV-immune recipient C57BL/6 mice (H-2b). CFU-S were determined 12 d later on the
+surface of the spleen (photograph). Each dot shows the number of colonies of an individual recipient. The horizontal lines represent the mean number of
+colonies per femur transferred from one individual donor mouse. The mean CFU-S of three individual donor mice per group are shown. (B) Lineage-
+committed precursors in C57BL/6 mice (white columns) or P0/0 (black columns) or thymectomized P0/0 mice treated with either anti-CD4 (dotted columns) or
+anti-CD8 (hatched columns). Results are presented as the mean number (Ϯ SD) of BFU-E, CFU-GM, or CFU-Meg for duplicate methylcellulose cultures
+of total BM cells per femur. Pooled data from two independent experiments with two individual mice per group are shown.
+1909 Binder et al.
+matched, syngeneic tg mice expressing LCMV-GP in their
+pancreas. Applying this protocol, gp33-specific tg T cells
+were strongly activated, but vaccinia virus was efficiently
+eliminated before the transfer of T cells because in the ab-
+sence of perforin, the ability to control vaccinia virus is re-
+tained (35). This allowed us to circumvent cotransfer of vi-
+rus leading subsequently to uncontrolled viral replication in
+recipient mice, as seen in LCMV-infected P0/0 and P0/0 ϫ
+TCR mice. To keep the transferred cells in an activated
+state, the recipients were infected intravenously with 2 ϫ
+106 PFU vacc-LCMV-GP. All recipients receiving P0/0 ϫ
+TCR spleen cells developed insulitis, i.e., extensive infiltra-
+tion of CD8ϩ T cells into the pancreatic islets expressing
+the LCMV-GP transgene was found histologically (21). In
+contrast, no abnormalities of the CBCs were detected 10 d
+and later after adoptive transfer of the tg T cells into the
+same recipient mice (Table 2). Using the same experimen-
+tal setup, a normal CBC was also obtained after transfer of
+activated TCR-tg T cells into syngeneic C57BL/6 mice
+that do not express the LCMV-GP transgene in their pan-
+creas. Collectively, these findings made a direct, cognate
+cell to cell interaction between virus-specific CD8ϩ T cells
+and hematopoietic progenitors expressing either LCMV
+peptides or cross-reactive self-epitopes on H-2b, subse-
+Figure 3. LCMV titers and infection of dendritic cells correlating with expansion of T cells in the BM. (A) LCMV titers were determined in a focus-
+forming assay and are given as PFU per 107 nucleated BM cells. Data points are values for three individual mice. (B) tg CD8ϩ T cells expressing a TCR
+specific for the gp peptide aa33-41 derived from LCMV presented on H-2Db were detected in the CD8ϩ/TCR-V␣2ϩ compartment by FACS® analysis.
+Lower right quadrant, Expansion of endogenous T cells in TCR tg P0/0 (P0/0 ϫ TCR) and CD8ϩ T cells of non-tg P0/0 or C57BL/6 mice. Populations rep-
+resent frequencies of total nucleated BM cells and dot plots are representative of three mice. (C) Immunocytochemical staining of BM smears with an
+LCMV (VL4)- and CD11c (N418)-specific mAb. The respective cells expressing either LCMV or CD11c appear black.
+1910 Aplastic Anemia in Persistent LCMV Infection
+Table 2. Peripheral Blood Values of LCMV-GP tg Mice after Adoptive Transfer with LCMV-GP–specific T Cells
+Donor T cells* Recipient‡
+Infection of
+recipient
+Infiltration
+of islets
+CBC§ of recipients (10 d after adoptive transfer)
+Reticulocytes Platelets Neutrophils
+None No transgene None Ϫ 215 Ϯ 10 953 Ϯ 110 4.5 Ϯ 0.2
+None No transgene vacc-LCMV-GP Ϫ 210 Ϯ 28 1,021 Ϯ 92 3.8 Ϯ 0.1
+P0/0 ϫ TCR LCMV-GP vacc-LCMV-GP ϩϩϩϩ 221 Ϯ 15 1,271 Ϯ 145 4.0 Ϯ 0.4
+P0/0 ϫ TCR No transgene vacc-LCMV-GP Ϫ 229 Ϯ 25 998 Ϯ 84 4.7 Ϯ 0.3
+*LCMV-GP–specific T cells were activated by infecting P0/0 ϫ TCR mice with 2 ϫ 106 PFU vacc-LCMV-GP intravenously. 6 d later, 5 ϫ 106
+spleen cells were transferred into syngeneic recipients (H-2b).
+‡Recipient mice expressed LCMV-GP as a transgene under the rat insulin promoter in the ␤ cells of the pancreatic islets (47). To keep the trans-
+ferred cells activated, recipient mice were infected intravenously with 2 ϫ 106 PFU vacc-LCMV-GP after transfer. Pancreatic islets were analyzed
+histologically and have been described previously (21).
+§CBCs were quantified in a hemocytometer, and neutrophils were determined microscopically from blood smears. Values are ϫ106/ml.
+Figure 4. Comparison of different lymphocyte populations of uninfected (nl) C57BL/6, P0/0 and P0/0/TNFR10/0 mice, and consequences of LCMV
+infection in vivo. (A) Normal development of CD4ϩ and CD8ϩ T cell compartments in thymus (Thy) and spleen (Spl). Activation and expansion of
+spleen cells was compared between different mouse strains 8 d after infection with LCMV (200 PFU). Blast formation of activated T cells was demon-
+strated by comparing forward scatter (FSC) of CD8ϩ T cells from LCMV-infected (solid line) mice with uninfected (dotted line) mice. (B) LCMV-specific
+CTL activity measured on lymphohematopoietic target cells after a primary infection with LCMV. RMA lymphoma cells were either uninfected (open
+symbols) or labeled with peptide aa33-41 of LCMV-GP (᭹, C57BL/6; ᭢, TNFR10/0 mice) presented by H-2Db. Lytic activity was measured in a 5-h51Cr–
+release assay; spontaneous release was Ͻ15%. (C) Overall health status after infection with LCMV as assessed by survival and loss of body weight. P0/0
+mice (᭡, dashed lines) were either thymectomized and depleted of CD8ϩ T cells (᭞, dotted lines) or lacked the expression of TNFR1 (P0/0/TNFR10/0 ᭜,
+solid lines).
+1911 Binder et al.
+Table 3. Virus Titers of C57BL/6, P0/0, and P0/0/TNFR10/0 Mutants in Different Organs after Various Time Points of LCMV Infection
+Genotype
+Days after
+infection*
+Virus titer per ml or gram organ‡
+Blood Bone marrow Spleen Thymus Liver Kidney
+PFU PFU PFU PFU PFU PFU
+C57BL/6 8 1.0 ϫ 102 Ͻ10 5.2 ϫ 103 3.0 ϫ 103 Ͻ100 Ͻ100
+14 Ͻ50 Ͻ10 Ͻ75 Ͻ90 Ͻ100 Ͻ100
+P0/0 8 3.4 ϫ 104 7.4 ϫ 103 1.8 ϫ 107 7.8 ϫ 105 1.9 ϫ 106 4.5 ϫ 105
+14 2.2 ϫ 104 6.7 ϫ 103 6.5 ϫ 107 2.8 ϫ 106 6.8 ϫ 107 2.1 ϫ 106
+P0/0/TNFR10/0 8 6.1 ϫ 104 6.7 ϫ 103 2.4 ϫ 107 9.7 ϫ 105 1.3 ϫ 106 3.1 ϫ 105
+14 6.3 ϫ 104 6.4 ϫ 103 6.0 ϫ 107 8.6 ϫ 106 5.6 ϫ 107 3.1 ϫ 107
+40 3.0 ϫ 103 3.0 ϫ 103 9.0 ϫ 105 2.1 ϫ 105 7.3 ϫ 105 1.1 ϫ 106
+90 3.3 ϫ 103 4.0 ϫ 102 4.9 ϫ 106 5.0 ϫ 105 6.8 ϫ 104 3.3 ϫ 105
+*Mice were infected with a low dose of LCMV (2 ϫ 102 PFU); organs were removed at the indicated time points after infection.
+‡Viral titers of the various organs were determined individually in a focus-forming assay and are given as PFU per gram of tissue for solid organs.
+Blood titers are shown as PFU/ml and BM titers as PFU/107 nucleated BM cells. Data represent means of three to four mice. SD varied between
+0.01 and 0.4 log10.
+quently leading to destruction of stem cells and develop-
+ment of AA, very unlikely.
+Effects of LCMV Infection on Survival, Viral Replication, and
+T Cell Response in P0/0 Mice that Lack TNFR1 Expression.
+To test a possible T cell–dependent damaging effect of
+TNF/LT-␣ in AA of LCMV-infected P0/0 mice, P0/0 mice
+were crossed into TNFR10/0 mice. These mutants exhibit
+normal CTL induction and effector functions against
+LCMV (28). Lymphocyte subpopulations in the thymus
+and the spleen in these double knockouts (P0/0/TNFR10/0)
+were comparable to wt C57BL/6 mice, i.e., the concurrent
+deficiency of perforin and TNFR1 in individual mice did
+not alter the proportion of the two T cell compartments in
+these lymphoid organs (Fig. 4 A, top). Activation and ex-
+pansion of T cells in the spleen were followed by FACS®
+analysis 8 d after infection with LCMV (Fig. 4 A, bottom).
+Both P0/0 and P0/0/TNFR10/0 mice showed a similar in-
+crease in CD8ϩ T cells by a factor of ‫5ف‬ and the typical in-
+version of the CD4ϩ/CD8ϩ ratio from 1.5 of uninfected to
+0.15 of infected individuals on day 8 after infection. In par-
+allel, expanding CD8ϩ T cells in the spleen were similarly
+activated in both mutant mouse strains, as demonstrated by
+the increased forward light scatter of CD8ϩ T cells. (Note
+the significantly higher proportion of large blasts in P0/0 and
+P0/0/TNFR10/0 mice when compared with C57BL/6 mice
+[Fig. 4 A, bottom].) The cytolytic effector function of
+LCMV-induced CTLs was then assessed in an in vitro
+51Cr–release assay 8 d after infection with LCMV (Fig. 4 B).
+Spleen cells from P0/0 and P0/0/TNFR10/0 mice did not
+lyse peptide-labeled MC57G fibrosarcoma (H-2b) targets
+(not shown), whereas residual virus-specific, Fas/CD95-
+mediated cytolytic activity was comparably detected on
+gp33-labeled RMA lymphoma cells (H-2b) in both mouse
+strains. By comparison, both parental strains (C57BL/6 and
+TNFR10/0) exhibited an equal cytolytic activity on gp33-
+labeled fibroblast (not shown) and lymphoma targets (Fig. 4
+B). Infection with LCMV was lethal in age- and sex-
+matched P0/0 mice by day 21 after infection (Fig. 4 C, left).
+In contrast, P0/0/TNFR10/0 mice survived LCMV infec-
+tion and demonstrated a loss of initial body weight and
+subsequent runting disease comparable to thymectomized,
+CD8-depleted P0/0 mice (Fig. 4 C, right). The kinetics of
+viral replication was next examined in various solid organs
+and hematopoietic tissues after different time points of
+LCMV infection (Table 3). The increase in viral load was
+comparable between P0/0/TNFR10/0 and P0/0 mice, and
+maximal viral titers had reached similar values in all organs
+tested already by day 8, reflecting an unaltered susceptibil-
+ity to LCMV replication in P0/0 mice deficient in TNFR1
+as opposed to P0/0 control mice. In contrast, wt C57BL/6
+and TNFR10/0 mice had cleared LCMV by day 14 after in-
+fection below detection levels. Surviving P0/0/TNFR10/0
+mice remained persistently infected with LCMV and ex-
+hibited a mild decrease in viral titers in most organs on day
+90 after infection. These findings indicate that the deficient
+signaling via TNFR1 provides LCMV-infected P0/0 mice
+with a selective advantage over parental P0/0 mice; addi-
+tional lack of TNF function prevents death and leads to a
+life-long viral persistence, despite quantitatively and quali-
+tatively comparable T cell responses and viral replication
+kinetics after infection with LCMV.
+CBCs and Functional BM Compartments after LCMV Infec-
+tion of Mice Devoid of Perforin and TNFR1. Because P0/0/
+TNFR10/0 mice survived LCMV infection, we anticipated
+their CBCs to differ significantly from that of P0/0 mice
+during LCMV infection. Surprisingly, both mutants exhib-
+ited a similar decline of the RBC and platelet count during
+the first 14 d and both abruptly ceased to produce reticulo-
+cytes on day 5 after infection with LCMV (Fig. 5 A). Be-
+tween days 14 and 30 after LCMV infection, however, P0/0/
+1912 Aplastic Anemia in Persistent LCMV Infection
+TNFR10/0 mice showed a vigorous regeneration of these
+blood cells, whereas P0/0 mice failed to increase their
+CBCs. The most apparent difference between LCMV-
+infected P0/0 and P0/0/TNFR10/0 mice was observed in the
+number of peripheral PMNs, which did not drop below a
+value of ‫␮/000,1ف‬l in P0/0/TNFR10/0 mice, whereas in
+P0/0 mice, generally Ͻ500/␮l neutrophils were counted af-
+ter day 8 of LCMV infection. As expected from earlier data
+(28), the CBCs of LCMV-infected, parental TNFR10/0
+mice (Fig. 5 A) showed no significant difference when
+compared with LCMV-infected C57BL/6 mice (Fig. 1 A).
+To address the question of whether the transient depres-
+sion of the CBCs was also mediated by CD8ϩ T cells,
+thymectomized, CD4- and CD8-depleted individuals were
+included in the experiments designed to determine the
+number of progenitors in the BM of LCMV-infected P0/0/
+TNFR10/0 mice. On day 8 after LCMV infection, the
+number of pluripotent and committed stem cells did not
+differ significantly between P0/0/TNFR10/0 and parental
+P0/0 mice (not shown). In contrast, on day 14 p.i., when
+the beginning of the reticulocyte crisis and point of return
+of the CBC was noted, hematopoietic progenitors were
+4–10-fold increased in P0/0/TNFR10/0 mice when com-
+pared with P0/0 mice at the same time point (Fig. 5 B).
+Thus, besides TNF/LT-␣, an additional CD8ϩ T cell–
+mediated activity was apparently involved in LCMV-induced
+AA because the numbers of stem cells in CD8- (but not
+CD4-) depleted P0/0/TNFR10/0 mice increased after
+LCMV infection and were then comparable to uninfected
+P0/0/TNFR10/0 mice (Fig. 5 B).
+IFN-␥ Production by LCMV-specific CD8ϩ T Cells in P0/0
+and P0/0/TNFR10/0 Mice. In addition to TNF/LT-␣, T
+cell–dependent IFN-␥ is known to inhibit hematopoietic
+colony formation in vitro (36). We therefore evaluated
+whether CD8ϩ T cells in LCMV-infected mutants pro-
+duced IFN-␥, causing residual blood disease in P0/0/
+Figure 5. Kinetics of CBCs and numbers of lineage-committed and pluripotent progenitors in the BM depending on expression of TNFR1 in persis-
+tent LCMV infection. (A) 109/ml RBCs, 109/ml reticulocytes [RC], 109/ml thrombocytes [TC], 106/ml neutrophils [NP]. Blood was collected from the
+retrobulbar plexus of individual TNFR10/0 (᭢), P0/0 (᭡), and P0/0/TNFR10/0 (᭜) mice at the indicated time points (four mice per group). CBCs were
+quantified in a hemocytometer and neutrophils were determined microscopically from blood smears. (B) Lineage-committed precursors after LCMV in-
+fection in P0/0/TNFR10/0 (black columns) or P0/0 (white columns) mice and thymectomized P0/0/TNFR10/0 mice treated with either anti-CD4 (dotted col-
+umns) or anti-CD8 (hatched columns). Data show the mean number (Ϯ SD) of BFU-E, CFU-GM, or CFU-Meg for duplicate methylcellulose cultures of
+total BM cells per femur on day 14. The pluripotent hematopoietic progenitors (CFU-S) were determined as described in Materials and Methods on day
+14 of infection. CFU-S in the spleens of P0/0/TNFR10/0 mice (᭜) or P0/0 (᭡) and thymectomized P0/0/TNFR10/0 mice treated with either anti-CD4
+(ٗ) or anti-CD8 (᭺) were quantified in lethally irradiated LCMV-immune recipient C57BL/6 mice (H-2b). Each dot shows the number of colonies of
+an individual recipient. The horizontal lines represent the mean number of colonies per femur transferred from one individual donor mouse.
+1913 Binder et al.
+TNFR10/0 mice. Serum samples of LCMV-infected P0/0
+and P0/0/TNFR10/0 mice were serially analyzed for the
+presence of IFN-␥ and TNF with a cytokine-specific
+ELISA, detecting TNF and LT-␣. From days 4 to 10 after
+LCMV infection, increasing amounts of these cytokines
+were measured in the serum with maximal values of 100
+U/ml of IFN-␥ and 60 ng/ml of TNF/LT-␣ on day 10.
+The serum concentrations of the cytokines did not differ
+significantly between P0/0 and P0/0/TNFR10/0 mice, but
+both cytokines were below detection limit in LCMV-
+infected C57BL/6 control mice during the entire study
+period (not shown). To identify cytokine-producing lym-
+phocytes in vivo, the proportion of MACS®-enriched
+CD8ϩ spleen cells, expressing cytokines in the cytoplasma,
+were measured by FACS® analysis (Fig. 6 A). Before
+LCMV infection, background levels of IFN-␥–positive
+CD8ϩ T cells were comparable in all mouse strains but 8 d
+later, a similar increase of IFN-␥–expressing CD8ϩ T cells
+was detected in P0/0 and P0/0/TNFR10/0 mice, whereas the
+frequency of these cells was lower in infected C57BL/6
+mice. Intracellular production of IFN-␥ by bulk CD8ϩ T
+cells in vivo was LCMV-GP specific, i.e., on day 8 after in-
+fection, CD8ϩ spleen cells of LCMV-infected mutant and
+wt mice secreted similar amounts of soluble IFN-␥ when
+restimulated in vitro with irradiated APCs pulsed with
+gp33 in the presence or absence of IL-2 (Fig. 6 B). How-
+ever, in contrast to C57BL/6 mice, gp33-specific, IFN-␥
+secreting CD8ϩ T cells had disappeared in P0/0 and P0/0/
+TNFR10/0 mice on day 14 after LCMV infection. Neither
+cytoplasmic mAb staining for TNF/LT-␣ nor restimula-
+tion in vitro with gp33 or LCMV revealed production of
+TNF/LT-␣ by CD8ϩ T cells above the detection limit, in-
+dicating that the source of TNF/LT-␣ was not LCMV-
+specific CD8ϩ T cells. Thus, induction of cytokine-secret-
+ing, CD8ϩ T cell responses by LCMV was unimpaired in
+P0/0 and P0/0/TNFR10/0 mice when compared with wt
+C57BL/6 mice, but due to the overwhelming replication
+of LCMV in lympho-hematopoietic and solid tissue in
+these mutants, LCMV-specific CD8ϩ T cells secreting
+IFN-␥ were eventually exhausted, irrespective of the pres-
+ence or absence of TNFR1 signaling.
+Dominant Role of IFN-␥ over TNF/LT-␣ in Causing
+LCMV-induced AA. To further dissect the effect of indi-
+vidual cytokines involved in virus-induced AA, LCMV-
+infected mutants, lacking function of IFN-␥, were studied.
+Because the perforin and the IFN-␥R gene are both lo-
+cated on the same chromosome, interrupting the IFN-␥–sig-
+naling pathway was not readily feasible (i.e., by crossing
+IFN-␥R0/0 mice into P0/0 mice), and therefore an IFN-␥–
+neutralizing sheep anti–mouse IFN-␥ antiserum (32) was
+used. P0/0 mice were treated daily from days 5 to 15 after
+infection with LCMV with 2 ϫ 104 NU anti–IFN-␥ intra-
+peritoneally and control mice were injected with the same
+volume of normal sheep serum (NSS). P0/0 mice treated
+with anti–IFN-␥ survived LCMV infection and became virus
+carriers similar to NSS– and anti–IFN-␥–treated P0/0/
+TNFR10/0 mice (not shown), whereas NSS-treated P0/0
+mice died within the usual time period.
+The CBCs improved drastically in anti–IFN-␥–treated
+P0/0 mice during the critical time period, starting on day 10
+after LCMV infection, when compared with NSS-treated
+controls (Fig. 7, A and B, left). In LCMV-infected P0/0/
+TNFR10/0 mice, the effect of daily anti–IFN-␥ treatment
+was more moderate, i.e., the increase of the neutrophil
+count was only about fourfold when compared with NSS-
+Figure 6. Production of IFN-␥ by CD8ϩ T cells, isolated from
+LCMV-infected C57BL/6 and mutant P0/0 or P0/0/TNFR10/0 mice. (A)
+Cytokine-expressing T cells were identified in vivo in MACS®-enriched
+CD8ϩ spleen cells after stimulation with PMA and ionomycin in vitro.
+CD8ϩ T cells were isolated from spleens of either uninfected controls (nl)
+or mice infected 8 d previously with LCMV. The proportion of cells ex-
+pressing intracellular IFN-␥ was measured by FACS® analysis; the num-
+bers in dot plots indicate percentages of cells expressing IFN-␥ gated for
+CD8ϩ cells. Lower left quadrants, Cells were 20–25% of purified spleen
+cells and were mainly CD4ϩ T cells. Plots are representative for three
+mice per group. (B) Detection of IFN-␥–secreting virus-specific T cells at 8
+and 14 d after LCMV infection in parental C57BL/6 (᭹) and TNFR10/0
+(᭢) or mutant P0/0 (᭡) and P0/0/TNFR10/0 (᭜) mice. Corresponding
+uninfected control mice of the same genotype were included in the same
+experimental settings (open symbols). MACS®-enriched CD8ϩ spleen cells
+of infected wt and mutant mice were restimulated in vitro with irradiated
+syngeneic APCs coated in threefold serial dilutions with gp33 in the pres-
+ence of IL-2. After 48 h, IFN-␥ was measured in an ELISA; numbers on
+ordinates represent IFN-␥ concentrations in supernatant (U/ml).
+1914 Aplastic Anemia in Persistent LCMV Infection
+treated P0/0/TNFR10/0 mice (Fig. 7 A, right). Because the
+number of RBCs in anti–IFN-␥–treated P0/0/TNFR10/0
+mice decreased only to a mild extent, the regeneration of
+RBCs on day 14 after LCMV infection was weaker than
+that of NSS-treated P0/0/TNFR10/0 mice. This is reflected
+by a less vigorous production of reticulocytes when anti–
+IFN-␥ treatment was given daily to LCMV-infected P0/0/
+TNFR10/0 mice (Fig. 7 B, right). Moreover, the number of
+eosinophils of both P0/0 and P0/0/TNFR10/0 mice had re-
+turned to normal levels 14 d after LCMV infection when
+the mutants were treated with anti–IFN-␥, but not when
+treated with NSS (Fig. 7 A, bottom). After neutralizing
+IFN-␥ in LCMV-infected P0/0 mice with daily anti–IFN-␥
+treatment, CFU-GM and BFU-E were 1.5–2-fold higher
+than in NSS-treated P0/0/TNFR10/0 mice 14 d after infec-
+tion (Fig. 7, C and D). When both cytokines were blocked
+during LCMV infection (anti–IFN-␥–treated P0/0/TNFR10/0
+mice), committed stem cell frequencies were comparable
+to CD8ϩ-depleted P0/0 and normal C57BL/6 mice on day
+14 after LCMV infection. These findings collectively indi-
+cate that the myelosuppressive effect of IFN-␥ in chroni-
+cally infected P0/0 mice was much more efficient when
+compared in the absence of TNF/LT-␣ function, as ana-
+lyzed in LCMV-infected P0/0/TNFR10/0 mice.
+Discussion
+Mechanism of Development and Rescue from
+Aplastic Anemia
+LCMV-infected P0/0 mice represent a model for virus-asso-
+ciated AA as they develop a disorder that shares most of the
+hematologic and immunologic properties of human AA as-
+sociated with seronegative hepatitis for A-G or other viral
+infections that are not cytopathic for hematopoietic cells. It
+manifests as a progressive pancytopenia with uniform de-
+pression of the CBC that is lethal for 100% of infected
+mice. Morphologically, the blood smear shows no abnor-
+malities and analysis of the precursors in the BM reveals
+drastically reduced numbers of hematopoietic progenitors,
+including those for erythroid cells (BFU-E), myeloid cells
+(CFU-GM), megakaryocytes (CFU-Meg), and stem cells
+(CFU-S 12). Depletion experiments with mAb demon-
+strate the critical role of CD8ϩ T cells but not of CD4ϩ T
+cells or NK cells, a finding corresponding closely to the im-
+mune phenotype found in the BM and blood of patients
+with AA (37). Acceleration of disease in TCR-tg animals is
+reminiscent of the association between certain MHC class I
+alleles and the incidence of AA in some patient popula-
+tions, which may reflect differences in the TCR repertoire
+Figure 7. Influence on RBC and neutrophil
+formation by neutralizing IFN-␥ during
+chronic LCMV infection in P0/0 and P0/0/
+TNFR10/0 mice. From days 5 to 15 after
+LCMV infection, mice were injected daily with
+sheep anti–IFN-␥ (anti-IFN-␥) or sheep normal
+serum (NS) intraperitoneally. (A) Hemocyto-
+gram showing leukocyte counts in P0/0 mice
+treated with normal sheep serum on day 14 af-
+ter LCMV infection (plot representative for
+four mice/treatment group). Neutrophils are
+identified by their positive staining for peroxi-
+dase; numbers in plots delineate neutrophils
+(ϫ106/ml) determined microscopically from
+blood smears. (B) Circulating reticulocytes
+quantitated flow cytometrically by unspecific
+RNA staining with auramine-O. The y-axis
+shows forward scatter (FSC) and the x-axis
+shows forward fluorescence. Cells with a high
+fluorescence intensity represent young reticulo-
+cytes containing high amounts of RNA and are
+separated from the area of mature RBCs by a
+vertical line. The horizontal curve separates
+platelets from RBCs and reticulocytes. Num-
+bers in plots are absolute numbers of reticulo-
+cytes in the blood (ϫ106/ml). (C and D) Mye-
+loid and erythroid precursors in the BM of mice
+treated with sheep normal serum (open columns)
+or sheep anti–IFN-␥ (black columns) 14 d after
+LCMV infection. Values show the mean num-
+ber (Ϯ SD) for duplicate methylcellulose cul-
+tures of total BM cells per femur. Pooled data
+from three individual mice per group are
+shown.
+1915 Binder et al.
+or precursor frequency being involved in progression to se-
+vere disease (10). TNF/LT-␣ and IFN-␥ are the most im-
+portant inhibitory molecules of hematopoiesis in AA of
+LCMV-infected P0/0 mice, and are also detected in marrow
+cell preparations from most cases with AA in humans (38–40).
+CTL-mediated Immunopathology. AA in LCMV-infected
+P0/0 mice is the consequence of a nonbalanced antiviral im-
+mune response caused by a conflict between persisting viral
+Ag and continuously expanding CD8ϩ T cells in the BM.
+In the presence of a comparable viral load and similar repli-
+cation kinetics of LCMV in P0/0 and TCR-tg P0/0 mice,
+vigorously expanding TCR-tg T cells do not eliminate
+LCMV from the BM but cause AA very rapidly after infec-
+tion. This accelerated development of AA illustrates the
+causal role of the major LCMV-GP–specific effector T cell
+population in H-2b mice. Consistent with the general ob-
+servation that CD4ϩ T cells are not necessary for the in-
+duction of antiviral CD8ϩ T effector cells against LCMV
+(41), CD8ϩ T cell–depleted P0/0 mice do not develop AA
+after LCMV infection. A “compensatory” immunopatho-
+logic role for CD4ϩ T cells in mice lacking CD8ϩ CTLs, as
+has been suggested in meningitis provoked by intracerebral
+infection of ␤2-microglobulin–deficient mice with LCMV
+(25), is not observed in AA of LCMV-infected P0/0 mice.
+Cognate Interaction between TCR and Stem Cells versus By-
+stander Effect. There is no evidence that a precise cell–cell
+contact between virus-specific CD8ϩ T cells and hemato-
+poietic progenitors presenting a viral epitope on H-2b is es-
+sential for development of AA in LCMV-infected P0/0
+mice. LCMV persists in high amounts in the BM and colo-
+calizes with stromal and CD11c-positive APCs in BM
+smears, but virus is not detected in the morphologically de-
+fined hematopoietic cells of aplastic P0/0 mice. This obser-
+vation is similar to a previous report, demonstrating LCMV
+replication in splenic dendritic cells after infection of mice
+with LCMV clone 13, subsequently leading to generalized
+immune suppression through elimination of these APCs by
+virus-specific CTLs (42). Because P0/0 mice lack cytotoxic
+effector functions and therefore cannot kill mesenchymal
+cells, LCMV-infected APCs in the BM of P0/0 mice are not
+destroyed but support continuous expansion of virus-spe-
+cific CD8ϩ T cells by serving as an Ag reservoir. Damage
+by virus-specific T cells and a subsequent early dropout of
+LCMV-infected stem cells is unlikely to be involved in the
+pathogenesis of LCMV-induced AA in P0/0 mice because
+lineage-committed progenitors, cultured in vitro at differ-
+ent time points after infection, are free of virus. Loss of tol-
+erance and autoimmunity to progenitors in the BM may be
+an important mechanism of virus-associated AA in humans
+(14) and T cell clones, showing autoreactivity to autolo-
+gous blood cell precursors expressing MHC-DP determi-
+nants, have been established (43). As demonstrated in the
+adoptive transfer experiments, AA in LCMV-infected P0/0
+mice is not caused by autoimmunity to hematopoietic stem
+cells in the BM. Taken together, these results implicate that
+a cognate cell to cell interaction between the TCR of virus-
+specific CD8ϩ T cells and hematopoietic stem cells either
+expressing a LCMV-derived epitope or a cross-reactive
+self-Ag presented on MHC I, leading to contact-dependent
+destruction of stem cells, is not involved in AA of LCMV-
+infected P0/0 mice.
+Role of TNF/LT-␣ and IFN-␥. Generation of P0/0 mice
+devoid of the 55-kD TNFR1 gene (P0/0/TNFR10/0 mice)
+has contributed substantially to the understanding of the
+mechanism of induction and recovery of AA. In the adult
+mouse, lack of TNFR1 is not important for clonal deletion
+of T cells reactive to endogenous viral superantigens and
+thus, selection of the TCR repertoire is not altered (44).
+P0/0/TNFR10/0 mice exhibit normal organ sizes of lym-
+phatic tissues, and lymphocyte populations in the thymus
+and spleen of naive mice are comparable to parental P0/0
+and TNFR10/0 mice. This suggests normal positive/nega-
+tive selection of T cells in the absence of both perforin and
+TNF/LT-␣. More important, LCMV titers, expansion of
+CD8ϩ T cells, Ag specificity, and effector functions via the
+Fas (CD95)/Fas ligand pathway of virus-specific CD8ϩ T
+cells are identical in P0/0 and P0/0/TNFR10/0 mice. Yet
+LCMV-infected P0/0 mice die of irreversible AA, whereas
+P0/0/TNFR10/0 mice survive and become virus carriers.
+They still exhibit BM suppression, although it is quantita-
+tively less severe and reversible after day 14 of LCMV in-
+fection. There are two alternative possibilities explaining
+why TNF/LT-␣ in LCMV-associated AA is a key mole-
+cule deciding on irreversibility of BM failure. (a) TNFR1 is
+the biologically relevant TNF receptor binding both solu-
+ble ligands, TNF and LT-␣, by signaling cytotoxicity/apop-
+tosis to many cells, including hematopoietic precursors (28,
+45). Injection of TNF into rodents may produce a stimula-
+tory effect on hematopoiesis by induction of colony-stimu-
+lating activities in the endothelium (46). In contrast, inhib-
+itory effects of TNF/LT-␣ on hematopoietic colony
+formation is well documented in vitro (36). The results in
+LCMV-infected P0/0/TNFR10/0 mice rather support the
+interpretation that the ultimate effect of TNF/LT-␣ activ-
+ity in virus-associated AA in vivo is suppressive via induc-
+tion of apoptosis of BM progenitors and is not stimulatory.
+(b) Alternatively, TNF/LT-␣ may enhance lymphocyte
+traffic into the BM by increasing local MHC expression in
+LCMV-infected dendritic and stromal BM cells. Such a
+pathway of enhanced CTL-mediated immunopathology
+has been described in double-tg mice expressing LCMV-
+GP and TNF in the pancreatic islets (47). The sum of our
+data supports the first scenario because CD4ϩ/CD8ϩ T cell
+compartments after LCMV infection in the spleen (which
+is a blood cell–forming tissue in mice) are not altered in the
+absence of TNFR1. Moreover, the primary foot pad swell-
+ing reaction after local infection with LCMV in TNFR10/0
+mice is normal, indicating a normal recruitment of virus-
+specific CTLs into infected tissue (28).We have not assessed
+the cellular source of the increased TNF/LT-␣ concentra-
+tion in the serum of LCMV-infected P0/0 mice. However,
+we have not found TNF/LT-␣ secretion by LCMV-GP–
+specific CD8ϩ T cells in vitro. It is conceivable that TNF/
+LT-␣ is produced by the monocyte/macrophage system
+1916 Aplastic Anemia in Persistent LCMV Infection
+also in LCMV-infected P0/0 mice, as has been found for
+hepatic macrophages in LCMV-infected hepatitis B virus–
+transgenic mice (48), or it may be secreted by the stromal
+matrix of the BM (49).
+Depletion experiments with antibodies demonstrate the
+critical role for IFN-␥–secreting LCMV-GP–specific
+CD8ϩ T cells, causing AA in LCMV-infected P0/0 mice.
+The following points need to be considered for correct in-
+terpretation. (a) IFN-␥ exerts a potent inhibitory effect on
+hematopoietic colony formation in semisolid culture assays
+in vitro (39, 50) and in long-term cultures, killing via apop-
+tosis and inhibition of cell cycling of stem cells has been
+found (51). In LCMV-infected P0/0 mice, stromal cells in
+the BM express high amounts of LCMV Ag. However, in
+contrast to LCMV-infected normal C57BL/6 mice (42),
+these cells are not eliminated and, therefore, feeder func-
+tions of BM stroma are unlikely to be altered, as demon-
+strated by the virtually normal hematopoiesis in infected
+P0/0 mice lacking both IFN-␥ and TNF/LT-␣ signaling.
+Furthermore, constitutive expression of IFN-␥ in the stro-
+mal microenvironment of marrow cultures suppresses pro-
+genitor growth in vitro, but seems not to interfere with the
+expression of hematopoietic growth factor genes such as
+G-CSF and GM-GSF (51). These observations argue against a
+stromal defect as cause of AA in LCMV-infected P0/0 mice
+and favor a direct toxic effect of the cytokines for progenitors
+leading to AA. (b) The results obtained from IFN-␥–depleted
+P0/0 and P0/0/TNFR10/0 mice demonstrate that IFN-␥ is
+more potent in suppressing hematopoiesis than TNF/LT-␣.
+This may be in contrast to the synergistic inhibitory effect
+of IFN-␥ and TNF/LT-␣ that has been documented on
+colony formation in vitro (36). The dissimilarity to these in
+vitro findings is best explained by the sustained expansion
+of IFN-␥–secreting CD8ϩ T cells in the presence of per-
+sisting LCMV in aplastic P0/0 mice and rather reflects the
+kinetics of the immune response than the toxic potential of
+TNF/LT-␣ versus that of IFN-␥. It will be interesting to
+study whether TNF/LT-␣ production in macrophages is
+diminished in the absence of IFN-␥ in LCMV-infected P0/0
+mice, because IFN-␥ is known to induce expression of
+TNF/LT-␣ in these cells (52). (c) IFN-␥ exerts important
+effects on MHC I/II expression and thereby influences Ag
+presentation (53). Recent data has shown that IFN-␥
+knockout mice generate LCMV-specific primary CTLs
+with equivalent activities and terminate acute LCMV in-
+fection as efficiently as normal control mice (16, 54). This
+finding and the typical inversion of CD4ϩ/CD8ϩ T cells in
+spleens of IFN-␥–depleted, LCMV-infected P0/0 mice, ex-
+cludes an insufficient induction of virus-specific CD8ϩ T
+cells being involved in improvement of hematopoietic
+function in the absence of IFN-␥. (d) In LCMV-infected
+P0/0/TNFR10/0 mice, residual BM suppression is reversible
+and BM function is rescued after IFN-␥–secreting CD8ϩ T
+cells have disappeared. Because CD8ϩ T cells of P0/0/
+TNFR10/0 mice lack functional TNF/LT-␣ signaling, this
+finding argues against a distinct role for TNF/LT-␣ in tol-
+erance induction by functional exhaustion of LCMV-spe-
+cific CTLs leading to viral persistence. This is in contrast
+to a recent report, demonstrating a delayed deletion of
+LCMV-specific TCR-tg CTLs in an adoptive transfer sys-
+tem (55). In the latter study, an LCMV-GP–derived pep-
+tide was administered and, therefore, the critical threshold
+of Ag concentration and distribution, as well as sustained
+presentation of the Ag on MHC I, required for exhaustive
+activation of virus-specific CTLs, has probably not been
+achieved. Thus, the close correlation of kinetics between
+BM recovery and functional exhaustion of LCMV-specific
+CD8ϩ T cells emphasizes the causal role of CD8ϩ T cell–
+dependent IFN-␥ in LCMV-induced AA. (e) Even over-
+whelming IFN-␥ secretion is not sufficient to reduce viral
+titers in the BM of LCMV-infected P0/0 mice. This is in
+contrast to HBV-specific CTLs, which have been shown to
+abolish HBV replication in the liver of tg mice via secre-
+tion of TNF/LT-␣ and IFN-␥. Damage of the hepatocyte
+did not follow Ag recognition and CTL-dependent cyto-
+kine secretion (56). This apparent discrepancy to LCMV-
+associated AA may reflect the difference of the cell cycling
+conditions in hematopoietic tissue, i.e., regularly dividing
+pluripotent and committed stem cells are likely to be more
+susceptible to locally secreted cytokines than hepatocytes.
+Relevance to Virus-associated Aplastic Anemia in Humans
+Virus-associated AA in humans and in LCMV-infected P0/0
+mice differ in several details that need to be explained.
+Clinically, pancytopenia in human AA presents gradually,
+usually 1–7 wk after an episode of acute hepatitis (8). In
+contrast, LCMV-infected P0/0 mice exhibit very rapid ki-
+netics of blood cell depression and BM failure. The influ-
+ence of a relatively high LCMV dose applied intravenously
+to inbred mice fostered in an SPF environment may par-
+tially account for the aggressive disease development. More
+important, P0/0 mice are an exceptional example of a virus
+host relationship because P0/0 mice cannot control LCMV
+replication, and therefore high viral titers are reached very
+early after infection. Additionally, the rapid progression to
+lethal AA may be due to an intrinsic difference in the ki-
+netics and turnover of hematopoietic cells in mice versus
+humans (e.g., a higher proportion of mouse stem cells are
+in the cell cycle). Particularly, the low granulocyte count in
+mice of the C57BL/6 background and the shorter life span
+of erythrocytes and platelets may contribute to the rapid
+time course of the disease. It is noteworthy, that assessment
+of CFU-S on day 12 does not reflect the frequency of the
+repopulating cell in mice, i.e., the pluripotent stem cell.
+However, depletion of these most primitive stem cells in
+aplastic P0/0 mice may be inferred from the results obtained
+from the CBCs, the culture data, and the content of CFU-S
+in the BM. Furthermore, loss of CFU-S in LCMV-infected
+P0/0 mice appears to sufficiently reflect the human pheno-
+type because the point of injury in virus-associated AA in
+humans is probably distal to the most primitive stem cell,
+suggested by the normal number and maintenance of other
+stem cell–derived compartments such as lymphocytes and
+osteoclasts in these patients (2).
+1917 Binder et al.
+Systemic Activation of Virus-specific CTLs. Lacking the most
+important CTL effector function for LCMV elimination,
+P0/0 mice are, in a certain way, immunodeficient animals.
+In P0/0 mice, LCMV replicates in many mesenchymal and
+epithelial cells, leading to systemic expansion of CD8ϩ T
+cells not only in the BM, but also in other organs (liver,
+brain, etc.). Due to lack of contact-dependent cytotoxicity
+of virus-specific CD8ϩ T cells, necrosis of tissue and solid
+organ disease is absent (27). Virus-associated human AA is
+dissimilar in that respect because hepatitis is usually preva-
+lent in individuals with a normal immune status and it is
+thought that damaging CTLs localize more specifically to
+the BM in the course of the disease (8). However, observa-
+tions in wt C57BL/6 mice limit the interpretation of AA in
+P0/0 mice only with respect to disease intensity and kinetics
+for the following reasons. Similar to P0/0 mice, suppression
+of BM function is also seen in wt C57BL/6 mice with a la-
+tency of ‫1ف‬ wk (days 16–22) after LCMV-induced hepati-
+tis when the correct viral inoculation dose and LCMV
+strain is chosen (LCMV-Docile, 104 PFU). Although ‫%01ف‬
+of infected mice die, LCMV infection does not cause AA
+consistently in C57BL/6 mice and most animals show only
+a mild decrease of the CBCs that is transient and reversible
+after LCMV has been cleared.
+Cytokine Profile of CTLs. A remarkable discordance is
+observed in the profile of secreted cytokines by CD8ϩ T
+cells; in contrast to T cells of patients with AA, overpro-
+duction of TNF/LT-␣ by LCMV-specific CTLs is not de-
+tected, although TNF/LT-␣ concentrations in serum of
+LCMV-infected P0/0 and P0/0/TNFR10/0 mice are in-
+creased. Because the viral Ags are not known, human T
+cell clones obtained by stimulation of BM cells with lectins
+usually exhibit strong NK activity in vitro (40). Thus, TNF/
+LT-␣ release in these experiments may not directly reflect a
+product of MHC-restricted T cells, but could be due to an
+enhanced release from secondary cells, such as NK cells, in-
+duced via IFN-␥ from virus-specific CTLs (52). In contrast,
+cytokine secretion in LCMV-infected P0/0 mice is highly Ag
+specific and MHC restricted because only CD8ϩ T cells
+recognizing the immunodominant epitope derived from
+LCMV-GP presented on H-2b secrete IFN-␥.
+Other Models of AA. Currently, there is no murine
+model describing an irreversible BM aplasia caused by vi-
+rus-specific CD8ϩ T cells that exhibits disease characteris-
+tics comparable to human virus–associated AA. Immuno-
+logically mediated AA can be induced experimentally in
+irradiated recipient mice by infusion of lymph node cells
+from H-2–syngeneic but Mls-mismatched donors (57). In
+another system, small doses of purified unprimed CD4ϩ
+cells are transferred into lightly irradiated recipients expressing
+MHC class II (I-A) differences. The donor CD4ϩ cells cause
+destruction of the BM and it has been concluded that
+CD4ϩ T cells induce AA via I-A–restricted CTL activity
+through recognition of I-A expression on stem cells (58).
+Both disease models, however, correspond best to BM
+aplasia as a consequence of a chronic graft versus host dis-
+ease and therefore, the mechanism of development of dis-
+ease may be dissimilar from virus-associated AA in humans.
+Implications for Human AA. LCMV-infected P0/0 mice
+seem a valid system to explore the pathogenesis of virus-
+associated AA, the natural course of the disease, and the
+conditions allowing its spontaneous recovery. Because the
+disease incidence is 100% with a highly predictable time
+course not only in tg, but also in non-tg animals, the con-
+tribution of distinct subpopulations of virus-specific lym-
+phocytes to disease can clearly be dissected. In addition,
+mice are the natural host and reservoir of LCMV (29, 59).
+Therefore, the mechanism of disease described here may
+offer explanations for hematopoietic disease also in other
+arenavirus infections such as Junin and Tamiami viruses, in
+which destruction and widespread loss of hematopoietic
+tissue is observed (60). The network of growth factors and
+inhibitors that governs proliferation and maturation of he-
+matopoietic cells is very complex due to synergistic, over-
+lapping and counterregulatory bioactivities of cytokines.
+Additional inhibitory factors produced by BM stroma (e.g.,
+macrophage inflammatory protein [MIP]-1␣ [61] or TGF-␤
+[62]) may be involved in AA of LCMV-infected P0/0 mice
+and have not been studied here. Our experiments suggest
+that progressive BM failure and functional exhaustion of virus-
+specific CD8ϩ T cells are ruled by distinct pathogenetic
+mechanisms during persistent virus infections. Consequently,
+in virus-induced AA, the final outcome of a life-long virus
+carrier state or mortality of the host may be the result of a
+mutual competition between loss of the hematopoietic stem
+cells versus loss of damaging virus-specific T cells. Absence of
+one toxic CD8ϩ T cell–dependent cytokine, such as TNF/
+LT-␣ or IFN-␥, shifts this lethal balance and rescues BM
+function. This mechanism of peripheral tolerance induction
+may explain why rare patients survive AA and remission to
+normal blood cell values can “naturally” occur (2). Persistent
+expression of viral Ag in stromal and dendritic cells in the
+spatially limited microenvironment of the BM efficiently
+sustains local infiltration with CD8ϩ T cells and causes AA
+via bystander destruction of blood cell precursors by T cell–
+secreted cytokines. These concepts of nonbalanced antiviral
+immunity causing hematopoietic disease may possibly be
+generalized to other viruses that are noncytopathic for blood
+cell progenitors and predominantly infect the stroma (5, 6)
+or other, not yet defined cellular targets in the BM (8, 9).
+We are grateful to A. Althage, E. Horvath, and R. Rüegg for excellent technical assistance, and to N. Wey
+for processing the photographs. We thank P. Aichele, P. Klenerman, and H. Pircher for helpful discussions.
+Recombinant mTPO was kindly provided as a gift by Genentech, Inc. (South San Francisco, CA).
+This work was supported by the Union Bank of Switzerland, the Swiss National Science Foundation, the
+Kanton of Zürich, and the ETH Zürich.
+1918 Aplastic Anemia in Persistent LCMV Infection
+Address correspondence to Daniel Binder, Institute of Experimental Immunology, Schmelzbergstr. 12, CH-
+8091 Zürich, Switzerland. Phone: 41-1-2552989; Fax: 41-1-2554420; E-mail: haembin@usz.unizh.ch
+Received for publication 6 March 1998.
+References
+1. Kagan, W.A., J.A. Ascensao, R.N. Pahwa, J.A. Hansen, G.
+Goldstein, E.B. Valera, G.S. Incefy, M.A. Moore, and R.A.
+Good. 1976. Aplastic anemia: presence in human bone mar-
+row of cells that suppress myelopoiesis. Proc. Natl. Acad. Sci.
+U.S.A. 73:2890–2894.
+2. Young, N.S., and B.P. Alter. 1994. Aplastic anemia: acquired
+and inherited. W.B. Saunders, Philadelphia.1–267.
+3. Iishi, Y., M. Kosaka, T. Mizuguchi, K. Toyota, Y. Takaue,
+Y. Kawano, and S. Saito. 1991. Suppression of hematopoiesis
+by activated T-cells in infectious mononucleosis associated
+with pancytopenia. Int. J. Hematol. 54:65–73.
+4. Shadduck, R.K., A. Winkelstein, Z. Zeigler, J. Lichter, M.
+Goldstein, M. Michaels, and B. Rabin. 1979. Aplastic anemia
+following infectious mononucleosis: possible immune etiol-
+ogy. Exp. Hematol. (NY). 7:264–271.
+5. Apperley, J.F., C. Dowding, J. Hibbin, J. Buiter, E. Matutes,
+P.J. Sissons, M. Gordon, and J.M. Goldman. 1989. The effect
+of cytomegalovirus on hemopoiesis: in vitro evidence for se-
+lective infection of marrow stromal cells. Exp. Hematol. (NY).
+17:38–45.
+6. Reddehase, M.J., L. Dreher-Stumpp, P. Angele, M. Balthe-
+sen, and M. Susa. 1992. Hematopoietic stem cell deficiency
+resulting from cytomegalovirus infection of bone marrow
+stroma. Ann. Hematol. 64:A125–A127.
+7. Molina, J.-M., D.T. Scadden, M. Sakaguchi, B. Fuller, A.
+Woon, and J.E. Groopman. 1990. Lack of evidence for in-
+fection of or effect on growth of hematopoietic progenitor
+cells after in vivo or in vitro exposure to human immunode-
+ficiency virus. Blood. 76:2476–2482.
+8. Brown, K.E., J. Tisdale, A.J. Barrett, C.E. Dunbar, and N.S.
+Young. 1997. Hepatitis-associated aplastic anemia. N. Engl. J.
+Med. 336:1059–1064.
+9. Tzakis, A.G., M. Arditi, P.F. Whitington, K. Yanaga, C. Es-
+quivel, W.A. Andrews, L. Makowka, J. Malatak, D.K.
+Freese, and P.G. Stock. 1988. Aplastic anemia complicating
+orthotopic liver transplantation for non-A, non-B hepatitis.
+N. Engl. J. Med. 319:393–396.
+10. Albert, E., E.D. Thomas, B. Nispersos, and R. Storb. 1976.
+HLA antigens and haplotypes in 200 patients with aplastic
+anemia. Transplantation. 22:528–531.
+11. Chapuis, B., V.E. Von Fliedner, M. Jeannet, H. Merica, P.
+Vuagnat, A. Gratwohl, C. Nissen, and B. Speck. 1986. In-
+creased frequency of DR2 in patients with aplastic anaemia
+and increased DR sharing in their parents. Br. J. Haematol.
+63:51–57.
+12. Speck, B., A. Gratwohl, C. Nissen, U. Leibundgut, D. Rug-
+gero, B. Osterwalder, H.P. Burri, P. Cornu, and M. Jeannet.
+1981. Treatment of severe aplastic anaemia with antilympho-
+cyte globulin or bone-marrow transplantation. Br. Med. J.
+282:860–863.
+13. Thomas, E.D., R. Storb, A. Fefer, S.J. Slichter, J.I. Bryant,
+C.D. Buckner, P.E. Neiman, R.A. Clift, D.D. Funk, and
+K.E. Lerner. 1972. Aplastic anaemia treated by marrow trans-
+plantation. Lancet. 1:284–289.
+14. Young, N.S., and J. Maciejewski. 1997. The pathophysiology
+of acquired aplastic anemia. New. Engl. J. Med. 336:1365–
+1372.
+15. Binder, D., J. Fehr, H. Hengartner, and R.M. Zinkernagel.
+1997. Virus-induced transient bone marrow aplasia: major
+role of interferon-alpha/beta during acute infection with the
+noncytopathic lymphocytic choriomeningitis virus. J. Exp.
+Med. 185:517–530.
+16. Müller, U., U. Steinhoff, L.F.L. Reis, S. Hemmi, J. Pavlovic,
+R.M. Zinkernagel, and M. Aguet. 1994. Functional role of
+type I and type II interferons in antiviral defense. Science. 264:
+1918–1921.
+17. Aichele, P., M.F. Bachmann, H. Hengartner, and R.M.
+Zinkernagel. 1996. Immunopathology or organ-specific auto-
+immunity as a consequence of virus infection. Immunol. Rev.
+152:21–45.
+18. Cole, G.A., N. Nathanson, and R.A. Prendergast. 1972. Re-
+quirement for theta-bearing cells in lymphocytic choriomen-
+ingitis virus–induced central nervous system disease. Nature.
+238:335–337.
+19. Zinkernagel, R.M., E. Haenseler, T. Leist, A. Cerny, H.
+Hengartner, and A. Althage. 1986. T cell-mediated hepatitis
+in mice infected with lymphocytic choriomeningitis virus. J.
+Exp. Med. 164:1075–1092.
+20. Leist, T.P., E. Rüedi, and R.M. Zinkernagel. 1988. Virus-
+triggered immune suppression in mice caused by virus-spe-
+cific cytotoxic T cells. J. Exp. Med. 167:1749–1754.
+21. Kägi, D., B. Odermatt, P.S. Ohashi, R.M. Zinkernagel, and
+H. Hengartner. 1996. Development of insulitis without dia-
+betes in transgenic mice lacking perforin-dependent cytotox-
+icity. J. Exp. Med. 183:2143–2152.
+22. Evans, C.F., M.S. Horwitz, M.V. Hobbs, and M.B. Old-
+stone. 1996. Viral infection of transgenic mice expressing a
+viral protein in oligodendrocytes leads to chronic central ner-
+vous system autoimmune disease. J. Exp. Med. 184:2371–
+2384.
+23. Hotchin, J. 1962. The biology of lymphocytic choriomenin-
+gitis infection: virus induced immune disease. Cold Spring
+Harbor Symp. Quant. Biol. 27:479–499.
+24. Pfau, C.J., J.K. Valenti, D.C. Pevear, and K.D. Hunt. 1982.
+Lymphocytic choriomeningitis virus killer T cells are lethal
+only in weakly disseminated murine infections. J. Exp. Med.
+156:79–89.
+25. Muller, D., B.H. Koller, J.L. Whitton, K.E. LaPan, K.K.
+Brigman, and J.A. Frelinger. 1992. LCMV-specific, class II–
+restricted cytotoxic T cells in beta 2-microglobulin–deficient
+mice. Science. 255:1576–1578.
+26. Harrison, D.E., C.M. Astle, and C. Lerner. 1988. Number
+and continuous proliferative pattern of transplanted primitive
+immunohematopoietic stem cells. Proc. Natl. Acad. Sci.
+U.S.A. 85:822–826.
+27. Kägi, D., B. Ledermann, K. Bürki, P. Seiler, B. Odermatt,
+K.J. Olsen, E.R. Podack, R.M. Zinkernagel, and H. Hen-
+gartner. 1994. Cytotoxicity mediated by T cells and natural
+1919 Binder et al.
+killer cells is greatly impaired in perforin-deficient mice. Na-
+ture. 369:31–37.
+28. Rothe, J., W. Lesslauer, H. Lotscher, Y. Lang, P. Koebel, F.
+Kontgen, A. Althage, R. Zinkernagel, M. Steinmetz, and H.
+Bluethmann. 1993. Mice lacking the tumour necrosis factor
+receptor 1 are resistant to TNF-mediated toxicity but highly
+susceptible to infection by Listeria monocytogenes. Nature. 364:
+798–802.
+29. Lehmann-Grube, F. 1971. Lymphocytic choriomeningitis vi-
+rus. Monogr. Virol. 10:1–173.
+30. Battegay, M., S. Cooper, A. Althage, J. Baenziger, H. Hen-
+gartner, and R.M. Zinkernagel. 1991. Quantification of lym-
+phocytic choriomeningitis virus with an immunological focus
+assay in 24 or 96 well plates. J. Virol. Methods. 33:191–198.
+31. Cobbold, S.P., A. Jayasuriya, A. Nash, T.D. Prospero, and H.
+Waldmann. 1984. Therapy with monoclonal antibodies by
+elimination of T-cell subsets in vivo. Nature. 312:548–551.
+32. Leist, T.P., M. Eppler, and R.M. Zinkernagel. 1989. En-
+hanced virus replication and inhibition of lymphocytic chorio-
+meningitis disease in anti-gamma interferon-treated mice. J.
+Virol. 63:2813–2819.
+33. Zinkernagel, R.M., T.P. Leist, H. Hengartner, and A. Althage.
+1985. Susceptibility to lymphocytic choriomeningitis virus
+isolates correlates directly with early and cytotoxic T cell ac-
+tivity, as well as with footpad swelling reaction, and all three
+are regulated by H-2D. J. Exp. Med. 162:2125–2141.
+34. Pruslin, F.H. 1991. Caveats and suggestions for the ELISA. J.
+Immunol. Methods. 137:27–35.
+35. Kägi, D., B. Ledermann, K. Bürki, R.M. Zinkernagel, and
+H. Hengartner. 1995. Lymphocyte-mediated cytotoxicity in
+vitro and in vivo: mechanisms and significance. Immunol.
+Rev. 146:95–115.
+36. Murphy, M., R. Loudon, M. Kobayashi, and G. Trinchieri.
+1986. Gamma-interferon and lymphotoxin released by acti-
+vated T cells synergize to inhibit granulocyte/monocyte col-
+ony formation. J. Exp. Med. 164:263–279.
+37. Zoumbos, N.C., W.O. Ferris, S.M. Hsu, S. Goodman, P.
+Griffith, S.O. Sharrow, R.K. Humphries, A.W. Nienhuis,
+and N. Young. 1984. Analysis of lymphocyte subsets in pa-
+tients with aplastic anaemia. Br. J. Haematol. 58:95–105.
+38. Nakao, S., M. Yamaguchi, S. Shiobara, T. Yokoi, T.
+Miyawaki, T. Taniguchi, and T. Matsuda. 1992. Interferon-
+gamma gene expression in unstimulated bone marrow mono-
+nuclear cells predicts a good response to cyclosporine therapy
+in aplastic anemia. Blood. 79:2532–2535.
+39. Zoumbos, N.C., P. Gascon, J.Y. Djeu, and N.S. Young.
+1985. Interferon is a mediator of hematopoietic suppression
+in aplastic anemia in vitro and possibly in vivo. Proc. Natl.
+Acad. Sci. U.S.A. 82:188–192.
+40. Viale, M., A. Merli, and A. Bacigalupo. 1991. Analysis at the
+clonal level of T-cell phenotype and functions in severe
+aplastic anemia patients. Blood. 78:1268–1274.
+41. Ahmed, R., A. Salmi, L.D. Butler, J.M. Chiller, and M.B.
+Oldstone. 1984. Selection of genetic variants of lymphocytic
+choriomeningitis virus in spleens of persistently infected
+mice. Role in suppression of cytotoxic T lymphocyte re-
+sponse and viral persistence. J. Exp. Med. 160:521–540.
+42. Borrow, P., C.F. Evans, and M.B. Oldstone. 1995. Virus-
+induced immunosuppression: immune system-mediated de-
+struction of virus-infected dendritic cells results in generalized
+immune suppression. J. Virol. 69:1059–1070.
+43. Moebius, U., F. Herrmann, T. Hercend, and S.C. Meuer.
+1991. Clonal analysis of CD4ϩ/CD8ϩ T cells in a patient
+with aplastic anemia. J. Clin. Invest. 87:1567–1574.
+44. Pfeffer, K., T. Matsuyama, T.M. Kündig, A. Wakeham, K.
+Kishihara, A. Shahinian, K. Wiegmann, P.S. Ohashi, M.
+Kronke, and T.W. Mak. 1993. Mice deficient for the 55 kd
+tumor necrosis factor receptor are resistant to endotoxic
+shock, yet succumb to L. monocytogenes infection. Cell. 73:
+457–467.
+45. Tartaglia, L.A., and D.V. Goeddel. 1992. Two TNF recep-
+tors. Immunol. Today. 13:151–153.
+46. Johnson, C.S., M.J. Chang, and P. Furmanski. 1988. In vivo
+hematopoietic effects of tumor necrosis factor–alpha in nor-
+mal and erythroleukemic mice: characterization and thera-
+peutic applications. Blood. 72:1875–1883.
+47. Ohashi, P.S., S. Oehen, P. Aichele, H. Pircher, B. Odermatt,
+P. Herrera, Y. Higuchi, K. Buerki, H. Hengartner, and R.M.
+Zinkernagel. 1993. Induction of diabetes is influenced by the
+infectious virus and local expression of MHC class I and tu-
+mor necrosis factor–alpha. J. Immunol. 150:5185–5194.
+48. Guidotti, L.G., P. Borrow, M.V. Hobbs, B. Matzke, I.
+Gresser, M.B. Oldstone, and F.V. Chisari. 1996. Viral cross
+talk: intracellular inactivation of the hepatitis B virus during
+an unrelated viral infection of the liver. Proc. Natl. Acad. Sci.
+U.S.A. 93:4589–4594.
+49. Sieff, C.A., C.M. Niemeyer, S.J. Mentzer, and D.V. Faller.
+1988. Interleukin-1, tumor necrosis factor, and the produc-
+tion of colony-stimulating factors by cultured mesenchymal
+cells. Blood. 72:1316–1323.
+50. Broxmeyer, H.E., L. Lu, E. Platzer, C. Feit, L. Juliano, and
+B.Y. Rubin. 1983. Comparative analysis of the influences of
+human gamma, alpha and beta interferons on human multi-
+potential (CFU-GEMM), erythroid (BFU-E) and granulo-
+cyte-macrophage (CFU-GM) progenitor cells. J. Immunol.
+131:1300–1305.
+51. Selleri, C., J.P. Maciejewski, T. Sato, and N.S. Young. 1996.
+Interferon-gamma constitutively expressed in the stromal mi-
+croenvironment of human marrow cultures mediates potent
+hematopoietic inhibition. Blood. 87:4149–4157.
+52. Collart, M.A., D. Belin, J.D. Vassalli, S. de Kossodo, and P.
+Vassalli. 1986. Gamma interferon enhances macrophage tran-
+scription of the tumor necrosis factor/cachectin, interleukin
+1, and urokinase genes, which are controlled by short-lived
+repressors. J. Exp. Med. 164:2113–2118.
+53. Collins, T., A.J. Korman, C.T. Wake, J.M. Boss, D.J.
+Kappes, W. Fiers, K.A. Ault, M.A. Gimbrone, Jr., J.L.
+Strominger, and J.S. Pober. 1984. Immune interferon acti-
+vates multiple class II major histocompatibility complex genes
+and the associated invariant chain gene in human endothelial
+cells and dermal fibroblasts. Proc. Natl. Acad. Sci. U.S.A. 81:
+4917–4921.
+54. Huang, S., W. Hendriks, A. Althage, S. Hemmi, H. Blueth-
+mann, R. Kamijo, J. Vilcek, R.M. Zinkernagel, and M.
+Aguet. 1993. Immune response in mice that lack the inter-
+feron-gamma receptor. Science. 259:1742–1745.
+55. Speiser, D.E., E. Sebzda, T. Ohteki, M.F. Bachmann, K.
+Pfeffer, T.W. Mak, and P.S. Ohashi. 1996. Tumor necrosis
+factor receptor p55 mediates deletion of peripheral cytotoxic
+T lymphocytes in vivo. Eur. J. Immunol. 26:3055–3060.
+56. Guidotti, L.G., T. Ishikawa, M.V. Hobbs, B. Matzke, R.
+Schreiber, and F.V. Chisari. 1996. Intracellular inactivation
+of the hepatitis B virus by cytotoxic T lymphocytes. Immu-
+nity. 4:25–36.
+1920 Aplastic Anemia in Persistent LCMV Infection
+57. Knospe, W.H., D. Steinberg, and B. Speck. 1983. Experi-
+mental immunologically mediated aplastic anemia (AA) in H-2k
+identical, Mls (M) locus different mice. Exp. Hematol. (NY).
+11:542–552.
+58. Sprent, J., C.D. Surh, D. Agus, M. Hurd, S. Sutton, and W.R.
+Heath. 1994. Profound atrophy of the bone marrow reflecting
+major histocompatibility complex class II–restricted destruction
+of stem cells by CD4ϩ cells. J. Exp. Med. 180:307–317.
+59. Hotchin, J.E. 1971. Persistent and slow virus infections.
+Monogr. Virol. 3:1–211.
+60. Peralta, L.A.M., C.E. Coto, and M.C. Weissenbacher. 1993.
+The Tacaribe complex: the close relationship between a
+pathogenic (junin) and a nonpathogenic (tacaribe) arenavirus.
+In The Arenaviridae. M.S. Salvato, editor. Pelnum Press,
+New York. 281–298.
+61. Holmberg, L.A., K. Seidel, W. Leisenring, and B. Torok-
+Storb. 1994. Aplastic anemia: analysis of stromal cell function
+in long-term marrow cultures. Blood. 84:3685–3690.
+62. Cashman, J.D., A.C. Eaves, E.W. Raines, R. Ross, and C.J.
+Eaves. 1990. Mechanisms that regulate the cell cycle status of
+very primitive hematopoietic cells in long-term human mar-
+row cultures. I. Stimulatory role of a variety of mesenchymal
+cell activators and inhibitory role of TGF-beta. Blood. 75:
+96–101.
+

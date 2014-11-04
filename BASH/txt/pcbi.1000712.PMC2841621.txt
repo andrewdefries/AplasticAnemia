@@ -1,0 +1,1049 @@
+Tumor Growth Rate Determines the Timing of Optimal
+Chronomodulated Treatment Schedules
+Samuel Bernard1
+*¤
+, Branka Cˇ ajavec Bernard2,3
+, Francis Le´vi4,5,6
+, Hanspeter Herzel1
+1 Institute for Theoretical Biology, Humboldt University and Charite´, Berlin, Germany, 2 University of Lyon, Lyon, France, 3 University Lyon 1, Faculty of Medicine Lyon Sud,
+Oullins, France, 4 INSERM, U776 ‘‘Rythmes biologiques et cancers’’, Paul Brousse Hospital, Villejuif, France, 5 University Paris-Sud, UMR-S0776, Orsay, France, 6 Assistance
+Publique-hoˆpitaux de Paris, Chronotherapy Unit, Department of Cancerology, Paul Brousse Hospital, Villejuif, France
+Abstract
+In host and cancer tissues, drug metabolism and susceptibility to drugs vary in a circadian (24 h) manner. In particular, the
+efficacy of a cell cycle specific (CCS) cytotoxic agent is affected by the daily modulation of cell cycle activity in the target
+tissues. Anti-cancer chronotherapy, in which treatments are administered at a particular time each day, aims at exploiting
+these biological rhythms to reduce toxicity and improve efficacy of the treatment. The circadian status, which is the timing
+of physiological and behavioral activity relative to daily environmental cues, largely determines the best timing of
+treatments. However, the influence of variations in tumor kinetics has not been considered in determining appropriate
+treatment schedules. We used a simple model for cell populations under chronomodulated treatment to identify which
+biological parameters are important for the successful design of a chronotherapy strategy. We show that the duration of the
+phase of the cell cycle targeted by the treatment and the cell proliferation rate are crucial in determining the best times to
+administer CCS drugs. Thus, optimal treatment times depend not only on the circadian status of the patient but also on the
+cell cycle kinetics of the tumor. Then, we developed a theoretical analysis of treatment outcome (TATO) to relate the
+circadian status and cell cycle kinetic parameters to the treatment outcomes. We show that the best and the worst CCS drug
+administration schedules are those with 24 h intervals, implying that 24 h chronomodulated treatments can be ineffective
+or even harmful if administered at wrong circadian times. We show that for certain tumors, administration times at intervals
+different from 24 h may reduce these risks without compromising overall efficacy.
+Citation: Bernard S, Cˇajavec Bernard B, Le´vi F, Herzel H (2010) Tumor Growth Rate Determines the Timing of Optimal Chronomodulated Treatment
+Schedules. PLoS Comput Biol 6(3): e1000712. doi:10.1371/journal.pcbi.1000712
+Editor: Christos A. Ouzounis, King’s College London, United Kingdom
+Received July 23, 2009; Accepted February 9, 2010; Published March 19, 2010
+Copyright: ß 2010 Bernard et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: SB, FL and HH were supported by the European Commission (BioSim Network, contract No. LSHB-CT-2004.005137). BCB thanks the Centre ETOILE
+(France). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: bernard@math.univ-lyon1.fr
+¤ Current address: Institut Camille Jordan, CNRS UMR5208, University of Lyon, Villeurbanne Cedex, France
+Introduction
+Neurons located in the suprachiasmatic nuclei (SCN) of the
+hypothalamus form a dominant circadian pacemaker that
+controls timing of many physiological processes, including cell
+cycle. The pacemaker integrates environmental cues and
+communicates timing information to peripheral organs, which
+respond appropriately to optimize their functions [1]. In host and
+cancer tissues, drug metabolism and susceptibility to the drug vary
+throughout the day. The characterization of daily rhythms in
+drug toxicity and efficacy was a foundation for the chronotherapy
+of cancer [2].
+The main aim of anti-cancer chronomodulated treatment is to
+achieve an optimal balance between chronotolerance and
+chronoefficacy (drug tolerance and efficacy as a function of time
+of administration). However, because many circadian-dependent
+factors influence the outcome of a treatment, determining the
+optimal schedule has been difficult to implement in clinics [3].
+Cytotoxic chemotherapy suppresses the hematopoietic system, and
+neutropenia is a major limitation to the doses of drug that can be
+tolerated. Therapeutic advantages of chronomodulated treatments
+are seen mainly in the tolerance to higher drug doses, along with a
+decreased severity of side-effects, rather than in the prolonged
+survival of the patients [4,5].
+The efficacy of a cytotoxic drug, at a given concentration, is
+given by the product between the fraction of cells sensitive to the
+drug and the fraction of sensitive cells killed by the drug. For cell
+cycle phase specific (CCS) drugs used in chronotherapy, the
+fraction of sensitive cells is defined by their cell cycle status (e.g.
+fraction of cells in S or M phase) [6]. The entry to S phase is
+induced by c-MYC and cyclin D1, and the entry to M phase is gated
+(blocked) by WEE1 [7,8]. Since those genes are controlled by the
+circadian clock, the cell cycle status is determined by the time of
+the day as well. Thus, drugs like cisplatin or 5-fluorouracil (5-FU)
+(S phase specific), docetaxel (M phase specific) and selicilib (G1
+phase specific) would each be expected to have maximal efficacy
+and minimal toxicity at different times of the day.
+Synchronization properties of the cell cycle to signals from the
+circadian pacemaker, namely phases and amplitudes, are tissue-
+specific. Blood cell progenitors [9], tongue epithelium [10], and
+cancer tissues [11] show tissue-specific daily variation in their
+DNA synthesis activity. In tumors, the response is perturbed and
+advanced-stage cancer cells can escape or even disrupt circadian
+control [12,13]. Therefore, we would expect that the development
+PLoS Computational Biology | www.ploscompbiol.org 1 March 2010 | Volume 6 | Issue 3 | e1000712
+of a cell cycle phase specific cancer chronotherapy strategy would
+depend on at least three circadian-dependent factors.
+1. The circadian time of the patient, which defines the overall timing
+of physiological and behavioral activity relative to the daily
+environmental cues. There is a wide variation among
+individuals in the timing of their activity, and this is linked to
+the period length of the circadian pacemaker [14]. Isolated
+human fibroblasts display up to 4 h difference in the timing of
+the largest concentration of circadian proteins [15].
+2. The circadian status of the host and the tumor, which defines how
+each cell type differs in its response to the circadian time of the
+patient. This is tissue-specific and defines the phases and
+amplitudes of the cellular activity in each tissue relative to the
+circadian pacemaker [16].
+3. The cycling status of the host and tumor cells, which defines how
+cell cycle kinetic parameters differ between cell types, and how
+the circadian clock synchronizes the cell cycle. Because of
+variations in cell division times, this property is cell specific.
+Heterogeneity in tumor cell cycle kinetics also decreases the
+coherence of the circadian response. Together with the
+circadian status of the cells and the patient, the cycling status
+determines the daily peaks in DNA synthesis and cell division
+in the target tissues.
+Here, we use a simple model of cell populations under circadian
+clock control and chronomodulated treatment to identify which
+biological parameters are important for the successful design of a
+chronotherapy strategy. We show that optimal CCS drug
+administration schedules, which minimize the sensitive fraction
+of the host cells and maximize the sensitive fraction of the tumor
+cells, are separated by 24 h intervals. However, if timing is wrong,
+a daily chronomodulated treatment schedule can lead to the worst
+therapeutic outcome as well. Using a theoretical analysis of
+treatment outcome (TATO), we show that clinically measurable
+cell cycle kinetics parameters are crucial in determining the
+response to CCS drugs. We show that chronomodulated
+treatments can be beneficial if tailored for individual patients,
+but can also be ineffective or even harmful if administered at
+wrong circadian times. We show that for fast growing tumors,
+administration times at intervals longer than 24 h may reduce
+these risks while maintaining a good overall efficacy.
+Results
+Numerical simulations of the behavior of the system with
+and without treatment
+Renewing tissues have daily peaks in the fraction of cells in S
+phase [9–11]. To explore the influence of daily modulations of cell
+cycle kinetics on cell proliferation, we used a simple cell population
+model [17–19] (Figure 1). The cell population is divided into four
+phases: G0/G1, S, G2 and M. G1 phase has a variable duration
+controlled by the transition rate b(t) and S, G2 and M phases have
+a fixed duration t(t)~tSztP(t)ztM. The circadian clock
+controls the G1-S phase transition and the G2 phase duration:
+the G1-S phase transition rate b(t) and the G2 phase duration
+tP(t) are 24 h periodic functions (see Methods for a more detailed
+description).
+We simulated time courses over 48 h for cell populations with
+different cell cycle phenotypes: host cells, tumor cells with a short
+S phase duration (fast growing tumors), and tumor cells with a
+long S phase duration (slow growing tumors). Because G1 phase
+has a variable duration (represented by an exponential distribu-
+tion of times with parameter b), cells tend to desynchronize when
+there are no synchronization factors present. Even when cells are
+initially synchronized, once the clock control is off (a1~0), the
+fractions in each phase of the cell cycle reach a steady state within
+a few division cycles (asynchronous cell growth). While the clock
+control is on (a1w0), all populations, irrespective of their cell
+cycle length, show a circadian variation in the fraction of cells
+G1, S, G2 and M phases (Figure 2). The fraction of host cells in S
+phase varies from 20% to 30%, and peaks around 12:00 every
+day (Figure 2A, solid line). The fractions of tumor cells in S phase
+vary between 15% and 30% for fast growing tumors and between
+42% and 47% for slow growing tumors, and they peak at
+different times (Figure 2A, dashed and dashed-dotted lines
+respectively). The fractions of cells in G1 and G2/M phases also
+peak at different times of the day and their amplitudes are
+different for each phase (Figure 2B, C). These results indicate that
+the fractions in each cell cycle phase match the circadian period
+but the time at which they peak is influenced by the cell cycle
+status (tumor and host cells respond with different strength to the
+external cues).
+S phase fractions in the host and tumor populations peak at
+different times, a feature that could be exploited by a well-timed
+administration of an S phase specific drug. We simulated the effect
+of one course of treatment based on a standard protocol (see
+Methods). We compared two tumor cell phenotypes: a fast
+growing tumor (Figure 3A,B) and a slow growing tumor
+(Figure 3C,D). Cell cycle kinetic parameters for the host and
+tumor cells were estimated from experimental data in patients
+when available; otherwise, data from mice were used. We assumed
+that the circadian clock acts at the same time of the day in the host
+and tumor cells, albeit more strongly on the host cells. To
+determine the optimal treatment time, we defined an outcome
+function E that measures the trade-off between anti-tumor efficacy
+and toxicity. We calculated the outcome of treatments given at
+different circadian times. The optimal treatment time for the fast
+and slow growing tumors is during night. However, the worst
+times of treatments are different: 17:30 for the fast growing tumor
+and 5:00 for the slow growing tumor (Figure 3B,D). This shows
+that the S phase duration alone can strongly affect the outcome of
+a chronomodulated treatment.
+Author Summary
+Chronotherapy of cancers aims at exploiting daily physi-
+ological rhythms to improve anti-cancer efficacy and
+tolerance to drugs by administering treatments at a
+specific time of the day. Recent clinical trials have shown
+that chronotherapy can be beneficial in improving quality
+of life and median life span in patients, but that it can also
+have negative effects if the timing is wrong. A theoretical
+basis for the rational development of individualized
+therapy schedules is still lacking. Here, we use a simple
+cell population model to show how biological rhythms
+and the cell cycle interact to modulate the response to
+cancer therapy. In particular, we show that the prolifera-
+tion rate of cancer cells determines when treatments are
+most effective. We provide a simple formulation of the
+problem that can be used to compute an objective
+response function based on the drug sensitivity and the
+proliferation rate of tumor cells. Finally, we show that in
+some cases, treating at a different time every day may be
+more appropriate than standard daily chronotherapy.
+These results constitute an important step in designing
+individualized chronotherapy treatments, and point out to
+ways to design better clinical trials.
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 2 March 2010 | Volume 6 | Issue 3 | e1000712
+Theoretical analysis of the treatment outcomes (TATO)
+The fraction of cells in each cell cycle phase determines how
+sensitive to treatment tissues are. Therefore, it would be useful to
+predict the best time of treatment based on kinetic data without
+having to run full simulations. We developed a theoretical method,
+TATO, to predict the influence of cell kinetics on CCS drug
+toxicity and efficacy. If the G1-S phase transition rate b (due to
+circadian entrainment) and the surviving fraction s (due to the
+treatment) are 24 h-periodic, we can solve the periodic treatment
+problem by calculating the average host and tumor population
+growth rates under 24 h period perturbations. The contribution of
+the rhythmic entrainment of the cell cycle to the growth rate can
+be approximated by
+fi(w)~
+1
+T
+ðt0zT
+t0
+~ssi(t,w)~bbi(t{ti)dt, ð1Þ
+where the subscript i~C denotes the tumor and i~H, the host.
+(See Methods for a mathematical analysis). The value ~ss(t,w) is the
+periodic component of the survival fraction of the cells that divide
+at time t, when treated at time w. The value ~bb(t{t) is the periodic
+component of the G1-S transition rate at time t{t. The integral,
+Figure 2. Daily evolution of the host, fast growing tumor and slow growing tumor. (A) S phase fraction. (B) G0/G1 phase fraction. (C) G2/M
+phase fraction. Dark phases are indicated by black bars (20:00 to 8:00). In panels A–C, time 0 corresponds to 72 h after beginning simulations, to allow
+for transients to vanish. Initial conditions (at t~{72 h) are N~1, S~0, P~0, and M~0. In panels A–C, solid lines denote host, dashed lines fast
+growing tumor, and dashed-dotted lines slow growing tumor.
+doi:10.1371/journal.pcbi.1000712.g002
+Figure 1. Cell cycle model. Cells progress along four phases: G0/G1, S, G2 and M. Transition from one phase to another depends on the circadian
+time. G1-S phase transition occurs at a rate b(t). Cells in G1 phase can also leave permanently at a rate d. S/G2/M phases have fixed durations tS, tP(t),
+tM . At the end of the M phase, cells divide and go back to the G0/G1 phase. Cells in S/G2/M phases die at rates cS, cP, cM . G1-S phase transition b(t)
+and G2 phase duration tP(t) are clock-dependent (24 h periodic).
+doi:10.1371/journal.pcbi.1000712.g001
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 3 March 2010 | Volume 6 | Issue 3 | e1000712
+which is the average of the product between the two terms, is the
+net contribution of the periodic component to the rate of viable
+newborn cells over 24 h. As a function of w, the sign of the integral
+determines the effect (positive or negative) of the clock and the
+treatment on the growth rate. We found that the integrals fC and
+fH are good approximations of the response values RC and RH
+computed by numerical simulation (Figure 4).
+The functions fC and fH , as approximations of response
+functions RC and RH , are useful to study the dependence of the
+treatment outcomes on the cell cycle kinetic parameters. For drugs
+targeting the S phase, three cell cycle parameters affect the
+periodic part of the growth rate: (1) the duration of the S phase tS,
+(2) the timing of the peak of the G1-S phase transition rate h, and
+(3) the timing of the cell death rate, given by the timing of the drug
+Figure 3. Treatment outcomes as a function of circadian time of administration. (A) Fast growing tumor treated at optimal time w~2:00.
+(B) Best treatment outcome for fast growing tumors (maximal E) is at 2:00, while the worst is at 17:30 (thick line). (C) Slow growing tumor treated at
+optimal time w~22:00. (D) Best treatment outcome for slow growing tumors is at 22:00, while the worst is at 5:30 (thick line).
+doi:10.1371/journal.pcbi.1000712.g003
+Figure 4. Response of host cells to treatment (RH ) as a function of treatment time w and S phase duration tS. (A) TATO, as given by Eq.
+1 with b sinusoidal. (B) Numerical simulations of the full model. The response is normalized from low tolerance (blue) to high tolerance (red). Daily
+extrema predicted by TATO are indicated by white lines (dashed: highest toxicity wmin, solid: lowest toxicity wmax, same in both panels). TATO predicts
+well the location of the extrema of the full model (squares: highest toxicity wmin; circles: lowest toxicity wmax). At tS = 24 h, the location of extrema are
+shifted by 12 h (thick vs. thin lines).
+doi:10.1371/journal.pcbi.1000712.g004
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 4 March 2010 | Volume 6 | Issue 3 | e1000712
+administration w. These parameters appear, explicitly or implic-
+itly, in Eq. 1. The extrema of Eq. 1, which represent the largest
+and the smallest growth rates of the cell population, can be located
+when b and s are known. As a first approximation, when the
+death rate c(t) and the G1-S phase transition rate b(t) are
+sinusoidal and are largest at times w and h, the location of the
+extrema can be calculated explicitly. The maximum of fi occurs
+when
+wmax~tS=2z12zh mod 24
+and the minimum of fi occurs when
+wmin~tS=2zh mod 24:
+(Figure 4A, white lines). Therefore, to kill the largest fraction of
+cells, i.e. to minimize f , treatments should be applied halfway the
+S phase duration after the daily peak in G1-S phase transition. To
+spare the largest fraction of cells, the treatment should be applied
+12 h later (detailed analysis in Methods). Based only on tS and h,
+TATO predicts that the extrema of f are 12 h apart. This
+approximation is good for tS durations between 7 h and 24 h
+(Figure 4B). When tS is larger than 24 h, the extrema are shifted
+by 12 h (Figure 4). When tS~24 h, the timing of the treatment
+has no effect.
+Anticancer drugs interfering with DNA synthesis (S phase) are
+widely used, but other phases of the cell cycle can be targeted as
+well. Therefore, in addition to the simulations for drug specific to S
+phase, we ran full model simulations for drugs acting on G1 or
+G2/M phase and compared the outcome to prediction from
+TATO (Table 1). The treatment protocol was the same as for the
+S phase drug, which is also included in Table 1. Optimal times of
+treatment in G1, S and G2/M phases vary by as much as 9 h
+between fast and slow growing tumors (formulas for optimal times
+are given in Methods). The worst times of treatment also show
+large differences between fast and slow growing tumors. Despite
+this, TATO predicts the optimal time within 2.5 h.
+Taken together, these results indicate that TATO, using only a
+reduced set of kinetic parameters, can reliably predict the outcome
+of full simulations.
+Comparison of different chronomodulated designs
+Previous computational studies have found that the fraction of
+cells killed with a constant drug infusion is higher (more toxic) than
+that killed with a chronomodulated infusion, for the same average
+killing rate [20–23]. Our model is consistent with these findings,
+and indicates that higher total doses of chronomodulated drug can
+be tolerated and are needed to achieve the same anti-tumor
+efficacy. These theoretical results are in agreement with clinical
+trials that showed consistent higher tolerance for chronomodulated
+compared to constant infusion [4], even when given at non-
+optimal times [24]. Lesser toxicity is independent from the
+circadian rhythms, i.e. chronomodulated treatments are less toxic
+even in absence of circadian rhythms a1~0. Thus, clinical and
+theoretical evidence shows that the shape of the infusion profile
+alone affects the treatment outcome significantly. For that reason,
+a direct comparison between constant and chronomodulated
+treatment is not really possible. Instead, we asked whether the
+same drug concentration profile administered at intervals different
+from 24 h could improve efficacy.
+We simulated the chronomodulated administration protocol
+with intervals ranging from p~16 to p~30 h, starting on the first
+day at a time t0 between 0:00 and 24:00. The total quantity and
+the infusion profile of the drug administered was the same for all
+intervals tested. Therefore, the resulting difference between
+outcomes depends only on the initial timing t0 and the period p.
+As expected, the largest amplitude of outcomes as a function of t0,
+and the best outcomes globally, are at intervals p~24 h
+(Figure 5A–D, solid lines). Likewise, the worst treatment outcomes
+also occur at intervals of 24 h.
+To avoid the worst outcomes, it may be safer to seek treatment
+intervals that minimize outcome amplitudes, while optimizing the
+average outcome (maximizing E). When p is close to 24 h, the
+treatment times can be averaged over the treatment course and
+TATO predicts an outcome given by
+t0(p)~w24{(p{24)
+m{1
+2
+, ð2Þ
+where m is the number of drug administrations during one course
+of treatment, and w24 is the phase of a 24 h interval treatment. If p
+is larger than 24 h, the starting time of treatment t0 needs to be
+advanced to produce an outcome equivalent to the one obtained
+at w24. Here, using m~5, each hour increment in p leads to a 2 h-
+advance in the starting treatment time. When p is much different
+from 24 h, i.e. p~24n=m, n~m+1, the average treatment phase
+is undefined, and TATO predicts an outcome independent from
+t0. In both fast and slow growing tumors, at these values p~19:2 h
+and p~28:8 h, the outcome E depends little on t0. These two
+intervals offer circadian-independent treatment controls for the
+chronomodulated treatment (Figure 5B,D dashed and dotted
+lines). For a 24 h interval treatment to be safe to use, the time
+window during which the treatment is better than control should
+be large. TATO predicts that the outcome at p~19:2 h and
+p~28:8 h depends significantly on the duration of the sensitive
+phase (Eq. 24 in Methods). Treatment intervals longer than 24 h
+are predicted to spare the most host and slow growing tumor cells
+while shorter intervals are expected to spare the most fast tumor
+cells. Numerical simulations confirmed that the outcomes depend
+on the intervals in a way that is specific to the tumor. Fast growing
+tumors showed the best response at intervals p~28:8 h except for
+a small time window around midnight (Figure 5B), while the slow
+growing tumors showed a better response at p~24 h (Figure 5D).
+Differences in the cell cycle lengths between the tumor and host
+cells could be exploited by adapting the interval between drug
+administrations [25,26]. Cell cycle length effects were also
+observed in the model in the presence of the circadian clock.
+Overall, a long interval tended to improve anti-tumor efficacy in
+fast growing tumors, while a short interval was detrimental
+Table 1. Best and worst times of treatments.
+phase fast growing tumor slow growing tumor
+best worst best worst
+sim TATO sim TATO sim TATO sim TATO
+G1 23:00 1:00 7:00 13:00 14:00 16:15 5:00 4:15
+S 2:00 4:30 17:30 16:30 22:00 19:45 5:30 7:45
+G2/M 14:30 12:30 3:00 0:30 7:00 7:00 19:00* 19:00
+The best and the worst times of treatments for cell cycle specific (CCS) anti-
+cancer drugs, based on treatment outcomes from numerical simulations (sim)
+and theoretical analysis (TATO). For S phase, the results compare to numerical
+simulations from Figure 3.
+*
+Range 13:00 to 1:00.
+doi:10.1371/journal.pcbi.1000712.t001
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 5 March 2010 | Volume 6 | Issue 3 | e1000712
+(Figure 5A). The opposite was observed for slow growing tumors,
+where shorter treatment intervals had a better outcome
+(Figure 5C). This indicates that the cell cycle kinetics interacts
+with the timing of the drug administration to modulate outcomes,
+even in the presence of a circadian clock.
+Discussion
+Several randomized clinical trials have demonstrated significant
+improvements in tolerability and antitumor efficacy of chemo-
+therapy with standardized chronomodulated administrations in
+comparison with a constant rate infusion of chemotherapy [27] or
+a chronomodulated delivery with an opposite timing [28,29].
+However, these studies did not show any survival benefit. In a
+recent large trial involving colorectal cancer patients, standardized
+chronotherapy achieved significantly better survival as compared
+to conventional treatment in men, but not in women [30]. This
+indicates that the response of patients to standardized chrono-
+therapy can be heterogeneous, and that there is a need for
+tailoring delivery pattern to an individual patient or to subgroups
+of patients with distinct chronotherapeutic determinants.
+These determinants are structured in different levels: whole
+body/systemic, target tissues, and cellular levels. A combination of
+these three factors contributes to the therapeutic advantage of
+chronomodulated delivery in an individual patient, and to the best
+delivery time. Systemic level includes the main behavioral and
+physiological characteristics like sleep/wake and eating patterns.
+The phase difference in peak expression of clock genes of each
+chronotype indicates that the optimal treatment time could vary at
+least by +2 h [15]. For example, the efficacy and toxicity of 5-FU
+are dependent on thymidylate synthase (TS) activity, its molecular
+target [31,32], and dihydropyrimidine dehydrogenase activity
+(DPD), the enzyme responsible for the elimination of 5-FU [33].
+Circadian rhythms in both TS and DPD activity have been
+Figure 5. Treatment outcomes with different intervals between drug administrations. (A, C) Outcomes for fast (A) and slow (C) growing
+tumors, for different first day delivery times (t0) and intervals (p) between administrations. The treatment outcome function used normalized, scaled
+responses RC and RH from simulations. Low values (blue) indicate bad treatment outcomes and high values (red), good ones. Outcomes for three
+intervals with 4.8 h difference (white lines) are compared: 19.2 h, 24 h, and 28.8 h. Eq. 2 predicts the location of the best response, as a function of p (thin
+white lines). (B, D) Outcomes at 24 h intervals show large amplitudes while small amplitudes occur at 19.2 h and 28.8 h intervals. For fast growing
+tumors, an interval of 28.8 h is a good alternative to 24 h (B, dotted line), but for slow growing tumors, an interval of 24 h is better (D, solid line).
+doi:10.1371/journal.pcbi.1000712.g005
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 6 March 2010 | Volume 6 | Issue 3 | e1000712
+detected [34,35]. TS activity is higher during S, G2 and M phases,
+therefore the rhythms might be due to cell cycle synchronization
+[36,37], or to direct circadian clock control. Also, circadian
+rhythms in DPD activity modulate 5-FU concentration during the
+day, regardless of whether 5-FU delivery is constant or
+chronomodulated.
+In this study, we showed how cell cycle kinetics, i.e. cell cycle
+length and duration of the susceptible phase, can affect the timing
+of the optimal chronomodulated treatment. We used a mathe-
+matical model for normal cell and tumor growth under circadian
+regulation to investigate: (i) how we can use differences of cell cycle
+dynamics between host and tumor cells to establish an optimal
+treatment schedule, and (ii) how timing of the best and the worst
+treatment outcomes depends on individual chronotype and the
+growth rate of the tumor.
+Optimization of treatment schedules based on cell cycle kinetics
+of target tissues has been explored before [26,38]. These
+experimental and theoretical studies were based on the concept
+of resonance therapy, where treating at integer multiples of the cell
+cycle length leads to a reduction of killing of normal cells. This
+could be exploited in cancers where tumors cells have a cell cycle
+time distinct from normal cells, or where there is a large variability
+in tumor cell cycle times. It was noted, however, that heterogeneity
+in normal cell cycle times reduces the benefits of resonance
+therapy [25]. These alternative schedules have so far received little
+attention in the context of chronotherapy.
+Recently, Altinok et al. [39] used a computational approach
+based on cellular automata to explore the effect of the variability in
+the cell cycle length on chronotolerance and chronoefficacy of 5-
+FU and oxaliplatin. Their model accounted for the observation
+that the toxicity profiles of 5-FU and oxaliplatin are antiphase, and
+showed how variability in cell cycle lengths reduces the benefits of
+chronomodulated treatments. Cell populations with cell cycle
+times just below 24 h are most likely to benefit from chronother-
+apy, a result that could be explained by a synergy between cell
+cycle times, circadian rhythms and periodic treatments.
+Importance of the tumor growth rate
+We have developed an analytic method, TATO, that allows us
+to identify the optimal treatment time based on the circadian
+status and on the cell cycle kinetics of the host and tumor tissues.
+TATO measures the average differential growth rate of host and
+tumor cells that is caused by the circadian modulation of the cell
+cycle. Three parameters are essential to calculate the differential
+growth rate: the G1/S phase transition rate, the duration of the
+drug susceptibility phase, and the death rate. Our model indicates
+that the cell cycle length, which can vary from 18 h to over 100 h
+in colorectal cancers [40], is important to determine the best
+treatment times and intervals.
+24 h interval treatments at the right time provided the best
+efficacy. Yet, the worse time of treatment can be as near as few
+hours from the optimal time [41], making it risky to treat at 24 h
+intervals. A previous study has found a significant correlation
+between S phase duration and 5-FU sensitivity [36]. Here we
+showed that for fast growing tumor (short S phase duration),
+administering a drug that targets the S phase of the cell cycle at
+28.8 h intervals may be safer than treating at 24 h intervals.
+However, we found that for slow growing tumor (long S phase
+duration), treating at 24 h intervals was indeed the best option,
+even when deviating from the optimal time. So far, schedules
+different from 24 h have not been tested in the context of
+circadian chronotherapy, but in this paper, we show that for fast
+growing tumors they might be a safer strategy.
+Quantitative approach to chronotherapy in a clinical
+setting
+Drugs and the active drug metabolites used in chronotherapy
+are rapidly eliminated after delivery, which causes large modula-
+tions in their concentrations during the day. For that reason,
+patients with decreased 5-FU clearance rate due to a partial or
+complete loss of DPD activity might not benefit from chronomo-
+dulated treatments. An observed lower mean and amplitude of
+DPD activity in women is a possible explanation for the lower
+survival time with chronotherapy [5].
+Here, we suggest how to individualize chronomodulated
+treatment schedules. First, patients with no overt circadian rhythm
+perturbations need to be selected, and their tumor kinetics assesed
+by measuring the S phase duration (tS) and potential doubling
+time (tpot). If the S phase duration of the tumor cells is short, a non-
+24 h schedule may be preferable. If the S phase duration of the
+tumor cells is long, a 24 h schedule could be more effective.
+Second, the best treatment time could be determined using
+TATO. Constant infusion is not the best control for 24 h
+schedules since the shape of the infusion profile is likely to have
+a significant effect on outcomes [3]. Chronomodulated treatments
+with intervals spanning the whole day equally allows minimizing
+circadian effects, thus they could make suitable controls. Unlike for
+24 h schedules, a constant infusion control group could be used to
+assess the efficacy of non 24 h interval treatments.
+Third, once the optimal treatment time is determined, reverse
+pharmacokinetics could be used to retrieve the corresponding dose
+delivery schedule. Given a fixed dose d delivered to a tissue at time
+t, the fraction of surviving cells depends on the fraction of sensitive
+cells and the killing rate. If the killing rate varies in a predictable
+way during the day due to metabolism or elimination, it is possible
+to find a normalization dosage profile d(t) to make the killing rate
+time-independent. Thus, by knowing the quantity of drug needed
+to achieve a given killing rate, the fraction of surviving cells can be
+determined by the fraction of sensitive cells given by the model
+presented here.
+The accepted administration time for 5-FU, 4:00, is based on the
+observation that in mice, the maximal tolerance is reached 5 h after
+light onset, corresponding to 5 h after beginning sleeping at 23:00 in
+humans [4]. In a recent study [28], 8 groups of patients received
+chronomodulated 5-FU-LV with peak times staggered every 3 h.
+Toxicity showed a marked circadian dependency of timing of
+chronomodulated 5-FU with leucovorin and oxaliplatin or
+carboplatin in cancer patients, with optimal time of 5-FU in cancer
+patients near 4:00 with 90% confidence limits. This study also
+showed more toxicity and large variability in women. Chronomo-
+dulated drug infusion differs in two respects from constant rate
+infusion: modulated concentration profile and timing. Chronother-
+apy is based on adapting the timing of treatment regimens to the
+circadian rhythms [27]. Thus, for the chronotherapy principle to
+work once the effect of concentration profile is discounted, there
+should be a 12 h time window during which the therapeutic
+outcome improves. This means that only 6 h would separate the
+optimal treatment time and a no-effect treatment time. We
+conclude that for chronotherapy clinical trials, patients need to be
+grouped according to the chronotype, tumor growth kinetics and
+pharmacokinetics/pharmacodynamics characteristics.
+Methods
+Population model of cell proliferation with circadian
+control
+The cell population is divided into four phases: G0/G1, S, G2 and
+M. The G0/G1 phase includes cells that are actively dividing, but are
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 7 March 2010 | Volume 6 | Issue 3 | e1000712
+in the pre-DNA synthesis or growth phase (G1) and cells that are
+quiescent but can be recruited to the cell cycle (G0). The S phase
+includes cells in DNA synthesis. The G2 and M phases include cells
+that have synthesized DNA and are progressing through mitosis. We
+used a population model of cell proliferation [17–19] in which we
+introduced a circadian control (Figure 1). Each stage of the cell cycle
+and its relationship to the circadian clock is modeled. The input to the
+model is a treatment course and the output is the population size in
+each cell cycle phase at any given time of the day.
+We consider two cell types, host and tumor cells. Cell kinetic
+parameters for the host correspond to blood cell progenitors and
+for the tumor, to colorectal cancer cells. The model tracks the total
+cell number and fraction of cells in each phase for host and tumor
+during a course of chemotherapy, allowing estimates of efficacy
+and toxicity. The equations for the cell populations are
+dN
+dt
+~{½d(t)zb(t)N(t)z2½1{tP
+0
+(t{tM )s(t)b(t{t(t))N(t{t(t)), ð3Þ
+dS
+dt
+~{cS(t)S(t){sS(t)b(t{tS)N(t{tS)zb(t)N(t), ð4Þ
+dP
+dt
+~{cP(t)P(t)zsS(t)b(t{tS)N(t{tS){½1{tP
+0
+(t)sP(t)
+|sS(t{tP(t))b(t{tS{tP(t))N(t{tS{tP(t)),
+ð5Þ
+dM
+dt
+~{cM (t)M(t){½1{tP
+0
+(t{tM)s(t)b(t{t(t))N(t{t(t))
+z½1{tP
+0
+(t)sP(t)sS(t{tP(t))b(t{tS{tP(t))N(t{tS{tP(t)):
+ð6Þ
+Each equation represents the balance between fluxes of cells
+(cells/hours) entering (z terms) and leaving ({ terms) a cell cycle
+phase (see Figure 1 for details about the model). N (Eq. 3) is the G0/
+G1 phase cell number, S (Eq. 4) the S phase cell number, P (Eq. 5)
+the G2 phase cell number, and M (Eq. 6) is the M phase cell
+number. The total cell number is denoted Tot~NzSzPzM.
+The term s(t), 0ƒsƒ1, is the fraction of cells surviving the cell
+cycle (S/G2/M phases) at time t. It is the product of phase specific
+survival rates,
+s(t)~sS(t{tP(t{tM ){tM)sP(t{tM )sM: ð7Þ
+Time delays (t{ti) account for the finite time required for cells to
+progress through each phase. The survival rates for the S, G2 and
+M phases are determined by integrating the phase-specific death
+rates c over the duration of each phase,
+si(t)~ exp {
+ðt
+t{ti(t)
+ci(u)du
+" #
+, ð8Þ
+where i is one of S, P, M. The duration t(t) is the total length of S,
+G2, and M phases of cell dividing at time t,
+t(t)~tSztP(t{tM)ztM: ð9Þ
+The phase and amplitude of b are given by h1 and a1. Similarly,
+the phase and amplitude of tP are given by h2 and a2 (h2 and a2
+are relative to h1 and a1). A sinusoidal circadian input with a
+specific phase and amplitude is assumed for b and tP,
+b(t)~b0(1za1v(t{h1)), ð10Þ
+tP(t)~t0
+P(1za1a2v(t{h1{h2)), ð11Þ
+where the circadian function is
+v(t)~ cos
+2pt
+24
+ 
+za cos
+4p(t{b)
+24
+ 
+: ð12Þ
+The coefficient a and phase-shift b are set for all simulations to 0.2
+and 14 h respectively. The function v mimics the typical
+expression profile of circadian genes in many tissues, for a given
+individual. Note that circadian rhythm variability among individ-
+uals affect these parameters.
+Kinetic parameters for bone marrow (host) and colorectal
+cancer (tumor) are derived from experimental data or were
+adjusted using this model. For the bone marrow b0~0:04 h{1
+[25], d(t)~d~0:004 h{1
+[25], c0
+S~0:01 h{1
+[25,40], cP~0:01
+h{1
+, cM ~0:01 h{1
+, tS~15 h [25], t0
+P~2 h, tM ~3 h, a1~0:5
+[9], a2~2 [8], h1~5:75 h [9], h2~16 h [8]. For the tumors,
+parameters are identical except b0~0:06, c0
+S~0:04 (fast),
+c0
+S~0:005 (slow), tS~7 (fast), tS~20 (slow), a1~0:4.
+The population model is linear and simulations of host and
+tumor cell growth show that their cell numbers grow exponentially
+with a circadian modulation. Here we neglect nonlinear terms that
+would eventually cause the cell number to stabilize. We assume
+that with the treatment, the cell number is far from equilibrium.
+For a small-size tumor, this is a reasonable assumption. We also
+neglect the systemic feedback mechanisms of normal tissue
+homeostasis, which are more relevant to study between courses
+of chemotherapy when patients are recovering. Therefore, a linear
+model is also considered for the host tissues under cytotoxic stress.
+Simulation of different treatment schedules
+We simulate a colorectal cancer treatment with 5-FU [42,43]. 5-FU
+is an S phase specific drug that inhibits thymidylate synthase activity
+required for DNA synthesis, and consequently induces cell death.
+Chemotherapy schedules used clinically are either chronomodulated at
+24 h intervals, or a constant infusion of 5-FU for a few consecutive
+days. The treatment is repeated every two to three weeks [4].
+For simplicity, we simulate only one course of chemotherapy.
+We consider three different schedules: chronomodulated with 24 h
+intervals, flat infusion, and chronomodulated with intervals
+different from 24 h. One course of treatment lasts 5 days or 5
+chronomodulated administrations. To isolate the effect of
+chronomodulation of treatment, we ignore the pharmacodynam-
+ics/pharmacokinetics aspects and we assume that chemotherapy
+acts on tumor and host cells in the same way. Because cytotoxic
+chemotherapy affects the hematopoietic system, and neutropenia
+is a major limitation to drug tolerance, we simulate the effect of 5-
+FU with blood cells as the host tissue.
+The effect of 5-FU is simulated by adding a drug-induced death
+rate to the basal apoptosis rate of S-phase cells,
+cS(t,w)~c0
+Szcper(t,w): ð13Þ
+The chronomodulated drug-induced death rate, cper, takes the
+(3)
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 8 March 2010 | Volume 6 | Issue 3 | e1000712
+form of a truncated Gaussian function centered at circadian time
+w, the treatment time (between 0 and 24 h),
+cper(t,w)~
+k exp{
+t{w
+tdur=4
+ 2
+" #
+w{tdur=2vmod(t,p)vwztdur=2,
+0 otherwise:
+8
+><
+>:
+ð14Þ
+Drug administration is repeated at intervals of p hours. The
+duration of drug infusion is tdur~4 h [4]. The coefficient k~8 is
+the maximal drug-induced cell death rate. The equivalent flat
+rate infusion (normalized so that it kills the same fraction of
+cells than the chronomodulated infusion, in one day) is the
+constant
+cflat~kflat
+1
+p
+ðp
+0
+cper(t,0)dt: ð15Þ
+The normalization factor is kflat~1:7642k=24.
+For all simulations, the initial conditions were set to N(0)~1,
+S(0)~0, P(0)~0, M(0)~0 and sS(0)~0 (total number initialized
+to Tot~1). With the parameters chosen, the relative
+population is quickly synchronized by the circadian rhythm.
+Numerical simulations were performed with the Volterra solver
+of the package XPPAUT. Analysis was done with Matlab 7.0.
+Codes (XPPAUT and Matlab) are available as supplementary text
+(Texts S1, S2, S3,S4).
+Measure of treatment outcomes
+The treatment outcome measure is defined as
+E(w)~ log
+exp (RH (w))z exp ({RC(w))
+2
+ 
+, ð16Þ
+where the functions RC and RH measure the cytotoxicity in tumor
+(C) and host (H) cells. The parameter w is the circadian time of
+drug administration in case of a 24 h treatment interval. For non-
+24 h intervals, it is the time of administration on the first day of
+treatment. RC and RH , obtained from numerical simulations, are
+the normalized cell numbers 7 days after the first day of treatment
+R~(Tot{mean(Tot))=( max (Tot){ min (Tot)), where Tot is
+the total cell number as a function of w. The outcome function E
+must increase with RH (high tolerance) and decreases with RC
+(high killing rate). For the flat infusions, E is constant. Close to
+zero, a Taylor expansion gives
+E(w)*
+1
+2
+RH (w){
+1
+2
+RC(w)zO2
+: ð17Þ
+The outcome E measures the difference between responses RH and
+RC, and penalizes both excessive toxicity and poor anti-tumor efficacy.
+An optimal treatment maximizing tumor cell kill and minimizing host
+cell loss is found by maximizing the outcome function E.
+Theoretical analysis of treatment outcomes (TATO)
+Equation 3 does not depend on other dynamical variables, so its
+stability analysis is simplified. Assuming a exponential growth,
+N(t)*C(t) exp (st), where C(t) is a T = 24 h-periodic function
+and s is the growth rate, we have from Eq. 3,
+dC(t)
+dt
+~{½szd(t)zb(t)C(t)z2s(t)b(t{t)exp({st)C(t{t) ð18Þ
+Taking the average over a period, we obtain
+szSdTzSbT~2 exp ({st)
+1
+T
+ðT
+0
+s(t)b(t{t)
+C(t{t)
+C(t)
+dt: ð19Þ
+For cell death occurring in the S, G2 or M phase, the death rate
+c(t) is chronomodulated. By making the simplifying assumption
+that the function C(t{t)=C(t)*1,
+szSdTzSbT~2 exp ({st) SsTSbTz
+1
+T
+ðT
+0
+~ss(t)~bb(t{t)dt
+ 
+:ð20Þ
+The angle brackets denote the average over a period and the tildes
+the remaining, oscillatory part with a zero average. Thus, periodic
+parameters act only on s through the integral term,
+I(w)~
+1
+T
+ðT
+0
+~ss(t,w)~bb(t{t)dt: ð21Þ
+The integral can be either positive or negative, modulating the
+growth rate accordingly. As a consequence, the growth rate
+(tolerance) is maximal when the integral is maximal and the death
+rate (toxicity) maximal when the integral is minimal.
+We consider b(t)~b0(1z cos (2p(t{h)=T)) and a drug
+specific to the S phase cS(t,w)~c0(1z cos (2p(t{w)=T)). Then,
+1. The integral is maximal at wmax~tS=2z12zh mod 24.
+2. The integral is minimal at wmin~tS=2zh mod 24.
+3. The amplitude of the integral, I(wmax){I(wmin)~m(tS)
+exp ({c0tS), where the function m is a symmetric function
+on 0–24 h, m(0)~m(24)~0 and the value tS that maximizes
+m is tS~12 h.
+The values wmax and wmin are shifted 12 h when tS§24 h. If
+the drug acts on the G2/M phases, with cG2=M(t,w)~
+c0(1z cos (2p(t{w)=T)) then
+1. The integral is maximal at wmax~tG2=M=2ztSz12z
+h mod 24.
+2. The integral is minimal at wmin~tG2=M=2ztSzh mod 24.
+For cell death occurring in the G1 phase, the death rate d(t) is
+chronomodulated. We assume that s is constant and therefore, the
+integral term becomes
+I(w)~
+1
+T
+ðT
+0
+~bb(t{t)
+C(t{t)
+C(t)
+dt: ð22Þ
+If d(t) peaks at w, meaning many cells in G1 are lost, the periodic
+solution C(t) will reach a minimum value at w. Thus the ratio
+C(t{t)=C(t) will have a maximum at t~w and a minimum
+at t~wzt mod T. Assuming that b(t{t) peaks at
+t~hzt mod T and is minimum at t~hztz12 mod T,
+1. The integral is maximal between hzt and hz12 mod 24.
+2. The integral is minimal between h and hz12zt mod 24.
+When treatment intervals are different from 24 h, the outcome will
+depend on the administration times over the whole course of
+treatment. If wi is the time of the i-th administration, the effect on
+the growth rate is
+I(wi)~
+1
+T
+ðT
+0
+~ss(t,wi)~bb(t{t)dt:
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 9 March 2010 | Volume 6 | Issue 3 | e1000712
+The average effect of m successive administrations at times
+wi~t0z(i{1)p, i~1, ... ,m is
+1
+m
+Xm
+i~1
+I(wi)~
+1
+T
+ðT
+0
+1
+m
+Xm
+i~1
+~ss(t,wi)~bb(t{t)dt: ð23Þ
+When p*T, it is justified to replace the term
+1
+m
+Xm
+i~1
+~ss(t,wi) with
+~ss(t,ww), where
+ww~t0z(p{T)
+m{1
+2
+:
+Therefore, the outcomes will be equivalent when ww~w24, with w24 the
+phase of the 24 h interval treatment. The starting treatment time must
+then be
+t0(p)~w24{(p{T)
+m{1
+2
+: ð24Þ
+When p~Tn=m, with n~m+1, administration times are distributed
+equally around the circadian period and t0 has little effect on the
+outcome. Neglecting the circadian clock allows computing the
+treatment intervals that minimize the growth rate of the equation
+n’(t)~{bn(t)z2bs(t)n(t{t), with a p-periodic survival fraction
+s(t)~1 if t mod pwt and 0 otherwise. This means that all cells in
+the sensitive phase are killed at intervals p. The minimal growth rates
+occurs at values pminƒt, since not a single cell would come out of the
+sensitive phase alive. The maximal growth rate occurs when pwt and
+the fraction of cells in the sensitive phase is minimal. Let v(t) be the cell
+number in sensitive phase, given by v’(t)~bn(t){bn(t{t). Right
+after administration, v(t0)~0. The sensitive fraction reaches a
+minimum when n(t0zp)v’(t0zp)~v(t0zp)n’(t0zp). This occurs
+a time pmax after the last administration, where
+pmax~tz
+2{e{bt
+2b
+z
+1
+b
+W0({
+1
+2
+e({1z1
+2
+e{bt)
+): ð25Þ
+W0 is the Lambert W function, and satisfies W0(x)eW0(x)
+~x.
+Supporting Information
+Text S1 XPPAUT file to simulate population growth and
+treatment.
+Found at: doi:10.1371/journal.pcbi.1000712.s001 (0.01 MB
+TXT)
+Text S2 Matlab file to run the model file cccMatlab.ode.
+Found at: doi:10.1371/journal.pcbi.1000712.s002 (0.01 MB
+TXT)
+Text S3 Matlab script to load data obtained from model
+simulations.
+Found at: doi:10.1371/journal.pcbi.1000712.s003 (0.01 MB
+TXT)
+Text S4 Script to extract data from data sets with two indices.
+Found at: doi:10.1371/journal.pcbi.1000712.s004 (0.01 MB
+TXT)
+Author Contributions
+Conceived and designed the experiments: SB BB FL HH. Performed the
+experiments: SB. Analyzed the data: SB BB FL HH. Wrote the paper: SB
+BB FL HH.
+References
+1. Reppert SM, Weaver DR (2002) Coordination of circadian timing in mammals.
+Nature 418: 935–941.
+2. Halberg F, Haus E, Cardoso SS, Scheving LE, Ku¨hl JF, et al. (1973) Toward a
+chronotherapy of neoplasia: tolerance of treatment depends upon host rhythms.
+Experientia 29: 909–934.
+3. Takimoto CH (2006) Chronomodulated chemotherapy for colorectal cancer:
+failing the test of time? Eur J Cancer 42: 574–581.
+4. Mormont MC, Le´vi F (2003) Cancer chronotherapy: principles, applications,
+and perspectives. Cancer 97: 155–169.
+5. Le´vi F, Schibler U (2007) Circadian rhythms: mechanisms and therapeutic
+implications. Annu Rev Pharmacol Toxicol 47: 593–628.
+6. Ribba B, You B, Tod M, Girard P, Tranchand B, et al. (2009) Chemotherapy
+may be delivered based on an integrated view of tumour dynamics. IET Systems
+Biology 3: 180–190.
+7. Fu L, Pelicano H, Liu J, Huang P, Lee CC (2002) The circadian gene Period2
+plays an important role in tumor suppression and DNA damage response in
+vivo. Cell 111: 41–50.
+8. Matsuo T, Yamaguchi S, Mitsui S, Emi A, Shimoda F, et al. (2003) Control
+mechanism of the circadian clock for timing of cell division in vivo. Science 302:
+255–259.
+9. Smaaland R, Laerum OD, Lote K, Sletvold O, Sothern RB, et al. (1991) DNA
+synthesis in human bone marrow is circadian stage dependent. Blood 77:
+2603–2611.
+10. Potten CS, Booth D, Cragg NJ, Tudor GL, O’Shea JA, et al. (2002) Cell kinetic
+studies in the murine ventral tongue epithelium: thymidine metabolism studies
+and circadian rhythm determination. Cell Prolif 53: 1–15.
+11. Hrushesky WJ, Lannin D, Haus E (1998) Evidence for an ontogenetic basis for
+circadian coordination of cancer cell proliferation. J Natl Cancer Inst 90:
+1480–1484.
+12. Filipski E, Delaunay F, King VM, Wu MW, Claustrat B, et al. (2004) Effects
+of chronic jet lag on tumor progression in mice. Cancer Res 64: 7879–
+7885.
+13. Filipski E, Innominato PF, Wu M, Li XM, Iacobelli S, et al. (2005) Effects of
+light and food schedules on liver and tumor molecular clocks in mice. J Natl
+Cancer Inst 97: 507–517.
+14. Roenneberg T, Merrow M (2003) The network of time: understanding the
+molecular circadian system. Curr Biol 13: R198–R207.
+15. Brown SA, Kunz D, Dumas A, Westermark PO, Vanselow K, et al. (2008)
+Molecular insights into human daily behavior. Proc Natl Acad Sci USA 105:
+1602–1607.
+16. Yan J, Wang H, Liu Y, Shao C (2008) Analysis of gene regulatory networks in
+the mammalian circadian rhythm. PLoS Comput Biol 4: e1000193.
+17. Burns FJ, Tannock IF (1970) On the existence of a G0 phase in the cell cycle.
+Cell Tissue Kinet 3: 321–334.
+18. Smith JA, Martin L (1973) Do cells cycle? Proc Natl Acad Sci, USA 70:
+1263–1267.
+19. Mackey MC (1978) Unified hypothesis of the origin of aplastic anemia and
+periodic hematopoiesis. Blood 51: 941–956.
+20. Clairambault J, Michel P, Perthame B (2006) Circadian rhythm and tumour
+growth. C R Acad Sci Paris, Ser I 342: 17–22.
+21. Bernard S, Herzel H (2006) Why do cells cycle with a 24 hour period? Genome
+Inform 17: 72–79.
+22. Altinok A, Le´vi F, Goldbeter A (2007) A cell cycle automaton model for probing
+circadian patterns of anticancer drug delivery. Adv Drug Deliv Rev 59: 1036–1053.
+23. Clairambault J, Gaubert S, Lepoutre T (2009) Comparison of Perron and
+Floquet eigenvalues in age structured cell division cycle models. Math Model
+Nat Phenom 4: 183–209.
+24. Falcone A, Allegrini G, Antonuzzo A, Brunetti I, Pfanner E, et al. (1999)
+Infusions of fluorouracil and leucovorin: effects of the timing and semi-
+intermittency of drug delivery. Oncology 57: 195–201.
+25. Andersen LK, Mackey MC (2001) Resonance in periodic chemotheray: A case
+study of acute myelogenous leukemia. J Theor Biol 209: 113–130.
+26. Agur Z, Arnon R, Schechter B (1992) Effect of the dosing interval on
+myelotoxicity and survival in mice treated by cytarabine. Eur J Cancer 28A:
+1085–1090.
+27. Le´vi F (2001) Circadian chronotherapy for human cancers. Lancet Oncol 2:
+307–315.
+28. Le´vi F, Focan C, Karaboue´ A, de la Valette V, Focan-Henrard D, et al. (2007)
+Implications of circadian clocks for the rhythmic delivery of cancer therapeutics.
+Adv Drug Deliv Rev 59: 1015–1035.
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 10 March 2010 | Volume 6 | Issue 3 | e1000712
+29. Le´vi F, Altinok A, Clairambault J, Goldbeter A (2008) Implications of circadian
+clocks for the rhythmic delivery of cancer therapeutics. Philos Transact A Math
+Phys Eng Sci 366: 3575–3598.
+30. Giacchetti S, Bjarnason G, Garufi C, Genet D, Iacobelli S, et al. (2006) Phase III
+trial comparing 4-day chronomodulated therapy versus 2-day conventional
+delivery of fluorouracil, leucovorin, and oxaliplatin as first-line chemotherapy of
+metastatic colorectal cancer: the European Organisation for Research and
+Treatment of Cancer Chronotherapy Group. J Clin Oncol 24: 3562–3569.
+31. Johnston P (1995) Thymidylate synthase gene and protein expression correlate
+and are associated with response to 5-fluorouracil in human colorectal and
+gastric tumors. Cancer Res 55: 1407–1412.
+32. Pullarkat S, Stoehlmacher J, Ghaderi V, Xiong Y, Ingles S, et al. (2001)
+Thymidylate synthase gene polymorphism determines response and toxicity of 5-
+FU chemotherapy. Pharmacogenomics J 1: 65.
+33. Salonga D, Danenberg K, Johnson M, Metzger R, Groshen S, et al. (2000)
+Colorectal tumors responding to 5-fluorouracil have low gene expression levels
+of dihydropyrimidine dehydrogenase, thymidylate synthase, and thymidine
+phosphorylase 1. Clin Cancer Res 6: 1322–1327.
+34. Lincoln 2nd D, Hrushesky W, Wood P (2000) Circadian organization of
+thymidylate synthase activity in normal tissues: a possible basis for 5-fluorouracil
+chronotherapeutic advantage. Int J Cancer 88: 479–85.
+35. Harris B (1990) Relationship between dihydropyrimidine dehydrogenase activity
+and plasma 5-fluorouracil levels with evidence for circadian variation of enzyme
+activity and plasma drug levels in cancer patients receiving 5-fluorouracil by
+protracted continuous infusion. Cancer Res 50: 197–201.
+36. Mirjolet J, Barberi-Heyob M, Merlin J, Marchal S, Etienne M, et al. (1998)
+Thymidylate synthase expression and activity: relation to S-phase parameters
+and 5-fluorouracil sensitivity. Br J Cancer 78: 62–8.
+37. Bjarnason GA, Jordan RC, Wood PA, Li Q, Lincoln DW, et al. (2001)
+Circadian expression of clock genes in human oral mucosa and skin: association
+with specific cell-cycle phases. Am J Pathol 158: 1793–1801.
+38. Dibrov BF (1998) Resonance effect in self-renewing tissues. J Theor Biol 192:
+15–33.
+39. Altinok A, Le´vi F, Goldbeter A (2009) Identifying mechanisms of chronotoler-
+ance and chronoefficacy for the anticancer drugs 5-fluorouracil and oxaliplatin
+by computational modeling. Eur J of Pharm Sci 36: 20–38.
+40. Rew DA, Wilson GD, Taylor I, Weaver PC (1991) Proliferation characteristics
+of human colorectal carcinomas measured in vivo. Br J Surg 78: 60–66.
+41. Wood P, Du-Quiton J, You S, Hrushesky W (2006) Circadian clock coordinates
+cancer cell cycle progression, thymidylate synthase, and 5-fluorouracil
+therapeutic index. Mol Cancer Ther 5: 2023–2033.
+42. Gholam D, Giacchetti S, Bre´zault-Bonnet C, Bouchahda M, Hauteville D, et al.
+(2006) Chronomodulated irinotecan, oxaliplatin, and leucovorin-modulated 5-
+fluorouracil as ambulatory salvage therapy in patients with irinotecan- and
+oxaliplatin-resistant metastatic colorectal cancer. Oncologist 11: 1072–1080.
+43. Le´vi F, Zidani R, Misset JL (1997) Randomised multicentre trial of
+chronotherapy with oxaliplatin, fluorouracil, and folinic acid in metastatic
+colorectal cancer. International Organization for Cancer Chronotherapy.
+Lancet 350: 681–686.
+Optimal Chronomodulated Treatment Schedules
+PLoS Computational Biology | www.ploscompbiol.org 11 March 2010 | Volume 6 | Issue 3 | e1000712
+

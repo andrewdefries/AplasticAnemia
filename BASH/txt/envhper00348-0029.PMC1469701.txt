@@ -1,0 +1,935 @@
+Measurement of Volatile Organic
+Compounds in Human Blood
+David L. Ashley, Michael A. Bonin, Frederick L. Cardinali,
+Joan M. McCraw, and Joe V. Wooten
+National Center for Environmental Health, Centers for Disease
+Control and Prevention, Atlanta, Georgia
+Volatile organic compounds (VOCs) are an important public health problem throughout the
+developed world. Many important questions remain to be addressed in assessing exposure to
+these compounds. Because they are ubiquitous and highly volatile, special techniques must be
+applied in the analytical determination of VOCs. The analytical methodology chosen to measure
+toxicants in biological materials must be well validated and carefully carried out; poor quality
+assurance can lead to invalid results that can have a direct bearing on treating exposed persons.
+The pharmacokinetics of VOCs show that most of the internal dose of these compounds is
+quickly eliminated, but there is a fraction that is only slowly removed, and these compounds may
+bioaccumulate. VOCs are found in the general population at the high parts-per-trillion range, but
+some people with much higher levels have apparently been exposed to VOC sources away from
+the workplace. Smoking is the most significant confounder to internal dose levels of VOCs and
+must be considered when evaluating suspected cases of exposure. Environ Health Perspect
+104(Suppl 5):871-877 (1996)
+Key words: volatile organic compounds, blood, methods, pharmacokinetics, reference range,
+smoking
+Introduction
+The field of risk assessment is becoming
+better defined as researchers continue to
+investigate the sources of exposure to toxic
+chemicals and their health effects. Risk
+assessment includes four components: haz-
+ard identification (determining which haz-
+ards are present), dose-response assessment
+(determining how biological systems
+respond to contaminants), exposure assess-
+ment (determining the extent of exposure),
+and risk characterization (determining
+whether this exposure constitutes a threat
+to the health of exposed populations) (1).
+Trace analytical techniques are essential in
+assessing exposure, internal dose (the level
+of a particular agent within the body), and
+This paper was presented at the Conference on Air
+Toxics: Biomarkers in Environmental Applications
+held 27-28 April 1995 in Houston, Texas. Manuscript
+received 29 May 1996; manuscript accepted 5 June
+1996.
+Send correspondence to Dr. D.L. Ashley, Mailstop
+F17, Centers for Disease Control and Prevention,
+4770 Buford Highway NE, Atlanta, GA 30341-3724.
+Telephone: (770) 488-7962. Fax: (770) 488-4609.
+E-mail: dlal@cehehil.em.cdc.gov
+Abbreviations used: VOCs, volatile organic com-
+pounds; NIOSH, National Institute for Occupational
+Safety and Health; NHANES l1l, Third National Health
+and Nutrition Examination Survey; amu, atomic mass
+unit.
+biologically effective dose (the level of an
+active agent at the sight of action). Internal
+dose measurements of toxicants, their
+metabolites, or protein and DNA adducts
+provide an assessment of exposure that can
+be related to resulting health outcomes and
+thus provide important information upon
+which risk assessment is based.
+Volatile organic compounds (VOCs)
+are a class of chemicals that are commonly
+encountered by people as they go about
+their daily routines. Exposure to chloro-
+form and other chlorinated hydrocarbons
+occurs when people shower or bathe with
+chlorinated water (2). Air levels of many
+VOCs are increased when air fresheners or
+other consumer products are used (3).
+Smoking causes an increase in blood ben-
+zene and toluene levels (4). Trihalometh-
+ane levels in blood are increased in
+swimmers and bath attendants swimming
+or working in indoor swimming pools (5).
+Tetrachloroethene is found in the blood of
+workers in dry-cleaning establishments and
+in the blood of the people living directly
+above these businesses (6). Commuters are
+exposed to methyl-tert-butyl ether when
+this compound is used as a gasoline oxy-
+genate (7). Thus, people can be exposed to
+VOCs through avenues other than what
+are usually considered traditional sources of
+exposure (occupation, water pollution,
+ambient air pollution, industrial accidents).
+Exposure to VOCs is associated with a
+wide variety of symptoms, but most of the
+acute health effects associated with these
+substances are the result of occupational
+exposure, controlled laboratory experi-
+ments on animals and people, or substance
+abuse and not of low-level exposure. The
+symptoms of VOC exposure range from
+slight respiratory irritation to death. For
+example, upper respiratory irritation has
+occurred in workers exposed to styrene (8).
+Liver damage has been manifested as toxic
+jaundice among factory workers exposed to
+chloroform (9), and cases of carbon tetra-
+chloride hepatotoxicity have been reported
+in humans (10). Central nervous system
+depression has been associated with expo-
+sure to carbon tetrachloride (11), methylene
+chloride (12), tetrachloroethene (13), and
+toluene (14). National agencies, including
+the U.S. Environmental Protection Agency,
+the U.S. Occupational Safety and Health
+Administration, and international agencies
+such as the World Health Organization
+and the International Agency for Research
+on Cancer have declared benzene to be a
+human carcinogen. Kidney damage has
+resulted from exposure to carbon tetrachlo-
+ride (15). VOCs have been reported as the
+likely cause of death in cases of intentional
+inhalation of 1,1,1-trichloroethane (16)
+and exposure to carbon tetrachloride (15).
+Because of these documented health effects
+and others, there is ample reason for concern
+about the toxicity of VOCs in spite of the
+lack of understanding about morbidity and
+mortality resulting from low-level exposure.
+Method Considerations
+Measuring low levels of VOCs in human
+biological media accurately and reproducibly
+presents a complex analytical problem that
+requires special techniques and exceptional
+care. Volatile organic compounds by defi-
+nition are highly evaporative, and analytes
+can easily be lost while samples or stan-
+dards are being manipulated. Loss of
+analytes from the unknown samples is of
+particular concern, since there are no ana-
+lytical checks that will indicate this loss,
+and inaccurate results can lead to normal
+blood levels being reported when the inter-
+nal dose is actually elevated. On the other
+hand, because many VOCs are commonly
+found in various consumer products and are
+popular laboratory solvents, it is reasonable
+Environmental Health Perspectives * Vol I Ox, Supplement x * Month Year
+-----I
+871
+ASHLEY ET AL.
+that contamination might occur during
+sample collection or analysis. Such conta-
+mination would have the opposite effect of
+volatility by causing normal blood levels of
+VOCs to be measured as elevated. Blood is
+a highly complex matrix with numerous
+compounds present that are separated
+along with VOCs when purge-and-trap or
+headspace sampling is used. These addi-
+tional compounds can interfere with the
+analytical response of the VOCs of interest
+and prevent accurate characterization. A
+proper quality-assurance program considers
+all aspects of the analysis process from
+sample collection to data reporting and
+minimizes and/or characterizes all possible
+sources of error in measurement. A com-
+plete discussion of each of these aspects is
+beyond the scope of this review, but some
+of the more common sources of error in
+VOC measurement and ways of reducing
+or eliminating their effects can be described.
+Sample collection can be a major source
+of error in measurements of VOCs in
+blood. A VOC sample collection system
+should only use materials that have been
+proven to not introduce VOCs into blood
+samples and should not allow the blood
+samples to be exposed to the atmosphere.
+Because isopropyl alcohol or other cleaning
+materials can be introduced into the collec-
+tion needle when a vein is punctured, these
+substances should not be used, or their
+volatile components should be removed
+before a sample is collected. Samples have
+been collected into either commercial
+vacutainers or glass syringes. Brugnone
+et al. (17) and Angerer et al. (18) have col-
+lected blood into glass syringes and then
+introduced this sample into glass tubes
+containing EDTA. This procedure allows
+for careful cleaning of the sample collec-
+tion materials to remove contamination,
+but it does necessitate the use of an addi-
+tional sample manipulation step. Gill et al.
+(19) have shown that significant VOC loss
+can occur with sample handling, and thus
+sample manipulation steps should be mini-
+mized. DeLeon and Antoine (20) collected
+blood into unprocessed commercial vacu-
+tainers, but the baseline VOC levels they
+reported for 198 specimens showed a pat-
+tern of blood VOC concentrations that
+was similar to the later reported pattern of
+contamination from the vacutainers them-
+selves (21). Ashley et al. (22) collected
+blood samples in commercial vacutainers
+that had been processed to remove VOC
+contaminants. This method simplifies the
+sample collection step while preventing
+contamination. Ashley et al. collected
+blood into vacutainers containing sodium
+fluoride and potassium oxalate. These
+chemicals were previously described as
+important in VOC measurement because
+they inhibit esterase activity (23).
+Figure 1 shows the levels of bromo-
+form, m-/p-xylene, and 1,4-dichloroben-
+zene found in blood collected in processed
+and unprocessed vacutainers along with
+detection limits and the typical blood levels
+in subjects with no known occupational
+exposure. The measurements of these three
+compounds are varyingly affected by vacu-
+tainer decontamination. Bromoform is
+found in the normal population at concen-
+trations less than the detection limit of
+20 ppt, and processed vacutainers do not
+add significant contamination. Bromoform
+levels in blood samples collected in unpro-
+cessed vacutainers, however, are signifi-
+cantly higher and increase as samples are
+stored for up to 1 week. Blood levels of
+m-/p-xylene are typically higher than the
+analytical detection limit and greater than
+background vacutainer levels determined
+by measuring the concentration of blank
+water added to processed vacutainers (less
+than the detection limit). As with bromo-
+form, processed vacutainers do not con-
+tribute any measurable contamination of
+m-/p-xylene, and unprocessed vacutainers
+contribute a substantial contamination that
+increases upon storage. The mean blood
+level of 1,4-dichlorobenzene is well above
+the detection limit of 13 ppt and the back-
+ground vacutainer level, but the concentra-
+tions of this compound in samples taken
+in processed vacutainers are the same as
+concentrations in samples in unprocessed
+vacutainers. This indicates that, under
+normal conditions, vacutainers do not
+contribute significantly to the blood levels
+of 1,4-dichlorobenzene, as unprocessed
+vacutainers do to the blood levels of bro-
+moform and m-/p-xylene. These results
+demonstrate that for some VOCs, decon-
+taminating the sample collection materials
+is critical if blood concentrations are to be
+determined accurately.
+Angerer et al. (18) suggested that samples
+can be frozen at liquid nitrogen tempera-
+tures, but in most cases, samples have been
+stored at 40C (17,22,24). Freezing the sam-
+ples will lyse the red blood cells and may
+change the equilibrium within the matrix.
+Wang et al. (25) stated that samples can be
+successfully stored at 40C for up to 40 days,
+and Ashley et al. (26) confirmed this by
+demonstrating that whole blood samples
+can be stored at 40C in decontaminated
+vacutainers for at least 50 days.
+1000 - E Detection limit
+M Typical blood
+C. * Processed
+. 800 - M Unprocessed -1 day ---e-----------------------
+.° * Unprocessed - 6 days
+=
+0
+-o-0
+0
+Bromoform m-/p-Xylene 1,4-Dichlorobenzene
+Figure 1. Detection limits, typical blood levels, and
+measured blood levels of bromoform, m-/p-xylene, and
+1,4-dichlorobenzene collected in processed and
+unprocessed vacutainers. Separate results are given
+for blood collected in unprocessed vacutainers and
+stored for either 1 or 6 days.
+Both headspace analysis and purge-and-
+trap techniques have been used to remove
+the volatile constituents from blood. In
+contrast to headspace analysis, the purge-
+and-trap method is a dynamic process that
+is capable of removing a higher percentage
+of the VOCs into the gas stream, where
+they are available for later analysis. The use
+of an antifoam agent is critical in purge-
+and-trap analysis of VOCs, and the
+antifoam must be present at a level high
+enough to prevent blood from foaming.
+Cailleux et al. (27), however, described the
+contamination that resulted from their use
+of antifoam, and Michael et al. (28) sug-
+gested that the contamination resulting
+from the use of antifoaming agents makes
+purge-and-trap analysis of blood VOCs
+impractical. Erickson et al. (29) helped
+solve this problem by showing that by
+heating antifoam agents under vacuum, the
+volatile contaminants could be removed,
+enabling the subsequent incorporation of
+purge-and-trap techniques into blood
+VOC analysis (22).
+The choice of analytical instrumenta-
+tion is based on three variables: sensitivity,
+selectivity, and cost. Depending on the
+particular application, these variables carry
+different weights in the decision-making
+process. For recent measurements ofVOCs
+in blood from subjects with low-level expo-
+sure, three analytical instruments have
+been used. All of these instruments include
+the use of gas chromatography for analyte
+separation, but they use different detection
+systems. These detection systems are, in
+order of increasing cost per sample, flame
+ionization detection (18), low-resolution
+mass spectrometry (4,24), and magnetic-
+sector mass spectrometry (22). These
+systems have detection limits typically in
+Environmental Health Perspectives * Vol 104, Supplement 5 * October 1996872
+MEASUREMENT OF VOCs IN BLOOD
+the low parts-per-trillion range that are
+necessary to measure blood levels resulting
+from low-level exposure, but they differ in
+analyte selectivity. As shown by Angerer et
+al. (18), many volatile compounds are pre-
+sent in blood. Most of these are not of
+interest in a particular application, but they
+can interfere with the analytes that are of
+interest. In some cases, gas chromatogra-
+phy temperature control can remove these
+interferences, but when a large number of
+VOCs are being measured, these interfer-
+ences can be prohibitive. Low-resolution
+mass spectrometry improves this problem
+significantly because choosing a particular
+mass of interest can remove most interfer-
+ences. For some analytes, interferences are
+still present, and either a nonoptimal mass
+must be chosen for quantitation or a
+higher-resolution mass spectrometric
+detection method must be used (30). The
+differences between these techniques are
+shown in Figure 2, which includes the
+retention time region in which chloroform
+is found at scan 606. Figure 2A is a total
+ion chromatogram trace (no mass discrimi-
+nation) and shows that the complexity of
+the trace prevents the quantitation of this
+analyte. In Figure 2B, a nominal mass win-
+dow is applied, which eliminates some of
+the complexity, but chloroform is still a
+shoulder on another interfering peak.
+Figure 2C shows a medium-resolution
+(3000 resolving power) mass window
+applied to these same data. The improve-
+ment in selectivity due to higher resolution
+is shown by complete separation from
+interfering peaks. Thus, when using purge-
+and-trap methods and gas chromatogra-
+phy, researchers can accurately quantitate
+chloroform in blood only with accurate-
+mass mass spectrometry. Using medium-
+resolution mass spectrometry as a detector
+for gas chromatography has enabled
+researchers to simultaneously measure 32
+VOCs at the low parts-per-trillion level in
+10 ml ofhuman blood (22).
+Pharmacokinetics
+Exposure is not a static process. When an
+individual contacts a contaminant, his or
+her internal dose levels change with time
+depending on many physical, chemical, and
+metabolic processes. Pharmacokinetics is the
+field of investigation that describes these
+processes, and studies in this field can range
+from the simple measuring of a contami-
+nant's half-life in the body to complex mod-
+eling of concentration changes in multiple
+organ systems during uptake and elimina-
+tion. Understanding the pharmacokinetics
+A
+4,
+a,
+0J
+a)
+co
+0~
+C.,
+a,
+B
+624
+C
+606
+580 590 600 610 620 630 SCAN
+Figure 2. Gas chromatographic traces of blood examined by using purge-and-trap isolation and mass spectromet-
+ric detection with varying mass windows: (A) total ion chromatogram (no mass differentiation); (B) nominal mass
+(1 amu); and (C) accurate mass (0.03 amu).
+ofVOCs is critical in relating internal dose
+levels to exposure and in understanding the
+dynamics of distributed dose that can lead
+to health effects. Studies of the pharmaco-
+kinetics ofVOCs have been carried out for
+many years, and even though these processes
+are far from completely understood, some
+parts of the processes have been described
+by investigators.
+For example, the rate that VOCs enter
+and leave the body through the lungs is a
+function of the partitioning of the individ-
+ual compounds between lipid and aqueous
+sites in the body. The compounds with a
+Environmental Health Perspectives * Vol 104, Supplement 5 * October 1996 873
+ASHLEY ET AL.
+greater lipid solubility will deposit in fat
+and be eliminated more slowly than those
+compounds that are lipophobic. Vapor
+pressure can also influence the pharmaco-
+kinetics of these compounds because the
+lungs are an important route of elimina-
+tion. Researchers evaluating the kinetics of
+internal dose levels of VOCs have found
+that uptake and elimination follow similar
+patterns. Astrand (31) has shown that dur-
+ing the exposure phase, blood levels of
+VOCs increase rapidly and then level off.
+Monster et al. (32) found this same effect
+during the elimination phase of tetra-
+chloroethene (half-life 12-55 hr), during
+which the levels of tetrachloroethene
+dropped rapidly at first and then much
+more slowly. A similar result has been esti-
+mated for tetrachloroethene levels in breath
+(33). Brugnone et al. have determined
+shorter half-lives of4.5 hr for toluene (34),
+8 hr for benzene (35), and 3.9 hr for
+styrene (36). These disparities in the half-
+lives of VOCs may be a function of differ-
+ent lipid/water partition coefficients for the
+substances or ofvariations in exposure sce-
+narios. Overall, the data consistently indi-
+cate that the extent and length of exposure
+will affect the elimination kinetics because
+a longer, more intense or repeated exposure
+will allow the compounds to more readily
+deposit into adipose tissue.
+The uptake and elimination of VOCs
+from the body is controlled by a series of
+dynamic mechanisms controlling the
+movement of compounds through various
+body stores and metabolizing these com-
+pounds into more water-soluble entities.
+The elimination phase ofVOCs after expo-
+sure gives insight into the various body
+stores from which VOCs are removed.
+Investigators have shown that the VOC
+elimination phase is a multiexponential
+process. The results of some of these inves-
+tigations are shown in Table 1, where the
+results have been organized in an attempt
+to reconcile the reported half-lives. It is
+clear from these reports that at least two
+exponentials with half-lives of 10 to 60
+min and 2 to 4 hr are required to success-
+fully describe the elimination of benzene
+and toluene. Two other exponential com-
+ponents have also been reported, one with
+a very short half-life of 1.6 min and the
+other with a very long half-life of 20 to
+90 hr. Measuring these last two exponen-
+tial components requires that the sample
+collection be specifically designed to
+observe them. Because of the extreme
+requirements for measuring these exponen-
+tial components, samples in some studies
+Table 1. Half-lives of benzene and toluene internal dose with multiexponential regression fits.
+First half-life Second half-life Third half-life Fourth half-life
+Compound Exponentials (min) (min) (min) (hr) Reference
+Benzene 2 156 24 (37)
+Benzene 3 1.6 30 222 (38)
+Benzene 3 55 192 19.7 (39)
+Benzene (breath) 2 28 248 (40)
+Toluene 3 9 120 90 (41)
+Toluene (breath) 2 19 124 (40)
+may not have been collected at the times
+necessary to detect the shortest and longest
+exponential components. It is also quite
+conceivable that the shortest and longest
+exponential components may result from
+anomalies in the data.
+Experimentally determining multi-
+exponential elimination of VOCs after
+short-term exposure has suggested that the
+different exponential components derive
+from different body stores (41,42). Quick
+elimination from the blood, an intermedi-
+ate half-life in muscle, and a much longer
+half-life in adipose tissue have been sug-
+gested as a means of explaining the various
+exponential components. Thus, the lipid
+solubility of the compound of interest and
+the length of exposure time will be impor-
+tant factors in the fraction of deposition
+that occurs in the separate sites.
+Accumulation of chemicals in the body
+occurs whenever uptake exceeds elimina-
+tion. The studies done to determine VOC
+pharmacokinetics also suggest that with
+repeat exposure of long enough duration,
+bioaccumulation may occur. Some mea-
+surements have been performed on workers
+repeatedly exposed to VOCs over a matter
+of weeks. Berlin et al. (37) exposed volun-
+teers to low levels of benzene over 5 days
+for 6 hr/day. These workers showed accu-
+mulation during the exposure period and
+continued to release benzene for more than
+a week after the exposure ended. Brugnone
+et al. (36) found bioaccumulation of
+styrene in workers exposed repeatedly over
+a week. Nise and Orbeck (43) found this
+same result in workers who were repeatedly
+exposed to toluene. Preshift levels of these
+VOCs in workers increased during the
+week they were exposed because their
+internal dose levels had not returned to
+baseline between exposures. Bioaccumu-
+lation in VOC exposure is important
+because most exposures to these com-
+pounds occur repeatedly and are usually
+not one-time events. Thus, although short-
+term exposure experiments give insight
+into the pharmacokinetics of VOCs, they
+are of limited value in most exposure
+scenarios. In repeat exposure cases, the
+exponential component with the longest
+half-life will have the greatest influence on
+internal dose levels, and in many cases
+bioaccumulation can occur. The extent of
+bioaccumulation will depend on the level
+of exposure, the length of time during
+which exposure occurs, and the time
+period between exposure events.
+Reference Range
+Studies have been performed to determine
+the background blood concentrations of
+VOCs in individuals with no known occu-
+pational exposure. A summary of the
+studies that have examined more than 50
+subjects is given in Table 2. Significant
+background levels of six nonchlorinated
+aromatic hydrocarbons, two chlorinated
+aliphatic compounds, and one chlorinated
+aromatic compound have been found. The
+levels are found generally in the parts-per-
+trillion to low parts-per-billion range, with
+styrene and ethylbenzene at the lowest lev-
+els and 1,4-dichlorobenzene at the highest.
+These compounds have common house-
+hold applications, so it is not surprising
+that measurable levels are found in people
+without any known occupational exposure
+to VOCs. Their presence in gasoline and
+tobacco smoke and their use as deodoriz-
+ing, degreasing, and dry-cleaning agents
+present many opportunities for people to
+be exposed to them.
+Reference ranges for VOCs have been
+determined by two research groups, one
+located in Italy and the other in the United
+States. For all analytes that have been eval-
+uated by both groups, the levels reported in
+the United States (44) are lower than the
+levels reported in Italy (17,25,35,36). This
+may result from differences in sample col-
+lection procedures, analytical methodol-
+ogy, or the exposure of the populations
+examined. Samples from the United States
+were collected into specially prepared vacu-
+tainers with sodium fluoride and potassium
+oxalate as the anticoagulant and then
+Environmental Health Perspectives - Vol 104, Supplement 5 * October 1996874
+MEASUREMENT OF VOCs IN BLOOD
+Table 2. Background reference range levels of VOCs in blood from subjects with no known occupational exposure.a
+Compound Subject group No. of subjects Mean level (ppt) Reference
+1,1,1-Trichloroethane All 574 340 (44)
+1,4-Dichlorobenzene All 1037 1900 (44)
+Benzene Nonsmokers 293 200 (35)
+Benzene Smokers 138 380 (35)
+Benzene All 883 130 (44)
+Ethylbenzene All 631 110 (44)
+m-/p-Xylene All 649 370 (44)
+o-Xylene All 711 140 (44)
+Styrene All 81 220 (36)
+Styrene All 657 74 (44)
+Tetrachloroethene All 590 190 (36)
+Toluene All 269 1100 (17)
+Toluene Nonsmokers 179 810 (25)
+Toluene Smokers 53 900 (25)
+Toluene All 604 520 (44)
+aStudies with more than 50 subjects.
+stored at 40C. Samples from Italy were
+collected into a heparinized syringe and
+injected into a glass vial before being stored
+at 5°C. Differences in background levels
+may result from low-level contamination of
+the anticoagulant or differences in the
+methods of sample handling. The analyti-
+cal methodology was similar for the two
+methods used except that nominal-mass
+mass spectrometry without isotope dilution
+was used in studies done in Italy. Our
+experiments suggest that there is no inter-
+ference when nominal-mass mass spectro-
+metry is used to measure benzene, toluene,
+or styrene in human blood, but differences
+in sample workup procedures may alter
+this finding. The subjects of the study in
+the United States were a subset of those
+participating in the Third National Health
+and Nutrition Examination Survey
+(NHANES III), an investigation of indi-
+viduals across the United States. Although
+the VOC measurements were not probabil-
+ity-based to predict a larger population,
+subjects came from urban and rural envi-
+ronments, all races, both sexes, and all
+regions of the country. The subjects in the
+Italian studies were police officers, white-
+collar workers, blue-collar workers, and
+chemical workers (25,35) or hospital staff
+and blood donors (36). Thus, these popu-
+lations may have different background
+exposures to VOCs.
+The distribution of detectable 1,4-
+dichlorobenzene levels in the blood of
+NHANES III participants is shown in
+Figure 3. Of the members of this popula-
+tion, 96% had blood levels that were above
+the detection limit of 73 ppt (ng/l), and
+75% of those with detectable concentra-
+tions had blood levels of 1000 ppt or less.
+The remaining 25% had significantly
+higher levels, up to as high as 50,000 ppt.
+Thus, most people in the United States
+have 1,4-dichlorobenzene blood levels less
+than 1 ppb, although some with no known
+occupational exposure have significantly
+elevated blood levels. Some individuals
+with elevated levels were found in the
+NHANES III population for all of the
+compounds listed in Table 2, confirming
+the wide extent ofexposure to VOCs apart
+from occupational sources.
+Smoking
+The blood levels of benzene and toluene
+reported by Brugnone et al. (35) and
+Wang et al. (25) are given in Table 2,
+which lists separate blood levels for smok-
+ers and nonsmokers. Studies by many
+researchers of both blood and breath have
+shown that internal dose levels of certain
+VOCs are significantly different in smokers
+than in nonsmokers. Levels of benzene and
+toluene have also been determined in
+breath by Wallace et al. (45) and in blood
+by Ashley et al. (in preparation). These two
+studies differ from the work by Brugnone
+et al. (35) and Wang et al. (25) in that
+they also report elevations in internal dose
+levels of styrene, ethylbenzene, m-/pxylene,
+and o-xylene in smokers and thus indicate
+that smoking is an important source of
+exposure to aromatic VOCs. Wallace et al.
+(45) have even suggested that smoking is
+the most significant source of exposure to
+benzene. Passive exposure to tobacco smoke
+has not yet been shown to have an effect on
+blood VOC concentrations, but such an
+effect may also be significant.
+To accurately evaluate the environ-
+mental effects on internal dose levels of
+VOCs, one must account for smoking as a
+confounding factor. In some cases, low-
+level exposure to benzene, toluene, or
+styrene might not be detected because the
+effect ofsmoking may confound the analy-
+sis designed to detect elevations in blood
+levels. Therefore, steps must be taken to
+either remove smokers from the subject
+population or correct for the confounding
+effect ofsmoking on VOC levels. Ashley et
+al. (in preparation) have suggested using
+2,5-dimethylfuran as a marker for smoking
+and a method for adjusting the data col-
+lected from smokers to eliminate the con-
+tribution of smoking to blood VOC levels.
+This technique has yet to be completely
+assessed, but it shows that identifying a
+volatile compound that is unique to a par-
+ticular activity can be a useful technique in
+separating the effect of environmental
+exposure from the effect of exposure to
+other known sources ofthat compound.
+Conclusions
+Investigators have recently performed
+studies to understand the link between
+exposure to VOCs and health effects.
+Methods have been developed that can
+accurately and precisely measure these com-
+pounds in blood through the use of tech-
+niques that are becoming more commonly
+12 -
+Median
+10
++1 8-
+a,
+a) ~~~~~~~~~~~Mean
+01
+100 200 500 1000 2000 5000 10,000 20,000 50,000
+Blood concentration, ppt
+Figure 3. Frequency distribution (percent of total) of the concentration of 1,4-dichlorobenzene in blood. Subjects
+are a subset of the population enrolled in the Third National Health and Nutrition Examination Survey. The blood
+concentrations are plotted using a log scale.
+Environmental Health Perspectives * Vol 104, Supplement 5 * October 1996 875
+ASIILFY FT AL.
+used throughout the analytical community.
+Care must be exercised when using these
+methods, because contamination and loss
+of analyte are still significant concerns, but
+these methods are feasible and have been
+performed by various research groups. The
+levels ofVOCs in the body change rapidly
+upon exposure and following cessation of
+exposure. Internal dose levels of most
+VOCs decrease rapidly after exposure
+ceases, with most having a half-life of a few
+hours, but the actual decrease depends on
+the exposure scenario. A fraction of a par-
+ticular VOC may have a longer half-life
+that can result in bioaccumulation with
+repeated exposure. The pharmacokinetics
+of VOCs in the body must be taken into
+account when evaluating possible expo-
+sures. Reference range studies indicate that
+most VOCs occur in the parts-per-trillion
+range in the blood ofpeople with no known
+occupational exposure, but there are some
+individuals with significant exposure even
+among this group. The largest confounding
+factor in evaluating exposure to VOCs is
+whether a person smokes. Smoking can lead
+to elevated levels of many aromatic VOCs
+and can obscure the effects of environmen-
+tal exposure to these compounds. The
+effects of smoking on VOC levels must
+always be taken into account whenever
+exposure evaluations are performed.
+REFERENCES
+1. National Research Council. Human Exposure Assessment for
+Airborne Pollutants. Advances and Opportunities.
+Washington:National Academy Press, 1991.
+2. Andelman JB, Meyers SM, Wilder LC. Volatilization of
+organic chemicals from indoor uses of water. In: Chemicals in
+the Environment (Lester JN, Perry R, Sterritt RM, eds).
+London:Selper Ltd, 1986;323-330.
+3. Bayer CW, Black MS, Galloway LM. Sampling and analysis
+techniques for trace volatile organic emissions from consumer
+products. J Chromatogr Sci 26:168-173 (1988).
+4. Brugnone F, Perbellini L, Faccini GB, Pasini F, Maranelli G,
+Romeo L, Gobbi M, Zedde A. Breath and blood levels of ben-
+zene, toluene, cumene and styrene in non-occupational expo-
+sure. Int Arch Occup Environ Health 61:303-311 (1989).
+5. Cammann K, Hubner K. Trihalomethane concentrations in
+swimmers' and bath attendants' blood and urine after swim-
+ming or working in indoor swimming pools. Arch Environ
+Health 50: 61-65 (1995).
+6. Popp W, Muller G, Baltes-Schmitz B, Wehner B, Vahrenholz
+C, Schmieding W, BenninghoffM, Norpoth K. Concentrations
+oftetrachloroethene in blood and trichloroacetic acid in urine of
+workers and neighbours of dry-cleaning shops. Int Arch Occup
+Environ Health 63:393-395 (1992).
+7. Moolenaar RL, Hefflin BJ, Ashley DL, Etzel RA. Methyl ter-
+tiary butyl ether in human blood after exposure to oxygenated
+fuels in Fairbanks, Alaska. Arch Environ Health 49:402-409
+(1994).
+8. NIOSH. Criteria for a Recommended Standard: Occupational
+Exposure to Styrene. DHHS (NIOSH) Publ. No. 83-119.
+Cincinnati, OH: National Institute for Occupational Safety
+and Health, 1983.
+9. Phoon WH, Goh KT, Lee LT, Tan KT, Kwok SE. Toxic jaun-
+dice from occupational exposure to chloroform. Med J
+Malaysia 30:31-34 (1983).
+10. Straus B. Aplastic anemia following exposure to carbon tetra-
+chloride. JAMA 155:737-739 (1954).
+11. Cohen MM. Central nervous system in carbon tetrachloride
+intoxication. Neurology 7:238-244 (1957).
+12. Stewart RD, Fisher TN, Hoeko MJ, Peterson JE, Baretta ED,
+Dodd HC. Experimental human exposure to methylene chlo-
+ride. Arch Environ Health 25:342-348 (1972).
+13. Rowe VK, McCollister DD, Spencer HC, Adams EM, Irish
+DD. Vapor toxicity of tetrachloroethylene for laboratory ani-
+mals an human subjects. Ind Hyg Occupat Med 5:566-579
+(1952).
+14. Devathasan G, Low D, Teoh PC, Wan SH, Wong PK.
+Complications of chronic glue (toluene) abuse in adolescents.
+Aust N Z J Med 14:39-43 (1984).
+15. Norwood WD, Fuqua PA, Scudder BC. Carbon tetrachloride
+poisoning. Ind Hyg Occupat Med 1:90-100 (1950).
+16. Droz PO, Nicole C, Guberan E. Sniffing 1,1,1-trichloroethane:
+Simulation oftwo fatal cases. In: Safe Use ofSolvents (Collings
+AJ, Luxon SG, eds). New York:Academic, 1982;153-159.
+17. Brugnone F, Gobbi M, Ayyad K, Giuliari C, Cerpelloni M,
+Perbellini L. Blood toluene as a biological index ofenvironmen-
+tal toluene exposure in the "normal" population and in occupa-
+tionally exposed workers immediately after exposure and 16
+hours later. Int Arch Occup Environ Health 6:421-425 (1995).
+18. Angerer J, Scherer G, Schaller KH, Miller J. The determination
+of 6enzene in human blood as an indicator of environmental
+exposure to volatile aromatic compounds. Fres J Anal Chem
+339:740-742 (1991).
+19. Gill R, Hatchett SE, Osselton MD, Wilson HK, Ramsey JD.
+Sample handling and storage for the quantitative analysis of
+volatile compounds in blood: the determination of toluene by
+headspace gas chromatography. J Anal Toxicol 12:141-146
+(1988).
+20. DeLeon IR, Antoine SR. Clinical screening test for toxic volatile
+organic chemicals in blood. Clin Ecol 2:108-109 (1985).
+21. Cardinali FL, McCraw JM, Ashley DL, Bonin MA, Wooten
+JV. Treatment of vacutainers for use in the analysis of volatile
+organic compounds in human blood at the low parts-per-tril-
+lion level. J Chromatogr Sci 33:557-560 (1995).
+22. Ashley DL, Bonin MA, Cardinali FL, McCraw JM, Holler JL,
+Needham LL, Patterson DG. Determining volatile organic
+compounds in human blood from a large sample population by
+using purge and trap gas chromatography-mass spectrometry.
+Anal Chem 64:1021-1029 (1992).
+23. Ramsey JD, Flanagan RJ. Detection and identification of
+volatile organic compounds in blood by headspace gas chro-
+matography as an aid to the diagnosis of solvent abuse. J
+Chromatogr 240:423-444 (1982).
+24. Dunemann L, Hajimiragha H. Development of a screening
+method for the determination ofvolatile organic compounds in
+body fluids and environmental samples using purge and trap
+gas chromatography-mass spectrometry. Anal Chim Acta
+283:199-206 (1993).
+25. Wang G, Maranelli G, Perbellini L, Guglielmi G, Brugnone F.
+Reference values for blood toluene in the occupationally nonex-
+posed general population. Int Arch Occup Environ Health
+65:201-203 (1993).
+26. Ashley DL, Bonin MA, Cardinali FL, McCraw JM, Wooten
+JV, Needham LL. Important considerations in the ultra-trace
+measurement of volatile organic compounds in blood. In:
+Applications of Molecular Biology in Environmental
+Chemistry (Minear RA, Ford AM, Needham LL, Karch NJ,
+eds). New York:Lewis, 1995:135-146.
+27. Cailleux A, Turcant A, Allain P, Toussaint D, Gaste J, Roux,
+A. Gas chromatographic analysis of volatile compounds in
+water and biologica samples with an automatic injector.
+J Chromatogr 391:280-289 (1987).
+28. Michael LC, Erickson MD, Parks SP, Pellizzari ED. Volatile
+environmental pollutants in biological matrices with a headspace
+purge technique. Anal Chem 52:1836-1841 (1980).
+29. Erickson MD, Alsup MK, Hyldburg PA. Foam prevention in
+purge and trap analysis. Anal Chem 53:1265-1269 (1981).
+876 Environmental Health Perspectives * Vol 104, Supplement 5 * October 1996
+MEASUREMENT OF VOCs IN BLOOD
+30. Bonin MA, Ashley DL, Cardinali FL, McCraw JM, Patterson
+DG Jr. Importance of enhanced mass resolution in removing
+interferences when measuring volatile organic compounds in
+human blood by using purge-and-trap/gas chromatography-
+mass spectrometry. J Am Soc Mass Spectr 3:831-841 (1992).
+31. Astrand I. Uptake of solvents in the blood and tissues of man.
+A review. Scand J Work Environ Health 1: 199-218 (1975).
+32. Monster AC, Boersma G, Steenweg H. Kinetics of tetra-
+chloroethylene in volunteers: influence ofexposure concentration
+and work load. Int Arch Occup Environ Health 42:303-309
+(1979).
+33. Wallace LA, Pellizzari ED, Hartwell TD, Sparacino C,
+Whitmore R, Sheldon L, Zelon H, Perritt R. The TEAM Study:
+personal exposures to toxic substances in air, drinking water, and
+breath of 400 residents of New Jersey, North Carolina, and
+North Dakota. Environ Res 43:290-307 (1987).
+34. Brugnone F, De Rosa E, Perbellini L, Bartolucci GB. Toluene
+concentrations in the blood and alveolar air ofworkers during the
+workshift and the morning after. BrJ Ind Med 43:56-61 (1986).
+35. Brugnone F, Perbellini L, Maranelli G, Romeo L, Guglielmi G,
+Lombardini F. Reference values for blood benzene in the occu-
+pationally unexposed general population. Int Arch Occup
+Environ Health 64:179-184 (1992).
+36. Brugnone F, Perbellini L, Wang GZ, Maranelli G, Raineri E, De
+Rosa E, Saletti C, Soave C, Romeo L. Blood styrene concentra-
+tions in a "normal" population and in exposed workers 16 hours
+after the end of the workshift. Int Arch Occup Environ Health
+65:125-130 (1993).
+37. Berlin M, Gage JC, Gullberg B, Holm S, Knutson P, Tunek A.
+Breath concentration as an index ofthe health risk from benzene.
+Studies on the accumulation and clearance of inhaled benzene.
+Scand J Work Environ Health 6:104-111 (1980).
+38. Sato A, Nakajima T, Fujiware Y, Hirosawa, K. Pharmacokinetics
+ofbenzene and toluene. Int Arch Arbeitsmed 33:169-182 (1974).
+39. Pekari K, Vainiotalo S, Heikkila P, Palotie A, Luotamo M,
+Riihmaki V. Biological monitoring of occupational exposure to
+low levels of benzene. Scand J Work Environ Health
+18:317-322 (1992).
+40. Raymer JH, Pellizzari ED, Thomas KW, Cooper SD.
+Elimination of volatile organic compounds in breath after
+exposure to occupational and environmental microenviron-
+ments. J Exp Anal Environ Epidemiol 1:439-451 (1991).
+41. Nise G, Attewell R, Skerfving S, Orbek P. Elimination of
+toluene from venous blood and adipose tissue after occupa-
+tional exposure. BrJ Ind Med 46:407-411 (1989).
+42. Wallace L, Pellizzari E, Gordon S. A linear model relating
+breath concentrations to environmental exposures: applications
+to a chamber study offour volunteers exposed to volatile organic
+compounds. J Exp Anal Environ Epidemiol 3:75-102 (1993).
+43. Nise G, Orbeck P. Toluene in venous blood during and after
+work in rotogravure printing. Int Arch Occup Environ Health
+60:31-35 (1988).
+44. Ashley DL, Bonin MA, Cardinali FL, McCraw JM, Wooten
+JV. Blood concentrations of volatile organic compounds in a
+nonoccupationally exposed US population and in groups with
+suspected exposure. Clin Chem 40:1401-1404 (1994).
+45. Wallace L, Pellizari ED, Hartwell TD, Perritt R, Ziegenfus R.
+Exposures to benzene and other volatile organic compounds
+from active and passive smoking. Arch Environ Health
+42:272-279 (1987).
+Environmental Health Perspectives * Vol 104, Supplement 5 * October 1996 877
+

@@ -1,0 +1,490 @@
+Hindawi Publishing Corporation
+Journal of Analytical Methods in Chemistry
+Volume 2012, Article ID 728143, 6 pages
+doi:10.1155/2012/728143
+Research Article
+The Use of Amberlite Adsorbents for Green Chromatography
+Determination of Volatile Organic Compounds in Air
+Luis Juan-Peir´o,1 Anne Bernhammer,2 Agustin Pastor,1 and Miguel de la Guardia1
+1 Department of Analytical Chemistry, University of Valencia, Research Building, 50th Dr. Moliner Street, 46100 Burjassot, Spain
+2 Institute of Inorganic and Analytical Chemistry, Johannes Gutenberg University Mainz, Duesbergweg 10-14, 55128 Mainz, Germany
+Correspondence should be addressed to Miguel de la Guardia, miguel.delaguardia@uv.es
+Received 30 March 2012; Revised 18 May 2012; Accepted 23 May 2012
+Academic Editor: Ki-Hyun Kim
+Copyright © 2012 Luis Juan-Peir´o et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Passive samplers have been widely used for volatile organic compounds determination. Following the green chemistry tendency of
+the direct determination of adsorbed compounds in membrane-based devices through using head space direct chromatography
+analysis, this work has evaluated the use of Amberlite XAD-2, XAD-4, and XAD-16 adsorbents as a ﬁlling material for passive
+samplers. Direct analysis of the membranes by HS-GC-MS involves a solvent-free method avoiding any sample treatment. For
+exposed membranes, recoveries ranged from 10% to 203%, depending on the compound and adsorbent used. The limit of the
+detection values ranged from 1 to 140 ng per sampler. Acceptable precision and sensitivity levels were obtained for the XAD resins
+assayed.
+1. Introduction
+Volatile organic compounds (VOCs) are a wide group of
+chemicals, which can be emitted to the atmosphere from
+diﬀerent sources [1]. Toxicity of some of them has been
+reported during the last years, with some VOCs classiﬁed
+as harmful compounds to human health [2, 3]. These com-
+pounds have a potential role in the formation of photooxi-
+dants and they can be considered as the reason for olfactory
+pollution [4]. In the case of benzene, this compound exhibits
+a cancer risk and causes aplastic anemia and polycythemia,
+with toluene, ethylbenzene, and xylenes being important
+noncarcinogenic agents [5]. On the other hand, the VOCs
+and specially those halogenated compounds contribute to
+global warming, stratospheric ozone depletion and tro-
+pospheric ozone formation. Therefore, it is important to
+establish a control and to monitor the air concentration of
+VOCs in both working areas and private places.
+Air sampling techniques commonly used to evaluate the
+quality of indoor and outdoor air are based on the use of
+active or passive samplers, with low-ﬂow active ones being
+also used in order to evaluate long-term deploying times.
+In general, active samplers provide direct measurements of
+the concentration of contaminants per m3. However, their
+use is costly and involves complex sampling systems due to
+the use of pumps when passive samplers oﬀer cheap and
+easy alternatives [7, 8]. Passive samplers are commonly used
+for the determination of VOCs in air [9], with the semi-
+permeable membrane devices (SPMDs) being one of the
+most used among them [8]. SPMDs consist of low-density
+polyethylene (LDPE) lay-ﬂat tube ﬁlled with triolein and
+sealed at both ends and have been used as an adsorbent of
+hydrophobic compounds in water and air. Our research team
+developed a modiﬁed version of these passive samplers, in
+which triolein was substituted by a solid phase or a combina-
+tion of solid phases introduced inside a semipermeable mem-
+brane, thus improving the SPMD sampling range, due to
+their ability for retaining a wide range of compounds with
+diﬀerent physicochemical properties [10]. These devices
+were registered under the name of Versatile, Easy, and Rapid
+Atmospheric Monitors (VERAM), and previous results
+obtained with a solid ﬁlling of activated carbon and ﬂorisil
+were successfully applied to diﬀerent studies of sampling
+and analysis of air quality, with several compounds being
+determined such as pyrethroids, VOCs, or pesticides [3, 11–
+13]. Determination of VOCs using VERAM devices and
+2 Journal of Analytical Methods in Chemistry
+Table 1: Physicochemical properties of Amberlite resins [6].
+Resin CAS number
+DRY density (versus
+wet) (g/mL)
+Surface area (m2/g)
+Mean pore
+size (Angstroms)
+Particle size (mesh) Pore vol. (mL/g)
+XAD-2 9060-05-3 1.07 (1.02) 330 90 20 to 60 0.65
+XAD-4 37380-42-0 1.08 (1.02) 725 50 20 to 60 0.98
+XAD-16 104219-63-8 1.08 (1.02) 900 100 20 to 60 1.82
+Vol: 2.85L
+Spiked piece
+of paper
+Adsorbate
+molecule
+Hydrophobic tail
+Hydrophilic head
+Bead section
+Figure 1: Diagram of the sampler and sampling process. Inset: structure of an Amberlite XAD-2 resin bead.
+analysis of samples through head space gas chromatography
+with mass spectrometry detection (HS-GC-MS) could be
+considered as a green method since it involves a solvent-free
+sample manipulation and direct determination, thus avoid-
+ing the accumulation of toxics residues and the consequent
+environmental side-eﬀects [14]. However, additional eﬀorts
+are required to increase the capability of these devices as
+chemical catchers based on the use of alternative adsorbents
+and membranes.
+The aim of the present work has been to use Amberlite
+XAD resins to ﬁlling LDPE membranes, in order to compare
+the possible advantages in front of the classical VERAM
+samplers. XAD resins are hydrophobic nonionic crosslinked
+polymers provided as white beads, which are widely used to
+adsorb organic compounds as it can be seen in the inset of
+Figure 1. These resins have been applied as XAD-based pas-
+sive samplers for routing air monitoring of persistent organic
+pollutants (POPs) and other semivolatile organic com-
+pounds (SVOCs) [15]. Depending on their physicochemical
+properties, such as surface area or pore diameter, XAD resins
+can modify their adsorption properties (see Table 1), and
+Lee et al. made a comparison between XAD-2, XAD-4, and
+XAD-16 resins for the retention of vapour-phase PAHs [16].
+Therefore, this study has been focused on the use of
+XAD-2, XAD-4, and XAD-16 adsorbents as alternative ﬁlling
+materials of VERAM devices, comparing the results found
+with the previous ones obtained with activated carbon and
+ﬂorisil (ACFL).
+2. Materials and Methods
+2.1. Chemicals. Studied VOC standards and hexadecane
+were obtained from Scharlau (Barcelona, Spain), Fluka
+Chemie (Steinheim, Germany), Merck (Darmstadt, Ger-
+many), and Aldrich (Steinheim, Germany). Working stan-
+dard solutions were prepared by dilution of a stock solu-
+tion (3.85% (w/w) VOCs standard stock solution prepared
+by mixing 1 g of all considered analytes) in hexadecane.
+Hexadecane was employed due to its high boiling point.
+Activated carbon from Panreac (Barcelona, Spain), Florisil
+from Acros (Geel, Belgium), and Amberlite XAD-2, XAD-
+4, and XAD-16 from Sigma Aldrich (Steinheim, Germany),
+were employed as solid phases for adsorption studies. 2.85 ±
+0.01 L volume glass containers employed were appropriately
+decontaminated and cleaned up using a 5 min nitrogen
+ﬂow before being used. Table 2 shows the list of studied
+compounds as well as their measurement parameters.
+2.2. Equipment. A Finnigan Trace Gas Chromatograph
+(Waltham, MS, USA) with a low bleed column HP (30 m ×
+0,32 mm × 0,25 µm), equipped with a Thermo-Finnigan
+HS2000 head-space injector and coupled to a Finnigan
+Journal of Analytical Methods in Chemistry 3
+Table 2: GC-MS measurement parameters of the studied VOCs.
+Compound Rt (min) Measurement ions (m/z) Boiling point (◦
+C) Pv 20◦
+C (mmHg) Log KOA
+Chloroform 1.93 93 + 85 62 159 2.80
+1,2-Dichloroethane 2.16 62 + 64 84 387 2.78
+Cyclohexane-d12 2.17 64 + 96 81 94 2.65
+Benzene 2.20 78 + 77 80 101 2.78
+Cyclohexane 2.23 56 + 84 81 95 2.74
+Trichloroethylene 2.63 132 + 130 87 75 2.99
+Bromodichloromethane 2.81 85 + 83 87 50 3.06
+Toluene-d8 3.70 98 + 100 111 28 3.30
+Toluene 3.83 91 + 92 111 29 3.31
+Dibromochloromethane 4.84 127 + 129 120 76 3.59
+Tetrachloroethylene 4.92 166 + 164 121 14 3.48
+Ethylbenzene 7.41 91 + 106 136 10 3.74
+m,p-Xylene 7.96 91 + 106 139 8 3.78
+Bromoform 8.90 173 + 175 149 5 4.06
+o-Xylene 8.96 91 + 106 144 7 3.91
+Note: Rt: Retention time; Pv: vapour pressure; KOA: octanol-air partition coeﬃcient.
+Polaris Q ion trap mass spectrometer detector was used for
+VOCs determination. Glass vials with an internal volume of
+10 mL, capped with PTFE/butyl rubber seals, were employed
+for HS measurements. LPDE lay-ﬂat tubing, 2,9 cm wide, was
+obtained from Garci-plast (Barcelona, Spain), and Rovebloc
+sealer (Barcelona, Spain) was employed to heat-seal the
+membranes.
+2.3. Preparation of Samplers. Preparation of samplers was
+carried out according to previous published method [3].
+LDPE lay-ﬂat tubing was cut into 10 cm segments. The seg-
+ments were cleaned in hexane overnight and air-dried. One
+end was heat sealed before introducing the corresponding
+ﬁlling: 50 mg of Amberlite XAD-2; 50 mg of Amberlite XAD-
+4; 50 mg of Amberlite XAD-16; or 50 mg of ﬂorisil and 5 mg
+of activated carbon.
+XAD resins were soaked in deionized water/acetone
+(1 : 1) for 10 min inside an ultrasound water bath, followed
+by acetone soaking and drying. Then the adsorbents were
+soaked in dichloromethane/acetone (1 : 1) for another 10
+minutes, mesh-sieved, and thoroughly dried.
+Furthermore, all solid phases were heated up to 145◦
+C for
+two hours to reduce the amount of VOC contamination.
+The ﬁlled membranes were wrapped in separate alu-
+minium foils and stored in a closed vessel at −20◦
+C to
+avoid their contamination before use. After deployment, the
+devices were rolled, placed inside 10 mL HS vials, capped
+hermetically with PTFE/butyl rubber seals, and stored at
+−20◦
+C until the HS-GC-MS measurement.
+Calibration curves were obtained from membranes
+spiked with 5 µL of VOC hexadecane standard solutions at 7
+concentration levels ranging from 15 ng to 1500 ng together
+with 1500 ng of d8-toluene and 1500 ng of d12-cyclohexane
+as internal standards.
+2.4. Adsorption Studies. Adsorption studies were performed
+by deploying membranes ﬁlled with XAD-2, XAD-4,
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+VOCs ACFL XAD-2 XAD-4 XAD-16
+Adsorbent
+Chloroform
+1,2-dichloroethane
+Benzene
+Cyclohexane
+Trichloroethylene
+Bromodichloromethane
+Toluene
+Tetrachloroethylene
+Dibromochloromethane
+Ethylbenzene
+m,p-Xylene
+Bromoform
+o-Xylene
+Relativeresponse
+Acomp/Ad12-cyclohexane
+Figure 2: Relative response of VOCs determined by HS-GC-MS in
+membranes spiked with 150 ng of each considered compound (n =
+3).
+XAD-16 and active carbon-ﬂorisil inside closed 2.85 ± 0.01 L
+glass bottles, where 2 cm2 pieces of ﬁlter paper spiked with
+150 ng of VOCs were previously introduced (see Figure 1).
+Sampling was done at room temperature for 72 h. Blank
+measurements were carried out in the same way by deploying
+each membrane inside glass bottles for 72 h without adding
+VOCs. All the deployments were done by triplicate.
+After exposure, membranes were transferred into 10 mL
+HS vials, and after adding 1500 ng of d8-toluene and 1500 ng
+of d12-cyclohexane, both of them prepared in hexadecane,
+vials were hermetically capped.
+2.5. Spiked Membranes. Membranes ﬁlled with the diﬀerent
+adsorbent materials evaluated were spiked with 150 ng of
+4 Journal of Analytical Methods in Chemistry
+1
+1
+2
+2
+3 4 5
+5
+6
+6
+7
+7
+9
+9
+8
+8
+10
+10 11 12, 13
+(a)
+(b)
+3, 4
+Time (min)
+100000
+1
+Abundance
+Figure 3: Total ion chromatogram obtained for a membrane ﬁlled with 50 mg of XAD-2 (a) and a membrane ﬁlled with 50 mg of XAD-
+2 spiked with 1500 ng of VOC standard mixture (b). Note: peaks correspond to Chloroform (1), 1,2-Dichloromethane (2), Benzene (3),
+Cyclohexane (4), Trichloroethylene (5), Bromodichloromethane (6), Toluene (7), Dibromochloromethane (8), Tetrachloroethylene (9),
+Ethylbenzene (10), m,p-Xylene (11), Bromoform (12), and o-Xylene (13).
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+VERAM XAD-2 XAD-4 XAD-16
+Adsorbent
+Chloroform
+1,2-dichloroethane
+Benzene
+Cyclohexane
+Trichlorethylene
+Bromodichloromethane
+Toluene
+Tetrachloroethylene
+Dibromochloromethane
+Ethylbenzene
+m,p-Xylene
+Bromoform
+o-Xylene
+Relativeresponse
+Acomp/Ad12-cyclohexane
+Figure 4: Relative response of VOCs in membranes deployed for
+72 h and ﬁlled with diﬀerent adsorbent Amberlite materials (n = 3).
+VOC standard mixture, in order to compare their HS-GC-
+MS signals with those obtained for the deployed membranes
+and to determine the recovery percentage of each considered
+compound. These membranes were directly introduced into
+the HS vials after adding 1500 ng of d8-toluene and 1500 ng
+of d12-cyclohexane as internal standards.
+2.6. HS-GC-MS Direct Determination. Desorption of VOCs
+was carried out at 145◦
+C during 10 min, with a syringe
+temperature of 145◦
+C. A volume of 0,1 mL was then injected
+into the GC (split 1 : 8) at 200◦
+C. Helium (99,99% purity)
+was used as carrier gas with a constant ﬂow of 1,3 mL/min.
+Initial temperature of GC oven was set at 40◦
+C and held
+for 8 min, then it was increased 20◦
+C min−1 up to 200◦
+C,
+and ﬁnally held for 2 min. Transfer line and ion source
+temperatures were 280 and 250◦
+C, respectively. Detection
+was done in Full Scan mode ranging from 40 to 260 m/z with
+an electron impact ionization of 70 eV.
+Table 3: VOCs recovery values expressed in % of signals found for
+deployed membranes as compared with spiked ones obtained for
+diﬀerent adsorbents (c = 150ng · sampler−1
+).
+Compound
+Recovery %
+Veram XAD-2 XAD-4 XAD-16
+Chloroform 128 26 24 156
+1,2-Dichloroethane 63 24 16 45
+Benzene 43 24 26 35
+Cyclohexane 31 107 111 80
+Trichloroethylene 95 94 88 52
+Bromodichloromethane 84 15 11 10
+Toluene 89 55 68 92
+Tetrachloroethylene 70 47 46 41
+Dibromochloromethane 70 47 50 56
+Ethylbenzene 73 68 83 99
+m,p-Xylene 98 88 131 203
+Bromoform 105 77 87 84
+o-Xylene 60 62 97 64
+3. Results and Discussion
+3.1. The Inﬂuence of Adsorbents on VOCs HS-GC-MS Deter-
+mination. In order to check the response of XAD resins
+under chromatography conditions, membranes ﬁlled with
+XAD-2, XAD-4, and XAD-16 were spiked with 150 ng of
+VOCs standard mixture and were analysed by HS-GC-MS.
+After blank correction, results found were compared with
+those obtained with active carbon-ﬂorisil classical VERAM
+samplers (see Figure 2). Analytical response of most of the
+compounds desorbed from XAD resins is similar to that
+obtained from ACFL ﬁlled samplers, which suggests a similar
+behaviour of resins under chromatography conditions. The
+direct measurement of VOCs solutions through HS-GC-
+MS is also indicated in the ﬁgure for comparative purposes
+regarding the capability of the membranes to retain VOCs in
+the selected measurement conditions.
+Journal of Analytical Methods in Chemistry 5
+Table 4: Analytical features of HS-GC-MS determination of studied VOCs for each adsorbent evaluated.
+Compound
+Veram XAD-2 XAD-4 XAD-16
+RSD LOD RSD LOD b RSD LOD b RSD LOD b
+(%) ng · sampler−1 (%) ng · sampler−1 (×10−3) (%) ng · sampler−1 (×10−3) (%) ng · sampler−1 (×10−3)
+Chloroform 5 50 13 31 1.96 9 30 2.04 9 37 2.03
+1,2-Dichloroethane 9 50 23 30 0.91 12 73 0.85 38 13 0.87
+Benzene 7 10 9 1 3.77 10 4 3.66 10 4 3.72
+Cyclohexane 5 50 10 130 0.82 3 130 0.70 12 39 1.08
+Trichloroethylene 6 50 5 3 2.17 4 4 1.99 12 23 1. 95
+Bromodichloromethane 6 50 7 10 1.32 4 95 1.03 14 140 1.11
+Toluene 6 10 5 11 6.48 47 90 7.61 22 58 5.49
+Tetrachloroethylene 5 10 4 17 3.22 7 41 2.96 18 29 2.85
+Dibromochloromethane 6 50 4 15 2.50 7 28 1.71 19 19 1.64
+Ethylbenzene 9 10 3 3 3.76 12 6 3.22 13 5 2.88
+m,p-Xylene 13 10 6 14 3.28 11 12 2.79 17 10 2.44
+Bromoform 15 50 1 2 0.99 15 8 0.65 19 7 0.75
+o-Xylene 13 10 2 8 2.85 14 21 2.47 14 114 2.13
+Note: RSD %: relative standard deviation for 3 independent determinations (c = 1500 ng · sampler−1); LOD: Limit of detection expressed in ng · sampler−1;
+b: slope of calibration curve expressed in relative units.
+Figure 3 shows peak identiﬁcation for all the considered
+compounds in the total ion chromatogram obtained from a
+membrane ﬁlled with XAD-2 spiked with VOCs, and from it
+the easy identiﬁcation of all compounds can be appreciated.
+The chromatogram obtained for a passive sampler blank
+clearly shows that Amberlite adsorbents can be alternative
+solid phases for VERAM devices.
+3.2. The Capability of XAD for VOCs Adsorption. As said
+before, adsorbent materials can retain a certain range of
+compounds depending on their properties. Tests of XAD
+adsorption were carried out in order to evaluate the capa-
+bility of the resins for extraction VOCs from air as LDPE
+membrane ﬁllings. Figure 4 shows the relative adsorption for
+all the compounds under study of XAD-2, XAD-4, and XAD-
+16 samplers exposed during 72 h, and after blank corrections
+most of the compounds present a similar response.
+As can be observed in Table 3, most of the recovery results
+obtained from Amberlite resins are similar to the well-known
+carbon ACFL ﬁlled samplers, ranging from 10% to 203% for
+XAD adsorbents. Recovery percentages were calculated by
+triplicate by comparison of signals obtained from deployed
+membranes for 72 h with the responses corresponding to
+spiked membranes.
+3.3. Analytical Figures of Merit. Table 4 shows analytical
+parameters obtained for the determination of VOCs by
+HS-GC-MS after retention in LDPE membranes ﬁlled with
+diﬀerent adsorbents. Precision of the method was evaluated
+from RSD values, with results lower than 22% in all cases for
+3 independent determinations. Limits of detection of XAD
+resins were calculated as follows: LOD = 3 Sblank/b, where b
+is the slope of the calibration curve and Sblank is the standard
+deviation (SD) of 3 independent measurements of a passive
+sampler spiked with 15 ng of VOCs and were compared with
+those obtained for VERAM samplers in previous studies [3].
+The slope of the calibration curve, b, gives the sensibility of
+the method for each compound. XAD-2 shows best limits
+of detection among the resins ranging from 1 to 140 ng per
+sampler.
+4. Conclusions
+Amberlite XAD-2, XAD-4, and XAD-16 are alternative ﬁlling
+materials for LPDE-based passive samplers in order to do
+VOCs determination. Results obtained in this preliminary
+study evidence similar adsorption properties for Amberlite
+resins than for ACFL-ﬁlled membranes, which have been
+widely used with success in the past but providing very
+low limit of detection values. Although XAD-2 seems to
+show better analytical parameters, VOCs adsorption results
+obtained for amberlite resins are similar for all of them, and
+it could be used in future studies.
+Acknowledgments
+Authors acknowledge the ﬁnancial support of the Project
+CTQ2008-05719 from the Ministerio de Ciencia e Inno-
+vaci´on (Spain), project PROMETEO 2010-055 of the Gen-
+eralitat Valenciana, and project CTQ2011-25743 from Min-
+isterio de Econom´ıa y Competitividad (Spain).
+References
+[1] U.S. Environmental Protection Agency, “An Introduction to
+Indoor Air Quality,” http://www.epa.gov/.
+[2] S. Ly-Verd´u, F. A. Esteve-Turrillas, A. Pastor, and M. de la
+Guardia, “Determination of volatile organic compounds in
+contaminated air using semipermeable membrane devices,”
+Talanta, vol. 80, no. 5, pp. 2041–2048, 2010.
+[3] S. Ly-Verd´u, F. A. Esteve-Turrillas, A. Pastor, and M. de la
+Guardia, “A passive sampling-based analytical strategy for the
+determination of volatile organic compounds in the air of
+6 Journal of Analytical Methods in Chemistry
+working areas,” Analytica Chimica Acta, vol. 677, no. 2, pp.
+131–139, 2010.
+[4] K. H. Kim, Z. H. Shon, M. Y. Kim, Y. Sunwoo, E. C. Jeon, and
+J. H. Hong, “Major aromatic VOC in the ambient air in the
+proximity of an urban landﬁll facility,” Journal of Hazardous
+Materials, vol. 150, no. 3, pp. 754–764, 2008.
+[5] E. Durmusoglu, F. Taspinar, and A. Karademir, “Health risk
+assessment of BTEX emissions in the landﬁll environment,”
+Journal of Hazardous Materials, vol. 176, no. 1–3, pp. 870–877,
+2010.
+[6] Product Information, “Amberlite XAD polymeric resins,”
+http://www.sigmaaldrich.com/.
+[7] S. Batterman, T. Metts, P. Kalliokoski, and E. Barnett, “Low-
+ﬂow active and passive sampling of VOCs using thermal
+desorption tubes: Theory and application at an oﬀset printing
+facility,” Journal of Environmental Monitoring, vol. 4, no. 3, pp.
+361–370, 2002.
+[8] F. A. Esteve-Turrillas, V. Yus`a, A. Pastor, and M. de la Guardia,
+“New perspectives in the use of semipermeable membrane
+devices as passive samplers,” Talanta, vol. 74, no. 4, pp. 443–
+457, 2008.
+[9] A. Kot-Wasik, B. Zabiegała, M. Urbanowicz, E. Dominiak, A.
+Wasik, and J. Namie´snik, “Advances in passive sampling in
+environmental studies,” Analytica Chimica Acta, vol. 602, no.
+2, pp. 141–163, 2007.
+[10] A. Pastor, M. de la Guardia, and F. A. Esteve-Turrillas, Patent
+application no. P200900912/6.
+[11] F. A. Esteve-Turrillas, S. Ly-Verd´u, A. Pastor, and M. de la
+Guardia, “Development of a versatile, easy and rapid atmo-
+spheric monitor for benzene, toluene, ethylbenzene and
+xylenes determination in air,” Journal of Chromatography A,
+vol. 1216, no. 48, pp. 8549–8556, 2009.
+[12] F. A. Esteve-Turrillas, A. Pastor, and M. De La Guardia, “Deter-
+mination of pyrethroid insecticide residues in vegetable oils
+by using combined solid-phases extraction and tandem mass
+spectrometry detection,” Analytica Chimica Acta, vol. 553, no.
+1-2, pp. 50–57, 2005.
+[13] D. Sanju´an-Herr´aez, Y. Rodr´ıguez-Carrasco, L. Juan-Peir´o, A.
+Pastor, and M. de la Guardia, “Determination of indoor air
+quality of a phytosanitary plant,” Analytica Chimica Acta, vol.
+694, no. 1-2, pp. 67–74, 2011.
+[14] S. Armenta, S. Garrigues, and M. de la Guardia, “Green Ana-
+lytical Chemistry,” TrAC Trends in Analytical Chemistry, vol.
+27, no. 6, pp. 497–511, 2008.
+[15] L. Tuduri, M. Millet, O. Briand, and M. Montury, “Passive air
+sampling of semi-volatile organic compounds,” TrAC Trends
+in Analytical Chemistry, vol. 31, pp. 38–49, 2012.
+[16] J. J. Lee, K. L. Huang, Y. Y. Yu, and M. S. Chen, “Laboratory
+retention of vapor-phase PAHs using XAD adsorbents,”
+Atmospheric Environment, vol. 38, no. 36, pp. 6185–6193,
+2004.
+

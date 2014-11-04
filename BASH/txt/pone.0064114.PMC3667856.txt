@@ -1,0 +1,467 @@
+Pharmacogenetic Study of Deferasirox, an Iron Chelating
+Agent
+Ji Won Lee1,2
+, Hyoung Jin Kang1,2
+*, Ji-Yeob Choi3
+, Nam Hee Kim1,2
+, Mi Kyung Jang1,2
+, Chang-Woo Yeo4
+,
+Sang Seop Lee4
+, Hyery Kim1,2
+, June Dong Park1
+, Kyung Duk Park1,2
+, Hee Young Shin1,2
+, Jae-Gook Shin4
+,
+Hyo Seop Ahn1,2
+1 Department of Pediatrics, Seoul National University College of Medicine, Seoul, Republic of Korea, 2 Cancer Research Institute, Seoul National University College of
+Medicine, Seoul, Republic of Korea, 3 Department of Biomedical Sciences, Graduate School of Seoul National University, Seoul, Republic of Korea, 4 Department of
+Pharmacology and Pharmacogenomics Research Center, Inje University College of Medicine, Busan, Republic of Korea
+Abstract
+Transfusion-associated iron overload induces systemic toxicity. Deferasirox, a convenient long acting oral agent, has recently
+been introduced in clinical practice with a promising efficacy. But there are some patients who experience drug-related
+toxicities and cannot tolerate it. To investigate effect of genetic variations on the toxicities and find optimal target
+population, we analyzed the genetic polymorphisms of UDP-glucuronosyltransferase 1A (UGT1A) subfamily, multi-drug
+resistance-associated protein 2 (MRP2) and breast cancer resistance protein (BCRP). A total of 20 functional genetic
+polymorphisms were analyzed in 98 patients who received deferasirox to reduce transfusion-induced iron overload. We
+retrospectively reviewed the medical records to find out the drug-related toxicities. Fifteen (15.3%) patients developed
+hepatotoxicity. Patients without wild-type allele carrying two MRP2 haplotypes containing 21774 del and/or 224T were at
+increased risk of developing hepatotoxicity compared to patients with the wild-type allele on multivariate analysis
+(OR = 7.17, 95% CI = 1.79–28.67, P = 0.005). Creatinine elevation was observed in 9 patients (9.2%). Body weight $40 kg and
+homozygosity for UGT1A1*6 were risk factors of creatinine elevation (OR = 8.48, 95% CI = 1.7–43.57, P = 0.010 and
+OR = 14.17, 95% CI = 1.34–150.35, P = 0.028). Our results indicate that functional genetic variants of enzymes to metabolize
+and transport deferasirox are associated with drug-related toxicities. Further studies are warranted to confirm the results as
+the pharmacogenetic biomarkers of deferasirox.
+Citation: Lee JW, Kang HJ, Choi J-Y, Kim NH, Jang MK, et al. (2013) Pharmacogenetic Study of Deferasirox, an Iron Chelating Agent. PLoS ONE 8(5): e64114.
+doi:10.1371/journal.pone.0064114
+Editor: Ivan Cruz Moura, Institut national de la sante´ et de la recherche me´dicale (INSERM), France
+Received January 13, 2013; Accepted April 10, 2013; Published May 30, 2013
+Copyright: ß 2013 Lee et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This study was supported by a grant of the Korea Healthcare Technology R&D Project, Ministry of Health & Welfare, Republic of Korea (A070001), and
+by a grant of the National Project for Personalized Genomic Medicine, Ministry for Health & Welfare, R.O.K. (A111218-PG02). The funders had no role in study
+design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: HJK reports membership of advisory board on deferasirox, Novartis, Korea. This does not alter the authors’ adherence to all the PLOS ONE
+policies on sharing data and materials.
+* E-mail: kanghj@snu.ac.kr
+Introduction
+Red blood cell (RBC) transfusion in pediatric patients with
+cancer and hematologic disease is necessary to maintain body
+RBC pool. Because human has no biological mechanisms to
+remove the excess iron, patients who are transfusion-dependent
+are at risk of iron overload. Free iron catalyzes the conversion of
+reactive oxygen species intermediates to highly toxic free radicals
+which may mediate tissue injury [1]. It is known that transfusion-
+associated iron overload is associated with the increase of the
+treatment-related toxicity. This is particularly cases with an
+intensive therapy such as hematopoietic stem cell transplantation
+(HSCT) [2,3,4,5,6,7].
+It is highly probable that iron chelation may reduce the iron-
+induced tissue toxicity and thereby improve the short- and long-
+term treatment outcome. Our previous report showed that an
+elevated serum ferritin level was associated with both an increased
+treatment-related mortality and a decreased survival. In addition,
+it also suggested that the iron chelating therapy had a benefit of
+improving the outcomes of HSCT [5].
+Deferoxamine has been the standard drug for iron chelation
+therapy over the past four decades. However, its major
+disadvantage is non-compliance of patients, because it needs an
+8- to 12-hr parenteral administration since it has a short half-life
+and a very poor oral bioavailability [8,9,10,11]. A more
+convenient oral iron chelator, deferasirox, has recently become
+available showing promising efficacy [12,13,14,15,16,17]. Many
+studies have shown that deferasirox has an acceptable profile of
+safety and tolerability. Nevertheless, it has also been reported that
+some patients experienced drug-related toxicities and could not
+tolerate it. The most common side effects of deferasirox were
+gastrointestinal disturbance and skin rash, but they also include
+agranulocytosis, creatinine elevation and hepatitis
+[13,15,18,19,20,21].
+Pharmacogenetics has been used widely to predict individual
+responses or toxicities to drugs by investigating genetic differences
+in metabolic pathways [22]. However, there has been no data
+published so far showing the relationship between the genetic
+polymorphisms and the side effects of deferasirox. As it is known
+that deferasirox is mainly metabolized by glucuronidation and
+PLOS ONE | www.plosone.org 1 May 2013 | Volume 8 | Issue 5 | e64114
+eliminated into the bile through multidrug resistance protein 2
+(MRP2) [23], the effect and toxicity of deferasirox may be
+influenced by the variability of UDP-glucuronosyltransferase,
+MRP2 and breast cancer resistance protein (BCRP) which are
+important for intestinal drug absorption and hepatic drug
+elimination [24]. In this study, we analyzed the genetic polymor-
+phisms of UDP-glucuronosyltransferase 1A (UGT1A) subfamily,
+MRP2 and BCRP to predict toxicities and find optimal target
+population for deferasirox treatment in pediatric patients.
+Materials and Methods
+Patients
+Patients who received deferasirox because of transfusion-
+associated iron overload were enrolled for this study. Transfu-
+sion-associated iron overload was defined as ferritin $1,000 ng/
+mL in patients who needed RBC transfusions over 8 units per
+year.
+Ethics
+This study was approved by the Institutional Review Board of
+Seoul National University Hospital (H-0709-011-217) and regis-
+tered at www.clinicaltrials.gov (NCT01623895). Written informed
+consents were obtained for all patients from their parents on the
+behalf of the children participants.
+Definition of drug-related toxicities
+During the administration of deferasirox, we examined com-
+plete blood count and serum chemistry. We retrospectively
+reviewed the medical records to find out the drug-related
+toxicities. Drug-related hepatotoxicity was defined as increased
+AST or ALT .56ULN or increased bilirubin .36ULN which
+was thought to be caused by deferasirox, and creatinine elevation
+was defined as serum creatinine level increase more than 50%
+above baseline.
+Genotyping
+Genomic DNA was extracted from peripheral blood cells using
+QIAamp DNA Blood Mini Kit (Qiagen, Chatsworth, California,
+USA). Functional genetic variations of BCRP (34G.A,
+8191C.T, 8825C.A), MRP2 (21774delG, 224C.T),
+UGT1A1 (23279T.G, 239insTA, 211G.A, 686C.A),
+UGT1A3 (17A.G, 31T.C, 81G.A, 133C.T, 140T.C,
+477A.G), UGT1A7 (387T.G, 391C.A, 392G.A, 622T.C),
+and UGT1A9 (2118insT) were determined using either direct
+sequencing or pyrosequencing methods as previously described
+[25,26,27].
+Individual haplotypes were estimated from genotype data by the
+Bayesian method using the PHASE program (version 2.0.2) [28].
+Pairwise linkage disequilibrium (LD) between the two alleles was
+estimated as relative disequilibrium (D’) from estimated haplotype
+data [29].
+Statistical methods
+The Hardy-Weinberg equilibrium was assessed by the chi-
+square test with df = 1 for all tested single nucleotide polymor-
+phisms (SNPs). Clinical data (body weight, gender, ferritin level
+and dose of deferasirox), genotype and haplotype were used as
+independent variables to predict the occurrence of toxicities. We
+performed a univariate analysis with each genotype and haplo-
+type. Then multivariate analysis was done with genotype/
+haplotype of which P-value was less than 0.2 on univarate
+analysis. The above-stated clinical variables were used as
+confounding factors for multivariate analysis. A logistic regression
+model was used to estimate the odds ratios (OR) and 95%
+confidence interval for the risk of toxicities. SPSS version 19.0 was
+used for all statistical analyses, and statistical significance was
+accepted when P-value was less than 0.05.
+Results
+Clinical characteristics of patients
+A total of 98 patients (63 male and 35 female) were enrolled.
+The median age was 9.0 (1.0–23.0) years and the median body
+weight was 27.4 (8.8–80.0) kg. The diagnoses were acute leukemia
+in 20 (20.4%), lymphoma in 4 (4.1%), solid tumor in 63 (64.3%),
+aplastic anemia in 5 (5.1%), and other hematologic disease in 6
+(6.1%) patients. Patients received median 29.4 (17.9–34.1) mg/kg
+of deferasirox as an initial dose, and the median ferritin level at the
+initiation of deferasirox was 1,943 (1,025–11,032) ng/mL. Sixty-
+one (62.2%) patients were on their chemotherapy schedule during
+the use of deferasirox.
+Pharmacogenetic analysis
+Genotypes of the 20 candidate loci and haplotypes in 98
+patients are summarized in Table S1. All of the genotypes were in
+Hardy–Weinberg equilibrium (P.0.05).
+Hepatotoxicity
+Fifteen patients (15.3%) developed hepatotoxicity at a median
+60 (13–198) days after the administration. The hepatotoxicity was
+increased AST/ALT .56ULN in 14 patients, and increased
+bilirubin .36ULN in 1 patient.
+Risk factor analyses were performed and the results are
+summarized in Table I. Risk of hepatotoxicity was significantly
+increased as non wild-type allele of MRP2 haplotype increased (P
+for trend = 0.013). On univariate analysis, patients without wild-
+type allele carrying two MRP2 haplotypes containing 21774 del
+and/or 224T were at increased risk of hepatotoxicity compared
+to patients with the wild-type allele (OR = 4.92, 95% CI = 1.52–
+15.90, P = 0.008). The effect of MRP2 haplotype maintained the
+statistical significance on multivariate analysis (OR = 7.17, 95%
+CI = 1.79–28.67, P = 0.005).
+All of the 15 patients showed decreased AST/ALT and
+bilirubin (AST/ALT #56ULN and bilirubin #16UNL) at
+median 9.5 (2–19) days after discontinuation of deferasirox.
+Creatinine elevation
+There were 9 (9.2%) patients whose serum creatinine level
+increased more than 50% above baseline at a median time of 49
+(14–128) days after the start of deferasirox. The median age of
+patients with creatinine elevation was 14.1 (2.8–16.3) years.
+Risk factor analyses were performed for creatinine elevation and
+the results are represented in Table II. The risk of creatinine
+elevation was higher in patients with a greater body weight when
+the body weight was analyzed as a continuous variable
+(OR = 1.05, 95% CI = 1.01–1.10, P = 0.010 in univariate analysis
+and OR = 1.05, 95% CI = 1.01–1.10, P = 0.016 in multivariate
+analysis). When the body weight was divided into categorical
+variable based on a cut-off value of 40 kg, creatinine elevation
+occurred more commonly in patients with a body weight of
+$40 kg (22.6%) compared to those with a body weight of ,40 kg
+(3.0%) (OR = 8.48, 95% CI = 1.7–43.57, P = 0.010). Patients with
+homozygote of UGT1A1*6 had 14.17-times higher risk of
+creatinine elevation than the other patients on multivariate
+analysis (OR = 14.17, 95% CI = 1.34–150.35, P = 0.028).
+Pharmacogenetic Study of Deferasirox
+PLOS ONE | www.plosone.org 2 May 2013 | Volume 8 | Issue 5 | e64114
+Discussion
+Of the total 98 patients, 15 (15.3%) developed hepatotoxicity
+and 9 (9.2%) had a creatinine elevation. According to the previous
+EPIC study enrolling 1,744 patients including pediatric cases, a
+relatively high cut-off value of .106ULN was used in this study,
+and elevated liver enzyme levels were seen only in 0.7% of total
+cases [14]. In other 2 studies where a cut-off value was .56ULN,
+elevated liver enzyme levels were reported in 3.8% and 7.6% of
+total cases, respectively [16,30]. According to studies that have
+been conducted in pediatric patients, the incidence of hepatotox-
+icity was slightly higher. A phase II trial with 39 pediatric b-
+thalassemia patients reported 12.8% of elevated liver enzyme with
+a cut-off value of .56ULN [19], and fluctuations of liver enzymes
+were reported in a recent long-term observational study with
+pediatric patients [31].
+Our results showed that MRP2 haplotype affected the incidence
+of hepatotoxicity. MRP2, also known as ABCC2, is an organic
+anion transporter expressed at important pharmacological barri-
+ers, such as canalicular membrane of hepatocytes and epithelial
+cells of proximal tubules. It is involved in the biliary elimination of
+both endogenous and exogenous waste products [32]. When anion
+deferasirox is eliminated from the liver into the bile, this process
+seems to be partly catalyzed by MRP2 [23]. Due to this fact, it is
+possible that patients without wild-type allele of MRP2 haplotype
+are at increased risk of developing hepatotoxicity than the other
+patients with it.
+Chronic iron overload is known to have prefibrogenic effects on
+the liver due to oxidative stress [33], and therefore iron overload
+itself can be a risk factor of hepatotoxicity in the patients receiving
+iron chelation therapy [34]. We did a univariate and a
+multivariate analysis using the ferritin level as an independent
+variable for predicting the risk of hepatotoxicity, but there was no
+association between the ferritin level and the development of
+hepatotoxicity. Furthermore, all patients who had hepatotoxicity
+showed decreased AST/ALT and bilirubin (AST/ALT #56ULN
+and bilirubin #16UNL) after discontinuation of deferasirox.
+These findings suggested that hepatotoxicity observed in our study
+was mainly associated with the administration of deferasirox.
+Table 1. Risk factor analysis of hepatotoxicity.
+Clinical or genetic factor Hepatotoxicitya
+Univariate analysis Multivariate analysisb
+Yes No OR p OR p
+Median body weight, kg (range) 16.2 (8.8–70.0) 30.7 (10.0–80.0) 0.97 (0.93–1.01) 0.128 0.97 (0.94–1.01) 0.145
+Gender, No. (%) 0.707 0.756
+Male 9 (60.0) 54 (65.1) 1.00 (reference) 1.00 (reference)
+Female 6 (40.0) 29 (34.9) 1.24 (0.40–3.83) 1.21 (0.37–4.00)
+Median ferritin level, ng/mL (range) 1,720 (1,160–3,128) 1,947 (1,025–11,032) 1.00 (1.00–1.00) 0.137 1.00 (1.00–1.00) 0.134
+Median dose of deferasirox, mg/kg (range) 27.8 (17.9–34.1) 29.8 (17.9–34.1) 0.90 (0.76–1.04) 0.149 0.88 (0.76–1.02) 0.097
+MRP2 haplotype, No. (%) 0.008 0.005
+Haplotypes including wild–type 5 (33.3) 59 (71.0) 1.00 (reference) 1.00 (reference)
+No wild type 10 (66.7) 24 (28.9) 4.92 (1.52–15.90) 7.17 (1.79–28.67)
+a
+Hepatotoxicity was defined as increased AST or ALT .56ULN or increased bilirubin .36ULN.
+b
+Adjusting for body weight, gender, ferritin level, and dose of deferasirox.
+doi:10.1371/journal.pone.0064114.t001
+Table 2. Risk factor analysis of creatinine elevation.
+Clinical or genetic factor Creatinine elevationa
+Univariate analysis Multivariate analysisb
+Yes No OR p OR p
+Median body weight, kg (range)c
+51.3 (11.0–77.0) 25.8 (8.8–80.0) 1.05 (1.01–1.10) 0.010 1.05 (1.01–1.10) 0.016
+Gender, No. (%) 0.876 0.835
+Male 6 (66.7) 57 (64.0) 1.00 (reference) 1.00 (reference)
+Female 3 (33.3) 32 (36.0) 0.89 (0.21–3.80) 1.19 (0.23–6.11)
+Median ferritin level, ng/mL (range) 1,926 (1,236–3,678) 1,950 (1,025–11,032) 1.00 (1.00–1.00) 0.481 1.00 (1.00–1.00) 0.479
+Median dose of deferasirox, mg/kg (range) 28.0 (18.9–34.1) 29.4 (17.9–34.1) 0.88 (0.75–1.04) 0.137 0.89 (0.75–1.07) 0.226
+UGT1A1 *6, No. (%) 0.058 0.028
+Wild type or heterotype 7 (77.8) 85 (95.5) 1.00 (reference) 1.00 (reference)
+Mutant homozygote 2 (22.2) 4 (4.5) 6.07 (0.94–39.16) 14.17 (1.34–150.35)
+a
+Creatinine elevation was defined as increased creatinine more than 50% above baseline.
+b
+Adjusting for body weight, gender, ferritin level, and dose of deferasirox.
+c
+Body weight was analyzed as a continuous variable. When the body weight was divided into categorical variable, creatinine elevation occurred more commonly in
+patients with a body weight of $40 kg (22.6%) compared to those with a body weight of ,40 kg (3.0%) (OR = 8.48, 95% CI = 1.7–43.57, P = 0.010).
+doi:10.1371/journal.pone.0064114.t002
+Pharmacogenetic Study of Deferasirox
+PLOS ONE | www.plosone.org 3 May 2013 | Volume 8 | Issue 5 | e64114
+Many previous studies have reported that creatinine elevation is
+one of the common adverse effects occurring at an incidence
+ranging from 10.0% to 39.7%, although the cut-off values were
+variable depending on the authors [14,16,31,35].
+Risk factor analyses revealed that body weight $40 kg and the
+UGT1A1*6 genotype were the risk factors of creatinine elevation.
+UGT1A1 encodes a UDP-glucuronosyltransferase, an enzyme of
+the glucuronidation pathway that transforms small lipophilic
+molecules, such as steroids, bilirubin, hormones, and drugs, into
+water-soluble, excretable metabolites [36]. Many pharmacogenet-
+ic studies have shown that UGT1A1 polymorphisms,
+UGT1A1*28 and UGT1A1*6 in particular, are risk factors of
+irinotecan-related toxicities [37,38,39]. Irinotecan is a prodrug
+that is converted to the active metabolite (SN-38), further
+undergoing the metabolic detoxification by hepatic UGT1A1 to
+an inactive metabolite [40]. Because the major metabolic pathway
+of deferasirox is glucuronidation by UGT1A1 [41], its toxicity
+could be related to the UGT1A1 polymorphism.
+In our study, there was only 1 patient with UGT1A1*28/*28
+homozygote, and this patient developed creatinine elevation. The
+distribution of UGT1A1 polymorphism is known to be variable
+between the ethnic groups with relatively lower UGT1A1*28 allele
+frequency in Asian population [37,38,42,43,44]. Our study could
+not demonstrate any statistical significance of UGT1A1*28
+genotype, but further study is needed in Caucasian population
+with a somewhat higher UGT1A1*28 allele frequency.
+To the best of our knowledge, this is the first study to show that
+side effects of deferasirox are related to the genetic polymorphisms.
+Hepatotoxicity and creatinine elevation were associated with
+MRP2 haplotype and UGT1A1*6 genotype, respectively. In
+conclusion, our results indicate that functional genetic variants of
+enzymes to metabolize and transport deferasirox are associated
+with drug-related toxicities. Further studies are warranted to
+confirm the results as the pharmacogenetic biomarkers of
+deferasirox.
+Supporting Information
+Table S1 Genotypes and haplotypes.
+(DOCX)
+Acknowledgments
+The authors would like to thank Ms. Woo Young Kim, Ms. Eun-Young
+Cha and Ms. Hye-Eun Jeong for help in SNP analysis and genotyping for
+variants.
+Author Contributions
+Conceived and designed the experiments: HJK JGS HSA. Performed the
+experiments: MKJ SSL. Analyzed the data: JWL JYC NHK CWY HK
+JDP KDP HYS. Contributed reagents/materials/analysis tools: JWL JYC
+MKJ SSL. Wrote the paper: JWL HJK JGS HSA.
+References
+1. Evens AM, Mehta J, Gordon LI (2004) Rust and corrosion in hematopoietic
+stem cell transplantation: the problem of iron and oxidative stress. Bone Marrow
+Transplant 34: 561–571.
+2. Altes A, Remacha AF, Sarda P, Baiget M, Sureda A, et al. (2007) Early clinical
+impact of iron overload in stem cell transplantation. A prospective study. Ann
+Hematol 86: 443–447.
+3. Altes A, Remacha AF, Sureda A, Martino R, Briones J, et al. (2002) Iron
+overload might increase transplant-related mortality in haematopoietic stem cell
+transplantation. Bone Marrow Transplant 29: 987–989.
+4. Armand P, Kim HT, Cutler CS, Ho VT, Koreth J, et al. (2007) Prognostic
+impact of elevated pre-transplant serum ferritin in patients undergoing
+myeloablative stem cell transplantation. Blood 109: 4586–4588.
+5. Lee JW, Kang HJ, Kim EK, Kim H, Shin HY, et al. (2009) Effect of iron
+overload and iron-chelating therapy on allogeneic hematopoietic SCT in
+children. Bone Marrow Transplant 44: 793–797.
+6. Miceli MH, Dong L, Grazziutti ML, Fassas A, Thertulien R, et al. (2006) Iron
+overload is a major risk factor for severe infection after autologous stem cell
+transplantation: a study of 367 myeloma patients. Bone Marrow Transplant 37:
+857–864.
+7. Morado M, Ojeda E, Garcia-Bustos J, Aguado MJ, Arrieta R, et al. (2000)
+BMT: Serum Ferritin as Risk Factor for Veno-occlusive Disease of the Liver.
+Prospective Cohort Study. Hematol 4: 505–512.
+8. Cario H, Janka-Schaub G, Janssen G, Jarisch A, Strauss G, et al. (2007) Recent
+developments in iron chelation therapy. Klin Padiatr 219: 158–165.
+9. Kushner JP, Porter JP, Olivieri NF (2001) Secondary iron overload. Hematology
+Am Soc Hematol Educ Program: 47–61.
+10. Olivieri NF, Brittenham GM (1997) Iron-chelating therapy and the treatment of
+thalassemia. Blood 89: 739–761.
+11. Won SC, Han DK, Seo JJ, Chung NG, Park SK, et al. (2010) Efficacy and safety
+of deferiprone (Ferriprox), an oral iron-chelating agent, in pediatric patients.
+Korean J Hematol 45: 58–61.
+12. Cappellini MD, Bejaoui M, Agaoglu L, Porter J, Coates T, et al. (2007)
+Prospective evaluation of patient-reported outcomes during treatment with
+deferasirox or deferoxamine for iron overload in patients with beta-thalassemia.
+Clin Ther 29: 909–917.
+13. Cappellini MD, Cohen A, Piga A, Bejaoui M, Perrotta S, et al. (2006) A phase 3
+study of deferasirox (ICL670), a once-daily oral iron chelator, in patients with
+beta-thalassemia. Blood 107: 3455–3462.
+14. Cappellini MD, Porter J, El-Beshlawy A, Li CK, Seymour JF, et al. (2010)
+Tailoring iron chelation by iron intake and serum ferritin: the prospective EPIC
+study of deferasirox in 1744 patients with transfusion-dependent anemias.
+Haematologica 95: 557–566.
+15. Piga A, Galanello R, Forni GL, Cappellini MD, Origa R, et al. (2006)
+Randomized phase II trial of deferasirox (Exjade, ICL670), a once-daily, orally-
+administered iron chelator, in comparison to deferoxamine in thalassemia
+patients with transfusional iron overload. Haematologica 91: 873–880.
+16. Porter J, Galanello R, Saglio G, Neufeld EJ, Vichinsky E, et al. (2008) Relative
+response of patients with myelodysplastic syndromes and other transfusion-
+dependent anaemias to deferasirox (ICL670): a 1-yr prospective study.
+Eur J Haematol 80: 168–176.
+17. Vichinsky E, Onyekwere O, Porter J, Swerdlow P, Eckman J, et al. (2007) A
+randomised comparison of deferasirox versus deferoxamine for the treatment of
+transfusional iron overload in sickle cell disease. Br J Haematol 136: 501–508.
+18. Aslam N, Mettu P, Marsano-Obando LS, Martin A (2010) Deferasirox induced
+liver injury in haemochromatosis. J Coll Physicians Surg Pak 20: 551–553.
+19. Galanello R, Piga A, Forni GL, Bertrand Y, Foschini ML, et al. (2006) Phase II
+clinical evaluation of deferasirox, a once-daily oral chelating agent, in pediatric
+patients with beta-thalassemia major. Haematologica 91: 1343–1351.
+20. Kontoghiorghes GJ (2007) Deferasirox: uncertain future following renal failure
+fatalities, agranulocytosis and other toxicities. Expert Opin Drug Saf 6: 235–239.
+21. Kontoghiorghes GJ (2008) Update on toxicity and efficacy aspects of treatment
+with deferasirox and its implication on the morbidity and mortality of transfused
+iron loaded patients. Expert Opin Drug Saf 7: 645–646.
+22. Gardiner SJ, Begg EJ (2006) Pharmacogenetics, drug-metabolizing enzymes,
+and clinical practice. Pharmacol Rev 58: 521–590.
+23. Bruin GJ, Faller T, Wiegand H, Schweitzer A, Nick H, et al. (2008)
+Pharmacokinetics, distribution, metabolism, and excretion of deferasirox and
+its iron complex in rats. Drug Metab Dispos 36: 2523–2538.
+24. Mao Q, Unadkat JD (2005) Role of the breast cancer resistance protein
+(ABCG2) in drug transport. AAPS J 7: E118–133.
+25. Yea SS, Lee SS, Kim WY, Liu KH, Kim H, et al. (2008) Genetic variations and
+haplotypes of UDP-glucuronosyltransferase 1A locus in a Korean population.
+Ther Drug Monit 30: 23–34.
+26. Lee SS, Jeong HE, Yi JM, Jung HJ, Jang JE, et al. (2007) Identification and
+functional assessment of BCRP polymorphisms in a Korean population. Drug
+Metab Dispos 35: 623–632.
+27. Choi JH, Ahn BM, Yi J, Lee JH, Nam SW, et al. (2007) MRP2 haplotypes
+confer differential susceptibility to toxic liver injury. Pharmacogenet Genomics
+17: 403–415.
+28. Stephens M, Smith NJ, Donnelly P (2001) A new statistical method for haplotype
+reconstruction from population data. Am J Hum Genet 68: 978–989.
+29. Lewontin RC (1988) On measures of gametic disequilibrium. Genetics 120:
+849–852.
+30. Vichinsky E, Bernaudin F, Forni GL, Gardner R, Hassell K, et al. (2011) Long-
+term safety and efficacy of deferasirox (Exjade) for up to 5 years in transfusional
+iron-overloaded patients with sickle cell disease. Br J Haematol 154: 387–397.
+31. Aydinok Y, Unal S, Oymak Y, Vergin C, Turker ZD, et al. (2012) Observational
+study comparing long-term safety and efficacy of Deferasirox with Desferriox-
+amine therapy in chelation-naive children with transfusional iron overload.
+Eur J Haematol 88: 431–438.
+Pharmacogenetic Study of Deferasirox
+PLOS ONE | www.plosone.org 4 May 2013 | Volume 8 | Issue 5 | e64114
+32. Jemnitz K, Heredi-Szabo K, Janossy J, Ioja E, Vereczkey L, et al. (2010)
+ABCC2/Abcc2: a multispecific transporter with dominant excretory functions.
+Drug Metab Rev 42: 402–436.
+33. Poli G (2000) Pathogenesis of liver fibrosis: role of oxidative stress. Mol Aspects
+Med 21: 49–98.
+34. Jensen PD, Jensen FT, Christensen T, Nielsen JL, Ellegaard J (2003)
+Relationship between hepatocellular injury and transfusional iron overload
+prior to and during iron chelation with desferrioxamine: a study in adult patients
+with acquired anemias. Blood 101: 91–96.
+35. Cappellini MD, Bejaoui M, Agaoglu L, Canatan D, Capra M, et al. (2011) Iron
+chelation with deferasirox in adult and pediatric patients with thalassemia major:
+efficacy and safety during 5 years’ follow-up. Blood 118: 884–893.
+36. National Center for Biotechnology Information. GENE. Available: http://www.
+ncbi.nlm.nih.gov/gene/54658. Accessed: 2012 Jun 06.
+37. Han JY, Lim HS, Shin ES, Yoo YK, Park YH, et al. (2006) Comprehensive
+analysis of UGT1A polymorphisms predictive for pharmacokinetics and
+treatment outcome in patients with non-small-cell lung cancer treated with
+irinotecan and cisplatin. J Clin Oncol 24: 2237–2244.
+38. Satoh T, Ura T, Yamada Y, Yamazaki K, Tsujinaka T, et al. (2011) Genotype-
+directed, dose-finding study of irinotecan in cancer patients with UGT1A1*28
+and/or UGT1A1*6 polymorphisms. Cancer Sci 102: 1868–1873.
+39. Shulman K, Cohen I, Barnett-Griness O, Kuten A, Gruber SB, et al. (2011)
+Clinical implications of UGT1A1*28 genotype testing in colorectal cancer
+patients. Cancer 117: 3156–3162.
+40. Mathijssen RH, van Alphen RJ, Verweij J, Loos WJ, Nooter K, et al. (2001)
+Clinical pharmacokinetics and metabolism of irinotecan (CPT-11). Clin Cancer
+Res 7: 2182–2194.
+41. Novartis Pharmaceuticals Corporation (per FDA) (2011) Product Information:
+EXJADE(R) oral tablets for suspension, deferasirox oral tablets for suspension,
+East Hanover, NJ.
+42. Akiyama Y, Fujita K, Nagashima F, Yamamoto W, Endo H, et al. (2008)
+Genetic testing for UGT1A1*28 and *6 in Japanese patients who receive
+irinotecan chemotherapy. Ann Oncol 19: 2089–2090.
+43. Beutler E, Gelbart T, Demina A (1998) Racial variability in the UDP-
+glucuronosyltransferase 1 (UGT1A1) promoter: a balanced polymorphism for
+regulation of bilirubin metabolism? Proc Natl Acad Sci U S A 95: 8170–8174.
+44. Sunakawa Y, Ichikawa W, Fujita K, Nagashima F, Ishida H, et al. (2011)
+UGT1A1*1/*28 and *1/*6 genotypes have no effects on the efficacy and
+toxicity of FOLFIRI in Japanese patients with advanced colorectal cancer.
+Cancer Chemother Pharmacol 68: 279–284.
+Pharmacogenetic Study of Deferasirox
+PLOS ONE | www.plosone.org 5 May 2013 | Volume 8 | Issue 5 | e64114
+

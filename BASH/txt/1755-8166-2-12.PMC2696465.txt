@@ -1,0 +1,1039 @@
+BioMed Central
+Page 1 of 12
+(page number not for citation purposes)
+Molecular Cytogenetics
+Open AccessResearch
+Automated detection of residual cells after sex-mismatched
+stem-cell transplantation – evidence for presence of disease-marker
+negative residual cells
+Jörn Erlecke1, Isabell Hartmann1, Martin Hoffmann3, Torsten Kroll4,
+Heike Starke1, Anita Heller1, Alexander Gloria1, Herbert G Sayer4,
+Tilman Johannes5, Uwe Claussen1, Thomas Liehr*1 and Ivan F Loncarevic1,2
+Address: 1Jena University Hospital, Institute of Human Genetics and Anthropology, Kollegiengasse 10, D-07743 Jena, Germany, 2Clondiag Chip
+Technologies, Loebstedter Str. 103–105, 07749 Jena, Germany, 3Interdisciplinary Centre for Bioinformatics, University of Leipzig, Härtelstr. 16–
+18, 04107 Leipzig, Germany, 4Clinic of Internal Medicine II, Oncology and Hematology, University Medical Centre Jena, Erlanger Allee101, 07747
+Jena, Germany and 5MetaSystems GmbH, Robert-Bosch-Str. 6, 68804 Altlussheim, Germany
+Email: Jörn Erlecke - je.publication@gmail.com; Isabell Hartmann - isabell.hartmann@mti.uni-jena.de;
+Martin Hoffmann - hoffmann@izbi.uni-leipzig.de; Torsten Kroll - Torsten.Kroll@med.uni-jena.de; Heike Starke - steinhaeuser@inbox.com;
+Anita Heller - Anita.Heller@mti.uni-jena.de; Alexander Gloria - alexander.gloria@gmail.com; Herbert G Sayer - herbert.sayer@med.uni-jena.de;
+Tilman Johannes - tjohannes@metasystems.de; Uwe Claussen - ucla@mti.uni-jena.de; Thomas Liehr* - i8lith@mti.uni-jena.de;
+Ivan F Loncarevic - ivan@clondiag.de
+* Corresponding author
+Abstract
+Background: A new chimerism analysis based on automated interphase fluorescence in situ
+hybridization (FISH) evaluation was established to detect residual cells after allogene sex-
+mismatched bone marrow or blood stem-cell transplantation.
+Cells of 58 patients were characterized as disease-associated due to presence of a bcr/abl-gene-
+fusion or a trisomy 8 and/or a simultaneous hybridization of gonosome-specific centromeric
+probes. The automatic slide scanning platform Metafer with its module MetaCyte was used to
+analyse 3,000 cells per sample.
+Results: Overall 454 assays of 58 patients were analyzed. 13 of 58 patients showed residual
+recipient cells at one stage of more than 4% and 12 of 58 showed residual recipient cells less than
+4%, respectively. As to be expected, patients of the latter group were associated with a higher
+survival rate (48 vs. 34 month). In only two of seven patients with disease-marker positive residual
+cells between 0.1–1.3% a relapse was observed. Besides, disease-marker negative residual cells
+were found in two patients without relapse at a rate of 2.8% and 3.3%, respectively.
+Conclusion: The definite origin and meaning of disease-marker negative residual cells is still
+unclear. Overall, with the presented automatic chimerism analysis of interphase FISH slides, a
+sensitive method for detection of disease-marker positive residual cells is on hand.
+Published: 29 May 2009
+Molecular Cytogenetics 2009, 2:12 doi:10.1186/1755-8166-2-12
+Received: 27 April 2009
+Accepted: 29 May 2009
+This article is available from: http://www.molecularcytogenetics.org/content/2/1/12
+© 2009 Erlecke et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 2 of 12
+(page number not for citation purposes)
+Background
+Malignant hematological diseases represent 5.5% of all
+cancers in Germany [1]. One way to cure these fatal dis-
+eases is allogenic bone marrow or blood stem cell trans-
+plantation. In case of a male donor and female recipient
+(and vice versa) we talk of a sex-mismatched transplanta-
+tion. In such a setting it is relatively simple to classifiy
+donor and acceptor cells in the bone marrow or blood cell
+system. The existence of 100 percent donor cells is called
+complete chimerism, in contrast a mixture of both donor
+and acceptor cells mixed chimerism. Chimerism analysis
+is done on these sex-mismatched transplants to monitor
+minimal residual disease and to plan further immuno-
+therapy like donor lymphocyte infusion (DLI) [2]. In rou-
+tine diagnostics, fluorescence in situ hybridization (FISH)
+is frequently applied for chimerism analysis [3-6], which
+demands manual time-consuming counting of cells. An
+experienced technician needs about 2.5 hours for approx-
+imately 3,000 cells. Therefore, an automatic FISH chimer-
+ism analysis is extremely valuable for diagnostics and
+correct treatment of affected patients, as it can be carried
+out in a fraction of time. Thus, the presented single cell
+based approach becomes now competitive in comparison
+to PCR based chimerism analysis [7].
+Frequently observed disease-markers are the bcr/abl-
+fusion-gene as present in more than 95% of chronic mye-
+loid leukemia (CML) cases [8,9], and trisomy 8 found in
+11% of acute myeloid leukemia (AML) [10]. The simulta-
+neous detection of the gonosomal constitution and a
+tumor marker enables the identification of residual tumor
+cells. The latter was already proposed 1994 by Nagler and
+coworkers [11], however, it was not often carried out
+before [12-14], and not studied under routine conditions.
+Here we tested an automated interphase FISH analysis for
+the characterization of chimerism in 58 patients after all-
+ogenic stem cell transplantation with different hemato-
+logical malignancies.
+Results
+Determination of cut off levels
+FISH-analysis of residual cells after sex-mismatched trans-
+plantation is mainly based on simultaneous labeling of
+the centromeres of the X- and Y-chromosomes. Because of
+possible false positive and false negative results e.g. due to
+background or hybridization problems, it was necessary
+to determine the cut off level. Therefore, a total of 26,633
+cells from 10 healthy female and 35,783 cells from 11
+healthy male were analyzed with the described automated
+system. The automated analysis showed in the female
+controls 257 cells with apparent male signal constellation
+(XY), and the male controls had 142 cells with apparent
+female signal constellation (XX). To control these auto-
+mated results we investigated all questionable cells; only
+38 out of 257 and 27 out of 142 could be confirmed to be
+real XY-positive cells or in the male case XX-positive cells.
+This corresponds to a false positive rate of 0.14% in
+female and 0.08% in male. An additional random control
+of 4,841 XX cells in female and of 4,535 XY cells in male
+showed that there was no further failure of automatic
+counting.
+As the cut off level depends on the amount of analyzed
+cells, all mentioned female and male cells were listed in
+spreadsheets with random order and arranged in blocks of
+50, 100, 200, 400, 800, 1,500, 2,000, 2,500, 3,000 and
+4,000 cells. Subsequently, the mean and standard devia-
+tion was assessed for each block. The cut off level was
+defined as the mean plus twice the standard deviation.
+The respective cut of levels for each block size were fitted
+by a trend line enabling the calculation of cut off levels for
+arbitrary cell numbers up to 4000. Fig. 1 shows the deter-
+mined/calculated cut off values for female and male cells
+including trend lines.
+In order to determine the false positive rate for trisomy 8
+another 15,882 cells from 5 healthy people were analyzed
+with centromere 8 probes. The mean false positive rate
+was 1.2%. In the same manner 11,453 cells of 11 healthy
+controls were investigated using the LSI-probe against the
+bcr/abl-fusion gene. The mean false positive rate for the
+bcr/abl-probe was 0.7%. For estimating the cut off level
+for XX/XY in combination with trisomy 8 (XX or XY+tri-
+somy 8) or bcr/abl (XX or XY+bcr/abl) the 95-quantil with
+the following formula was used:
+Thus, the cut off level was as follows:
+• for XX+trisomy 8 and XX+bcr/abl = 0.005%
+x g x xj j j+ + ++ ⋅ −1 2 1( )
+Cut off level in dependence of the number of evaluated cells(n) in female (gray line, diamonds) and male (black line, trian-gles)Figure 1
+Cut off level in dependence of the number of evalu-
+ated cells (n) in female (gray line, diamonds) and
+male (black line, triangles).
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 3 of 12
+(page number not for citation purposes)
+• for XY+trisomy 8 and XY+bcr/abl = 0.003%.
+Minimum number of cells to be analyzed in a blood sample
+Two statistical aspects of the present study were further
+assessed. First, the minimum number of cells to be ana-
+lyzed was determined in order to achieve a predefined
+accuracy for the estimated fraction of acceptor cells in the
+total blood of the patient.
+Given the total blood of a transplanted patient consists of
+N cells of which NA are acceptor cells, the fraction of
+acceptor cells in the patient is PA = NA/N. A blood sample
+contains fewer than N cells and the fraction of acceptor
+cells in the sample pA can only be an estimate for the true
+fraction PA. But how many cells must be analyzed in a
+blood sample in order to achieve a predefined accuracy?
+The probability of finding MA acceptor cells in a blood
+sample of size M drawn from a total of N blood cells of
+which NA are acceptor cells is given by a hypergeometric
+distribution. However, the sample size M is generally
+much smaller than the total number of cells N. Thus, the
+true fraction of acceptor cells PA can be assumed to be the
+same before and after the blood sample has been drawn
+from the patient. The hypergeometric distribution is then
+well approximated by the binomial distribution
+. In the
+present case the exact value of PA = NA/N is unknown but
+is to be estimated by the sample ratio pA = MA/M. The
+mean and standard deviation of the random variable pA
+are given by , respectively. For determin-
+ing the minimal number of cells to be analyzed in a blood
+sample we use the order of magnitude estimate PA = 0.01
+according to the measurements. The coefficient of varia-
+tion (equivalent to the relative standard deviation given in
+%) is then given by the ratio of standard deviation and
+mean . For the relative standard devia-
+tion to be smaller than q the sample size must exceed M*
+= 99/q2. Hence, for q = {100%, 50%, 25%} the required
+sample sizes must be larger then M* = {99, 396, 1584},
+respectively.
+Error bounds for the fraction of acceptor cells due to
+classification errors of the automated cell recognition
+device
+Second statistical aspect, the error bounds for the fraction
+of acceptor cells in the blood sample were calculated with
+respect to classification errors introduced by the auto-
+mated cell recognition device. The measured number of
+acceptor cells may not reflect the real number of acceptor
+cells in the sample due to measurement errors of the auto-
+mated device. In order to assess the error rate of the device
+we classified 10 and 11 samples from healthy females and
+males, respectively, and obtained histograms for the frac-
+tion of misclassified cells. These were similar for females
+and males and thus pooled in a single distribution as
+shown in Fig. 2. Using this error distribution we calcu-
+lated the probability density function for the true number
+of acceptor cells in the sample as described in the follow-
+ing paragraph. The resulting probability density function
+indicates that the measurements rather overestimate the
+number of true acceptor states.
+Probability density function for the true number of
+acceptor cells in the sample
+In order to assess the error introduced by the measuring
+device we calculated the probability distribution
+for the true number of acceptor cells MA in
+the sample given the number of measured acceptor cells
+M*A. First note that for a given misclassification probabil-
+ity b the number of correctly measured acceptor cells
+M*AA is binomial distributed with total number of cells
+MA and probability 1-b. Accordingly, the number of
+donor cells erroneously measured as acceptor cells M*ADp M M P
+M
+M
+P Pbino A A
+A
+A
+M
+A
+M MA A
+( | , ) ( )=
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ − −
+1
+σ A
+PA PA
+M
+=
+−( )1
+CVA
+A
+A M
+= =
+σ
+μ
+99
+f M MM A A( | )∗
+Histogram for the misclassification error as estimated fromthe number of wrongly classified cells per sampleFigure 2
+Histogram for the misclassification error as esti-
+mated from the number of wrongly classified cells
+per sample. Blood samples were obtained from 10 healthy
+females and 11 healthy males. The histogram is fitted by a
+sum of two beta distributions.
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 4 of 12
+(page number not for citation purposes)
+is binomial distributed with total number of cells MD and
+probability b. As shown in Fig. 2 the misclassification
+probability b itself is β-distributed. Thus, b-averaged bino-
+mial probability distributions are obtained by integration
+according to the β-distribution, i.e.
+The probability of measuring M*A acceptor cells condi-
+tional on the fact that MA true acceptor cells are present in
+the sample is given by the sum of probabilities consistent
+with the conditions M*A = M*AA + M*AD and M = MA + MD.
+It reads
+in which the product is implied by the fact that
+the events 'M*AA out of MA' and 'M*AD (= M*A - M*AA) out
+of MD (= M - MA)' are independent and must occur at the
+same time. The probability for the true number of accep-
+tor cells MA in the sample conditional on M*A acceptor
+cells having been measured is given according to Bayes'
+theorem
+From the pooled experimental data the a priory probabil-
+ity for the number of measured acceptor cells
+was estimated to be a sum of two exponentials. In the
+present medical context the prior for the number of accep-
+tor cells in the sample fM(MA) is best chosen to be unin-
+formative (i.e. constant) in order not to bias the results
+towards low MA values, which would conflict with the
+interest of the patient. Another choice would be to equate
+. Since is strongly peaked for
+zero measured acceptor cells the resulting
+is biased towards low MA-values, especially for small sam-
+ple sizes M. This choice could be more interesting for e.g.
+insurance companies.
+Sample plots of the conditional probability distribution
+are shown in Fig. 3 for the empirical prior.
+p M M p M M b p b db
+p M M
+bino
+A
+AA A bino AA A
+bino
+D
+AD D
+( | ) ( | , ) ( )
+( | )
+∗ ∗
+∗
+= ∫ −
+=
+1 β
+∫∫ ∗
+p M M b p b dbbino AD D( | ) ( ) ., β
+f M M p M M p M M M MM A A bino
+A
+AA A bino
+D
+M
+A AA A
+AA
+( | ) ( | ) ( | ),∗ ∗ ∗ ∗
+= ⋅ − −
+∗
+∑
+P Pbino
+A
+bino
+D
+⋅
+f M M
+fM MA MA fM MA
+fM MA
+M A A( | )
+( | ) ( )
+( )
+∗
+=
+∗
+∗
+f MM A( )∗
+f M f MM A M A( ) ( )= ∗
+f MM A( )∗
+f M MM A A( | )∗
+f M MM A A( | )∗
+Sample plots for the conditional probability distribution for the number of true acceptor cells MA in the sample for samplesizes M = 100 (A) and 500 (B)Figure 3
+Sample plots for the conditional probability distribution for the number of true acceptor cells MA
+in the sample for sample sizes M = 100 (A) and 500 (B). The prior is uninformative. The different curves correspond to
+different measured values M*A as indicated in the legends. These values correspond to 0%, 1%, 2% and 3% of the corresponding
+sample size. The distributions are biased to lower values of MA (see text).
+f M MM A A( | )∗
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 5 of 12
+(page number not for citation purposes)
+From these plots it becomes clear that the number of
+acceptor cells is rather overestimated by the measure-
+ments since the great majority of cells are donor cells that
+are occasionally classified as acceptor cells. The opposite
+case, i.e. acceptor cells being classified as donor cells, is
+very rare simply because there are only very few acceptor
+cells.
+Quantification and characterization of residual cells in
+patients after sex-mismatched transplantation
+Overall 454 samples of 58 patients were investigated with
+X- and Y-chromosome specific probes as described in
+detail in Tab. 1. 33 patients had a complete chimerism
+(posttransplant 290 samples) and therefore no residual
+cancer cells. 25 had a mixed chimerism (47 of 163 post-
+transplant samples). In order to see the clinical relevance
+of residual cells, patients with mixed chimerism were
+divided in two groups, one with less than 4% sexmis-
+match to the donor (13 patients) and the other with more
+than or equal 4% sexmismatch (12 patients). Both groups
+show no correlation with the time since transplantation.
+Patients with < 4% residual cells were transplanted
+between 10–55 years (median = 46), patients with ≥ 4%
+residual cells between 0–66 years (median = 49).
+Patients after dose reduced conditioning treatment prior
+to transplantation (RC) showed a tendency to develop ≥
+4% residual cells whereas in myeloablative repertoire
+regimes (MRR) patients trend to develop < 4% residual
+cells. In detail 54% of patients with ≥ 4% residual cells
+underwent MRR and 38% RC conditioning. In contrast,
+25% of patients with ≥ 4% residual cells underwent MRR
+and 67% RC conditioning. The survival rate of all three
+groups (complete chimerism, < 4% residual cells and ≥
+4%) is shown as a Kaplan-Meier-plot in Fig. 4. For a
+detailed compilation of causes of death see in Table 1.
+In 12 patients cytogenetic disease-markers were detected
+before transplantation (bcr/abl-fusion (n = 9); trisomy 8
+(n = 3)). For these cases a simultaneous hybridization of
+the centromeres X and Y together with the bcr/abl- or cen-
+tromere 8-probe was performed. As shown above it is pos-
+sible to decrease the cut off level for acceptor cells by
+targeting gonosomes and tumour specific genome altera-
+tions in a single hybridization. 55 samples of twelve
+patients were investigated. In nine of these samples resid-
+ual cells were found in a range of 0.1–3.3%. In two of
+those nine patients (cases 3, 14) the detected sexmismatch
+cells were not disease-marker positive, whereas in the
+other seven patients (cases 29, 31, 35, 36, 37, 41, 45) dis-
+ease-marker positive residual cells were detected (in total
+25 cells). Two specimen of disease-marker negative and
+disease-marker positive residual cells are shown in Fig. 5.
+In these remaining groups with small numbers of patients
+the disease-marker gave no additional information. The
+amount of disease-marker-positive or negative residual
+cells showed no correlation with clinical outcome like
+relapse or death. Table 2 shows the course of 9 patients
+with residual cells with known disease-marker.
+Discussion
+Advantage of automatic scanning system "Metafer"
+Chimerism analysis after sex-mismatched bone marrow
+or peripheral blood stem-cell transplantation is an impor-
+tant diagnostic component to monitor transplantation
+and minimal residual disease and DLI [15-17]. The FISH
+technique progresses in importance but demands high
+personnel skills and costs. An automatic chimerism anal-
+ysis system could be the solution for that dilemma and
+was evaluated here. As advantage of automatic analysis
+using Metafer turned out, that the picture and the coordi-
+nates of each cell are memorized. Via basing points it is
+possible to relocate each cell for further investigation.
+Moreover, it is possible to analyze huge amounts of cells
+and to detect small subpopulations of residual cells. Auto-
+matic analysis correlates linearly with manual analysis (R2
+= 0.985) [18]. This permits to compare automatic and
+manual chimerism analysis. Because of the small fraction
+of the targeted cells in the whole population one should
+analyze in future studies more than 1600 cells for a rea-
+sonable precision (rel. standard deviation of 25%) as
+described in the statistical part.
+FISH vs. PCR
+Comparing FISH and PCR in chimerism analysis it was
+shown that the results are in concordance [7]. The sensi-
+tivity of PCR is between 3–5% and allows only semiquan-
+titative analysis [4,19] whereas FISH is more sensitive
+(1%) and is absolutely quantitative [20]. Because of the
+different sensitivities it is recommended to use just one
+method [21], in patients with complete chimerism the
+method with the highest sensitivity should be used for
+early detection of residual cells [17,22].
+Evaluation of cut off levels and possible source of error
+For cut off levels in XY-FISH-analysis it could be shown
+that they depend on the sum of evaluated cells per sample
+(e.g. 3,000 counted cells: cut off 1.2% and 0.6% respec-
+tively – see Fig. 3. Trakhtenbrot and coworkers [23]
+described a very alike cut off level in female cells.
+In women with sons, male cells could be found 27 [24] or
+38 years [25] postpartum in blood samples. The authors
+showed that up to 40.000 male cells could be trans-
+planted in a normal PBSCT by female donors. In case
+male cells were found in patients after transplantation this
+would be incorrectly interpreted as residual cells. There-
+fore, listing of female donors with sons is recommended
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 6 of 12
+(page number not for citation purposes)
+Table 1: Patient characteristics
+patient sex primary Tx conditioning PBSCT/ death reason cytogenetic number analysed
+no. disease age BMT death/day marker probes
+1 m SAA 10 n.k. PBSCT yes n.k./+168 1
+2 f AML 62 M PBSCT no 6
+3 f CML 51 C PBSCT yes GvHD/+575 bcr/abl 2
+4 m MDS 37 M PBSCT no 5
+5 f AML 44 M PBSCT no 3
+6 f ALL 43 C BMT no 5
+7 f NHL 39 M PBSCT no 19
+8 f CML 25 C PBSCT no 21
+9 f AML 49 C PBSCT no 3
+10 f MM 57 C PBSCT no 7
+11 f CML 12 n.k. PBSCT yes n.k./+110 3
+12 f CML 43 n.k. PBSCT no 1
+13 m OP 0 n.k. BMT no 4
+14 f AML 41 M PBSCT no trisomy 8 17
+15 m SAA 49 M PBSCT no 18
+16 f AML 55 M PBSCT yes infection/+458 3
+17 m MM 40 M BMT yes relapse/+278 8
+18 f AML 48 M PBSCT yes relapse/+125 3
+19 m MM 60 M PBSCT yes infection/+82 2
+20 f AML 25 M PBSCT no 15
+21 m ALL 34 C PBSCT yes GvHD/+117 1
+22 m CML 39 C PBSCT no bcr/abl 3
+23 f MDS 52 M PBSCT no 15
+24 f CML 1 n.k. BMT no 3
+25 f ALL 14 C PBSCT yes n.k./+361 2
+26 m AML 89 M PBSCT no 4
+27 f AML 49 C PBSCT no 14
+28 f AML 48 M PBSCT yes infection/+144 2
+29 m CML 49 C PBSCT yes GvHD/+833 bcr/abl 16
+30 m AML 58 M PBSCT no 8
+31 f CML 46 C PBSCT no bcr/abl 14
+32 m ALL 42 M PBSCT no 11
+33 m CML 46 C PBSCT no 6
+34 m CML 51 M PBSCT no bcr/abl 3
+35 m AML 48 M PBSCT yes relapse/+321 trisomy 8 7
+36 m CML 43 M PBSCT no bcr/abl 22
+37 f CML 38 C PBSCT no bcr/abl 14
+38 f AML 34 C PBSCT no 21
+39 f AML 53 M PBSCT no 12
+40 f AML 59 M PBSCT no 24
+41 m CML 50 M PBSCT yes relapse/+62 bcr/abl 3
+42 f AML 58 M PBSCT no 7
+43 m AML 27 C PBSCT yes relapse/+436 7
+44 m CML 52 M PBSCT no bcr/abl 9
+45 f CML 44 C PBSCT no bcr/abl 9
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 7 of 12
+(page number not for citation purposes)
+in anamnesis and should be considered in chimerism
+analysis. Unfortunately, this information was not availa-
+ble for the investigated patients.
+In the present study in two samples residual cells were
+arranged in conglomerates (patient 36, in sample 20 and
+26 month after transplantation). The histological origin
+of these cells was not investigated. Potentially these cells
+resembled endothelial cells that derived from injury of the
+endothelium. To prevent contamination with endothelial
+cells samples from the third aspiration of a single venous
+puncture is recommended for the cytogenetic analysis.
+The false positive rate of 1.2% for trisomy 8 we deter-
+mined was in concordance with Jenkins et al. [26] and
+Cuneo et al. [27]. The bcr/abl-false positive rate of 0.7%
+was identical with Amiel et al. [28], Van den Berg et al.
+[29] and Mühlmann et al. [30]. However, overall a big var-
+iation can be found in the literature concering false posi-
+tive rate of bcr/abl which is given between 2–10% [20,31-
+34]. Possible reasons for these differences could be: 1) dif-
+ferent tissue samples (bone marrow vs. peripheral blood),
+2) different cell cycle stage (G1, G2) or 3) different chro-
+matin structure in healthy and moribund cells [35] and 4)
+different probes. With 95-quantil the cut off level for
+simultaneous hybridization of gonosomes and disease-
+markers were estimated and represent 0.005% in XX+tri-
+somy 8/XX+bcr/abl and 0.003% in XY+trisomy 8/XY+bcr/
+abl. This allows detecting one disease-marker positive
+residual cell in 20.000 analyzed cells which was claimed
+already in 1994 [36]. PCR as alternative diagnostic
+method does not have this high sensitivity.
+Automatic scanning applied on sex-mismatched patients
+33 patients out of 58 had a complete chimerism, 13
+patients residual cells < 4% and 12 patients residual cells
+> 4%. As expected the detection of residual cells > 4% cor-
+related with relapse as described in literature [37,38].
+66.7% out of patient group > 4% residual cell died
+because of relapse. Median survival from detection of
+46 m AML 46 C PBSCT no 6
+47 m AML 40 C PBSCT yes relapse/+484 7
+48 m AML 50 M PBSCT no trisomy 8 17
+49 f AML 50 M PBSCT no 9
+50 f AML 61 M PBSCT yes relapse/+286 5
+51 m ALL 66 M PBSCT yes relapse/+701 3
+52 m CLL 58 M PBSCT yes infection/+599 4
+53 m MM 49 M PBSCT no 5
+54 m Lym 45 C PBSCT yes relapse/+402 3
+55 m SAA 35 C PBSCT no 3
+56 m CML 37 C PBSCT no 2
+57 f AML 20 C PBSCT no 3
+58 f ALL 26 C PBSCT no 4
+m = male, f = female, SAM = severe aplastic anemia, ALL = acute lymphatic leukemia, AML = acute myloid leukemia, CLL = chronic lymphatic
+leukemia, CML = chronic myeloid leukemia, Lym = lymphoma, MDS = myelodysplastic syndrome, MM = multiple myeloma, NHL = Non-Hodgkin
+lymphoma, OP = osteopetrosis, n.k. = not known, C = classical, M = metakin, BMT = bone marrow transplantation, PBSCT = peripheral blood
+stem-cell transplantation.
+Table 1: Patient characteristics (Continued)
+Survival rates of 33 patients without residual cells (line a), 13patients with residual cells < 4% (line b) and 12 patients withresidual cells > 4% (line c)Figure 4
+Survival rates of 33 patients without residual cells
+(line a), 13 patients with residual cells < 4% (line b)
+and 12 patients with residual cells > 4% (line c).
+Bcr/abl negative cell (left) and bcr/abl positive cell (right)Figure 5
+Bcr/abl negative cell (left) and bcr/abl positive cell
+(right). The right cell shows the bcr/abl-gene-fusion (arrow-
+head). The LSI ES bcr/abl probe of Vysis/Abbott was applied
+here.
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 8 of 12
+(page number not for citation purposes)
+residual cells and relapse was 6 month and is identical
+with the data published by Uzunel et al. [39]. Other stud-
+ies could not find a correlation between mixed chimerism
+and relapse [40-42]. To what extend mixed chimerism
+gives evidence about relapse is discussed controversially.
+In here presented data the occurrence of residual cells was
+not a marker for relapse. One reason might be the retro-
+spective analysis of patients in this work.
+In 12 patients a simultaneous hybridization of gono-
+somes and disease-markers was applied. 7 patients had
+disease-marker positive residual cells. But the study
+showed also that disease-marker positive and disease-
+marker negative residual cells can be verified within a
+sample. The detection of disease-marker positive residual
+cells had no impact on relapse or survival. In contrast
+Führer et al. [14] could detect disease-marker positive
+residual cells before relapse. Thiele et al. [13] also
+arranged a simultaneous hybridization of gonosomes and
+disease-markers and assumed that cells carrying the dis-
+ease-marker represent the source for later relapse.
+In 3 samples only disease-marker negative residual cells
+were found. They might represent 1) healthy (benign) leu-
+cocytes, 2) precursor tumor cells which do not yet carry
+the disease-marker, 3) false negative disease-marker posi-
+tive cells, 4) endothelial cells or 5) cells from female
+donors with sons.
+Table 2: Nine patients with disease-marker positive and disease-marker negative residual cells
+patient month
+no. 1 2 3 4 5 6 7 8 9 10 11
+4 U3,0% (2,8%/0%)
+15 U1,7% U1,7% U1,7% U1,7% U1,7% U2,3%
+30 U2,1% 3,5% (1,5%/90%) U0,9% U0,9%
+32 U2,4% U1,7% (0,2%/100%) U2,1% U2,6% U2,2% U2,2% U2,1% U2,2%
+37 (0,2%/100%) U1,2% U1,3% U1,4% 2,5% 39% U1,1% +
+38 (0,4%/25%) U0,9% U0,9% U1,2% U1,1% U0,9% U0,9% U1,2% U0,9%
+39 U2,7% (0,1%/100%) U1,7% (0,2%/50%) U2,6%
+43 (0,8%/100%) (6%/0%) 64% +
+48 U1,7% U1,7% (0,3%/100%) U1,7% U1,7% U1,7% U2,4%
+patient month
+no. 12 13 14 15 16 17 18 19 20 21 22
+4 +
+15 (3,3%/0%) U2,2% U1,7% U1,7% U1,7% U1,7% U1,7% U1,7%
+30 U1,5% U1,5% U1,5% U1,5% U1,4% U1,5% U1,3%
+32 U1,7% U2,2% U2,2% U2,2%
+37
+38 U1,3% U0,9% U1,3% U1,2% U1,2% U1,3% U1,2%
+39 U2,6% U2,5% U2,4% U2,5%
+43
+48 U1,7% U2,2%
+patient
+no. 23 24*/25 26 28 29*/30 32 33 35 38*/39 48
+4
+15 U2,2%* U2,2%* U2,2%
+30 U1,3% U0,9% U0,9% U1,3% +
+32 U0,9%*
+37
+38 U1,1% U1,1% U1,1% U1,1% U1,3% U1,2%*
+39 U2,5% U2,3% U1,7% U2,2%
+43
+48
+UX% = under cut off level of X%, in brakets are samples were simultaneous hybrization of gonosomes and disease-marker probes was applied, first
+percentage = amount of residual cells, second percentage = fraction of disease-marker positive residual cells.
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 9 of 12
+(page number not for citation purposes)
+Table 3: Parameters used for automated scanning
+Parameter/Group Values Description
+Capturing
+Color Channels DAPI SpO/SpA (X) FITC/TRITC (Y)
+Max. Integration Time 1.0 s 0.5 s 0.33 s For capturing images with comparable signal intensities,
+automatic integration time adjustment was used to reach a
+certain saturation level in the images while the maximum
+integration time was limited to 0.5 s (green) and 0.33 s (red)
+for keeping the background level at low intensities for empty
+image fields (e.g. not showing signals).
+Saturation Area 4 μm2 0.7 μm2 1 μm2
+N Focus Planes 1 5 5 Due to the fact that nuclei are not perfectly flattend on the
+glass slide by preparation but show Z dimensions within a
+certain range, the fluorescently labeled chromosomes may be
+randomly localized in the nucleus also in Z direction.
+Distance 0 μm 0.75 μm 0.75 μm To image the FISH spots perfectly focused, for each signal
+channel 5 focus planes are captured with a distance of 0.75 μm
+(this correlates with the depth of field of the objective lens
+used). These focal planes are then combined to an "Extended
+Focus Image" which is used for analysis later.
+CCD Gain 400% A CCD camera gain factor was specified to reduce the
+integration times needed and thereby increase the scanning
+speed. With the value specified the electronic noise in the
+captured images was still negligible.
+Use CS Mask during Capt Yes This parameter was activated to use the counterstain mask for
+integration time adjustment. As bright artifacts within the
+image field would usually interfere with the automatic
+integration time adjustment, using the counterstain mask
+enabled correct adjustment for image fields where such
+artifacts were only present outside the nuclei.
+Image Processing MedianV MedianV An image processing operation was applied to the signal
+channels to reduce the noise level without significantly
+reducing the sharpness of the image by vertical median filtering.
+This filtering was used to remove small "hot spots" of one pixel
+size in the images which appear in CCD camera images after
+long integrations or due to camera pixel defects.
+Cell Selection
+Obj. Threshold 23% An object threshold of 23% in the counterstain channel was
+used to segment the cell nuclei. The value is a percentage based
+on the total contrast range of the captured image.
+Min. Nucleus Area 18 μm2 The minimum/maximum area in μm2 for a single cell nucleus to
+be accepted for analysis was used e.g. to exclude (larger) cell
+clusters.
+Max. Nucleus Area 200 μm2
+Max. Rel. Conc. Depth 0.4 This criterion has been used to discriminate single cells
+(showing a convex contour with only small concave areas)
+from cell clusters (which usually have large concavities). The
+limit is specified relative to the nucleus diameter.
+Max. Aspect Ratio 2.8 This criterion has been used to discriminate the nuclei of
+interest from more elongated objects. It specifies the maximum
+ratio of the nucleus diameters along the long and the short
+principal axis.
+Cell Processing
+CS/R/G SBHistoMax ApplyMask Additional image processing was applied to reduce background/
+exclude image content outside nucleus contour.
+Extend CS Mask 0.5 μm To correctly identify signals on the nucleus edge the
+counterstain mask has been extended by 0.5 μm.
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 10 of 12
+(page number not for citation purposes)
+Conclusion
+Automated chimerism analysis is a robust and sensitive
+method which can be used in routine diagnosis to detect
+residual cells effectively and economically. Simultaneous
+hybridization of gonosomes and disease-marker represent
+a sensitive method to detect disease-marker positive resid-
+ual cells with a very low cut off level. The amount of resid-
+ual cells correlates with survival. There are patients with
+residual cells < 4% without tendency of relapse. The detec-
+tion of disease-marker positive residual cells up to 1.3%
+does not correlate with relapse. Disease-marker positive
+and disease-marker negative residual cells can appear at
+the same time in one sample. The definite origin of dis-
+ease-marker negative residual cells is unclear and should
+be investigated in a large multicenter study.
+Methods
+Controls
+Peripheral blood samples of 21 clinically healthy male
+(11) and female (10) between 6 and 67 years were studied
+as controls.
+Patients
+A total of 28 female and 30 male patients were analyzed
+retrospectively after sex-mismatched stem cell transplan-
+tation which were performed between 1995 and 2006 at
+the University Medical Centre Jena. As shown in Table 1,
+there were 24 acute myloid leukemia (AML), 16 chronic
+myeloid leukemia (CML), 5 acute lymphatic leukemia
+(ALL), 4 multiple myeloma (MM), 3 severe aplastic ane-
+mia (SAA), 2 myelodysplastic syndrome (MDS), and 1
+patient each with Non-Hodgkin lymphoma (NHL),
+chronic lymphatic leukemia (CLL), lymphoma (Lym) and
+osteopetrosis (OP). Conditioning regimens were dose
+reduced in 30 patients or myeloablative in 23 patients
+[44-46] 54 patients underwent peripheral blood stem-cell
+transplantation (PBCST) and the remaining 4 bone mar-
+row transplantation (BMT). The median age of the trans-
+planted patients was 46 years (2–89 years). 12 patients
+showed cytogenetic disease-marker in their malignant
+cells, i.e. a bcr/abl-fusion in nine and a trisomy 8 in three
+patients. Overall, 19 patients died, either due to relapse (n
+= 9), a graft-versus-host-disease (n = 3) or an infection (n
+= 4). In 3 patients the reason of death remained unclear.
+Cytogenetics and molecular cytogenetics including FISH
+analysis
+Standard techniques were used to cultivate leukocytes out
+of venous blood, prepare chromosome-preparations [43],
+and to perform interphase FISH analysis [44]. Commer-
+cially available probes (Abbott, Wiesbaden, Germany) for
+LSI-ES bcr/abl, centromere 8, X and Y were applied.
+Automatic chimerism analysis
+For automated analysis we used an Axioplan 2 Imaging
+microscope (Carl Zeiss Jena, Germany) equiped with
+CCD-camera CV-M1, 1280 × 1024 pixel (Jai Glostrup,
+Denmark) and a motorized stage with 8 slide positions
+(Märzhäuser, Wetzlar, Germany). All components were
+connected to a personal computer (Dell, Langen, Ger-
+many) running the Metafer/MetaCyte-Software from
+MetaSystems (Altlussheim, Germany).
+The evaluation procedure of FISH-slides was as followed:
+8 slides were automatically scanned over night and the
+amount of residual cells was registered. Cells which did
+not have the characteristic signal combination for XX and
+XY were excluded. All detected potential residual cells
+were visually controlled by microscope and each valid cell
+was further examined wether the residual cell carried a dis-
+ease-marker or not. The system allowed repositioning of
+all residual cells in order to visually control the group of
+interest.
+Features/Spot Counting
+Max. Spot Rel. Area 100/1000 15/1000 To differentiate true FISH spots from variations in the
+fluorescence background, an upper limit for the relative area of
+a spot, compared to the whole nucleus (in units of 1/1000) was
+defined, This was mainly of interest for the green channel (Y
+chromosome).
+R (X) SpotCounts (5,27) The number of red FISH spots was determined. Spots were
+accepted (counted) if they had a minimum distance of 0.5 μm
+and a minimum intensity of 27% compared to the brightest
+spot in the same cell.
+Reject if > 2 Cells with more than 2 red spots were automatically rejected.
+G (Y) SpotCounts (14,78) The number of green FISH spots was determined. Spots were
+accepted (counted) if they had a minimum distance of 1.4 μm
+and a minimum intensity of 78% compared to the brightest
+spot in the same cell.
+Reject if > 2 Cells with more than 2 green spots are automatically rejected.
+Reject if No Spots Yes Cells not showing any X signals are automatically rejected.
+Most important parameters for the classifier used for analyzing the patient samples.
+Table 3: Parameters used for automated scanning (Continued)
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 11 of 12
+(page number not for citation purposes)
+Table 3 shows the parameters used for automated scan-
+ning.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+JE carried out the cytogenetic work, was involved in per-
+forming the statistical analysis and conceived the manu-
+script. IH and AH made substantial conclusions and
+performed initial tests. HS performed initial tests. MH
+performed the main part of the statistical analysis with
+help of TK and AG. HGS made substantial contributions
+to acquisition of data and gave final approval of the ver-
+sion to be published. TJ extracted the software parameters
+for Metafer. UC made substantial conclusions to concep-
+tion and design. TL drafted the manuscipt. IFL designed
+the structure and coordinated the study. All authors read
+and approved the final manuscript.
+Acknowledgements
+Supported in parts by MetaSystems and the Stefan-Morsch-Stiftung. MH
+was supported by the German Federal Ministry of Education and Research
+(BMBF) through the Jena Centre for Bioinformatics (JCB) (FKZ 0312704D
+to R. Guthke).
+References
+1. Batzler WU, Giersiepen K, Hentschel S, Husmann G, Kaatsch P, Kata-
+linic A, Kieschke J, Kraywinkel K, Meyer M, Stabenow R, Stegmaier C,
+Bertz J, Haberland J, Wolf U: Cancer in Germany, 2003–2004.
+Incidence and Trends. 6th edition. Robert Koch Institute and
+Association of Population-based Cancer Registries in Germany. Ber-
+lin; 2008.
+2. Barrios M, Jiménez-Velasco A, Róman-Gómez J, Madrigal ME, Cas-
+tillejo JA, Torres A, Heiniger A: Chimerism status is a useful pre-
+dictor of relaps after allogeneic stem cell transplantationfor
+acute leukemia. Haematologica 2003, 88:801-810.
+3. Nakao S, Zeng W, Yamazaki H, Wang H, Takami A, Sugimori N,
+Miura Y, Shiobara S, Matsuda T, Shinagawa Y, Harada M: Early estab-
+lishment of hematopoietic chimerism following allogeneic
+peripheral blood stem cell transplantation in comparison
+with allogeneic bone marrow transplantation. Eur J Haematol
+1999, 62:265-270.
+4. Dubovsky J, Daxberger H, Fritsch G, Printz D, Peters C, Matthes S,
+Gadner H, Lion T: Kinetics of chimerism during the early post-
+transplantat period in pediatric patients with malignant and
+non-malignant hematologic disorders: implications for
+timely detection of engraftment, graft failure and rejection.
+Leukemia. 1999, 13(12):2060-2069.
+5. Mattsson J, Uzunel M, Tammik L, Aschan J, Ringdén O: Leukemia
+lineage-specific chimerism analysis is a sensitive predictor of
+relapse in patients with acute myeloid leukemia and myelo-
+dysplastic syndrome after allogeneic stem cell transplanta-
+tion. Leukemia 2001, 15:1976-1985.
+6. Hancock P, Goulden NJ, Oakhill A, Steward CG: Quantitative anal-
+ysis of chimerism after allogeneic bone marrow transplanta-
+tion using immunomagnetic selection and fluorescent
+microsatellite PCR. Leukemia 2003, 17:247-251.
+7. Jolkowska J, Pieczonka A, Strabel T, Boruczkowski D, Wachowiak J,
+Bader P, Witt M: Hematopoietic chimerism after allogeneic
+stem cell transplantation: a comparison of quantitative anal-
+ysis by automated DNA sizing and fluorescent in situ hybrid-
+ization. BMC Blood Disord 2005, 5:1.
+8. Cilloni D, Guerrasio A, Giugliano E, Scaravaglio P, Volpe G, Rege-
+Cambrin G, Saglio G: From Genes to therapy: the case of Phil-
+adelphia chromosome-positive leukemias. Ann N Y Acad Sci
+2002, 963:306-312.
+9. Gribble SM, Reid AG, Roberts I, Grace C, Green AR, Nacheva EP:
+Genomic Imbalances in CML Blast Crisis: 8q24.12-q24.13
+Segment Identified as a Common Region of Over-Represen-
+tation. Genes Chromosomes Cancer. 2003, 37(4):346-358.
+10. Udamaykura AM, Pathare AV, Al-Kindi S, Khan H, Rehmen JU, Zia f,
+Al-Ghazaly A, Nusrut N, Khan MI, Wali YA, Al-Lamki Z, Dennison D,
+Raeburn JA: Cytogenetic, morphological, and immunopheno-
+typic patterns in Omani patients with de novo acute myeloid
+leukemia. Cancer Genet Cytogenet 2007, 177:89-94.
+11. Nagler A, Slavin S, Yarkoni S, Fejgin M, Amiel A: Detection of min-
+imal residual desease after sex-mismatch bone marrow
+tranplantation in chronic myelogenous leukemia by fluores-
+cence in situ hybridization. Cancer Genet Cytogenet 1994,
+73:130-133.
+12. Tamura S, Saheki K, Takatsuka H, Wada H, Fujimori Y, Okamoto T,
+Takemoto Y, Hashimoto-Tamaoki T, Furuyama J, Kakishita E: Early
+detection of relapse and evaluation of treatment for mixed
+chimerism using fluorescence in situ hybridization following
+allogeneic hematopoietic cell transplant for hematological
+malignancies. Ann Hematol 2000, 79:622-626.
+13. Thiele J, Wickenhauser C, Kvasnicka HM, Varus E, Kleppe S, Beelen
+DW, Schaefer UW: Mixed chimerism of bone marrow CD34+
+progenitor cells (genotyping, bcr/abl analysis) after alloge-
+neic transplantation for chronic myelogenous leukemia.
+Transplantation 2002, 74:982-986.
+14. Führer M, Gerusel-Bleck M, Konstantopoulos N, Bender-Goetze C,
+Walther JU: FISH analysis of native smears from bone marrow
+and blood for the monitoring of chimerism and clonal mark-
+ers after stem cell transplantation in children. Int J Mol Med
+2005, 15:291-297.
+15. McCann SR, Lawler M: Mixed chimaerism; detection and signif-
+icance following BMT. Bone Marrow Transplant 1993, 11:91-94.
+16. Buño I, Anta B, Moreno-Lopéz E, Balsalobre P, Balas A, García-
+Sanchez F, Serrano D, Carrion R, Gómez-Pineda A, Díez-Martín J:
+Lineage-specific chimaerism quantifikation after T-cell
+depleted peripheral blood stem cell transplantation. Leuk
+Lymphoma 2003, 44:659-667.
+17. Bader P, Kreyenberg H, Hölle W, Dückers G, Handgretinger R, Lang
+P, Kremens B, Dilloo D, Sykora KW, Schrappe M, Niemeyer C, Von
+Stackelberg A, Gruhn B, Henze G, Greil J, Niethammer D, Dietz K,
+Beck JF, Klingebiel T: Increasing mixed chimerism is an impor-
+tant prognostic factor for unfavourable outcome in children
+with acute lymphoblastic leukemia after allogeneic stem cell
+tranplantation: possible role for pre-emptive immuno-
+therapy. J Clin Oncol 2004, 22:1696-1705.
+18. Kajtar B, Mehes G, Lörch T, Deak L, Kneifne M, Alpar D, Pajor L:
+Automated fluorescent in situ hybridization (FISH) analysis
+of t(9;22)(q34;q11) in interphase nuclei. Cytometry A 2006,
+69:506-514.
+19. Bader P, Beck J, Frey A, Schlegel PG, Hebarth H, Handgretinger R,
+Einsele H, Niemeyer C, Benda N, Faul C, Kanz L, Niethammer D,
+Klingebiel T: Serial and quantitative analysis of mixed hemat-
+opoietic chimerism by PCR in patients with acute leukemias
+allows the prediction of relapse after allogeneic BMT. Bone
+Marrow Transplant 1998, 21:487-495.
+20. Dewald GW, Schad CR, Christensen ER, Law ME, Zinsmeister AL,
+Stalboerger PG, Jalal SM, Ash RC, Jenkins RB: Fluorescence in situ
+hybridization with X and Y chromosome probes for cytoge-
+netic studies on bone marrow cells after opposite sex trans-
+plantation. Bone Marrow. Bone Marrow Transplant. 1993,
+12(2):149-154.
+21. Buño I, Nava P, Simon A, González-Rivera M, Jiménez JL, Balsalobre
+P, Serrano D, Carrión R, Gómez-Pineda A, Díez-Martín J: A compar-
+ison of fluorescent in situ hybridization and multiplex short
+tandem repeat polymerase chain reaction for quantifying
+chimerism after stem cell tranplantation. Haematologica. 2005,
+90(10):1373-1379.
+22. Serrano J, Román J, Sánchez J, Jiménez A, Castillejo JA, Herrera C,
+Gonzalez MG, Reina L, Rodriguez MC, Alvarez MA, Maldonado J,
+torres A: Molecular analysis of lineage-specific chimerism and
+minimla residual desease by RT-PCR of p210BCR-ABL and
+p190BCR-ABL after allogeneic bone marrow transplanta-
+tion for chronoc myeloid leukaemia: increasing mixed chi-
+merism and p190 (BCR-ABL) detection precede cytogenetic
+relaps. Blood 2000, 15:2659-2665.
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+Molecular Cytogenetics 2009, 2:12 http://www.molecularcytogenetics.org/content/2/1/12
+Page 12 of 12
+(page number not for citation purposes)
+23. Trakthenbrot L, Reichart M, Shimoni A: Chimerism testing and
+detection of minimal residual disease after allogeneic
+hematopietic transplantation using the DuetTM (BioView)
+combined morphological and cytogenetical analysis. Leuke-
+mia 2002, 16:1419-1422.
+24. Bianchi DW, Zickwolf GK, Weil GJ, Sylvester S, DeMaria MA: Male
+fetal progenitor cells persist in maternal blood for as long as
+27 years postpartum. Proc Natl Acad Sci USA 1996, 93:705-708.
+25. Adams KM, Lambert NC, Heimfeld S, Tylee TS, Pang JM, Erickson TD,
+Nelson JL: Male DNA in female donor apharesis and CD34-
+enriched products. Blood 2003, 102:3845-3847.
+26. Jenkins RB, Le Beau MM, Kraker WJ, Borell TJ, Stalboerger PG, Davis
+EM, Penland L, Fernald A, Espinosa R 3rd, Schaid DJ, et al.: Fluores-
+cence in situ hybridization: a sensitive method for trisomy 8
+detection in bone marrow specimens. Blood 1992,
+79:3307-3315.
+27. Cuneo A, Bigoni R, Roberti MG, Bardi A, Rigolin GM, Piva N, Mancini
+M, Nanni M, Alimena G, Mecucci C, Matteucci C, La Starza R, Bernas-
+coni P, Cavigliano P, Genini E, Zaccaria A, Testoni N, Carboni C, Cas-
+toldi G: Detection and monitoring of trisomy 8 by
+fluorescence in situ hybridization in acute myeloid leukemia:
+a multicentric study. Haematologica 1998, 83:21-26.
+28. Amiel A, Yarkoni S, Slavin S, Or R, Lorberboum-Galski H, Fejgin M,
+Nagler A: Detection of minimal residual disease state in
+chronic myelogenous leukemia patients using fluorescence
+in situ hybridization. Cancer Genet Cytogenetb 1994, 76:59-64.
+29. Berg D Van den, Wessman M, Murray L, Tong J, Chen B, Chen S,
+Simonetti D, King J, Yamasaki G, DiGiusto R, Gearing D, Reading C:
+Leukemic burden in subpopulations of CD34+ cells isolated
+from the mobilized peripheral blood of alpha-interferon-
+resistant or -intolerant patients with chronic myeloid leuke-
+mia. Blood 1996, 87:4348-4357.
+30. Mühlmann J, Thaler J, Hilbe W, Bechter O, Erdel M, Utermann G,
+Duba HC: Fluorescence in situ hybridization (FISH) on
+peripheral blood smears for monitoring Philadelphia chro-
+mosome-positive chronic myeloid leukemia (CML) during
+interferon trteatment: a new strategiy for remission assess-
+ment. Genes Chromosomes Cancer 1998, 21:90-100.
+31. Chase A, Grand F, Zhang JG, Blackett N, Goldman J, Gordon M: Fac-
+tors influencing the false positive and negative rates of BCR-
+ABL fluorescence in situ hybridization. Genes Chromosomes
+Cancer 1997, 18:246-253.
+32. Tanaka K, Arif M, Eguchi M, Kumaravel TS, Ueda R, Ohno R, Iwato K,
+Kyo T, Dohy H, Kamada N: Application of fluorescence in situ
+hybridization to detect residual leukemic cells with 9;22 and
+15;17 translocations. Leukemia 1997, 11:436-440.
+33. Rieder H, Bonwetsch C, Janssen LA, Maurer J, Janssen JW, Schwartz
+S, Ludwig WD, Gassmann W, Bartram CR, Thiel E, Löffler H, Gök-
+buget N, Hoelzer D, Fonatsch C: High rate of chromosome
+abnormalities detected by fluorescence in situ hybridization
+using BCR and ABL probes in adult acute lymphoblastic
+leukemia. Leukemia 1998, 12:1473-1481.
+34. Cohen N, Novikov I, Hardan I, Esa A, Brok-Simoni F, Amariglio N,
+Rechavi G, Ben-Bassat I, Trakhtenbrot L: Standardization criteria
+for the detection of BCR/ABL fusion in interphase nuclei of
+chronic myelogenous leukemia patients by fluorescence in
+situ hybridization. Cancer Genet Cytogenet 2000, 123:102-108.
+35. Kowalczyk JR, Gaworczyk A, Winnicka D, Lejman M, Babicz M: Flu-
+orescence in situ hybridization BCR/ABL fusion signal rate in
+interphase nuclei of healthy volunteer donors: a test study
+for establishing false positive rate. Cancer Genet Cytogenet 2003,
+142:51-55.
+36. Carothers AD: Counting, measuring, and mapping in FISH-
+labelled cells: sample size considerations and implications
+for automation. Cytometry 1994, 16:298-304.
+37. Palka G, Stuppia L, Di Bartolomeo P, Morizio E, Peila R, Franchi PG,
+Calarese G: FISH detection of mixed chimerism in 33 patients
+submitted to bone marrow transplantation. Bone Marrow
+Transplant 1996, 17:231-236.
+38. Bader P, Stoll K, Huber S, Geiselhart A, Handgretinger R, Niemeyer
+C, Einsele H, Schlegel PG, Niethammer D, Beck J, Klingebiel T: Char-
+acterization of lineage-specific chimaerism in patients with
+acute leukemia and myelodysplastic syndrome after alloge-
+neic stem cell transplantation before and after relapse. Br J
+Haematol 2000, 108:761-768.
+39. Uzunel M, Jaksch M, Matisson J, Ringdén O: Minimal residual
+desease detection after allogeneic stem cell transplantation
+is correlatet to relapse in patients with acute lymphoblastic
+leukemia. Br J Haematol 2003, 122:788-794.
+40. Schattenberg A, de Witte T, Salden M, Vet J, Van Dijk B, Smeets D,
+Hoogenhout J, Haanen C: Mixed hematopoietic chimerism
+after allogeneic transplantation with lymphocyte-depletet
+bone marrow is not associatet with a higher incidence of
+relapse. Blood 1989, 73:1367-1372.
+41. Schaap N, Schattenberg A, Mensink E, Preijers F, Hillegers F, Knops
+R, Pennings A, Boezeman J, Geurts van Kessel A, de Pauw B, de Witte
+T: Long-term follow-up of persisting mixed chimerism after
+partially T cell-depleted allogeneic stem cell transplantation.
+Leukemia 2002, 16:13-21.
+42. Shimoni A, Nagler A, Kaplinsky C, Reichart M, Avigdor A, Hardan I,
+Yeshurun M, Daniely M, Zilberstein Y, Amariglio N, Brok-Simoni F,
+Rechavi G, Trakhtenbrot L: Chimerism testing and detection of
+minimal residual disease after allogeneic hematopoietic
+transplantation using the bioView (Duet) combined mor-
+phological and cytogenetical analysis. Leukemia 2002,
+16:1413-1422.
+43. Verma RS, Babu A: Human chromosomes: principles and tech-
+niques. 2nd edition. McGraw-Hill, New York; 1994.
+44. Pinkel D, Straume T, Gray JW: Cytogenetic analysis using quan-
+titative, high-sensitivity, fluorescence hybridization. Proc Natl
+Acad Sci USA 1989, 83:2934-2938.
+45. Kröger N, Bornhäuser M, Ehinger G, Schwerdtfeger R, Biersack H,
+Sayer HG, Wandt H, Schäfer-Eckhardt K, Beyer J, Kiehl M, Zander
+AR, German Cooperative Transplant Study Group: Allogenic stem
+cell transplantation after a fludarabine/busulfan-based
+reduced-intensity conditioning in patients with myelodys-
+plastic syndrome or secondary acute myeloid leukemia. Ann
+Hematol 2003, 82:336-342.
+46. Craddock CF: Full-intensity and reduced intensity allogeneic
+stem cell transplantation in AML. Bone Marrow Transplant 2008,
+41:415-423.
+

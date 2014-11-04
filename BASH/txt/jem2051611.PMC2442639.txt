@@ -1,0 +1,677 @@
+TheJournalofExperimentalMedicine
+ARTICLE
+© 2008 Tang et al.
+The Rockefeller University Press $30.00
+J. Exp. Med. Vol. 205 No. 7 1611-1619 www.jem.org/cgi/doi/10.1084/jem.20080297
+1611
+A proper level of apoptosis is required for the
+maintenance of normal hematopoietic homeo-
+stasis by removing aged or abnormal cells. The
+balance between proapoptotic and antiapop-
+totic mechanisms is tightly controlled in hema-
+topoietic cells, including hematopoietic stem
+cells (HSCs) and progenitor cells (HSC/Ps) by
+intrinsic signals that are subject to regulation by
+signals emanating from the BM microenviron-
+ment (1–3). Hematopoietic cytokines such as
+stem cell factor, IL-3, and thrombopoietin pro-
+vide a survival signal for hematopoietic cells (4, 5)
+by inducing the activation of PI3K/AKT (6)
+and NF-␬B (7) signaling, and by up-regulating
+antiapoptotic genes, such as members of the
+Bcl2 family (1–3). Proinflammatory cytokines,
+including TNF-␣ (8) and IL-1␤ (9), as well as
+Fas ligand (10), all mediate dual signals for
+HSC/P functions. A negative signal induces
+programmed cell death and/or differentiation,
+whereas a positive signal promotes proliferation
+and survival. Disruption of this balance will re-
+sult in hematopoietic disorders, including BM
+failure and leukemia (1–3).
+TGF-␤–activated kinase 1 (TAK1) is a key
+mediator of stress and proinflammatory signals
+(11). The proinflammatory cytokines induce
+both proapoptotic and antiapoptotic signals
+in their target cells. TAK1 mediates the pro-
+survival signal of the proinflammatory cytokines
+by inducing the nuclear localization of NF-␬B
+and the activation of c-Jun N-terminal kinases
+(JNKs)/AP1 (11), whereas the proapoptotic sig-
+nal is mediated by the activation of the caspase
+cascade (12). Studies have demonstrated that
+TAK1-transduced signals from TCRs and B cell
+receptors, as well as antigen stimulation, play
+a role in T and B cell activation and survival,
+T regulatory cell development, and B cell–
+mediated innate immunity (13–16). The role of
+CORRESPONDENCE
+J. Zhang:
+jzhang@lumc.edu
+Abbreviations used: APC, al-
+lophycocyanin; CP, committed
+hematopoietic progenitor; Hb,
+hemoglobin; HSC, hematopoi-
+etic stem cell; HSC/P, HSC
+and progenitor cell; JNK, c-Jun
+N-terminal kinase; LK,
+lineageϪSca1Ϫc-kit+ cell; LSK,
+lineageϪSca1+c-kit+ cell; plt,
+platelet number; polyI:C, poly-
+inosinic:polycytidylic acid;
+TAK1, TGF-␤–activated kinase 1;
+TNC, total nucleated cell num-
+ber; TUNEL, terminal deoxy-
+nucleotidyltransferase-mediated
+UTP end-labeling; WBC, white
+blood cell.
+M. Tang, X. Wei, and Y. Guo contributed equally
+to this paper.
+X. Wei’s present address is Henan Tumor Hospital, 127
+Dongming Road, Zhengzhou 450008, China.
+Y. Guo’s present address is Dept. of Respiratory and Molec-
+ular Biology, Renji Hospital, Shanghai Jiaotong University
+School of Medicine, Shanghai 200127, China.
+The online version of this article contains supplemental material.
+TAK1 is required for the survival of
+hematopoietic cells and hepatocytes in mice
+Minghui Tang,1 Xudong Wei,1 Yinshi Guo,1 Peter Breslin,1,3 Shubin Zhang,1
+Shanshan Zhang,1 Wei Wei,1 Zhenbiao Xia,1 Manuel Diaz,1 Shizuo Akira,4
+and Jiwang Zhang1,2
+1Oncology Institute, Cardinal Bernardin Cancer Center, and 2Pathology Department, Loyola University Medical Center,
+Maywood, IL 60153
+3Department of Biology, Loyola University Chicago, Chicago, IL 60626
+4Department of Host Defense and Exploratory Research for Advanced Technology (ERATO), Japan Science and Technology
+Agency, Research Institute for Microbial Diseases, Osaka University, Osaka 565-0871, Japan
+Transforming growth factor ␤–activated kinase 1 (TAK1), a member of the MAPKKK fam-
+ily, is a key mediator of proinflammatory and stress signals. Activation of TAK1 by proin-
+flammatory cytokines and T and B cell receptors induces the nuclear localization of nuclear
+factor ␬B (NF-␬B) and the activation of c-Jun N-terminal kinase (JNK)/AP1 and P38,
+which play important roles in mediating inflammation, immune responses, T and B cell
+activation, and epithelial cell survival. Here, we report that TAK1 is critical for the survival
+of both hematopoietic cells and hepatocytes. Deletion of TAK1 results in bone marrow (BM)
+and liver failure in mice due to the massive apoptotic death of hematopoietic cells and
+hepatocytes. Hematopoietic stem cells and progenitors were among those hematopoietic
+cells affected by TAK1 deletion–induced cell death. This apoptotic cell death is autono-
+mous, as demonstrated by reciprocal BM transplantation. Deletion of TAK1 resulted in the
+inactivation of both JNK and NF-␬B signaling, as well as the down-regulation of expression
+of prosurvival genes.
+1612 TAK1 IN HEMATOPOIETIC AND HEPATIC CELLS | Tang et al.
+RESULTS
+TAK1 expression and activity in hematopoietic cells
+To study whether TAK1 is involved in normal hematopoie-
+sis, we first examined whether TAK1 is expressed in hemato-
+poietic cells by using quantitative RT-PCR assays. TAK1
+knockout BM cells were used as a negative control. We
+found that TAK1 RNA is expressed in all lineages of
+hematopoietic cells, including HSCs (lineageϪSca1+c-kit+
+cells [LSKs]), committed hematopoietic progenitors (CPs)
+(lineageϪSca1Ϫc-kit+ cells [LKs]), mature myeloid cells
+(Gr1+), B cells (B220+), B cell progenitors (B220+c-kit+),
+nucleated erythroid cells (Ter119+), and T cells (CD3+). Its
+level of expression is also increased in progenitors including
+CPs and B cell progenitors (Fig. 1 I). Furthermore, by using
+a flow cytometry–based intracellular protein detection assay,
+we found that the expression of TAK1 protein in c-kit+
+HSC/Ps (including HSCs and CPs) and Gr1+ myeloid cells
+was higher than that in B220+ B cells (Fig. 1, A–C); yet,
+TAK1 activity (indicated by p-TAK1 levels) (20) is higher in
+TAK1 in hematopoiesis is still not fully understood. Although
+previous studies suggested that proinflammatory cytokines
+might play a negative role in hematopoiesis and contribute
+to some of the BM failure syndromes (17, 18), recent stud-
+ies demonstrate that HSC/Ps are resistant to proinflammatory
+and stress signal–induced apoptosis (10, 19). We propose that
+TAK1 is expressed and activated in hematopoietic cells, in-
+cluding HSC/Ps, thus protecting them from apoptosis.
+The TAK1-null phenotype is lethal early in embryonic
+development (11, 13), impeding exploration of the role of
+TAK1 in adult hematopoiesis. To investigate whether TAK1
+plays a role in the regulation of normal hematopoietic homeo-
+stasis, we generated inducible TAK1 knockout mice. We found
+that inducing the deletion of TAK1 in adult mice results in BM
+and liver failure due to massive cell-autonomous apoptotic
+death of hematopoietic cells, including HSC/Ps, and hepato-
+cytes. Further study demonstrated that TAK1 mediates the sur-
+vival signal in HSC/Ps via activation of JNK/AP1 and NF-␬B
+signal pathways and up-regulation of survival gene expression.
+Figure 1. TAK1 is expressed and activated in hematopoietic cells, including HSC/Ps. BM cells were collected into lyse/fix buffer immediately after
+the mice were killed to fix the BM cells and lyse the RBCs simultaneously. BM-nucleated cells were washed three times with PBS containing 5% FBS to
+completely remove all traces of the lyse/fix buffer. The cells were stained with cell surface markers as indicated and then permeabilized using permeabili-
+zation buffer for TAK1 and p-TAK1 staining. (A–C) High level of TAK1 protein expression in c-kit+ hematopoietic cells and Gr1+ myeloid cells, but low ex-
+pression in B220+ B cells. (D–F) TAK activity (shown here by p-TAK1 levels) is higher in c-kit+ hematopoietic cells (including B220+c-kit+ B cell progenitors,
+red arrow in F). (G and H) No obvious difference in TAK1 expression in LSK-HSC/Ps and LK-CPs, but increased TAK1 activity in LK-CPs compared with LSK-
+HSC/Ps. (I) TAK1 is expressed in all lineages of hematopoietic cells, including HSC/Ps, as shown by quantitative RT-PCR. BM cells from TAK1 knockout mice
+(4 d after mutation induction) were used as negative controls. Compared with differentiated cells, including Gr1+ myeloid cells, B220+ B cells, Ter119+-
+nucleated erythoid cells, and CD3+ T cells, TAK1 RNA expression was significantly higher in LK-CPs and B cell progenitors (B220+c-kit+). Both * and **
+are P < 0.01. *, compared with TAK1Ϫ/Ϫ BM cells; **, compared with mature hematopoietic cells, including Gr1+, B220+, and CD3+ cells.
+JEM VOL. 205, July 7, 2008
+ARTICLE
+1613
+by Cre-mediated recombination. Mx1Cre mice are an inter-
+feron-inducible Cre mouse line in which Cre expression can
+be induced at any time after birth by injecting the mice with
+the interferon inducer polyinosinic:polycytidylic acid (polyI:
+C) (21). Mx1Cre-mediated recombination of loxp sites is
+very efficient in hematopoietic cells from the BM, spleen,
+and thymus, including HSC/Ps as well as liver cells (21).
+By proper mating, we generated TAK1Ϫ/Ϫ, heterozygous
+(Mx1Cre+TAK1fx/+, TAK1+/Ϫ hereafter), and WT control
+mice (Mx1CreϪTAK1fx/fx or Mx1CreϪTAK1fx/+, WT hereaf-
+ter) in the same litter. Therefore, all of the TAK1Ϫ/Ϫ mice
+analyzed had both TAK1+/Ϫ and WT littermate controls. At
+6–8 wk of age, the mice (including TAK1+/Ϫ and WT con-
+trols) were injected with polyI:C either once or three times
+(once every other day) to induce the TAK1 deletion. To
+control for the possibility that polyI:C injection itself might
+c-kit+ HSC/Ps than in differentiated Gr1+ myeloid cells and
+B220+ B lymphocytes (Fig. 1, D–F). We further separated
+HSCs and CPs by sca1 and c-kit staining followed by lineage
+depletion and found that, although TAK1 protein levels were
+comparable in HSCs and CPs, p-TAK1 levels were higher in
+CPs than in HSCs (Fig. 1, G and H). Interestingly, we also
+found that among B220+ cells, B cell progenitors displayed
+higher levels of TAK1 activity (Fig. 1 F).
+Generation of inducible TAK1؊/؊ mice
+To study whether TAK1 plays a role in hematopoiesis, we
+generated inducible TAK1 knockout mice (Mx1Cre+TAK1fx/fx,
+TAK1Ϫ/Ϫ hereafter) by crossing TAK1fx/fx mice with
+Mx1Cre mice. The second exon of the TAK1 gene (which
+encodes the enzyme’s catalytic domain) is flanked with two
+loxp sites in the TAK1fx/fx mice (13) and thus can be deleted
+Figure 2. Hepatocyte apoptosis and liver failure in TAK1؊/؊ mice. TAK1Ϫ/Ϫ mice were killed on day 8 after the first polyI:C injection. (A) Both jaun-
+dice and ascites were observed in TAK1Ϫ/Ϫ mice. Livers of the TAK1Ϫ/Ϫ mice were pale and jaundiced (left specimen, arrowhead) compared with TAK1+/Ϫ
+control (right specimen, arrow). Nuclear condensation due to apoptosis was observed in >30–50% of hepatocytes of TAK1Ϫ/Ϫ mice as shown by hema-
+toxylin and eosin staining of liver sections (B), which is confirmed by TUNEL staining (D). Liver sections from TAK1+/Ϫ mice were used as controls.
+(C and E) Bars, 100 μm.
+1614 TAK1 IN HEMATOPOIETIC AND HEPATIC CELLS | Tang et al.
+notion, we observed that the TAK1Ϫ/Ϫ recipient mice that
+received normal BM did not show any signs of bleeding but
+did show evidence of significant hepatocyte apoptosis (not
+depicted). These mice also died 8–10 d after their first polyI:C
+injection. This also suggests that the bleeding observed in the
+TAK1Ϫ/Ϫ mice was not due to the liver defects and was not
+the cause of mortality.
+BM failure in TAK1 knockout mice due to the apoptotic
+loss of hematopoietic cells
+To investigate whether TAK1 deletion affects hematopoiesis,
+we first examined white blood cell (WBC) counts, platelet
+number (plt), RBC counts, and hemoglobin (Hb) concentra-
+tions at 8 d after the first polyI:C injection. We found that
+both WBCs and plt were significantly reduced in the
+TAK1Ϫ/Ϫ mice (Fig. 3, A and B). We believe that the de-
+crease in plt counts was the reason for the bleeding seen in
+multiple organs in the TAK1Ϫ/Ϫ mice because their plt counts
+were <200 × 109/ml. Human patients showing such severe
+thrombocytopenia typically present with severe bleeding.
+However, RBCs and Hb were slightly lower in TAK1Ϫ/Ϫ
+than in WT and TAK1+/Ϫ controls (not depicted). These
+data suggest that TAK1Ϫ/Ϫ results in a pancytopenic effect.
+affect hematopoiesis, at least one mouse in each litter was
+maintained without injection and served as noninjected con-
+trol. All mice were checked daily for phenotypic changes.
+Liver failure in inducible TAK1 knockout mice
+due to increased hepatocyte apoptosis
+We found that all the TAK1Ϫ/Ϫ mice died within 8–10 d af-
+ter the first polyI:C injection, regardless of whether they
+were injected once or three times; however, the TAK1+/Ϫ
+mice showed no significant defects. By careful dissection of
+the mice, we found that all of the TAK1Ϫ/Ϫ mice had both
+jaundice and ascites (Fig. 2 A). The livers of the knockout
+mice were relatively smaller and stiff, and they appeared a
+pale, jaundiced color. Destruction of normal liver histological
+structure was evident upon microscopic analysis. The nuclei
+of >30–50% of the hepatocytes were condensed because of
+apoptosis, which was demonstrated by terminal deoxynucle-
+otidyltransferase-mediated UTP end-labeling (TUNEL)
+staining (Fig. 2, B–E). Although, >30% of the mice showed
+intestinal, urinary bladder, and/or gallbladder hemorrhaging
+(not depicted), we believe that acute liver failure, as a conse-
+quence of massive hepatocyte apoptosis, was the major cause
+of mortality among the TAK1Ϫ/Ϫ mice. In support of this
+Figure 3. Pancytopenia and BM failure in TAK1؊/؊ mice. Peripheral blood, BM, spleens, and thymuses were collected on day 8 after the first polyI:C
+injection. WBC count (A), plt in peripheral blood (B), and nucleated cell number in the BM (C), spleen (D), and thymus (E) were measured in TAK1Ϫ/Ϫ,
+TAK1+/Ϫ, and WT mice, as well as in noninjected control mice. BM sections from TAK1+/Ϫ (F) and TAK1Ϫ/Ϫ (G) mice at day 8 after the first polyI:C injection
+were stained with hematoxylin and eosin. BM sections from TAK1+/Ϫ (H) and TAK1Ϫ/Ϫ (I) mice at day 4 after the first polyI:C injection were stained with
+TUNEL to display the apoptotic cells (indicated by red color staining). Bars, 100 μm. *, P < 0.05; **, P < 0.01.
+JEM VOL. 205, July 7, 2008
+ARTICLE
+1615
+mus, which was 1/20 to 1/100 of the number of TNCs ob-
+tained from each control mouse thymus.
+Histological sectioning showed that BM from TAK1Ϫ/Ϫ
+mice was hypocellular and BM structure was destroyed, simi-
+lar to the myelodepletion phenotype seen in mice after high-
+dose chemotherapy or irradiation (Fig. 3, E and G). These
+data suggest that the TAK1Ϫ/Ϫ mice had BM failure. In situ
+TUNEL staining demonstrated that the BM failure of the
+TAK1Ϫ/Ϫ mice was due to the massive apoptotic death of
+hematopoietic cells (Fig. 3 I).
+Because no significant difference was observed between
+TAK+/Ϫ and WT mice, and similar to TAK1Ϫ/Ϫ mice,
+TAK1+/Ϫ mice also express Cre after polyI:C injection, we
+considered TAK1+/Ϫ mice to be better controls than WT
+mice. Therefore we used TAK1+/Ϫ mice as controls in most
+of our subsequent studies.
+HSC/Ps are among those hematopoietic cells affected
+by TAK1 deletion–induced apoptosis in TAK1؊/؊ mice
+To investigate whether HSC/Ps were affected in TAK1Ϫ/Ϫ
+mice, we first examined HSC/P numbers by cell surface
+marker staining and flow cytometric analysis. We found that
+both LSK-HSCs and LK-CPs were significantly reduced in
+TAK1Ϫ/Ϫ mice (Fig. 4, A–D). The obvious reduction in
+HSCs and CPs could be observed at day 4 after the first dose
+of polyI:C injection (Fig. 4 B). There were almost no HSCs
+nor CPs detectable at day 8. The reduction in HSC/Ps in
+TAK1Ϫ/Ϫ mice was confirmed by CFU assay (Fig. 4 E). We
+found that the CFU number (counted at day 12 after seeding,
+which reflects the number of functional HSC/Ps) was signifi-
+cantly reduced in TAK1Ϫ/Ϫ BM. Upon further analysis using
+annexin V staining, we found a three- to fivefold increase in
+apoptosis (shown as annexin V+) in the c-kit+ population
+(consisting of HSCs and CPs) from TAK1Ϫ/Ϫ mice compared
+To study whether the pancytopenia in TAK1Ϫ/Ϫ mice
+was due to BM hematopoietic defects, we collected BM,
+spleens, and thymuses from TAK1Ϫ/Ϫ and control mice at
+day 8 after the first polyI:C injection. The total nucleated
+cell number (TNC) of BM, spleens, and thymuses were ana-
+lyzed. We found that the TNC of BM, spleens, and thymuses
+was significantly decreased in TAK1Ϫ/Ϫ mice compared with
+TAK1+/Ϫ and WT control mice, as well as noninjected
+control mice (Fig. 3, C–E, and Fig. S1, which is available at
+http://www.jem.org/cgi/content/full/jem.20080297/DC1).
+Although the TNCs in the BM, spleens, and thymuses in
+the polyI:C-injected groups were more diverse from mouse
+to mouse, shown by the relatively larger standard deviations,
+no significant differences were observed between TAK1+/Ϫ
+and WT, the latter being comparable to noninjected con-
+trol mice. This indicates that heterozygous TAK1 deletion
+did not affect hematopoiesis in the mice. It also suggests that
+polyI:C injection itself likely contributes negligibly to the
+phenotypes we observed in the TAK1Ϫ/Ϫ mice. This notion
+was supported by cell surface staining and flow cytometric
+analysis. We found that there were no significant differences
+among TAK1+/Ϫ, WT, and noninjected control mice in the
+percentage of myeloid cells and T and B lymphocytes in
+all hematopoietic tissues examined including the peripheral
+blood, BM, and spleen. However, in TAK1Ϫ/Ϫ mice, sig-
+nificant increases in T cell percentage were consistently ob-
+served in the peripheral blood, BM, and spleen (the absolute
+T cell number in all these tissues was still dramatically lower
+than controls; Fig. S2, available at http://www.jem.org/cgi/
+content/full/jem.20080297/DC1). We believe that the in-
+crease in T cell percentage in the TAK1Ϫ/Ϫ mice has noth-
+ing to do with thymic T cell production because the thymus
+gland in TAK1Ϫ/Ϫ mice was very small. Only 1–4 × 106
+TNCs could be obtained from each TAK1Ϫ/Ϫ mouse thy-
+Figure 4. HSC/Ps are affected by TAK1 deletion–induced apoptotic cell death in TAK1؊/؊ mice. BM was collected from TAK1+/Ϫ and TAK1Ϫ/Ϫ
+mice on days 4, 6, and 8 after the first polyI:C injection. After lysis of RBCs, BM-nucleated cells were stained with cell surface markers and analyzed by
+flow cytometry for HSCs and CPs. Progressive loss of HSCs and CPs in TAK1Ϫ/Ϫ mouse BM is shown by lineage marker and Sca1 c-kit staining (B–D).
+Day 8 TAK1+/Ϫ BM cells were used as a control (A). (E) Progressive reduction of colony-forming ability of TAK1Ϫ/Ϫ BM cells after TAK1 deletion. (F) BM
+cells were collected from TAK1Ϫ/Ϫ and TAK1+/Ϫ mice 16 h after a single polyI:C injection, and apoptosis was checked by annexin V staining. *, P < 0.05;
+**, P < 0.01.
+1616 TAK1 IN HEMATOPOIETIC AND HEPATIC CELLS | Tang et al.
+the recipients were given three polyI:C injections, once ev-
+ery other day, and the livers, peripheral blood, spleens, and
+BM were harvested for analysis on day 8 after the last injec-
+tion. We found significant apoptosis of hepatocytes in all
+TAK1Ϫ/Ϫ recipients (not depicted). However, the normal
+BM hematopoiesis in TAK1Ϫ/Ϫ recipients suggested that the
+TAK1 deletion BM microenvironment has a normalizing
+hematopoietic supportive function (Fig. 5, C and D). Con-
+sistent with this observation, we found that plt counts and Hb
+concentrations in the TAK1Ϫ/Ϫ recipients were comparable
+to those of the TAK1+/Ϫ recipients (Fig. 5, E–H). Further-
+more, we found that the livers of the TAK1Ϫ/Ϫ recipients
+that had received WT BM had obvious myeloid cell infiltra-
+tion (not depicted). The WBC counts, neutrophil percent-
+ages, and neutrophil/lymphocyte ratios were significantly
+increased in the TAK1Ϫ/Ϫ recipients compared with the
+TAK1+/Ϫ recipients (Fig. 5 E and not depicted). We believe
+that the increase in WBC counts and neutrophils as well as
+the myeloid infiltration of liver tissue in the TAK1Ϫ/Ϫ recip-
+ients were due to inflammatory reactions induced by hepato-
+cyte apoptosis.
+DISCUSSION
+TAK1 was originally identified as a key regulator of TGF-␤/
+bone morphogenic protein signals (23). It is known to play
+an important role in early embryonic development (13).
+TAK1-null mice die at embryonic day 11.5 with significant
+with control mice at 16 h after a single polyI:C injection.
+Upon further analysis by separating HSCs from CPs within
+the c-kit+ population, we found apoptosis among both of
+these cell types to be significantly increased (Fig. 4 F) com-
+pared with such cells taken from control mice.
+Hematopoietic cells of TAK1؊/؊ mice show intrinsic defects
+Previously, we have found that Mx1Cre can mediate gene
+deletion in both hematopoietic and BM stromal cells (22).
+To address whether the defects of hematopoietic cells in
+TAK1Ϫ/Ϫ mice were intrinsic to the cells, reciprocal BM
+transplantations were performed. We transplanted TAK1Ϫ/Ϫ
+BM cells (before deletion was induced) into lethally irradi-
+ated syngeneic WT recipients. Because in these mice the BM
+microenvironment is normal, we were able to test the func-
+tion of TAK1Ϫ/Ϫ hematopoietic cells within this normal BM
+microenvironment. 1 mo after transplantation, the recipients
+received polyI:C injections every other day for a total of
+three injections and were killed for analysis on day 8 after the
+first injection. We found pancytopenia and BM failure in
+the recipients that had received the TAK1Ϫ/Ϫ BM; however, the
+TAK1+/Ϫ BM recipients were normal (Fig. 5, A, B, and E–H).
+This suggests that the hematopoietic cells from TAK1Ϫ/Ϫ
+mice have cell-intrinsic defects that prohibit their survival in
+a normal BM microenvironment. We also transplanted BM
+from WT mice into the lethally irradiated TAK1Ϫ/Ϫ recipi-
+ents (before deletion induction). 1 mo after transplantation,
+Figure 5. Cell-autonomous defects of TAK1؊/؊ HSC/Ps. Reciprocal transplantation assay was performed by transplantation of TAK1Ϫ/Ϫ BM (before
+mutation was induced) into lethally irradiated WT mice (A) and, reciprocally, WT BM into lethally irradiated TAK1Ϫ/Ϫ mice (before mutation was induced; C).
+TAK1 deletion was induced 1 mo after transplantation by injecting the recipient mice with polyI:C every other day for a total of three injections. TAK1+/Ϫ
+mice were used as respective controls in this experiment (B and D). On day 8 after the first polyI:C injection, recipient mice were killed for analysis. BM
+sections from the recipients showed that TAK1Ϫ/Ϫ HSC/Ps failed to grow in the WT BM environment (A), whereas the TAK1Ϫ/Ϫ BM microenvironment was
+able to support the growth of WT HSC/Ps (C). (E–H) Significant reduction of WBC counts and plt in peripheral blood, and nucleated cells in the BM and
+spleen in WT recipients that received TAK1Ϫ/Ϫ BM. (E) Obvious increase in WBC counts in TAK1Ϫ/Ϫ recipients that received WT BM. (I and J) Equal numbers
+of TAK1Ϫ/Ϫ BM cells (CD45.2+, before mutation was induced) were mixed with WT (CD45.1+) BM cells and transplanted into lethally irradiated WT
+(CD45.1+) recipients. 6 wk after transplantation, TAK1 mutation was induced by injecting the recipient mice with polyI:C every other day for a total of
+three injections. TAK1+/Ϫ BM cells were transplanted in parallel as a control. The contribution of the TAK1Ϫ/Ϫ BM HSC/Ps to hematopoiesis in the recipient
+mice (shown as CD45.2+ percentage in peripheral blood) was significantly lower than that of control BM HSC/Ps. Data shown in I and J were analyzed on
+day 15 after the first polyI:C injection. *, P < 0.05; **, P < 0.01.
+JEM VOL. 205, July 7, 2008
+ARTICLE
+1617
+Studies using tissue-specific TAK1 knockout mice have
+demonstrated that TAK1, mediating B cell receptor signaling
+and antigen responses in B cells and TCR signaling in T cells,
+is essential for B cell–mediated innate immunity and both
+peripheral T cell and T-regular cell activation, survival, and
+function (13–16). However, in these knockout mice, signifi-
+cant reductions of nucleated cells in the thymus and of B cells
+in the BM and spleen were not observed (13–16). In our in-
+ducible TAK1Ϫ/Ϫ mice, we found significant reductions in
+the numbers of all lineages of hematopoietic cells, including
+myeloid cells and B cells and T cells in the spleen and BM.
+We also found a dramatic reduction in thymus size due to
+decreased numbers of thymocytes (Fig. 3). We speculate that
+c-kit+ progenitors might possibly rely more on TAK1 for
+their survival, and that these were not targeted in the B cell–
+and T cell–specific knockout mice. In support of this idea,
+our data showed higher TAK1 activity in HSC/Ps and B cell
+progenitors than mature myeloid and B cells. But further
+study will be needed to establish this definitively. Whether
+cells with higher TAK1 activity are more sensitive to TAK1
+deletion–induced apoptosis than cells with lower TAK1 ac-
+tivity will require further detailed investigation.
+Both JNK and NF-␬B have been found to be activated in
+many malignant disorders and inflammatory diseases (29, 30).
+We predict that TAK1, which is upstream of JNK and NF-
+␬B, might also be involved in these disorders. Further study
+may also reveal whether the BM failure phenotype seen in
+our TAK1Ϫ/Ϫ mice might also be involved in some BM fail-
+ure syndromes such as aplastic anemia. Further examination
+of TAK1 expression profiles and activities in clinical samples
+could be expected to provide new insights into the important
+roles TAK1 might play in these diseases.
+MATERIALS AND METHODS
+Generation of inducible TAK1 knockout (TAK1؊/؊) mice. TAK1fx/fx
+mice were described previously (13). Exon-2 of the TAK1 gene was flanked
+by two loxp sites. Mx1Cre mice were purchased from JAX Laboratories (21).
+All mice were maintained according to the standards set forth in the National
+Institutes of Health Guidelines for the Care and Use of Animals in the animal
+facility at Loyola University Medical Center in a CD57B6 background. All
+experiments performed on animals were approved in advance by Loyola
+University Institutional Animal Care and Use Committee (protocol no.
+108832). By crossing Mx1Cre mice with TAK1fx/fx mice and then backcross-
+ing, we generated interferon-inducible TAK1 knockout mice, including
+TAK1Ϫ/Ϫ, TAK1+/Ϫ (heterozygous, Mx1Cre+TAK1fx/+) and WT (WT,
+MX1CreϪTAK1fx/fx or MX1CreϪTAK1fx/+) animals in the same litter, so that
+all the TAK1Ϫ/Ϫ mice analyzed had proper controls. 6–8 wk after birth, one
+mouse from each litter was maintained without injection as noninjected
+control, and all other mice, including TAK1+/Ϫ and WT controls, were in-
+jected with 5 μg/g body weight of polyI:C for either a single injection or
+every other day for a total of three injections to induce TAK1 deletions.
+Mouse hematopoietic phenotype analysis. Mice were killed at the
+indicated time points to collect peripheral blood, spleen, thymus, and BM.
+Peripheral blood was analyzed for WBC counts, plt, RBC counts, and Hb
+concentration by using Hemavet 950FS (Drew Scientific Inc.). After lysis of
+RBCs, nucleated cells from peripheral blood, spleen, thymus, and BM were
+counted and further stained with cell surface markers for phenotype analysis
+by using flow cytometry as described previously (22). All the fluorescent anti-
+bodies used in flow cytometric analysis were purchased from eBioscience.
+vascular defects, reminiscent of the mouse phenotype in
+which the TGF-␤1 receptors ALK-1 and endoglin have been
+knocked out. Moreover, TAK1 overexpression can compen-
+sate for the TGF␤1 receptor knockout phenotype (24).
+However, in vitro biochemical and in vivo genetic studies
+suggest that TAK1 is also a significant mediator of inflamma-
+tory cytokine signals (11).
+Mouse embryonic fibroblasts from TAK1-null mice ex-
+hibit dramatically impaired NF-␬B and JNK activation
+through TNFR-1, IL-1R, and Toll-like receptors. These cells
+are also highly sensitive to TNF-␣–induced apoptosis (11).
+TAK1 has also been found to be critical for keratinocyte
+survival. Keratinocytes with TAK1 deletions are inactivated
+for NF-␬B and JNK, and are sensitive to TNF-␣–induced
+apoptosis (25).
+Our data suggest that TAK1 might mediate a general sur-
+vival signal for many tissue cells, although the sensitivity of dif-
+ferent types of cells to TAK1 deletion varies. In our inducible
+TAK1 knockout mice, massive apoptotic cell death was ob-
+served in hematopoietic cells in the BM, spleen, and thymus,
+as well as in hepatocytes, where Cre-mediated TAK1 deletion
+occurred. We also found that in hematopoietic cells and hepa-
+tocytes, TAK1 stimulated a survival signal also mediated by
+up-regulating the expression of survival genes via the IKK␬–
+NF-␬B and JNK–AP1 signaling pathways (not depicted).
+It has been reported that NF-␬B mediates a very important
+survival signal to protect cells from TNF-␣–induced apop-
+tosis. Inactivation of NF-␬B by gene mutation or pharma-
+cological inhibition sensitizes such cells to TNF-␣–induced
+apoptosis. However, NF-␬B knockout mice (Mx1Cre-me-
+diated polyI:C-inducible knockout, the same system we used
+in our present studies) developed normally under normal
+husbandry without differences in gross anatomy, histologi-
+cal organization, or hepatic function (26). In contrast to the
+acute liver failure of TAK1Ϫ/Ϫ mice, the syndrome of hepatic
+failure resulting from hepatocyte apoptosis seen in NF-␬B
+knockout mice occurred only when the mice were treated
+with TNF-␣ (26). Moreover, as opposed to the BM failure
+phenotype of our TAK1Ϫ/Ϫ mice, which was secondary to
+cell-autonomous apoptosis, the mice with IKK␣/NF-␬B sig-
+nal inactivation showed stress-related B and T cell depletion,
+whereas HSC/Ps remained unaffected in this condition (27).
+In fact, the myeloid cells of NF-␬B–inactivated mice show
+a high proliferative index and multiple tissue inflammation
+reactions due to autocrine secretion of inflammatory cyto-
+kines (such as TNF-␣) (27). This suggests that IKK␤/NF-␬B
+signaling is not essential for the survival of HSC/Ps and my-
+eloid cells.
+In TAK1Ϫ/Ϫ HSC/Ps, in addition to the inactivation of
+NF-␬B signals, JNK signals were also inactivated. The role of
+JNK signaling is cell context dependent. Both proapoptotic
+and prosurvival effects of JNK signals have been reported
+(28). The role of JNK in HSC/Ps has not yet been addressed.
+We predict that both JNK and NF-␬B signals are required
+for HSC/P survival in mice. This needs to be further con-
+firmed by conditional compound knockout mouse studies.
+1618 TAK1 IN HEMATOPOIETIC AND HEPATIC CELLS | Tang et al.
+Online supplemental material. Fig. S1 shows reduction of BM-nucle-
+ated cell numbers in TAK1Ϫ/Ϫ mice after the induction of TAK1 deletion.
+Fig. S2 shows analyses of the percentage of mature hematopoietic cells in the
+TAK1Ϫ/Ϫ and littermate control mice. Figs. S1 and S2 are available at http://
+www.jem.org/cgi/content/full/jem.20080297/DC1.
+We appreciate the excellent animal care services provided by the staff of the
+Department of Comparative Medicine at Loyola University Medical Center. Ms.
+Patricia Simms helped with flow cytometric sorting of HSCs and progenitors, as well
+as in the analysis of flow cytometry data. We appreciate the ongoing professional
+collaborations of Drs. Nancy Zeleznik-Le and Andrew Dingwall, whose scientific
+suggestions and discussions improved the present studies.
+P. Breslin is supported in part by a grant from the Jimmy Burns Foundation.
+The authors have no conflicting financial interests.
+Submitted: 13 February 2008
+Accepted: 7 May 2008
+REFERENCES
+1. Orelio, C., and E. Dzierzak. 2007. Bcl-2 expression and apoptosis in the
+regulation of hematopoietic stem cells. Leuk. Lymphoma. 48:16–24.
+2. Motoyama, N., F. Wang, K.A. Roth, H. Sawa, K. Nakayama, K.
+Nakayama, I. Negishi, S. Senju, Q. Zhang, S. Fujii, et al. 1995. Massive
+cell death of immature hematopoietic cells and neurons in Bcl-x-defi-
+cient mice. Science. 267:1506–1510.
+3. Opferman, J.T., H. Iwasaki, C.C. Ong, H. Suh, S. Mizuno, K. Akashi,
+and S.J. Korsmeyer. 2005. Obligate role of anti-apoptotic MCL-1 in the
+survival of hematopoietic stem cells. Science. 307:1101–1104.
+4. Brandt, J.E., K. Bhalla, and R. Hoffman. 1994. Effects of interleukin-3
+and c-kit ligand on the survival of various classes of human hematopoi-
+etic progenitor cells. Blood. 83:1507–1514.
+5. Kimura, S., A.W. Roberts, D. Metcalf, and W.S. Alexander. 1998.
+Hematopoietic stem cell deficiencies in mice lacking c-Mpl, the recep-
+tor for thrombopoietin. Proc. Natl. Acad. Sci. USA. 95:1195–1200.
+6. Blume-Jensen, P., R. Janknecht, and T. Hunter. 1998. The kit receptor
+promotes cell survival via activation of PI 3-kinase and subsequent Akt-
+mediated phosphorylation of Bad on Ser136. Curr. Biol. 8:779–782.
+7. Kerzic, P.J., D.W. Pyatt, J.H. Zheng, S.A. Gross, A. Le, and R.D.
+Irons. 2003. Inhibition of NF-kappaB by hydroquinone sensitizes
+human bone marrow progenitor cells to TNF-alpha-induced apoptosis.
+Toxicology. 187:127–137.
+8. Rusten, L.S., F.W. Jacobsen, W. Lesslauer, H. Loetscher, E.B. Smeland,
+and S.E. Jacobsen. 1994. Bifunctional effects of tumor necrosis factor
+alpha (TNF alpha) on the growth of mature and primitive human hema-
+topoietic progenitor cells: involvement of p55 and p75 TNF receptors.
+Blood. 83:3152–3159.
+9. Hangoc, G., D.E. Williams, J.H. Falkenburg, and H.E. Broxmeyer.
+1989. Influence of IL-1 alpha and -1 beta on the survival of human bone
+marrow cells responding to hematopoietic colony-stimulating factors.
+J. Immunol. 142:4329–4334.
+10. Pearl-Yafe, M., J. Stein, E.S. Yolcu, D.L. Farkas, H. Shirwan, I. Yaniv,
+and N. Askenasy. 2007. Fas transduces dual apoptotic and trophic signals
+in hematopoietic progenitors. Stem Cells. 25:1448–1455.
+11. Shim, J.H., C. Xiao, A.E. Paschal, S.T. Bailey, P. Rao, M.S. Hayden,
+K.Y. Lee, C. Bussey, M. Steckel, N. Tanaka, et al. 2005. TAK1, but not
+TAB1 or TAB2, plays an essential role in multiple signaling pathways in
+vivo. Genes Dev. 19:2668–2681.
+12. Wallach, D. 1997. Cell death induction by TNF: a matter of self con-
+trol. Trends Biochem. Sci. 22:107–109.
+13. Sato, S., H. Sanjo, K. Takeda, J. Ninomiya-Tsuji, M. Yamamoto, T.
+Kawai, K. Matsumoto, O. Takeuchi, and S. Akira. 2005. Essential func-
+tion for the kinase TAK1 in innate and adaptive immune responses. Nat.
+Immunol. 6:1087–1095.
+14. Liu, H.H., M. Xie, M.D. Schneider, and Z.J. Chen. 2006. Essential role
+of TAK1 in thymocyte development and activation. Proc. Natl. Acad.
+Sci. USA. 103:11677–11682.
+15. Sato, S., H. Sanjo, T. Tsujimura, J. Ninomiya-Tsuji, M. Yamamoto,
+T. Kawai, O. Takeuchi, and S. Akira. 2006. TAK1 is indispensable for
+Reciprocal BM transplantation. To test the role of TAK1 in HSC/Ps,
+BM from either TAK1Ϫ/Ϫ or TAK1+/Ϫ mice (before induction of TAK1
+deletion) was transplanted into lethally irradiated WT mice. Each recipient
+mouse received 5 × 106 nucleated BM cells. 6 wk after transplantation, the
+recipients were injected with polyI:C every other day for a total of three in-
+jections. Hematopoietic phenotypes were analyzed on day 8 after the first
+injection. To test the role of TAK1 on the function of the BM microenvi-
+ronment, BM from WT mice was transplanted into lethally irradiated
+TAK1Ϫ/Ϫ and TAK1+/Ϫ recipient mice (before mutation was induced). 6 wk
+later, TAK1 deletion was induced by three polyI:C injections. Both liver and
+hematopoietic phenotypes were analyzed on day 8 after the first injection.
+Competitive BM transplantation. Equal numbers of TAK1Ϫ/Ϫ (CD45.2+,
+before induction of TAK1 deletion) and WT (CD45.1+) mouse BM cells
+were mixed and transplanted into lethally irradiated WT (CD45.1+) recipi-
+ent mice. Control TAK1+/Ϫ mice were transplanted in the same manner.
+6 wk after transplantation, the contribution of donor HSC/Ps to hematopoie-
+sis in recipients was assessed by analyzing the CD45.2+ cell percentage in the
+peripheral blood of recipients. As expected, both TAK1Ϫ/Ϫ and TAK1+/Ϫ
+HSC/Ps contributed close to 50% of hematopoietic cells in the recipients
+(TAK1Ϫ/Ϫ HSC/Ps contribute ‫ف‬46.8% ± 5.6%, whereas TAK1+/Ϫ HSC/Ps
+contribute ‫ف‬51.6% ± 6.1%). Recipients were next injected with three polyI:C
+injections as described above, and the contributions of TAK1Ϫ/Ϫ HSC/Ps
+to hematopoiesis in recipient mice were evaluated again on day 15 after the
+first injection.
+Apoptosis analysis. Hepatocyte apoptosis was analyzed by counting the
+percentage of hepatocytes with small, condensed nuclear and TUNEL+
+staining. TUNEL staining was performed using the DeadEnd Colorimetric
+TUNEL System (Promega) according to the protocol supplied. To analyze
+apoptosis in BM HSC/Ps, BM was collected from TAK1Ϫ/Ϫ and control
+mice at 15–18 h after a single polyI:C injection. BM cells were collected into
+lyse/fix buffer (BD Biosciences) for not more than 10 min to fix the nucle-
+ated cells and lyse the RBCs simultaneously. After two washes with cold
+PBS/2% FBS, the nucleated cells were adjusted to a concentration of 5 ×
+106/ml in 1× Binding Buffer (BD Biosciences) and aliquotted into 5-ml
+staining tubes, 100 μl of cells per tube. Cells were then stained with allophy-
+cocyanin (APC)–c-kit and FITC–annexin V (BD Biosciences) or PECy5.5-
+lineage+ markers (including Gr1, B220, Ter119, CD3, and CD8), PE-Sca1,
+APC–c-kit, and FITC–annexin V for 20 min at room temperature. After
+two washes with 1× Binding Buffer, cells were analyzed by flow cytometry
+for annexin V+ cell percentage in different cell populations.
+Intracellular protein analysis. BM cells were collected into lyse/fix buffer
+(BD Biosciences) to simultaneously fix the nucleated cells and lyse the RBCs.
+After two washes with cold PBS/2% FBS, BM cells were stained with cell
+surface markers as indicated for 30 min. Cells were then permeabilized using
+a fixation/permeabilization kit (BD Biosciences) for 20 min at room temper-
+ature. Cells were then washed with wash buffer twice and stained with anti-
+bodies against intracellular proteins, followed by APC-conjugated secondary
+antibody staining. The levels of intracellular proteins were detected by flow
+cytometry comparing the APC intensity in different populations of the BM
+cells. Rabbit anti-TAK1, rabbit anti–p-TAK1, rabbit anti–p-NF-␬B P65,
+rabbit anti–p-P38 (Thr180/Tyr182), and rabbit p-JNK (Thr183/Tyr185)
+antibodies were purchased from Cell Signaling Technology.
+RT-PCR to detect gene expression. RNA was extracted using RNeasy
+Plus Mini kit (QIAGEN). cDNA was prepared using SuperScript First-
+Strand Synthesis System (Invitrogen). Quantitative PCR was performed by
+using SYBR Green PCR master (Applied Biosystems). Each sample was a
+mixture of LSK-HSCs from three mice with the same phenotype. Triplicate
+RT-PCRs were performed.
+Statistical analyses. t tests were performed to assess the significance of changes
+in TAK1Ϫ/Ϫ group data compared with both TAK1+/Ϫ and WT groups.
+JEM VOL. 205, July 7, 2008
+ARTICLE
+1619
+development of T cells and prevention of colitis by the generation of
+regulatory T cells. Int. Immunol. 18:1405–1411.
+16. Wan, Y.Y., H. Chi, M. Xie, M.D. Schneider, and R.A. Flavell. 2006.
+The kinase TAK1 integrates antigen and cytokine receptor signaling for
+T cell development, survival and function. Nat. Immunol. 7:851–858.
+17. Mori, T., T. Nishimura, Y. Ikeda, T. Hotta, H. Yagita, and K. Ando.
+1998. Involvement of Fas-mediated apoptosis in the hematopoietic pro-
+genitor cells of graft-versus-host reaction-associated myelosuppression.
+Blood. 92:101–107.
+18. Dufour, C., A. Corcione, J. Svahn, R. Haupt, V. Poggi, A.N.
+Beka’ssy, R. Scime, A. Pistorio, and V. Pistoia. 2003. TNF-alpha and
+IFN-gamma are overexpressed in the bone marrow of Fanconi anemia
+patients and TNF-alpha suppresses erythropoiesis in vitro. Blood. 102:
+2053–2059.
+19. Pearl-Yafe, M., E.S. Yolcu, J. Stein, O. Kaplan, H. Shirwan, I. Yaniv,
+and N. Askenasy. 2007. Expression of Fas and Fas-ligand in donor he-
+matopoietic stem and progenitor cells is dissociated from the sensitivity
+to apoptosis. Exp. Hematol. 35:1601–1612.
+20. Sakurai, H., H. Miyoshi, J. Mizukami, and T. Sugita. 2000. Phos-
+phorylation-dependent activation of TAK1 mitogen-activated protein
+kinase kinase kinase by TAB1. FEBS Lett. 474:141–145.
+21. Kuhn, R., F. Schwenk, M. Aguet, and K. Rajewsky. 1995. Inducible
+gene targeting in mice. Science. 269:1427–1429.
+22. Zhang, J., C. Niu, L. Ye, H. Huang, X. He, W.G. Tong, J. Ross, J.
+Haug, T. Johnson, J.Q. Feng, et al. 2003. Identification of the hae-
+matopoietic stem cell niche and control of the niche size. Nature.
+425:836–841.
+23. Yamaguchi, K., K. Shirakabe, H. Shibuya, K. Irie, I. Oishi, N. Ueno,
+T. Taniguchi, E. Nishida, and K. Matsumoto. 1995. Identification of a
+member of the MAPKKK family as a potential mediator of TGF-beta
+signal transduction. Science. 270:2008–2011.
+24. Jadrich, J.L., M.B. O’Connor, and E. Coucouvanis. 2006. The TGF
+beta activated kinase TAK1 regulates vascular development in vivo.
+Development. 133:1529–1541.
+25. Omori, E., K. Matsumoto, H. Sanjo, S. Sato, S. Akira, R.C. Smart,
+and J. Ninomiya-Tsuji. 2006. TAK1 is a master regulator of epidermal
+homeostasis involving skin inflammation and apoptosis. J. Biol. Chem.
+281:19610–19617.
+26. Geisler, F., H. Algul, S. Paxian, and R.M. Schmid. 2007. Genetic in-
+activation of RelA/p65 sensitizes adult mouse hepatocytes to TNF-
+induced apoptosis in vivo and in vitro. Gastroenterology. 132:2489–2503.
+27. Horwitz, B.H., M.L. Scott, S.R. Cherry, R.T. Bronson, and D.
+Baltimore. 1997. Failure of lymphopoiesis after adoptive transfer of NF-
+kappaB-deficient fetal liver cells. Immunity. 6:765–772.
+28. Liu, J., and A. Lin. 2005. Role of JNK activation in apoptosis: a double-
+edged sword. Cell Res. 15:36–42.
+29. Guzman, M.L., S.J. Neering, D. Upchurch, B. Grimes, D.S. Howard,
+D.A. Rizzieri, S.M. Luger, and C.T. Jordan. 2001. Nuclear factor-
+kappaB is constitutively activated in primitive human acute myelogenous
+leukemia cells. Blood. 98:2301–2307.
+30. Hartman, A.D., A. Wilson-Weekes, A. Suvannasankha, G.S. Burgess, C.A.
+Phillips, K.J. Hincher, L.D. Cripe, and H.S. Boswell. 2006. Constitutive
+c-jun N-terminal kinase activity in acute myeloid leukemia derives from
+Flt3 and affects survival and proliferation. Exp. Hematol. 34:1360–1376.
+

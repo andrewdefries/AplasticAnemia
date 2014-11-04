@@ -1,0 +1,876 @@
+BioMed Central
+Page 1 of 10
+(page number not for citation purposes)
+Molecular Cancer
+Open AccessReview
+Senescence induction; a possible cancer therapy
+Matilde E LLeonart*1, Ana Artero-Castro1 and Hiroshi Kondoh*2
+Address: 1Pathology Department, Fundació Institut de Recerca Hospital Vall d'Hebron, Passeig Vall d'Hebron 119-129, 08035 Barcelona, Spain
+and 2Department of Geriatric Medicine, Graduate School of Medicine, Kyoto University, 54 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto, 606-8507,
+Japan
+Email: Matilde E LLeonart* - melleona@ir.vhebron.net; Ana Artero-Castro - aartero@ir.vhebron.net; Hiroshi Kondoh* - hkondoh@kuhp.kyoto-
+u.ac.jp
+* Corresponding authors
+Abstract
+Cellular immortalization is a crucial step during the development of human cancer. Primary
+mammalian cells reach replicative exhaustion after several passages in vitro, a process called
+replicative senescence. During such a state of permanent growth arrest, senescent cells are
+refractory to physiological proliferation stimuli: they have altered cell morphology and gene
+expression patterns, although they remain viable with preserved metabolic activity. Interestingly,
+senescent cells have also been detected in vivo in human tumors, particularly in benign lesions.
+Senescence is a mechanism that limits cellular lifespan and constitutes a barrier against cellular
+immortalization. During immortalization, cells acquire genetic alterations that override senescence.
+Tumor suppressor genes and oncogenes are closely involved in senescence, as their knockdown
+and ectopic expression confer immortality and senescence induction, respectively. By using high
+throughput genetic screening to search for genes involved in senescence, several candidate
+oncogenes and putative tumor suppressor genes have been recently isolated, including subtypes of
+micro-RNAs. These findings offer new perspectives in the modulation of senescence and open new
+approaches for cancer therapy.
+Background
+Primary mammalian cells reach proliferative exhaustion
+after serial passage in culture, resulting in a permanent
+and irreversible cell-cycle arrest [1]. This process, termed
+replicative senescence, is characterized by a drastic pheno-
+typic change in the cells, compared to their proliferating
+counterparts [2]. The precise number of replicative dou-
+blings exhibited by cultured cells before they reach senes-
+cence depends on the species from which the cells are
+derived, the tissue of origin, and the age of the donor
+organism. Senescent cells are characterized by expression
+of β-galactosidase, PAI-1 overexpression (plasminogen
+activator protein 1) and altered cell morphology charac-
+terized by giant cell size, increased cytoplasmic granularity
+and a single large nucleus (Figure 1). Senescent cells,
+arrested in G1 phase of the cell cycle, remain viable and
+metabolically active and possess a characteristic transcrip-
+tional prolife that distinguishes them from quiescent cells
+[3]. In order to form tumors, incipient cancer cells must
+breach this senescence barrier that normally limits their
+proliferative potential.
+Approximately one-fourth of people in the developed
+world experience cancer during their life time. Cancer cells
+display several hallmarks that can be distinguished from
+those of normal counterparts. These include immortaliza-
+tion or bypass of senescence, evasion of apoptosis and
+anti-growth signals, growth factor independence,
+Published: 8 January 2009
+Molecular Cancer 2009, 8:3 doi:10.1186/1476-4598-8-3
+Received: 9 December 2008
+Accepted: 8 January 2009
+This article is available from: http://www.molecular-cancer.com/content/8/1/3
+© 2009 LLeonart et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 2 of 10
+(page number not for citation purposes)
+enhanced glycolysis, anchorage-independence, resistance
+to contact inhibition, angiogenesis, degradation of matrix
+components, invasion, migration, etc. These properties
+may provide good targets for anti-cancer drugs, such as
+DNA damaging, anti-angiogenic, differentiation-induc-
+ing, or apoptosis-inducing agents. It is likely that senes-
+cent cells will ultimately be cleared by phagocytosis,
+although it has not beeen clearly demonstrated for the
+senescent state [4]. For example, senescent neutrophils
+might face phagocytosis through an unknown mecha-
+nism [5] and focal enrichment of lysosome-related β-
+galactosidase activity at autodigestive vacuoles showed
+that aged human fibroblast arrested in replicative senes-
+cence might eliminate themselves by autophagy [6].
+Interestingly, senescent cells have recently been detected
+during tumorigenesis in mouse models and in human
+tumors, particularly in benign lesions [7,8], and their
+appearance is possibly relevant to tumor progression.
+There are examples of in vivo senescent cells that may
+reside for years in tissue, such as the senescent melano-
+cytes of moles of nervi. Other senescent cells can be rap-
+idly removed as tumors progress, for example in the case
+of liver carcinomas [9,10].
+The cellular senescence observed in tissue culture might
+constitute a good model for understanding the signifi-
+cance of senescence in vivo. Recent attempts at screening
+cells for the ability to bypass senescence have identified
+several putative novel oncogenes and tumor suppressor
+genes. Genes whose ectopic expression results in replica-
+tive senescence are considered potential oncogenes [11]
+and are overexpressed in some types of cancer [12,13]. On
+the other hand, genes whose inactivation results in cellu-
+lar immortalization are potential tumor suppressor genes
+[14,15] and are found to be downregulated in tumor-res-
+Primary cells reach replicative senescence after several passages in cultureFigure 1
+Primary cells reach replicative senescence after several passages in culture. The passage number where they reach
+senescence is affected by the tissue conditions, etc. In addition, senescence can be forced to arise upon SIS. A senescence cell
+can remain arrested for a long period of time. Alternatively, epigenetic changes and/or stochastic mutation/s can lead it to
+escape from senescence.
+Immortal cells
+Primary cell
+Replicative
+senescence
+Senescent cellTelomeric
+erosion
+Oxidative
+Stress (SIS)
+Oncogene
+Stress (OIS)
+Culture
+stress
+SIS, OIS
+Terminal arrest
+cDNA library screen (oncogenes)
+siRNA library screen (tumor suppressor genes)
+Epigenetic change or
+stochastic mutation/s
+DNA
+damage
+Senescent cell
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 3 of 10
+(page number not for citation purposes)
+ident tissues [16,17]. Therefore, senescence is considered
+an anti-tumorigenic mechanism for avoiding indefinite
+cell proliferation when a genetic alteration has occurred.
+An important issue to consider in a senescence-based ther-
+apy is the fact that the ultimate destiny of a senescence cell
+is its terminal arrest (Figure 1). In this regard a metaboli-
+cally arrested cell is not responsive to mitogenic signals
+and it is quite unlikely that it resumes proliferation. If
+senescent cells are able to reside for years in tissue, an epi-
+genetic change could lead to escape from senescence.
+Therefore future research should also focus on discovering
+senescence markers that can be used for monitoring in vivo
+the presence/absence of senescent cells. Recent progress in
+the biology of cellular senescence provides another clue to
+understanding the mechanism of cancer progression, as
+well as to development of new anti-cancer drugs. This fact
+suggests that senescence-inducing mechanisms might be
+applicable as cancer therapies in the future.
+Oncogenes and tumor suppressor genes
+The best characterized example of oncogene-induced
+senescence is the response of normal fibroblasts to expres-
+sion of an activated allele of H-ras (H-rasV12). Normal ras
+proteins are important for transducing mitogenic signals
+in the cell and are mutated to constitutively active forms
+in approximately 20% of human cancers [18]. These acti-
+vated alleles contribute to transformation in human can-
+cer by increasing proliferation, and invasion of tumors, as
+well as desensitizing cells to apoptosis [19]. All human
+normal cells with intact p53 and retinoblastoma (Rb)
+pathways enter into senesce in response to RAS. Expres-
+sion of viral oncoproteins that disrupt these pathways,
+such as simian virus 40 (SV40) T Ag, human papillomavi-
+rus E6 or E7, or adenovirus E1A, block senescence and
+cooperate with RAS to transform cells [20]. In contrast
+than in human cells where the p16/Rb pathway plays a
+more significant role, in murine cells, an intact p53/Arf
+pathway is required for RAS-induced senescence.
+It is of note that SIS and OIS can be bypassed partially by
+inactivation of tumor suppressors, including the p53 or
+Rb axis, implicating the involvement of several tumor
+suppressor genes in these stress-induced senescence proc-
+esses (Figure 2). In cancerous cells or tissues, tumor sup-
+pressor genes may be inactivated by either deletion of one
+or both alleles, promoter methylation, splice-site muta-
+tions or nonsense mutations, or a combination of these.
+Alternatively, mutations in tumor suppressor genes can
+provide a dominant negative protein that interferes with
+the wild-type protein produced by the other allele, as is
+the case for several p53 mutants. Such genetic alterations
+result in a complete absence or partial reduction of the
+tumor suppressor protein, conferring a selective advan-
+tage in clonal selection for tumor progression.
+The presence of senescent cells has been demonstrated in
+vivo to positively correlate with aging, illustrating that the
+in vitro observation of replicative senescence is applicable
+to the events in vivo [21]. Recently, a significant in vivo role
+for the process of senescence was demonstrated. Several
+groups have shown that benign tumors contain senescent
+cells and that these cells fully disappeared in the malig-
+nant counterparts of the described tumors. As the process
+of senescence is observed both in vitro and in vivo [2,7,22],
+tumor suppressor activation can be another target of can-
+cer therapy in vivo. Promising results have been recently
+reported in a murine model where complete tumor regres-
+sion could be provoked by p53 activation [10,23,24]. In
+vitro restoration of p53 function triggers dramatic and
+rapid induction of p53 target genes, as well as apoptosis.
+While several groups have reported similar effects, it is not
+just p53 status itself that determines therapeutic efficacy
+of p53 restoration, but also the status of p53-activating
+signals that pre-exist, or can be induced, in tumor cells.
+Although this situation would not be exactly the same as
+that which occurs in human cancer (where p53 is affected
+or the p53 pathway is corrupted), regression of these
+tumors was closely correlated with the presence of senes-
+cent cells. Thus, these studies provide the first evidence
+that senescence induction in vivo can be a crucial mecha-
+nism of tumor clearance. It would be worthwhile to fur-
+ther investigate whether p53 activating chemicals, such as
+quiacrine, might be beneficial for cancer patients.
+The ARF/INK4a (Alternative Reading Frame) locus
+encodes two distinct tumor suppressors, ARF (p14ARF in
+humans and p19ARF in mice) and p16INK4A. p16INK4A and
+ARF respectively regulate the pRB and p53 pathways of
+senescence and tumor suppression [25]. p16INK4A binds
+and inhibits cyclin-D-dependent kinases CDK4 and
+CDK6. Such kinases have oncogenic potential because
+they phosphorylate the retinoblastoma family of tumor
+suppressors Rb, p107 and p130, which are negative regu-
+lators of the cell cycle (Figure 2). ARF is an antagonist for
+Mdm2, which regulates p53 stability through its p53-
+degrading ubiquitin ligase activity. ARF sequesters
+hmdm2 through its translocation to the nucleolus and the
+final consequence is p53 activation and stabilization.
+During replicative senescence in vitro, the accumulation of
+these tumor suppressors (p53, ARF, INK4A) or their
+downstream targets (p21Cip1) is observed [26]. Oncogenic
+insults also upregulate these genes, including p53, ARF,
+INK4, and p21Cip1. It is noteworthy that the ectopic
+expression of these tumor suppressors (ARF, INK4,
+p21Cip1) can provoke a senescence-like phenotype in pri-
+mary or immortalized cells.
+All of these senescence-inducing tumor suppressor genes
+may also be targets of anti-cancer drugs. Several ARF tran-
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 4 of 10
+(page number not for citation purposes)
+scriptional repressors have been identified in a senescence
+bypass screen, including TBX2 [27] and Zbtb7 or poke-
+mon [28]. INK4 is known to be regulated by the Ets tran-
+scriptional family. These regulators for ARF/INK4 might
+be good candidates for anti-cancer drugs through modu-
+lation of their senescence effect. However, as is often the
+case with p53, the inactivation of the ARF/INK4a locus by
+complete deletion or by aberrant promoter methylation is
+very common, being present in about 30% of all known
+types of malignancies. Presumably, in cancer cells harbor-
+ing genetic inactivation of this locus, the modulation of
+ARF/INK4 function would be less effective as cancer treat-
+ment.
+Alternatively, a CDK inhibitor may be a good tool, as both
+the ARF/p53 and INK4/Rb axis exert their tumor suppress-
+ing function partially via inactivation of CDK4. Several
+small chemical modulators for CDK kinases are currently
+under investigation in clinical trials. So far, these are not
+CDK4-specific inhibitors, but rather pan-CDK inhibitors,
+such as Fravopiridol, UCN-01, Roscovitine, and
+BMS387032. The anti-cancer effects of these compounds
+mainly result in induction of apoptosis rather than prov-
+ocation of senescence. This is possible because CDKs play
+additional and essential roles beyond cell cycle control,
+including transcription, DNA repair, migration, and secre-
+tion.
+Telomeres
+Human telomeres consist of tandem repetitive arrays of
+the hexameric sequence TTAGGG. Overall telomere sizes
+range from 15 kb at birth to <5 kb in old individuals, as
+telomeres become progressively shorter with every round
+of cell division in normal cells [29]. The length of telom-
+eric DNA decreases progressively in primary cells as they
+replicate. The ends of telomeres are protected and regu-
+lated by telomere-binding proteins and form a special lar-
+iat-like structure called the T-loop. Telomerase is a
+complex cellular ribonucleoprotein enzyme composed of
+a number of distinct subunits responsible for adding telo-
+Senescence-inducing factors as targets of cancer therapyFigure 2
+Senescence-inducing factors as targets of cancer therapy. Details are described in the text.
+DNA damage sensor
+Telomerase
+glycolysis
+Ets,
+Tbx-2,Zbtb7,
+Pokemon,
+etc
+Telomeric erosion
+Oncogene stress
+(ras, raf, MEK, Akt, etc)
+Oxidative stress
+p53
+p21
+ARF/INK4 locus
+CDK2/4
+CDK4/6
+Rb
+E2F1
+miR-372,
+373, 378, etc
+Epigenetic changes:
+e.g. DNA methylation p16INK4A
+Anti-miR
+DNA methyltranferases
+inhibitors
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 5 of 10
+(page number not for citation purposes)
+meric repeats to the 3'ends of chromosomes. It has two
+major components, an enzymatic human telomerase tran-
+scriptase catalytic subunit hTERT, and a RNA component
+hTERC. Telomerase uses its integral RNA component as a
+template in order to synthesize telomeric DNA directly
+onto the ends of chromosomes. Primary normal human
+cells stably expressing transfected telomerase can divide
+indefinitely, providing direct evidence that telomere
+shortening has a causal effect on replicative senescence
+[30]. The enzyme is normally expressed in very few pri-
+mary cells such as embryonic stem cells [18]. Interest-
+ingly, some viral oncoproteins are able to modulate
+telomerase expression and inhibition of telomerase limits
+the growth of human cancer cells [19,20]. Telomerase is
+also present in adult male germline cells, but it is undetec-
+table in most normal somatic cells, with the exception of
+proliferative cells of renewal tissues. It has been reported
+that several human diseases, such as dyskeratosis, congen-
+ital or aplastic anemia, are caused by the mutations in
+genes encoding components of telomerase or telomere-
+binding proteins. These mutations cause low telomerase
+activity, accelerated telomere shortening, and diminished
+proliferative capacity of hematopoietic progenitors.
+Cellular senescence is a process that is triggered not only
+by telomeric erosion but also by other forms of stress. Sev-
+eral factors provoke senescence in a telomere-independ-
+ent manner. Stress-induced senescence (SIS) can be
+induced by DNA damage, ionizing radiation such as X-
+rays or UV, and oxidative stress. Oncogene-induced senes-
+cence (OIS) can be induced by oncogenic activation. The
+most well-defined model of oncogene induced-senes-
+cence is shown by an activated allele of the ras gene
+(rasV12) whose overexpression is accompanied by a con-
+comitant accumulation of p53 and p16INK4A proteins [21].
+Interestingly, it has been shown that adenomas from mice
+expressing a single activated K-ras allele undergo senes-
+cence in vivo [7]. Several oncogenes are known to induce a
+senescence response upon overexpression: ras, raf, MEK,
+Akt, E2F1/3, mos, PTEN, NF1, Stat5, KLF-4, and Runx.
+When senescence is induced by a stimuli such as onco-
+genic ras or raf, by epigenetic changes, or by oxidative
+damage, the ectopic expression of hTERT cannot confer
+the senescence-bypassing effect [31]. However, in several
+cases of telomere-independent senescence, the initiating
+event can be triggered by a common mechanism. For
+example, cellular damage caused by these stresses would
+be recognized by cellular sensors of the DNA damage
+checkpoint apparatus, leading to the activation of cell
+cycle checkpoint responses, including ataxia telangiectasia
+mutated ATM-Chk2 kinase and ATR/Chk1 signaling, and
+recruitment of DNA repair foci. Tumor cells in clinical
+specimens from various tissues such as breast and lung
+carcinomas often show constitutive activation of DNA
+damage signaling, including activated forms of check-
+point kinases ATM and Chk2, phosphorylated histone
+H2AX and p53, and foci formation by proteins such as
+53BP1. In this way, phosphorylated p53 is stabilized and
+protected from destruction. Indeed a single dsDNA break
+occurring anywhere in the genome seems sufficient to
+induce a measurable increase in p53 levels. The cellular
+effects of p53 are mediated by its ability to transactivate
+specific genes, including p21Cip1, 14-3-3-σ or Puma [32],
+or its ability to induce downregulation of specific proteins
+such as CDK4 and cyclin E [25]. Activation of DNA dam-
+age signaling may be followed by changes in chromatin
+structure as the formation of senescence-associated-hete-
+rochromatin foci (SAHFs) [26]. SAHFs accumulate during
+oncogene-induced senescence and are thought to stably
+suppress the expression of E2F target genes by recruiting
+Rb and heterochromatin proteins.
+Telomerase activity is detected in approximately 90% of
+all malignant tumors in comparison with their normal
+counterparts. This suggests that telomerase may be a suit-
+able target for anti-cancer drugs. It was demonstrated that
+siRNA against telomerase or overexpression of a domi-
+nant-negative mutant of telomerase abolished telomerase
+activity and resulted in entry of cells into crisis [33]. Sev-
+eral clinical trials targeting telomerase are ongoing for
+advanced cancer patients. These include immunotherapy
+(a vaccine against telomerase), inhibitory compounds
+against telomerase activity (a telomerase template antago-
+nist), and the modulation of telomeric structure (telomes-
+tatin). The expected outcome of telomerase inhibition
+should not only be to slow tumor growth, but also to
+diminish the possibility of induced apoptosis, for the fol-
+lowing reasons: The tumor suppressor p53 is presumed to
+sense dysfunctional telomeres as damaged DNA, where-
+upon it elicits the senescence response at least in part by
+increasing expression of the cell cycle inhibitory protein,
+p21Cip1. This, in turn, prevents the inactivation of p53
+[34,35]. Thus, in p53-intact cells, accelerated telomeric
+shortening by telomerase inhibitors could be sensed by
+the p53 pathway and would be followed by initiation of
+massive apoptotic death.
+Telomerase activity is a useful prognosis indicator of the
+outcome of neuroblastomas that are usually encountered
+in very young children. Telomerase activity should be
+incorporated into the clinical investigation of each indi-
+vidual neuroblastoma at the time of diagnosis because its
+mere presence/absence is sufficient basis for predicting
+disease outcome [36]. Therefore, neuroblastomas would
+be good candidates for the above-mentioned telomerase
+inhibitors.
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 6 of 10
+(page number not for citation purposes)
+Micro-RNAs
+Micro-RNAs (miRNA) are a novel class of non-protein
+encoding genes that have appeared to play an important
+role in the post-transcriptional regulation of gene expres-
+sion [37]. Mature miRNAs are double-stranded RNA mol-
+ecules ~22 nucleotides in length that are the product of
+several processing steps of PolII-transcribed primary RNA
+transcripts. The final step in the miRNA pathway is the
+loading of one of the mature RNA strands into the RNA-
+induced silencing complex (RISC) that subsequently
+binds to a mRNA with a certain degree of complementa-
+rity, often in the 3'UTR of the mRNA. Depending on the
+degree of complementarity, miRNAs are involved in
+sequence-specific degradation of mRNAs or inhibition of
+protein translation [38]. One miRNA can control the
+expression of many different genes, and it is speculated
+that 20–30% of total gene expression may be regulated by
+miRNAs. Bioinformatics approaches have identified 300
+human miRNA genes, but more recent work has predicted
+the number to be closer to 1,000 [39]. Recent studies have
+shown that miRNA expression profiles are different
+between normal and tumor tissues [38,39]. Interestingly,
+downregulation of subsets of miRNAs is a common find-
+ing in some tumors. The discovery that miRNA silencing
+could revert the tumorigenic phenotype of the colon can-
+cer cell line HCT116 unveils a novel regulatory mecha-
+nism in cancer proliferation [40].
+Recently, several laboratories have reported that members
+of the miR-34 family are direct targets of p53, which
+induces apoptosis, cell cycle arrest and senescence [41-
+43]. Several miRNAs are significantly induced by p53,
+including miR-16, which targets the oncogene bcl-2; and
+let-7, which downregulates ras and HMGA2. Among the
+mi-RNAs repressed by p53 is miR-221 which downregu-
+lates p27.
+In a genetic screen to identify miRNAs characterized by
+their ability to bypass senescence induced by oncogenic
+Ras (OIS), miR-372 and miR-373 were identified [44].
+This study was performed in partially immortalized
+IMR90 fibroblast. These miRNAs are considered novel
+oncogenes participating in the development of human
+testicular germ cell tumors by numbing the p53 pathway
+and promoting tumorigenic growth in the presence of
+wild-type p53. Importantly, the fact that miR-373 is able
+to form foci in soft-agar assays shows its transforming
+capability. On the contrary, introduction of miR-34a and
+miR-34b/c into primary human diploid fibroblasts
+induced cellular senescence [45]. Tumor cells also showed
+signs of senescence after introduction of ectopic miR-34a
+[46]. Downregulation of miR-138 is associated with over-
+expression of telomerase and the acquisition of malignant
+behavior in human anaplastic thyroid carcinoma cell lines
+[47]. Thereby, it is expected that targeting miR-138 would
+be useful as a diagnostic tool or might contribute to the
+development of new strategic treatments for specific kinds
+of carcinomas as already suggested for miR-378 [48].
+Oxidative stress
+Reactive Oxygen Species (ROS) can produce serious dam-
+age in cells [49]. Cumulative oxidative damage causes or
+accelerates senescence, while immortalized cells are resist-
+ant to the senescence effect of oxidative damage. The most
+dramatic observations have been reported when cells have
+been exposed to different oxygen concentrations. When
+oxygen is reduced from 20% to 1–5%, human diploid
+fibroblasts increase their replicative life-span between 20–
+50% [49]. In this sense, the modulation of oxidative stress
+could be another target of cancer therapy.
+It has been reported that enhanced glycolysis via ectopic
+expression of a glycolytic enzyme (phosphoglycerate
+mutase; PGM) immortalizes primary MEFs, protecting
+them from oxidative damage [50]. Enhanced glycolysis is
+a well-known property of most cancerous cells and tis-
+sues, commonly referred to as the Warburg effect. This
+property is well utilized in clinical practice for the detec-
+tion of metastatic tumor mass through positron-emission
+scanning of 2-[18F]fluoro-2-deoxy-D-glucose [51]. Thus,
+inhibition of glycolysis may represent an alternative ther-
+apy for cancer treatment. PGM inhibition in primary
+MEFs induced premature senescence. Indeed, the PGM
+inhibitor MJE3 has been identified as the most potent
+anti-proliferative reagent via chemical screening in breast
+cancer cells [50].
+Currently several glycolitic inhibitors with promising
+results in cultured cells and animal models are being
+tested in clinical trials. For example, preclinical studies
+include 3-Bromopyruvate (3-BrPA) in clinical trials (I/II).
+A compound at a further stage of testing is 2-Deoxyglu-
+cose (2-DG), in clinical trials (II/III). 3-BrPA inhibits hex-
+okinase causing a depletion in ATP leading to massive cell
+death in those cells with respiration defects. 2-DG is an
+agent that is phosphorylated by hexokinase, but it cannot
+be further metabolized and thus blocks glucose metabo-
+lism [52]. 2-DG has shown promising results enhancing
+significantly the anti-cancer activity of adriamycin and
+paclitaxel in mice bearing human osteosarcoma and non-
+small-cell lung cancer xenographs [53].
+Collectively, senescence induction would be a good tool
+for cancer treatment in the future. A personalized genetic
+test of the status of several oncogenes and tumor suppres-
+sors, including ras, p53, p16INK4A, ARF and hTERT, should
+be carefully examined before senescence-induction treat-
+ment. Once the status of these senescence-associated
+genes is known, it should be easier to predict the sensitiv-
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 7 of 10
+(page number not for citation purposes)
+ity or resistance of a tumor to senescence-induction treat-
+ment.
+Epigenetics
+Epigenetic changes occur constantly in wild-type mam-
+malian cells as a dinamic feature that involves the activa-
+tion/inactivation of numerous genes. Examples of
+epigenetic changes are: methylation of DNA, histone
+deacetylation, ubiquitination and phosphorylation. Over-
+all these changes, DNA methylation is considered to play
+an essential role in cellular senescence and aging [54]. It
+has been demonstrated that the methylation level in the
+genome decrease gradually during SIS as well as replica-
+tive senescence. This has been associated with the reduc-
+tion in the expression of the methylation enzyme
+DNMT1. Such changes reflect global hypomethylation as
+a distinct feature of senescent cells [55]. SIS share some
+features of replicative senescence, such as basic biological
+characteristics and global hypomethylation while there
+are slight differences in the profile of methylation-associ-
+ated enzyme expression. Aging is accompanied by
+changes in DNA methylation in tumor suppressor genes
+and by stochastic methylation events through the
+genome. Thereby, aging-related random methylation has
+been proposed to occur as a result of failure of methyl-
+transferase activity, and/or exposure to environmental fac-
+tors and health of the individual [56].
+The pattern of altered gene expression or epigenetic
+changes is of major importance in common malignancies.
+DNA methylation patterns are severely affected in cancer.
+p16INK4A, possibly after p53, is the most important tumor
+suppressor gene altered in human cancer. Methylation of
+the p16INK4A promoter implies p16INK4A silencing and sub-
+sequently the loss of the p16INK4A protein. p16INK4A pro-
+moter methylation occurs in specific cancers as breast and
+hepatocellular carcinoma. Importantly, promoter hyper-
+methylation of the p16INK4A gene is associated with poor
+prognosis in recurrent early-stage hepatocellular carci-
+noma [57]. However, although a great number of tumor
+suppressor genes are hypermethylated in regions rich in
+CpG (CpG island); paradoxically the general pattern of
+the cancer genome is a general DNA hypomethylation.
+Interestingly, epigenetic changes that occur in cellular
+senescence in vitro in HMECs constitute again a good
+model to recapitulate the adquisition of premalignant
+lesions in vivo [58]. For example p16INK4A inactivation by
+promoter methylation is one early event that contribute to
+HMEC immortalization. Interestingly, our group have
+recently identified in a loss-of-function genetic screen the
+methylation enzyme S-adenosylhomocysteine hydrolase
+(SAHH). SAHH inactivation bypass replicative senescence
+and induces immortalization in primary murine cells
+affecting both the p53 and pRb pathways [17]. In addi-
+tion, SAHH has been found altered in human tumors at
+mRNA and protein levels suggesting that it could be a
+putative novel tumor suppressor gene [17]. The fact that
+SAHH is able to modulate senescence reinforces the
+importance of methylation enzymes in immortalization
+and cancer development.
+In order to stimulate the expression of those tumor sup-
+pressor genes silenced in cancer, much attention has
+recently been focused on developing small molecule
+inhibitors of DNA methyltransferases that could be used
+as anti-cancer drugs such as 5-Azacytidine and 5'-Aza-2'-
+deoxycytidine (decitabine). Surprinsingly, they have been
+quite effective in leukemias, however in solid tumors they
+have not been very successful. Importantly, the lack of p53
+inducibility of apoptotic genes, has been restored by treat-
+ment with 5-Aza-2'-deoxycytidine suggesting that epige-
+netic cancer therapy is possible for some cancers in
+combination with forced p53 activation [59]. Impor-
+tantly, while the acquisition of spontaneous mutations
+that disable p53 or pRB in a resting cell without DNA rep-
+lication seems rather unlikely, epigenetic changes might
+occur in senescent cells. If this represents an additional
+barrier to take into account before applying a senescence
+induced anti-cancer therapy, it deserves deeply and exten-
+sive investigations.
+Conclusion
+Cellular senescence has become an attractive therapeutic
+concept because mimics programmed cell death by
+excluding cells from active progression through the cell
+cycle. As an intact apoptotic machinery is unavailable in
+most established malignancies, a senescence-induced
+mechanism emerges as a back-up program to substitute
+for or to reinforce an insufficient apoptotic response.
+Importantly, the therapeutic potential of senescence
+induction strongly relies on the irreversibility of this proc-
+ess. Although, it has not been formally tested whether
+drug-inducible senescence is a complete reversible proc-
+ess, the acquisition of spontaneous mutations that disable
+p53 or pRB in a resting cell without DNA replication
+seems rather unlikely. Thereby it would be very interesting
+for preclinical investigations to explore future therapies
+which directly prompt a clear senescence response as
+those observed in vitro (Figure 3). It would be tempting to
+speculate that the combination of a senescence induced
+therapy and a conventional therapy might cooperate to
+entirely abolish cancer.
+Abbreviations
+HMEC: human mammalian epithelial cells; MEF: mouse
+embryonic fibroblast; SIS: stress induced senescence; OIS:
+oncogene induced senescence
+Competing interests
+The authors declare that they have no competing interests.
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 8 of 10
+(page number not for citation purposes)
+Authors' contributions
+MELL was responsible for writing, revising for intellectual
+content and final approval of the manuscript. AAC
+designed some sections of the manuscript including fig-
+ures.
+HK was responsible for writing, revising and final
+approval of the manuscript.
+Acknowledgements
+We thank to J.A. Leal for providing informatics support. This study was sup-
+ported by a FIS project 04/0530 and Marato TV3 project 052130. M.E.LL is
+an FIS investigator (CP03/00101).
+References
+1. Hayflick L, Moorhead PS: The serial cultivation of human diploid
+cell strains. Exp Cell Res 1961, 25:585-621.
+2. Schmitt CA, Fridman JS, Yang M, Lee S, Baranov E, Hoffman RM, Lowe
+SW: A senescence program controlled by p53 and p16INK4a
+contributes to the outcome of cancer therapy. Cell 2002,
+109:335-346.
+3. Shelton DN, Chang E, Whittier PS, Choi D, Funk WD: Microarray
+analysis of replicative senescence. Curr Biol 1999, 9:939-945.
+4. Lauber K, Bohn E, Kröber SM, Xiao YJ, Blumenthal SG, Lindemann
+RK, Marini P, Wiedig C, Zobywalski A, Baksh S, Xu Y, Autenrieth IB,
+Schulze-Osthoff K, Belka C, Stuhler G, Wesselborg S: Apoptotic
+cells induce migration of phagocytes via caspase-3-mediated
+release of a lipid attraction signal. Cell 2003, 113:717-730.
+5. Murphy JF, McGregor JL, Leung LL: Senescent human neutrophil
+binding to thrombospondin (TSP): evidence for a TSP-inde-
+pendent pathway of phagocytosis by macrophages. Br J Hae-
+matol 1998, 102:957-964.
+6. Gerland LM, Peyrol S, Lallemand C, Branche R, Magaud JP, Ffrench M:
+Association of increased autophagic inclusions labeled for
+beta-galactosidase with fibroblastic aging. Exp Gerontol 2003,
+38:887-895.
+7. Collado M, Gil J, Efeyan A, Guerra C, Schuhmacher AJ, Barradas M,
+Benguría A, Zaballos A, Flores JM, Barbacid M, Beach D, Serrano M:
+Tumour biology: senescence in premalignant tumours.
+Nature 2005, 436:642.
+8. Hanahan D, Weinberg RA: The hallmarks of cancer. Cell 2000,
+100:57-70.
+9. Michaloglou C, Vredeveld LC, Soengas MS, Denoyelle C, Kuilman T,
+Horst CM van der, Majoor DM, Shay JW, Mooi WJ, Peeper DS:
+BRAFE600-associated senescence-like cell cycle arrest of
+human naevi. Nature 2005, 436:720-724.
+10. Xue W, Zender L, Miething C, Dickins RA, Hernando E, Krizhanovsky
+V, Cordon-Cardo C, Lowe SW: Senescence and tumour clear-
+ance is triggered by p53 restoration in murine liver carcino-
+mas. Nature 2007, 445:656-660.
+11. Kondoh H, Lleonart ME, Gil J, Wang J, Degan P, Peters G, Martinez
+D, Carnero A, Beach D: Glycolytic enzymes can modulate cel-
+lular life span. Cancer Res 2005, 65:177-185.
+12. Lawson DA, Witte ON: Stem cells in prostate cancer initiation
+and progression. J Clin Invest 2007, 117:2044-2050.
+13. Pardal R, Molofsky AV, He S, Morrison SJ: Stem cell self-renewal
+and cancer cell proliferation are regulated by common net-
+works that balance the activation of proto-oncogenes and
+Phenotypic aspect of senescence induction from human mammalian epithelial cells (HMEC) immortalized with the TERT telom-erase (left panel)Figure 3
+Phenotypic aspect of senescence induction from human mammalian epithelial cells (HMEC) immortalized
+with the TERT telomerase (left panel). HMEC are induced to enter into senescence (right panel). HMEC are fixed and
+stained with Cell Mask to visualize cell morphology.
+SENESCENCE INDUCTIONIMMORTALIZED CELLS
+Cancer Therapy
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 9 of 10
+(page number not for citation purposes)
+tumor suppressors. Cold Spring Harb Symp Quant Biol 2005,
+70:177-185.
+14. Berns K, Hijmans EM, Mullenders J, Brummelkamp TR, Velds A,
+Heimerikx M, Kerkhoven RM, Madiredjo M, Nijkamp W, Weigelt B,
+Agami R, Ge W, Cavet G, Linsley PS, Beijersbergen RL, Bernards R:
+A large-scale RNAi screen in human cells identifies new com-
+ponents of the p53 pathway. Nature 2004, 428:431-437.
+15. Leal JF, Fominaya J, Cascon A, Guijarro MV, Blanco-Aparicio C, Lle-
+onart M, Castro ME, Ramon YCS, Robledo M, Beach DH, Carnero A:
+Cellular senescence bypass screen identifies new putative
+tumor suppressor genes. Oncogene 2007.
+16. ME LL, Vidal F, Gallardo D, Diaz-Fuertes M, Rojo F, Cuatrecasas M,
+Lopez-Vicente L, Kondoh H, Blanco C, Carnero A, Ramon y Cajal S:
+New p53 related genes in human tumors: significant down-
+regulation in colon and lung carcinomas. Oncol Rep 2006,
+16:603-608.
+17. Leal JF, Ferrer I, Blanco-Aparicio C, Hernandez-Losa J, Ramon YCS,
+Carnero A, Lleonart ME: S-adenosylhomocysteine hydrolase
+downregulation contributes to tumorigenesis. Carcinogenesis
+2008, 29:2089-2095.
+18. Bos JL: ras oncogenes in human cancer: a review. Cancer Res
+1989, 49:4682-4689.
+19. Downward J: Targeting RAS signalling pathways in cancer
+therapy. Nat Rev Cancer 2003, 3:11-22.
+20. Liu Z, Ghai J, Ostrow RS, McGlennen RC, Faras AJ: The E6 gene of
+human papillomavirus type 16 is sufficient for transforma-
+tion of baby rat kidney cells in cotransfection with activated
+Ha-ras. Virology 1994, 201:388-396.
+21. Serrano M, Lin AW, McCurrach ME, Beach D, Lowe SW: Oncogenic
+ras provokes premature cell senescence associated with
+accumulation of p53 and p16INK4a. Cell 1997, 88:593-602.
+22. Dimri GP, Testori A, Acosta M, Campisi J: Replicative senescence,
+aging and growth-regulatory transcription factors. Biol Signals
+1996, 5:154-162.
+23. Ventura A, Kirsch DG, McLaughlin ME, Tuveson DA, Grimm J, Lin-
+tault L, Newman J, Reczek EE, Weissleder R, Jacks T: Restoration of
+p53 function leads to tumour regression in vivo. Nature 2007,
+445:661-665.
+24. Martins CP, Brown-Swigart L, Evan GI: Modeling the therapeutic
+efficacy of p53 restoration in tumors. Cell 2006, 127:1323-1334.
+25. Spurgers KB, Gold DL, Coombes KR, Bohnenstiehl NL, Mullins B,
+Meyn RE, Logothetis CJ, McDonnell TJ: Identification of cell cycle
+regulatory genes as principal targets of p53-mediated tran-
+scriptional repression. J Biol Chem 2006, 281:25134-25142.
+26. Adams PD: Remodeling of chromatin structure in senescent
+cells and its potential impact on tumor suppression and
+aging. Gene 2007, 397:84-93.
+27. Jacobs JJ, Keblusek P, Robanus-Maandag E, Kristel P, Lingbeek M, Ned-
+erlof PM, van Welsem T, Vijver MJ van de, Koh EY, Daley GQ, van
+Lohuizen M: Senescence bypass screen identifies TBX2, which
+represses Cdkn2a (p19(ARF)) and is amplified in a subset of
+human breast cancers. Nat Genet 2000, 26:291-299.
+28. Maeda T, Hobbs RM, Merghoub T, Guernah I, Zelent A, Cordon-
+Cardo C, Teruya-Feldstein J, Pandolfi PP: Role of the proto-onco-
+gene Pokemon in cellular transformation and ARF repres-
+sion. Nature 2005, 433:278-285.
+29. Blasco MA: Telomeres and human disease: ageing, cancer and
+beyond. Nat Rev Genet 2005, 6:611-622.
+30. Bodnar AG, Ouellette M, Frolkis M, Holt SE, Chiu CP, Morin GB, Har-
+ley CB, Shay JW, Lichtsteiner S, Wright WE: Extension of life-span
+by introduction of telomerase into normal human cells. Sci-
+ence 1998, 279:349-352.
+31. Morales CP, Holt SE, Ouellette M, Kaur KJ, Yan Y, Wilson KS, White
+MA, Wright WE, Shay JW: Absence of cancer-associated
+changes in human fibroblasts immortalized with telomerase.
+Nat Genet 1999, 21:115-118.
+32. Yu J, Zhang L, Hwang PM, Kinzler KW, Vogelstein B: PUMA induces
+the rapid apoptosis of colorectal cancer cells. Mol Cell 2001,
+7:673-682.
+33. Hahn WC, Stewart SA, Brooks MW, York SG, Eaton E, Kurachi A,
+Beijersbergen RL, Knoll JH, Meyerson M, Weinberg RA: Inhibition
+of telomerase limits the growth of human cancer cells. Nat
+Med 1999, 5:1164-1170.
+34. Sherr CJ, Roberts JM: CDK inhibitors: positive and negative
+regulators of G1-phase progression. Genes Dev 1999,
+13:1501-1512.
+35. Serrano M, Blasco MA: Putting the stress on senescence. Curr
+Opin Cell Biol 2001, 13:748-753.
+36. Poremba C, Scheel C, Hero B, Christiansen H, Schaefer KL,
+Nakayama J, Berthold F, Juergens H, Boecker W, Dockhorn-
+Dworniczak B: Telomerase activity and telomerase subunits
+gene expression patterns in neuroblastoma: a molecular and
+immunohistochemical study establishing prognostic tools
+for fresh-frozen and paraffin-embedded tissues. J Clin Oncol
+2000, 18:2582-2592.
+37. Valencia-Sanchez MA, Liu J, Hannon GJ, Parker R: Control of trans-
+lation and mRNA degradation by miRNAs and siRNAs. Genes
+Dev 2006, 20:515-524.
+38. He L, Hannon GJ: MicroRNAs: small RNAs with a big role in
+gene regulation. Nat Rev Genet 2004, 5:522-531.
+39. Berezikov E, Guryev V, Belt J van de, Wienholds E, Plasterk RH, Cup-
+pen E: Phylogenetic shadowing and computational identifica-
+tion of human microRNA genes. Cell 2005, 120:21-24.
+40. Lujambio A, Ropero S, Ballestar E, Fraga MF, Cerrato C, Setién F,
+Casado S, Suarez-Gauthier A, Sanchez-Cespedes M, Git A, Spiteri I,
+Das PP, Caldas C, Miska E, Esteller M: Genetic unmasking of an
+epigenetically silenced microRNA in human cancer cells.
+Cancer Res 2007, 67:1424-1429.
+41. He L, He X, Lowe SW, Hannon GJ: microRNAs join the p53 net-
+work – another piece in the tumour-suppression puzzle. Nat
+Rev Cancer 2007, 7:819-822.
+42. Bommer GT, Gerin I, Feng Y, Kaczorowski AJ, Kuick R, Love RE, Zhai
+Y, Giordano TJ, Qin ZS, Moore BB, MacDougald OA, Cho KR, Fearon
+ER: p53-mediated activation of miRNA34 candidate tumor-
+suppressor genes. Curr Biol 2007, 17:1298-1307.
+43. Chang TC, Wentzel EA, Kent OA, Ramachandran K, Mullendore M,
+Lee KH, Feldmann G, Yamakuchi M, Ferlito M, Lowenstein CJ, Arking
+DE, Beer MA, Maitra A, Mendell JT: Transactivation of miR-34a
+by p53 broadly influences gene expression and promotes
+apoptosis. Mol Cell 2007, 26:745-752.
+44. Voorhoeve PM, le Sage C, Schrier M, Gillis AJ, Stoop H, Nagel R, Liu
+YP, van Duijse J, Drost J, Griekspoor A, Zlotorynski E, Yabuta N, De
+Vita G, Nojima H, Looijenga LH, Agami R: A genetic screen impli-
+cates miRNA-372 and miRNA-373 as oncogenes in testicular
+germ cell tumors. Cell 2006, 124:1169-1181.
+45. He L, He X, Lim LP, de Stanchina E, Xuan Z, Liang Y, Xue W, Zender
+L, Magnus J, Ridzon D, Jackson AL, Linsley PS, Chen C, Lowe SW,
+Cleary MA, Hannon GJ: A microRNA component of the p53
+tumour suppressor network. Nature 2007, 447:1130-1134.
+46. Tazawa H, Tsuchiya N, Izumiya M, Nakagama H: Tumor-suppres-
+sive miR-34a induces senescence-like growth arrest through
+modulation of the E2F pathway in human colon cancer cells.
+Proc Natl Acad Sci USA 2007, 104:15472-15477.
+47. Mitomo S, Maesawa C, Ogasawara S, Iwaya T, Shibazaki M, Yashima-
+Abo A, Kotani K, Oikawa H, Sakurai E, Izutsu N, Kato K, Komatsu H,
+Ikeda K, Wakabayashi G, Masuda T: Downregulation of miR-138
+is associated with overexpression of human telomerase
+reverse transcriptase protein in human anaplastic thyroid
+carcinoma cell lines. Cancer Sci 2008.
+48. Lee DY, Deng Z, Wang CH, Yang BB: MicroRNA-378 promotes
+cell survival, tumor growth, and angiogenesis by targeting
+SuFu and Fus-1 expression. Proc Natl Acad Sci USA 2007,
+104:20350-20355.
+49. Chen Q, Fischer A, Reagan JD, Yan LJ, Ames BN: Oxidative DNA
+damage and senescence of human diploid fibroblast cells.
+Proc Natl Acad Sci USA 1995, 92:4337-4341.
+50. Evans MJ, Saghatelian A, Sorensen EJ, Cravatt BF: Target discovery
+in small-molecule cell-based screens by in situ proteome
+reactivity profiling. Nat Biotechnol 2005, 23:1303-1307.
+51. Gambhir SS: Molecular imaging of cancer with positron emis-
+sion tomography. Nat Rev Cancer 2002, 2:683-693.
+52. Mohanti BK, Rath GK, Anantha N, Kannan V, Das BS, Chandramouli
+BA, Banerjee AK, Das S, Jena A, Ravichandran R, Sahi UP, Kumar R,
+Kapoor N, Kalia VK, Dwarakanath BS, Jain V: Improving cancer
+radiotherapy with 2-deoxy-D-glucose: phase I/II clinical trials
+on human cerebral gliomas. Int J Radiat Oncol Biol Phys 1996,
+35:103-111.
+53. Maschek G, Savaraj N, Priebe W, Braunschweiger P, Hamilton K, Tid-
+marsh GF, De Young LR, Lampidis TJ: 2-deoxy-D-glucose
+increases the efficacy of adriamycin and paclitaxel in human
+osteosarcoma and non-small cell lung cancers in vivo. Cancer
+Res 2004, 64:31-34.
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+Molecular Cancer 2009, 8:3 http://www.molecular-cancer.com/content/8/1/3
+Page 10 of 10
+(page number not for citation purposes)
+54. Laird PW: Cancer epigenetics. Hum Mol Genet 2005, 14(Spec No
+1):R65-76.
+55. Zhang W, Ji W, Yang J, Yang L, Chen W, Zhuang Z: Comparison of
+global DNA methylation profiles in replicative versus pre-
+mature senescence. Life Sci 2008, 83:475-480.
+56. Ushijima T, Okochi-Takada E: Aberrant methylations in cancer
+cells: where do they come from? Cancer Sci 2005, 96:206-211.
+57. Ko E, Kim Y, Kim SJ, Joh JW, Song S, Park CK, Park J, Kim DH: Pro-
+moter hypermethylation of the p16 gene is associated with
+poor prognosis in recurrent early-stage hepatocellular carci-
+noma. Cancer Epidemiol Biomarkers Prev 2008, 17:2260-2267.
+58. Hinshelwood RA, Huschtscha LI, Melki J, Stirzaker C, Abdipranoto A,
+Vissel B, Ravasi T, Wells CA, Hume DA, Reddel RR, Clark SJ: Con-
+cordant epigenetic silencing of transforming growth factor-
+beta signaling pathway genes occurs early in breast carcino-
+genesis. Cancer Res 2007, 67:11517-11527.
+59. Yagi S, Oda-Sato E, Uehara I, Asano Y, Nakajima W, Takeshita T, Tan-
+aka N: 5-Aza-2'-deoxycytidine restores proapoptotic function
+of p53 in cancer cells resistant to p53-induced apoptosis. Can-
+cer Invest 2008, 26:680-688.
+

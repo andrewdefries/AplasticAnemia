@@ -1,0 +1,4191 @@
+Metabolism of Trichloroethylene
+Lawrence H. Lash,1 Jeffrey W. Fisher,2 John C. Lipscomb,3 and Jean C. Parker4
+'Department of Pharmacology, Wayne State University School of Medicine, Detroit, Michigan USA; 2Toxicology Division, Armstrong
+Laboratory, Wright-Patterson AFB, Ohio USA; 3National Center for Environmental Assessment, U.S. Environmental Protection Agency,
+Cincinnati, Ohio USA; 4National Center for Environmental Assessment, U.S. Environmental Protection Agency, Washington, DC USA
+A major focus in the study of metabolism and disposition of trichloroethylene (TCE) is to identify
+metabolites that can be used reliably to assess flux through the various pathways of TCE
+metabolism and to identify those metabolites that are causally associated with toxic responses.
+Another important issue involves delineation of sex- and species-dependent differences in
+biotransformation pathways. Defining these differences can play an important role in the utility of
+laboratory animal data for understanding the pharmacokinetics and pharmacodynamics of TCE in
+humans. Sex-, species-, and strain-dependent differences in absorption and distribution of TCE may
+play some role in explaining differences in metabolism and susceptibility to toxicity from TCE
+exposure. The majority of differences in susceptibility, however, are likely due to sex-, species-, and
+strain-dependent differences in activities of the various enzymes that can metabolize TCE and its
+subsequent metabolites. An additional factor that plays a role in human health risk assessment for
+TCE is the high degree of variability in the activity of certain enzymes. TCE undergoes metabolism
+by two major pathways, cytochrome P450 (P450)-dependent oxidation and conjugation with
+glutathione (GSH). Key P450-derived metabolites of TCE that have been associated with specific
+target organs, such as the liver and lungs, include chloral hydrate, trichloroacetate, and
+dichloroacetate. Metabolites derived from the GSH conjugate of TCE, in contrast, have been
+associated with the kidney as a target organ. Specifically, metabolism of the cysteine conjugate of
+TCE by the cysteine conjugate ,B Iyase generates a reactive metabolite that is nephrotoxic and may
+be nephrocarcinogenic. Although the P450 pathway is a higher activity and higher affinity pathway
+than the GSH conjugation pathway, one should not automatically conclude that the latter pathway is
+only important at very high doses. A synthesis of this information is then presented to assess how
+experimental data, from either animals or from in vitro studies, can be extrapolated to humans for
+risk assessment. Key words: conjugate beta-lyase, cysteine glutathione, cytochrome P450,
+glutathione S-transferases, metabolism, sex dependence, species dependence, tissue dependence,
+trichloroethylene. - Environ Health Perspect 1 08(suppi 2):177-200 (2000).
+http.//ehpnetl.niehs.nih.gov/docs/2000/suppl-2/1 77-2001ash/abstract.html
+An understanding of the importance of each
+pathway of trichloroethylene (TCE) metabo-
+lism is critical for determining susceptibility,
+target organ specificity, and extrapolation of
+animal data to humans. Both a qualitative
+and a quantitative understanding of sex and
+species differences in metabolism should
+allow more accurate physiologically based
+pharmacokinetic (PBPK) modeling to be
+done and, hence, more accurate risk assess-
+ments to be made. Of course, the ability to
+obtain some metabolism data from human
+tissue enables comparison of modeling data
+with actual data and assessment of the accu-
+racy ofthe PBPK models. The final section of
+the review highlights some of the principal
+remaining questions and research needs relat-
+ing to metabolism ofTCE.
+A scheme summarizing the major meta-
+bolic pathways for TCE is shown (Figure 1).
+As described below and in other reviews in this
+monograph, the metabolic flux through the
+oxidative and glutathione (GSH)-dependent
+pathways differ in each tissue. Hence, modes
+of action for each target organ, which are
+largely dependent on the chemical species
+generated, will differ. Most of the focus on
+the oxidative pathway has been on the liver,
+which has the highest activities of any tissue
+of the various isoforms of cytochrome P450
+(P450). P450-derived metabolites have been
+directly associated with liver injury. The
+lungs are additional target organs for which
+P450-derived metabolites have been linked to
+toxic and pathologic processes. Although
+P450 activity is present in the kidneys, to
+date the nephrotoxic and potential nephro-
+carcinogenic effects of TCE have only been
+associated with metabolites derived from the
+GSH conjugation pathway. As described in
+subsequent sections of this review, the reac-
+tions of the GSH conjugation pathway, with
+the exception of the initial conjugation step,
+which occurs predominantly in the liver but
+can also occur in extrahepatic tissues, occur in
+the kidneys. This is caused by tissue-selective
+localization of transport processes and bioac-
+tivation steps (i.e., the cysteine conjugate
+3-lyase [,-lyase]) in epithelial cells of the
+renal proximal tubules.
+For the ultimate purpose of human
+health risk assessment, it is important to put
+the metabolism data in the context of actual,
+potential exposures. Hence, for most
+environmental exposures to TCE, such as
+those that may occur with contaminated
+drinking water, rates of metabolism in
+humans may be extremely small because of
+high Km and low V. values relative to those
+found in rodents. At higher occupational
+exposures to TCE, however, many of these
+metabolic pathways may be quantitatively sig-
+nificant in humans as well. A discussion of
+exposure levels in the human population is
+beyond the scope of this review. Readers are
+referred to the review by Wu et al. (1) on
+TCE exposure assessment and the review on
+PBPK modeling by Clewell et al. (2) in this
+monograph for more detailed discussions of
+exposures that are relevant to humans.
+In Vivo Absorption and
+Distribution of TCE
+As a result of its chemical properties (e.g.,
+volatility, lipophilicity), TCE is readily
+absorbed across biological membranes. For
+human exposures, TCE is considered to be an
+eye and skin irritant. There are essentially
+three types of exposures to consider for
+humans or laboratory animals: inhalation,
+dermal, and oral. Exposure is usually either
+from TCE vapor or from TCE liquid. In
+either form, TCE is rapidly and extensively
+absorbed through the lungs or gastrointestinal
+tract, respectively. Absorbed TCE is then sub-
+sequently distributed to different target
+organs (e.g., lungs, liver, kidneys, nervous sys-
+tem) via the circulatory system.
+After inhalation exposure, TCE is rapidly
+and extensively absorbed through the alveolar
+endothelium due to a high blood/gas parti-
+tion coefficient. Although absorption is high
+in all cases, blood/gas partition coefficients
+vary significantly among species (Table 1).
+Since the blood/gas partition coefficient in
+humans is approximately 1.5- and 2.5-fold
+lower than that in mice and rats, respectively,
+This article is part of the monograph on Trichloroethylene
+Toxicity.
+Address correspondence to L.H. Lash, Dept. of
+Pharmacology, Wayne State University School of
+Medicine, 540 East Canfield Ave., Detroit, Ml 48201.
+Telephone: (313) 577-0475. Fax: (313) 577-6739.
+E-mail: l.h.lash@wayne.edu
+The views expressed in this article are those of the
+authors and do not necessarily reflect the views or
+policies of the U.S. government agencies.
+Received 20 October 1999; accepted 21 January
+2000.
+177Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+LASH ET AL.
+this suggests that delivery of TCE to the
+circulatory system for translocation to target
+organs may be significantly less efficient in
+humans than in rodents and is a factor that
+may need to be taken into account when
+using animal data in a risk assessment analysis
+for TCE.
+Dermal absorption from exposure to TCE
+vapor is negligible, although direct skin con-
+tact with TCE liquid may lead to significant
+absorption. Since a large proportion of the
+TCE that is absorbed dermally in humans is
+excreted unchanged through the lungs and
+this is not the usual route of exposure to
+TCE, dermal absorption is not considered to
+be a major factor in the risk assessment analy-
+sis (3). These data have been reviewed by
+Davidson and Beliles (4). It should be noted,
+however, that a study ofdermal absorption of
+dilute, aqueous solutions ofTCE and similar
+organic solvents in hairless guinea pigs indi-
+cated that significant absorption occurs (5).
+This type of exposure mimics that of the
+human population to drinking water contam-
+inated with TCE. Hence, dermal absorption
+should be considered in risk assessment analyses
+for this type ofexposure.
+GST/
+Cl SG
+H>=<Cl
+H H
+Cla= (D
+j3-Lyase
+ICl S
+H>=<Cl j
+4
+Cytotoxicity
+Mutagenicity
+e.
+HN~
+Ci :0aC .~~~~~~~~~~~
+cl cI
+H CI
+1
+Besides inhalation, oral absorption is a
+major factor in exposure to TCE. Since TCE
+is uncharged, nonpolar, and highly lipophilic,
+gastrointestinal absorption is extensive and
+occurs by passive diffusion. One would
+expect, therefore, that oral absorption would
+be a nonvarying element in the pharmaco-
+kinetics ofTCE. However, differences in oral
+absorption of TCE are evident when TCE is
+administered either in water or corn oil. For
+example, Withey et al. (6) demonstrated that
+peak blood concentrations of TCE in rats
+given an intragastric dose (18 mg/kg) in water
+was nearly 15-fold higher than those in rats
+given the same dose in the same volume of
+corn oil (14.7 vs 1.0 pg/mL). Hence, the
+authors concluded that gastrointestinal
+absorption of TCE can be limited by the
+absorption ofthe vehicle. The vehicle used in
+exposures in animal studies, therefore, needs
+to be taken into account when extrapolating
+animal exposure data for human health risk
+assessment.
+As a consequence of differences in blood
+flow and overall metabolic rate, species differ-
+ences exist in the fraction of administered
+dose of TCE that is available for conversion
+P-450
+[TCE-Oxide
+?- or
+6 TCE-O-P-4
+C12CH- C,
+('
+0
+OH.CH2-C,
+NH-(CH220H
+/ 7*
+50 /
+HO OH
+0
+_
+OH
+C13C-C s C13C-CH"
+\H 'OH
+2b
+C13C CCC13CCH20H
+\OH 1*I
+C12CH -C\OH
+10Q * Ci3CCH20-gluc
+CICH
+4H HO OH
+14*
+Figure 1. Scheme of metabolism of TCE. Metabolites marked with an asterisk are known urinary metabolites.
+Metabolites: 1 = TCE; 2 = DCVG; 3 = DCVC; 4 = 1,2-dichlorovinylthiol; 5 = NAcDCVC; 6 = TCE-P450 or TCE-oxide inter-
+mediate; 7 = N-(hydroxyacetyl)-aminoethanol; 8 = oxalic acid; 9a = chloral; 9b, chloral hydrate; 10 = dichloroacetic
+acid; 11 = trichloroacetic acid; 12 = trichloroethanol; 13 = trichloroethanol glucuronide; 14, monochloroacetic acid.
+to toxic metabolites in the target organs. For
+example, Prout et al. (7) compared blood
+concentrations of TCE, chloral hydrate
+(CH), trichloroethanol (TCOH), and
+trichloroacetate (TCA) over time after admin-
+istration of a 1,000 mg/kg oral dose ofTCE
+to male Osborne-Mendel rats and male
+B6C3F1 mice. They observed that blood con-
+centrations for the three metabolites of TCE
+were markedly higher in mice than in rats at
+most time points, whereas those for TCE
+were higher in rats than in mice, indicating
+more rapid metabolism and elimination of
+TCE in the mice (Table 2). Furthermore, the
+area under the curve (AUC) was severalfold
+higher for CH, TCOH, and TCA in mice
+than in rats. Fisher et al. (8) also observed
+approximately 5-fold higher peak blood con-
+centrations of TCE in male and female rats
+compared with male and female mice and
+Table 1. Reported blood/gas coefficient for TCE in rats,
+mice, and humans.
+Species Blood/gas coefficient Reference
+Rat
+F344, male 25.8 (163)
+SD, male 21.9 (8)
+F344, male 21.9 (7)
+F344, female 15.0 (7)
+Mouse
+B6C3F1, male 13.4 (7)
+B6C3F1, female 14.3 (7)
+Human, both male 9.92 (163)
+9.2 (164)
+SD, Sprague-Dawley.
+Table 2. Blood concentrations of TCE and selected
+metabolites in male Osborne-Mendel rats and male
+B6C3F1 mice after an oral dose of TCE.a
+Peak blood Time after
+concentration exposure AUC
+(pg/mL) of peak (hr) (mice:rats)
+TCE
+Rats 61.4 3.0
+Mice 18.2 0.5
+7.9
+CH
+Rats 0.86 9.0
+Mice 1.77 3.0
+1.0
+TCOH
+Rats 8.0 10.0
+Mice 33.5 2.0
+3.9
+TCA
+Rats 50 14.0
+Mice 263 14.0
+288 30.0
+6.3
+Rats and mice were given TCE (1,000 mg/kg) per os in corn oil.
+Blood samples were taken by cardiac puncture and were ana-
+lyzed by gas chromatography. AUC were determined graphically
+up to the final time point taken (TCE: 7.5 hr in rats, 11 hr in mice;
+CH: 15 hr in rats, 10 hr in mice; TCOH: 18 hr in rats, 8 hr in mice;
+TCA: 40 hr in rats, 44 hr in mice). For TCA in mice, two major
+peaks of blood concentration were observed. Data originally
+reported in Prout et al. (7).
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000178
+METABOLISM OF TCE
+similarly higher peak plasma concentrations
+of TCA in male and female mice compared
+with male and female rats. These observations
+have important implications for species differ-
+ences in susceptibility to toxicity. As discussed
+in the review on mode of action in the liver
+(9), TCA is believed to be the primary TCE
+metabolite responsible for liver injury and
+proliferation. The markedly higher blood
+concentrations of TCA in mice compared
+with rats indicate that more TCA will get to
+the target organ in mice and are consistent
+with the male mouse as the sex and species
+that is the most susceptible to liver injury and
+carcinogenesis.
+In analyzing the distribution ofTCE into
+various tissues, three major compartmental
+tissue groups can be identified: richly per-
+fused (e.g., liver, kidneys, lung), poorly per-
+fused (e.g., muscle), and adipose tissue. TCE
+readily equilibrates from the circulation into
+richly perfused tissues, with reported partition
+coefficients for liver:blood or richly perfused
+tissue:blood for male rats of approximately
+1.2 (8,10). Partition coefficients for female
+rats (1.46) and for male and female mice
+(2.03 and 1.62, respectively) are modestly
+higher than those in male rats (8), but these
+modest differences are not likely to be major
+factors in the sex- and species-dependent dif-
+ferences in TCE-induced toxicity.
+Muscle:blood partition coefficients for TCE
+have been reported to be less than 0.5 for
+male and female rats and female mice and
+1.00 for male mice (8,10). Hence, muscle is
+neither a major site ofstorage nor a major site
+of metabolism of TCE and does not signifi-
+cantly influence TCE pharmacokinetics or
+pharmacodynamics.
+Although the adipose tissue:blood parti-
+tion coefficient does not differ greatly among
+male and female rats and mice, with reported
+values ranging between 25 and 41 (8), the
+fact that it is so high indicates that sequestra-
+tion of TCE in fat may have a major influ-
+ence on the pharmacokinetics of TCE. In
+fact, the half-life of TCE in adipose tissue is
+estimated to be 3.5-5 hr, whereas that in
+both the richly and poorly perfused compart-
+ments is estimated to be 2-4 min (4). Hence,
+slow release of TCE from fat several hours
+after initial exposures to TCE can lead to
+continued delivery of TCE to target organs.
+Fat may also be a site of metabolism ofTCE,
+as cytochrome P4502E1 (CYP2E1) is present
+in adipose tissue microsomes (11).
+Pharmacokinetics of TCE
+and Its Major Oxidative
+Metabolites
+As described above, orally administered TCE
+is rapidly and extensively absorbed into the
+systemic circulation. Daniel (12) dosed rats
+by stomach tube (60 mg/kg) with labeled
+TCE and reported that 90-95% of the radio-
+label was recovered in expired air and urine.
+Dekant et al. (13) gavage-dosed mice and rats
+with 200 mg/kg of labeled TCE in corn oil
+and recovered 93-98% of the radiolabel.
+Prout et al. (7) administered several doses of
+labeled TCE (10-2,000 mg/kg) to rats and
+mice and recovered 93-98% of the radiolabel
+and reported that peak blood levels occurred
+in 1 hr in mice and 3 hr in rats. D'Souza et
+al. (14), using classical pharmacokinetic
+analysis, reported that oral and intravenous
+bioavailability of TCE was 60-90% in non-
+fasted rats and greater than 90% in fasted
+rats. Peak blood levels occurred between 6-10
+min and blood concentrations were 2-3
+times higher in the fasted rats compared with
+the nonfasted rats. Lee et al. (15) empirically
+demonstrated that presystemic elimination
+(metabolism) of low dose rates of TCE was
+inversely related to dose and was nonlinear,
+leading these authors to suggest that trace
+amounts of TCE in the drinking water may
+not enter the systemic circulation.
+No controlled oral ingestion studies in
+human have been reported in the literature
+for TCE. Evidence for oral uptake ofTCE in
+humans is inferred from case studies that
+report poisonings. Accidental or intentional
+ingestion of large amounts of TCE has
+occurred, resulting in death (16). A more
+recent study of an attempted suicide of a 17-
+year old who ingested 70 mL of TCE also
+shows rapid systemic uptake and tissue distri-
+bution, with peak blood concentrations of
+TCE being obtained 13 hr after ingestion
+(17).
+Inhalation of TCE results in very rapid
+uptake of TCE into the systemic circulation
+in animals (8) and humans (18), although
+the time required to reach peak blood con-
+centrations differs across species. Peak blood
+concentrations of TCE are achieved within
+1-2 hr in mice exposed to 100-750 ppm-
+TCE vapors, in 4-6 hr in rats exposed to
+500-600 ppm TCE vapors, and in 8-12 hr
+in humans exposed to 100 ppm TCE.
+Once TCE is in the systemic circulation,
+TCE is oxidized (metabolized) rapidly. Using
+PBPK models, estimates of metabolic capac-
+ity have been determined in rodents and
+humans, and are summarized in Table 3. It is
+clear that rodents have a much high capacity
+to metabolize TCE than humans. Estimated
+values for Michaelis-Menten affinity con-
+stants (Ki) were estimated to be low for
+rodents and humans (0.25-1.5 mg/L),
+reflecting a high substrate (TCE) affinity.
+Although several metabolic products
+derived from the GSH and P450 metabolic
+pathways have been identified for TCE, only
+a few of the major metabolites have been
+characterized pharmacokinetically in rodents
+and humans. The plasma half-life ofTCA in
+humans ranges from 86 to 99 hr after inhala-
+tion of either 50 or 100 ppm TCE, 6 hr/day
+for either 5 or 10 days (19). Oral administra-
+tion of either TCOH (10 mg/kg) or CH (15
+mg/kg) in humans resulted in a 63- to 65-hr
+plasma half-life for the metabolite, TCA.
+Administration of TCA alone (3 mg/kg)
+resulted in a plasma half-life for TCA of 51
+hr (19).
+The plasma half-life values for TCA are
+much shorter in rodents than in humans. In
+rats given intravenous administration ofTCA
+(5-6 mg/kg), the TCA plasma half-lives were
+12 and 7 hr in males and females, respectively
+(8). In mice given intraperitoneal doses of
+TCA (5-10 mg/kg), the plasma half-lives for
+TCA were 7 and 3 hr for males and females,
+respectively (8). In mice exposed to TCE
+vapors (42-889 ppm) for 4 hr, the estimated
+plasma half-life values for TCA were 16 and 7
+hr for males and females, respectively (8). In
+male and female rats exposed to TCE vapors
+(500-600 ppm), the estimated half-life value
+for TCA in plasma was 15 hr (20).
+The residence time for free TCOH in
+blood is less than the residence time in
+plasma for TCA in rodents and humans. The
+half-life of free TCOH in blood is about 12
+hr in humans exposed to 50 ppm TCE
+vapors 6 hr per day for 5 days (21) and is 3
+hr in mice administered 1,200 mg/kg TCE
+via oral bolus intubation (22). Two other
+oxidative end products readily found in blood
+of mice administered TCE that are not read-
+ily measured in human blood are chloral
+hydrate and trichloroethanol glucuronide.
+CH and TCOH glucuronide (TCOG) were
+not measured in humans exposed to 100 ppm
+TCE for 4 hr (19). In mice gavage-dosed
+with 1,200 mg/kg ofTCE, the blood half-life
+values for CH and TCOG were 3 and 5 hr,
+respectively (22).
+Oxidative Pathways of TCE
+Metabolism
+This section describes each step of the oxida-
+tive pathway ofTCE metabolism and identi-
+fies key metabolites that are thought to be
+important for development of toxicity or car-
+cinogenesis. Although many of the enzymes
+Table 3. Species-dependent differences in metabolic
+capacity for TCE.a
+Species Metabolic capacity (VmaxCJ Reference
+Humans 14.9 (15)
+4-5 (16)
+Female mice 23.1 (6,17)
+Male mice 32.7 (6,17)
+Male and 11-11.5 (6,17)
+female rats
+&Metabolic capacity ( VmaXC) is defined as the maximal rate of
+metabolism, with units of milligram substrate metabolized per
+kilogram body weight per hour.
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 179
+LASH ET AL.
+that catalyze the specific steps ofthis pathway
+are distributed fairly ubiquitously, a range of
+activity levels of specific isozymes is found in
+the different target tissues or in a given tissue
+in males and females from various species,
+which can markedly alter the distribution of
+metabolites that are formed. This, in turn,
+may have mechanistic implications as tissue-
+and/or sex- and/or species-specific accumu-
+lation ofcertain metabolites can produce toxic
+responses that are not otherwise observed.
+Descrption ofOxidative Pathways
+ofTCE Metabolism
+Role offormation ofTCE-epoxide in oxida-
+tive metabolism ofTCE. Although TCE is a
+chemically simple compound, its metabolism
+is rather complex. The initial step in TCE
+metabolism, as described above (Figure 1), is
+either conjugation with GSH (discussed
+below) or oxidation by P450. The oxidative
+pathway is quantitatively by far the major
+pathway for TCE metabolism and the liver is
+the primary tissue where this step takes place,
+although P450 isoforms are present in most
+tissues in varying forms and amounts. The
+initial step in the oxidative metabolism of
+many halogenated alkenes is epoxidation
+(23). Hence, the biotransformation of TCE
+to a reactive epoxide intermediate (2,2,3-
+trichlorooxirane) was proposed many years
+ago (24,25). The finding ofCH as a metabo-
+lite ofTCE was seen as being consistent with
+the transient formation of a reactive epoxide
+intermediate. Epoxides can readily form acyl
+chlorides, which are subsequently hydrolyzed
+to the corresponding acids, or they can form
+aldehydes that are subsequently oxidized to
+carboxylic acids or reduced to alcohols. The
+existence of CH, TCOH, and TCA as major
+metabolites ofTCE is in accordance with this
+scenario. Several years ago, controversy
+existed over whether TCE oxidation goes
+through an epoxide intermediate. The signifi-
+cance of this is in the identification of the
+electrophilic intermediate(s) that can cause
+cellular injury or mutations. An understand-
+ing of the chemical bioactivation mechanism
+is necessary for elucidating the mode of
+action of TCE in producing acute cellular
+toxicity and carcinogenesis.
+In spite ofthe evidence in favor ofepoxide
+formation, Miller and Guengerich (26,27)
+concluded that TCE epoxide is not an oblig-
+ate intermediate in the formation of CH and
+that TCE epoxide cannot be the intermediate
+responsible for irreversible binding to protein
+and DNA. Although the P450 heme is
+destroyed during the oxidative metabolism of
+TCE, the epoxide does not destroy the heme
+(27). Green and Prout (28) also concluded
+that there was little evidence to support the
+intermediate formation of an epoxide in the
+oxidative metabolism ofTCE in rat or mouse
+liver microsomes. Furthermore, an epoxide
+intermediate should yield CO, CO2,
+dichloroacetate (DCA), and monochloroacetic
+acid (CAA) as predominant metabolites from
+TCE; in contrast to this, CH, TCA, and
+TCOH are the major oxidative metabolites
+that are recovered in both in vivo and in vitro
+studies (28). Miller and Guengerich (27)
+concluded that the species that irreversibly
+binds to protein and DNA during TCE
+metabolism must have, unlike an epoxide, a
+reasonable degree ofchemical stability. Hence,
+the current dogma is that the majority ofTCE
+is believed to undergo chlorine migration in
+an oxygenated TCE-P450 transition state
+leading to CH formation. However, Forkert
+and co-workers (29-32) have provided sub-
+stantial evidence that 1,1-dichloroethylene,
+which is very similar to TCE, is metabolized
+by P450 to an epoxide intermediate. These
+findings suggest that the role ofthe epoxide in
+TCE metabolism should be revisited (see dis-
+cussion under "Questions and Research
+Needs" below).
+The previous conclusion in the last U.S.
+Environmental Protection Agency risk assess-
+ment for TCE (33) that an epoxide interme-
+diate is involved in the initial step of the
+oxidative metabolism of TCE may be erro-
+neous but requires further study. In spite of
+this, a recent review on TCE metabolism and
+toxicity (34) showed TCE being converted
+by P450 to CH through an epoxide interme-
+diate and did not consider the oxygenated
+transition state and chlorine migration.
+Uncertainty about the significance of an
+epoxide intermediate still exists, therefore,
+and needs to be unambiguously resolved.
+Metabolism of TCE to chloral hydrate
+and trichloroethanol Four different P450 iso-
+forms have been identified as playing a role in
+TCE metabolism: CYPlAl /2, CYP2B1/2,
+CYP2C1 1/6, and CYP2E1 (35-42). Ofthese
+isoforms, CYP2E1 appears to be the major
+form with the highest affinity for TCE
+(35,36,39), although considerable variability
+can exist in the relative roles of different iso-
+forms, depending on physiological state and
+on the presence of other drugs or inducing
+agents. Furthermore, as discussed below, most
+of the work on oxidative metabolism ofTCE
+has been done in the liver. Consequently, it is
+not known if isoform specificity for TCE is
+the same in other tissues. Additionally, P450
+isoform specificity in different animal species
+has not been thoroughly investigated.
+Differences among animal species in isoform
+content and specificity may, and likely does,
+play a role in the observed differences in
+metabolism and toxicity.
+Lipscomb et al. (11) examined the oxida-
+tive metabolism ofTCE in mouse, rat, and
+human liver microsomes and showed that
+TCE alters the metabolism ofseveral chemicals
+that are characteristic substrates of CYP2E1 in
+all three species (N-dimethylnitrosamine-N-
+demethylase and p-nitrophenol hydroxylase),
+of CYP3A (benzoxyresorufin Odeethylase) in
+mice and rats, of CYPIA1/2 (ethoxyresorufin
+Odeethylase and phenacetin O-deethylase) in
+all three species, but had no effect on CYP2A
+(coumarin hydroxylase) activity. The effect of
+TCE was inhibitory for CYP2E1 and CYP3A
+and stimulatory for CYPIA1/2. These data
+confirmed earlier studies by Nakajima et al.
+(40) that CYP2E1 is the major hepatic
+isoform ofP450 involved in TCE oxidation.
+The broad range of halogenated hydro-
+carbons and other small organic molecules
+that undergo oxidation by CYP2E1 and the
+existence ofseveral drugs and physiological or
+pathological conditions that may lead to
+induction of CYP2E1 indicate that certain
+conditions or prior or concurrent exposure to
+other chemicals, in particular ethanol, are
+important factors that must be taken into
+account in a risk assessment, since these may
+markedly alter the capacity for TCE metabo-
+lism by this pathway.
+After formation of the TCE-oxygen-P450
+(TCE-O-P450) or epoxide intermediate, CH
+(in equilibrium with chloral) is the major
+metabolite produced. In the liver, only small
+amounts of CH can be recovered as it is
+rapidly converted to other compounds.
+Hence, CH is not likely to be a major consid-
+eration for hepatotoxicity or hepatocarcino-
+genicity. In the lungs of male CD-1 mice,
+however, TCE produces Clara cell injury
+(43,44), and this has been attributed to the
+accumulation of CH, which occurs because
+the subsequent steps in the metabolism of
+CH are much slower than the conversion of
+TCE to CH (45). Besides having a slow rate
+ofsubsequent metabolism of CH, the rate of
+formation of CH in mouse lung is markedly
+higher than that in either rat or human lung
+(44). CH may be mutagenic, causing DNA
+damage, and is clastrogenic, producing aneu-
+ploidy. Although CH has been shown to be
+genotoxic (45), lung tumors resulting from
+CH are primarily benign, which is more con-
+sistent with a nongenotoxic, cell-proliferative
+mechanism. The cytotoxicity that can occur
+from the accumulation of CH, with subse-
+quent repair mechanisms, may enhance cell
+proliferation leading to tumor formation. It
+should be noted, however, that the cytotoxic-
+ity of CH requires high concentrations to be
+accumulated, suggesting that the mouse lung
+is a specialized case and that this mode of
+action is probably not very relevant to that of
+TCE in other tissues or to other species.
+In addition to CH, oxalic acid (OX), N-
+(hydroxyacetyl)aminoethanol, and DCA
+(through formation of an acyl chloride inter-
+mediate) may be formed from the TCE-O-
+P450 or TCE-epoxide intermediate (Figure
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000180
+METABOLISM OF TCE
+1). All four metabolites have been recovered
+in the urine of both laboratory animals and
+humans exposed to TCE. Subsequent metab-
+olism is more complicated, involving multiple
+steps and other oxidative and reductive
+enzymes besides P450. With the exception of
+DCA, which is also formed by other mecha-
+nisms (see below), the other two metabolites
+are not likely to be of interest for understand-
+ing modes of action or risk assessment. CH is
+further metabolized to either TCOH or TCA,
+both of which can be further oxidized to
+DCA. A pharmacokinetic analysis of CH
+metabolism in B6C3F1 mice provided evi-
+dence that was consistent with some forma-
+tion of DCA directly from TCA (46).
+TCOH also undergoes glucuronidation, and
+TCOG has been recovered in the urine ofani-
+mals and humans exposed to TCE. TCOG
+may also undergo enterohepatic recirculation
+and regenerate TCOH (see below).
+CH reduction to TCOH has been
+reported to be inhibited by ethanol, and it
+was suggested that this reaction is, therefore,
+catalyzed by alcohol dehydrogenase (47,48).
+A recent study in mouse liver microsomes
+(49), however, found that pretreatment of
+mice with pyrazole, which induces CYP2E1,
+enhanced lipid peroxidation due to CH,
+whereas addition of a general P450 inhibitor
+reduced CH-induced lipid peroxidation. This
+suggested that metabolism of CH to TCOH
+and TCA is catalyzed primarily by CYP2E1.
+Furthermore, a human lymphoblastoid cell
+line expressing CYP2E1 metabolized CH to
+mutagenic metabolites, proposed to be
+derived from TCA and TCOH, whereas the
+parent cell line, which lacks CYP2E1, was
+inactive in CH metabolism (50). The pro-
+posed pathway offormation ofthe mutagenic
+metabolites in the transfected human
+lymphoblastoid cell line appeared to be simi-
+lar to that in mouse liver microsomes. Since
+ethanol is metabolized in liver by both alco-
+hol dehydrogenase and CYP2E1 and Larson
+and Bull (47) showed a dependence of the
+reaction on NAD+, it is likely that both
+enzymes can be involved. The precise role of
+each enzyme in the reduction of CH to
+TCOH, however, remains to be determined.
+Schultz and Weiner (50) found that the
+formation of TCOH from CH is stimulated
+in vitro by inclusion ofethanol in the reaction
+mixture. This, coupled with the in vivo data
+ofSellers et al. (51), supports the role ofalco-
+hol dehydrogenase in the formation of
+TCOH. The redox shuttling of cofactor-
+enzyme complex in the sequential reduction
+of CH and the oxidation of ethanol is
+enabled by the rate-limiting release of cofac-
+tor. The apparent contradiction with studies
+that have shown inhibition of alcohol dehy-
+drogenase by CH may be explained by the
+substrate concentrations used. Data from
+Lipscomb et al. (52) imply that more than
+one enzyme is involved in TCOH formation
+in mouse liver. The increase in reaction rate is
+not observed at substrate concentrations
+above 0.5 mM (concentrations not likely to
+be observed in vivo). Analysis of kinetics data
+led Lipscomb et al. (52) to conclude that at
+higher substrate concentrations, a second,
+lower affinity enzyme becomes largely respon-
+sible for CH reduction. Similar kinetics, how-
+ever, could not be demonstrated in rat or
+human liver cytosol.
+Formation of trichloroacetate and
+dichloroacetate. TCA is produced by oxidation
+of either CH or TCOH. Oxidation of CH is
+believed to be catalyzed by an aldehyde oxi-
+dase, whereas oxidation of TCOH is cat-
+alyzed by P450, with CYP2E1 likely being
+the predominant isoform involved (49). As
+mentioned above, metabolism of CH to
+TCOH or TCA is slow in mouse lung, lead-
+ing to accumulation of CH within the Clara
+cells. Overall, however, the lung plays a quan-
+titatively minor role in CH metabolism. The
+subsequent reactions ofCH are rapid in liver,
+leading to production of TCOH and TCA.
+Kinetics and time course studies in mice, rats,
+and dogs of TCE metabolism to CH, TCA,
+and TCOH are consistent with TCA being
+derived from oxidation of both CH and
+TCOH (28,53-55).
+Lipscomb et al. (52) reported marked dif-
+ferences in CH metabolism to TCOH and
+TCA in liver and blood of rats, mice, and
+humans. Determination of kinetic parameters
+at physiologically obtainable concentrations of
+CH (i.e., in the range of 50 gM) showed that
+CH is cleared from human blood through
+hepatic metabolism at approximately 60% of
+the rate as in rodents. Hence, these data sug-
+gest that higher amounts of CH will be pre-
+sent in human blood and tissues than in those
+ofrodents after a given exposure to TCE.
+There has been considerable controversy
+and uncertainty about the sources and
+amounts of DCA formation, particularly in
+humans. Bull and colleagues (54,56,57)
+reported detection of DCA in urine of both
+rats and mice treated with TCA and in blood
+of mice treated with TCE. However, prob-
+lems were reported with analytical methodolo-
+gies that led to artifactual overestimations of
+DCA formation (58). The AUC for DCA fol-
+lowing TCE administration to mice exceeded
+that predicted from the formation of TCA
+from TCE. Although other pathways for
+DCA formation have been proposed and may
+occur, it appears that in the presence ofstrong
+acids, some ofthe TCA that is in whole blood
+can undergo nonenzymatic conversion to
+DCA, thus leading to overestimation of DCA
+formation. In a subsequent study, Bull and
+colleagues (55) reassessed formation of
+metabolites ofTCE in blood from rats, mice,
+and dogs, and found measurable levels of
+DCA only in blood from mice. Similarly, it is
+unclear whether DCA is produced in humans
+under normal circumstances. Henderson et al.
+(59) identified DCA, in addition to TCA,
+TCOH, and TCOG, as a metabolite of CH
+in children, for whom CH is still used thera-
+peutically as a sedative-hypnotic agent.
+Nonetheless, more DCA is formed in mice
+than in other species. It is difficult, therefore,
+to develop parameters for DCA formation
+that can be used in PBPK models for human
+health risk assessment. Since both DCA and
+TCA produce hepatomegaly and cytomegaly
+that may lead to hepatocarcinogenesis (54,56)
+and DCA is derived from both TCA and
+TCOH, assumptions need to be made until a
+more definitive verdict on the formation of
+DCA in humans is made. However, both
+DCA and TCA are unequivocally hepatocar-
+cinogenic, irrespective of their mechanism or
+mode ofaction (54).
+An errata was published based on the
+studies of Templin et al. (57) and Abbas et
+al. (46) concerning artifacts in the determi-
+nation of DCA. The bottom line is that the
+probable DCA concentrations in biological
+fluids are lower than those reported because
+ofdifficulties in analysis.
+Formation ofother oxidative endproducts.
+An additional problem with detection ofDCA
+in biological samples, particularly tissue from
+liver, is the subsequent metabolism of DCA to
+other species, such as OX, CAA, glycolic acid,
+and glyoxylic acid (GLX). DCA has a much
+shorter half-life than TCA in rats and mice
+(56), consistent with rapid metabolism or
+excretion. Lipscomb et al. (60) described
+metabolism of DCA in liver cytosol from male
+B6C3F, mice and Fischer 344 (F344) rats that
+was dependent on reduced pyridine
+nucleotides and GSH but was oxygen inde-
+pendent. Stacpoole and colleagues (61)
+showed that liver cytosol from both rats and
+humans catalyzes the GSH-dependent conver-
+sion of DCA to GLX. The reaction is
+NAD(P)H-independent and exhibits a Km for
+GSH of only 75 iM. It is unclear whether a
+GSH S-transferase (GST) isozyme is involved
+in the reaction.
+Liver microsomes and mitochondria
+exhibit insignificant activity of DCA degrada-
+tion (60). Hence, although dehalogenation of
+DCA to CAA may occur by P450-mediated
+catalysis, the major pathway(s) for hepatic
+DCA degradation appears to be P450-inde-
+pendent. In fact, Anders and Tong (62)
+recently showed that a newly described isoform
+of GST, GST4, is involved in the GSH-
+dependent oxygenation ofDCA to form GLX.
+The significance of these metabolites of
+DCA in TCE-induced toxicity and carcino-
+genesis is unclear, but their role is likely to be
+quantitatively minor. Little or trace amounts
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 181
+LASH ET AL.
+above background of OX, CAA, glycolate,
+and GLX are detected in in vivo exposures to
+TCE or in in vitro incubations with TCE.
+OX is poorly soluble in water, leading to pre-
+cipitates. Hence, extensive formation of OX
+might be expected to lead to formation of
+stones in the urinary tract.
+Tissue Distribution ofOxidative
+Metabolism ofTCE
+Relative rates of oxidative metabolism of
+TCE in key target organs are important in
+understanding how these tissue-dependent
+differences affect toxicity. Besides P450,
+which catalyzes the initial step of TCE
+metabolism, tissue-dependent differences in
+secondary enzymes that act on metabolites of
+TCE, such as alcohol dehydrogenase and
+UDP-glucuronosyltransferase, may be impor-
+tant in that differences in these activities rela-
+tive to P450 may alter the distribution of
+metabolites so that one or more metabolites
+may accumulate, leading to a pattern oftoxic-
+ity that does not occur in tissues that have a
+different distribution ofthese activities.
+Quantitatively, the liver is the most
+important site of oxidative metabolism of
+TCE due to the first-pass effect. Regardless of
+the route of administration (i.e., dermal,
+inhalation, oral), most of the TCE is rapidly
+absorbed into the circulation and goes to the
+liver. Only in specialized circumstances does
+the liver not play a key role or at least some
+role in determining overall metabolism and
+toxicity.
+A situation where differential activities of
+the enzymes ofthe oxidative pathway ofTCE
+metabolism markedly affect the distribution
+of metabolites and the toxicity is that of CH
+accumulation in mouse lungs (44,45). Clara
+cells ofmouse lungs have relatively high P450
+activity but have low activities of alcohol
+dehydrogenase and UDP-glucuronosyltrans-
+ferase. Hence, the enzymes that metabolize
+CH and TCOH are believed to be present in
+low amounts relative to P450, leading to an
+accumulation of CH in the cells. Since
+TCOH is recovered in significantly greater
+amounts and as a higher fraction of total
+TCE metabolites in mice than in other
+species, UDP-glucuronosyltransferase may be
+present at relatively low levels compared to
+the other enzymes involved in oxidative
+metabolism of TCE, not only in the mouse
+lung, but in other mouse tissues as well,
+including the liver.
+Besides the liver, the kidneys may be
+directly exposed to TCE or some of its
+metabolites, since they receive 25% of the
+cardiac output. While the kidneys contain
+P450 activities, induding CYP2E1 (at least in
+rodents), most ofit is in the proximal tubules
+and the total activity in the tissue as a whole
+is markedly lower than that in the liver.
+Nonetheless, renal oxidative metabolism of
+TCE occurs, albeit at rates that are 3- to 10-
+fold lower than those in the liver (63), and
+may play some role in either nephrotoxicity/
+nephrocarcinogenicity or, via renal-hepatic
+circulation, in liver injury.
+Interorgan metabolism, which includes
+enterohepatic and renal-hepatic circulations
+of both the parent compound and several of
+the major oxidative metabolites, is another
+major issue in the development of models of
+TCE pharmacokinetics. Interorgan metabo-
+lism can also enhance the further biotransfor-
+mation of TCE metabolites and has
+implications for target organ toxicity. For
+example, TCOG that is formed in the liver is
+excreted into bile, but little fecal excretion is
+observed due to extensive enterohepatic circu-
+lation. Once TCOG returns to the liver, it
+may be hydrolyzed back to TCOH and be
+metabolized further to TCA or DCA. In fact,
+TCA is the major circulating metabolite of
+TCE, likely due to its high affinity for bind-
+ing to plasma proteins. A biphasic pattern of
+TCA concentrations is found in blood in the
+mouse (Table 2), consistent with enterohep-
+atic circulation of TCOH. Thus, enterohep-
+atic circulation plays a major role in the
+disposition of TCOH and TCOG. For the
+oxidative pathway of TCE metabolism, the
+major role for renal-hepatic circulation is in
+the excretion of metabolites in the urine. The
+major metabolites of TCE that are recovered
+in urine include TCA and TCOH/TCOG.
+Sex- and Species-Dependent
+Heterogeneity in Oxidative
+Metabolism ofTCE
+As described in the reviews on mode of action
+in the various target organs, marked differences
+in susceptibility to TCE-induced toxicity are
+seen in males and females of each species and
+between species ofa given sex. Since toxicity is
+directly associated with specific metabolites,
+the likely explanation for these differences in
+susceptibility are sex- and/or species-dependent
+differences in either overall rates ofmetabolism
+or distribution of metabolites among specific
+pathways. An understanding ofthe factors that
+determine these susceptibilities is essential for
+being able to extrapolate animal data to
+humans. An additional point, however, is that
+these sex- and species-dependent differences
+are often dose dependent in that markedly dif-
+ferent types of effects may be seen at high
+versus low doses.
+Overall rates of TCE metabolism vary
+considerably between the various experimental
+species that are used in laboratory investiga-
+tions (i.e., rats, mice, rabbits) and between
+these species and humans (64). In practical
+terms, more complete documentation and
+understanding of sex- and species-dependent
+differences in metabolism will enable
+refinements in risk assessment and definitions
+of acceptable exposure levels. To extrapolate
+metabolic data between species in the develop-
+ment ofpharmacokinetic models, default allo-
+metric scaling procedures are often used.
+These involve scaling fluid flows (e.g., blood,
+bile, urine) by body weight to the 3/4 power
+and scaling rate constants by body weight to
+the 1/4 power. Additional uncertainty factors
+are applied when there is uncertainty regard-
+ing intraspecies sensitivities or when there are
+uncertainties in extrapolating from one species
+to another. Again, these factors are intended
+to account for many processes, not just
+metabolism or pharmacokinetics. Whether
+these default assumptions are representative of
+the actual physiological state is an open ques-
+tion. For example, the activity of various
+P450s in humans can vary by up to a factor of
+10 among individuals (35,64,65), so that
+default assumptions can be significantly differ-
+ent than the actual situation in humans.
+However, the observed variations are often
+beyond allometric expectations, suggesting
+that more complex metabolic and other
+differences exist between species.
+As described earlier, studies by Prout et al.
+(7) showed that blood levels of the TCE
+metabolites TCOH, CH, and TCA were
+severalfold higher in B6C3F1 mice than in
+Osborne-Mendel rats after a single oral dose
+of TCE. Larson and Bull (54) similarly
+showed that the initial rates ofTCE metabo-
+lism to TCA were much higher in mice than
+in rats, leading to higher TCA concentrations
+in blood. Nakajima et al. (42) also showed
+that rates of oxidative metabolism ofTCE in
+liver microsomes of male B6C3F1 mice were
+2- to 3-fold higher, depending on dose, than
+those from male Wistar rats. Furthermore,
+overall content of P450 (nmol P450/mg
+microsomal protein) did not differ in the two
+species. Rather, the higher rate of TCE
+metabolism was due specifically to higher lev-
+els of CYP2E1 in mouse liver microsomes. In
+general, metabolic rates for most chemicals
+are significantly higher in mice than in rats or
+other larger animals, including humans.
+A comparison of kinetic parameters for
+overall P450-catalyzed metabolism ofTCE in
+liver microsomes from male B6C3F1 mice,
+F344 rats, and humans is shown in Table 4.
+Several species-dependent differences are
+immediately apparent. First, kinetics were
+clearly biphasic in liver microsomes from rat
+and human but were monophasic in liver
+microsomes from mouse. Rates of TCE
+oxidative metabolism for the high-affinity
+processes were approximately 2- to 2.5-fold
+faster than those for the low-affinity processes
+in rats and humans. Finally, the ratio of V,,
+to Km values, which is a measure of catalytic
+efficiency, shows that although rates are lower
+than in the other species, the activity in
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000182
+METABOLISM OF TCE
+humans exhibits similar efficiency to that in
+rats and mice.
+This similarity between rats and humans
+regarding P450-dependent metabolism of
+TCE may extend to other aspects of the
+metabolic process. Both the rat and human
+2E family contain only one gene and expres-
+sion of CYP2E1 in both species is regulated
+both transcriptionally and posttranscription-
+ally (65). In contrast, the rabbit 2E subfamily
+comprises two genes. Although rabbit
+CYP2E1 appears to be very similar to human
+and rat CYP2E1 with respect to substrate
+specificity and regulation ofexpression, rabbit
+CYP2E2 is not coordinately controlled with
+CYP2E1 and developmental expression ofthe
+two forms differs. Thus, Wrighton and
+Stevens (65) and Lipscomb et al. (66) con-
+cluded that the rat is a better model than the
+rabbit for study of human CYP2E1 expres-
+sion. The data summarized above, comparing
+P450-dependent metabolism ofTCE in rats,
+mice, and humans, support this conclusion
+and indicate further that the rat is a better
+model than the mouse for study of oxidative
+metabolism ofTCE in humans.
+Although sex-dependent differences have
+been clearly observed in the susceptibility to
+TCE-induced toxicity and carcinogenicity,
+few studies ofsex dependence ofTCE metab-
+olism have been conducted. Nakajima et al.
+(41) studied sex-, age-, and pregnancy-
+induced effects on the expression and regula-
+tion of CYP2E1 and CYP2C1 1 with regard
+to TCE and toluene metabolism in Wistar
+rats. They observed no sex-dependent differ-
+ences in TCE metabolism. The only differ-
+ences in rates ofTCE metabolism to CH that
+were observed were an approximately 3-fold
+decrease from 3 weeks of age (puberty) to 18
+weeks of age (maturity) in both sexes and a
+nearly 2-fold decrease in rates in females dur-
+ing pregnancy.
+Variations among Humans
+Lipscomb et al. (64) observed considerable
+variability in the P450-catalyzed oxidation of
+TCE in 23 samples of human liver micro-
+somes. Km values for TCE (28.3 ± 12.9 pM;
+mean ± SD, n = 23) varied over a more than a
+fourfold concentration range (range =
+12.6-55.7 pM) and were not normally dis-
+tributed. Vmax values for CH formation
+(1,589 ± 840 pmol/min/mg; mean ± SD, n =
+23) also showed considerable variability, with
+samples from individual human livers exhibit-
+ing a 7-fold range of values (range =
+490-3,455 pmol/min/mg). In their analysis
+of the kinetics of TCE metabolism, individ-
+ual samples seemed to cluster into three
+groups, having Km values (pM TCE, mean ±
+SD) of 16.7 ± 2.5 (n = 10), 30.9 ± 3.3 (n=
+9), and 51.1 ± 3.8 (n = 4). Within each
+group, there were no patterns with regard to
+the ethnic group or sex of the donor from
+whom the livers were isolated, and Vm,, val-
+ues in each group exhibited the same degree
+ofvariability and span of values as the entire
+sample pool. The Km value in females (21.9 ±
+3.5 pM; n = 10) were significantly lower than
+that in males (33.1 ± 3.5 pM; n = 13).
+Analysis of the activity of three specific
+P450 isoforms that are known to catalyze
+TCE metabolism in human liver microsome
+samples from the three groups revealed some
+patterns (Table 5). CYP1A2 activity was sig-
+nificantly lower in the low-Km group than in
+the other two groups, and CYP2E1 activity
+Table 4. Apparent kinetic constants for total oxidative metabolite formation from TCE.8
+Vmax
+Species (nmol/mg per min) Km (mM) Vmam/Km n
+Mouse
+Male 8.60 ± 4.50 0.38 ± 0.41 42.0 ± 28.5 5
+Female 26.1 ± 7.3 0.16 ± 0.03 163 ± 37 3
+Rat
+Male
+(High affinity) 0.96 ± 0.65 0.072 ± 0.082 23.8 ± 20.6 5
+(Low affinity) 2.48 ± 0.97 0.482 ± 0.104 5.3 ± 2.2
+Female
+(High affinity) 2.91 ± 0.71 0.042 ± 0.021 80.0 ± 33.9 3
+(Low affinity) 4.31 ± 0.31 0.111 ± 0.027 40.1 ± 7.1
+Human
+Male
+(High affinity) 0.52 ± 0.17 0.012 ± 0.003 48.0 ± 23.1 3
+(Low affinity) 0.93 ± 0.17 0.093 ± 0.026 10.7 ± 3.9
+Female
+(High affinity) 0.33 ± 0.15 0.026 ± 0.017 15.3 ± 10.1 3
+(Low affinity) 0.72 ± 0.60 0.160 ± 0.162 6.8 ± 5.6
+aOxidative metabolism of TCE was measured by incubation of microsomes with 10 pIM-2 mM TCE in the presence of 2 mM NADPH
+for 10 min at 37°C and pH 7.4. The following metabolites (assay limits of detection in parentheses) were measured after derivatization
+with pentafluorobenzyl bromide and gas chromatography with electron capture detection: TCA (1 ppm), DCA 10.025 ppm), CM (0.025
+ppm), OX (10 ppm). TCOH (0.001 ppm) was detected without any derivatization by gas chromatography with electron capture detec-
+tion. CH (0.75 ppm) and GLX (0.1 ppm) were detected by HPLC after derivatization with 2,4-dinitrophenyl hydrazine. Data are means ±
+SD of measurements from the indicated number of experiments and were reported in Elfarra et al. (70).
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+was significantly higher in the high-Km group
+than in the two other groups, but no differ-
+ences were observed for CYP3A4 activity
+among the three groups.
+Lipscomb et al. (64) also found that
+CYP2E1 was the primary isoform responsible
+for TCE metabolism, accounting for > 60%
+of total microsomal metabolism. These results
+indicate that the capacity of humans to
+metabolize TCE will vary considerably and
+that factors that alter P450 activity, in particu-
+lar CYP2E1 activity, can alter TCE metabo-
+lism and hence, susceptibility to TCE-induced
+toxicity. Nakajima et al. (41) also observed
+significant variation in oxidative metabolism
+of TCE as a function of physiological state
+(see above).
+Comparative in Vitro
+Evaluation of Cytochrome
+P450-Dependent
+Metabolism of TCE
+This section illustrates an integrated in vitro
+approach to evaluation of TCE metabolism
+by the P450 pathway with the goal of eluci-
+dation of the kinetics of metabolism of TCE
+to CH, TCOH, TCA, and DCA in the rat,
+mouse, and human. These data are based on
+a series ofstudies conducted at the Armstrong
+Laboratory (Toxicology Division at Wright-
+Patterson AFB, Ohio) (11,52,60,64,67,68).
+Data indicate a) that human hepatic micro-
+somes possess less activity toward TCE than
+either rat or mouse hepatic microsomes, b)
+that TCOH formation proceeds at higher
+rates than TCA formation at low CH con-
+centrations in all three species, and c) that
+appreciable levels of TCOH and TCA are
+formed from CH in the blood of all three
+species in vitro. The formation of DCA has
+been questioned for years, and no mechanism
+for its formation has been fully validated.
+DCA has not been identified in liver prepara-
+tions (i.e., microsomes, homogenates, tissue
+slices) from mice or humans exposed to TCE,
+CH, or TCOH in vitro. Cultured gut
+microflora from mouse cecum produce DCA
+from TCA in a dose- and time-dependent
+Table 5. Evaluation of form-selective cytochrome P450
+metabolism in human liver microsomes expressing dif-
+ferent Km values for TCE metabolism.a
+CYP form
+Group CYP1A2 CYP2E1 CYP3A4
+Low-Km 241 ± 186 520 ± 295 2.65 ± 2.661
+Mid-Km 545 ± 200 820 ± 372 2.92 ± 2.78b
+High-Km 806 ± 442 1,317 ± 592 1.78 ± 1.08b
+&Activities of CYP1A2, CYP2E1, and CYP3A4 were measured
+with phenacetin, chlorzoxazone, and testosterone as substrates,
+respectively. Data are means ± SD of values from 10, 9, and 4
+samples for the low-, mid-, and high-Km group, respectively.
+Data within each isozyme assay with the same letter are not
+significantly different from one another (p< 0.05) by the Kruskal-
+Wallis one-way ANOVA.
+183
+LASH ET AL.
+manner. The transport of TCA from liver
+into blood or bile may influence net DCA
+formation; TCA in blood may be cleared into
+the urine, whereas TCA in bile enters the
+small intestine and may drive TCA produc-
+tion in the gut. However, in mice treated
+with antibiotics to eliminate gut microbes,
+plasma DCA concentrations following TCE
+treatment were only minimally affected, sug-
+gesting that non-gut mechanisms of DCA
+formation also exist. In summary, these in
+vitro studies indicate a lower rate of TCE
+metabolism and hence, a lower rate of TCA,
+TCOH, and DCA formation in the human
+as compared with the mouse and rat.
+Chloral Hydate Formation
+Concentrations ofTCE reported here, includ-
+ing Km values, represent the concentration of
+TCE in the liquid phase ofthe incubation sys-
+tem. Gas chromatographic quantitation of
+CH and TCOH in the incubation mixture
+was accomplished by analysis of the ethyl
+acetate extract using modifications of the
+method ofMaiorino et al. (69). Neither TCA
+nor DCA was detected (detection limit = 1.5
+nmol/mL) under these conditions. Because
+CH is further metabolized to TCOH, CH
+and TCOH that were quantitated in microso-
+mal incubations dosed with TCE were com-
+bined to give an estimate ofTCE metabolism.
+Significant differences between the three
+species were found in the Michaelis-Menten
+kinetic parameters evaluated for CH forma-
+tion from TCE. Overall kinetic parameters
+for TCE metabolism in rat, mouse, and
+pooled human liver microsomes (Table 6)
+demonstrate a lower rate in the human than
+either the rat (1:3.3) or the mouse (1:3.8).
+Evaluation of these kinetic data over a wide
+range ofTCE concentrations by construction
+of Eadie-Hofstee plots allowed for separation
+of data from rat liver microsomes into three
+kinetically distinct components, consistent
+with Nakajima et al. (39). The three compo-
+nents had Km values (1iM TCE) of 17, 114,
+and 909 pM and V,,, values (pmol/min/mg)
+of 818, 1,275, and 2,797. A similar analysis
+ofdata from mouse liver microsomes revealed
+homogeneity, with only one kinetically dis-
+tinct component. These results agree with
+those described above from Elfarra et al. (70).
+Table 6. Overall kinetics of TCE metabolism to CH and
+TCOH.a
+Species Km (pM TCE) Vmax(pmol/min/mg)
+Rat 55 4,826
+Mouse 35 5,425
+Human 25 1,440
+'Metabolism of TCE to CH and TCOH was measured in rat,
+mouse, and human liver microsomes by gas chromatography.
+Microsomes were pooled from 5 rodent and 7 human liver sam-
+ples and were incubated with from 7.5 to 1,000 pM TCE for
+either 10 (rodent) or 30 (human) min.
+As described above, evaluation of the data
+from individual human liver samples revealed
+considerable variation, with Km values rang-
+ing from 16 to 56 luM and V,. values rang-
+ing from 490 to 3,455 pmol/min/mg,
+although there was no correlation between
+Km and Vnvalues among individuals.
+TCE was an effective inhibitor of
+CYP2E1, as measured by p-nitrophenol
+hydroxylase activity (data not shown). Three
+individual samples of human liver micro-
+somes, representing individuals from the low-
+mid-, and high-Km groups (see above), exhib-
+ited concentration-dependent inhibition of
+CYP2E1 activity. The degree of inhibition
+appeared to parallel the Km ofthe microsomes
+for TCE metabolism, suggesting that
+CYP2E1 makes a larger contribution to TCE
+metabolism in the high-Km sample than in
+either of the other two samples. Kinetic
+analysis of the inhibition ofp-nitrophenol
+hydroxylase activity by TCE in mouse liver
+microsomes showed the inhibition to be com-
+petitive (data not shown), as would be
+expected ifCYP2E1 metabolizes TCE.
+To determine the extent to which
+CYP2E1 metabolized TCE in humans,
+experiments were designed using equivalent
+content of human CYP2E1, whether derived
+from human CYP2E1 gene transfected and
+expressed in a lymphoblastoid cell line or
+authentic human hepatic microsomes. The
+results (Figure 2) demonstrate that human
+CYP2E1 expressed in a lymphoblastoid cell
+line metabolizes approximately 75% as much
+TCE as an equivalent amount of authentic
+human liver microsomes. These data indicate
+that CYP2E1 is the major enzyme responsi-
+ble for the microsomal oxidation of low
+[.01
+I
+0.001
+16pMTCE IN1 MTCE
+MS-UW "
+X
+=I:~ 1A2
+MS-HI KMi IAI 3A4
+Figure 2. Metabolism of TCE by human liver microsomes
+and genetically-expressed P450 forms. Assays contained
+1.0 mg liver microsomal protein/mL [which has been
+shown to contain 22 pmol of CYP2E1/mg protein (73)1 or
+22 pmol/mL of CYP2E1, 42 pmol/mL of CYP1A, or 96
+pmol/mL of CYP3A4 expressed in microsomes from
+genetically engineered lymphoblastoid cells. Samples
+were incubated with 16 or 100 pM TCE and CH formation
+was measured after 30 min by gas chromatography.
+concentrations of TCE in the human. To
+determine whether CYP2E1 was the pre-
+dominant P450 form responsible for TCE
+metabolism in a sample of27 human hepatic
+microsomes, the activity of a known sub-
+strate for CYP2E1, chlorzoxazone (CZX)
+(71,72), was compared with TCE metabolic
+activity (data not shown). Results indicate
+that TCE metabolism is significantly corre-
+lated (r2 = 0.51, p < 0.05) with CYP2E1
+activity in humans (11). These data provide
+further support for the involvement of
+CYP2E1 in TCE metabolism in the human.
+The high degree of conservation of
+CYP2E1 across mammalian species and the
+high degree to which it is expressed in rodent
+liver, compared to human liver, make the
+determination of inherent CYP2E1 activity
+and the assessment of factors that modify
+CYP2E1 expression in the human important
+considerations in population risk assessments.
+To determine the variability of CYP2E1 and
+gain an indication of the potential variability
+of TCE metabolism in the human, microso-
+mal metabolism of CZX and the degree of
+expression of total P450 content was exam-
+ined in 54 human hepatic microsome samples
+(Figure 3). Data indicate that there is an
+approximate 5-fold variability in the expres-
+sion of CYP2E1-dependent CZX metabolism
+in this population. Because of the degree of
+correlation of TCE metabolism with
+CYP2E1-dependent activity, it may be rea-
+sonably predicted that this degree ofvariabil-
+ity in TCE metabolism will be seen in the
+human population. Such variation and fac-
+tors that induce the activity of CYP2E1 may
+define segments of the population that may
+be at a higher risk than would be otherwise
+anticipated (73).
+The data also indicate that other enzymes
+may metabolize TCE in the human. Because
+a high fraction of P450 is accounted for by
+I4
+Figure 3. Distribution of CZX metabolism in a sample
+population of human liver microsomes. Histogram
+depicting the frequency distribution of metabolism of
+CZX, a marker substrate for CYP2E1, in individual human
+liver microsome samples. The results reveal a popula-
+tion with a normal distribution.
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000184
+METABOLISM OF TCE
+CYP3A4 and CYP1A2 (72), the effect on
+TCE metabolism of known substrates for
+these forms was evaluated. a-Napthoflavone
+(a CYPIA substrate) and ketoconazole (a
+CYP3A substrate) did not inhibit TCE
+metabolism when assessed at TCE concentra-
+tions near the Km value (64) but reduced
+Vmax values by 30 and 18%, respectively,
+when evaluated at TCE concentrations 4-fold
+above the Km value. These data indicate that
+CYP1A2 and CYP3A4 also metabolize TCE
+in the human but that their contribution to
+overall TCE metabolism is low compared to
+that ofCYP2E1.
+Trichloroethanol andTrichloroacetic
+Acid Formation
+TCOH is derived from CH. Species-depen-
+dent differences in the metabolism of CH
+were evaluated in a clarified liver homogenate
+(52). This preparation was used because vari-
+ous enzymatic activities capable of metaboliz-
+ing CH are distributed in several subcellular
+compartments (74). NADH is the best
+nicotinamide cofactor for the stimulation of
+TCOH production in vitro in all three
+species. However, in human liver, NADPH
+also significantly stimulated TCOH produc-
+tion. For each of the cofactors tested, the
+addition of cofactor resulted in more TCOH
+production than in controls with no cofactor.
+The final evaluation of CH metabolism in
+the liver involved the determination ofcofac-
+tor kinetics in the formation ofTCOH. Data
+revealed that Km* values (the concentration of
+cofactor that produced half-maximal meta-
+bolic rates) for these reactions in rodent liver
+approximated the levels of pyridine
+nucleotide cofactors reported for rodent liver
+(75). Km* values (mM NADH) for TCOH
+formation were 0.91 and 0.36 mM for the rat
+and mouse, respectively.
+An evaluation of clearance (VmJKj) of
+CH to TCA and TCOH was done to com-
+pare the net conversion of CH to these
+metabolites. The results in Table 7 indicate
+that clearance of CH to TCOH is much
+higher (10- to 200-fold) than clearance of
+CH to TCA in these three species. Clearance
+of CH to TCOH by the mouse high-affinity
+enzyme was highest, but this enzyme becomes
+inhibited at CH concentrations above 0.5
+mM. Clearance of CH to TCOH in the
+human was approximately half that observed
+in rats and approximately twice that observed
+with the mouse low-affinity enzyme.
+Clearance of CH to TCA in the mouse and
+human were similar, whereas it was approxi-
+mately 10-fold lower in the rat. These data
+indicate that TCOH formation will predomi-
+nate over TCA formation in the liver ofthese
+three species. The kinetic evaluation of
+TCOH production also revealed that the
+mouse may have two separate enzymes
+Table 7. Kinetics of TCOH and TCA formation from CH.a
+TCOH TCA
+Km Vmax VmayIKm Km Vmax VmaVKm
+Rat 0.52 24.3 46.7 16.4 4.0 0.24
+Mouse 3.5 10.6 3.03
+High affinity 0.12 6.3 52.5
+Low affinity 0.51 6.1 12.0
+Human 1.34 34.7 25.9 23.9 65.2 2.73
+aHomogenate from the liver of 4 individuals from each species was centrifuged at 700xg and the supernatants obtained were pooled.
+Km is presented as mM CH in solution that contained 0.9 mM NADH and 0.9 mM NAD+ for experiments for TCOH and TCA formation,
+respectively. Vmax is reported as nmol/min/mg 700xg supernatant protein. The mouse high-affinity enzyme responsible for TCOH for-
+mation was inhibited at CH concentrations > 0.57 mM.
+responsible for formation of TCOH from
+CH in liver, whereas the rat and human
+apparently possess a single enzyme. The high-
+affinity form in the mouse is inhibited at CH
+concentrations above 0.5 mM (the nature of
+the inhibition is unknown), and the low-
+affinity form becomes saturated at concentra-
+tions of CH above 1.0 mM. This
+bifunctional metabolism is also seen in mouse
+hepatic cytosol (76). These results indicate
+that at least one mouse cytosolic enzyme
+responsible for TCOH formation becomes
+inhibited at high CH concentrations.
+TCA production from CH by mouse, rat
+and human liver supernatant was best stimu-
+lated by NAD+. Of the reduced cofactors,
+only NADPH stimulated TCA production
+above that of control, and this occurred only
+in the mouse. These results (particularly the
+degree to which mouse liver TCA production
+is stimulated by both NAD+ and NADP+)
+indicate that there are species-related differ-
+ences in hepatic TCA formation. The appar-
+ent kinetic constants for the formation of
+TCA from CH in the rat, mouse and human
+in the presence of NAD+ indicate a much
+lower Km value in the mouse, indicating that
+under equivalent CH concentrations, TCA
+formation will proceed at a more rapid rate in
+mouse liver (Table 7). It is doubtful whether
+CH will attain concentrations in human liver
+to drive metabolism near the theoretical max-
+imal value. Km values (CH) for TCA are
+much higher than those required for TCOH
+production, indicating that low concentra-
+tions of CH will favor the production of
+TCOH. Km* values (mM NAD+) for TCA
+production were 0.13 and 0.14 mM for the
+rat and mouse, respectively.
+The kinetic parameters indicate that at
+low hepatic concentrations of CH (below 0.5
+mM), TCOH will be the preferred hepatic
+metabolite. As shown in Table 8, the pre-
+dicted ratio of TCOH:TCA is 10 to 20,
+depending on species. These predictions agree
+well with the observed urinary elimination of
+TCOH and TCA in mice and rats exposed to
+200 mg TCE/kg (53,54) and with initial
+(0-1 hr) plasma levels of metabolites observed
+in CH-exposed humans, where the levels of
+TCOH were slightly higher than plasma levels
+Table 8. Predicted rates of hepatic metabolite formation
+at 50 pM chloral hydrate.a
+Metabolite
+Species TCOH TCA
+Rat 2.13 0.012
+Mouse 2.35 0.149
+Human 1.25 0.136
+'Metabolite (TCOH, TCA) formation is presented as nmol/min/mg
+700 x g supernatant from liver homogenates of the indicated
+species. Metabolic rates were calculated from the Michaelis-
+Menten equation using the parameters obtained in Table 7.
+of TCA (51,77). There is also evidence for
+the oxidation of TCOH to TCA (77,78). If
+TCOH is an obligate intermediate in the for-
+mation of TCA from CH, the accumulation
+of TCOH in blood and liver exposed to CH
+in vitro implies that the initial conversion of
+CH to TCOH is not rate limiting in the
+formation ofTCA from CH.
+Chioral Hydrate Metabolism by Blood
+The conversion of CH to TCA and TCOH
+was examined in blood of the rat, mouse, and
+human to confirm and extend the findings of
+an earlier report (51), which demonstrated
+that significant amounts of TCOH and lim-
+ited amounts of TCA were formed by blood
+in vitro. Results from experiments with lysed
+whole blood (no exogenous cofactor added)
+indicate that much more TCOH than TCA is
+produced (Table 9). Human blood produced
+less TCOH (on a milliliter-for-milliliter basis)
+than did either rat or mouse blood. However,
+TCA production in lysed human blood was
+significantly greater than TCA production by
+rat blood but only slightly higher than that by
+mouse blood. The further examination of
+lysed erythrocytes and plasma of the human
+indicate that erythrocytes were the sole site of
+blood TCA production (best stimulated by
+NADP+). Plasma formed 4- to 5-fold as much
+TCOH from CH as did an equal quantity of
+packed erythrocytes, indicating that plasma is
+the primary site of TCOH production (best
+stimulated by NAD+) by blood. These data
+underscore the need to evaluate the organ-spe-
+cific, presystemic, extrahepatic formation and
+metabolism ofCH derived from a TCE expo-
+sure and to fully describe CH metabolism in
+the blood compartment. Evaluation of the
+distribution of CH from portals of entry into
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 185
+LASH ET AL.
+Table 9. Metabolism of CH to TCOH and TCA by lysed,
+whole blood.a
+Rat Mouse Human
+TCOH 45.4 ± 4.9b 46.7 ± 1.0b 20.5 ± 0.7c
+TCA 0.135 ± 0.020d 0.208 ± 0.030e 0.269 ± 0.030
+aResults are presented as nmol product formed in a 400-pL
+lysate (containing 360 pl whole blood + 100 pL CH) over 30 min
+and are means ± SD of measurements from 3 experiments.
+Means with the same superscript letter are not significantly dif-
+ferent from one another at p< 0.05.
+blood and a kinetic examination of blood-
+catalyzed CH metabolism will further the
+success of species-dependent examination of
+CH metabolism in vivo and can be used to
+refine the PBPK models for both TCE and
+CH. Kinetic data would verify the impor-
+tance of hepatic CH metabolism in the over-
+all disposition oftoxicologically relevant TCE
+metabolites.
+DichloroaceticAcid Formation
+firom Trichoroacetic Acid
+DCA is a TCE metabolite that is readily
+identified in rodents but is generally not iden-
+tifiable in humans. DCA has not been
+detected under either aerobic or anaerobic
+incubations of hepatic fractions with TCE.
+While it has been impossible to demonstrate
+the hepatic formation of DCA from TCE in
+vitro, it has been demonstrated that the
+dechlorination of TCA to DCA is catalyzed
+by gut contents (ingested food and bacteria)
+of the rat and mouse. Microflora cultured
+from the cecum ofthe B6C3F1 mouse dechlo-
+rinate TCA to DCA in a dose- and time-
+dependent manner (Figure 4) (67). To
+confirm these in vitro observations in vivo,
+B6C3F1 mice were treated with antibiotics to
+virtually deplete the mouse gut of microflora.
+Antibiotic treatment resulted in dramatically
+increased gut TCA content and concurrently
+decreased gut DCA content compared with
+animals exposed to TCE without antibiotic.
+DCA present in circulating plasma was only
+slightly diminished in antibiotic-treated mice
+(68). Therefore, the source of DCA in
+plasma is still unknown.
+DichloroaceticAcid Metabolism
+DCA degradation occurs primarily in rat
+hepatic cytosol (60). Recent studies have
+revealed similarities between kinetic constants
+for hepatic cytosolic DCA degradation in the
+mouse and rat in vitro and marked differences
+between the kinetic constants in the human.
+These studies reveal Km values of 350, 280,
+and 71 pM and Vmaxvalues of 13.1, 11.6,
+and 0.37 nmol/min/mg protein for the
+mouse, rat and human, respectively (60).
+Evaluation ofclearance values (VmaxKm) indi-
+cates that human liver cytosol degrades DCA
+less efficiently than either rat or mouse liver
+cytosol.
+Species-Dependent Differences in
+P450-Dependent Metabolism ofTCE:
+Interpreation ofFindings for Human
+Health RiskAssessment
+Several steps of the TCE metabolic pathway
+were evaluated in vitro and striking species-
+dependent differences were demonstrated.
+Kinetic parameters for several of the steps in
+the oxidative pathway of TCE metabolism
+are summarized in Table 10. All available in
+vitro data indicate that the human is less
+capable to metabolize TCE and CH than the
+rodent. The rate of CH formation in the
+human is approximately 20% of that of the
+mouse. Furthermore, in vitro kinetic parame-
+ters for TCE metabolism were not normally
+distributed in a sample of 23 human hepatic
+microsome preparations; Km values were
+divisible into three statistically distinct
+groups. CYP2E1 is the form identified as the
+major determinant ofTCE metabolism in the
+human, and the form is well conserved across
+species but is expressed to a higher extent in
+rodents than humans. CYP2E1 exhibits a Km
+value for TCE of approximately 20 gM. The
+differential expression of CYP2E1 across
+species may in part explain the higher TCE
+metabolism seen in rodents than in humans
+in vitro. The examination ofseveral sets of in
+vitro data also indicates that CYPIA and
+CYP3A forms metabolize TCE at concentra-
+tions above the Km value for CYP2E1. The
+Km value for TCE metabolism in microsomes
+of female humans is significantly lower than
+that in males, but V,", values were not signif-
+icantly different (64). Factors that alter the
+expression or activity of CYP2E1 in the
+human should be incorporated into estimates
+of TCE metabolism in vivo. TCOH and
+TCA formation by components of mouse,
+rat, and human blood was demonstrated and
+TCOH was identified as the major blood-
+derived CH metabolite. The metabolism of
+CH to TCOH and TCA is efficiently cat-
+alyzed by liver homogenates from all three
+species, and TCOH formation predominated
+over TCA formation under all conditions
+evaluated in vitro. Km values for TCOH for-
+mation are approximately 20-fold lower than
+Km values for TCA formation, which drives
+the formation ofTCOH at higher rates than
+TCA formation at low CH concentrations.
+Km values for cofactor involvement in hepatic
+CH metabolism were shown to approximate
+cofactor concentrations found in vivo. These
+data indicate that significant changes in either
+cofactor level or redox status of the liver may
+impact the extent of CH metabolism and/or
+the ratio of TCOR:TCA produced. Such an
+impact has been demonstrated in the isolated
+perfused rat liver (79,80).
+41
+l
+a
+0 200 400 600 800
+[TCA], ,M
+Figure 4. Time and concentration dependence of DCA
+formation by anaerobic mouse gut microflora cultures.
+Cultures of bacteria from mouse gut were incubated (108
+cells/mL) with the indicated concentrations of TCA for
+up to 4 hr.
+Table 10. Comparison of metabolic parameters for the oxidative metabolism of TCE determined in vitro.
+Metabolic step Mouse Rat Human
+TCE to CHa
+Km (pM TCE) 35.4 55.5 24.6
+Vmax(nmol/min/mg microsomal protein) 5,425 4826 1440
+CH to TCOHb
+Km (mM CH) 0.12 (low affinity) 0.52 1.34
+0.51 (high affinity)
+Vmax(nmol/min/mg supernatant protein) 6.3 (low affinity) 24.3 34.7
+6.1 (high affinity)
+VmaxVKm 52.5 (low affinity) 46.7 25.9
+12.0 (high affinity)
+CH to TCAb
+Km(mM CH) 3.5 16.4 23.9
+Vinax(nmol/min/mg supernatant protein) 10.6 4.0 65.2
+Vma,/Km 3.03 0.24 2.73
+DCA degradation
+Km (mM DCA) 0.350c 0.280d 0.071c
+Vmax(nmol/min/mg cytosolic protein) 13.1 11.6 0.37
+Vmax/Km 37.4 41.4 5.2
+'Data reported in Lipscomb et al. (8). hData reported in Lipscomb et al. (52). cData reported in Lipscomb et al. (165). dData reported in
+Lipscomb et al. (61).
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+2J -
+-0- 1-hr
+20- -0- 2-hr
+-&- 3-hr
+15 * 4-hr
+10- / /
+15
+10
+186
+METABOLISM OF TCE
+DCA formation was not demonstrated in
+any tissue fraction evaluated in vitro. It was
+shown that gut contents of mice and rats
+dechlorinate TCA to DCA. Additional studies
+in antibiotic-treated mice in vivo revealed only
+slight depressions of plasma DCA levels fol-
+lowing oral administration ofTCE, indicating
+an additional, nongut source of DCA produc-
+tion. Because of the absence of DCA in sam-
+ples from humans exposed to TCE, the
+degradation of DCA in vitro was evaluated.
+Human hepatic cytosol was less effective at
+degrading DCA than cytosol of rats or mice.
+These findings may explain the lack ofdemon-
+stration of DCA in human blood following
+TCE exposure. Based on the assumption of
+equal rates of DCA formation across species,
+these results indicate that clearance ofDCA by
+liver in the human does not account for the
+lack of finding DCA. Because TCA is also
+formed by components ofblood, because TCA
+is more efficiently bound to plasma constituent
+proteins in the mouse than in the human,
+because binding of TCA by plasma proteins
+influences the distribution ofTCA from blood
+to liver, and because TCA is equally well (if
+not more efficiently) formed in the liver of the
+mouse than of the human, it may follow that
+the human liver is less exposed to TCA than
+the mouse liver. Ifhepatic TCA concentrations
+drive biliary elimination of TCA, and TCA
+accumulation in the gut drives DCA forma-
+tion, then it may be reasoned that DCA for-
+mation in the human is likely to occur at a
+much lower rate than in the mouse. However,
+gut is not the sole source of DCA formation.
+DCA levels in plasma were diminished but not
+eradicated in the antibiotic-treated mouse.
+These and other data complicate the inclusion
+of DCA in human health risk assessments of
+CH and TCE. The usefulness of in vitro data
+in the evaluation of the toxicity of TCE and
+human health risk assessment should be care-
+fully weighed. While the traditional strength of
+in vitro data lies in mechanistic evaluations and
+the conditions employed do not reflect the
+total in vivo system, the accurate extrapolation
+of these (and other) in vitro data will yield
+important results. Precedent has been set for
+the use of in vitro data in PBPK models (e.g.,
+81). A careful extrapolation of in vitro kinetic
+data from rat and mouse liver, the evaluation
+of pulmonary metabolism of TCE to CH,
+blood-mediated metabolism of CH to TCA,
+and plasma-binding characteristics ofTCA will
+greatly aid the construction and validation of
+these models, lending credibility to the similar
+model constructed for the human (11).
+Evaluation of model effectiveness can be
+accomplished by comparing kinetic predictions
+with currently available human data. This in
+vitro approach will contribute to a valid,
+science-based, and technologically complex
+human health risk assessment for TCE.
+Glutathione-Dependent
+Metabolism of TCE
+This section describes the GSH conjugation
+(mercapturic acid) pathway for TCE. In clas-
+sic drug metabolism textbooks, GSH conjuga-
+tion has typically been described as a
+detoxication route for reactive electrophiles.
+For the majority of chemicals that are conju-
+gated with GSH, this is a correct functional
+characterization. It became readily apparent
+several years ago, however, that GSH conjuga-
+tion plays a bioactivation role for several types
+of drugs, particularly halogenated alkanes and
+alkenes. Although conjugation with GSH is
+the initial step in the pathway, the critical step
+for formation of a cytotoxic and/or carcino-
+genic metabolite occurs after processing to the
+cysteine conjugate. A major issue in the study
+ofthe conjugation ofTCE with GSH and the
+toxicological consequences of this pathway is
+how to accurately measure flux through the
+pathway so that its importance relative to the
+P450 pathway can be assessed.
+Desrption ofGSH-Dependent
+Pathways ofTCE Metabolism
+GSH conjugation of TCE: formation of
+S-(1,2-dichlorovinyl)glutathione (DCVG). As
+shown in Figure 1, the other possible fate of
+TCE besides oxidative metabolism is conju-
+gation with GSH, which is catalyzed by the
+GSTs. GSTs, like P450s, comprise a family
+of isoforms. With the exception of the micro-
+somal GST isoform, all other isoforms are
+cytosolic. The primacy of the liver as the site
+of GSH conjugation is highlighted by the
+observation that GST protein can comprise as
+much as 5% of the total cytosolic protein in
+rat or human liver. However, GSTs are pre-
+sent in most tissues, including the kidneys, so
+that this initial step in the pathway does not
+necessarily have to occur in the liver but can
+also occur in the target organ.
+The cysteine conjugate of TCE, S-(1,2-
+dichlorovinyl)-L-cysteine (DCVC), was dis-
+covered in a biological system nearly 40 years
+ago (82,83) when it was observed in soybean
+meal that had been extracted with TCE.
+DCVC was identified as the etiologic agent
+that caused nephrotoxicity and aplastic ane-
+mia in cows and only nephrotoxicity in sev-
+eral other mammalian species. For many
+years, DCVC was seen as a model compound
+that arose purely chemically rather than bio-
+chemically. An in vivo role for GSH conjuga-
+tion in the metabolism of TCE was not
+appreciated until Dekant et al. (84) showed
+that the mercapturate of TCE, N-acetyl-S-
+(1,2-dichlorovinyl)-L-cysteine (NAcDCVC),
+was recovered in the urine of rats that had
+been exposed to TCE and Anders and col-
+leagues (85,86) synthesized DCVG and
+demonstrated that it was nephrotoxic to rats
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+and that it was metabolized to DCVC before
+exerting its toxicity. This suggested that a
+portion of TCE underwent GSH conjuga-
+tion in vivo with subsequent processing to
+the cysteine conjugate followed by N-acetyla-
+tion and urinary excretion of the mercap-
+turate. Dekant et al. (87) subsequently
+showed that TCE was metabolized in rats to
+DCVG both in vivo and in isolated liver
+microsomes: After administration of TCE in
+corn oil by oral gavage, DCVG was recov-
+ered in the bile and NAcDCVC was recov-
+ered in the urine; DCVG formation was
+confirmed in rat liver microsomes incubated
+with TCE and GSH.
+In a human TCE exposure study (88),
+healthy human volunteers (11 males, 10
+females) were exposed for 4 hr by inhalation
+to either 100 ppm TCE (8 males, 8 females)
+or 50 or 60 ppm TCE (3 males, 2 females),
+and blood and urine samples were obtained
+at various time points both before and after
+exposure for up to several days. With respect
+to the current discussion of GSH-dependent
+metabolism of TCE, the most significant
+finding of these studies was that DCVG was
+detected in blood within 30 min of the end
+of the 4-hr TCE exposure period and its
+presence persisted for up to 12 hr. Both
+dose- and sex-dependent differences in
+DCVG levels in blood were detected and are
+summarized in Table 11. DCVG formation
+was clearly higher in males at both the
+higher and lower doses of TCE, consistent
+with the greater susceptibility of males to
+renal tumors from TCE [see review on
+"Mode ofAction for Kidney Tumorigenesis"
+in this monograph (89)]. These data, there-
+fore, demonstrate the function of the GSH
+conjugation pathway in humans. As dis-
+cussed below, this is only the initial step in
+the generation of nephrotoxic species and
+does not directly correlate with it because
+subsequent detoxication reactions, such as
+mercapturate formation, can still occur.
+GSH conjugation of TCE occurs at rates
+that are generally severalfold slower than the
+P450-catalyzed oxidation reactions. As men-
+tioned above and discussed below in the sec-
+tion on the relative roles of the oxidative and
+GSH conjugation pathways in TCE-induced
+toxicity and carcinogenesis, there are several
+unresolved issues related to the importance
+of GSH conjugation in risk assessment for
+TCE. Rates of GSH conjugation ofTCE are
+discussed below in more detail in the sections
+on tissue distribution and sex and species
+dependence.
+Metabolism of DCVG to DCVC.
+DCVG, like other GSH conjugates, is
+processed by y-glutamyltransferase (GGT)
+to the cysteinylglycine conjugate S-(1,2-
+dichlorovinyl)-L-cysteinylglycine (DCVCG)
+and then by various membrane-bound
+187
+Table 11. Formation of DCVG in blood from human volunteers exposed to TCE.a
+Maximal DCVG recovered (time after exposure)
+Males Females
+50/60 ppm TCE
+nmol DCVG/ml blood 16.2 ± 8.1 (0.5 hr) 2.13 (1 hr)
+pmol DCVG/mg protein 102 ± 81 (3 hr) 16.5 (1 hr)
+100 ppm TCE
+nmol DCVG/ml blood 46.1 ± 14.2(2 hr) 13.4 ± 6.6 (4 hr)
+pmol DCVG/mg protein 517 ± 250 (3 hr) 138 ± 70 (4 hr)
+"Healthy human volunteers (11 males, 10 females) were exposed by inhalation for 4 hr to either 50/60 ppm TCE (3 males, 2 females)
+or 100 ppm TCE (8 males, 8 females), and blood was collected at various times both before and after the exposure period. For analysis
+of DCVG, blood was deproteinated with acid and acid-soluble extracts were derivatized with iodoacetate and 1-fluoro-2,4-dinitroben-
+zene for analysis of N-dinitrophenyl-DCVG by ion-exchange HPLC using an amine column, a methanol-acetate solvent system with
+gradient elution, and detection at 365 nm. Maximal concentrations of DCVG recovered in whole blood, with the time after exposure
+indicated in parentheses, are shown below. Data were reported in (88). Results are the means ± SE of 3 sets of samples for males at
+50/60 ppm TCE, means ± SE for 8 sets of samples for males or females at 100 ppm TCE, and the average of 2 sets of samples for
+females at 50/60 ppm TCE.
+dipeptidases to DCVC (90). As will be
+discussed below, DCVC is the critical
+branch point in the metabolism of TCE by
+the GSH conjugation pathway. By this, it is
+meant that DCVC can be metabolized fur-
+ther by multiple enzymes to yield both
+detoxication products that are excreted and
+reactive species that have been associated
+with nephrotoxicity and are believed to be
+associated with nephrocarcinogenicity.
+One strategy to validate the function of
+the GSH conjugation pathway in bioactiva-
+tion and toxicity has been to use either co-
+substrates that are specific for particular steps
+to potentiate activity or toxicity or to use spe-
+cific inhibitors of enzymatic steps to inhibit
+pathway flux or toxicity. Ifthe GSH conjuga-
+tion pathway is responsible for bioactivation
+and toxicity, then cosubstrates should
+enhance toxicity and specific inhibitors
+should diminish toxicity. As summarized in
+Figure 5, this strategy has been applied to
+DCVG and its metabolites in both in vivo
+experiments (85) and in vitro studies with sus-
+pensions of isolated rat kidney cells (91).
+Hence, requirements for hydrolysis ofDCVG
+by GGT was demonstrated with L-(aS,5S)-a-
+amino-3-chloro-4,5-dihydro-5-isoxazoleacetic
+acid (acivicin), a potent and irreversible
+inhibitor of GGT, and with a cosubstrate of
+the enzyme. Similarly, inhibitors ofdipeptidase
+activity and of the I-lyase all prevented or
+greatly diminished cytotoxicity in vitro or
+nephrotoxicity in vivo of chemicals that occur
+before the inhibited step.
+Metabolism ofDCVC to NAcDCVC. In
+the classic view ofthe GSH conjugation path-
+way, cysteine conjugates undergo N-acetyla-
+tion to yield mercapturates which, because of
+their polarity, are readily excreted in the
+urine. The N-acetylation reaction is catalyzed
+by a cysteine S-conjugate N-acetyltransferase
+found in the endoplasmic reticulum (92).
+This N-acetyltransferase is distinct from the
+cytosolic enzymes that are polymorphic in
+humans (e.g., isoniazid polymorphism). The
+mercapturate can also be deacetylated
+intracellularly, thus regenerating the cysteine
+conjugate. Hence, administration of
+NAcDCVC can also produce nephrotoxicity
+(93,94), and the relative rates ofN-acetylation
+and deacetylation are important in determin-
+ing the fraction of the mercapturate that can
+produce toxic metabolites.
+Zhang and Stevens (94) compared the
+intracellular disposition and metabolic fate of
+DCVC and NAcDCVC in suspensions of rat
+renal proximal tubules. DCVC was rapidly
+transported into the tubules and was rapidly
+converted to NAcDCVC or was converted to
+reactive species that covalently bound to cellu-
+lar proteins. Comparison of the amount of
+radiolabel covalently bound to cellular pro-
+teins with 35S-DCVC and 35S-NAcDCVC
+showed that a much higher proportion of
+radiolabel was bound from DCVC than from
+NAcDCVC. These data suggested that
+deacetylation ofNAcDCVC is relatively slow.
+As described below, a significant portion of
+the DCVG that is formed in the liver is
+excreted into the bile and is converted there
+and in the intestines to DCVC. After entero-
+hepatic circulation, some of this DCVC is
+converted to NAcDCVC in the liver and then
+excreted into the plasma and translocated to
+the kidneys. Hence, the relative amounts of
+DCVC and NAcDCVC that are released
+from the liver for translocation to the kidneys
+will modulate the amount of nephrotoxic and
+nephrocarcinogenic metabolites that are
+ultimately generated within the kidneys.
+The NAcDCVC that is secreted into the
+tubular lumen of the kidneys or that arrives
+there by glomerular filtration and is not trans-
+ported back into the renal epithelial cell for
+deacetylation is excreted into the urine.
+Indeed, NAcDCVC has been recovered in the
+urine of rats (54,95,96), mice (97), and
+humans (17,96,97) after exposure to TCE.
+This demonstrates that the GSH conjugation
+pathway for TCE occurs in vivo. Urinary
+NAcDCVC has been considered as a marker
+for flux ofTCE through the GSH conjugation
+pathway, mostly for lack ofa better alternative.
+DCVG
+) -- Acivicin
+y-Glutamyltransferase
+DCVCG
+Dipeptidase | (3 _ 1,10-Pher
+Dipeptidase
+PheGly
+DCVC
+-AOAACysteine Conjugate
+)i-lyase 0 ---- 2-Keto a
+nanthroline
+acids
+[DCVSH]
+Nephrotoxicity
+Nephrocarcinooenicity
+Figure 5. Validation of GSH conjugation and ,B-Iyase pathway
+for bioactivation of DCVG. Abbreviations: GlyGly, glycylglycine;
+PheGly, phenylalanylglycine; AOAA, aminooxyacetic acid.
+As described in the next and subsequent
+sections of this review, it is likely that urinary
+NAcDCVC represents only a small fraction of
+the total flux. Hence, although NAcDCVC
+may be reliably used to assess exposure to
+TCE, it will not be a very sensitive indicator
+owing to the small amounts recovered. More
+important for risk assessment, NAcDCVC has
+also been specifically considered as a marker of
+flux through the pathway that produces the
+nephrotoxic and nephrocarcinogenic metabo-
+lites ofTCE. As described above, NAcDCVC
+is a detoxication product, whereas other
+metabolites of DCVC are the ones that are
+directly associated with renal injury. These
+considerations will be discussed further later in
+this review in relation to flux through the
+oxidative pathway of TCE metabolism and
+sex- and species-dependent differences in
+metabolism ofTCE.
+DCVCmetabolism by P3-lyase. Early studies
+with DCVC described its enzymatic break-
+down by a C-S lyase in liver and kidney to
+pyruvate, ammonia, and an unidentified sulfur-
+containing fragment that formed covalent
+adducts with GSH and protein (98). Studies
+over the next three decades showed that the
+enzymatic activity, the J3-lyase, is a family of
+pyridoxal phosphate (PLP)-containing enzymes
+that are found in several tissues besides the kid-
+neys, induding rat and human liver (99-103),
+intestinal microflora (104,105), and rat brain
+(106,107). However, many ofthese various P3-
+lyase activities are catalyzed by distinct enzymes
+with varying substrate specificities or are not
+exposed to cysteine conjugates in the normal
+pathways ofinterorgan metabolism.
+Although the DCVG that is formed in the
+liver and excreted into the bile can be degraded
+to DCVC and should then be available for
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+LASH ET AL.
+188
+METABOLISM OF TCE
+,B-lyase-mediated catalysis by the intestinal
+microflora, these enzymes are not thought to
+play a significant role in DCVC metabolism
+and no intestinal toxicity is seen with adminis-
+tration of DCVC. As discussed below in the
+section on tissue distribution of I-lyase activ-
+ity, the hepatic P-lyase activity is associated
+with kynureninase (100) and is distinct from
+the renal I-lyase activities (108), whereas the
+renal 13-lyase activity is a catalytic property of
+glutamine transaminase K (109-116).
+Alberati-Giani et al. (106) reported that rat
+liver also expresses the mRNA for the renal
+glutamine transaminase K but that the levels of
+the mRNA in the liver are much lower than
+those in the kidneys. Due to the patterns of
+interorgan metabolism and the tissue speci-
+ficity of enzymes that process GSH conjugates
+and related metabolites, hepatic kynureninase
+does not appear to play a role in DCVC
+metabolism and no liver pathology is observed
+after treatment of rats with DCVG or DCVC
+(85,86,99). Hence, it is the renal P-lyase activ-
+ities that are critical for DCVC bioactivation.
+The initial 3-lyase activities that were puri-
+fied from rat (115) and human (113) kidney
+cytosol were identified as catalytic activities of
+glutamine transaminase K with reported mole-
+cular weights of85-100 kDa. Multiple P-lyase
+activities appear to be present in renal cortical
+mitochondria, a soluble form present in the
+matrix and identified with glutamine transami-
+nase K (116) and a membrane-bound form
+that is distinct from glutamine transaminase K
+(112). Recent studies from Cooper and col-
+leagues (117,118) have identified an addi-
+tional, high-molecular-weight form of renal
+[-lyase with apparent molecular weight of330
+kDa. The high-molecular-weight form, like
+the low-molecular-weight form, is localized to
+the cytosol and mitochondrial matrix but is
+immunologically distinct from glutamine
+transaminase K and has no similarities to other
+known PLP-containing enzymes. Biochemical
+properties of the various renal B-lyase activities
+are summarized in Table 12. The apparent
+regulation of ,-lyase activity by 2-keto acids
+(110), particularly in renal mitochondria,
+suggests that metabolic state may alter activity
+in vivo, thereby influencing toxicity. Keto
+acids stimulate renal ,-lyase activity and
+potentiate DCVC-induced cytotoxicity in
+freshly isolated rat kidney cells because the 1B-
+lyase catalyzes both ,8-elimination and
+transamination reactions: During transamina-
+tion, the PLP cofactor can become "trapped"
+in an inactive pyridoxamine phosphate (PMP)
+form in the absence of suitable keto acid
+acceptors; addition of exogenous keto acids
+converts to PLP, thereby restoring activity to
+the 3-lyase (110,115).
+As illustrated in Figures 1 and 5, DCVC is
+metabolized by the 3-lyase to a reactive thiol,
+S-(1 ,2-dichlorovinyl)thiol (DCVSH). This
+thiol is chemically unstable and rearranges to
+reactive species that alkylate cellular nucleo-
+philes (Figure 6). Trapping experiments were
+necessary to demonstrate formation of these
+metabolites due to their reactive and chemi-
+cally unstable nature (119). Similar
+approaches have been used to trap and iden-
+tify chemical structures of reactive intermedi-
+ates from several other haloalkyl and
+haloalkenyl cysteine S-conjugates (119-121).
+DCVC metabolites generated by the
+catalytic action of the 1-lyase form covalent
+adducts with cellular nucleophiles, including
+proteins. Bull and colleagues (122,123) sug-
+gested that measurement of the acid-labile
+adducts could be used as an index of flux
+through the ,B-lyase pathway. While this
+would seem to make sense, as it is the quan-
+tity of the reactive species that is formed that
+can produce cellular injury and not, as dis-
+cussed below, the quantity of stable end-
+products that are excreted into the urine (e.g.,
+mercapturates), the methodology is poten-
+tially complicated by artifacts due to chemical
+instability of the molecules being quantified.
+Additionally, Eyre et al. (122,123) found
+that apparent net activation of TCE by the
+1-lyase pathway and apparent acid-labile
+adduct formation were greater in mice than
+in rats, which does not correspond to the
+higher susceptibility of rats to renal toxicity
+and carcinogenesis, although adduct forma-
+tion did correspond to increased cell replica-
+tion rates. Hence, the relationship between
+adduct formation and effects on cellular
+function and homeostasis are very complex
+and require further study.
+MacFarlane et al. (124) showed that pre-
+treatment of rats with a single, subtoxic dose
+of the mercapturate of a nephrotoxic halo-
+genated hydrocarbon produced a 1.5- to 3-
+fold increase in renal 1-lyase activity and an
+increase in the cognate mRNA. These results
+suggest that prior or continuous exposures to
+low, subtoxic doses of certain cysteine or N-
+acetylcysteine conjugates may enhance the
+capability to generate reactive species by the
+P-lyase after subsequent exposures to toxic
+doses of these conjugates or their precursors.
+Although little is currently known about the
+genetic regulation of the 1-lyase, these data
+suggest that differential expression of the 13-
+lyase may need to be taken into account in a
+risk assessment for chemicals whose nephro-
+toxicity is mediated by this enzyme.
+Direct demonstration of the function of
+the 1-lyase in vivo in either experimental ani-
+mals or humans has not been possible with
+DCVC because of the reactive nature of the
+metabolite. However, Iyer et al. (125) recently
+reported the identification of a metabolite of
+compound A (2-[fluoromethoxy]-1, 1,3,3,3-
+pentafluoro-1-propene) that could only have
+arisen by ,B-lyase-dependent metabolism.
+Hence, this is the first study to directly show
+function ofthe 1-lyase in vivo in humans.
+DCVC metabolism by other enzymes.
+Although the 1-lyase is considered to be the
+major bioactivation enzyme for DCVC, other
+bioactivation enzyme activities have been
+described, and some of these may have rele-
+vance to risk assessment. One of these other
+enzymes is the renal L-a-hydroxy (L-amino)
+acid oxidase (HAO), which can catalyze for-
+mation of the keto acid analogue of DCVC
+through an iminium ion intermediate, and
+this then decomposes to release DCVSH
+(126,127). This route of metabolism for
+DCVC has been estimated to account for as
+much as 35% of bioactivation in male F344
+rats. HAO, however, is present only in rat
+kidney and is absent from human kidney.
+Thus, this pathway is irrelevant for human
+health risk assessment.
+Table 12. Biochemical properties of mammalian renal cysteine conjugate P-lyase activities.
+Property
+Subcellular localization
+Intrarenal localization
+Molecular weight and
+subunit composition
+Cofactor
+Substrate specificity
+Cosubstrate specificity
+Reaction mechanism
+Inhibitor
+Description
+Cytosol and mitochondria (matrix and outer membrane)
+Predominantly S3 segment of proximal tubule; also in S, and S2
+Low-molecular-weight form: homodimer of 45-50 kDa each; aggregate M,
+reported of 85-100 kDa; identical to glutamine transaminase K
+High-molecular-weight form: 330 kDa; at least two subunits of M,70 and 50
+kDa; distinct from glutamine transaminase K
+Pyridoxal phosphate
+Both forms: good leaving group on beta carbon; haloalkyl or haloalkenyl
+cysteine S-conjugates are substrates.
+Low-molecular-weight form: nonhalogenated, alkyl-substituted conjugates are
+not substrates.
+High-molecular-weight form: leukotriene E4 as a substrate.
+Both forms: 2-keto acids with relatively hydrophobic substituents on beta
+carbon (e.g., 2-keto-4-methiolbutyrate, phenylpyruvate).
+High-molecular-weight form: also activated by polar 2-keto acids (e.g.,
+2-ketoglutarate and pyruvate).
+Beta-elimination or transamination followed by reverse Michael elimination
+Aminooxyacetic acid
+189
+VrnviTonmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+Cl
+H~ ~~~3
+\/ \COS
+coo-
+Cl
+I
+cls
+H,0
+1, DCVC
+2, DCVSH
+HNEt.,
+4b
+Nu
+Cl'
+Figure 6. Scheme of formation of reactive metabolites from DCVC. Abbreviations: HNEt2, diethylamine; Nu, cellular
+nucleophile. Metabolites: 1, DCVC; 2, DCVSH; 3a, chlorothioketene; 3b, chlorothionoacetyl chloride; 4a, N,N-
+diethylchlorothioacetamide; 4b, covalent adduct with cellular nucleophile; 5a, chlorothionacetic acid; 5b, CAA.
+Metabolite 4a is formed by trapping reactive metabolites 3a/3b with HNEt2. Metabolites 5a and 5b are stable end
+products that are formed by hydrolysis. Modified from Dekant et al. (119).
+Sulfoxides are known metabolites of
+cysteine conjugates that can be recovered in
+the urine as stable end products. Elfarra and
+colleagues (128,129) identified and subse-
+quently purified an enzymatic activity from rat
+liver and kidney microsomes that metabolizes
+DCVC to its sulfoxide. This enzyme was sub-
+sequently shown to be a flavin-containing
+monooxygenase (FMO), initially thought to
+be related to FMOIA1 (129), but more recent
+data suggest that FMO3 is the isoform respon-
+sible for DCVC oxidation (130). Unlike other
+cysteine conjugate sulfoxides, DCVC sulfoxide
+is unstable and reacts with cellular nucle-
+ophiles, including GSH (131). The potential
+significance of this activity for overall TCE or
+DCVC bioactivation and for human health
+risk assessment is undear, but DCVC sulfox-
+ide was shown to be markedly more nephro-
+toxic to rats and more cytotoxic in freshly
+isolated rat renal cells than DCVC (132). This
+finding warrants further investigation.
+Werner et al. (133) recently showed that
+sulfoxides can arise by a different pathway. In
+their studies, they found that NAcDCVC and
+the mercapturate of perchloroethylene (PER)
+were metabolized by rat liver microsomes to
+the corresponding sulfoxides by CYP3A and
+not by an FMO. These investigators also
+found that the N-acetylcysteine conjugate sul-
+foxides were markedly more cytotoxic in
+freshly isolated rat renal cortical cells than the
+corresponding mercapturates, similar to the
+situation with cysteine conjugate sulfoxides.
+This report adds an additional dimension to
+known bioactivation mechanisms of DCVC.
+Due to the efficient processing of mercap-
+turates by the liver, which leads to their deliv-
+ery to the kidneys, and the much lower
+activity ofCYP3A in the kidneys as compared
+with the liver, this pathway is not likely to be
+quantitatively important overall or even in
+comparison to the P-lyase pathway.
+An additional although minor fate of the
+reactive DCVSH generated by the ,-lyase and
+other enzymes is methylation, which occurs by
+a thiomethyltransferase in the intestinal
+microflora (134). The thiomethyltransferase
+uses S-adenosylmethionine to transfer a methyl
+group to the thiol, forming the methylthio
+derivative, which is subsequently oxidized to
+the methylsulfinyl (CH3SO-) and methyl-
+sulfonyl (CH3SO2-) analogs. The methylthio
+derivatives are nonpolar and are generally
+excreted into the feces. Quantitatively, this
+pathway is probably minor for TCE, account-
+ing for no more than 0.05-0.1% of the total
+excreted metabolites ofTCE.
+Membrane transport of GSH-derived
+metabolites of TCE. Membrane transport
+processes play an important role in the tissue
+distribution of the various GSH conjugates
+and related metabolites [(89); also see discus-
+sion below on interorgan metabolism). There
+are three GSH-derived metabolites of TCE
+whose membrane transport is important for
+understanding tissue distribution: DCVG,
+DCVC, and NAcDCVC. For DCVG, both
+efflux from the hepatocyte and membrane
+transport processes in renal proximal tubular
+cells are toxicologically important. For both
+DCVC and NAcDCVC, uptake into renal
+proximal tubular cells is the relevant process.
+As discussed above, there are two primary
+sources or sites of formation of DCVG-the
+liver and the kidneys. For DCVG that is gen-
+erated by renal GSTs, further processing
+occurs by efflux of intracellular DCVG by
+transport across the brush-border membrane
+into the lumen, where it can then be metabo-
+lized by GGT and dipeptidases to generate
+DCVC. Efflux ofGSH and GSH S-conjugates
+into the lumen by transport across the brush-
+border membrane is viewed as an essential step
+in the turnover of these compounds because
+the active site ofGGT is extracellular (135). In
+fact, inhibition of GGT in vivo produces
+marked glutathionuria in mice (135).
+Presumably, a marked increase in urinary
+excretion ofGSH conjugates would also occur
+under similar conditions. Although this trans-
+port step has not been specifically quantitated
+for DCVG, Inoue and Morino (136) deter-
+mined the mechanism and kinetics of trans-
+port for GSH in renal brush-border
+membrane vesicles. GSH uptake was depen-
+dent on the membrane potential and exhib-
+ited a Km for GSH of0.21 mM and a V,, of
+1.15 nmol/min per mg protein. It can be
+expected that brush-border membrane DCVG
+transport will likely exhibit similar kinetics.
+For DCVG that is generated in the liver,
+there are two additional steps, efflux across the
+canalicular membrane into the bile or across
+the sinusoidal membrane into the plasma, and
+extraction by the kidneys. Hepatic GSH con-
+jugates are transported primarily into bile by
+the canalicular multispecific organic anion
+transporter (cMOAT), which is an ATPase
+that mediates efflux of various GSH conju-
+gates and organic anions (137-140). Again,
+transport of DCVG by this carrier has not
+been specifically studied. However, kinetics
+for transport of the model GSH conjugate
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+LASH ET AL
+190
+METABOLISM OF TCE
+S-(2,4-dinitrophenyl)glutathione (DNPSG)
+have been characterized. Km (pM DNPSG)
+and Vm,, (nmol translocated/min per mg pro-
+tein) values of 71 and 0.34, respectively, were
+reported by Akerboom et al. (137), whereas
+Niinuma et al. (140) reported values of 18
+and 1.15, respectively. Comparisons with
+other model GSH conjugates reveal some
+variability in rates of transport (up to a 5-fold
+range), suggesting that these values for
+DNPSG should only be used as a rough esti-
+mate for the transport of DCVG from the
+hepatocyte into the bile. Although data in
+normal human liver are not available, Olive
+and Board (141) characterized efflux of
+DNPSG from eight different cultured human
+liver cell lines, including Jurkat, HL-60,
+HepG2, and HeLa cells. A 10-fold range of
+transport rates was observed. These cells also
+exhibited a 6-fold range of intracellular GSH
+contents and a 5-fold range of GST activities.
+However, there was no correlation between
+transport activity and either GSH content or
+GST activity. Hence, although transport data
+from normal human liver is unavailable, these
+studies in cell lines suggest that considerable
+variations in transport capacity may exist.
+Besides the luminal transport of DCVG,
+plasma DCVG that does not undergo
+glomerular filtration may gain access to the
+renal proximal tubular cell by transport across
+the basolateral plasma membrane (142). This
+transport occurs by the Na+-coupled system
+described for GSH (143,144). Transport of
+both GSH and GSH S-conjugates is inhib-
+ited by probenecid and p-aminohippurate,
+suggesting that the organic anion carrier may
+be involved in the transport. Another study
+on renal plasma membrane GSH transport
+(145) indicates the additional involvement of
+plasma membrane dicarboxylate carriers.
+Rates of DCVG transport into membrane
+vesicles were extremely rapid (22 nmol/min/
+per mg protein with 5 mM DCVG) and
+transport was inhibited by GSH and
+y-glutamyl amino acids, but not by DCVC
+(142). Once inside the renal proximal tubu-
+lar cell, DCVG will be translocated to the
+brush-border membrane for efflux into the
+lumen and metabolism as described above.
+Once DCVG is secreted into the bile, a
+significant portion of it will be metabolized
+by either biliary or intestinal GGT and
+dipeptidases to form DCVC. The transport
+processes relevant for DCVC include uptake
+into the hepatocytes (enterohepatic circula-
+tion) and uptake into the renal proximal
+tubular cell. Again, little data are available on
+rates of DCVC transport into the liver, with
+the exception of one in vitro study. Simmons
+et al. (146) characterized DCVC uptake by
+isolated canalicular membrane vesicles from
+rat liver. DCVC uptake was Na+ independent
+and exhibited Km and Vm,, values of 155 ,uM
+and 4.7 nmol/min per mg protein, respectively.
+This step thus appears to have a greater capac-
+ity than any ofthe steps for DCVG transport.
+Renal extraction of plasma DCVC can
+occur by either glomerular filtration and
+uptake across the brush-border membrane or
+by uptake across the basolateral membrane.
+Transport across the brush-border membrane
+from rat kidney cortex was reported to be Na+
+dependent and exhibited Km and V, values
+of225 pM and 3.1 nmol/min per mg protein,
+respectively (147). In contrast, Wright et al.
+(148) found that DCVC uptake in brush-bor-
+der membrane vesides from rabbit renal cortex
+was Na+-independent and exhibited Km and
+V, values of0.45 mM and 60 nmol/min per
+mg protein. Brush-border membrane transport
+of DCVC was unaffected by NAcDCVC or
+several other organic anions but appears to
+occur by the same carrier that transports neu-
+tral amino acids such as phenylalanine. In con-
+trast to this, basolateral transport of DCVC
+occurs by both Na+-dependent and Na+-inde-
+pendent mechanisms and the Na+-dependent
+process interacts with the transport of
+NAcDCVC and organic anions (149,150).
+Rates ofDCVC uptake by isolated renal proxi-
+mal tubular cells, which reflect primarily trans-
+port processes occurring at the basolateral
+membrane, were approximately 2-fold higher
+for DCVC than for DCVG (142,150). Thus,
+as with canalicular membrane transport, renal
+transport of DCVC appears to be significantly
+faster than that ofDCVG.
+After release from the hepatocyte, DCVG
+will undergo interorgan translocation and/or
+metabolism. In its translocation to the kid-
+neys, a portion of it will first be returned to
+the liver before efflux into plasma (renal-
+hepatic circulation). Some of the DCVG will
+be metabolized extrahepatically to DCVC
+and some of this will be N-acetylated, either
+extrahepatically or in the liver to form
+NAcDCVC. Hence, the mercapturate is also
+a form to which the kidneys are exposed.
+Transport of NAcDCVC into renal proximal
+tubular cells occurs readily and presumably
+by the organic anion carrier (93,94). Kinetic
+parameters for transport at specific membrane
+sites are unavailable, but estimates appear to
+be similar to those for DCVC. Transport of
+NAcDCVC is not believed to be limiting for
+nephrotoxicity, as described above. Rather,
+the intracellular deacetylation reaction likely
+determines the extent of regeneration of
+DCVC and the degree ofcytotoxicity.
+Tissue Distribution and Sex- and
+Species-Dependent Heterogeneity
+ofGSH-Dependent Metabolism ofTCE
+The selective tissue distribution ofthe various
+enzymes of the GSH-dependent metabolism
+of TCE plays a critical role in determining
+the target organ specificity of DCVC and the
+reactive species that are derived from its
+further metabolism. Hence, a precise knowl-
+edge of the relative activities of each of the
+major enzymes of the pathway is important,
+to help both in understanding how toxicity
+occurs and in assessing the relevance of the
+GSH conjugation pathway relative to the
+oxidative pathway in TCE-induced toxicity.
+The liver and kidneys are the major sites of
+GSH-dependent metabolism of TCE,
+although biliary and intestinal metabolism
+also play significant roles.
+Although most cell types express some
+GST activity, the liver is by far the predomi-
+nant site of GSH conjugation. Table 13 sum-
+marizes measurements of GST activity with
+1-chloro-2,4-dinitrobenzene as substrate in
+cytosolic fractions from male and female F344
+rat and B6C3F, mouse liver and kidney. With
+the exception of the female rat, specific activi-
+ties (normalized to protein) are slightly to
+modestly lower in kidney cytosol than in
+those from liver cytosol. However, total activ-
+ity in the liver will be much higher than in the
+kidneys due to the larger tissue size.
+For chemicals such as TCE that undergo
+GSH conjugation and eventually are trans-
+located to the kidneys for further metabolism,
+it has generally been assumed that most ifnot
+all of the GSH conjugation occurs in the
+liver. However, Lash et al. (151) showed that
+TCE is conjugated with GSH in freshly iso-
+lated kidney cells from male F344 rats,
+although at rates that are only 5 to 10% of
+those in isolated hepatocytes (Figure 7). Koob
+and Dekant (152) also demonstrated that
+hexafluoropropene, a nephrotoxic fluo-
+roalkene, can undergo GSH conjugation in
+the kidney as well as in the liver. Thus, the
+entire GSH conjugation pathway can occur
+within the target tissue. Although the major-
+ity of the flux involves interorgan processes
+(see below), with the liver catalyzing the
+majority of the initial step in the pathway,
+this intraorgan process should be taken into
+account in refinements of PBPK models and
+risk assessments for TCE.
+A summary of measurements of DCVG
+formation from TCE in liver and kidney
+cytosol and microsomes from male and
+female F344 rats and B6C3F, mice
+(153,154) is given in Table 14. The results
+show some dramatic sex- and species-depen-
+dent differences in GSH conjugation ofTCE.
+Although overall GSH conjugation in male
+rats is clearly higher than that in female rats,
+no detectable DCVG formation was observed
+in male rat liver microsomes, whereas DCVG
+formation in female rat liver microsomes
+occurred at approximately twice the rate as in
+the cytosol. Rates of metabolism in mice in
+both kidney and liver fractions were also gen-
+erally faster in males than in females and were
+markedly higher than corresponding rates in
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 191
+LASH ET AL.
+rats. This last point brings up an interesting
+correlation with the covalent adduct forma-
+tion reported by Bull and colleagues (93,94).
+As summarized above, 2-fold higher rates of
+covalent adduct formation from 35S-labeled
+DCVC were found in mouse kidney com-
+pared to those in rat kidney. Hence, both
+higher rates of adduct formation and GSH
+conjugation of TCE occur in the mouse kid-
+ney, although the rat is the species in whom
+renal tumors are observed.
+Kinetics of GSH conjugation of TCE in
+subcellular fractions from pooled human
+liver and kidney samples are summarized in
+Table 15. Although analysis could only
+detect a single, kinetically distinct process for
+DCVG formation in kidney fractions, GSH
+conjugation ofTCE in both liver cytosol and
+Table 13. Measurements of GST activity in liver and
+kidney cytosol from male and female F344 rats and
+B6C3F, mice.a
+Activity
+Sex Species Tissue (mU/mg protein)
+Male Mouse Liver cytosol 0.78 ± 0.28
+Male Mouse Kidney cytosol 0.70 ± 0.09
+Female Mouse Liver cytosol 0.49 ± 0.03
+Female Mouse Kidney cytosol 0.34 ± 0.04
+Male Rat Liver cytosol 1.10 ± 0.44
+Male Rat Kidney cytosol 0.55 ± 0.10
+Female Rat Liver cytosol 0.28 ± 0.06
+Female Rat Kidney cytosol 0.34 ± 0.08
+'GST activity was measured spectrophotometrically with 1 mM
+1-chloro-2,4-dinitrobenzene as substrate by determining forma-
+tion of 2,4-dinitrophenylglutathione at 340 nm. Results are the
+means ± SE of measurements from 6 experiments for rats and 4
+experiments for mice. Data reported in ( 153).
+15-
+-( I:I Hepatocytes
+o1 Kidney Cells
+10-
+0
+2 mM TCE 1 mM TCE
+Figure 7. GSH conjugation of TCE in suspensions of
+freshly isolated hepatocytes and renal cortical cells from
+male F344 rats. Isolated hepatocytes (2 x 106 cells/ml)
+or renal cortical cells (8 x 106 cells/mL) were incubated
+with 1 or 2 mM TCE in the presence of 5 mM GSH at
+30°C for 60 min. DCVG formation was measured by ion-
+exchange, reversed-phase high-performance liquid chro-
+matography after derivatization with iodoacetate and
+1-fluoro-2,4-dinitrobenzene, and was detected by
+absorbance at 365 nm. Results are the means ± SE of 3
+experiments. See (1501 for other details.
+microsomes were resolved into two kinetically
+distinct processes. Maximal rates of DCVG
+formation in human liver and kidney were
+only modestly lower than those in rat liver
+and kidney but were approximately 5-fold
+lower than those in the mouse. Hence, it
+appears that any limitation in the generation
+of reactive metabolites of TCE from this
+pathway does not exist at the initial step
+where DCVG formation occurs. Rates of
+GSH conjugation of TCE in human liver
+and kidney subcellular fractions reported
+here are up to an order of magnitude greater
+than those reported by Green et al. (154). In
+incubations with 1.9 mM TCE and 5 mM
+GSH, Green and colleagues found rates of
+DCVG formation of 2.5, 1.6, and 0.19
+pmol/min per mg protein in liver cytosols of
+male mice, rats, and humans, respectively. In
+contrast, in incubations with 2 mM TCE
+and 5 mM GSH, Lash and colleagues
+(151,153,155) reported rates of DCVG for-
+mation of 408, 122, and 5,770 pmol/min
+per mg protein in liver cytosols ofmale mice,
+rats, and humans, respectively. Similarly,
+Green et al. (154) were unable to detect net,
+enzymatic formation of DCVG in incuba-
+tions with rat kidney subcellular fractions. In
+contrast, Lash and colleagues (151,153)
+reported a rate of DCVG formation in incu-
+bations of male rat kidney cytosol with 2
+mM TCE and 5 mM GSH of 7.5 pmol/min
+per mg protein and a rate of 0.7 nmol/min
+per mg protein in pooled human kidney
+cytosol (154).
+The controversy between these results has
+not been resolved. Differences in analytical
+methods (radiolabeled substrate with high per-
+formance liquid chromatography (HPLC) sep-
+aration versus derivatization and HPLC
+Table 14. Summary of metabolism of TCE by GSH con-
+jugation in kidney and liver subcellular fractions from
+male and female F344 rats and B6C3F, mice.a
+Subcellular fractions
+Rat kidney cells
+Rat hepatocytes
+Rat kidney cytosol
+Rat kidney microsomes
+Rat liver cytosol
+Rat liver microsomes
+Mouse kidney cytosol
+Mouse kidney microsomes
+Mouse liver cytosol
+Mouse liver microsomes
+DCVG formation
+(nmol/mg protein or
+106 cells per 60 min)
+Male Female
+0.48±0.02 0.65±0.15
+9.70 ± 0.29 2.67 ± 0.69
+0.45 ± 0.22 0.32 ± 0.02
+ND 0.61 ± 0.06
+7.30 ± 2.80 4.86 ± 0.14
+10.3 ± 2.8 7.24 ± 0.24
+5.60 ± 0.24 3.70 ± 0.48
+5.47± 1.41 16.7 ± 4.7
+24.5±2.4 21.7±0.9
+40.0±3.1 25.6±0.8
+ND, not detectable; limit of detection was 0.05 nmol/mg protein
+or 106 cells. &Results are means ± SE of measurements from 3
+separate cell or tissue preparations and are for 2 mM TCE incu-
+bated with 5 mM GSH for 60 min. DCVG formation was mea-
+sured after derivatization of acid extracts with iodoacetate and
+1-fluoro-2,4-dinitrobenzene, separation by ion-exchange, gradi-
+ent HPLC on an amine column using a methanol-acetate mobile
+phase and detection of N-dinitrophenyl DCVG at 365 nm. Data
+reported in ( 151,153).
+separation) may contribute to the discrepancies
+in measured rates. Beyond this, no other
+explanations are available to explain the dis-
+crepancies. Green and colleagues (154) also
+reported that formation of DCVG was linear
+with respect to incubation time for at least 60
+min, whereas Lash et al. (151,153) showed
+the expected saturation kinetics and maxi-
+mization versus incubation time of an
+enzyme-catalyzed process.
+Measurements of GGT activity in liver
+and kidney subcellular fractions from male
+and female rats and mice and pooled human
+liver and kidney samples show clearly that at
+least in rodents, insignificant GGT activity is
+present in the liver (Table 16). Human liver
+exhibits relatively low activity of GGT
+(approximately 3% of that in the kidneys).
+Only modest sex-dependent differences were
+observed in GGT activity. Rats exhibited the
+highest activity of GGT, with humans
+exhibiting approximately 50% of that in rats
+and mice exhibiting only 20% of that in rats.
+Higher GGT activity provides more substrate
+for the P-lyase reaction, which would gener-
+ate higher amounts ofreactive species. Hence,
+these differences may contribute to species-
+dependent differences in overall flux of TCE
+through the GSH conjugation pathway.
+Hinchman and Ballatori (156) com-
+pared renal and hepatic GGT activity in sev-
+eral mammalian species. Although the
+kidneys contain the highest levels of GGT
+activity in all species examined, including
+humans, specific activities (i.e., mU/mg pro-
+tein) can vary up to 10-fold or more
+between species. Furthermore, although
+adult liver contains relatively low levels of
+GGT activity, specific activities can also vary
+up to 10-fold or more. Hence, while the
+ratio of GGT specific activity in kidney to
+that in liver was reported as 875 in rats and
+413 in mice, it was only 100 in rabbits and
+19 in pigs. Humans exhibit tissue distribu-
+tions similar to rabbits. Use of rats to model
+Table 15. Kinetics of GSH conjugation of TCE in human
+kidney and liver subcellular fractions.a
+Vmax(nmol DCVG/ Km
+Tissue/subcellular fraction min/mg protein) (pM TCE)
+Kidney
+Cytosol 0.81 26.3
+Microsomes 6.29 167
+liver
+Cytosol: low affinity 8.77 333
+Cytosol: high affinity 4.27 22.7
+Microsomes: low affinity 3.10 250
+Microsomes: high affinity 1.42 29.4
+'Activity of GSH conjugation of TCE was measured in cytosol
+and microsomes from pooled human liver and kidney samples.
+Fractions (1 mg protein/ml) were incubated with 7.8 pM-1 mM
+TCE and 5 mM GSH at 37T; DCVG formation was quantitated
+by HPLC analysis after derivatization. Kinetic parameters were
+calculated from Eadie-Hofstee plots and are derived from mea-
+surements from 3 separate incubations. Results were reported
+in ( 155).
+Environmental Health Perspectives * Vol 108, Supplement 2 ' May 2000192
+METABOLISM OF TCE
+interorgan GSH and GSH S-conjugate
+metabolism thus overestimates the role of
+these pathways in turnover. This is not to
+say, however, that the interorgan pathways
+do not play a significant role even in
+humans, since total renal activity is still sev-
+eralfold higher than that of total hepatic
+activity.
+A scheme summarizing the interorgan
+processes involved in GSH conjugation and
+subsequent metabolism of TCE is shown in
+Figure 8. Processes occurring in the liver,
+small intestine, kidneys, bile, and plasma are
+highlighted. Although most studies that were
+performed in the development of this model
+have used the rat, the interorgan metabolism
+model is valid in humans, although fluxes and
+distributions of metabolites in the various
+compartments (i.e., plasma, bile) will vary.
+TCE is shown as having two fates: being
+taken up by the liver where it is conjugated
+with GSH or being taken up by the kidney
+where it may also be conjugated with GSH.
+The two principal interorgan pathways are the
+enterohepatic and renal-hepatic circulations.
+The determining factors in these pathways are
+the following: a) high activity of GST in the
+liver; b) efficient transport systems in liver cells
+for efflux of GSH conjugates into bile or
+plasma; c) relatively high activity of GGT on
+renal brush-border membranes and relatively
+low activity of GGT in liver; and d) selective
+presence of a transport system for uptake of
+Table 16. Measurements of GGT activity in liver and
+kidney from male and female F344 rats and B6C3F, mice
+and pooled human liver and kidney samples.a
+Activity
+Sex Species Tissue Fraction (mU/mg)
+Male Mouse Liver Cytosol 0.07 ± 0.04
+Microsomes 0.05 ± 0.04
+Kidney Cytosol 1.63 ± 0.85
+Microsomes 92.6 ± 15.6
+Female Mouse Liver Cytosol 0.10 ± 0.10
+Microsomes 0.03 ± 0.03
+Kidney Cytosol 0.79 ± 0.79
+Microsomes 69.3 ± 14.0
+Male Rat Liver Cytosol < 0.02
+Microsomes < 0.02
+Kidney Cytosol < 0.02
+Microsomes 1,570 ± 100
+Female Rat Liver Cytosol < 0.02
+Microsomes < 0.02
+Kidney Cytosol < 0.02
+Microsomes 1,840 ± 40
+Male Human Liver Cytosol 8.89 ± 3.58
+Microsomes 29
+Kidney Cytosol 13.2 ± 1.0
+Microsomes 960 ± 77
+'GGT activity was measured spectrophotometrically with 1 mM
+y-glutamyl-p-nitroanilide and glycylglycine as substrates by
+determining formation of p-nitroanilide at 410 nm. Results are
+the means ± SE of measurements from 6 experiments for rats, 4
+experiments for mice, and 3-9 measurements from humans,
+except for human kidney microsomes, which is the average of 2
+measurements. Data reported in (153,155).
+GSH conjugates on renal basolateral
+membranes and the absence of an uptake sys-
+tem in liver cell plasma membranes.
+GSH conjugation of TCE was demon-
+strated in isolated human hepatocytes
+(Figure 9). Rates of DCVG formation,
+although lower than those in rat hepatocytes
+by approximately 2- to 3-fold, were not so
+low or difficult to detect that one would con-
+clude that flux through the GSH conjugation
+pathway is too low to account for a measur-
+able and possibly significant portion of total
+TCE metabolism. Of course, this is only the
+initial step in the pathway with subsequent
+branches leading to excretion of nontoxic
+products in addition to the branches that
+produce toxic metabolites. Hence, it is criti-
+cal to quantitate formation ofthe metabolites
+that directly produce cellular injury.
+As emphasized above, the key step in the
+bioactivation of TCE by the GSH conjuga-
+tion pathway is the ,-lyase step. Reports of
+,-lyase activity in the literature show a fair
+amount of variability, depending in part on
+the cysteine conjugate substrate used, the
+assay method used, and even the laboratory
+reporting the data. Table 17 summarizes
+activity data or, when available, kinetic para-
+meters, for ,B-lyase activity in kidney cytosol
+or homogenates from rats, mice, and
+humans. Km values for cysteine conjugates
+are, with the exception of two reports, > 1
+mM, indicating that the 1-lyase is a rela-
+tively low-affinity pathway. Activities vary
+considerably among substrates. In the one
+study (157) where 3-lyase activity in kidney
+cytosol from male and female rats, mice and
+humans was measured together; the results
+showed that Km values for S-(1,2,2-
+trichlorovinyl)-L-cysteine (TCVC) were
+markedly higher and Vmax values were
+markedly lower for mice and humans as
+compared to rats. This species difference is
+consistent with the higher susceptibility of
+TCE
+BILE
+DCVG
+DCVC-
+LIVER
+SMALL
+INTESTINE
+DCVC
+NAcDCVC -
+PLASMA
+NAcDCVC DCVG
+KIDNEY
+TCEl
+_ * DCVG
+Nephrotoxicity
+Nephrocarcinogenicity
++DCVSH
+DCVC
+1A
+_ *NAcDCVC
+PLASMA
+GLOMERULAR
+FILTRATION
+* DCVG
+DCVC
+NAcDCVC
+417
+URINE
+Figure 8. Scheme for interorgan processing and metabolism of TCE by the GSH conjugation pathway.
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+TCE
+DCVG
+-* NAcDCVCDCVC
+AF4-
+m
+1
+193
+LASH ETAL.
+0.25
+' 0.20
+i0.15
+0.10
+n 0.05
+0.00
+0 2500 5000 7500 10000
+TCE (ppm)
+Figure 9. GSH conjugation of TCE in isolated human
+hepatocytes. Isolated hepatocytes (2.0 x 106 cells/mL)
+were isolated from livers of human donors and were
+incubated in sealed flasks with the indicated concentra-
+tion of TCE in the headspace for 120 min. DCVG forma-
+tion was assayed in perchloric acid extracts of aliquots
+of cells by ion-exchange, reversed-phase high-perfor-
+mance liquid chromatography after derivatization with
+iodoacetate and 1-fluoro-2,4-dinitrobenzene. Derivatives
+were detected spectrophotometrically at 365 nm and
+were quantified with respect to authentic standards.
+Data reported in (155).
+rats to kidney toxicity and cancer than other
+species. Km and Vmax values for male rats
+were also lower and higher, respectively,
+than those for female rats, which is consistent
+with male rats being more susceptible than
+female rats. The central questions for risk
+assessment, therefore, are: a) Can studies in
+male rats be extrapolated to humans? and b)
+Is P-lyase activity in human kidney high
+enough to generate sufficient amounts of
+reactive metabolites to produce nephrotoxic-
+ity and kidney cancer? Additional studies are
+clearly necessary to accurately determine flux
+through this pathway.
+Elfarra and Hwang (158) used the model
+cysteine conjugate S-(2-benzothiazolyl)-L-cys-
+teine (BTC) as an in vivo marker of flux
+through the 3-lyase pathway. BTC was origi-
+nally synthesized as a convenient assay sub-
+strate for the P-lyase (99) because it is
+converted to a stable thiol metabolite, 2-mer-
+captobenzothiazole (MBT), which can be
+readily measured spectrophotometrically.
+They administered BTC to male and female
+rats and male mice, rats, hamsters, and guinea
+pigs. BTC is metabolized by the P-lyase and is
+recovered in the urine as either MBT or MBT
+glucuronide, both of which are chemically
+stable and readily measured. Male rats released
+more metabolite into the urine than female
+rats and of the four species compared; mice,
+hamster, and rats excreted comparable levels
+of total metabolites, whereas the guinea pig
+excreted more than twice the amount of
+metabolites as the other species. For the
+guinea pig, however, the higher excretion rate
+was not attributable to higher P-lyase activity.
+Rather, the guinea pig is unique in having
+extremely low N-acetylation activity and
+extremely high deacetylation activity (159),
+which leads to more BTC being available for
+P-lyase-mediated metabolism. Hence, mea-
+surements of MBT plus MBT glucuronide
+plus the mercapturate ofMBT may provide a
+useful means of accurately determining flux
+through the ,B-lyase pathway.
+The importance of N-acetylation versus
+N-deacetylation in determining cysteine
+conjugate nephrotoxicity was highlighted in
+a recent study by Lau et al. (159), in which
+they determined rates of the forward and
+reverse reactions for mercapturate formation
+from S-(2,5-dihydroxyphenyl)-L-cysteine,
+which is a cysteine conjugate derived from
+Table 17. Compilation of selected data on cysteine conjugate f-lyase activity from rat, mouse, and human kidney cytosol or homogenates reported in the literature.
+Specific activity Vmax
+Species Tissue Substrate (nU/mg protein) (mU/mg protein) Km(mM) Reference
+M SD rat Kidney homogenate BTC (2 mM) 6.2 ± 1.0 (99)
+M SD rat Kidney cytosol DCVC (1 mM) 3.1 ± 0.2 (108)
+BTC(1 mM) 0.9±0.1
+M F344 rat Kidney cytosol BTC (0.5 mM) 20.5 (86)
+M SD rat Kidney cytosol DCVC (1 mM; + 0.1 mM KMB) 0.02 (115)
+M F344 rat Kidney cytosol CTFC (4 mM) 22.5 ± 2.5 (166)
+M F344 rat Kidney cytosol BTC 74.8 ± 6.5 1.66 ± 0.19 (112)
+CTFC 11.6 ± 1.6 1.78 ± 0.17
+DCVC 38.3 ± 1.4 1.36± 0.05
+M SD rat Kidney homogenate DCVC (1 mM; + 0.5 mM KMB) 3.05 ± 0.27 (111)
+M Wistar rat Kidney cytosol DCVC (5 mM) 1.24 (167)
+TFEC (5 mM) 2.64
+BTC (1 mM) (+ 0.1 mM KMB) 0.70
+M F344 rat Kidney cytosol (purified enzyme) DCVC 2.2 0.26 (127)
+Kidney homogenate DCVC (1 mM) 4.0 ± 1.0
+PCBC (1 mM) 4.5 ± 0.3
+M F344 rat Kidney cytosol TCVC 4.00± 0.11 0.68 ± 0.06 (157)
+F F344 rat Kidney cytosol TCVC 3.64 ± 0.41 1.26 ± 0.21 (157)
+M B6C3F1 mouse Kidney cytosol TCVC 1.15± 0.31 5.69 ± 2.22 (157)
+F B6C3F1 mouse Kidney cytosol TCVC 1.66 ± 0.27 4.43 ± 1.42 (157)
+M human Kidney cytosol TCVC 0.49 ± 0.07 2.53 ± 0.09 (157)
+F human Kidney cytosol TCVC 0.64± 0.54 2.67 ± 2.11 (157)
+M human Kidney cytosol BTC (2 mM) 0.7 (113)
+M F344 rat Kidney cytosol BTC (2 mM) 6.5
+M Wistar rat Kidney cytosol TCVC (0.3 mM) 5.2 ± 0.7 (168)
+M Wistar rat Kidney cytosol DCVC (5 mM; + keto acids) 2.56 (118)
+Abbreviations: CTFC, S-(2-chloro-1,1,2-trifluoroethyll-i-cysteine; F, female; M, male; PCBC, S-(1,2,3,4,4-pentachlorobutadienyl)-L-cysteine; TFEC, S-(1,1,2,2-trifluoroethyl)-L-cysteine. Note: Where means ±
+SE values are shown, data are from 3-7 separate experiments. Where single values are shown, they are from steps during enzyme purification. 1 mU = nmol product formed/min. BTC is a synthetic cys-
+teine conjugate that was developed to assay the ,-lyase because it forms a chemically stable thiol metabolite, 2-mercaptobenzothiazole, which can readily be measured spectrophotometrically 199).
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000194
+METABOLISM OF TCE
+GSH conjugation of 1,4-benzoquinone, and
+subsequent metabolism, in several mam-
+malian species. The ratios of N-deacetylase
+to N-acetylase activity in these species
+showed striking differences: F344 and
+Sprague-Dawley rats exhibited ratios of 0.03
+and 0.02, respectively; golden Syrian ham-
+ster exhibited a ratio of 0.04, which is simi-
+lar to that in rats; two mouse strains
+(BALB/c and B6C3F1) exhibited modestly
+higher ratios of 0.16 and 0.14, respectively;
+in contrast to the rat and mouse strains,
+guinea pigs exhibited a ratio of 4.57.
+Susceptibility to renal injury at higher doses
+of the quinone correlated with the ratios in
+that guinea pigs were the most and rats the
+least susceptible. At lower doses, however,
+rats were the most susceptible due to their
+exceptionally high GGT activity.
+Birner et al. (97) also assessed deacetylation
+activity in cytosol from human, Wistar and
+F344 rat and NMRI mouse kidney using
+NAcDCVC as the substrate. The rates of
+deacetylation varied by less than 3-fold across
+species, varying from 0.35 nmol DCVC
+formed/min per mg protein in the Wistar rat
+to values of 0.41, 0.61, and 0.94 in human,
+F344 rat, and NMRI mouse. They concluded
+that species-dependent differences in deacety-
+lation activity will influence the amounts of
+mercapturates recovered in urine.
+Varations among Humans
+There is much more knowledge about genetic
+polymorphisms and variations in P450 reac-
+tions in humans than there is for GSTs.
+However, increasing attention is being placed
+on these potential differences and their toxi-
+cological consequences. Analysis of rates of
+GSH conjugation of TCE in cytosol and
+microsomes from 20 individual human liver
+donors has revealed that considerable varia-
+tion exists (76). Overall, rates ofGSH conju-
+gation varied 3.4-fold in liver cytosol,
+exhibiting a range of rates of28.3-94.9 nmol
+DCVG formed/20 min per mg protein. The
+donor pool comprised 9 males and 11
+females. There were no significant sex-depen-
+dent differences. The liver microsome donors,
+which comprised 5 males and 15 females,
+exhibited an overall variation in activity of
+8.5-fold, with a range of values from 8.06 to
+69.2 nmol DCVG formed per 20 min per
+mg protein. As with the cytosol donors, there
+were no significant sex-dependent difference
+in the mean activity values, although the
+degree of variation was greater in the females
+(7.4-fold) than in the males (4.1-fold).
+Hence, although the degree of variation in
+GST activity (3- to 8-fold) is significantly less
+than that observed with P450 activity (10- to
+20-fold), this may be another important fac-
+tor to account for in a human health risk
+assessment for TCE.
+Extrapolation of Experimental
+Data for Human Health Risk
+Assessment
+Extrapolation from Animals to Humans
+A major issue in the extrapolation of experi-
+mental metabolism data from animals to
+humans involves the concentrations of
+toxicants used. Animal studies often use rela-
+tively high concentrations of chemicals that
+are severalfold to several orders of magnitude
+higher than those to which humans may be
+exposed either occupationally or environmen-
+tally. This, ofcourse, brings into question the
+relevance ofsuch data. Examples of a number
+of species-dependent differences in TCE
+metabolism have been cited above.
+Lipscomb et al. (66) recently addressed
+this specific issue by characterizing the kinetics
+and P450 isoform specificity ofTCE metabo-
+lism to CH in liver microsomes from rats,
+mice, and humans using a full range of con-
+centrations of TCE, including those that are
+estimated to occur in the livers of some occu-
+pationally exposed humans. Analysis of the
+kinetics of TCE metabolism to CH showed
+that rats metabolized TCE very differently
+than either mice or humans: Rat liver micro-
+somes exhibited at least three kinetically dis-
+tinct processes for TCE metabolism, whereas
+mouse and human liver exhibited only a single
+process. Human liver microsomes exhibited
+similar overall Km values for TCE as those
+from rats or mice but had markedly (3- to 8-
+fold) lower Vmax values. Hence, different
+kinetic behavior among experimental animal
+species and humans must be considered when
+extrapolating animal data.
+Extrapolation from in Vitro to in Vivo
+The other most common type of extrapo-
+lation performed is from in vitro data to the
+in vivo situation. This is particularly impor-
+tant for humans as most of our data come
+from biopsy tissue samples, cell lines, or tissue
+obtained from hospitals where the tissue can-
+not be used for transplant. One simple issue
+is how to use data from liver microsomes or
+isolated hepatocytes to quantitate metabolism
+at the level of the entire organ or organism.
+This process uses what have been called scal-
+ing factors, and data from two studies are
+summarized (Table 18).
+Lipscomb et al. (11) calculated parameters
+that enable one to extrapolate to whole liver
+in humans from measurements made in iso-
+lated hepatocytes or suspensions of micro-
+somes. The parameters express the number of
+hepatocytes per gram of liver, the amount of
+microsomal protein per gram ofliver, and the
+amount of microsomal protein in a suspen-
+sion of hepatocytes. Carlile et al. (160) made
+similar use of scaling factors in studies with
+rats to relate rates of drug metabolism in
+various in vitro systems to rates in whole liver.
+Kedderis (161) raised an important caveat
+in the extrapolation of in vitro data to the in
+vivo situation. Using enzyme induction as a
+model, Kedderis showed that pretreatment
+with inducers may significantly increase rates
+of drug metabolism in vitro but that physio-
+logical constraints may dampen these effects
+in vivo. He cites the example of furan
+metabolism, which is catalyzed by CYP2E1.
+Severalfold variations were observed in the
+bioactivation of the hepatotoxicant furan by
+isolated human hepatocytes owing to varia-
+tions in this P450 isoform in the human pop-
+ulation. Extrapolation of these data to the in
+vivo situation showed that furan metabolism
+is limited by hepatic blood flow. Because of
+this limitation, variations in CYP2E1 content
+among individual liver donors and increases
+in Vmax due to inducers will be markedly
+dampened in vivo.
+Relative Roles of Oxidative
+and GSH Conjugation
+Pathways in TCE Metabolism
+A principal issue in understanding the rela-
+tive roles of the two major pathways of TCE
+metabolism is that of pathway affinity. Based
+on known kinetic parameters ofTCE metab-
+olism, relative rates of oxidative metabolism
+and GSH conjugation under different expo-
+sure conditions (i.e., acute or chronic high
+Table 18. Parameters used to extrapolate from microsomes and isolated hepatocytes to whole liver in humans.
+Parameter Value
+Human livera
+Hepatocyte density 1 16 x 106 cells/g liver
+Microsomal protein density: whole liver 20.88 mg microsomal protein/g liver
+Microsomal protein density: isolated cells 179 pg microsomal protein/i 06 cells
+Rat liverb
+DNA content of liver 2.6-2.7 mg DNA/g liver
+DNA content of hepatocytes 21.5-26.8 pg DNA/106 cells
+Hepatocyte density (based on DNA data) 73-94 x 106 cells/g liver
+Proteinc content of liver 163-176 mg/g liver
+Proteinc content of cells 1.4-1.5 mg protein/106 cells
+Hepatocyte density (based on protein data) 109-125 x 106 cells/g liver
+aData are from (11). bData are from Carlile et al. (160) and involve animals that have been treated with inducers of various P450s.
+CTotal cellular protein, not just microsomal protein.
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 195
+LASH ET AL.
+doses versus chronic low doses, such as those
+found as environmental contaminants) can
+be determined. From this information, the
+predominance ofdifferent metabolites at var-
+ious doses can be discerned. Moreover,
+knowledge of which metabolic pathway pre-
+dominates at specific doses can help deter-
+mine target organ specificity and mode of
+action at those doses. Additionally, the two
+major pathways of TCE metabolism are
+known to have markedly different kinetics,
+so that they saturate at different doses.
+Hence, the relative proportion of metabolites
+formed will likely vary markedly at low ver-
+sus high doses. Specifically, CYP2E1 satu-
+rates at significantly lower doses ofTCE than
+do the GSTs, suggesting that flux of TCE
+through the GSH conjugation pathway may
+only be quantitatively important at higher
+doses of TCE. As mentioned earlier, how-
+ever, the GSH conjugation pathway, and
+specifically the i-lyase reaction, generates
+chemically reactive metabolites; formation of
+even a small amount ofa reactive species may
+be sufficient to produce alterations in cellular
+function whereas formation ofrelatively large
+amounts of a non-reactive metabolite may
+not produce any cellular dysfunction.
+Hence, although one may conclude by
+intuition that a low-affinity pathway may
+only be of toxicological importance at high
+doses and/or when the high-affinity pathway
+is saturated, this is not necessarily correct for
+a pathway such as that catalyzed by the ,1-
+lyase that generates chemically unstable and
+reactive metabolites. It has been argued that
+the ,B-lyase pathway is not quantitatively
+important for humans, based on the follow-
+ing points: a) Kinetic parameters (i.e., affinity
+and capacity) ofthe I-lyase in human kidney,
+as compared to those for P450 oxidation in
+human liver, are such that P-lyase activity will
+only become quantitatively significant at
+extremely high exposure levels; b) TCE expo-
+sure studies comparing excretion of mercap-
+turate to that ofTCA and TCOH show that
+the P450-derived metabolites are recovered in
+urine at levels that are two to three orders of
+magnitude higher than the GSH-derived
+metabolite; and c) questions have arisen about
+the relevance of reports of kidney tumors in
+human populations exposed to TCE. I will
+discuss the first two points below. The third
+point will be only briefly discussed, as this is
+dealt with in greater detail in the kidney
+mode ofaction review (89).
+Concerning the first point about the
+relative kinetic parameters of the oxidative
+and GSH conjugation pathways, there is no
+doubt that flux through the P450 pathway is
+much faster and that the total capacity is
+much greater than for the GSH conjugation
+and P-lyase reactions. There are two major
+differences between the nature of the
+metabolites formed by the two pathways.
+First, the various enzymes of the GSH con-
+jugation pathway and the membrane trans-
+porters for GSH and cysteine conjugates and
+mercapturates exhibit significant tissue het-
+erogeneity so that metabolites are directed to
+the kidneys for intracellular accumulation
+and metabolism to reactive species. Second,
+the metabolites from the GSH conjugation
+pathway that are believed to be responsible
+for effects in the kidneys are chemically
+unstable and highly reactive whereas those
+derived from the oxidative pathway are rela-
+tively stable. Because ofthe nature ofreactive
+metabolites, it is likely that relatively small
+amounts of these compounds can produce
+significant biochemical and functional
+changes in renal cells. One cannot, therefore,
+directly extrapolate from amount of metabo-
+lite formed or pathway flux to toxicity.
+Concerning the second point about
+recovery of mercapturates compared to the
+recovery of TCA and TCOH in the urine,
+two types of exposures were conducted by
+Henschler's group (96,97) that show the
+variability in recovery of excreted metabolites
+with exposure route (Table 19). However,
+even in the studies that show lower ratios of
+oxidative metabolites (TCA or TCA +
+TCOH) to NAcDCVC, it has been argued
+that ratios as little as 10:1 indicate that the
+flux through the GSH conjugation pathway
+is at least an order of magnitude slower than
+that through P450. It must be emphasized,
+however, that measurement of urinary mer-
+capturate provides only an indication of a
+portion of the GSH-dependent pathway and
+that this portion is not related to that which
+is associated with nephrotoxicity and nephro-
+carcinogenicity. Measurement of urinary
+mercapturates, therefore, can give an indica-
+tion of exposure and that some flux through
+the GSH conjugation pathway has occurred.
+It cannot, however, give an indication oftotal
+flux through the GSH conjugation pathway
+or through that portion of the pathway that
+leads to effects on renal function. Moreover,
+formation of even a small amount of reactive
+species may be sufficient to produce toxic
+effects or changes in intracellular regulatory
+mechanisms.
+Concerning the third point about the
+occurrence of kidney tumors being much
+lower than those in the other target organs
+and this relating to a small flux through the
+GSH conjugation and P-lyase pathways, the
+following points should be noted: a) the
+background rate of kidney tumors is
+extremely small in humans and most animal
+species studied (although some strains of rats
+show a relatively high background rate); b)
+the kidneys are particularly susceptible to
+cytotoxic injury from even brief, low-dose
+exposures to nephrotoxicants; and c) proximal
+tubular epithelial cells can undergo a program
+of apoptosis and regeneration after exposures
+to sublethal doses, or even necrotic doses, of
+nephrotoxicants. These points should high-
+light the difficulties in assessment of factors
+involved in induction ofrenal carcinogenesis.
+Although species- and sex-dependent dif-
+ferences are found in various steps of TCE
+metabolism, it is important to also consider
+the entire pathway as a whole and not just
+individual reactions. Although the rate of a
+specific step may be relevant to a consid-
+eration of toxicity if the toxicity is solely
+dependent on the formation of a specific
+metabolite, the balance between metabolite
+formation and subsequent metabolic steps
+and species differences in the ratio of these
+steps are often ofmore importance.
+In summary, it is clear that the oxidative
+pathway is quantitatively the more impor-
+tant of the two major pathways of TCE
+metabolism. However, the interorgan pat-
+terns of the GSH-dependent pathway and
+the chemical nature of the critical metabo-
+lites generated by the two pathways greatly
+alters the importance of simple comparisons
+of quantitation. Furthermore, we do not
+really have an accurate method to assess flux
+through all branches of the GSH-dependent
+pathway because chemically reactive species
+are generated.
+Table 19. Summary of studies on mercapturate and
+oxidative metabolite excretion in urine of rats, mice, and
+humans exposed to TCE.
+Study l: Exposure of Wistar rats and NMRI mice to TCE
+22 hr after exposure (50 mg/kg by oral gavage) (97)
+Sex/species TCA/NAcDCVC in urine
+Male rat
+Female rat
+Male mouse
+Female mouse
+22.0
+39.4
+15.3
+72.5
+Study Il: Exposure of workers to TCE by inhalation or
+dermal contact (97).
+Worker number TCA/NAcDCVC in urine
+1 18.5
+5
+6
+8
+17.9
+3.1
+32.8
+Study Ill: Exposure of humans and male and female
+Wistar rats to TCE (6-hr inhalation). Cumulative
+excretion of metabolites measured over 48 hr post-
+exposure (96).
+[TCE] in exposure (TCA + TCOH)/
+Species chamber NAcDCVC
+Human 40 ppm 3,292
+80 ppm 4,797
+160 ppm 7,163
+Rat 40 ppm 986
+80 ppm 1,300
+160 ppm 2,562
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 200096
+METABOLISM OF TCE
+Questions and Research Needs
+This section briefly discusses some key
+research needs in the area of TCE metabo-
+lism. Although study of these questions is
+not, in most cases, essential to completion of
+an updated human health risk assessment for
+TCE, research on these questions will answer
+important questions and address uncertain-
+ties that will improve our understanding of
+TCE metabolism.
+Role ofan Epoxide Intermediate
+in TCE Metabolism
+The question of whether TCE, like many
+other halogenated solvents that undergo
+P450-dependent metabolism, does so
+through intermediate formation of an epox-
+ide is still uncertain and should be resolved by
+careful chemical studies.
+Enzymology ofDCA Formation
+Two issues regarding amounts of and
+sources of DCA formation are still incom-
+pletely resolved. The first issue relates to the
+recovery of DCA in biological incubations
+with TCE, as questions remain about the
+recovery of DCA in tissue incubations and
+biological fluids such as plasma and urine.
+The second issue relates to the sources of
+and specific enzymes involved in DCA for-
+mation. It is unclear what factors determine
+how much of DCA is derived from TCA,
+TCOH, or CH and what the specific
+involvement is of enzymes such as P450s or
+aldehyde dehydrogenase.
+P450 Isoforn Activity Distribution
+Although CYP2E1 has been identified as the
+most active P450 isoform responsible for
+oxidative metabolism of TCE, questions
+remain about the potential activities of other
+isoforms, both in uninduced and in induced
+individuals. Expression of many P450 iso-
+forms exhibits sex and species differences.
+These differences, specifically in relation to
+TCE metabolism, need to be more com-
+pletely assessed as various physiological or
+pathological changes in P450 isoform activity
+distribution can alter metabolism and suscep-
+tibility to toxicity. Unequivocal identification
+ofthe role ofspecific isoforms will require the
+use of inhibitory antibodies and studies with
+expressed and purified enzymes.
+Role ofRenal P450 in TCE Metabolism
+and Bioactivation
+Little investigation of renal P450 activities in
+comparison to hepatic P450s has been under-
+taken. Although many of the same isoforms
+as are found in the liver have been identified
+in the kidneys, their regulation may be differ-
+ent in the two organs. For example, many of
+the known inducers of hepatic CYP2E1 do
+not have the same qualitative or quantitative
+effects on renal CYP2E1. Based on the
+knowledge that CYP2E1 is active in TCE
+oxidation, this differential regulation should
+impact on oxidative metabolism of TCE in
+the kidneys.
+Almost all of the focus of TCE metabo-
+lism in the kidneys has been on the GSH-
+dependent pathway. Although there is no
+direct evidence to suggest that intrarenal for-
+mation of metabolites such as TCA or DCA
+is involved in the renal effects of TCE, this
+issue has not been investigated fully so we
+should not a priori rule it out.
+GST Isozyme Distribution
+andVariation
+Recent work has revealed that the various
+GSTs exist in isozymic forms and that sex-,
+species-, and tissue-dependent differences
+often exist. The substrate specificity of these
+isozymes and specifically the activity of each
+isozyme toward TCE is unknown at present.
+Briining et al. (162) have recently shown that
+genetic polymorphisms exist in two GSTs,
+GSTM1 and GSTT1, and that differences in
+expression of these isozymes may have toxico-
+logical significance for TCE bioactivation by
+this pathway. Hence, work is needed to
+define the isozyme composition in various
+species, including humans, and in various tis-
+sues in each species, and to define the activity
+ofeach isozyme towards TCE.
+Quantitative Importance ofDCVC
+Metabolism in Humans
+The difficulties in assessing the quantitative
+importance of flux through the GSH conju-
+gation pathway, and through the ,-lyase reac-
+tion specifically, have been discussed above in
+some detail. Three key issues are
+* Improved measurements ofoverall flux of
+TCE through the GSH conjugation
+pathway and the f-lyase as compared to
+that through the oxidative pathway by
+more complete determinations of rates of
+metabolism and kinetic parameters in tis-
+sues from various species, particularly
+humans.
+* Development of more accurate, noninva-
+sive means of measuring flux through the
+3-lyase pathway in humans. Urinary mer-
+capturates only provide information on
+stable end products and these do not nec-
+essarily correlate with formation ofreactive
+metabolites that produce nephrotoxicity
+and/or nephrocarcinogenicity.
+* Data on formation ofcovalent adducts of
+DCVC with DNA and protein have been
+difficult to interpret and may not directly
+correspond to cytotoxic or tumorigenic
+events. Hence, additional studies on the
+functional significance of covalent bind-
+ing to cellular macromolecules are
+warranted.
+REFERENCES AND NOTES
+1. Wu C, Becker J, Schaum J. Major findings of the exposure
+assessment of trichloroethylene and related compounds.
+Environ Health Perspect 108(supp 2):359-358 (2000).
+2. Clewell HJ Ill, Gentry PR, Covington TR, Gearhart JM.
+Development of a physiologically based pharmacokinetic model
+of trichloroethylene and its metabolites for use in risk assess-
+ment. Environ Health Perspect 108(suppl 2):283-305 (2000).
+3. Sato A, Nakajima T. Differences following skin or inhalation
+exposure in the absorption and excretion kinetics of
+trichloroethylene and toluene. Br J Ind Med 35:43-49 (1978).
+4. Davidson IWF, Beliles RP. Consideration of the target organ tox-
+icity of trichloroethylene in terms of metabolite toxicity and
+pharmacokinetics. Drug Metab Rev 23:493-599 (1991).
+5. Bogen KT, Coiston BW Jr, Machicao LK. Dermal absorption of
+dilute aqueous chloroform, trichloroethylene, and tetra-
+chloroethylene in hairless guinea pigs. Fundam AppI Toxicol
+18:30-39 (1992).
+6. Withey JR, Collins BT, Collins PG. Effect of vehicle on the phar-
+macokinetics and uptake of four halogenated hydrocarbons
+from the gastrointestinal tract of the rat. J AppI Toxicol
+3:249-253 (1983).
+7. Prout MS, Provan WM, Green T. Species differences in
+response to trichloroethylene. I: Pharmacokinetics in rats and
+mice. Toxicol AppI Pharmacol 79:389-400 (1985).
+8. Fisher JW, Gargas ML, Allen BC, Andersen ME. Physiologically
+based pharmacokinetic modeling with trichloroethylene and its
+metabolite, trichloroacetic acid, in the rat and mouse. Toxicol
+AppI Pharmacol 109:183-195(1991).
+9. Bull RJ. Mode of action of liver tumor induction by trichloro-
+ethylene. Environ Health Perspect 108(supp 2):241-259(2000).
+10. Dallas CE, Gallo JM, Ramanathan R, Muralidhara S, Bruckner JV.
+Physiological pharmacokinetic modeling of inhaled trichloroethyl-
+ene in rats. Toxicol AppI Pharmacol 110:303-314 (1991).
+11. lipscomb JC, Fisher JW, Confer PD, Byczkowski JZ. In vitro to
+in vivo extrapolation for trichloroethylene metabolism. Toxicol
+AppI Pharmacol 152:376-387 (1998).
+12. Daniel JW. The metabolism of 36Cl-labeled trichloroethylene
+and tetrachloroethylene in the rat. Biochem Pharmacol
+12:795-802 (1963).
+13. Dekant W, Metzler M, Henschler D. Novel metabolites of
+trichloroethylene through dechlorination reactions in rats, mice
+and humans. Biochem Pharmacol 33:2021-2027 (1984).
+14. D'Souza RW, Bruckner JV, Feldman S. Oral and intravenous
+trichloroethylene pharmacokinetics in the rat. J Toxicol Environ
+Health 15:587-601 (1985).
+15. Lee K, Bruckner JV, Muralidhara S, Gallo JM. Characterization
+of presystemic elimination of trichloroethylene and its nonlinear
+kinetics in rats. Toxicol AppI Pharmacol 139:262-271 (1996).
+16. Kleinfeld M, Tabershaw IR. Trichloroethylene toxicity: report of
+five fatal cases. Arch Ind Hyg Occup Med 10:134-141 (1954).
+17. BrOning T, Vamvakas S, Makropoulos V, Birner G. Acute intoxi-
+cation with trichloroethene: clinical symptoms, toxicokinetics,
+metabolism, and development of biochemical parameters for
+renal damage. Toxicol Sci 41:157-165 (1998).
+18. Allen BC, Fisher JW. Modeling of the pharmacokinetics of
+trichloroethylene and trichloroacetic acid in humans. Risk Anal
+13:71-86 (1993).
+19. Fisher JW, Mahle D, Abbas R. A human physiologically-based
+pharmacokinetic model for trichloroethylene and its metabo-
+lites, trichloroacetic acid and free trichloroethanol. Toxicol Appi
+Pharmacol 152:339-359 (1998).
+20. Fisher JW, Whittaker TA, Taylor DH, Clewell HJ Ill, Andersen
+ME. Physiologically-based pharmacokinetic modeling of the
+pregnant rat: a multiroute exposure model for trichloroethylene
+and its metabolite, trichloroacetic acid. Toxicol Appi Pharmacol
+99:395-414 (1989).
+21. MOller G, Spassovski M, Henschier D. Trichloroethylene expo-
+sure and trichloroethylene metabolites in urine and blood. Arch
+Toxicol 29:335-340 (1972).
+22. Abbas R, Fisher JW. A physiologically-based pharmacokinetic
+model for trichloroethylene and its metabolites, chloral hydrate,
+trichloroacetate, dichloroacetate, trichloroethanol, and
+trichloroethanol glucuronide in B6C3F1 mice. Toxicol Appi
+Pharmacol 147:15-30(1997).
+23. Anders MW, Jakobson I. Biotransformation of halogenated sol-
+vents. Scand J Work Environ Health 11(suppl 1):23-32 (1985).
+24. Butler TC. Metabolic transformations of trichloroethylene. J
+Pharmacol Exp Ther 97:84-92 (1949).
+25. Powell JF. Trichloroethylene: absorption, elimination and
+metabolism. Br J Ind Med 2:142-145){1945).
+26. Miller RE, Guengerich FP. Dxidation of trichloroethylene by liver
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 197
+LASH ET AL.
+microsomal cytochrome P-450: evidence for chlorine migration
+in a transition state not involving trichloroethylene oxide.
+Biochemistry 21:1090-1097(1982).
+27. Miller RE, Guengerich FP. Metabolism of trichloroethylene in
+isolated hepatocytes, microsomes, and reconstituted systems
+containing cytochrome P-450. Cancer Res 43:1145-1152 (1983).
+28. Green T, Prout MS. Species differences in response to
+trichloroethylene. II: Biotransformation in rats and mice. Toxicol
+AppI Pharmacol 79:401-411 (1985).
+29. Dowsley TF, Ulreich JB, Bolton JL, Park SS, Forkert PG. CYP2E1-
+dependent bioactivation of 1,1-dichloroethylene in murine lung:
+formation of reactive intermediates and glutathione conjugates.
+Toxicol Appi Pharmacol 139:42-48 (1996).
+30. Forkert PG. In vivo formation and localization of 1,1-dichloroeth-
+ylene epoxide in murine liver: identification of its glutathione
+conjugate 2-S-glutathionyl acetate. J Pharmacol Exp Ther
+290:1299-1306(1999).
+31. Forkert PG. 1,1-Dichloroethylene-induced Clara cell damage is
+associated with in situ formation of the reactive epoxide.
+Immunohistochemical detection of its glutathione conjugate.
+Am J Respir Cell Mol Biol 20:1310-1318 (1999).
+32. Forkert PG, Malkinson AM, Rice P, Moussa M. Diminished
+CYP2E1 expression and formation of 2-S-glutathionyl acetate,
+a glutathione conjugate derived from 1,1-dichloroethylene
+epoxide, in murine lung tumors. Drug Metab Dispos 27:68-73
+(1999).
+33. U.S. EPA. Health Assessment Document for Trichloroethylene.
+Final Report. Office of Health and Environmental Assessment.
+EPA/600/8-82-006F, Washington, DC:U.S. Environmental
+Protection Agency, 1985.
+34. Goeptar AR, Commandeur JNM, van Ommen B, van Bladeren
+PJ, Vermeulen NPE. Metabolism and kinetics of trichloroethyl-
+ene in relation to toxicity and carcinogenicity. Relevance of the
+mercapturic acid pathway. Chem Res Toxicol 8:3-21 (1995).
+35. Guengerich FP. Oxidation of toxic and carcinogenic chemicals
+by human cytochrome P-450 enzymes. Chem Res Toxicol
+4:391-407(1991).
+36. Guengerich FP, Kim D-H, Iwasaki M. Role of human cytochrome
+P-450 IIE1 in the oxidation of many low molecular weight
+cancer suspects. Chem Res Toxicol 4:168-179 (1991).
+37. Koop DR, Crump BL, Nordblom GD, Coon MJ. Immuno-
+chemical evidence for induction of the alcohol-oxidizing
+cytochrome P-450 of rabbit liver microsomes by diverse
+agents: ethanol, imidazole, trichloroethylene, acetone, pyra-
+zole, and isoniazid. Proc NatI Acad Sci USA 82:4065-4069
+(1985).
+38. Nakajima T, Okino T, Okuyama S, Kaneko T, Yonekura I, Sato A.
+Ethanol-induced enhancement of trichloroethylene metabolism
+and hepatotoxicity: difference from the effect of phenobarbital.
+Toxicol AppI Pharmacol 94:227-237 (1988).
+39. Nakajima T, Wang R-S, Murayama N, Sato A. Three forms of
+trichloroethylene-metabolizing enzymes in rat liver induced by
+ethanol, phenobarbital, and 3-methylcholanthrene. Toxicol Appi
+Pharmacol 102:546-552 (1990).
+40. Nakajima T, Wang R-S, Elovaara R, Park SS, Gelboin HV, Vainio
+H. A comparative study on the contribution of cytochrome P450
+isozymes to metabolism of benzene, toluene and trichloroethyl-
+ene in rat liver. Biochem Pharmacol 43:251-257 (1992).
+41. Nakajima T, Wang R-S, Katakura Y, Kishi R, Elovaara E, Park
+SS, Gelboin HV, Vainio H. Sex-, age- and pregnancy-induced
+changes in metabolism of toluene and trichloroethylene in rat
+liver in relation to the regulation of cytochrome P45011E1 and
+P45011C11 content. J Pharmacol Exp Ther 261:869-874 (1992).
+42. Nakajima T, Wang R-S, Elovaara E, Park SS, Gelboin HV, Vainio
+H. Cytochrome P450-related differences between rats and mice
+in the metabolism of benzene, toluene and trichloroethylene in
+liver microsomes. Biochem Pharmacol 45:1079-1085 (1993).
+43. Forkert PG, Birch OW. Pulmonary toxicity of trichloroethylene in
+mice: covalent binding and morphological manifestations. Drug
+Metab Dispos 17:106-113 (1989).
+44. Green T, Mainwaring GW, Foster JR. Trichloroethylene-induced
+mouse lung tumors: studies of the mode of action and compar-
+isons between species. Fundam Appi Toxicol 37:125-130 (1997).
+45. Odum J, Foster JR, Green T. A mechanism for the development
+of Clara cell lesions in the mouse lung after exposure to
+trichloroethylene. Chem-Biol Interact 83:135-153 (1992).
+46. Abbas R, Seckel CS, Kidney JK, Fisher JW. Pharmacokinetic
+analysis of chloral hydrate and its metabolism in B6C3F1 mice.
+Drug Metab Dispos 24:1340-1346 (1996).
+47. Larson LJ, Bull RJ. Effect of ethanol on the metabolism of
+trichloroethylene. J Toxicol Environ Health 28:395-406 (1989).
+48. Muller G, Spassovski M, Henschler D. Metabolism of
+trichloroethylene in man. Ill: Interaction of trichloroethylene and
+ethanol. Arch Toxicol 33:173-189 (1975).
+49. Ni Y-C, Wong T-Y, Lloyd RV, Heinze TM, Shelton S, Casciano D,
+Kadlubar FF, Fu PP. Mouse liver microsomal metabolism of chlo-
+ral hydrate, trichloroacetic acid, and trichloroethanol leading to
+induction of lipid peroxidation via a free radical mechanism.
+Drug Metab Dispos 24:81-90(1996).
+50. Schultz J, Weiner H. Alteration of the enzymology of chloral
+hydrate reduction in the presence of ethanol. Biochem
+Pharmacol 28:3379-3384(1979).
+51. Sellers EM, Lang M, Koch-Weser J, LeBlanc E, Kalant H.
+Interaction of chloral hydrate and ethanol in man. I:
+Metabolism. Clin Pharmacol Ther 13:37-49 (1972).
+52. Lipscomb JC, Mahle DA, Brashear WT, Garrett CM. A species
+comparison of chloral hydrate metabolism in blood and liver.
+Biochem Biophys Res Commun 227:340-350 (1996).
+53. Dekant W, Schulz A, Metzler M, Henschler D. Absorption, elimi-
+nation and metabolism of trichloroethylene: a quantitative com-
+parison between rats and mice. Xenobiotica 16:143-152 (1986).
+54. larson Jl, Bull R.J. Species differences in the metabolism of
+trichloroethylene to the carcinogenic metabolites trichloro-
+acetate and dichloroacetate. Toxicol AppI Pharmacol
+115:278-285 (1992).
+55. Templin MV, Stevens DK, Stenner RD, Bonate PL, Tuman 0, Bull
+RJ. Factors affecting species differences in the kinetics of
+metabolites of trichloroethylene. J Toxicol Environ Health
+44:435-447 (1995).
+56. Larson JL, Bull RJ. Metabolism and lipoperoxidative activity of
+trichloroacetate and dichloroacetate in rats and mice. Toxicol
+AppI Pharmacol 115:268-277 (1992).
+57. Templin MV, Parker JC, Bull RJ. Relative formation of
+dichloroacetate and trichloroacetate from trichloroethylene in
+male B6C3F1 mice. Toxicol AppI Pharmacol 123:1-8 (1993).
+[Erratum published in Toxicol AppI Pharmacol 133:177 (1995)(
+58. Ketcha MM, Stevens DK, Warren DA, Bishop CT, Brashear WT.
+Conversion of trichloroacetic acid to dichloroacetic acid in bio-
+logical samples. J Anal Toxicol 20:236-241 (1996).
+59. Henderson GN, Yan Z, James MO, Davydova N, Stacpoole PW.
+Kinetics and metabolism of chloral hydrate in children:
+Identification of dichloroacetate as a metabolite. Biochem
+Biophys Res Commun 235:695-698 (1997).
+60. Lipscomb JC, Mahle DA, Brashear WT, Barton HA.
+Dichloroacetic acid: metabolism in cytosol. Drug Metab Dispos
+23:1202-1205 (1995).
+61. James MO, Cornett R, Yan Z, Henderson GN, Stacpoole PW.
+Glutathione-dependent conversion to glyoxylate, a major path-
+way of dichioroacetate biotransformation in hepatic cytosol
+from humans and rats, is reduced in dichloroacetate-treated
+rats. Drug Metab Dispos 25:1223-1227 (1997).
+62. Tong Z, Board P, Anders MW. Glutathione transferase zeta cat-
+alyzes the oxygenation of the carcinogen dichloroacetic acid to
+glyoxylic acid. Biochem J 331:371-374(1998).
+63. Cummings BS, Putt DW, Parker JC, Lash LH. Unpublished data.
+64. lipscomb JC, Garrett CM, Snawder JE. Cytochrome P450 depen-
+dent metabolism of trichloroethylene: interindividual differences
+in humans. Toxicol AppI Pharmacol 142:311-319 (1997).
+65. Wrighton SA, Stevens JC. The human hepatic cytochromes P450
+involved in drug metabolism. CRC Crit Rev Toxicol 22:1-21 (1992).
+66. Lipscomb JC, Garrett CM, Snawder JE. Use of kinetic and
+mechanistic data in species extrapolation of bioactivation:
+cytochrome P-450 dependent trichloroethylene metabolism at
+occupationally relevant concentrations. J Occup Health
+40:110-117 (1998).
+67. Moghaddam AP, Abbas R, Fisher JW, Stavrou S, Lipscomb JC.
+Metabolism of trichloroacetic acid to dichloroacetic acid by rat
+and mouse gut microflora, an in vitro study. Biochem Biophys
+Res Commun 228:639-645 (1996).
+68. Moghaddam AP, Abbas R, Fisher JW, Lipscomb JC. Role of
+mouse intestinal microflora in dichloroacetic acid formation, an
+in vivo study. Human Exp Toxicol 16:629-635 (1997).
+69. Maiorino RM, Gandolfi AJ, Sipes IG. Gas chromatographic
+method for the halothane metabolites, trifluoroacetic acid and
+bromide, in biological fluids. Anal Toxicol 4:250-254 (1980).
+70. Elfarra AA, Krause RJ, Last LR, Lash LH, Parker JC. Species-
+and sex-related differences in metabolism of trichloroethylene
+to yield chloral and trichloroethanol in mouse, rat, and human
+liver microsomes. Drug Metab Dispos 26:779-785(1998).
+71. Peter R, Bocker R, Beaune PH, Iwasaki M, Guengerich FP, Yang
+CS. Hydroxylation of chlorzoxazone as a specific probe for human
+liver cytochrome P450 IIEl. Chem Res Toxicol 3:566-573 (1990).
+72. Shimada T, Yamazaki H, Mimura M, Inui Y, Guengerich FP.
+Interindividual variations in human liver cytochrome P450
+enzymes involved in the oxidation of drugs, carcinogens, and
+toxic chemicals. Studies with liver microsomes of 30
+Japanese and 30 Caucasians. J Pharmacol Exp Thur
+270:414-423 (1994).
+73. Barton HA, Flemming CD, Lipscomb JC. Evaluating human vari-
+ability in chemical risk assessment: hazard identification and
+dose-response assessment for noncancer oral toxicity of
+trichloroethylene. Toxicology 110:271-287 (1996).
+74. Lindahl R, Evces S. Comparative subcellular distribution of alde-
+hyde dehydrogenase in rat, mouse and rabbit liver. Biochem
+Pharmacol 33:3383-3389 (1984).
+75. Badawy AA, Aliyu SU. Antagonism of acute alcohol intoxication
+by naloxone. Alcohol 19:199-201 (1984).
+76. Lipscomb JC. Unpublished data.
+77. Sellers EM, Lang-Sellers M, Koch-Weser J. Comparative
+metabolism of chloral hydrate and trichlofos. J Clin Pharmacol
+18:457-461 (1978).
+78. Pravecek TL, Channel SR, Schmidt WJ, Kidney JK. Cytotoxicity
+and metabolism of dichloroacetic acid and trichloroacetic acid in
+B6C3F1 mouse liver tissue. In Vitro Toxicology 9:261-269 (1996).
+79. Kawamoto T, Hobara T, Aoki T, Kobayashi H, Iwamoto S, Sakai T,
+Miyazaki Y, Imamura A, Ogino K. Metabolism of chloral hydrate
+in the anoxic perfused liver. Toxicol Lett 40:225-231 (1988).
+80. Wang GZ, Takano T, Tomita T, Nakata K, Nakamura K.
+Interaction of trichloroethylene and isopropyl alcohol in the per-
+fused rat liver. Nippon Eiseigaku Zasshi 48:1000-1005 (1993).
+81. Reitz RH, Garagas ML, Mendrala AL, Schumann AM. In vivo and
+in vitro studies of perchloroethylene metabolism for physiologi-
+cally-based pharmacokinetic modeling in rats, mice and
+humans. Toxicol AppI Pharmacol 136:289-306 (1996).
+82. McKinney LL, Weakley FB, Eldridge AC, Campbell RG, Cowan JC,
+Beister HW. S-(Dichlorovinyl)-L-cysteine: an agent causing fatal
+aplastic anemia in calves. J Am Chem Soc 79:3932-3933 (1957).
+83. McKinney LL, Picken JC, Weakley FB, Eldridge AC, Campbell RG,
+Cowan JC, Beister HE. Possible toxic factor of trichloroethylene-
+extracted soybean oil. J Am Chem Soc 81:909-915 (1959).
+84. Dekant W, Metzler M, Henschler D. Identification of S-(1,2-
+dichlorovinyl)-N-acetyl-cysteine as a urinary metabolite of
+trichloroethylene: a possible explanation for its nephrocar-
+cinogenicity in male rats. Biochem Pharmacol 35:2455-2458
+(1986).
+85. Elfarra AA, Anders MW. Renal processing of glutathione con-
+jugates: role in nephrotoxicity. Biochem Pharmacol
+33:3729-3732 (1984).
+86. Elfarra AA, Jakobson I, Anders MW. Mechanism of S-(1,2-
+dichlorovinyl)glutathione-induced nephrotoxicity. Biochem
+Pharmacol 35:283-288 (1986).
+87. Dekant W, Koob M, Henschler D. Metabolism of
+trichloroethene - In vivo and in vitro evidence for activation by
+glutathione conjugation. Chem-Biol Interact 73:89-101 (1990).
+88. Lash LH, Putt DA, Brashear WT, Abbas R, Parker JC, Fisher JW.
+Identification of S-(1,2-dichlorovinyl)glutathione in the blood of
+human volunteers exposed to trichloroethylene. J Toxicol
+Environ Health 56:1-21 (1999).
+89. Lash LH, ParkerJC, Scott CS. Modes of action of trichloroethyl-
+ene for kidney tumorigenesis. Environ Health Perspect
+108(suppl 2):225-240 (2000).
+90. Lash LH, Jones DP, Anders MW. Glutathione homeostasis and
+glutathione S-conjugate toxicity in kidney. Rev Biochem Toxicol
+9:29-67 (1988).
+91. Lash LH, Anders MW. Cytotoxicity of S-(1,2-dichlorovinyl)glu-
+tathione and S-(1,2-dichlorovinyl)-L-cysteine in isolated rat kid-
+ney cells. J Biol Chem 261:13076-13081 (1986).
+92. Duffel MW, Jakoby WB. Cysteine S-conjugate N-acetyltrans-
+ferase from rat kidney microsomes. Mol Pharmacol 21:444-448
+(1982).
+93. Wolfgang GH, Gandolfi AJ, Stevens JL, Brendel K. N-Acetyl-S-
+(1,2-dichlorovinyl)-L-cysteine produces a similar toxicity to S-
+(1,2-dichlorovinyl)-L-cysteine in rabbit renal slices: differential
+transport and metabolism. Toxicol AppI Pharmacol
+101:205-219 (1989).
+94. Zhang G, Stevens JL. Transport and activation of S-(1,2-
+dichlorovinyl)-L-cysteine and N-acetyl-S-(1,2-dichlorovinyl)-i-
+cysteine in rat kidney proximal tubules. Toxicol AppI Pharmacol
+100:51-61 (1989).
+95. Commandeur JNM, Vermeulen NPE. Identification of N-
+acetyl(2,2-dichlorovinyl)- and N-acetyl(1,2-dichlorovinyl)-L-
+cysteine as two regioisomeric mercapturic acids of
+trichloroethylene in the rat. Chem Res Toxicol 3:212-218 (1990).
+96. Bernauer U, Birner G, Dekant W, Henschler D.
+Biotransformation of trichloroethene: dose-dependent excretion
+of 2,2,2-trichloro-metabolites and mercapturic acids in rats and
+humans after inhalation. Arch Toxicol 70:338-346 (1996).
+97. Birner G, Vamvakas S, Dekant W, Henschler D. Nephrotoxic and
+genotoxic N-acetyl-S-dichlorovinyl-L-cysteine is a urinary
+metabolite after occupational 1,1 2-trichloroethene exposure in
+humans: implications for the risk of trichloroethene exposure.
+Environ Health Perspect 99:281-284(1993).
+198 Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000
+METABOLISM OF TCE
+98. Anderson PM, Schultze MO. Cleavage of S-(1,2-dichlorovinyl)-i-
+cysteine by and enzyme of bovine origin. Arch Biochem Biophys
+111:593-602(1965).
+99. Dohn DR, Anders MW. Assay of cysteine conjugate ,B-lyase
+activity with S-(2-benzothiazolyl)cysteine as the substrate. Anal
+Biochem 120:379-386 (1982).
+100. Stevens JL. Isolation and characterization of a rat liver enzyme
+with both cysteine conjugate 3-lyase and kynureninase activity.
+J Biol Chem 260:7945-7950(1985).
+101. Stevens J, Jakoby WB. Cysteine conjugate )-lyase. Mol
+Pharmacol 23:761-765 (1983).
+102. Tateishi M, Suzuki S, Shimizu H. Cysteine conjugate ,B-lyase in
+rat liver: a novel enzyme catalyzing formation of thiol-contain-
+ing metabolites of drugs. J Biol Chem 253:8854-8859 (1978).
+103. Tomisawa H, Ichihara S, Fukazawa H, Ichimoto N, Tateishi M,
+Yamamoto I. Purification and characterization of human
+hepatic cysteine conjugate 3-lyase. Biochem J 235:569-575
+(1986).
+104. Larsen GL, Stevens JL. Cysteine conjugate )-lyase in the gas-
+trointestinal bacterium Eubacterium limosum. Mol Pharmacol
+29:97-103 (1986).
+105. Tomisawa H, Suzuki S, Ichihara S, Fukazawa H, Tateishi M.
+Purification and characterization of C-S lyase from
+Fusobacterium varium: A C-S cleavage enzyme of cysteine con-
+jugates and some S-containing amino acids. J Biol Chem
+259:2588-2593 (1984).
+106. Alberati-Giani D, Malherbe P, Kohler C, Lang G, Kiefer V, Lahm
+H-W, Cesura AM. Cloning and characterization of a soluble
+kynurenine aminotransferase from rat brain: identity with kidney
+cysteine conjugate ,-lyase. J Neurochem 64:1448-1455 (1995).
+107. Malherbe P, Alberati-Giani D, Kohler C, Cesura AM.
+Identification of a mitochondrial form of kynurenine aminotrans-
+ferase/glutamine transaminase K from rat brain. FEBS Lett
+367:141-144 (1995).
+108. Stevens JL. Cysteine conjugate ,-lyase activities in rat kid-
+ney cortex: subcellular localization and relationship to the
+hepatic enzyme. Biochem Biophys Res Commun 129:499-504
+(1985).
+109. Abraham DG, Cooper AJL. Glutamine transaminase K and cys-
+teine S-conjugate 3-lyase activity stains. Anal Biochem
+197:421-427 (1991).
+110. Elfarra AA, Lash LH, Anders MW. cx-Ketoacids stimulate rat
+renal cysteine conjugate 3-lyase activity and potentiate the
+cytotoxicity of S-(1,2-dichlorovinyl)-i-cysteine. Mol Pharmacol
+31:208-212 (1987).
+111. Jones TW, Qin C, Schaeffer VH, Stevens JL. Immuno-
+histochemical localization of glutamine transaminase K, a rat
+kidney cysteine conjugate 3-lyase, and the relationship to the
+segment specificity of cysteine conjugate nephrotoxicity. Mol
+Pharmacol 34:621-627 (1988).
+112. Lash LH, Elfarra AA, Anders MW. Renal cysteine conjugate
+3-lyase: bioactivation of nephrotoxic cysteine S-conjugates in
+mitochondrial outer membrane. J Biol Chem 261:5930-5935
+(1986).
+113. Lash LH, Nelson RM, Van Dyke RA, Anders MW. Purification
+and characterization of human kidney cysteine conjugate )-
+lyase activity. Drug Metab Dispos 18:50-54 (1990).
+114. Perry SJ, Schofield MA, MacFarlane M, Lock EA, King LJ,
+Gibson GG, Goldfarb PS. Isolation and expression of a cDNA
+coding for rat kidney cytosolic cysteine conjugate 3-lyase. Mol
+Pharmacol 43:660-665 (1993).
+115. Stevens JL, Robbins JD, Byrd RA. A purified cysteine conjugate
+3-lyase from rat kidney cytosol: requirement for an a-keto acid or
+an amino acid oxidase for activity and identity with soluble gluta-
+mine transaminase K. J Biol Chem 261:15529-15537 (1986).
+116. Stevens JL, Ayoubi N, Robbins JD. The role of mitochondrial
+matrix enzymes in the metabolism and toxicity of cysteine con-
+jugates. J Biol Chem 263:3395-3401 (1988).
+117. Abraham DG, Thomas RJ, Cooper AJL. Glutamine transaminase
+K is not a major cysteine S-conjugate 3-lyase of rat kidney
+mitochondria: evidence that a high-molecular weight enzyme
+fulfills this role. Mol Pharmacol 48:855-860 (1995).
+118. Abraham DG, Patel PP, Cooper AJL. Isolation from rat kidney of
+a cytosolic high molecular weight cysteine S-conjugate 3-lyase
+with activity toward leukotriene E4. J Biol Chem 270:180-188
+(1995).
+119. Dekant W, Berthold K, Vamvakas S, Henschler D, Anders MW.
+Thioacylating intermediates as metabolites of S-(1,2-
+dichlorovinyl)-i-cysteine and S-(1,2,2-trichlorovinyl)-L-cysteine
+formed by cysteine conjugate 3-lyase. Chem Res Toxicol
+1:175-178 (1988).
+120. Dekant W, Lash LH, Anders MW. Bioactivation of the cytotoxic
+and nephrotoxic S-conjugate S-(2-chloro-1.1,2-trifluoroethyl(-i-
+cysteine. Proc Natl Acad Sci USA 84:7443-7447 (1987).
+121. Dekant W, Urban G, Gorsmann C, Anders MW. Thioketene for-
+mation from cx-haloalkenyl 2-nitrophenyl disulfides: models for
+biological reactive intermediates of cytotoxic cysteine S-conju-
+gates. J Am Chem Soc 1 13:5120-5122 (1991).
+122. Eyre RJ, Stevens DK, Parker JC, Bull RJ. Renal activation of
+trichloroethene and S-(1,2-dichlorovinyl)-i-cysteine and cell pro-
+liferative responses in the kidneys of F344 rats and B6C3F1
+mice. J Toxicol Environ Health 46:465-481 (1995).
+123. Eyre RJ, Stevens DK, Parker JC, Bull RJ. Acid-labile adducts to
+protein can be used as indicators of the cysteine S-conjugate
+pathway of trichloroethene metabolism. J Toxicol Environ
+Health 46:443-464 (1995).
+124. MacFarlane M, Schofield M, Parker N, Roelandt L, David M,
+Lock EA, King LJ, Goldfarb PS, Gibson GG. Dose-dependent
+induction or depression of cysteine conjugate j-lyase in rat kid-
+ney by N-acetyl-S-(1,2,3,4,4-pentachloro-1,3-butadienyl)-i-cys-
+teine. Toxicology 77:133-144 (1993).
+125. lyer RA, Frink EJ Jr, Ebert TJ, Anders MW. Cysteine conjugate
+,-lyase-dependent metabolism of compound A (2-[fluo-
+romethoxy]-1,1,3,3,3-pentafluoro-1-propene) in human subjects
+anesthetized with sevoflurane and in rats given compound A.
+Anesthesiology 88:611-618 (1998).
+126. Lash LH, Elfarra AA, Rakiewicz-Nemeth D, Anders MW.
+Bioactivation mechanism of cytotoxic homocysteine S-conju-
+gates. Arch Biochem Biophys 276:322-330 (1990).
+127. Stevens JL, Hatzinger PB, Hayden PJ. Quantitation of multiple
+pathways for the metabolism of nephrotoxic cysteine conju-
+gates using selective inhibitors of L-a-hydroxy acid oxidase (1-
+amino acid oxidase) and cysteine conjugate 3-lyase. Drug
+Metab Dispos 17:297-303 (1989).
+128. Sausen PJ, Elfarra AA. Cysteine conjugate S-oxidase: charac-
+terization of a novel enzymatic activity in rat hepatic and renal
+microsomes. J Biol Chem 265:6139-6145 (1990).
+129. Sausen PJ, Duescher RJ, Elfarra AA. Further characterization
+and purification of the flavin-dependent S-benzyl-i-cysteine S-
+oxidase activities of rat liver and kidney microsomes. Mol
+Pharmacol 43:388-396 (1993).
+130. Ripp SL, Overby LH, Philpot RM, Elfarra AA. Oxidation of cys-
+teine S-conjugates by rabbit liver microsomes and cDNA-
+expressed flavin-containing monooxygenases: studies with
+S-(1,2-dichlorovinyl)-L-cysteine, S-(1,2,2-trichlorovinyl)-i-cys-
+teine, S-allyl-i-cysteine, and S-benzyl-i-cysteine. Mol
+Pharmacol 51:507-515 (1997).
+131. Sausen PJ, Elfarra AA. Reactivity of cysteine S-conjugate sul-
+foxides: Formation of S-[1-chloro-2-(S-glutathionyl)vinyl]-i-cys-
+teine sulfoxide by the reaction of S-(1,2-dichlorovinyl-L-cysteine
+sulfoxide with glutathione. Chem Res Toxicol 4:655-660 (1991).
+132. Lash LH, Sausen PJ, Duescher RJ, Cooley AJ, Elfarra AA. Role
+of cysteine conjugate 3-lyase and S-oxidase in nephrotoxicity:
+Studies with S-(1,2-dichlorovinyl)-i-cysteine and S-(1,2-
+dichlorovinyl)-i-cysteine sulfoxide. J Pharmacol Exp Ther
+269:374-383 (1994).
+133. Werner M, Birner G, Dekant W. Sulfoxidation of mercapturic
+acids derived from tri- and tetrachloroethene by cytochromes
+P450 3A: a bioactivation reaction in addition to deacetylation
+and cysteine conjugate 3-lyase mediated cleavage. Chem Res
+Toxicol 9:41-49 (1996).
+134. Bakke J, Gustafsson J-A. Mercapturic acid pathway metabo-
+lites of xenobiotics: generation of potentially toxic metabolites
+during enterohepatic circulation. Trends Pharmacol Sci
+5:517-521 (1984).
+135. Griffith OW, Meister A. Translocation of intracellular glutathione
+to membrane-bound y-glutamyl transpeptidase as a discrete
+step in the y-glutamyl cycle: glutathionuria after inhibition of
+transpeptidase. Proc NatI Acad Sci USA 76:268-272 (1979).
+136. lnoue M, Morino Y. Direct evidence for the role of the mem-
+brane potential in glutathione transport by renal brush-border
+membrane vesicles. J Biol Chem 260:326-331 (1985).
+137. Akerboom TPM, Narayanaswami V, Kunst M, Sies H. ATP-
+dependent S-(2,4-dinitrophenyl)glutathione transport in canalic-
+ular plasma membrane vesicles from rat liver. J Biol Chem
+266:13147-13152 (1991).
+138. lnoue M, Akerboom TPM, Sies H, Kinne R, Thao T, Arias IM.
+Biliary transport of glutathione S-conjugate by rat liver canalic-
+ular membrane vesicles. J Biol Chem 259:4998-5002 (1984).
+139. Kobayashi K, Sogame Y, Hara H, Hayashi K. Mechanism of glu-
+tathione S-conjugate transport in canalicular and basolateral rat
+liver plasma membranes. J Biol Chem 265:7737-7741 (1990).
+140. Niinuma K, Takenaka 0, Horie T, Kobayashi K, Kato Y, Suzuki H,
+Sugiyama Y. Kinetic analysis of the primary active transport of
+conjugates metabolites across the bile canalicular membrane:
+Comparative study of S-(2,4-dinitrophenyl) glutathione and 6-
+hydroxy-5,7-dimethyl-2-methylamino-4-(3-pyridylmethyl) benzoth-
+iazole glucuronide. J Pharmacol Exp Ther 282:866-872 (1997).
+141. Olive C, Board P. Glutathione S-conjugate transport by cultured
+human cells. Biochim Biophys Acta 1224:264-268 (1994).
+142. Lash LH, Jones DP. Uptake of the glutathione conjugate S-)1,2-
+dichlorovinyl)glutathione by renal basal-lateral membrane vesi-
+cles and isolated kidney cells. Mol Pharmacol 28:278-282 (1985).
+143. Lash LH, Jones DP. Transport of glutathione by renal basal-
+lateral membrane vesicles. Biochem Biophys Res Commun
+112:55-60 (1983).
+144. Lash LH, Jones DP. Renal glutathione transport: characteristics
+of the sodium-dependent system in the basal-lateral mem-
+brane. J Biol Chem 259:14508-14514 (1984).
+145. Lash LH, Putt DA. Renal cellular transport of exogenous glu-
+tathione: heterogeneity at physiological and pharmacological
+concentrations. Biochem Pharmacol 58:897-907 (1999).
+146. Simmons TW, Anders MW, Ballatori N. L-Cysteine and S-(1,2-
+dichlorovinyl)-i-cysteine transport in rat liver canalicular mem-
+brane vesicles: potential reabsorption mechanisms for biliary
+metabolites of glutathione and its S-conjugates. J Pharmacol
+Exp Ther 262:1182-1188(1992).
+147. Schaeffer VH, Stevens JL. Mechanism of transport for toxic cys-
+teine conjugates in rat kidney cortex membrane vesicles. Mol
+Pharmacol 32:293-298 (1987).
+148. Wright SH, Wunz TM, North J, Stevens JL. Na-Dependent trans-
+port of S-(1,2-dichlorovinyl)-i-cysteine by renal brush-border
+membrane vesicles. J Pharmacol Exp Ther 285:162-169 (1998).
+149. Dantzler WH, Evans KK, Wright SH. Kinetics of interactions of
+para-aminohippurate, probenecid, cysteine conjugates and N-
+acetyl cysteine conjugates with basolateral organic anion trans-
+porter in isolated rabbit proximal renal tubules. J Pharmacol
+Exp Ther 272:663-672 (1998).
+150. Lash LH, Anders MW. Uptake of nephrotoxic S-conjugates by
+isolated rat renal proximal tubular cells. J Pharmacol Exp Ther
+248:531-537 (1989).
+151. Lash LH, Xu Y, Elfarra AA, Duescher RJ, Parker JC. Glutathione-
+dependent metabolism of trichloroethylene in isolated liver and
+kidney cells of rats and its role in mitochondrial and cellular
+toxicity. Drug Metab Dispos 23:846-853 (1995).
+152. Koob M, Dekant W. Metabolism of hexafluoropropene: evi-
+dence for bioactivation by glutathione conjugate formation in
+the kidney. Drug Metab Dispos 18:911-916 (1990).
+153. Lash LH, Oian W, Putt DA, Jacobs K, Elfarra AA, Krause RJ,
+Parker JC. Glutathione conjugation of trichloroethylene in rats
+and mice: sex-, species-, and tissue-dependent differences.
+Drug Metab Dispos 26:12-19 (1998).
+154. Green T, Dow J, Ellis MK, Foster JR, Odum J. The role of glu-
+tathione conjugation in the development of kidney tumours in
+rats exposed to trichloroethylene. Chem-Biol Interact
+105:99-117 (1997).
+155. Lash LH, Lipscomb JC, Putt DA, Parker JC. Glutathione conjuga-
+tion of trichloroethylene in human liver and kidney: kinetics and
+individual variation. Drug Metab Dispos 27:351-359 (1999).
+156. Hinchman CA, Ballatori N. Glutathione-degrading capacities of
+liver and kidney in different species. Biochem Pharmacol
+40:1131-1135 (1990).
+157. Green T, Odum J, Nash JA, Foster JR. Perchloroethylene-
+induced rat kidney tumors: an investigation of the mechanisms
+involved and their relevance to humans. Toxicol AppI Pharmacol
+103:77-89 (1990).
+158. Elfarra AA, Hwang IY. In vivo metabolites of S-(2-benzothia-
+zolyl)-i-cysteine as markers of in vivo cysteine conjugate
+,B-lyase and thiol glucuronosyl transferase activities. Drug
+Metab Dispos 18:917-922 (1990).
+159. Lau SS, Kleiner HE, Monks TJ. Metabolism as a determinant of
+species susceptibility to 2,3,5-(triglutathion-S-yl)hydroquinone-
+mediated nephrotoxicity. Drug Metab Dispos 23:1136-1142
+(1995).
+160. Carlile DJ, Zomorodi K, Houston JB. Scaling factors to relate drug
+metabolic clearance in hepatic microsomes, isolated hepato-
+cytes, and the intact liver. Drug Metab Dispos 25:903-911 (1997).
+161. Kedderis GL. Extrapolation of in vitro enzyme induction data to
+humans in vivo. Chem-Biol Interact 107:109-121 (1997).
+162. Bruning T, Lammert M, Kempkes M, Their R, Golka K, Bolt HM.
+Influence of polymorphisms of GSTM1 and GSTT1 for risk of
+renal cell cancer in workers with long-term high occupational
+exposure to trichloroethene. Arch Toxicol 71:596-599 (1997).
+163. Sato A, Nakajima T, Fujiwara Y, Murayama N. A pharmacoki-
+netic model to study the excretion of trichloroethylene and its
+metabolites after inhalation exposure. Br J Ind Med 34:55-63
+(1977).
+164. Clewell HJ Ill, Gentry PR, Gearhart JM, Allen BC, Covington
+TR, Andersen ME. Applying mechanistic information,
+pharmacokinetic modeling and margin of exposure evaluations
+in a novel risk assessment for trichloroethylene and its active
+carcinogenic metabolites: chloral hydrate, trichloroacetic acid,
+Environmental Health Perspectives * Vol 108, Supplement 2 * May 2000 199
+LASH ET AL.
+dichloroacetic acid, and dichlorovinylcysteine. Document
+prepared for OSHA Directorate of Health Standards Programs
+and U.S. Environmental Protection Agency Office of Health and
+Environmental Assessment, 1995.
+165. Lipscomb JC, Mahle DA, Butler GW, Brashear WT. Unpublished
+data.
+166. Banki K, Elfarra AA, Lash LH, Anders MW. Metabolism of S-(2-
+chloro-1,1,2-trifluoroethyl)-L-cysteine to hydrogen sulfide and
+the role of hydrogen sulfide in S-(2-chloro-1,1,2-trifluoroethyl)-i-
+cysteine-induced mitochondrial toxicity. Biochem Biophys Res
+Commun 138:707-713(1985).
+167. MacFarlane M, Foster JR, Gibson GG, King LJ, Lock EA.
+Cysteine conjugate J-lyase of rat kidney cytosol: characteriza-
+tion, immunocytochemical localization, and correlation with
+hexachlorobutadiene nephrotoxicity. Toxicol Appi Pharmacol
+98:185-197 (1989).
+168. Birner G, Richling C, Henschler D, Anders MW, Dekant W.
+Metabolism of tetrachloroethene in rats: identification of NW-
+(dichloroacetyl)-[-lysine and Ne-(trichloroacetylL-lysine as pro-
+tein adducts. Chem Res Toxicol 7:724-732 (1994).
+200 Environmental Health Perspectives * Vol 108, Supplement 2 . May 2000
+

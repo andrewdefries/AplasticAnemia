@@ -1,0 +1,1286 @@
+ARTICLE
+The Rockefeller University Press  $30.00
+J. Exp. Med. Vol. 206 No. 5  1181-1199
+www.jem.org/cgi/doi/10.1084/jem.20082521
+1181
+Granulopoiesis is a dynamic process leading
+to the production of 120 billion granulocytes
+daily in humans; its synthetic capacity can be
+increased at least 10-fold in response to certain
+stress conditions, such as infection. Granulo-
+poiesis follows an orchestrated program of cell
+proliferation, dif­ferentiation, and apoptosis,
+resulting in the expansion of a small pool of
+stem cells that evolve from granulocytic pro-
+genitors/precursors to mature granulocytes.
+Neutrophils are the most abundant type of
+granulocyte, whereas eosinophils and basophils
+are much rarer. Originating from stem cells and
+progenitors, neutrophils in the bone marrow
+are comprised of a precursor pool and a storage
+pool. Peripheral blood neutrophils, which are
+postmitotic, consist of a free circulating pool
+and a marginal pool.
+Granulocyte-colony stimulating factor
+(G-CSF) plays a major role in regulating granu­
+lopoiesis (1). G-CSF not only stimulates the
+pro­lif­eration of granulocytic precursors (2), but
+also prolongs neutrophil survival (3) and reduces
+the mean transit time from granulocytic pro-
+genitors/precursors to mature granulocytes (4).
+The importance of G-CSF in granulopoiesis
+was dem­on­strated in G-CSF KO mice. These
+mice only have 20% of the normal circulating
+neutrophils and a correspondingly small neutro-
+phil precursor pool in their bone marrow (5).
+The biological action of androgens is me-
+diated through the androgen receptor (AR), a
+CORRESPONDENCE
+Chawnshang Chang:
+chang@urmc.rochester.edu
+Abbreviations used: AAD,
+amino-actinomycin-D; AR,
+androgen receptor; ARKO, AR
+knockout; CMP, common
+myeloid progenitor; DHT,
+dihydrotestosterone; FSC, for-
+ward scatter; G-CSF, granulo-
+cyte-colony stimulating factor;
+GMP, granulocyte/macrophage
+progenitor; GST, glutathione
+S-transferase; M-CSF, macro-
+phage-colony stimulating factor;
+MIP-2, macrophage-inflamma-
+tory protein-2; Q-PCR, quanti-
+tative PCR; si, small interfering;
+SSC, side scatter; Tfm, testicular
+feminization mutant.
+Neutropenia with impaired host defense
+against microbial infection in mice lacking
+androgen receptor
+Kuang-Hsiang Chuang,1 Saleh Altuwaijri,1,2 Gonghui Li,1,3 Jiann-Jyh Lai,1
+Chin-Yi Chu,1 Kuo-Pao Lai,1 Hung-Yun Lin,1 Jong-Wei Hsu,1
+Peter Keng,1 Ming-Chi Wu,4 and Chawnshang Chang1
+1George Whipple Laboratory for Cancer Research, Departments of Pathology, Urology, and The Cancer Center,
+University of Rochester Medical Center, Rochester, NY 14642
+2Clinical Research Laboratory, Saad Specialist Hospital, Al-Khobar, Saudi Arabia 31952
+3Department of Urology, Sir Run Run Shaw Hospital, Zhejiang University, Hangzhou, China 310016
+4The Development Center for Biotechnology, Taipei, Taiwan 221
+Neutrophils, the major phagocytes that form the first line of cell-mediated defense against
+microbial infection, are produced in the bone marrow and released into the circulation in
+response to granulocyte-colony stimulating factor (G-CSF). Here, we report that androgen
+receptor knockout (ARKO) mice are neutropenic and susceptible to acute bacterial infec-
+tion, whereas castration only results in moderate neutrophil reduction in mice and humans.
+Androgen supplement can restore neutrophil counts via stabilizing AR in castrated mice,
+but not in ARKO and testicular feminization mutant (Tfm) mice. Our results show that
+deletion of the AR gene does not influence myeloid lineage commitment, but significantly
+reduces the proliferative activity of neutrophil precursors and retards neutrophil matura-
+tion. CXCR2-dependent migration is also decreased in ARKO neutrophils as compared with
+wild-type controls. G-CSF is unable to delay apoptosis in ARKO neutrophils, and ARKO mice
+show a poor granulopoietic response to exogenous G-CSF injection. In addition, AR can
+restore G-CSF–dependent granulocytic differentiation upon transduction into ARKO pro-
+genitors. We further found that AR augments G-CSF signaling by activating extracellular
+signal-regulated kinase 1/2 and also by sustaining Stat3 activity via diminishing the inhibi-
+tory binding of PIAS3 to Stat3. Collectively, our findings demonstrate an essential role for
+AR in granulopoiesis and host defense against microbial infection.
+© 2009 Chuang et al.  This article is distributed under the terms of an Attribu-
+tion–Noncommercial–Share Alike–No Mirror Sites license for the first six months
+after the publication date (see http://www.jem.org/misc/terms.shtml). After six
+months it is available under a Creative Commons License (Attribution–Noncom-
+mercial–Share Alike 3.0 Unported license, as described at http://creativecommons
+.org/licenses/by-nc-sa/3.0/).
+TheJournalofExperimentalMedicine
+1182 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1183
+Figure 1.  AR-targeted disruption and analysis of peripheral neutrophils in ARKO mice. (A) Schematic representation of murine AR protein do-
+mains and corresponding exons in AR mRNA. The AR mRNA is composed of seven exons; exon 2 is removed in ARKO mice. DBD, DNA-binding domain.
+LBD, ligand-binding domain. (B) The purity of isolated bone marrow neutrophils from WT and ARKO mice is >90%. (C) Using the primers 5-AAT-
+GGGACCTTGGATGGAGAAC-3 and 5-TCCCTGCTTCATAACATTTCCG-3, an AR transcript of 305 bp will be obtained from WT AR, but only 153 bp when
+floxed exon 2 is deleted. Full-length AR mRNA is not expressed in neutrophils isolated from bone marrow of AR-deficient mice. (D) Intracellular AR pro-
+tein is not detected in neutrophils isolated from bone marrow of AR-deficient mice. Nonspecific IgG was used as primary antibody for the control.
+(E) FACS analysis of peripheral blood from 8-wk-old WT and ARKO mice. FSC and SSC of peripheral leukocytes show significant decreases of high-SSC
+granulocytic population in ARKO mice (n = 4) compared with WT littermates (n = 4). (F) FACS analyses with neutrophil-specific antibodies (clone 7/4) and
+anti-CD11b antibodies. Neutrophils are drastically reduced in ARKO mice (n = 4) compared with WT littermates (n = 4). (G) Representative photomicro-
+graphs of Wright-Giemsa–stained cells on cytospins from blood after erythrocyte lysis. Neutrophils (arrow heads) are rarely found on leukocyte cytospins
+from ARKO mice compared with WT controls. Bar, 10 µm. (H) Manual differential counting of neutrophils was performed on blood smears from 9-wk-old
+sex-matched (WT), ARKO (KO), and Tfm male mice. Results are representative of four separate experiments (n = 4 per group). Data represent the mean ± SD.
+**, P < 0.01 compared with WT mice. ***, P < 0.001 compared with WT mice.
+ 
+ligand-inducible nuclear receptor that regulates the expression
+of target genes at the transcriptional level via binding to an
+androgen-response element. Protein kinase A activators, such
+as cAMP, could activate AR transactivation activity in an
+androgen-independent manner (6). In addition, AR could be
+activated in a ligand-independent manner by epidermal growth
+factor, Her2/Neu, insulin-like growth factor 1, keratinocyte
+growth factor, and vasoactive intestinal peptide (7–9). Another
+study also suggested that activated G protein–coupled receptors
+could induce ligand-independent AR activity (10). On the other
+hand, it has been suggested that a nongenomic effect of AR may
+occur through the interaction with c-Src to induce the MAPK
+signal cascade (11). However, transcription-independent func-
+tions of AR remain largely unclear.
+The AR gene is located on the X chromosome and plays
+an important role in male sexual differentiation and pubertal
+sexual maturation, the maintenance of spermatogenesis, and
+male gonadotropin regulation. Phenotype analysis shows that
+AR knockout (ARKO) male mice exhibited a femalelike ex-
+ternal appearance, including a vagina with a blind end, without
+penis and scrotum (12). Male reproductive organs, including
+seminal vesicles, vas deferens, epididymis, and prostate, were
+lacking in ARKO male mice. Their testes are significantly
+smaller and serum testosterone concentrations are lower in
+ARKO male mice compared with WT mice. Also, spermato-
+genesis is arrested at pachytene spermatocytes in ARKO male
+mice. In female ARKO mice, retarded development of mam-
+mary glands with reduced ductal branching is shown in the
+prepubertal stages (13). The ovarian dysfunction and the lower
+mean number of pups per litter were observed in adult ARKO
+female mice (14, 15). In addition to reproductive defects, the
+number/size of adipocytes and the body weight were also
+found to be decreased in ARKO mice (12).
+It has been reported that AR broadly expresses in neutro-
+phil-lineage cells from the myeloblast stage to the mature neu-
+trophil stage with no difference in the pattern of AR expression
+between male and female (16). Androgen was found to stimulate
+proliferation of committed erythrocytic and granulocytic precur-
+sors in vitro (17–20), and accelerate recovery of leukocytes after
+radiation or chemotherapy (21–25). Clinical observations with
+androgens in the treatment of aplastic anemia (26, 27), Fanconi’s
+anemia (28, 29), and during therapy with myelosuppressive
+agents (30, 31) suggest that androgen might increase neutrophil
+production. A clinical study with polycystic ovary syndrome
+patients who have high serum androgen levels showed higher
+neutrophil counts (32), also suggesting that androgen/AR might
+be associated with granulopoiesis. However, it is still unclear how
+androgen and AR regulate neutrophil homeostasis.
+RESULTS
+Targeted disruption of the AR gene in ARKO mice
+Because male infertility is observed in testicular feminization mu-
+tant (Tfm) mice, which carry an unstable truncated AR mutant
+(33), it is impossible to generate female homologous AR dele-
+tion mice by conventional gene disruption methods. To solve
+this difficulty, we used the Cre–loxP technique to generate a
+mouse model with the targeted disruption of AR (ARKO) (12).
+We successfully generated ARKO mice of both genders and
+WT littermates, and further used these mice to investigate if loss
+of AR influences neutrophil production. In ARKO mice, the
+deletion of exon 2 in AR (Fig. 1 A) results in a splice between
+exon 1 and exon 3, creating two sequential nonsense mutations
+at new amino acid positions 533 and 534, leading to premature
+termination of the AR protein. RT-PCR analyses of total RNA
+extracted from isolated bone marrow neutrophils (Fig. 1 B)
+showed that the mRNA from ARKO neutrophils lacked the
+305-bp fragment from exon 2 of AR (Fig. 1 C), evidence that
+the intact AR is not expressed in ARKO neutrophils and pre-
+cursors. Intracellular analysis of endogenous AR protein by flow
+cytometry further confirmed that AR protein expression occurs
+in WT, but not ARKO, bone marrow neutrophils (Fig. 1 D).
+ARKO mice have low numbers of neutrophils in circulation
+We then examined circulating neutrophils in ARKO and
+WT mice by FACS analyses. On the basis of forward scatter
+(FSC) and side scatter (SSC), FACS analyses of peripheral
+blood leukocytes showed that a high-SSC population (i.e., a
+granulocyte population) was barely detectable in ARKO
+mice (Fig. 1 E). Using FACS analysis with neutrophil-spe-
+cific monoclonal antibodies (clone 7/4) and anti-CD11b anti­
+bodies, we found that only 3% of leukocytes were neutrophils
+in ARKO mice, in contrast to 26% neutrophils in WT mice
+(Fig. 1 F). Neutrophils were rarely found in cytospin smears
+of blood leukocytes from ARKO mice (Fig. 1 G). As shown
+1184 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+sults demonstrated that loss of AR results in significant reduc-
+tion of neutrophils in bone marrow.
+To learn if both androgen and AR are required for neutro-
+phil production, we examined the effects of castration and an-
+drogen supplementation on neutrophil counts in WT, ARKO,
+and Tfm mice. We found that castration of normal mice only
+results in a relatively moderate reduction of neutrophils as
+compared with neutropenia in ARKO and Tfm mice (Fig. 2,
+C–E), and supplement of exogenous dihydrotestosterone
+(DHT) restores neutrophils in castrated mice, but not in ARKO
+and Tfm mice (Fig. 2, C–E). These results suggest that AR, but
+not androgen, is required for neutrophil homeostasis.
+Androgen ablation reduces neutrophil counts, but does not
+result in neutropenia in humans
+We also compiled blood cell counts from 33 advanced prostate
+cancer patients before and after the surgical castration therapy.
+Those patients had no prior history of chemotherapy and radia-
+tion therapy, and had no sign of infection (WBC counts were
+<10,000 per l). The results showed that their neutrophil dif-
+ferential counts only moderately decreased after surgical castra-
+tion therapy (Fig. 2 F). The decrease of neutrophil counts in
+those patients with surgical castration was not as significant as
+that observed in ARKO mice, further supporting that androgen
+is less important than AR in neutrophil homeostasis.
+by examination of blood smears with Wright-Giemsa staining,
+male and female ARKO mice have normal white blood cell
+counts, but very low percentages of neutrophils in peripheral
+blood (Fig. 1 H). Examining blood smears from Tfm mice
+(Fig. 1 H), we confirmed that loss of AR results in a significantly
+reduced neutrophil abundance in peripheral leukocytes. Auto-
+mated blood analysis revealed that the numbers of total white
+blood cells, red blood cells, and platelets remained comparable in
+ARKO mice (Table I A). The mean differential ratio of periph-
+eral lymphocytes in ARKO mice was increased from 75 to 94%
+without obvious alterations in monocyte and eosinophil num-
+bers (Table I B). However, there was a significant reduction of
+neutrophils in blood compared with WT mice (Table I B).
+These results suggest that the AR might play a critical role in
+sustaining a normal number of circulating neutrophils in vivo.
+Neutrophils are reduced in bone marrow of ARKO mice
+We then sought to determine if the neutropenia in ARKO
+mice was caused by a defect in granulopoiesis in the bone
+marrow. We found that the high SSC granulocyte popula-
+tion in bone marrow was markedly decreased in ARKO
+mice (Fig. 2 A). Further analysis of the granulocyte popula-
+tion with clone 7/4 and CD11b antibodies demonstrated a
+50% decrease of neutrophils in bone marrow of ARKO mice
+compared with those in WT littermates (Fig. 2 B). These re-
+Table I.  Blood and bone marrow analysis
+Blood/bone marrow WT ARKO Statistics
+A. Blood parameters WT (n = 24) ARKO (n = 18) P-value
+  WBC (×103/l) 1.83 ± 0.77 1.93 ± 0.78 0.690
+  RBC (×106/l) 9.18 ± 0.97 9.31 ± 0.6 0.603
+  Platelets (×103/l) 643 ± 192 573.8 ± 156 0.203
+  Hemoglobin (g/dl) 13.69 ± 1.04 13.43 ± 0.86 0.391
+  Hematocrit (%) 49.88 ± 4.66 47.06 ± 2.88 0.021
+  MCV (fl) 54.5 ± 2.73 50.61 ± 3.15 <0.001
+  MCH (pg) 15.17 ± 1.05 14.39 ± 0.7 0.006
+  MCHC (g/dl) 27.54 ± 1.64 28.61 ± 1.58 0.039
+  Lymphocytes (per l) 1359 ± 565 1815 ± 717 0.033
+  Neutrophils (per l) 420 ± 247 76 ± 59 < 0.001
+B. Differential WBC WT (n=24) ARKO (n = 18) P-value
+  Lymphocytes (%) 74.6 ± 7.7 94.7 ± 3.2 <0.001
+  Neutrophils (%) 22.6 ± 7.2 3.7 ± 2.2 <0.001
+  Eosinophils (%) 0.7 ± 0.6 0.6 ± 0.5 0.776
+  Monocytes (%) 2 ± 1.7 1.2 ± 0.8 0.730
+C. Bone marrow analysis WT (n=6) ARKO (n = 6) P-value
+  Myeloblasts (%) 0.6 ± 0.3 0.5 ± 0.3 0.381
+  Promyelocytes (%) 2.3 ± 0.6 2.2 ± 0.4 0.583
+  Myelocytes and metamyelocytes (%) 15 ± 1.6 10.3 ± 1.4 <0.001
+  Neutrophils (include Band form) (%) 32 ± 2.5 12 ± 1.8 <0.001
+  Bone Marrow Nucleated Cells (×106) 33.3 ± 1.24 34.1 ± 0.8 0.244
+All mice for blood and bone marrow analysis range from 8 to 12 wks old. Blood parameters from blood samples obtained from heart punctures were measured using an Abbot
+CELL-DYN 4000 system. 100-count leukocyte differentials were examined on blood smears from 18–24 mice in each genotype. Bone marrow analysis was based on 1,000-
+count manual leukocyte differentials performed on bone marrow–nucleated cells recovered from femurs of age-matched mice from each genotype. Mean values ± SD
+obtained from the indicated number of mice (n) are given. WBC, white blood cell count; RBC, red blood cell count; MCV, mean cell volume; MCH, mean corpuscular
+hemoglobin; MCHC, mean corpuscular hemoglobin concentration.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1185
+Figure 2.  Analysis of bone marrow neutrophils in ARKO mice. (A) FSC/SSC analysis of bone marrow cells shows reduction of a cell population with
+granulocyte characteristics in 8-wk-old ARKO mice (n = 4) compared with WT littermates (n = 4). (B) Gated with CD45+, FACS analyses show that bone
+marrow neutrophils are significantly decreased in AR-deficient mice (n = 4) compared with WT littermates (n = 4). (C) FACS analysis with antibodies
+against neutrophils in peripheral blood from 10-wk-old sham-operated WT, castrated (WT-Cas), castrated mice implanted with DHT-releasing pellet (WT-
+Cas+DHT), sham-operated ARKO (ARKO), and sham-operated ARKO mice implanted with DHT-releasing pellet (ARKO+DHT). For each group, 105 cells from
+each of four mice were pooled and analyzed. Data were analyzed using CellQuest software; neutrophil populations are shown as histograms. DHT supple-
+mentation restores neutrophil numbers in peripheral blood of castrated mice, but not in ARKO mice. (D) DHT supplementation restores bone marrow neu-
+trophils (neutrophil-specific antibody, clone 7/4, labeled) in castrated mice, but not in ARKO mice. (E) DHT supplementation also restores neutrophils (Gr-1
+labeled) in bone marrow of castrated mice, but not in those of Tfm mice. (F) Neutrophil differential counts are only moderately reduced in patients after
+androgen ablation therapy. Blood analysis data were collected from 33 advanced prostate cancer patients before and after surgical castration. Neutrophil
+differential counts are shown and presented as the mean ± SD. Animal experiments were independently performed at least three times, and representa-
+tive results from one experiment are shown.
+1186 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+Figure 3.  AR knockdown in WT myeloid progenitors by RNA interference (RNAi) suppresses neutrophil differentiation, and restoring AR in
+ARKO cells induces neutrophil differentiation. (A) Bone marrow cells were plated in methylcellulose-containing media supplemented with the indicated
+cytokine and hematopoietic colonies containing >30 cells were scored after 7 d. We analyzed bone marrow cells from five 9-wk-old animals of each geno-
+type. (B) Effect of adding various concentrations of DHT on colony formation of mouse bone marrow cells in methylcellulose-containing media supple-
+mented with G-CSF. (C) The populations of GMPs and CMPs are comparable in bone marrow between WT and ARKO mice. GMPs were further isolated from
+WT and ARKO bone marrow using FACS sorting. (D) Representative photomicrographs of isolated neutrophils and precursors from bone marrow stained
+with Wright-Giemsa. A decrease of nuclei-segmented neutrophils (arrow heads) in ARKO bone marrow is observed when compared with the control. Bar,
+10 µm. (E) GMPs were infected with retroviruses carrying pBabe vector, pBabe-AR, pSuperior vector, pSuperior-siAR, and pSuperior-scramble. Transduced
+GMPs were cultured in the presence of G-CSF (10 ng/ml) with or without 10 nM DHT for 7 d. Green fluorescent colony cells were then collected and
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1187
+AR-small interfering (si)RNA to see if knockdown of endoge-
+nous AR retards neutrophil differentiation. We confirmed the
+AR-siRNA knockdown efficiency with reporter assays (Fig. S1)
+and immunoblot analyses of AR protein expression in cells in-
+fected with retroviruses carrying AR-siRNA and scramble
+siRNA control (Fig. S2). Colonies from sorted WT GMPs in-
+fected with retroviruses carrying AR-siRNA and GFP showed
+fewer mature neutrophils than those infected with retroviruses
+carrying scrambled siRNA and GFP or GFP alone (Fig. 3 E).
+These results are consistent with the ARKO mouse data, sug-
+gesting that knockdown of endogenous AR by siRNA in GMPs
+could retard neutrophil maturation. Results from these comple-
+mentary methods of AR manipulation in cultured cells are con-
+sistent with our in vivo ARKO mice data showing that loss of
+AR results in retardation of neutrophil differentiation.
+Reduced proliferative activity in neutrophil precursors
+in bone marrow of ARKO mice
+We next examined granulocytic proliferation via analysis of
+the cell cycling status of granulocytes within bone marrow,
+by labeling cells with anti–Gr-1 antibodies and propidium
+iodide. The proportion of cells in S and G2/M phase was lower
+in Gr-1+ bone marrow cells from ARKO mice (Fig. 4 A), sug-
+gesting that the rate of granulocytic proliferation in bone
+marrow from ARKO mice is lower than in WT mice.
+To learn more about the dynamics of neutrophil production
+in WT and ARKO mice, we labeled mitotic progenitors/pre-
+cursors in vivo by intraperitoneal injection of BrdU, which only
+labels proliferating cells. Cells derived from the neutrophil pre-
+cursor pool can be labeled with BrdU because these cells are
+proliferating and have matured into granulocytes, which are
+then released from the bone marrow into the circulation. At
+96 h after the injection, the BrdU-labeled granulocytes reached
+a maximum in the peripheral blood (Fig. 4 B). It is known that
+BrdU labeling intensity is diluted by half with every cell division
+after BrdU incorporation. Consequently, by tracking the changes
+in relative BrdU intensity, we can determine how many division
+cycles the neutrophils from precusor cells have undergone. Cells
+in the BrdUbright region correspond to granulocytes that incor-
+porated BrdU in their last mitosis, whereas those in the BrdUdim
+region have gone through one or more divisions after BrdU in-
+corporation. As shown in Fig. 4 C, 40% of neutrophils were in
+the BrdUdim pool in WT mice, whereas only 22% of neutrophils
+from ARKO mice were BrdUdim, suggesting a markedly re-
+duced mitotic cell division of neutrophil precursors in bone
+marrow of ARKO mice.
+Granulocytes from bone marrow of ARKO mice
+are susceptible to apoptosis
+To determine if neutropenia in ARKO mice is partly caused
+by neutrophil apoptosis, we examined the bone marrow cell
+ARKO mice have a defect in granulopoiesis between
+proliferative precursors and mature neutrophils with normal
+numbers of myeloid progenitors
+We next asked which stages during granulopoiesis in bone
+marrow are responsible for neutropenia in ARKO mice. Using
+colony-forming assays, we discovered that adding G-CSF, GM-
+CSF, macrophage-colony stimulating factor (M-CSF), IL-3,
+and IL-6 induced similar levels of colony formation in ARKO
+bone marrow cells and WT cells in low-androgen methylcellu-
+lose medium (Fig. 3 A). Adding DHT did not influence colony
+numbers induced by G-CSF (Fig. 3 B). These results suggest
+that the populations of early granulocytic and monocytic pro-
+genitor cells are comparable in WT and ARKO bone marrow
+cells. Thus, we conclude that neutrophil lineage commitments
+in ARKO mice must be similar to those in WT mice. In addi-
+tion, using FACS analyses, we found that the abundance of both
+common myeloid progenitors (CMPs) and granulocyte/macro-
+phage progenitors (GMPs) in bone marrow is also comparable
+between WT and ARKO mice (Fig. 3 C). Using Wright-Gi-
+emsa staining of bone marrow smears, we found that fewer iso-
+lated bone marrow neutrophils from ARKO mice than from
+WT mice had segmented nuclei (Fig. 3 D). Differential count-
+ing of bone marrow cells showed that ARKO mice had a de-
+crease in myelocytes/metamyelocytes and a marked decrease in
+mature neutrophils as compared with bone marrow cells from
+WT mice (Table I C). Although we observed that cancellous
+bone volumes of ARKO male mice are reduced compared with
+WT littermates (12), there is no difference in bone marrow cel-
+lularity (Table I C). These results suggest that the defect in gran-
+ulopoiesis of ARKO mice occurs during the transition between
+proliferation of precursors (myeloblasts, promyelocytes, and my-
+elocytes) and maturation of neutrophils (metamyelocytes, band
+forms, and neutrophils), leading to a defect in terminal differen-
+tiation of neutrophils.
+Restoration and knockdown of AR in GMPs influence
+neutrophil differentiation
+To see if restoration of AR rescues neutrophil differentiation,
+we infected FACS-sorted ARKO GMPs with retroviruses car-
+rying the cDNA for AR and GFP or retroviruses carrying GFP
+alone, and then seeded infected cells into methylcellulose me-
+dium in the presence of G-CSF. Fluorescent colonies were har-
+vested after 7 d. ARKO colonies infected with retroviruses
+carrying GFP alone exhibited fewer mature neutrophils
+(Fig. 3 E). In contrast, colonies from ARKO GMPs infected
+with retroviruses expressing functional AR consisted of more
+mature neutrophils, suggesting that the defects in neutrophil
+maturation resulting from ablation of AR can be rescued by AR
+overexpression. Again, we found that adding androgen did not
+result in an additional rescue on neutrophil maturation (Fig. 3 E).
+Also, we infected WT GMPs with retroviruses carrying
+counted. 200-count manual leukocyte differentials were examined after Wright-Giemsa staining. Numbers of neutrophils and precursor cells were calcu-
+lated by multiplying neutrophil differential ratios by the total green fluorescent cell count. Triplicate experiments were performed and the error bars repre-
+sent the SD.
+ 
+1188 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+apoptosis using a FACS-based assay with Annexin V and
+7-amino-actinomycin-D (AAD) staining. We did not observe a
+significant number of apoptotic Gr-1+ cells in fresh bone mar-
+row from either WT or ARKO mice (Fig. 5 A), which might
+be caused by rapid clearing of apoptotic cells by macrophages in
+vivo. We then examined survival of mature bone marrow neu-
+trophils in vitro and found that 25% of ARKO neutrophils were
+apoptotic cells as compared with 19% in WT cells in culture
+without G-CSF treatment, indicating that ARKO neutrophils
+are moderately more susceptible to spontaneous apoptosis than
+WT cells (Fig. 5 B). On the other hand, with G-CSF treatment
+for 48 h, only 10% of WT neutrophils, but 20% of ARKO
+neutrophils, remained apoptotic (Fig. 5 B). These results suggest
+that G-CSF is unable to delay apoptosis in ARKO neutrophils.
+Together, the proliferation and apoptosis assays suggest
+that neutropenia resulting from loss of AR might be caused
+by decreased proliferation of neutrophil precursors and in-
+creased apoptosis of neutrophils in bone marrow.
+The response to G-CSF is impaired in granulocytes
+lacking AR
+G-CSF–mediated apoptosis protection might be less effective
+in ARKO granulocytes because of impaired response to G-CSF.
+To investigate the granulopoietic response to G-CSF in
+Figure 4.  Proliferative potential of neutrophil precursor and progenitor cells. (A) Cell cycle analysis of total bone marrow Gr-1+ cells from WT and
+ARKO mice. Comparison of cell cycle distributions shows that 9-wk-old ARKO mice have a lower percentage of cells in the S-phase and the G2/M phase
+of the cell cycle compared with WT littermates. Data are presented as the mean ± standard deviations (SD) of three independent experiments in the right
+panel. (B) Kinetics of BrdU labeled neutrophils in the blood of WT and ARKO mice after BrdU injection. (C) Comparison of BrdU incorporation in WT and
+ARKO blood neutrophils. At 96 h post injection, the ratio of BrdUdim in blood neutrophils is lower in 9-wk-old AR-deficient mice (n = 4) as compared with
+WT littermates (n = 4). For each group, 105 cells from each of four mice were pooled and used for analysis. The results are presented as percentage of
+blood neutrophils from four-replicate experiments and the error bars represent the SD in the right panel.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1189
+to G-CSF signaling in AR-deficit myeloid cells. Using real-
+time quantitative PCR (Q-PCR), we measured the mRNA
+expression of G-CSF–downstream target genes, such as
+SOCS3, flotillin, chemokine (C-C motif) receptor-like 2,
+glycerol kinase, and complement component 3a receptor 1,
+WT and ARKO littermates, we monitored blood neutrophil
+counts with daily injections of G-CSF for 9 d (Fig. 5 C). We
+observed that ARKO mice had lower increasing rate of blood
+neutrophils in response to G-CSF as compared with WT
+mice. These results suggest that there might be an inhibition
+Figure 5.  Insensitivity to G-CSF signaling in ARKO neutrophils. (A) Only few apoptotic neutrophils can be found in freshly isolated WT and ARKO
+bone marrow cells. (B) G-CSF protection against apoptosis in ARKO bone marrow neutrophils was less than in WT cells in vitro. Isolated mature bone mar-
+row neutrophils were cultured in RPMI medium with 20% FCS without or with G-CSF (100 ng/ml) for 48 h. Neutrophils were then stained with Annexin
+V and 7-AAD, and analyzed by flow cytometry. (C) A lower increasing rate of blood neutrophils was found in ARKO mice in response to G-CSF injection.
+(D) G-CSF target genes are down-regulated in ARKO neutrophils. Data represent mean ± SD for three separate experiments. *, P < 0.05; **, P < 0.01.
+(E) SOCS3 protein expression is decreased in ARKO neutrophils. (F) mRNA expression of G-CSFR is comparable between WT and ARKO neutrophils.
+(G) G-CSF binding to WT and ARKO neutrophils is similar.
+1190 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1191
+mice, which is more than that from WT mice (Fig. 6 D).
+This result suggests that loss of AR in ARKO granulocytes re-
+sults in increased PIAS3-mediated sequestering of pY-Stat3,
+leading to the suppression of G-CSF signaling. A reporter assay
+further showed that suppression of constitutively active Stat3
+(CA-Stat3) transactivation by PIAS3 was relieved by AR in a
+dose-dependent manner (Fig. 6 E). Notably, the major induc-
+tion of Stat3 reporter is through increasing AR and is only
+slightly enhanced by adding androgen (Fig. 6 E), suggesting
+that androgen is not required for the AR’s rescue of stat3 activ-
+ity from the inhibition by PIAS3.
+Stat3 activation has been demonstrated to promote dif-
+ferentiation of myeloid cell lines (34, 35, 40–43). To further
+investigate if increased activated Stat3 can rescue differentia-
+tion of ARKO myeloid progenitors, we infected primary bone
+marrow GMPs with retroviruses carrying CA-Stat3, dominant-
+negative Stat3 (DN-Stat3), or retroviruses carrying pMSCV
+vector alone. We seeded infected cells into methylcellulose me-
+dium in the presence of G-CSF, and harvested colonies after
+7 d. WT and ARKO colonies infected with retroviruses carry-
+ing DN-Stat3 exhibited fewer mature neutrophils (Fig. 6 F). In
+contrast, WT and ARKO colonies infected with retroviruses
+expressing CA-Stat3 contained more mature neutrophils
+(Fig. 6 F). These results suggest that blocking endogenous
+Stat3 function by overexpression of DN-Stat3 could retard
+neutrophil differentiation, whereas increase of CA-Stat3
+could rescue neutrophil differentiation.
+To further explore the relationship between AR and PIAS3
+in granulocytic differentiation, we examined differential counts
+of neutrophils in colonies infected with PIAS3 and PIAS3-
+siRNA. We infected primary WT and ARKO GMPs with
+retroviruses carrying PIAS3, PIAS3-siRNA, and controls. We
+then seeded infected cells into methylcellulose medium with
+G-CSF for 7 d, and then examined differential counts of fluo-
+rescent colony cells. We found PIAS3 overexpression reduced
+mature neutrophils, but increased AR could rescue the reduc-
+tion (Fig. 6 G). We also found that PIAS3 knockdown by
+PIAS3-siRNA could restore mature neutrophil numbers in
+ARKO colonies (Fig. 6 H).
+The binding of G-CSF to its receptor activates not only
+the Jak–Stat3 pathway (44) but also the Ras–Raf–ERK sig-
+naling cascade (45). No ERK1/2 activation was found in WT
+and ARKO neutrophils before G-CSF treatment (Fig. 7 A).
+We observed that ERK1/2 phosphorylation was significantly
+decreased in ARKO bone marrow granulocytes with G-CSF
+and found their mRNA expressions were decreased in ARKO
+granulocytes (Fig. 5 D). Protein expression of SOCS3, a major
+downstream target of G-CSF, was also significantly reduced
+(Fig. 5 E) in isolated bone marrow granulocytes from ARKO
+mice compared with those from WT littermates. These results
+suggest that G-CSF signaling could be suppressed in ARKO
+granulocytes. We then examined the expression of G-CSFR
+using semiquantitative RT-PCR and a flow cytometric–based
+G-CSF binding assay. We saw no difference in mRNA and
+surface protein expression of G-CSFR between granulocytes
+from ARKO and WT mice (Fig. 5, F and G).
+Stat3 activity and ERK activation in G-CSF signaling
+are reduced in ARKO granulocytes
+To investigate if downstream mediators of G-CSF signaling
+are suppressed by AR deficiency, we examined the expression
+of Stat3, a proximal mediator of the G-CSF signaling (34, 35).
+We found that the expression of both total Stat3 and the tyro-
+sine-phosphorylated form of Stat3 (pY-Stat3) were similar be-
+tween isolated bone marrow neutrophils from WT and those
+from ARKO mice in the absence or presence of G-CSF stim-
+ulation (Fig. 6 A). Similar levels of Stat3 and pY-Stat3 proteins
+were also observed in bone marrow neutrophils from castrated
+mice and those from WT and ARKO in the presence of
+G-CSF (Fig. 6 B). These results suggest that loss of AR does
+not influence the expression or the function of G-CSFR. Inter-
+estingly, we found that endogenous AR of granulocytes from
+castrated mice is less abundant (Fig. 6 B), which could be
+caused by the decrease of AR protein stability in the prolonged
+absence of androgen (36, 37). This is further supported by the
+finding that castration resulted in a significant reduction of AR
+expression and that exogenous DHT administration restored
+the reduced AR expression (38).
+Because early studies have demonstrated that PIAS3 could
+inhibit Stat3 signaling via blocking Stat3 DNA binding (39),
+we sought to explore if AR interacts with PIAS3 and affects its
+inhibition on Stat3 activity. The glutathione S-transferase
+(GST) pull-down data shows that there is a direct protein–pro-
+tein interaction between PIAS3 and AR (Fig. 6 C). The PIAS3
+interaction with AR possibly occurs through the PIAS3 N ter-
+minus, which contains a LXXLL motif, an -helical protein
+interaction module that mediates interactions between AR co-
+regulators and AR. Using a coimmunoprecipitation assay, we
+found that anti-PIAS3 antibodies can precipitate more pY-Stat3
+in granulocytes from ARKO, followed by that from castrated
+Figure 6.  Stat3 transcriptional activity is reduced in ARKO neutrophils. (A) PIAS3, Stat3, and pY-Stat3 proteins are comparable in WT and ARKO
+bone marrow neutrophils. Cells were isolated from mice and then incubated with G-CSF (40 ng/ml) at 37°C for the indicated period. (B) AR protein ex-
+pression is lower in bone marrow neutrophils of castrated mice than those of WT mice, while Stat3 and pY-Stat3 levels are comparable. Bone marrow
+Gr-1+ cells were isolated from mice and then incubated with G-CSF (40 ng/ml) at 37°C for 30 min. (C) AR interacts with the GST-PIAS3 in the GST pull-down
+assay. (D) Binding of Stat3 by PIAS3 is more in ARKO bone marrow neutrophils. The result of band intensities of Stat3, pY-Stat3, and AR in the coimmuno­
+precipitation experiment was normalized with band intensities of PIAS3 and shown in the right panel. (E) AR can relieve the PIAS3 inhibition of acti-
+vated Stat3 action. The results are presented as fold induction of luciferase activity from triplicate experiments using CV-1 cells and the error bars
+represent the SD. ***, P < 0.001. (F) CA-Stat3 induces but DN-Stat3 inhibits neutrophil maturation. (G) PIAS3 inhibits neutrophil maturation, while in-
+creased AR rescues the inhibition. (H) PIAS3-siRNA increases neutrophil maturation. Results are presented as cell numbers of neutrophils and precursors
+from triplicate experiments and the error bars represent the SD. *, P < 0.05; **, P < 0.01; ***, P < 0.001.
+ 
+1192 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+Figure 7.  AR is essential for ERK1/2 activation in G-CSF induced neutrophil proliferation. (A) With G-CSF (40 ng/ml) treatment for the indicated
+times, ERK1/2 phosphorylation status was examined in bone marrow neutrophils of WT, castrated WT, and ARKO mice. (B) AR is required for G-CSF-
+induced ERK1/2 phosphorylation. By immunoblotting, the expression status of phosphorylated ERK1/2 and total ERK1/2 were compared among each group
+of G-CSF–induced granulocytes derived from WT or ARKO bone marrow cells infected with retroviruses carrying AR, AR-siRNA, or control vectors. v, vec-
+tor alone; Sc, pSuperior-scrambled siRNA; Si-AR, pSuperior-AR siRNA. (C) U0126 almost abolishes G-CSF–induced proliferation of bone marrow cells. In
+the presence or absence of G-CSF (10 ng/ml), bone marrow cells (106/ml) were incubated with or without 1 µM U0126 for 3 d. Proliferative activity was
+then examined by 3H-thymidine incorporation. (D) Effects of AR deficiency on the human myeloblastic cell line, KG-1. Stably transfected cells were plated
+at 5 × 105 cells/ml in RPMI medium and the number of total viable cells was calculated each day. Results are the mean of three independent experiments
+and the error bars represent the SD. (E) Schematic representation of the role of AR in G-CSF signaling.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1193
+ARKO neutrophils show reduced neutrophil migration
+in response to CXCR2 ligands, but exhibit normal
+neutrophil degranulation
+The chemokine receptor CXCR2 plays an important role in
+neutrophil migration (46). Neutrophil chemoattractants macro-
+phage-inflammatory protein-2 (MIP-2) and KC/CXCL1 can
+specifically bind to CXCR2, whereas fMLP signals through a
+different G protein–coupled receptor (47–50). To test the mi-
+gration capability of ARKO neutrophils, we examined the che-
+motactic response toward MIP-2, KC, and fMLP. As shown in
+Fig. 8 D, ARKO neutrophils demonstrated reduced migration
+activities toward the chemoattractants MIP-2 and KC compared
+with WT cells; however, ARKO and WT neutrophils had simi-
+lar responses to fMLP. It has been shown that lack of Stat3 can
+impair CXCR2-dependent neutrophil migration (51), and our
+results are correlated with that finding because the Stat3 activity
+is mostly inhibited in ARKO neutrophils.
+We then examined the release of -glucuronidase and
+lactoferrin as the markers of primary and secondary granules
+from isolated mature neutrophils after stimulation. We found
+that WT and ARKO neutrophils showed no differences in
+the release of -glucuronidase or lactoferrin induced by
+fMLP, C5a, and PMA (Fig. 8 E).
+ARKO mice are more susceptible to microbial infection
+To explore if neutropenic ARKO mice have impaired host re-
+sistance to acute bacterial infection, we injected 9-wk-old
+ARKO mice and age-matched WT controls (10 animals per
+group) intraperitoneally with a virulent strain of E. coli. Survival
+of the mice was monitored over 60 h. At 12 h after injection,
+all 10 ARKO mice showed signs of severe infection, including
+diarrhea, hunchback, imbalance, ruffled fur, and eye infection,
+but only 3 out of 10 WT mice exhibited signs of infection
+(Fig. 8 F). Moreover, all 10 ARKO mice were dead within
+36 h, and only 1 WT mouse died within that time frame
+(Fig. 8 G). All remaining WT mice were still alive at 60 h. The
+inability of the ARKO mice to survive the E. coli challenge
+shows that these animals are more susceptible than WT con-
+trols to bacterial infection.
+Discussion
+It is interesting that neutropenia was observed in ARKO and
+Tfm mice, whereas castrated male mice only have moderate
+reduction of neutrophil counts in both blood and bone mar-
+row (Fig. 2, C–E), suggesting that AR, but not androgen, is
+critical for neutrophil homeostasis. Other evidences to support
+our hypothesis include the following: (a) Exogenous androgen
+can restore neutrophil counts in castrated WT mice, but not
+ARKO mice (Fig. 2, C–E). (2) Female ARKO mice have
+neutropenia, but WT female mice, with 10-fold less androgen
+levels compared with male, still maintain normal neutrophil
+counts (Fig. 1 H). (3) Our mechanistic studies indicate that AR
+reduces the inhibition of PIAS3 to Stat3 transcriptional activ-
+ity, and adding androgen only mildly enhances the AR effect
+on Stat3 signaling (Fig. 6 E). (4) Without adding androgen,
+AR overexpression still increases granulocytic differentiation
+treatment (Fig. 7 A). We then found that in the presence of
+G-CSF, there is a decrease in phosphorylated ERK1/2 in
+WT bone marrow cells carrying AR-siRNA, whereas exog-
+enous AR promotes ERK1/2 activation in ARKO bone
+marrow cells (Fig. 7 B). Next, we examined the effects of AR
+deficiency on the G-CSF–induced proliferation of primary
+bone marrow cells and the human myeloblastic cell line KG-1.
+Compared with ARKO cells, WT bone marrow cells
+showed a significantly higher proliferative activity in response
+to G-CSF (Fig. 7 C). Similarly, under G-CSF treatment, WT
+KG-1 cells also showed higher cell proliferation than the
+KG-1 clone carrying hAR-siRNA (Fig. 7 D). Furthermore,
+we found that U0126 (MEK kinase inhibitor) abolished a
+large part of G-CSF-induced cell proliferation for those cells
+containing AR (Fig. 7 C and D). All of these results suggest
+that AR is essential for the G-CSF–induced ERK activa-
+tion and subsequent granulocytic proliferation. It has been
+reported that AR is important for the activation of c-Src–
+Ras–Raf–ERK signaling cascade through the interaction be-
+tween the proline-rich motif of AR and the SH3 domain of
+c-Src (11). Also, our previous studies have demonstrated
+that AR contributes to ERK activation in an androgen-
+independent manner (13).
+Together, these results indicate that AR not only releases
+the PIAS3 inhibition of the Stat3 but also promotes ERK ac-
+tivation in G-CSF signaling (Fig. 7 E).
+Granulocytes from ARKO mice are capable of phagocytosis
+and oxidative burst, but have reduced chemokine
+and cytokine production
+We then asked if any functions of neutrophils derived from
+ARKO mice were impaired as compared with WT controls.
+First, we examined the oxidative burst and phagocytic activi-
+ties of granulocytes derived from ARKO and WT mice by in-
+cubating granulocytes with fluorescein-labeled Escherichia coli
+at 37°C (Fig. 8 A). In addition, we assessed the oxidative burst
+in response to PMA, fMLP, or anaphylatoxin C5a stimulation
+by monitoring the production of H2O2, which converts 2,7-
+dichlorofluorescein acetate, a nonfluorescent precursor, to
+2,7-dichlorofluorescein. The fluorescence intensity of 2,7-
+dichlorofluorescein was comparable in the WT and ARKO
+neutrophils as stimulated by PMA (Fig. 8 B), fMLP (Fig. S3),
+or C5a (Fig. S3), showing that the oxidative burst capacity of
+the two genotypes was similar. These results suggest that both
+phagocytosis and the oxidative burst are normal in granulo-
+cytes from ARKO mice.
+Chemokines and cytokines are important for leukocyte
+migration and inflammatory response. To assess the expres-
+sion of chemokines and proinflammatory cytokines in the
+current study, we used Q-PCR to measure the mRNA levels
+in WT and ARKO granulocytes. ARKO cells had lower lev-
+els of IL-1, IL-6, TNF- mRNA, and several chemokines
+than WT cells (Fig. 8 C), suggesting that reduced production
+of chemokines and proinflammatory cytokines might influ-
+ence the functions of neutrophils or other leukocytes through
+autocrine or paracrine pathways.
+1194 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1195
+Figure 8.  Neutrophil function and host defense against infection in the absence of AR. (A) Uptake of fluorescein-labeled E. coli by WT and ARKO
+neutrophils at 37°C. (B) Flow cytometric analysis of oxidant production and subsequent 2,7-dichlorofluorescein generation in WT and ARKO granulo-
+cytes after PMA stimulation. (C) Relative mRNA expression of chemokines and cytokines in isolated WT and ARKO bone marrow granulocytes. *, P < 0.05.
+(D) Mature bone marrow neutrophils from WT or ARKO mice were tested for migration in Transwell chambers toward the indicated chemoattractant
+(200 ng/ml MIP-2, 1 µg/ml KC, or 100 µM fMLP). The number of cells migrated through the Transwell was determined by cell counting. Data from six indepen-
+dent experiments are presented and the error bars represent the SD. *, P < 0.05; **, P < 0.01. (E) Neutrophil degranulation of WT and ARKO neutrophils
+was examined without or with stimulation by fMLP, C5a, or PMA. (top) The release of the primary granules was examined using the -glucuronidase ac-
+tivity in the supernatant of stimulated neutrophils. Data are presented as the percentage of total cellular -glucuronidase content. (bottom) Release of
+the specific granule marker lactoferrin in the supernatant of stimulated neutrophils was quantified by ELISA. Both degranulation assays were performed
+in six independent experiments. (F) Representative photograph of WT and ARKO mice after 12-h intraperitoneal injection with E. coli. ARKO mice showed
+signs of severe infection, such as hunchback, ruffled fur, and eye infection; however, WT mice remained normal. (G) Kaplan-Meier survival curve of WT
+and ARKO mice in response to intraperitoneal challenge with E. coli. We examined the time course of survival following E. coli infection. Survival over time
+is shown as percentage mice remaining.
+ 
+in colony formation assays (Fig. 3 E). With these observations,
+we believe that AR confers a direct and more profound effect
+than androgen. We note with interest that neutropenia result-
+ing from AR ablation contrasts with the effect of knocking out
+the estrogen receptor . The estrogen receptor  KO mice
+show an overproduction of mature granulocytes (52). These
+opposing effects on granulopoiesis suggest that both AR and
+ER are required to maintain neutrophil homeostasis.
+In vitro and transgenic mouse studies have demonstrated
+that Stat3 plays an essential role in G-CSF–dependent granu-
+lopoiesis (35, 51, 53–56). Moreover, several reports have
+shown that SOCS3 KO mice, in which Stat3 activity is per-
+sistent, developed severe neutrophilia (57–59). Paradoxically,
+mice with targeted deletion of the Stat3 gene in hematopoi-
+etic cells were also found to develop neutrophilia (60–63).
+Nevertheless, ERK1/2 hyperphosphorylation was found in
+bone marrow cells of Stat3 conditional KO mice, and it has
+been shown to contribute to neutrophilia in those animals
+(63). It is possible that the ERK1/2 hyperactivation results
+from SHP–Grb2–Src binding to available Stat3 docking sites
+on G-CSF receptor and overactivating the Ras–Raf–ERK
+signaling cascade. This possible signal crossover has been sug-
+gested in some reports showing that G-CSFR truncated mu-
+tants lacking the receptor C terminus, which contains tyrosine
+Y764 (the default docking site for SHP-2/Grb2), still have
+the ability to activate p21Ras via the SHP/Grb2 route linked
+to Y704 (the stat3 docking site) of the G-CSFR (41, 64).
+Clearly, further investigation is still required to determine the
+precise role of Stat3 in neutrophil development.
+Several KO models have been established for genes in-
+volved in the regulation of myelopoiesis. C/EBP/ mice
+have circulating myeloblast-like cells but lack mature neutro-
+phils in vivo at birth. Although it was found that a lower
+PU.1:C/EBP ratio directs granulocytic differentiation over
+macrophage differentiation in myeloid cell fate determina-
+tion, a PU.1/ mice study demonstrated that PU.1 is not
+essential for neutrophil lineage commitment, but is necessary
+for normal development, maturation, and function of neu-
+trophils. Gfi/ mice are severely neutropenic and accumu-
+late immature monocytic cells in blood and bone marrow.
+We found the mRNA levels of PU.1, C/EBP, and Gfi in
+ARKO bone marrow neutrophils are comparable to those
+detected in WT neutrophils (unpublished data), indicating
+that C/EBP, PU.1, and Gfi might not account for the gran-
+ulopoietic defect observed in ARKO mice. Notably, a few
+mature neutrophils can still be observed in G-CSF/,
+G-CSFR/, and G-CSF/GM-CSF/M-CSF/ mice (5,
+65, 66), suggesting that a myeloid-CSF independent mecha-
+nism exists in basal granulopoiesis. It might be interesting to
+further study whether AR also modulates a myeloid–CSF-
+independent pathway.
+Androgens can stimulate erythropoiesis and have been used
+clinically for treatment of aplastic anemia (26, 27). However, our
+data (Table I A) indicate that red blood cell numbers and hemo-
+globin levels in WT and ARKO mice are similar, suggesting
+that AR is not required for steady-state erythrocyte production
+under physiological conditions. These results, however, are at
+odds with early reports showing that androgens could stimulate
+erythropoiesis (67). The diverse effect on erythropoiesis by dif-
+ferent androgen derivatives is indicative of the complexity of an-
+drogen control in erythropoiesis. 5-DHT binds to the AR and
+might stimulate erythropoiesis indirectly by increasing levels of
+erythropoietin, whereas 5 epimers (5-DHT and etiocholan­
+olone) do not bind to the AR, yet effectively increase the
+number of erythropoietic progenitor cells, thereby also en-
+hancing erythropoiesis (68–73). It will be interesting to study if
+androgen stimulates erythropoiesis through an AR-indepen-
+dent pathway.
+In summary, the data presented here indicate AR is es-
+sential for steady-state granulopoiesis. Further studies that ex-
+plore potential cross talk between AR and other myeloid
+regulators in granulopoiesis might help reveal a better under-
+standing of how cell signaling networks tightly control neu-
+trophil homeostasis.
+MATERIALS AND METHODS
+Mice. Construction of targeting vectors and generation of the chimera
+founder mice have been previously described (12). The original strain back-
+ground of the mosaic founder mice was C57BL6/129sv. We have generated
+floxed AR mice with a nearly pure C57BL/6 background by backcrossing
+the original C57BL6/129sv background floxed AR mice with pure C57BL/6
+background mice for more than eight generations. -Actin is constitutively
+and ubiquitously expressed; thus, the -actin promoter-driven Cre (ACTB-
+Cre, FVB background; The Jackson Laboratory) will express and delete
+floxed AR fragments in all the tissues. WT and ARKO mice were genotyped
+1196 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+creased neutrophil counts from smoking and infections were also prevented,
+and the results are statistically analyzed. We requested coded data from chart
+reviews that include only patient diagnosis, treatments, time of blood drawn,
+and blood analysis data.
+FACS detection of BrdU-labeled neutrophils, cell cycle analysis,
+and apoptosis assays. The immunofluorescent staining of intracellular
+BrdU incorporation has been previously described (74). To study cycling
+status of granulocytes, we first stained bone marrow cells with FITC-Gr-1
+antibody, fixed cells in 70% ethanol and removed residual RNA by RNase
+A, and then further stained them with propidium iodide (final concentration
+5 µg/ml) for analysis by a FACSCalibur flow cytometer. Data were further
+analyzed using CellQuest Software (BD) for DNA histogram analysis of Gr-1+
+cells. For neutrophil apoptosis assays, bone marrow cells were stained
+with Annexin-V and 7-AAD. High-SSC cell population was then gated for
+apoptosis analysis.
+Hematopoietic progenitor cell assay. Single-cell suspensions of bone
+marrow (2.5 × 104 cells) in methylcellulose medium (MethoCult M3234,
+Stem Cell Technologies) were plated in 35-mm Petri dishes in triplicate and
+incubated at 37°C. Purified recombinant murine (rm)G-CSF (10 ng/ml),
+rmGM-CSF (10 ng/ml), rmM-CSF (10 ng/ml), rmIL-3 (10 ng/ml), and
+rmIL-6 (400 ng/ml) (R&D Systems) were used.
+RNA analysis. Neutrophils were isolated by EasySep selection kit (Stem Cell
+Technologies) and total RNA was extracted from cells using TRIzol reagent
+(Invitrogen). We performed reverse transcription using Superscript II reverse
+transcription and oligo-dT primers (Invitrogen) on 250 ng of total RNA. In
+semiquantitative RT-PCR, cDNA was diluted 5, 25, 50, and 100 times, and
+an aliquot (2 µl) of the reverse transcription reaction was subjected to PCR in
+a thermocycler (MyCycler; BioRad Laboratories). -Actin was used as an in-
+ternal control. Q-PCR was performed in a final volume of 25 µl containing
+1 µg cDNA, 12.5 µl SYBR Green Mix (2X), 6 pmol of each primer set. The
+primer sequences for Q-PCR are listed in Table S1. The reaction mixtures
+were incubated on a iCycler (BioRad Laboratories) real-time PCR amplifier
+(BioRad Laboratories) programmed at 50°C, 2 min; 95°C 10 min; then 40
+cycles for three steps at 95°C, 15 s to 60°C, 30 s to 72°C, 30 s; and finally at
+70°C for 10 min. HPRT mRNA was used as the internal control. Real-time
+Q-PCR was performed by determining the cycle at which the abundance of
+the accumulated PCR product crosses a specific threshold, the threshold cycle
+(CT) in each reaction. The difference in average CT values between the in-
+ternal control and a specific gene was calculated for each individual and termed
+CT, which is comparable to the log-transformed, normalized mRNA abun-
+dance. For each gene, at least three samples with triplicate amplifications were
+performed and mean ± SD taken for data analysis.
+Construction. The retroviral vectors pBabe-AR and pBabe-PIAS3 were
+constructed by ligating digested PCR products of AR and PIAS3 cDNA into
+a pBabe vector containing the SV40 promoter-driven GFP. To generate vec-
+tors for siRNA expression, the pSuperior-GFP-neo vector (OligoEngine) was
+digested and the annealed oligonucleotides were ligated into the vector. The
+nucleotide sequences for targeting mouse AR, PIAS3, and Stat3 were de-
+signed as 5-TCTAGCCTCAATGAGCTTG-3, 5-gccactgccct­
+tctatgaa-3, and 5-agccgatctaggcagatg-3, respectively.
+Scrambled control shRNA unrelated to AR, PIAS3, and Stat3 sequences were
+used as negative controls. hAR-siRNA was described previously (13).
+Isolation of GMP precursor cells. The myeloid-committed precursor
+populations from murine bone marrow were isolated by first depleting lin-
+eage marker–positive cells by means of immunomagnetic beads. The re-
+maining cells were then stained with goat anti–rat immunoglobulin Texas
+red and anti–c-kit–APC and then enrichment sorted for Lin c-kit+ cells.
+The enrichment-sorted cells were then stained with anti-FcRII/III
+(CD16/32)–FITC, anti–c-kit–APC, anti–IL-7R–Alexa Fluor 594, anti–
+Sca-1–Alexa Fluor 594, and anti–CD34-biotin, followed by PE-avidin. The
+by PCR, as described previously (12). Male Tfm and WT control mice
+(C57BL/6J-A-Ta[6J]+/Y) were purchased from The Jackson Laboratory. All
+animal experiments were approved by the University Committee on Animal
+Resources of the University of Rochester.
+Castration. Castration was performed under anesthesia using sterile instruments
+and gloves. A transverse scrotal incision was made, the testicles were exposed, the
+vas deferens and spermatic blood vessels were ligated, and the testicles were re-
+moved. A sham operation was performed for noncastrated controls in which the
+testis and epididymis were only pulled out and then returned to the scrotum.
+The scrotal incision was closed using a single skin clip. Animals were placed in a
+clean cage and monitored until fully recovered from anesthesia.
+Androgen supplementation. Androgen supplementation in castrated WT
+mice and ARKO littermates was achieved by subcutaneous implantation of
+60-d time-release pellets (Innovative Research of America) containing DHT
+(5 mg per pellet); mice were sacrificed 14 d after androgen supplementation.
+The levels of plasma DHT were determined by a DHT ELISA Kit (Alpha
+Diagnostic International) according to the manufacturer’s protocol.
+Blood and bone marrow sampling. Between 6 a.m. and 8 a.m., we col-
+lected peripheral blood through cardiac puncture using a heparinized 3-ml sy-
+ringe with a 30-gauge needle on mice under anesthesia. We dissected the
+femur free from the muscle, and then cut both at the knee and hip for removal.
+We removed bone marrow from each femur by flushing with 1 ml RPMI
+1640 (using a 26-gauge needle and a 1-ml syringe) into a single well of a 6-well
+culture plate.
+Cytology and automated hematology analysis. Bone marrow smears,
+blood smears, and cytospin preparations were stained with Wright-Giemsa
+for morphological assessment and manual differential counting. Hematologic
+parameters from blood samples obtained from 8–12-wk-old mice were mea-
+sured using an Abbot CELL-DYN 4000 system.
+Cell isolation. We isolated neutrophils from bone marrow or peripheral
+blood by using the EasySep selection kit (StemCell Technologies) according to
+the manufacturer’s suggested procedures. Mature bone marrow neutrophils
+were isolated by discontinuous Percoll density gradient centrifugation.
+Cell staining and FACS analysis. 1–5 × 105 cells were incubated on ice for
+30 min with saturating amounts of antibody. Cells were washed with ice-cold
+PBS containing 2% fetal bovine serum, and flow cytometric analyses were
+performed using a dual-laser FACSCalibur flow cytometer (BD). For analysis
+of white blood cell populations, we set gates to include those cells that were
+CD45+ and viable by FSC and SSC scan profiles. Neutrophils were stained by
+fluorochrome-conjugated, neutrophil-specific monoclonal antibodies (clone
+7/4; Invitrogen) or anti–Gr-1 antibodies (clone RB6-8C5; eBioscience). For
+intracellular AR staining, after cells were incubated with fixative buffer (2%
+paraformaldehyde) and permeabilized with permeabilization solution (0.1%
+saponin in PBS containing 2% fetal bovine serum), intracellular AR was
+stained by anti-AR antibody (clone C-19; Santa Cruz Biotechnology, Inc.),
+followed by fluorochrome-conjugated anti–rabbit IgG antibodies. Data were
+collected and analyzed from at least 10,000 gated events using CellQuest soft-
+ware (BD). To assess surface G-CSFR expression, G-CSF was biotinylated.
+Bone marrow Gr-1+ cells were incubated at 48°C for 1 h with biotinylated
+G-CSF (25 ng per 106 cells) in the presence or absence of a 100-fold molar ex-
+cess of nonlabeled G-CSF, followed by incubation with FITC-conjugated
+streptavidin. All cells were analyzed on a FACSCalibur flow cytometer.
+Neutrophil differential counts in humans before and after androgen
+ablation. We collaborated with the Department of Urology at the Sir Run
+Run Shaw Hospital to collect blood analysis data from each patient before
+and after surgical castration (0–2 wk before castration and 2–4 wk after castra-
+tion). Appropriate data excluded any patients receiving radiation therapy
+and/or chemotherapy. Diurnal rhythms of neutrophil counts and possible in-
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1197
+[35S]methionine-labeled proteins (2 µl) generated with the TNT-coupled
+reticulocyte lysate system (Promega) were mixed with the glutathione–Sep-
+harose-bound GST proteins at 4°C for 3 h to perform the pull-down assay.
+The bound proteins were separated on a 10% or 15% SDS-polyacrylamide
+gel and visualized by PhosphorImager (GE Healthcare).
+In vitro proliferative activity. In the presence or absence of G-CSF
+(10 ng/ml), bone marrow mononuclear cells (106/ml) were incubated in RPMI
+with or without U0126 (20 µM). After 3 d, 0.5 µCi 3H-thymidine was added
+and the cells were cultured for an additional 8 h. Proliferative activity was then
+determined by 3H-thymidine incorporation.
+Assessment of phagocytosis and oxidative burst assays. Heparinized
+blood was incubated with opsonized fluorescein-labeled E. coli (Invitrogen)
+either at 37°C or at 0°C (control) for 10 min. After erythrocyte lysis, cells were
+washed twice and then stained with CyChrome–anti-Gr-1 antibodies. Oxida-
+tive burst in response to PMA was evaluated by detecting the intracellular con-
+versionofdichlorofluoresceindiacetate(DCFH-DA)to2,7-dichlorofluorescein
+by flow cytometry. Leukocytes were stained with CyChrome–anti-Gr-1 anti-
+bodies and cells were mixed with 10 µM DCFH-DA and 10 nM PMA for
+5 min at 37°C. We examined intracellular 2,7 dichlorofluorescein content in
+WT and ARKO Gr-1+ cells. 10,000 gated Gr-1+ cells were analyzed using
+CellQuest software. We isolated fresh mature bone marrow neutrophils by
+discontinuous Percoll density gradient centrifugation to perform oxidative
+burst assays in response to fMLP (1 µM) or C5a (1 µg/ml).
+Neutrophil migration. Fresh WT and ARKO mature bone marrow neu-
+trophils were obtained by discontinuous Percoll density gradient centrifuga-
+tion. Neutrophils (5 × 105 cells) were then plated in 3 µm Transwells (Corning)
+with the indicated chemoattractant (200 ng/ml MIP-2, 1 µg/ml KC, or
+0.1 mM fMLP) in the lower chamber. The number of cells migrated through
+the Transwell was determined by cell counting after incubation for 2 h at
+37°C. Over 90% neutrophils remained viable at the end of the assay as judged
+by trypan blue exclusion.
+Neutrophil degranulation. Cells (106/ml) were preincubated with 5 µg/ml
+cytochalasin B for 10 min and then stimulated with 1 µM fMLP, 0.5 µg/ml
+C5a, or 200 nM PMA for 20 min at 37°C. Reactions were stopped by cool-
+ing on ice and cell suspensions were centrifuged. -Glucuronidase activity in
+supernatants of activated cells was measured spectrophotometrically using
+4-methylumbelliferyl--d-glucuronide as substrate (75). -Glucuronidase
+release is presented as the percentage of total cellular content. The secondary
+granule marker lactoferrin was determined by ELISA using anti-lactoferrin
+antibody (Sigma-Aldrich).
+Survival after intraperitoneal infection. 10 WT and 10 ARKO mice
+were administered 5 × 105 colony forming units of E. coli (Serotype O18ac:
+K1:H7; American Type Culture Collection) by intraperitoneal injection and
+were followed for survival over 60 h.
+Statistical analysis. Data are presented as the mean ± SD from at least three
+experiments, and statistical analysis was performed by either two-tailed Stu-
+dent’s t test or one-way analysis of variance. The statistical significance of dif-
+ferences was set at P < 0.05.
+Online supplemental material. Fig.S1 showsAR activity is knockeddown by
+AR siRNA and restored by AR cDNA using retroviral infection in CV-1 cells.
+Fig.S2showsAR-targeteddisruptionincolonycellsderivedfromGMPsinfected
+with retrovirus carrying AR-siRNA. Fig. S3 demonstrates that the oxidative
+burst induced by fMLP or C5a in WT and ARKO neutrophils was comparable.
+Table S1 shows primer sequences for Q-PCR analysis. Online supplemental ma-
+terial is available at http://www.jem.org/cgi/content/full/jem.20082521/DC1.
+The authors are grateful to Karen Wolf and Leroy Hanchett for manuscript
+preparation and thank Marshall Lichtman, James Palis, Stephen Welle, and
+GMP precursor population was sorted as Lin CD16/32+ CD34+ c-kit+
+Sca-1 IL-7R cells.
+Retroviral infection. Phoenix ectrophic cells were grown in DME supple-
+mented with 10% FCS. Cells were typically seeded in 60-mm-diam plates at a
+density of 2.4 × 106 cells per plate and allowed to settle for 18 to 24 h. Cells were
+transfected with 5–10 µg of plasmid DNA using calcium phosphate transfection.
+The media containing the plasmid DNA precipitate were replaced with fresh
+media 16 h after transfection. Retroviral supernatants were collected 48 h after
+transfection from Phoenix cells transfected with the retroviral vector–based con-
+structs and used to infect freshly sorted GMP precursor cells. Infections were
+performed with 1 ml of undiluted supernatant in 2 ml of DME plus 400 µg of
+Polybrene per ml at 37°C. After 4 h of incubation, 2 ml of DME with 10% FCS
+were added and incubated for an additional 20 h.
+Green fluorescent colony formation and differentiation counting.
+After retroviral infection, single-cell suspensions of GMP precursor cells in
+methylcellulose medium (MethoCult M3234; StemCell Technologies Inc.)
+were plated in 35-mm culture dishes in triplicate and incubated at 37°C in the
+presence of rm G-CSF (10 ng/ml) in a humidified incubator maintained at
+5% CO2. After 7 d in culture, the numbers of green fluorescent colonies in
+each dish were counted, and green fluorescent colony cells were collected in
+suspension for cell counting. Cells were cytocentrifuged onto a microscope
+slide and stained with Wright-Giemsa for morphological assessment and 200-
+count manual differential counting.
+In vivo administration of G-CSF. We injected three pairs of WT and
+ARKO littermates subcutaneously with rmG-CSF at 40 ng/g mice from day
+0–8, and then examined blood neutrophil counts 4 h after G-CSF injection
+at the indicated days.
+Reporter gene assays. CV-1 cells were transfected with 4 × IRF-LUC (1.5 µg)
+together with CA-Stat3 (0.5 µg), flag-PIAS3 expression construct (0.5 or
+1.0 µg), and increasing amounts of AR (0.5 or 1.0 µg) with plasmid amount
+balance. The media was changed 2 h after transfection, and cells were cultured
+in media containing 10% charcoal depleted-FBS for 24 h, followed by treat-
+ment with or without 10 nM DHT for another 16–18 h. 5 ng phRL-TK per
+well was used as internal control. Cells were harvested, and the Luc activity
+was analyzed using Dual-Luc Reporter Assay System (Promega).
+Immunoblot analysis of cells infected with retroviruses. We infected
+WT and ARKO GMPs or bone marrow cells with retroviruses carrying
+pBabe-AR, AR-siRNA, or controls. After retroviral infection, single-cell
+suspensions of bone marrow cells in methylcellulose medium were plated in
+culture dishes and incubated at 37°C in the presence of G-CSF (10 ng/ml).
+After 7 to 10 d in culture, colony cells were collected and further incubated
+with or without G-CSF (40 ng/ml) for 30 min, and cells were harvested for
+immunoblot analysis.
+Immunoprecipitation. Cells were lysed in lysis buffer (50 mM Tris–HCl,
+pH 7.4, 0.3 M NaCl containing 1% NP-40, 1 mM sodium orthovanadate,
+1 mM phenylmethylsulfonyl fluoride, and 10 µg/ml each of aprotinin, pep-
+statin, and leupeptin). Cell lysates were immunoprecipitated with anti-PIAS3
+antibody as indicated. The immunoprecipitates from cell lysates were re-
+solved on 5–20% SDS–PAGE and transferred to Immobilon membrane
+(Millipore). The membranes were then probed with each antibody as indi-
+cated. Immunoreactive proteins were visualized using an enhanced chemilu-
+minescence detection system (GE Healthcare) and analyzed using Quantity
+One software (BioRad Laboratories).
+GST pull-down assay. GST-PIAS3 fusion protein and GST protein were
+obtained by transforming expressing plasmids into BL21 (DE3) pLysS strain-
+competent cells followed with 1 mM isopropyl-D-thiogalactoside induc-
+tion. GST fusion proteins were then purified by glutathione–Sepharose 4B
+as instructed by the manufacturer (GE Healthcare). In vitro translated
+1198 NEUTROPENIA IN AR-DEFICIENT MICE | Chuang et al.
+	16.	 Mantalaris, A., N. Panoskaltsis, Y. Sakai, P. Bourne, C. Chang, E.M.
+Messing, and J.H. Wu. 2001. Localization of androgen receptor expres-
+sion in human bone marrow. J. Pathol. 193:361–366.
+	17.	 Byron, J.W. 1970. Effect of steroids on the cycling of haemopoietic stem
+cells. Nature. 228:1204.
+	18.	 Resegotti, L., C. Dolci, L. Bertero, A. Genovese, F. Podesta, and D.
+Testa. 1981. Treatment of aplastic anaemia with methenolone, stanozolol
+and nandrolone. A report of 130 cases. Panminerva Med. 23:243–248.
+	19.	 Udupa, K.B., and K.R. Reissmann. 1974. Acceleration of granulopoietic
+recovery by androgenic steroids in mice made neutropenic by cytotoxic
+drugs. Cancer Res. 34:2517–2520.
+	20.	 DiBenedetto, J. Jr., D.J. Higby, S.J. Chester, and M.M. Albala. 1980.
+Reversal of cyclophosphamide induced neutropenia by hypertransfusion
+and androgen therapy. J. Med. 11:385–392.
+	21.	 Horn, Y., and D.C. Price. 1972. The effect of androgens on erythroid
+and granulocytic marrow recovery in the irradiated rat. Acta Haematol.
+48:300–306.
+	22.	 Horn, Y. 1971. The effect of androgenic hormones on bone marrow of
+rats receiving chemotherapy. Oncology. 25:512–519.
+	23.	 Horn, Y. 1972. A comparison of two androgenic hormones as leuko-
+poietic agents in irradiated rats. Oncology. 26:16–24.
+	24.	 Horn, Y. 1971. Leucopoietic properties of four different androgenic
+hormones in irradiated rats. Scand. J. Haematol. 8:470–475.
+	25.	 D’Alessandro, N., N. Gebbia, F. Biondo, L. Campio, G. Leto, F.
+Tumminello, and L. Rausa. 1979. Haemopoietic effects of 7 alpha, 17
+beta dimethyltestosterone. Pharmacol. Res. Commun. 11:81–94.
+	26.	 Sanchez-Medal, L., J. Pizzuto, E. Torre-Lopez, and R. Derbez. 1964. Effect
+of Oxymetholone in Refractory Anemia. Arch. Intern. Med. 113:721–729.
+	27.	 Sanchez-Medal, L. 1971. The hemopoietic action of androstanes. Prog.
+Hematol. 7:111–136.
+	28.	 Alter, B.P. 1992. Fanconi’s anemia. Current concepts. Am. J. Pediatr.
+Hematol. Oncol. 14:170–176.
+	29.	 Freedman, M.H., and J.J. Doyle. 1999. Chapter 1: Inherited Bone
+Marrow Failure Syndromes. In Pediatric Hematology. Second edition.
+J. Lilleyman, I. Hann, and V. Blanchette, editors. p. 23–49.
+	30.	 Kennedy, B.J. 1965. Stimulation of hematopoiesis by androgenic hor-
+mones. Geriatrics. 20:808–815.
+	31.	 Rawbone,R.G.,andK.D.Bagshawe.1972.Anabolicsteroidsandbonemar-
+row toxicity during therapy with methotrexate. Br. J. Cancer. 26:395–401.
+	32.	 Ibanez, L., A.M. Jaramillo, A. Ferrer, and F. de Zegher. 2005. High
+neutrophil count in girls and women with hyperinsulinaemic hyperan-
+drogenism: normalization with metformin and flutamide overcomes the
+aggravation by oral contraception. Hum. Reprod. 20:2457–2462.
+	33.	 Gaspar, M.L., T. Meo, P. Bourgarel, J.L. Guenet, and M. Tosi. 1991. A
+single base deletion in the Tfm androgen receptor gene creates a short-
+lived messenger RNA that directs internal translation initiation. Proc.
+Natl. Acad. Sci. USA. 88:8606–8610.
+	34.	 de Koning, J.P., A.A. Soede-Bobok, A.C. Ward, A.M. Schelen, C.
+Antonissen, D. van Leeuwen, B. Lowenberg, and I.P. Touw. 2000.
+STAT3-mediated differentiation and survival and of myeloid cells in
+response to granulocyte colony-stimulating factor: role for the cyclin-de-
+pendent kinase inhibitor p27(Kip1). Oncogene. 19:3290–3298.
+	35.	 Shimozaki,K.,K.Nakajima,T.Hirano,andS.Nagata.1997.Involvement
+of STAT3 in the granulocyte colony-stimulating factor-induced differ-
+entiation of myeloid cells. J. Biol. Chem. 272:25184–25189.
+	36.	 Furutani, T., T. Watanabe, K. Tanimoto, T. Hashimoto, H. Koutoku, M.
+Kudoh, Y. Shimizu, S. Kato, and H. Shikama. 2002. Stabilization of an-
+drogen receptor protein is induced by agonist, not by antagonists. Biochem.
+Biophys. Res. Commun. 294:779–784.
+	37.	 Zhou, Z.X., M.V. Lane, J.A. Kemppainen, F.S. French, and E.M.
+Wilson. 1995. Specificity of ligand-dependent androgen receptor stabi-
+lization: receptor domain interactions influence ligand dissociation and
+receptor stability. Mol. Endocrinol. 9:208–218.
+	38.	 Antonio, J., J.D. Wilson, and F.W. George. 1999. Effects of castra-
+tion and androgen treatment on androgen-receptor levels in rat skeletal
+muscles. J. Appl. Physiol. 87:2016–2019.
+	39.	 Chung, C.D., J. Liao, B. Liu, X. Rao, P. Jay, P. Berta, and K. Shuai.
+1997. Specific inhibition of Stat3 signal transduction by PIAS3. Science.
+278:1803–1805.
+Alexandra Livingstone for critical review. We thank Ke Shuai and Daniel Link for
+sharing PIAS3, 4 × IRF-Luc, pMSCV-Stat3C (CA-Stat3), and pMSCV-Stat3D (DN-
+Stat3) plasmids. This work was supported by National Institutes of Health Grant
+DK073414 and the George Whipple Professorship Endorsement.
+The authors have no conflicting financial interests.
+Submitted: 6 November 2008
+Accepted: 13 April 2009
+REFERENCES
+	 1.	 Demetri, G.D., and J.D. Griffin. 1991. Granulocyte colony-stimulating
+factor and its receptor. Blood. 78:2791–2808.
+	 2.	 Souza, L.M., T.C. Boone, J. Gabrilove, P.H. Lai, K.M. Zsebo, D.C.
+Murdock, V.R. Chazin, J. Bruszewski, H. Lu, K.K. Chen, et al. 1986.
+Recombinant human granulocyte colony-stimulating factor: effects on
+normal and leukemic myeloid cells. Science. 232:61–65.
+	 3.	 Rex, J.H., S.C. Bhalla, D.M. Cohen, J.P. Hester, S.E. Vartivarian, and
+E.J. Anaissie. 1995. Protection of human polymorphonuclear leukocyte
+function from the deleterious effects of isolation, irradiation, and storage by
+interferon-gamma and granulocyte-colony-stimulating factor. Transfusion.
+35:605–611.
+	 4.	 Lord, B.I., M.H. Bronchud, S. Owens, J. Chang, A. Howell, L. Souza, and
+T.M. Dexter. 1989. The kinetics of human granulopoiesis following treat-
+ment with granulocyte colony-stimulating factor in vivo. Proc. Natl. Acad.
+Sci. USA. 86:9499–9503.
+	 5.	 Lieschke, G.J., D. Grail, G. Hodgson, D. Metcalf, E. Stanley, C. Cheers,
+K.J. Fowler, S. Basu, Y.F. Zhan, and A.R. Dunn. 1994. Mice lacking
+granulocyte colony-stimulating factor have chronic neutropenia, granulo-
+cyte and macrophage progenitor cell deficiency, and impaired neutrophil
+mobilization. Blood. 84:1737–1746.
+	 6.	 Nazareth, L.V., and N.L. Weigel. 1996. Activation of the human andro-
+gen receptor through a protein kinase A signaling pathway. J. Biol. Chem.
+271:19900–19907.
+	 7.	 Culig, Z., A. Hobisch, M.V. Cronauer, C. Radmayr, J. Trapman, A.
+Hittmair, G. Bartsch, and H. Klocker. 1994. Androgen receptor activation
+in prostatic tumor cell lines by insulin-like growth factor-I, keratinocyte
+growth factor, and epidermal growth factor. Cancer Res. 54:5474–5478.
+	 8.	 Yeh, S., H.K. Lin, H.Y. Kang, T.H. Thin, M.F. Lin, and C. Chang. 1999.
+From HER2/Neu signal cascade to androgen receptor and its coactivators:
+a novel pathway by induction of androgen target genes through MAP
+kinase in prostate cancer cells. Proc. Natl. Acad. Sci. USA. 96:5458–5463.
+	 9.	 Xie, Y., D.W. Wolff, M.F. Lin, and Y. Tu. 2007. Vasoactive intesti-
+nal peptide transactivates the androgen receptor through a protein kinase
+A-dependent extracellular signal-regulated kinase pathway in prostate
+cancer LNCaP cells. Mol. Pharmacol. 72:73–85.
+	10.	 Kasbohm, E.A., R. Guo, C.W. Yowell, G. Bagchi, P. Kelly, P. Arora,
+P.J. Casey, and Y. Daaka. 2005. Androgen receptor activation by G(s)
+signaling in prostate cancer cells. J. Biol. Chem. 280:11583–11589.
+	11.	 Migliaccio, A., G. Castoria, M. Di Domenico, A. de Falco, A. Bilancio, M.
+Lombardi, M.V. Barone, D. Ametrano, M.S. Zannini, C. Abbondanza, and
+F. Auricchio. 2000. Steroid-induced androgen receptor-oestradiol recep-
+tor beta-Src complex triggers prostate cancer cell proliferation. EMBO J.
+19:5406–5417.
+	12.	 Yeh, S., M.Y. Tsai, Q. Xu, X.M. Mu, H. Lardy, K.E. Huang, H. Lin, S.D.
+Yeh, S. Altuwaijri, X. Zhou, et al. 2002. Generation and characterization
+of androgen receptor knockout (ARKO) mice: an in vivo model for the
+study of androgen functions in selective tissues. Proc. Natl. Acad. Sci. USA.
+99:13498–13503.
+	13.	 Yeh, S., Y.C. Hu, P.H. Wang, C. Xie, Q. Xu, M.Y. Tsai, Z. Dong, R.S.
+Wang, T.H. Lee, and C. Chang. 2003. Abnormal mammary gland devel-
+opment and growth retardation in female mice and MCF7 breast cancer
+cells lacking androgen receptor. J. Exp. Med. 198:1899–1908.
+	14.	 Hu, Y.C., P.H. Wang, S. Yeh, R.S. Wang, C. Xie, Q. Xu, X. Zhou,
+H.T. Chao, M.Y. Tsai, and C. Chang. 2004. Subfertility and defective
+folliculogenesis in female mice lacking androgen receptor. Proc. Natl. Acad.
+Sci. USA. 101:11209–11214.
+	15.	 Matsumoto, T., H. Shiina, H. Kawano, T. Sato, and S. Kato. 2008.
+Androgen receptor functions in male and female physiology. J. Steroid
+Biochem. Mol. Biol. 109:236–241.
+JEM VOL. 206, May 11, 2009
+ARTICLE
+1199
+results in neutrophil expansion and induces a distinct, antiapoptotic and
+pro-oncogenic gene expression pattern. J. Leukoc. Biol. 82:975–985.
+	57.	 Croker, B.A., D. Metcalf, L. Robb, W. Wei, S. Mifsud, L. DiRago,
+L.A. Cluse, K.D. Sutherland, L. Hartley, E. Williams, et al. 2004.
+SOCS3 is a critical physiological negative regulator of G-CSF signaling
+and emergency granulopoiesis. Immunity. 20:153–165.
+	58.	 Kimura, A., I. Kinjyo, Y. Matsumura, H. Mori, R. Mashima, M. Harada,
+K.R. Chien, H. Yasukawa, and A. Yoshimura. 2004. SOCS3 is a physi-
+ological negative regulator for granulopoiesis and granulocyte colony-
+stimulating factor receptor signaling. J. Biol. Chem. 279:6905–6910.
+	59.	 Jenkins, B.J., A.W. Roberts, M. Najdovska, D. Grail, and M. Ernst.
+2005. The threshold of gp130-dependent STAT3 signaling is critical for
+normal regulation of hematopoiesis. Blood. 105:3512–3520.
+	60.	 Takeda, K., B.E. Clausen, T. Kaisho, T. Tsujimura, N. Terada, I. Forster,
+and S. Akira. 1999. Enhanced Th1 activity and development of chronic
+enterocolitis in mice devoid of Stat3 in macrophages and neutrophils.
+Immunity. 10:39–49.
+	61.	 Lee, C.K., R. Raz, R. Gimeno, R. Gertner, B. Wistinghausen, K.
+Takeshita, R.A. DePinho, and D.E. Levy. 2002. STAT3 is a negative
+regulator of granulopoiesis but is not required for G-CSF-dependent
+differentiation. Immunity. 17:63–72.
+	62.	 Welte, T., S.S. Zhang, T. Wang, Z. Zhang, D.G. Hesslein, Z. Yin, A.
+Kano, Y. Iwamoto, E. Li, J.E. Craft, et al. 2003. STAT3 deletion dur-
+ing hematopoiesis causes Crohn’s disease-like pathogenesis and lethality:
+a critical role of STAT3 in innate immunity. Proc. Natl. Acad. Sci. USA.
+100:1879–1884.
+	63.	 Kamezaki, K., K. Shimoda, A. Numata, T. Haro, H. Kakumitsu, M.
+Yoshie, M. Yamamoto, K. Takeda, T. Matsuda, S. Akira, et al. 2005.
+Roles of Stat3 and ERK in G-CSF signaling. Stem Cells. 23:252–263.
+	64.	 de Koning, J.P., A.A. Soede-Bobok, A.M. Schelen, L. Smith, D. van
+Leeuwen, V. Santini, B.M. Burgering, J.L. Bos, B. Lowenberg, and I.P.
+Touw. 1998. Proliferation signaling and activation of Shc, p21Ras, and
+Myc via tyrosine 764 of human granulocyte colony-stimulating factor re-
+ceptor. Blood. 91:1924–1933.
+	65.	 Liu, F., H.Y. Wu, R. Wesselschmidt, T. Kornaga, and D.C. Link. 1996.
+Impaired production and increased apoptosis of neutrophils in granulocyte
+colony-stimulating factor receptor-deficient mice. Immunity. 5:491–501.
+	66.	 Hibbs, M.L., C. Quilici, N. Kountouri, J.F. Seymour, J.E. Armes, A.W.
+Burgess, and A.R. Dunn. 2007. Mice lacking three myeloid colony-stimu-
+lating factors (G-CSF, GM-CSF, and M-CSF) still produce macrophages
+and granulocytes and mount an inflammatory response in a sterile model of
+peritonitis. J. Immunol. 178:6435–6443.
+	67.	 Fried, W., and C. Morley. 1985. Effects of androgenic steroids on eryth-
+ropoiesis. Steroids. 46:799–826.
+	68.	 Gardner, F.H., and E.C. Besa. 1983. Physiologic mechanisms and the
+hematopoietic effects of the androstanes and their derivatives. Curr. Top.
+Hematol. 4:123–195.
+	69.	 Beckman, B., B. Maddux, A. Segaloff, and J.W. Fisher. 1981. Effects of
+testosterone and 5 beta-androstanes on in vitro erythroid colony formation
+in mouse bone marrow. Proc. Soc. Exp. Biol. Med. 167:51–54.
+	70.	 Besa, E.C., and L.P. Bullock. 1981. The role of the androgen receptor
+in erythropoiesis. Endocrinology. 109:1983–1989.
+	71.	 Mooradian, A.D., J.E. Morley, and S.G. Korenman. 1987. Biological
+actions of androgens. Endocr. Rev. 8:1–28.
+	72.	 Claustres, M., and C. Sultan. 1988. Androgen and erythropoiesis: evi-
+dence for an androgen receptor in erythroblasts from human bone mar-
+row cultures. Horm. Res. 29:17–22.
+	73.	 Besa, E.C. 1994. Hematologic effects of androgens revisited: an alternative
+therapy in various hematologic conditions. Semin. Hematol. 31:134–145.
+	74.	 Basu, S., G. Hodgson, M. Katz, and A.R. Dunn. 2002. Evaluation of role
+of G-CSF in the production, survival, and release of neutrophils from bone
+marrow into circulation. Blood. 100:854–861.
+	75.	 Dewald, B., and M. Baggiolini. 1986. Methods for assessing exocytosis
+by neutrophil leukocytes. Methods Enzymol. 132:267–277.
+	40.	 Minami, M., M. Inoue, S. Wei, K. Takeda, M. Matsumoto, T.
+Kishimoto, and S. Akira. 1996. STAT3 activation is a critical step in
+gp130-mediated terminal differentiation and growth arrest of a myeloid
+cell line. Proc. Natl. Acad. Sci. USA. 93:3963–3966.
+	41.	 Ward, A.C., L. Smith, J.P. de Koning, Y. van Aesch, and I.P. Touw.
+1999. Multiple signals mediate proliferation, differentiation, and survival
+from the granulocyte colony-stimulating factor receptor in myeloid 32D
+cells. J. Biol. Chem. 274:14956–14962.
+	42.	 Wang, L., M.O. Arcasoy, S.S. Watowich, and B.G. Forget. 2005.
+Cytokine signals through STAT3 promote expression of granulocyte sec-
+ondary granule proteins in 32D cells. Exp. Hematol. 33:308–317.
+	43.	 Numata, A., K. Shimoda, K. Kamezaki, T. Haro, H. Kakumitsu, K. Shide,
+K. Kato, T. Miyamoto, Y. Yamashita, Y. Oshima, et al. 2005. Signal trans-
+ducers and activators of transcription 3 augments the transcriptional activity
+of CCAAT/enhancer-binding protein alpha in granulocyte colony-stimu-
+lating factor signaling pathway. J. Biol. Chem. 280:12621–12629.
+	44.	 Corey, S.J., A.L. Burkhardt, J.B. Bolen, R.L. Geahlen, L.S. Tkatch, and
+D.J. Tweardy. 1994. Granulocyte colony-stimulating factor receptor sig-
+naling involves the formation of a three-component complex with Lyn and
+Syk protein-tyrosine kinases. Proc. Natl. Acad. Sci. USA. 91:4683–4687.
+	45.	 Matsuda, T., and T. Hirano. 1994. Association of p72 tyrosine kinase
+with Stat factors and its activation by interleukin-3, interleukin-6, and
+granulocyte colony-stimulating factor. Blood. 83:3457–3461.
+	46.	 Del Rio, L., S. Bennouna, J. Salinas, and E.Y. Denkers. 2001. CXCR2
+deficiency confers impaired neutrophil recruitment and increased suscep-
+tibility during Toxoplasma gondii infection. J. Immunol. 167:6503–6509.
+	47.	 Boulay, F., M. Tardif, L. Brouchon, and P. Vignais. 1990. The human
+N-formylpeptide receptor. Characterization of two cDNA isolates and
+evidence for a new subfamily of G-protein-coupled receptors. Biochemistry.
+29:11123–11133.
+	48.	 Bozic, C.R., N.P. Gerard, C. von Uexkull-Guldenband, L.F. Kolakowski
+Jr., M.J. Conklyn, R. Breslow, H.J. Showell, and C. Gerard. 1994. The
+murineinterleukin8typeBreceptorhomologueanditsligands.Expression
+and biological characterization. J. Biol. Chem. 269:29355–29358.
+	49.	 Lee, J., G. Cacalano, T. Camerato, K. Toy, M.W. Moore, and W.I.
+Wood. 1995. Chemokine binding and activities mediated by the mouse
+IL-8 receptor. J. Immunol. 155:2158–2164.
+	50.	 Gao, J.L., E.J. Lee, and P.M. Murphy. 1999. Impaired antibacterial host
+defense in mice lacking the N-formylpeptide receptor. J. Exp. Med.
+189:657–662.
+	51.	 Panopoulos, A.D., L. Zhang, J.W. Snow, D.M. Jones, A.M. Smith,
+K.C. El Kasmi, F. Liu, M.A. Goldsmith, D.C. Link, P.J. Murray, and
+S.S. Watowich. 2006. STAT3 governs distinct pathways in emergency
+granulopoiesis and mature neutrophils. Blood. 108:3682–3690.
+	52.	 Shim, G.J., L. Wang, S. Andersson, N. Nagy, L.L. Kis, Q. Zhang, S.
+Makela, M. Warner, and J.A. Gustafsson. 2003. Disruption of the estro-
+gen receptor beta gene in mice causes myeloproliferative disease resem-
+bling chronic myeloid leukemia with lymphoid blast crisis. Proc. Natl.
+Acad. Sci. USA. 100:6694–6699.
+	53.	 McLemore, M.L., S. Grewal, F. Liu, A. Archambault, J. Poursine-
+Laurent, J. Haug, and D.C. Link. 2001. STAT-3 activation is required
+for normal G-CSF-dependent proliferation and granulocytic differentia-
+tion. Immunity. 14:193–204.
+	54.	 Panopoulos, A.D., D. Bartos, L. Zhang, and S.S. Watowich. 2002.
+Control of myeloid-specific integrin alpha Mbeta 2 (CD11b/CD18) ex-
+pression by cytokines is regulated by Stat3-dependent activation of PU.1.
+J. Biol. Chem. 277:19001–19007.
+	55.	 Hermans,M.H.,C.Antonissen,A.C.Ward,A.E.Mayen,R.E.Ploemacher,
+and I.P. Touw. 1999. Sustained receptor activation and hyperproliferation
+in response to granulocyte colony-stimulating factor (G-CSF) in mice with
+a severe congenital neutropenia/acute myeloid leukemia-derived mutation
+in the G-CSF receptor gene. J. Exp. Med. 189:683–692.
+	56.	 Redell, M.S., A. Tsimelzon, S.G. Hilsenbeck, and D.J. Tweardy. 2007.
+Conditional overexpression of Stat3alpha in differentiating myeloid cells
+

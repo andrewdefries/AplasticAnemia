@@ -1,0 +1,1930 @@
+REVIEW Open Access
+Beyond DNA binding - a review of the potential
+mechanisms mediating quinacrine’s therapeutic
+activities in parasitic infections, inflammation,
+and cancers
+Reza Ehsanian1,2,3*
+, Carter Van Waes1
+and Stephan M Feller 3
+Abstract
+This is an in-depth review of the history of quinacrine as well as its pharmacokinetic properties and established
+record of safety as an FDA-approved drug. The potential uses of quinacrine as an anti-cancer agent are discussed
+with particular attention to its actions on nuclear proteins, the arachidonic acid pathway, and multi-drug resistance,
+as well as its actions on signaling proteins in the cytoplasm. In particular, quinacrine’s role on the NF-B, p53, and
+AKT pathways are summarized.
+Nomenclature and chemical grouping
+Quinacrine (IUPAC name 4-N-(6-chloro-2-methoxyacri-
+din-9-yl)-1-N,1-N-diethylpentane-1,4-diamine) is a het-
+erocyclic three-ring compound (Figure 1A), and an
+acridine (Figure 1B) derivative (9-aminoacridine). It is
+readily available as quinacrine dihydrochloride, the dihy-
+drochloride salt of quinacrine, for clinical use. The
+interest in quinacrine stems from its long history of
+therapeutic uses, as will be discussed in the following
+sections, and in particular its potential antineoplastic
+activities.
+Quinacrine formulations and isomers are known by
+numerous designations some of which are: acrichine,
+Atabrine®
+, atebrine, atebrin, mepacrine, quinacrine dihy-
+drochloride, quinacrine dihydrochloride dihydrate,
+quinacrine dihyrochloride (R)-isomer, quinacrine dihyr-
+ochloride (S)-isomer, quinacrine dimesylate, quinacrine
+hydrochloride, quinacrine monoacetate, quinacrine
+monohydrochloride, quinacrine monomesylate, quina-
+crine (R)-isomer, quinacrine (S)-isomer, and 6-chloro-9-
+[[4-(diethylamino)-1 methylbutyl]amino]-2-methoxyacri-
+dine. The most commonly used designations for quina-
+crine are mepacrine, quinacrine hydrochloride,
+quinacrine dihydrochloride, and the registered name
+Atabrine®
+. Quinacrine is one of several known aminoa-
+cridines which include, for example, acridine orange,
+acriflavine, aminacrin, amsacrine, ethacridine, nitracrine,
+proflavine and tacrine and which have a range of biolo-
+gical and therapeutic applications. Table 1 summarizes
+some of the key biological and therapeutic applications
+of these compounds.
+History of quinacrine
+Originally developed as pigments and dyes, the pharma-
+logical properties of acridine compounds were first
+investigated by Ehrlich and Benda in 1912, as antiproto-
+zoal agents that act upon trypanosome parasites and
+developed further by Carl Browning as antibacterial
+agents [1-3]. The use of acridines as antibacterial agents
+fell out of favor in the 1940’s after the discovery and
+wide spread availability of penicillin to combat bacterial
+infections. However, from the 1940’s to the present day
+acridines have found wide use as antimalarial agents
+with Atabrine®
+(quinacrine) being one of the acridine
+derivatives successfully used to combat the disease.
+Atabrine®
+was discovered as part of an intensive antimi-
+crobial research program broadly based on biologically
+active dyes carried out in 1930’s in the German labora-
+tories of I.G. Farbenindustrie. The program covered the
+preparation and trial of over 12,000 compounds leading
+* Correspondence: rezae@stanford.edu
+1
+Tumor Biology Section, Head and Neck Surgery Branch, National Institute
+on Deafness and Other Communication Disorders, National Institutes of
+Health, Bethesda, MD, USA
+Full list of author information is available at the end of the article
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+© 2011 Ehsanian et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+to the identification of pamaquine and quinacrine as
+potential therapeutic agents [4].
+Quinacrine was re-discovered in American labora-
+tories as “American Atabrine” during the Second World
+War when an alternative to quinine was needed for the
+treatment of malaria [4]. The outcomes from the use of
+quinacrine in the armed forces demonstrated it to be
+superior to quinine and made it the official medicine for
+the treatment of malaria [5] until 1945 when it was sub-
+stituted by chloroquine [6]. Before the substitution, mil-
+lions of military personal took Atabrine®
+for
+prophylaxis. This allowed physicians in the US armed
+forces to conduct extensive follow-up studies and pro-
+vide health professionals with detailed information on
+the side effects and toxicity of quinacrine, making it
+among the best studied drugs ever introduced. Three
+million soldiers took the drug for up to four years in the
+controlled setting of the military service where arguably
+compliance and follow up rates are much better than in
+a typical study in the civilian population [7-9].
+Throughout the years, the use of quinacrine has con-
+tinued attaining FDA-approval for the treatment of dis-
+eases such as malaria, giardiasis [10-13] and tapeworm
+infection [14-16]. Its therapeutic effectiveness has also
+been demonstrated in controlled studies in combating
+refractory lupus erythematosus [17-22], rheumatoid
+arthritis [21,23], and as an adjuvant cancer therapy
+[24,25]. In addition, quinacrine has been used as an
+intrapleural sclerosing agent to prevent recurrence of
+pleural effusion or pneumothorax in patients at high
+risk of recurrence, resulting in painless pleurodesis and
+remission of fluid and/or air collections [26-30]. Quina-
+crine has also been used for regional cancer therapy of
+pericardial and abdominal effusions with an ~25-50%
+responses rate [31]. Due to its effectiveness as a scleros-
+ing agent, quinacrine has also been utilized for contra-
+ceptive purposes. It produces an asymptomatic fibrosis
+and occlusion of the fallopian canal [32-35]. It should
+be noted that for some of these conditions quinacrine
+has been superseded by other agents, however the use
+of quinacrine has to date not become contraindicated
+due to safety concerns. Quinacrine is currently being
+clinically tested in the treatment of Creutzfeldt-Jakob
+disease through the National Institute of Aging (NIA)
+[ClinicalTrials.gov Identifier: NCT00183092] and
+Figure 1 Structures of acridine and the acridine family member
+quinacrine. (A) Chemical structure of the acridine family member
+quinacrine. (B) Chemical structure of acridine.
+Table 1 Selected aminoacridines and their typical applications
+Acridine
+orange
+A cationic cytochemical stain specific for cell nuclei, especially DNA. It is used as a supravital stain and in fluorescence cytochemistry.
+It may cause mutations in microorganisms.
+Acriflavine 3,6-Diamino-10-methylacridinium chloride mixture. with 3,6-acridinediamine. Fluorescent dye used as a local antiseptic and also as a
+biological stain. It intercalates into nucleic acids thereby inhibiting bacterial and viral replication.
+Aminacrine A highly fluorescent anti-infective dye used clinically as a topical antiseptic and experimentally as a mutagen, due to its interaction
+with DNA. It is also used as an intracellular pH indicator.
+Amsacrine Aminoacridine derivative that is a potent intercalating antineoplastic agent. It is effective in the treatment of acute leukemias and
+malignant lymphomas, but has poor activity in the treatment of solid tumors. It is frequently used in combination with other
+antineoplastic agents in chemotherapy protocols. It produces consistent but acceptable myelosuppression and cardiotoxic effects.
+Ethacridine A topically applied anti-infective agent.
+Nitracrine Acridine antineoplastic agent used in mammary and ovarian tumors. It inhibits RNA synthesis.
+Proflavine 3,6-Diaminoacridine. Topical antiseptic used mainly in wound dressings.
+Tacrine A cholinesterase inhibitor that crosses the blood-brain barrier. Tacrine has been used to counter the effects of muscle relaxants, as a
+respiratory stimulant, and in the treatment of Alzheimer’s disease and other central nervous system disorders.
+Quinacrine An acridine derivative formerly widely used as an antimalarial but superseded by chloroquine in recent years. It has also been used
+as an anthelmintic and in the treatment of giardiasis and malignant effusions as well as a form of contraception/sterilization. It is
+used in cell biological experiments as an inhibitor of phospholipase A2.
+Modified from National Library of Medicine - Medical Subject Headings; 2009 MeSH; MeSH Descriptor Data. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?
+mode=&term=Aminoacridines&field=entry#TreeD03.494.046.250; retrieved July 2010.
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 2 of 18
+through the Medical Research Council, in the PRION-1
+trial, [ClinicalTrials.gov Identifier: NCT00104663]. In
+addition, a trial has recently been completed in the
+treatment of androgen-independent prostate cancer
+through the University of Chicago and Cleveland Biolabs
+[ClinicalTrials.gov Identifier: NCT00417274].
+Pharmacokinetics of quinacrine
+The typical route of quinacrine administration is orally
+with water after a meal [36]. The drug can also be admi-
+nistered intralesionally/paralesionally [21,25,37,38], intra-
+muscularly, rectally, intravenously [21], transcervically
+[34], and interstitially [26-30,39].
+It is rapidly absorbed from the gastrointestinal tract
+following oral administration [40] with plasma levels
+increasing 2-4 hours after administration and reaching a
+peak in 8-12 hours [7,21]. Plasma concentration
+increases rapidly during the first week and equilibrates
+(94%) by the fourth week. Quinacrine is also rapidly
+absorbed and distributed after intrapleural, intralesion/
+paralesion, and intrauterine administration [41,42]. The
+plasma levels of quinacrine remain low in comparison
+to tissue concentrations. Peak plasma concentrations of
+up to 140 ng/ml (0.32 μM) for quinacrine have been
+documented on a standard malaria regimen [8]. It is dis-
+tributed throughout the body and its liberation from dif-
+ferent tissue compartments is slow. The highest
+concentrations are found in the liver, spleen, lungs and
+adrenal glands, with liver concentrations reaching
+20,000 times that of plasma. The lowest concentrations
+of the drug are found in the brain, heart and skeletal
+muscle [6,8]. Quinacrine is also heavily deposited in the
+skin, fingernails and hair [21]. Spinal fluid concentra-
+tions are 1-5% of plasma levels. 80-90% of the drug is
+bound to plasma proteins when given at therapeutic
+doses and the half life of the drug is five to fourteen
+days depending on the dosing regimen [41,43]. Although
+small amounts are excreted in bile, sweat, and saliva
+[21,40], the major route of quinacrine elimination is via
+the renal system which may be enhanced by acidifica-
+tion and reduced by alkalinization [6,7].
+Reported quinacrine toxicity
+Quinacrine has the advantage of a long history of clini-
+cal use in the treatment of malaria, so that human toler-
+ances are well known. In addition quinacrine has
+displayed tissue specificity making its toxicity tolerable
+in different therapeutic situations [21,44-46]. The fol-
+lowing sections give an overview of the toxicity of qui-
+nacrine as it is applicable in the clinical setting.
+General toxicity
+Mostly minor or reversible adverse reactions include
+transient symptoms of mild headache, dizziness, or
+gastrointestinal symptoms (diarrhea, anorexia, nausea,
+abdominal cramps) which decrease with a reduction in
+dosage [21]. These symptoms occur in half of the
+patient population receiving 100 mg of quinacrine daily
+while almost all patients treated with higher doses
+experience some sort of adverse reaction. Some infre-
+quent serious side effects of quinacrine have been
+reported and will be covered in the following sections.
+Gastroenterological and hepatic toxicity
+Persistent abdominal cramping or diarrhea has been
+reported for patients receiving the drug. These symp-
+toms are readily dealt with by co-administration of bis-
+muth-containing suspensions or antispasmodic agents.
+Long-term high-dose malarial suppressive therapy was
+occasionally associated with reversible hepatitis presum-
+ably due to quinacrine’s tendency to concentrate in the
+liver. Transient lupus associated quinacrine hepatitis
+and peritonitis have also been reported, although these
+symptoms are attributed to doses three times that of the
+recommended dose [47,48].
+Ophthalmologic and central nervous system
+toxicity
+Quinacrine has very low risk of retinal toxicity [49,50].
+At doses over 500 mg the drug has the potential to
+induce in rare cases a hypersensitivity reaction resulting
+in corneal edema, which is reversible [51,52]. Cortical
+stimulatory effects of quinacrine were documented in a
+study of a group of healthy volunteers given doses of
+quinacrine ranging between 200 to 1,200 mg daily for
+ten days [53]. At higher doses symptoms may include
+restlessness, vertigo, insomnia, nightmares, hyperirrit-
+ability, psychosis and convulsions. Although toxic psy-
+chosis following quinacrine administration has been
+reported [54-56], large scale studies reveal this to be a
+rare and quickly reversible event. However it must be
+noted that a study of over 7,500 US soldiers given qui-
+nacrine (100 mg/day) in World War II revealed a 0.4%
+incidence of toxic psychosis [57]. Further investigations
+revealed twenty eight (0.1%) CNS-toxic cases among
+30,000 treated for malaria [58].
+Hematologic toxicity
+The most serious potential toxicity of quinacrine is
+aplastic anemia. The incidence of aplastic anemia in
+World War II soldiers increased after the drugs intro-
+duction, but still remained quite low (0.003%) [59].
+Reported cases of aplastic anemia have been associated
+with patients receiving more than the recommended
+daily dose and long treatment periods without having
+blood counts checked [60-65]. In considering this toxi-
+city it is important to note that the potential lethality of
+aplastic anemia is readily preventable due to the early
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 3 of 18
+signs of skin rash. Moreover, hypoplastic anemia can be
+identified with frequent routine blood tests [60]. In the
+more modern clinical setting 300 mg/day of quinacrine
+has been administered and found to be reasonably toler-
+ated with no reported incidence of hematologic toxicity
+[66].
+Dermatologic toxicity
+In a study of 120,000 Australian soldiers serving during
+the Second World War only 1.6 percent developed
+rashes from quinacrine treatment. Eighty percent were
+eczematous and twenty percent were lichenoid or exfo-
+liative [67]. Lichen planus was observed in 1 of 2,000
+soldiers given 100 mg/day and in 1 of 500 given 200
+mg/day. The dermatitis quickly resolved upon cessation
+of drug administration. Quinacrine can produce a yellow
+stain in the skin as well as areas of discoloration appear-
+ing like “black and blue marks” or bruises presumably
+due to melanin binding [67-69]. Slate-colored pigmenta-
+tion of the palate and subungual areas were described in
+soldiers treated with quinacrine hydrochloride by Lip-
+pard and Kauer [69]. Hyperpigmentation of the oral
+mucosa, typically restricted to the hard palate has since
+been reported by many others [70]. These marks consist
+of membrane bound intracellular granules of quinacrine
+that contain large amounts of iron and some sulphur
+[67,71-76]. At the doses currently used, approximately
+half of the patients receiving the drug develop increased
+pigmentation and in half of these patients, an asympto-
+matic yellow stain is evident, which is reversible upon
+reduction to an average daily dose of <50 mg of the
+drug [21].
+Carcinogenicity/Tumorigenicity
+There have been no studies conducted to investigate the
+tumorigenicity of orally administered quinacrine in
+humans. The data that exist document the use of quina-
+crine in female sterilization. Retrospective analysis
+revealed that patients administered with intrauterine
+quinacrine had a slight but not statistically significant
+increase in the incidence of cancer compared to a con-
+trol population. However, the studies concluded that
+there was no evidence for an excess risk of cancer devel-
+opment [34,77-79].
+Conflicting tumorigenicity data have been reported in
+short term (up to 30 days) animal studies. Studies in
+female mice and rats have shown that quinacrine (at
+doses of 30 mg/kg and 22.5 mg/kg, respectively)
+enhanced growth of implanted tumor cells and
+decreased survival [80,81]. However, other studies in
+male mice have shown that quinacrine at doses between
+20-25 mg/kg suppress the growth of transplanted
+tumors and increase the rate of survival [82-84]. These
+inconsistencies may be explained by a recent study that
+reveals that dosing schemes in mice that are not equiva-
+lent to that used in humans lead to tumor formation
+[10]. While tumor formation in mice receiving dosages
+that are equivalent to those currently used in the clinic
+are equivalent to that of control animals [10].
+LD50 established in animal studies
+The LD50 of quinacrine hydrochloride for rats is 900
+mg/kg by oral administration [85,86]. The LD50 for the
+i.p. route for rats has not been estimated, but the
+experiments of Keeler and Richardson [87] suggest that
+it is approximately 250 mg/kg.
+Mechanisms of quinacrine as an anti-cancer agent
+Most of the efforts in anti-cancer drug discovery have so
+far been focused on identifying drugs which target a sin-
+gle protein. Currently there is an increasing recognition
+for the need of rationally designed drugs that act on sev-
+eral different proteins and pathways [88-90]. Hence
+“polypharmacology”, the term used for drugs that bind
+to and modulate multiple targets, thereby eliciting sev-
+eral clinical effects, is an exciting and developing area of
+cancer research [91]. The anti-cancer mechanism of qui-
+nacrine is complex, with many potential cellular targets.
+This “shotgun” nature of the drug is what may make it
+attractive in the treatment of some cancers. The follow-
+ing sections describe the different anti-cancer mechan-
+isms elicited and signaling pathways modulated by
+quinacrine.
+Quinacrine intercalates into DNA
+DNA is generally considered to be one of the biological
+targets for acridine anticancer compounds. There are
+three general modes of binding that characterize the
+compound interactions with double-stranded DNA:
+intercalation, groove binding and covalent binding
+[92-94]. Synthetic or natural acridine drugs display vary-
+ing chemical and biological properties but they share
+the common property of DNA intercalation. This is due
+to the presence of an acridine “backbone” that confers a
+planar structure to the molecules, allowing them to
+intercalate into DNA by stacking between base pairs.
+The intercalation of several acridines has been demon-
+strated whereby the flat polyaromatic chromophore
+inserts between the base pairs of double-helical DNA.
+This process is driven by stacking and charge-transfer
+interactions between the aromatic systems of the acri-
+dine compounds and the DNA bases, resulting in
+unwinding of the helix [95,96]. The acridine derivative
+quinacrine is no exception, it also binds to DNA by
+intercalation [95,97-109]. It should be noted that inter-
+calation is not the only type of interaction quinacrine
+has with DNA, another involves the diaminobutyl side
+chain which interacts with the minor groove of the
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 4 of 18
+DNA and is involved in the stabilization of the double
+helix against thermal strand separation [110,111].
+Parameters such as fluorescence quantum yield (i.e.
+absorption/emission spectra), binding constant, and flex-
+ibility in the quinacrine/polynucleotides complexes have
+been found to strongly depend on the DNA sequence
+[102,112,113]. In general, a clear difference has been found
+between the fluorescence quenching of quinacrine when
+comparing adenine (A)-thymine (T) rich polynucleotides
+to guanine (G)-cytosine (C) containing ones. Fluorescence
+emission is enhanced in AT polymers, and a marked
+quenching observed in GC polymers [98,100,101,103,
+106-108,114]. Fluorescence-assayed preferential binding
+studies of quinacrine to DNA reveal that the neighbor
+base sequences influence the binding of quinacrine. In
+particular the sites where a GC base pair is involved were
+found to display high affinities [115]. The high affinity of
+quinacrine for DNA via intercalation can be hampered by
+denaturation or depurination [114,116].
+Acridine interaction with nuclear enzymes -
+potential mechanisms for anti-tumor effects
+It has been demonstrated that DNA intercalation is
+necessary but not sufficient for the antitumor activities
+of acridines [109,117,118]. Although the chemothera-
+peutic potency of acridines is partly determined by the
+strength of DNA binding [117,119-121], the antitumor
+properties of acridines are not solely due to their DNA
+binding, but also stem from specific interactions with
+certain enzymes. Hence the toxicities of acridines are
+not largely due to an unspecific toxicity associated with
+DNA damage or binding.
+Telomerases as acridine targets
+The two major classes of enzymes which have been con-
+sidered as targets for these intercalating anticancer
+drugs are telomerases [122-126] and topoisomerases
+[127-131]. Topoisomerases have been well described as
+the target of many DNA-binding anti-cancer drugs
+while telomerases have more recently been the center of
+attention.
+Telomerases are not active in normal somatic cells after
+birth. However, perhaps as many as 80-90% of cancer
+cells have reactivated telomerase [132]. Turning on this
+enzyme complex prevents or reverses telomere degrada-
+tion and contributes to the growth of a malignant clone
+[133]. The inhibition of telomerase in cancer cells leads
+to growth arrest and ultimately cell death [132-134].
+Acridines have been shown to help form or stabilize
+four-stranded intramolecular quadruplex structures (G-
+quadruplexes or G-quartets) from the guanine-rich DNA
+sequences of telomeres, which inhibit telomerase activity
+[123,126]. The formation of G-quadruplexes in telomeric
+DNA and the subsequent inhibition of telomerase make
+these conformations important as anti-cancer targets,
+and the drugs that help to form or stabilize them candi-
+dates for chemotherapeutic agents [135,136].
+Topoisomerases as acridine targets
+Tumor cells are thought to over-express topoisomerase
+enzymes to enhance cellular proliferation. As the degree
+of topoisomerase poisoning and inhibition is a function
+of the amount of the enzyme present, this mechanism
+provides a potentially selective mode for killing of
+tumor cells [130,137]. By inhibiting the re-ligation activ-
+ity of topoisomerase enzymes, acridines convert topoi-
+somerases into DNA damaging agents leading to cellular
+toxicity and death [117,127-131].
+Quinacrine and telomerases
+The mechanism of action of quinacrine on telomerase
+activity is not well described. Dominick et al. found that
+purified E. aediculatus, T. thermophila, and human telo-
+merase was inhibited by quinacrine [138]. The banding
+patterns of the telomerase products generated in the
+presence of quinacrine were, however, not consistent
+with typical quadruplex stabilizing compounds which
+tend to cause enrichment of products associated with
+four repeats of the telomeric sequence [138,139]. Hence
+the exact process of quinacrine-induced inhibition of
+telomerase remains unclear. It should be noted that a 50
+μM concentration of quinacrine was used to achieve tel-
+omerase inhibition, a dose well above the concentration
+needed to see the cytotoxic effects of quinacrine.
+Quinacrine and topoisomerase
+Quinacrine is suggested to be a topoisomerase inhibitor
+as it displays intercalative activity and structural similar-
+ity to other acridines. Furthermore, quinacrine, like
+topoisomerase poisons, inhibits DNA repair [140-142].
+It also inhibits excision repair processes in E. coli
+[143,144] and in human fibroblasts exposed to ultravio-
+let light [142,145-147]. In addition, quinacrine also sen-
+sitizes cultured HA1 cells (a sub-line of Chinese
+hamster ovary cells) to killing by X-rays and it prevents
+the repair of single strand breaks [148]. It has further
+been shown to sensitize cells when applied at the time
+of irradiation or shortly beforehand and to prevent the
+enzymatic rejoining of single strand breaks [148]. Hence
+it has been postulated that the observed radiosensitiza-
+tion is attributable to its capacity to inhibit such repair
+processes, in which topoisomerases are implicated
+[141,142,147,149]. It has also been hypothesized
+[142,146,147] that densely packed chromatin structures
+must be transiently loosened by topoisomerase to render
+the DNA damage sites accessible to excision repair
+enzymes, particularly for access of repair endonuleases
+that excise the damaged site [150-152].
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 5 of 18
+It must be noted that the majority of reports which
+suggest that quinacrine is a topoisomerase inhibitor do
+not provide direct experimental evidence supporting the
+topoisomerase inhibitory activity of quinacrine. In one
+set of studies the effect of quinacrine on topoisomerase
+is assumed from experiments where quinacrine inhibits
+UV-induced DNA repair with a Kd of 38.1 μM for
+reparative DNA synthesis [142] and 781 μM for inhibi-
+tion of DNA incision [146]. Hence in many studies the
+effect of quinacrine on topoisomerase is assumed to be
+due to the effect on DNA repair and when quinacrine is
+shown to inhibit this nuclear enzyme, the concentration
+required to induce this effect is quite high.
+Although relatively few research reports exist that
+study the direct role of quinacrine in topoisomerase
+inhibition, a recent report revealed a lack of detectable
+topoisomerase interaction for quinacrine at doses up to
+11 μM [109]. In another study, an indirect measure of
+topoisomerase activity, the P4 DNA unknotting assay,
+revealed that a concentration of 50 μM quinacrine was
+required to inhibit topoisomerase II P4 unknotting
+activity. However, in the same study the lowest IC50 for
+growth inhibition was attained in a cell line where drug
+resistance should have been encountered if the mechan-
+ism of action was due to topoisomerase inhibition [153].
+Also in the same investigation, no DNA breakage and
+no DNA-protein binding was observed at lower doses of
+quinacrine which were observed to have an inhibitory
+effect on in vitro growth [153]. The notion that rela-
+tively high amounts of quinacrine are needed to inter-
+fere topoisomerase was shown by dose-dependent
+inhibition of topoisomerase enzyme activity, with 30-
+40% inhibition at 20 μM and 80-90% inhibition at 100
+μM [141]. In addition, the high (>700 μM) concentra-
+tion of quinacrine needed to induce DNA incision
+observed by Thielmann et al. [146] hints that enzymes
+involved in DNA repolymerization and not topoisome-
+rase may be involved. Taken together these finding
+indeed support the role of other nuclear enzymes in the
+anti-tumor effect observed by quinacrine. From the
+body of evidence in the literature it is valid to assume
+that the stifled DNA repair observed with quinacrine is
+mediated by the inhibition of other enzymes, for
+instance repair-specific UV endonucleases, DNA heli-
+cases [154], or DNA polymerases [147], but not topoi-
+somerases. One can also assume that at lower doses the
+effect of quinacrine may not be attributed to its interac-
+tion with the DNA and inhibition of nuclear enzymes as
+detailed further in later section of this review.
+Quinacrine effects on DNA and RNA polymerases
+The literature describing the mechanism of quinacrine’s
+anti-tumor effect suggests that two candidate families of
+nuclear enzymes, DNA polymerase and to a less extent
+RNA polymerase, may be involved in the mechanism of
+quinacrine’s radiosensitizing ability. Effective nucleotide
+excision repair requires DNA gaps be filled by reparative
+DNA synthesis. In principle, all DNA polymerases found
+in the nucleus may play a role in this gap-filling. The
+effects of quinacrine on DNA and RNA polymerase
+reactions in vitro shed light on how quinacrine may
+inhibit enzymatic polymerization reactions in vivo and
+induce anti-tumor effects.
+Early experiments have hinted at a mechanism of qui-
+nacrine preventing the action of DNA and RNA poly-
+merase [155,156]. van Dyke et al. [155] demonstrated
+that quinacrine inhibits the incorporation of tritiated
+adenosine triphosphate primarily into RNA and DNA of
+the erythrocyte-free malaria parasite. In Tetrahymena,
+32 μM quinacrine inhibits the synthesis of DNA (almost
+completely), RNA (70%), and protein (50%), and almost
+completely blocks the incorporation of labeled acetate
+into lipid components [156]. Evidence of quinacrine
+inhibition of DNA and RNA polymerase has also been
+obtained in E. coli K12, with RNA polymerase inhibition
+being less sensitive than DNA polymerase to quinacrine
+inhibition [110,111]. A Kd in excess of 10 μM is
+reported by O’Brien et al. [110] and Hahn et al. [111].
+More recent work revealed that when normal rat liver
+and Novikoff hepatoma DNA polymerases a, δ, and ε
+were treated with a dose range of 0.1 μM to 200 μM
+quinacrine, the drug preferentially inhibited the DNA
+polymerases from the malignant cells [157]. The IC50
+values of quinacrine inhibition were 15.2 μM, 22.6 μM,
+and 11.4 μM for DNA polymerase a, δ, and ε, respec-
+tively, that were isolated from hepatoma, compared to
+that of 92.5, 200, and 146 μM for DNA polymerase a, δ,
+and ε isolated from normal rat liver [157]. The observed
+differences in DNA polymerase inhibition most likely
+reflects differences in the weakening effect on DNA-pro-
+tein interactions [157], which in turn suggest a specific
+change in the DNA-binding domains of the individual
+polymerase enzymes. This hypothesis has been sup-
+ported by the discovery of sequence changes of these
+DNA-binding domains for human and yeast DNA poly-
+merases [158,159].
+It should be noted that inhibition of DNA poly-
+merases in other experiments is achieved at much
+higher concentrations of quinacrine. Inhibition of Hepa-
+titis B virus DNA polymerase by quinacrine was only
+achieved at over 700 μM [160]. This agrees with the
+results of Thielmann et al. [146] where approximately
+the same concentration of quinacrine was needed to
+induce DNA incision in human fibroblasts. It should
+also be noted that using a different system to analyze
+the inhibitory effect of quinacrine on Hepatitis B virus
+DNA polymerase Hess et al. [161] found quinacrine
+only to be effective in the 20 to 50 mM range. Hence
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 6 of 18
+the cytotoxicity and anti-tumor effect of quinacrine
+achieved at lower dose well below those needed to gen-
+erally inhibit polymerase activity must be attributed to
+other cellular mechanisms.
+Interaction with and inhibition of proteins
+involved in multidrug resistance
+Multidrug resistance (MDR) is a major obstacle to the
+effective treatment of cancer, as MDR proteins aid in the
+active transport of a broad range of anticancer drugs out
+of the cancer cells. This export is ATP-dependent, allow-
+ing efflux against concentration gradients. An important
+set of proteins involved in this export is the ATP-binding
+cassette transporter family, which includes P-glycopro-
+tein (P-gp). P-gp is encoded by the MDR1 gene and its
+overexpression is one of the major underlying mechan-
+isms of MDR. The upregulation of P-gp in cancer cells
+has made it an attractive therapeutic target for combating
+MDR. One hypothesis supposes that P-gp allows cells to
+achieve MDR by actively pumping the chemotherapeutic
+agent out of the cells, thereby reducing the toxic effect
+[162,163]. The interaction of acridine-based chemothera-
+peutics with P-gp thus inhibits not only their own efflux
+but may also the efflux of co-administered chemothera-
+peutics, as well as increasing uptake into cells [164-168].
+The interaction of acridine derivatives with proteins
+involved in MDR is not related to their DNA intercala-
+tion capabilities and appears to be an exciting new strat-
+egy for chemotherapy [162,167,169].
+Quinacrine is implicated in the reversal of the MDR
+phenotype from several studies. It has been shown to
+reverse drug resistance to vincristine in a MDR sub-
+clone of K562 cells (a human chronic myelogenous leu-
+kemia cell line) starting at 5 μM [170]. Furthermore, it
+has been demonstrated to induce cytotoxicity, but the
+exact mechanism of cell death was not investigated
+[170]. The effect of quinacrine in reversing the MDR
+phenotype in leukemia cell lines in vitro was also sup-
+ported by other investigators who used approximately 6
+μM of quinacrine to increase cellular uptake of vincris-
+tine. They observed a cytotoxic effect with approxi-
+mately 1aμM of quinacrine treatment, reducing cell
+growth by 82% when used alone, and almost completely
+inhibiting growth when combined with vincristine [171].
+These same investigators then went on to conduct in
+vivo experiments showing the reversal of vincristine
+resistance with addition of 50 or 80 mg/kg/day of quina-
+crine [171].
+The only direct test of the role of quinacrine as an
+inhibitor of P-gp has been conducted by using a multi-
+drug resistant human T-cell leukemic cell line which
+expresses P-gp as a doublet that can be photaffinitty
+labeled by the analog of vinblastine, N(p-azido-[3-125
+I]
+salicyl)-N’-b- amlnoethylvindesine ([125
+I]NASV) [172].
+[125
+I]NASV specifically binds to P-gp and the inhibition
+of its binding was used as a read out for the affinity of
+quinacrine for P-gp. In this study the binding affinity of
+quinacrine to P-gp was correlated to its ability to
+increase vinblastine sensitivity. It is, however, note-
+worthy that, although in an earlier investigation pub-
+lished by the same authors quinacrine increased the
+toxicity of vinblastine (12-fold) and vincristine (15-fold)
+at 5 μM and had an IC50 of 14 μM when administered
+alone [173], in this subsequent study a 50 μM dose only
+partially reduced [125
+I]NASV labeled P-gp [172].
+The study of quinacrine’s role in MDR has not been
+limited to leukemia but it has also been analyzed in
+MDR cells from the ovary and prostate cancer. Quina-
+crine was reported to affect MDR Chinese hamster
+ovary (CHO) cells at 6 μM in studies measuring the
+uptake of labeled palmitoyl carnitine and palmitoyl lyso-
+phosphatidyicholine. They were more rapidly taken up
+by the MDR cells and this uptake was reversed after
+quinacrine treatment back to the rates observed with
+the parental cell line, hence implicating quinacrine in
+reversing the MDR [174]. It also enhanced the activity
+of paclitaxel in hormone-refractory prostate cancer cells
+both in vitro and in vivo [175]. Quinacrine itself dis-
+played IC50 values of 3.1 μM for PC-3, of 4.7 μM for
+PC-3M (a MDR sub-clone of the cell line) and of 3.5
+μM for DU145 cells. Combination therapy of quinacrine
+and paclitaxel were determined to be synergistic in both,
+in vitro and in vivo (mouse xenografts) experiments.
+The exact mechanism of this synergistic effect was not
+studied however, the authors attributed to quinacrine’s
+effect on phospholipase A2 (PLA2)[175].
+Disruption of the arachidonic acid pathway
+Manipulations of the arachidonic acid pathway (Figure
+2) have received considerable attention in the chemo-
+prevention of cancer [176-180]. Agents which inhibit
+this pathway have been demonstrated to hold promise
+in the chemoprevention of prostate, gastrointestinal,
+lung as well as esophageal cancer [177,181-184].
+Although cyclooxygenase has been the focus of many
+anti-neoplastic agents targeting the arachidonic acid
+pathway [185], other components of the pathway could
+potentially also be promising targets. One such putative
+target, PLA2, hydrolyzes the sn-2-acyl bond of mem-
+brane phospholipids to produce arachidonic acid (Figure
+2), which has been implicated in a variety of signal
+transduction events, including those regulating malig-
+nant cell proliferation [186,187]. Histological studies
+suggest that membrane phospholipase A2 expression
+levels are associated with tumor aggressiveness in gastric
+[188] and breast cancers [189].
+Disruption of the arachidonic acid pathway by quina-
+crine via inhibition of PLA2, leads to a wide array of
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 7 of 18
+effects. The inhibition of PLA2 [190-193] occurs via qui-
+nacrine’s binding to membrane phospholipids (primarily
+phosphatidylethanolamine), and subsequent intercalation
+into the membrane [194-198] and inhibition of PLA2
+membrane binding and activity [190-193,199]. The
+decrease in arachidonic acid due to PLA2 inhibition
+[199] in turn results in the inhibition of leukotrienes
+(LOX activity) and prostanoids (COX activity), as well
+as eicosanoids (MOX/CYP450 activity) [193,194,
+200-210]. This is of interest since recent reports
+implicate an enhanced activity of arachidonic acid path-
+way proteins in preventing apoptosis and promoting
+tumor progression in head and neck cancer [211-222].
+In platelets, the conversion of arachidonic acid to
+thromboxane is suppressed by quinacrine [21,206,
+210,223]. Thromboxane is a major factor in blocking the
+release of arachidonic acid from cellular phospholipases.
+In addition, thromboxane is involved in angiogenesis
+and the development of tumor metastasis [224-226].
+Quinacrine also decreases prostaglandin E2 (PGE2)
+Figure 2 The arachidonic acid pathway and its role in tumor promotion. (A) Potential inhibitory role of quinacrine in the arachidonic acid
+pathway. (B) Potential role of arachidonic acid pathway in tumor promotion. Adapted from http://en.wikipedia.org/wiki/File:Eicosanoid_synthesis.
+png; retrieved January 2010 and Ulrich [278].
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 8 of 18
+production in a dose-dependent manner. Prostaglandin,
+PGE2 and the COX2-PGE2 pathway/arachidonic acid
+pathway play an important role in the induction of the
+pro-inflammatory response and ultimately tumorigenesis
+[227-229]. PGE2 levels have been implicated in angio-
+genesis, tumor growth and invasion, apoptosis resistance
+and suppression of anti-tumor immunity via suppression
+of T and NK cells, and amplifying Treg [227,230-232].
+The upregulation and pro-oncogenic actions of PGE2
+have been demonstrated in head and neck cancer
+[222,233-237].
+Quinacrine as an inducer of p53 and inhibitor of
+the NF-B and AKT pathways
+The deleterious roles of p53 inactivation [238,239] and
+nuclear factor-kB (NF-B) hyperactivation [240,241] have
+been well established in human cancers. They lead to
+inhibition of cell death and promotion of oncogenesis.
+Cross talk between these two pathways has been identi-
+fied and studied (Figure 3). It has been reported that p53
+and NF-B repress each other’s activity by competing for
+transcriptional proteins such as p300 and CREB-binding
+protein (CBP) [242]. One signaling protein known to
+influence this competition is IKKa [243,244]. In particu-
+lar, IKKa has been implicated in phosphorylating and
+directing CBP to participate in either the p53 or NF-B
+pathway [243,244]. Another well studied signaling pro-
+tein, AKT, can both activate IKKs as well as
+phosphorylate and enhance the transcriptional activity of
+p65 (NF-B complex protein) [245-247]. In addition it
+has been demonstrated that AKT-mediated phosphoryla-
+tion of MDM2 inhibits p53 stabilization [248]. Hence, it
+is likely that inhibitors of AKT activation could be uti-
+lized as anti-cancer agents for the inactivation of p53 and
+the inhibition NF-B signaling.
+Besides the development of AKT inhibitors, there has
+been no concerted effort to rationally design drugs that
+can simultaneously activate p53 and inhibit NF-B. The
+opposing nature of these pathways suggests that a drug
+which activates p53 and simultaneously inhibits NF-B
+would have significant clinical potential due to the fact
+that it is concomitantly modulating two critical cancer
+targets. In addition, a drug capable of affecting both of
+these pathways would also be a useful tool to study the
+interactions between the opposing p53 and NF-B path-
+ways. The literature [249] and further unpublished work
+from members of the Tumor Biology Group of NIDCD
+at NIH point to quinacrine as being such a drug (Van-
+Waes et al., unpublished data).
+Quinacrine and p53
+Several recent investigations support the notion that
+quinacrine-induced cell death is caused by a mechanism
+that is independent of DNA damage [250-252]. Quina-
+crine has been demonstrated to stabilize p53 in a man-
+ner that differs from that of DNA-damage induced p53
+stabilization [250,251]. Wang et al. have reported the
+ability of quinacrine and other acridine derivatives to
+activate wild-type p53 transcription in ovarian cancer,
+non-small cell-lung carcinoma and colon adenocarci-
+noma cell lines, independent of DNA damage and
+MDM2 [251]. This DNA damage- and MDM2-indepen-
+dent effect of quinacrine in activating wild-type p53 in a
+diverse set of cell lines was supported by Gurova et al.
+when they found that quinacrine activates p53 in renal
+cell carcinomas, non-small cell lung carcinoma, colon
+and breast carcinomas, prostate adenocarcinomas, and
+fibrosarcomas [250]. Friedman et al. extended these
+findings to reveal that quinacrine activates p53 in several
+different head and neck squamous cell carcinoma cell
+lines with wild-type p53 [249]. The cell death induced
+after quinacrine treatment was not only p53 dependent
+[250], but also involved Bcl-2-associated X protein
+(BAX) [251], thereby indicating an important role of the
+mitochondrial apoptosis pathway. This suggests that
+other signaling proteins may also be involved in the cell
+death induction by quinacrine. The mechanism of p53
+activation by quinacrine and its ability to modulate
+other signaling proteins may minimize the toxic side
+effects seen with treatments using DNA-binding plati-
+num agents, making it potentially a desirable anticancer
+agent.
+Figure 3 Cross talk between NF-B and p53. There are many
+lines of crosstalk between the p53 and NF-B pathways. A few of
+these are highlighted, such as AKT and the transcriptional co-
+activator proteins CREB-binding protein (CBP) and the related p300
+protein. AKT can activate both IB kinases (IKKs) and phosphorylate
+p65. AKT-mediated MDM2 phosphorylation can also inhibit p53
+stabilization. Due to competition for the limited pool of CBP/p300,
+this protein also plays a crucial role in determining which pathway
+dominates in terms of cellular outcome. In addition, NF-B has
+been shown to directly upregulate the levels of MDM2 mRNA and
+hence the protein. One promising aspect of quinacrine is its
+simultaneous ability to inhibit AKT, to induce the p53 pathway, and
+to inhibit the NF-B pathway. Adapted from Dey et al. [279].
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 9 of 18
+Quinacrine and NF-B
+The unique mechanism of p53 upregulation which dif-
+fers from the genotoxic upregulation of p53 was not
+investigated by Wang et al. [251], but Gurova et al.
+[250], found the induction of p53 to be linked to the
+inhibition of NF-B. These results were later extended
+using a skin inflammation mouse model where the con-
+tact hypersensitivity (CHS) response to chemical aller-
+gen sensitization was evaluated [253]. In this mouse
+model the authors identified NF-B to be critical in the
+development of the contact hypersensitivity response
+and demonstrated that quinacrine reduced CHS by inhi-
+biting NF-B activation and as well as cytokines (TNFa,
+IL-1b, and CCL21) that are dependent on NF-B activa-
+tion [253].
+NF-B is also a key regulator of cytokine-induced
+expression of endothelial cellular adhesion molecules
+(CAMs) [254,255]. The inhibitory effect of quinacrine
+on NF-B in this context was supported in experiments
+where NiCl2- and CoCl2-induced cellular activation of
+ICAM-1 was inhibited by quinacrine [256]. The effect
+was attributed to PLA2 because the enzyme causes the
+generation of platelet activation factor and eicosanoids
+[257], which are thought to play a role in the activation
+of NF-B [256].
+NF-B has been recently shown to also depend on
+arachidonic acid metabolites [258] and upstream inhibi-
+tion by quinacrine has been proposed to inhibit the acti-
+vation of NF-B due to its inhibitory effects on PLA2
+[259]. In a study evaluating the effect of lysophosphati-
+dic acid (LPA) on endothelial cell activation, quinacrine
+blocked LPA-stimulated activation of NF-B as well as
+the increase in expression of genes known to be depen-
+dent on the activation of the NF-B transcription factor:
+E-selectin, ICAM-1, IL-8, and MCP-1 [260].
+Another interesting line of investigation further
+revealed that reactive oxygen intermediates (ROI) are
+implicated in UVB-induced expression of TNFa in kera-
+tinocytes and that COX products and, more importantly,
+LOX products, also known as eicosanoids, which are
+themselves products of an oxidative metabolism, are the
+main ROI implicated in this induction [261]. The investi-
+gators hypothesize that eicosanoids likely exert their
+function through activation of NF-B [261]. They also
+attributed the reduction of TNFa mRNA after quinacrine
+administration to the inhibitory activity of quinacrine on
+PLA2, based on reports showing that UVB can induce
+PLA2 in keratinocytes [262-264]. Another study investi-
+gating the source of oxygen radicals which activate Kupf-
+fer cell NF-B after co-culture with AH70 cells attributed
+the attenuation of oxidative NF-B activation to the
+PLA2 inhibitory activity of quinacrine [265].
+However, because many studies do not directly impli-
+cate PLA2 inhibition by quinacrine as the mechanism of
+NF-B inhibition and in light of more recent investiga-
+tions challenging the notion that quinacrine acts primar-
+ily as an inhibitor of PLA2 [200,253,266], quinacrine’s
+effect is presumably, at least partially, due to NF-B
+inactivation via a mechanism other than PLA2 inhibi-
+tion. Pupe et al. [261] present another intriguing
+mechanism for NF-B inactivation as their experiments
+revealed quinacrine to inhibit UVB-induced IBa degra-
+dation. However, this type of inhibition may be tumor-
+specific since another mechanism of NF-B inhibition,
+nuclear translocation and sequestration of an inactive
+complex, has been well documented.
+Unlike other NF-B inhibitors, quinacrine does not
+inhibit the NF-B pathway via cytoplasmic sequestration
+of p65. Instead, published experiments indicate a
+mechanism involving confinement of the p65 complex
+in the nucleus in an inactive state [250]. The increased
+presence of NF-B in the nucleus after quinacrine expo-
+sure was supported by experiments revealing increased
+DNA binding of NF-B after quinacrine treatment alone
+or in combination with TNFa [267]. These experiments
+also revealed that quinacrine plus TNFa induced greater
+NF-B DNA binding than TNFa treatment alone. The
+lack of DNA binding inhibition of NF-B after quina-
+crine treatment was also confirmed in a report by Fabbri
+et al. [268].
+Down-regulation of p65 Ser536 phosphorylation by
+IKKa has been suggested as the primary mechanism of
+action for quinacrine [250]. The physiological impor-
+tance of this inhibition was recently confirmed in the
+skin inflammation mouse model described in a previous
+section [253]. Further support of this mechanism was
+attained by Na et al. when hydrogen peroxide-induced
+phosphorylation of the p65 subunit of NF-B was par-
+tially inhibited by quinacrine [269]. The effects of quina-
+crine on NF-B are in line with its uses in the
+treatment of inflammatory diseases as a single agent or
+in combination with other medications [21]. As dis-
+cussed further below, first hints of the mechanism by
+which quinacrine may inhibit the NF-B pathway and
+promote the p53 pathway have come from studies with
+9-aminoacridine (9AA), which implicated AKT and
+mTOR as targets for quinacrine [270].
+Quinacrine and AKT
+As shown in Figure 3, AKT is involved in the NF-B
+and p53 signaling pathways [245,271,272]. AKT phos-
+phorylates the p65 subunit of NF-B at Ser536, ulti-
+mately stimulating NF-B transcriptional activity
+[272,273]. In addition, AKT phosphorylates MDM2 on
+Ser166 [271]. AKT phosphorylation of MDM2 induces
+translocation of MDM2 into the nucleus and targets
+p53 for destruction [271]. Phosphorylated MDM2 also
+transports p53 from the nucleus to the cytoplasm where
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 10 of 18
+it is involved in the induction of p53 degradation
+through the proteasome. Therefore, AKT is a critical
+signaling protein involved in the suppression of p53
+activity. This hypothesis has been supported by experi-
+ments demonstrating a correlation between AKT kinase
+activity and inhibition of p53 [272].
+Guo et al. demonstrated that 9AA inhibits AKT activ-
+ity and its phosphorylation at Ser473 [270]. They went
+on to show that this inhibition was not a direct effect of
+reduced PI3K activity and implicated mTOR in this
+inhibition. Hence, it seems that acridines like quinacrine
+may be involved in stopping a positive feedback loop
+between AKT and mTOR [270]. The inhibition of AKT
+activity by 9AA has also been confirmed by other inves-
+tigators in a model of human T-cell leukemia virus-
+transformed cells [274]. Furthermore, in a study of the
+role of arachidonic acid metabolism and epidermal
+growth factor (EGF) receptor in neurotensin-induced
+prostate cancer cell growth, quinacrine’s activity as an
+inhibitor of AKT was reaffirmed. These experiments
+revealed quinacrine to inhibit neurotensin-, and to a les-
+ser degree EGF-stimulated phosphorylation of AKT
+[275].
+The multiple actions of quinacrine and its
+established history of safety make it an attractive
+anti-neoplastic chemotherapeutic agent
+Since its discovery as a potent antimalarial compound,
+quinacrine has been effective not only in the treatment,
+but also as a prophylaxis for malaria as well as a medi-
+cation for a wide range of other disorders. Due to its
+anti-inflammatory activity in patients with autoimmune
+disorders quinacrine has been used to treat lupus
+erythematosus, rheumatoid arthritis, bronchial asthma
+and other inflammatory diseases. The safety of and bioa-
+vailability of quinacrine has been demonstrated as
+patients with these diseases used quinacrine for months
+at a time to control their symptoms. The pharmacoki-
+netics and safety of quinacrine has been extensively stu-
+died as it was administered as a protective measure to
+millions of US soldiers in the Pacific region during
+World War II.
+Some of the more serious side effects of quinacrine
+are mild in comparison to other anti-cancer chemother-
+apeutics and most of the conditions can be easily
+reversed after treatment cessation or dose reduction.
+Many of quinacrine’s side effects develop gradually,
+starting from minor lesions in the case dermatitis or a
+slight decrease in blood counts in the development of
+anemia, and have been found to be completely and
+easily reversible, if quinacrine use is discontinued at this
+early stage [21,49,64,276]. Indeed some of the side
+effects exhibited due to quinacrine treatment can be
+used in the clinical setting to confirm proper dosing of
+the drug in the treatment of cancer patients. The yellow
+discoloration of the skin due to the accumulation of the
+bright yellow compound would indicate to the clinician
+that the drug has reached the equilibrium and as in the
+case of squamous cell carcinomas, has potentially
+reached areas where tumor has developed.
+Furthermore, the polypharmacology of quinacrine
+make it an attractive drug in the use of different cancer
+types. In addition, as inflammation is now being consid-
+ered the seventh hallmark of cancer [277], quinacrine’s
+anti-inflammatory effects would seem to increase its
+potential utility as a anti-cancer drug. As more research
+is being conducted into quinacrine’s mechanisms of
+action, investigators have begun to realize that its inter-
+actions extend beyond mere DNA binding and effects
+on nuclear proteins. Quinacrine has thus been shown to
+bind and inhibit proteins involved in multidrug resis-
+tance, to disrupt the arachidonic acid pathway, as well
+as affecting the p53, NF-B and AKT pathway. Its
+effects on multiple key signaling pathways, implicated in
+the malignant progression of numerous cancer types,
+make quinacrine an exciting candidate as a chemothera-
+peutic agent in new types of combination treatments.
+Continued research into the mechanisms of this drug is
+clearly warranted as it may be used in addition to estab-
+lished therapeutic regimes in hopes of ultimately redu-
+cing toxic side effects of drugs, such as DNA damaging
+agents, currently used in the clinic.
+Acknowledgements
+The authors would like to thank Zhong Chen, Jay Friedman, and Liesl
+Nottingham for their input. This work was partially supported by the
+HeadsUp and CRUK charities. Reza Ehsanian was supported by an NIH-
+Oxford Fellowship, a Stanford Medscholars Fellowship and HHMI Scholars
+Fellowship. RE and CVW were supported by NIDCD intramural project ZIA-
+DC-000016.
+Author details
+1
+Tumor Biology Section, Head and Neck Surgery Branch, National Institute
+on Deafness and Other Communication Disorders, National Institutes of
+Health, Bethesda, MD, USA. 2
+Stanford University School of Medicine,
+Stanford, CA, USA. 3
+Cell Signalling Group, Department of Molecular
+Oncology, Weatherall Institute of Molecular Medicine, John Radcliffe Hospital,
+Oxford University, Headley Way, Oxford OX3 9DS, UK.
+Authors’ contributions
+All authors contributed to the writing of this manuscript and approved the
+final version.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 5 March 2011 Accepted: 15 May 2011 Published: 15 May 2011
+References
+1. CH Browning, JB Cohen, R Gaunt, R Gulbransen, Relationships between
+antiseptic action and chemical consitution with special reference to
+compounds of the pyridine, quinoline, acridine and phenazine series.
+Proceedings of the Royal Society. 93, 329–366 (1922). doi:10.1098/
+rspb.1922.0025
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 11 of 18
+2. CH Browning, Synthetic dyes as antiseptics and chemotherapeutic agents.
+Nature. 109, 750–751 (1922)
+3. M Wainwright, Acridine-a neglected antibacterial chromophore.
+J Antimicrob Chemother. 47, 1–13 (2001)
+4. D Greenwood, Conflicts of interest: the genesis of synthetic antimalarial
+agents in peace and war. J Antimicrob Chemother. 36, 857–872 (1995).
+doi:10.1093/jac/36.5.857
+5. Office of the Surgeon General UCln, The drug treament of malaria,
+suppressive and clinical. J Am Med Assoc. 123, 205–208 (1943)
+6. LS Goodman, A Gilman, (Eds.), Goodman and Gilman’s The Pharmacological
+Basis of Therapeutics. (New Yourk: Macmillian, 1954), 2
+7. Joint Report of the Armored Medical Research Laboratory and Commission
+on Tropical Diseases AEB, Preventative Medicine Service, Office of the
+Surgen General, US Army, Plasma quinacrine concentration as a function of
+dosage and enviornment. Arch Intern Med. 78, 64–107 (1946)
+8. JA Shannon, DP Earle, BB Brodie, JV Taggart, RW Berliner, TRSotR Service,
+The pharmacological basis for the rational use of Atabrine in the treatment
+of malaria. J Pharmacol Exp Ther. 81, 307–330 (1944)
+9. JW Jailer, Fluorescent microscopic study of the physiological distribution of
+Atabrine. Science. 102, 258–259 (1945). doi:10.1126/science.102.2645.258
+10. AM Cancel, JE Dillberger, CM Kelly, HF Bolte, DM Creasy, DC Sokal, A
+lifetime cancer bioassay of quinacrine administered into the uterine horns
+of female rats. Regul Toxicol Pharmacol. (2009)
+11. RR Babb, Giardiasis. Taming this pervasive parasitic infection. Postgrad Med.
+98, 155–158 (1995)
+12. GL Mandell, JE Bennett, R Dolin, Principles and practice of infectious
+diseases. in Principles and practice of infectious diseases, ed. by Mandell
+GL, Bennett JE, Dolin R (New York: Churchill Livingstone, 1995), pp.
+4–69
+13. SJ Lerman, RA Walker, Treatment of giardiasis: literature review and
+recommendations. Clin Pediatr (Phila). 21, 409–414 (1982). doi:10.1177/
+000992288202100704
+14. PW Pappas, DA Leiby, Competitive, uncompetitive, and mixed inhibitors of
+the alkaline phosphatase activity associated with the isolated brush border
+membrane of the tapeworm Hymenolepis diminuta. J Cell Biochem. 40,
+239–248 (1989). doi:10.1002/jcb.240400212
+15. AC Cruz, Treatment of human taeniasis in the Philippines: a review.
+Southeast Asian J Trop Med Public Health. 22(Suppl):271–274 (1991)
+16. PA Koul, A Wahid, MH Bhat, JI Wani, BA Sofi, Mepacrine therapy in
+niclosamide resistant taeniasis. J Assoc Physicians India. 48, 402–403 (2000)
+17. R Feldmann, D Salomon, JH Saurat, The association of the two antimalarials
+chloroquine and quinacrine for treatment-resistant chronic and subacute
+cutaneous lupus erythematosus. Dermatology. 189, 425–427 (1994).
+doi:10.1159/000246899
+18. V Werth, Current treatment of cutaneous lupus erythematosus. Dermatol
+Online J. 7, 2 (2001)
+19. S Kalia, JP Dutz, New concepts in antimalarial use and mode of action in
+dermatology. Dermatol Ther. 20, 160–174 (2007). doi:10.1111/j.1529-
+8019.2007.00131.x
+20. I Cavazzana, R Sala, C Bazzani, A Ceribelli, C Zane, R Cattaneo, A Tincani, PG
+Calzavara-Pinton, F Franceschini, Treatment of lupus skin involvement with
+quinacrine and hydroxychloroquine. Lupus. 18, 735–739 (2009). doi:10.1177/
+0961203308101714
+21. DJ Wallace, The use of quinacrine (Atabrine) in rheumatic diseases: a
+reexamination. Semin Arthritis Rheum. 18, 282–296 (1989). doi:10.1016/
+0049-0172(89)90050-4
+22. D Lipsker, JC Piette, P Cacoub, P Godeau, C Frances, Chloroquine-quinacrine
+association in resistant cutaneous lupus. Dermatology. 190, 257–258 (1995).
+doi:10.1159/000246710
+23. RI Rynes, Antimalarial drugs in the treatment of rheumatological diseases.
+Br J Rheumatol. 36, 799–805 (1997). doi:10.1093/rheumatology/36.7.799
+24. WA Denny, BC Baguley, BF Cain, MJ Waring, Antitumor acridines. in
+Molecular apects of anticancer drug action, ed. by Neidle S, Waring MJ
+(London: Macmillin, 1983), pp. 1–34
+25. RI Hiller, A study of quinacrine dihyochloride in the human breast in vitro
+and in vivo. Am J Surg. 119, 317–321 (1970). doi:10.1016/0002-9610(70)
+90058-9
+26. SA Taylor, NS Hooton, AM Macarthur, Quinacrine in the management of
+malignant pleural effusion. Br J Surg. 64, 52–53 (1977). doi:10.1002/
+bjs.1800640113
+27. S Koldsland, JL Svennevig, G Lehne, E Johnson, Chemical pleurodesis in
+malignant pleural effusions: a randomised prospective study of mepacrine
+versus bleomycin. Thorax. 48, 790–793 (1993). doi:10.1136/thx.48.8.790
+28. V Agrenius, V Ukale, O Widstrom, G Kallenius, SB Svenson, Quinacrine-
+induced pleural inflammation in malignant pleurisy: relation between
+drainage time of pleural fluid and local interleukin-1 beta levels. Respiration.
+60, 366–372 (1993). doi:10.1159/000196237
+29. HM Janzing, A Derom, E Derom, C Eeckhout, F Derom, MT Rosseel,
+Intrapleural quinacrine instillation for recurrent pneumothorax or persistent
+air leak. Ann Thorac Surg. 55, 368–371 (1993). doi:10.1016/0003-4975(93)
+90999-X
+30. AJ Larrieu, GF Tyers, EH Williams, MJ O’Neill, JR Derrick, Intrapleural
+instillation of quinacrine for treatment of recurrent spontaneous
+pneumothorax. Ann Thorac Surg. 28, 146–150 (1979). doi:10.1016/S0003-
+4975(10)63772-1
+31. DA Karnofsky, Cancer Chemotherapeutic Agents. CA Cancer J Clin. 14,
+67–72 (1964). doi:10.3322/canjclin.14.2.67
+32. RV Bhatt, A Aparicio, LE Laufe, T Parmley, TM King, Quinacrine-induced
+pathologic changes in the fallopian tube. Fertil Steril. 33, 666–667 (1980)
+33. DT Hieu, TT Tan, DN Tan, PT Nguyet, P Than, DQ Vinh, 31,781 cases of non-
+surgical female sterilisation with quinacrine pellets in Vietnam. Lancet. 342,
+213–217 (1993). doi:10.1016/0140-6736(93)92302-A
+34. E Kessel, 100,000 quinacrine sterilizations. Adv Contracept. 12, 69–76 (1996).
+doi:10.1007/BF01849629
+35. J Zipper, V Trujillo, 25 years of quinacrine sterilization experience in Chile:
+review of 2,592 cases. Int J Gynaecol Obstet. 83(Suppl 2):S23–29 (2003)
+36. Physicians’ Desk Reference, 47th edn. (Montavile, NJ: Thomas PDR, 1993)
+37. F Ottolenghi-Lodigiani, Treatment of chronic lupus erythematosus, local
+intradermal infiltration with an acridine preparation. Hautarzt. 6, 24–27 (1955)
+38. W Thies, Recent experience in the treatment of erythematodes chronicus
+discoides with atebrin and resochin, with special reference to local and
+combined therapeutic methods. Hautarzt. 6, 227–232 (1955)
+39. TC Bayly, DL Kisner, A Sybert, JS Macdonald, E Tsou, PS Schein, Tetracycline
+and quinacrine in the control of malignant pleural effusions. A randomized
+trial. Cancer. 41, 1188–1192 (1978). doi:10.1002/1097-0142(197803)41:33.0.
+CO;2-O
+40. WC Campbell, The chemotherapy of parasitic infections. J Parasitol. 72,
+45–61 (1986). doi:10.2307/3281795
+41. S Bjorkman, LO Elisson, J Gabrielsson, Pharmacokinetics of quinacrine after
+intrapleural instillation in rabbits and man. J Pharm Pharmacol. 41, 160–163
+(1989)
+42. LE Laufe, DC Sokal, LP Cole, D Shoupe, RS Schenken, Phase I prehysterectomy
+studies of the transcervical administration of quinacrine pellets. Contraception.
+54, 181–186 (1996). doi:10.1016/S0010-7824(96)00174-6
+43. S Looareesuwan, RE Phillips, G Edwards, CL Rodick, P Chanthavanich, W
+Supanaranond, DA Warrell, Mepacrine accumulation during treatment of
+chloroquine-resistant falciparum malaria. Ann Trop Med Parasitol. 82,
+107–112 (1988)
+44. NB Ackerman, DK Haldorsen, DL Wallace, AJ Madsen, AS McFee,
+Aminoacridine uptake by experimental tumors. JAMA. 191, 103–104 (1965)
+45. NB Ackerman, A Shemesh, Localization of aminoacridine fluorescence in
+lung tumors of rats. JAMA. 187, 832–833 (1964)
+46. LJ Anghileri, Uptake of iodine-131-labelled atabrine by Ehrlich ascites
+tumour and by sarcoma S-180 BALB. Nature. 211, 878 (1966)
+47. W Gibb, DA Isenberg, ML Snaith, Mepacrine induced hepatitis. Ann Rheum
+Dis. 44, 861–862 (1985). doi:10.1136/ard.44.12.861
+48. SJ Walker, S Montgomery, R Brearley, A Galloway, A case of primary
+peritonitis possibly related to mepacrine. J R Coll Surg Edinb. 32, 321–322
+(1987)
+49. RL Zuehlke, PJ Lillis, A Tice, Antimalarial therapy for lupus erythematosus: an
+apparent advantage of quinacrine. Int J Dermatol. 20, 57–61 (1981).
+doi:10.1111/j.1365-4362.1981.tb05295.x
+50. RE Carr, P Henkind, N Rothfield, IM Siegel, Ocular toxicity of antimalarial
+drugs. Long-term follow-up. Am J Ophthalmol. 66, 738–744 (1968)
+51. VE Ansdell, JD Common, Corneal changes induced by mepacrine. J Trop
+Med Hyg. 82, 206–207 (1979)
+52. WP Chamberlain, DJ Boles, Edema of cornea precipitated by quinacrine
+(Atabrine). Arch Ophthalmol. 35, 120–134 (1946)
+53. GL Engel, Quinacrine effects on the central nervous system. JAMA. 197, 515
+(1966). doi:10.1001/jama.197.6.515
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 12 of 18
+54. JP Lindenmayer, P Vargas, Toxic psychosis following use of quinacrine.
+J Clin Psychiatry. 42, 162–164 (1981)
+55. WQ Ward, WG Walter-Ryan, GM Shehi, Toxic psychosis: a complication of
+antimalarial therapy. J Am Acad Dermatol. 12, 863–865 (1985). doi:10.1016/
+S0190-9622(85)70109-0
+56. RL Evans, S Khalid, JL Kinney, Antimalarial psychosis revisited. Arch
+Dermatol. 120, 765–767 (1984). doi:10.1001/archderm.120.6.765
+57. HS Gaskill, T Fitz-Hugh, Toxic psychosis following Atabrine. Bull US Army
+Med Dept. 86, 63–69 (1945)
+58. T Lidz, RL Kahn, Toxicity of quinacrine (Atabrine) for the cental nervous
+system. Arch Neurol. 56, 284–289 (1946)
+59. RP Custer, Aplastic anemia in soldiers treated with Atabrine (quinacrine).
+Am J Med Sci. 212, 211–224 (1946)
+60. AP Fishman, JM Kinsman, Hypoplastic anemia due to atabrine. Blood. 4,
+970–976 (1949)
+61. A Freedman, F Bach, Mepacrine and rheumatoid arthritis. Lancet. 2, 321
+(1952)
+62. LG Parmer, A Sawitsky, Fatal aplastic anemia following quinacrine therapy in
+chronic discoid lupus erythematosus. J Am Med Assoc. 153, 1172–1174
+(1953)
+63. MD Paton, MJ Riddell, JA Strong, Aplastic anaemia following mepacrine
+treatment of lupus erythematosus. Lancet. 268, 281–282 (1955)
+64. L Biro, N Leone, Aplastic anemia induced by quinacrine. Arch Dermatol. 92,
+574–576 (1965). doi:10.1001/archderm.1965.01600170090017
+65. I Schmid, C Anasetti, FB Petersen, R Storb, Marrow transplantation for
+severe aplastic anemia associated with exposure to quinacrine. Blut. 61,
+52–54 (1990). doi:10.1007/BF02076699
+66. J Collinge, M Gorham, F Hudson, A Kennedy, G Keogh, S Pal, M Rossor, P
+Rudge, D Siddique, M Spyer, D Thomas, S Walker, T Webb, S Wroe, J
+Darbyshire, Safety and efficacy of quinacrine in human prion disease
+(PRION-1 study): a patient-preference trial. Lancet Neurol. 8, 334–344 (2009).
+doi:10.1016/S1474-4422(09)70049-3
+67. F Bauer, Quinacrine hydrochloride drug eruption (tropical lichenoid
+dermatitis). Its early and late sequelae and its malignant potential: a review.
+J Am Acad Dermatol. 4, 239–248 (1981). doi:10.1016/S0190-9622(81)70025-2
+68. MA Lerman, N Karimbux, KA Guze, SB Woo, Pigmentation of the hard
+palate. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 107, 8–12 (2009).
+doi:10.1016/j.tripleo.2008.07.022
+69. VW Lippard, G Kauer, Pigmentation of the palate and subungual tissue
+associated with suppressive quinacrine hydrochloride therapy. Am J Tropic
+Med. 25, 469–471 (1945)
+70. CL Kleinegger, HL Hammond, MW Finkelstein, Oral mucosal
+hyperpigmentation secondary to antimalarial drug therapy. Oral Surg Oral
+Med Oral Pathol Oral Radiol Endod. 90, 189–194 (2000). doi:10.1067/
+moe.2000.106340
+71. MJ Egorin, DL Trump, CW Wainwright, Quinacrine ochronosis and
+rheumatoid arthritis. JAMA. 236, 385–386 (1976). doi:10.1001/jama.236.4.385
+72. IM Leigh, CT Kennedy, JD Ramsey, WJ Henderson, Mepacrine pigmentation
+in systemic lupus erythematosus. New data from an ultrastructural,
+biochemical and analytical electron microscopic investigation. Br J
+Dermatol. 101, 147–153 (1979). doi:10.1111/j.1365-2133.1979.tb05599.x
+73. RJ Sokol, PK Lichtenstein, MK Farrell, Quinacrine hydrochloride-induced
+yellow discoloration of the skin in children. Pediatrics. 69, 232–233 (1982)
+74. JL Callaway, Late sequelae of quinacrine dermatitis, a new premalignant
+entity. J Am Acad Dermatol. 1, 456 (1979). doi:10.1016/S0190-9622(79)
+80072-9
+75. F Bauer, Late sequelae of atabrine dermatitis–a new pre-malignant entity.
+Australas J Dermatol. 19, 9–12 (1978). doi:10.1111/j.1440-0960.1978.tb00178.x
+76. DL Tuffanelli, Quinacrine ochronosis. JAMA. 236, 2491 (1976)
+77. A Dabancens, DC Sokal, M Pruyas, M Rivera, J Zipper, Prevalence and
+standardized incidence rates of preclinical cervical pathology among 1,061
+women sterilized with transcervical quinacrine hydrochloride pellets. Fertil
+Steril. 64, 444–446 (1995)
+78. DC Sokal, J Zipper, R Guzman-Serani, TE Aldrich, Cancer risk among women
+sterilized with transcervical quinacrine hydrochloride pellets, 1977 to 1991.
+Fertil Steril. 64, 325–334 (1995)
+79. DC Sokal, A Dabancens, R Guzman-Serani, J Zipper, Cancer risk among
+women sterilized with transcervical quinacrine in Chile: an update through
+1996. Fertil Steril. 74, 169–171 (2000). doi:10.1016/S0015-0282(00)00581-1
+80. M Castelli, G Baggio, AI Ruberto, A Tampieri, PL Tartoni, T Rossi, MR Bossa, I
+Galatulas, Influence of antimalarials chloroquine, quinine, primaquine and
+mepacrine on the evolution of Ehrlich ascites tumour. Anticancer Res. 16,
+2673–2675 (1996)
+81. P Dutta, R Karmali, JT Pinto, RS Rivlin, Enhanced growth of mammary
+adenocarcinoma in rats by chloroquine and quinacrine. Cancer Lett. 76,
+113–119 (1994). doi:10.1016/0304-3835(94)90386-7
+82. A Dabancens, J Zipper, A Guerrero, Quinacrine and copper, compounds
+with anticonceptive and antineoplastic activity. Contraception. 50, 243–251
+(1994). doi:10.1016/0010-7824(94)90070-1
+83. JA Zipper, AO Dabancens, AC Guerrero, Opposing effects of quinacrine and
+chloroquine on the development of TA3 transplanted tumors in mice. Biol
+Res. 28, 227–230 (1995)
+84. J Zipper, A Dabancens, A Guerrero, V Trujillo, Quinacrine revised. Hum
+Reprod Update. 1, 324–342 (1995). doi:10.1093/humupd/1.4.324
+85. H Siegel, CW Mushett, Structural changes following administration of
+quinacrine hydrochloride. Arch Path. 38 (1944)
+86. CW Mushett, H Siegel, Hematological changes following the administration
+of large doses of quinacrine hydrochloride. Blood. 1, 537–547 (1946)
+87. R Keeler, H Richardson, AJ Watson, Enteromegaly and steatorrhea in the rat
+following intraperitoneal quinacrine (atrabrine). Lab Invest. 15, 1253–1262
+(1966)
+88. BL Roth, DJ Sheffler, WK Kroeze, Magic shotguns versus magic bullets:
+selectively non-selective drugs for mood disorders and schizophrenia. Nat
+Rev Drug Discov. 3, 353–359 (2004). doi:10.1038/nrd1346
+89. AL Hopkins, JS Mason, JP Overington, Can we rationally design
+promiscuous drugs? Curr Opin Struct Biol. 16, 127–136 (2006). doi:10.1016/j.
+sbi.2006.01.013
+90. A Sivachenko, A Kalinin, A Yuryev, Pathway analysis for design of
+promiscuous drugs and selective drug mixtures. Curr Drug Discov Technol.
+3, 269–277 (2006). doi:10.2174/157016306780368117
+91. JP Overington, B Al-Lazikani, AL Hopkins, How many drug targets are there?
+Nat Rev Drug Discov. 5, 993–996 (2006). doi:10.1038/nrd2199
+92. DR Boer, A Canals, M Coll, DNA-binding drugs caught in action: the latest
+3D pictures of drug-DNA complexes. Dalton Trans. 399–414 (2009)
+93. U Pindur, M Jansen, T Lemster, Advances in DNA-ligands with groove
+binding, intercalating and/or alkylating activity: chemistry, DNA-binding and
+biology. Curr Med Chem. 12, 2805–2847 (2005). doi:10.2174/
+092986705774454698
+94. L Strekowski, B Wilson, Noncovalent interactions with DNA: an overview.
+Mutat Res. 623, 3–13 (2007)
+95. LS Lerman, Structural considerations in the interaction of DNA and
+acridines. J Mol Biol. 3, 18–30 (1961). doi:10.1016/S0022-2836(61)80004-1
+96. MJ Waring, DNA-binding characteristics of acridinylmethanesulphonanilide
+drugs: comparison with antitumour properties. Eur J Cancer. 12, 995–1001
+(1976)
+97. LS Lerman, The structure of the DNA-acridine complex. Proc Natl Acad Sci
+USA. 49, 94–102 (1963). doi:10.1073/pnas.49.1.94
+98. M Aslanoglu, G Ayne, Voltammetric studies of the interaction of quinacrine
+with DNA. Anal Bioanal Chem. 380, 658–663 (2004). doi:10.1007/s00216-
+004-2797-5
+99. SM Doglia, B Albinsson, C Hiort, B Norden, A Graslund, Quinacrine:
+Spectroscopic properties and interactions with polynucleotides.
+Biopolymers. 33, 1431–1442 (1993). doi:10.1002/bip.360330913
+100. S Doglia, A Graslund, A Ehrenberg, Specific interactions between quinacrine
+and self-complementary deoxydinucleotides. Anticancer Res. 6, 1363–1368
+(1986)
+101. G Lober, The fluorescence of dye-nucleic acid complexes. J Luminescence.
+22, 221–265 (1981). doi:10.1016/0022-2313(81)90022-3
+102. L Rivas, A Murza, S Sanchez-Cortes, JV Garcia-Ramos, Interaction of
+antimalarial drug quinacrine with nucleic acids of variable sequence studied
+by spectroscopic methods. J Biomol Struct Dyn. 18, 371–383 (2000)
+103. B Weisblum, PL De Haseth, Quinacrine, a chromosome stain specific for
+deoxyadenylate-deoxythymidylaterich regions in DNA. Proc Natl Acad Sci
+USA. 69, 629–632 (1972). doi:10.1073/pnas.69.3.629
+104. M Nastasi, RW Yip, VL Seligy, AG Szabo, RE Williams, Exciton-like splitting in
+acridine dye-nucleic acid complexes. Nature. 249, 248–250 (1974).
+doi:10.1038/249248a0
+105. DG Gorenstein, K Lai, 31P NMR spectra of ethidium, quinacrine, and
+daunomycin complexes with poly(adenylic acid).poly(uridylic acid) RNA
+duplex and calf thymus DNA. Biochemistry. 28, 2804–2812 (1989).
+doi:10.1021/bi00433a010
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 13 of 18
+106. RK Selander, Interaction of quinacrine mustard with mononucleotides and
+polynucleotides. Biochem J. 131, 749–755 (1973)
+107. A Andreoni, R Cubeddu, S De Silvestri, P Laporta, Time-resolved
+fluorescence spectrum of quinacrine mustard bound to synthetic
+polynucleotides. Chemical Physics Letters. 80, 323–326 (1981). doi:10.1016/
+0009-2614(81)80118-2
+108. JF Constant, P Laugaa, BP Roques, J Lhomme, Heterodimeric molecules
+including nucleic acid bases and 9-aminoacridine. Spectroscopic studies,
+conformations, and interactions with DNA. Biochemistry. 27, 3997–4003
+(1988). doi:10.1021/bi00411a016
+109. RD Snyder, MR Arnone, Putative identification of functional interactions
+between DNA intercalating agents and topoisomerase II using the V79 in
+vitro micronucleus assay. Mutat Res. 503, 21–35 (2002)
+110. RL O’Brien, JG Olenick, FE Hahn, Reactions of quinine, chloroquine, and
+quinacrine with DNA and their effects on the DNA and RNA polymerase
+reactions. Proc Natl Acad Sci USA. 55, 1511–1517 (1966). doi:10.1073/
+pnas.55.6.1511
+111. FE Hahn, RL O’Brien, J Ciak, JL Allison, JG Olenick, Studies on modes of
+action of chloroquine, quinacrine, and quinine and on chloroquine
+resistance. Mil Med. 131(Suppl):1071–1089 (1966)
+112. A Kagemoto, A Kunihiro, Y Baba, Thermodynamic studies on interactions
+between DNA and dye. Thermochimica Acta. 242, 65–75 (1994)
+113. T Haerd, P Fan, D Magde, DR Kearns, On the flexibility of DNA: time-
+resolved fluorescence polarization of intercalated quinacrine and 9-amino-6-
+chloro-2-methoxyacridine. The Journal of Physical Chemistry. 93, 4338–4345
+(2002)
+114. AT Sumner, Mechanisms of quinacrine binding and fluorescence in nuclei
+and chromosomes. Histochemistry. 84, 566–574 (1986). doi:10.1007/
+BF00482993
+115. G Baldini, S Doglia, S Dolci, G Sassi, Fluorescence-determined preferential
+binding of quinacrine to DNA. Biophys J. 36, 465–477 (1981). doi:10.1016/
+S0006-3495(81)84746-7
+116. N Xamena, A Creus, A Velazquez, R Marcos, Testing of chloroquine and
+quinacrine for mutagenicity in Drosophila melanogaster. Mutat Res. 158,
+177–180 (1985). doi:10.1016/0165-1218(85)90081-3
+117. WA Denny, DNA-intercalating ligands as anti-cancer drugs: prospects for
+future design. Anticancer Drug Des. 4, 241–263 (1989)
+118. LF Liu, DNA topoisomerase poisons as antitumor drugs. Annu Rev Biochem.
+58, 351–375 (1989). doi:10.1146/annurev.bi.58.070189.002031
+119. JB Le Pecq, X Nguyen Dat, C Gosse, C Paoletti, A new antitumoral agent: 9-
+hydroxyellipticine. Possibility of a rational design of anticancerous drugs in
+the series of DNA intercalating drugs. Proc Natl Acad Sci USA. 71,
+5078–5082 (1974). doi:10.1073/pnas.71.12.5078
+120. JA Hartley, K Reszka, ET Zuo, WD Wilson, AR Morgan, JW Lown,
+Characteristics of the interaction of anthrapyrazole anticancer agents with
+deoxyribonucleic acids: structural requirements for DNA binding,
+intercalation, and photosensitization. Mol Pharmacol. 33, 265–271 (1988)
+121. L Valentini, V Nicolella, E Vannini, M Menozzi, S Penco, F Arcamone,
+Association of anthracycline derivatives with DNA: a fluorescence study.
+Farmaco Sci. 40, 377–390 (1985)
+122. JL Mergny, P Mailliet, F Lavelle, JF Riou, A Laoui, C Helene, The
+development of telomerase inhibitors: the G-quartet approach. Anticancer
+Drug Des. 14, 327–339 (1999)
+123. RJ Harrison, SM Gowan, LR Kelland, S Neidle, Human telomerase inhibition
+by substituted acridine derivatives. Bioorg Med Chem Lett. 9, 2463–2468
+(1999). doi:10.1016/S0960-894X(99)00394-7
+124. PJ Perry, TC Jenkins, Recent advances in the development of telomerase
+inhibitors for the treatment of cancer. Expert Opin Investig Drugs. 8,
+1981–2008 (1999). doi:10.1517/13543784.8.12.1981
+125. JE Redman, JM Granadino-Roldan, JA Schouten, S Ladame, AP Reszka, S
+Neidle, S Balasubramanian, Recognition and discrimination of DNA
+quadruplexes by acridine-peptide conjugates. Org Biomol Chem. 7, 76–84
+(2009). doi:10.1039/b814682a
+126. MA Read, AA Wood, JR Harrison, SM Gowan, LR Kelland, HS Dosanjh, S
+Neidle, Molecular modeling studies on G-quadruplex complexes of
+telomerase inhibitors: structure-activity relationships. J Med Chem. 42,
+4538–4546 (1999). doi:10.1021/jm990287e
+127. AH Corbett, N Osheroff, When good enzymes go bad: conversion of
+topoisomerase II to a cellular toxin by antineoplastic drugs. Chem Res
+Toxicol. 6, 585–597 (1993). doi:10.1021/tx00035a001
+128. MJ Robinson, N Osheroff, Stabilization of the topoisomerase II-DNA
+cleavage complex by antineoplastic drugs: inhibition of enzyme-mediated
+DNA religation by 4’-(9-acridinylamino)methanesulfon-m-anisidide.
+Biochemistry. 29, 2511–2515 (1990). doi:10.1021/bi00462a012
+129. TL Su, Development of DNA topoisomerase II-mediated anticancer agents,
+3-(9-acridinylamino)-5-hydroxymethylanilines (AHMAs) and related
+compounds. Curr Med Chem. 9, 1677–1688 (2002)
+130. WA Denny, BC Baguley, Dual topoisomerase I/II inhibitors in cancer therapy.
+Curr Top Med Chem. 3, 339–353 (2003). doi:10.2174/1568026033452555
+131. WA Denny, Acridine derivatives as chemotherapeutic agents. Curr Med
+Chem. 9, 1655–1665 (2002)
+132. CHCM Buys, Telomeres, telomerase, and cancer. N Engl J Med. 342,
+1282–1283 (2000). doi:10.1056/NEJM200004273421710
+133. A Satyanarayana, MP Manns, KL Rudolph, Telomeres, telomerase and
+cancer: an endless search to target the ends. Cell Cycle. 3, 1138–1150
+(2004)
+134. MO Robinson, Telomerase and cancer. Genet Eng (N Y). 22, 209–222 (2000)
+135. HM Wong, L Payet, JL Huppert, Function and targeting of G-quadruplexes.
+Curr Opin Mol Ther. 11, 146–155 (2009)
+136. JH Tan, LQ Gu, JY Wu, Design of selective G-quadruplex ligands as potential
+anticancer agents. Mini Rev Med Chem. 8, 1163–1178 (2008). doi:10.2174/
+138955708785909880
+137. YH Hsiang, HY Wu, LF Liu, Topoisomerases: novel therapeutic targets in
+cancer chemotherapy. Biochem Pharmacol. 37, 1801–1802 (1988).
+doi:10.1016/0006-2952(88)90453-4
+138. PK Dominick, BR Keppler, JD Legassie, IK Moon, MB Jarstfer, Nucleic acid-
+binding ligands identify new mechanisms to inhibit telomerase. Bioorg
+Med Chem Lett. 14, 3467–3471 (2004). doi:10.1016/j.bmcl.2004.04.055
+139. D Sun, B Thompson, BE Cathers, M Salazar, SM Kerwin, JO Trent, TC Jenkins,
+S Neidle, LH Hurley, Inhibition of human telomerase by a G-quadruplex-
+interactive compound. J Med Chem. 40, 2113–2116 (1997). doi:10.1021/
+jm970199z
+140. KA Werbovetz, EK Lehnert, TL Macdonald, RD Pearson, Cytotoxicity of
+acridine compounds for Leishmania promastigotes in vitro. Antimicrob
+Agents Chemother. 36, 495–497 (1992)
+141. SW Langer, G Schmidt, M Sorensen, M Sehested, PB Jensen, Inhibitors of
+topoisomerase II as pH-dependent modulators of etoposide-mediated
+cytotoxicity. Clin Cancer Res. 5, 2899–2907 (1999)
+142. O Popanda, HW Thielmann, The function of DNA topoisomerases in UV-
+induced DNA excision repair: studies with specific inhibitors in
+permeabilized human fibroblasts. Carcinogenesis. 13, 2321–2328 (1992).
+doi:10.1093/carcin/13.12.2321
+143. AS Sideropoulos, SM Specht, MT Jones, Feasibility of testing DNA repair
+inhibitors for mutagenicity by a simple method. Mutation Research/
+Environmental Mutagenesis and Related Subjects. 74, 95–105 (1980).
+doi:10.1016/0165-1161(80)90235-6
+144. Z Fuks, KC Smith, Effect of quinacrine on x-ray sensitivity and the repair of
+damaged DNA in Escherichia coli K-12. Radiat Res. 48, 63–73 (1971).
+doi:10.2307/3573395
+145. JA Skare, TK Wong, Lack of specific inhibition of DNA repair in WI-38
+human diploid fibroblasts by sodium saccharin. Cancer Letters. 26, 191–200
+(1985). doi:10.1016/0304-3835(85)90026-6
+146. HW Thielmann, O Popanda, H Gersbach, F Gilberg, Various inhibitors of
+DNA topoisomerases diminish repair-specific DNA incision in UV-irradiated
+human fibroblasts. Carcinogenesis. 14, 2341–2351 (1993). doi:10.1093/carcin/
+14.11.2341
+147. O Popanda, HW Thielmann, The function of DNA polymerases in DNA
+repair synthesis of ultraviolet-irradiated human fibroblasts. Biochim Biophys
+Acta. 1129, 155–160 (1992)
+148. N Voiculetz, KC Smith, HS Kaplan, Effect of Quinacrine on survival and DNA
+repair in X-irradiated chinese hamster cells. Cancer Res. 34, 1038–1044
+(1974)
+149. CS Downes, RT Johnson, DNA topoisomerases and DNA repair. Bioessays. 8,
+179–184 (1988). doi:10.1002/bies.950080602
+150. MW Lieberman, Alterations in chromatin structure during DNA excision
+repair. Basic Life Sci. 20, 303–314 (1982)
+151. GE Arnold, AK Dunker, MJ Smerdon, Limited nucleosome migration can
+completely randomize DNA repair patches in intact human cells. J Mol Biol.
+196, 433–436 (1987). doi:10.1016/0022-2836(87)90703-0
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 14 of 18
+152. K Sidik, MJ Smerdon, Rearrangement of nucleosome structure during
+excision repair in xeroderma pigmentosum (group A) human fibroblasts.
+Carcinogenesis. 8, 733–736 (1987). doi:10.1093/carcin/8.5.733
+153. E Schneider, SJ Darkin, PA Lawson, LM Ching, RK Ralph, BC Baguley, Cell
+line selectivity and DNA breakage properties of the antitumour agent N-[2-
+(dimethylamino)ethyl]acridine-4-carboxamide: role of DNA topoisomerase II.
+Eur J Cancer Clin Oncol. 24, 1783–1790 (1988). doi:10.1016/0277-5379(88)
+90082-X
+154. EC Friedberg, Yeast genes involved in DNA-repair processes: new looks on
+old faces. Mol Microbiol. 5, 2303–2310 (1991). doi:10.1111/j.1365-2958.1991.
+tb02074.x
+155. K Van Dyke, C Lantz, C Szustkiewicz, Quinacrine: mechanisms of antimalarial
+action. Science. 169, 492–493 (1970). doi:10.1126/science.169.3944.492
+156. SC Chou, S Ramanathan, Quinacrine: site of inhibition of synchronized cell
+division in Tetrahymena. Life Sci. 7, 1053–1062 (1968). doi:10.1016/0024-
+3205(68)90142-2
+157. G Fox, O Popanda, L Edler, HW Thielmann, Preferential inhibition of DNA
+polymerases alpha, delta, and epsilon from Novikoff hepatoma cells by
+inhibitors of cell proliferation. J Cancer Res Clin Oncol. 122, 78–94 (1996).
+doi:10.1007/BF01226265
+158. TS Wang, SW Wong, D Korn, Human DNA polymerase alpha: predicted
+functional domains and relationships with viral DNA polymerases. FASEB J.
+3, 14–21 (1989)
+159. TS Wang, Eukaryotic DNA polymerases. Annu Rev Biochem. 60, 513–552
+(1991). doi:10.1146/annurev.bi.60.070191.002501
+160. SZ Hirschman, E Garfinkel, Inhibition of hepatitis B DNA polymerase by
+intercalating agents. Nature. 271, 681–683 (1978). doi:10.1038/271681a0
+161. G Hess, W Arnold, B Moller, GM Gahl, KH Meyerzum Buschenfelde,
+Inhibition of hepatitis B virus specific DNA polymerase by intercalating
+agents. Med Microbiol Immunol. 168, 25–34 (1980). doi:10.1007/BF02121649
+162. K Goda, Z Bacso, G Szabo, Multidrug resistance through the spectacle of P-
+glycoprotein. Curr Cancer Drug Targets. 9, 281–297 (2009). doi:10.2174/
+156800909788166493
+163. G Lehne, P-glycoprotein as a drug target in the treatment of multidrug
+resistant cancer. Curr Drug Targets. 1, 85–99 (2000). doi:10.2174/
+1389450003349443
+164. F Hyafil, C Vergely, P Du Vignaud, T Grand-Perret, In vitro and in vivo
+reversal of multidrug resistance by GF120918, an acridonecarboxamide
+derivative. Cancer Res. 53, 4595–4602 (1993)
+165. P Singh, J Kaur, P Kaur, S Kaur, Search for MDR modulators: design,
+syntheses and evaluations of N-substituted acridones for interactions with
+p-glycoprotein and Mg2+. Bioorg Med Chem. 17, 2423–2427 (2009).
+doi:10.1016/j.bmc.2009.02.002
+166. YC Mayur, GJ Peters, VV Prasad, C Lemo, NK Sathish, Design of new drug
+molecules to be used in reversing multidrug resistance in cancer cells. Curr
+Cancer Drug Targets. 9, 298–306 (2009). doi:10.2174/156800909788166619
+167. R Perez-Tomas, Multidrug resistance: retrospect and prospects in anti-cancer
+drug treatment. Curr Med Chem. 13, 1859–1876 (2006). doi:10.2174/
+092986706777585077
+168. HC Traunecker, MC Stevens, DJ Kerr, DR Ferry, The acridonecarboxamide
+GF120918 potently reverses P-glycoprotein-mediated resistance in human
+sarcoma MES-Dx5 cells. Br J Cancer. 81, 942–951 (1999). doi:10.1038/sj.
+bjc.6690791
+169. S Nobili, I Landini, B Giglioni, E Mini, Pharmacological strategies for
+overcoming multidrug resistance. Curr Drug Targets. 7, 861–879 (2006).
+doi:10.2174/138945006777709593
+170. GW Liang, WL Lu, JW Wu, JH Zhao, HY Hong, C Long, T Li, YT Zhang, H
+Zhang, JC Wang, X Zhang, Q Zhang, Enhanced therapeutic effects on the
+multi-drug resistant human leukemia cells in vitro and xenograft in mice
+using the stealthy liposomal vincristine plus quinacrine. Fundam Clin
+Pharmacol. 22, 429–437 (2008). doi:10.1111/j.1472-8206.2008.00613.x
+171. M Inaba, E Maruyama, Reversal of resistance to vincristine in P388 leukemia
+by various polycyclic clinical drugs, with a special emphasis on quinacrine.
+Cancer Res. 48, 2064–2067 (1988)
+172. WT Beck, MC Cirtain, CJ Glover, RL Felsted, AR Safa, Effects of indole
+alkaloids on multidrug resistance and labeling of P-glycoprotein by a
+photoaffinity analog of vinblastine. Biochem Biophys Res Commun. 153,
+959–966 (1988). doi:10.1016/S0006-291X(88)81321-4
+173. JM Zamora, HL Pearce, WT Beck, Physical-chemical properties shared by
+compounds that modulate multidrug resistance in human leukemic cells.
+Mol Pharmacol. 33, 454–462 (1988)
+174. D Boscoboinik, RM Epand, Increased cellular internalization of amphiphiles
+in a multidrug-resistant CHO cell line. Biochim Biophys Acta. 1014, 53–56
+(1989). doi:10.1016/0167-4889(89)90239-5
+175. PL de Souza, M Castillo, CE Myers, Enhancement of paclitaxel activity
+against hormone-refractory prostate cancer cells in vitro and in vivo by
+quinacrine. Br J Cancer. 75, 1593–1600 (1997). doi:10.1038/bjc.1997.272
+176. RA Gupta, RN Dubois, Colorectal cancer prevention and treatment by
+inhibition of cyclooxygenase-2. Nat Rev Cancer. 1, 11–21 (2001).
+doi:10.1038/35094017
+177. JR Mann, RN DuBois, Cyclooxygenase-2 and gastrointestinal cancer. Cancer
+J. 10, 145–152 (2004). doi:10.1097/00130404-200405000-00001
+178. JM Kurie, RN Dubois, Prostaglandin E synthase: another enzyme in the
+cyclooxygenase pathway driving epithelial cancer? Clin Cancer Res. 7,
+2608–2610 (2001)
+179. PA Bunn Jr, RL Keith, The future of cyclooxygenase-2 inhibitors and other
+inhibitors of the eicosanoid signal pathway in the prevention and therapy
+of lung cancer. Clin Lung Cancer 3, 271–277 (2002). discussion 278.
+doi:10.3816/CLC.2002.n.012
+180. MJ Thun, B Blackard, Pharmacologic effects of NSAIDs and implications for
+the risks and benefits of long-term prophylactic use of aspirin to prevent
+cancer. Recent Results Cancer Res. 181, 215–221 (2009). doi:10.1007/978-3-
+540-69297-3_20
+181. MI Patel, C Kurek, Q Dong, The arachidonic acid pathway and its role in
+prostate cancer development and progression. J Urol. 179, 1668–1675
+(2008). doi:10.1016/j.juro.2007.12.037
+182. RL Keith, YE Miller, Lung cancer: genetics of risk and advances in
+chemoprevention. Curr Opin Pulm Med. 11, 265–271 (2005). doi:10.1097/01.
+mcp.0000166493.77412.2d
+183. P Jimenez, A Garcia, S Santander, E Piazuelo, Prevention of cancer in the
+upper gastrointestinal tract with COX-inhibition. Still an option? Curr Pharm
+Des. 13, 2261–2273 (2007)
+184. S Mehta, IT Johnson, M Rhodes, Systematic review: the chemoprevention of
+oesophageal adenocarcinoma. Aliment Pharmacol Ther. 22, 759–768 (2005).
+doi:10.1111/j.1365-2036.2005.02667.x
+185. E Fosslien, Molecular pathology of cyclooxygenase-2 in neoplasia. Ann Clin
+Lab Sci. 30, 3–21 (2000)
+186. H Tokumoto, JD Croxtall, Q Choudhury, RJ Flower, Phospholipase A2-
+induced stimulation of A549 lung adenocarcinoma cell line proliferation.
+Biochim Biophys Acta. 1169, 236–242 (1993)
+187. K Hanada, E Kinoshita, M Itoh, M Hirata, G Kajiyama, M Sugiyama, Human
+pancreatic phospholipase A2 stimulates the growth of human pancreatic
+cancer cell line. FEBS Lett. 373, 85–87 (1995). doi:10.1016/0014-5793(95)
+01005-Y
+188. S Yamashita, J Yamashita, M Ogawa, Overexpression of group II
+phospholipase A2 in human breast cancer tissues is closely associated with
+their malignant potency. Br J Cancer. 69, 1166–1170 (1994). doi:10.1038/
+bjc.1994.229
+189. K Murata, H Egami, H Kiyohara, S Oshima, T Kurizaki, M Ogawa, Expression
+of group-II phospholipase A2 in malignant and non-malignant human
+gastric mucosa. Br J Cancer. 68, 103–111 (1993). doi:10.1038/bjc.1993.294
+190. MK Jain, BZ Yu, J Rogers, GN Ranadive, OG Berg, Interfacial catalysis by
+phospholipase A2: dissociation constants for calcium, substrate, products,
+and competitive inhibitors. Biochemistry. 30, 7306–7317 (1991). doi:10.1021/
+bi00243a036
+191. BM Loffler, E Bohn, B Hesse, H Kunze, Effects of antimalarial drugs on
+phospholipase A and lysophospholipase activities in plasma membrane,
+mitochondrial, microsomal and cytosolic subcellular fractions of rat liver.
+Biochim Biophys Acta. 835, 448–455 (1985)
+192. K Schiess, M Kaszkin, P Jordan, L Seidler, V Kinzel, Mobilization of
+diacylglycerol in intact HeLa cells by exogenous phospholipase C from Cl.
+perfringens is accompanied by release of fatty acids including arachidonic
+acid. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research. 1137,
+82–94 (1992). doi:10.1016/0167-4889(92)90104-J
+193. A Ahmed, IT Cameron, RA Ferriani, SK Smith, Activation of phospholipase
+A2 and phospholipase C by endothelin-1 in human endometrium. J
+Endocrinol. 135, 383–390 (1992). doi:10.1677/joe.0.1350383
+194. DF Horrobin, MS Manku, M Karmazyn, AI Ally, RO Morgan, RA Karmali,
+Quinacrine is a prostaglandin antagonist. Biochem Biophys Res Commun.
+76, 1188–1193 (1977). doi:10.1016/0006-291X(77)90981-0
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 15 of 18
+195. CA Dise, JW Burch, DB Goodman, Direct interaction of mepacrine with
+erythrocyte and platelet membrane phospholipid. J Biol Chem. 257,
+4701–4704 (1982)
+196. R Zidovetzki, IW Sherman, PA Maguire, H De Boeck, A nuclear magnetic
+resonance study of the interactions of the antimalarials chloroquine,
+quinacrine, quinine and mefloquine with lipids extracted from normal
+human erythrocytes. Mol Biochem Parasitol. 38, 33–39 (1990). doi:10.1016/
+0166-6851(90)90202-W
+197. AA Abdel-Latif, JP Smith, RA Akhtar, Studies on the mechanism of alteration
+by propranolol and mepacrine of the metabolism of phosphoinositides and
+other glycerolipids in the rabbit iris muscle. Biochemical Pharmacology. 32,
+3815–3821 (1983). doi:10.1016/0006-2952(83)90154-5
+198. P Mustonen, JYA Lehtonen, PKJ Kinnunen, Binding of quinacrine to acidic
+phospholipids and pancreatic phospholipase A2. Effects on the catalytic
+activity of the enzyme. Biochemistry. 37, 12051–12057 (1998). doi:10.1021/
+bi980430q
+199. K Yamada, Y Okano, K Miura, Y Nozawa, A major role for phospholipase A2
+in antigen-induced arachidonic acid release in rat mast cells. Biochem J.
+247, 95–99 (1987)
+200. E Bugge, TM Gamst, AC Hegstad, T Andreasen, K Ytrehus, Mepacrine
+protects the isolated rat heart during hypoxia and reoxygenation–but not
+by inhibition of phospholipase A2. Basic Res Cardiol. 92, 17–24 (1997)
+201. JK Beckman, SM Borowitz, IM Burr, The role of phospholipase A activity in
+rat liver microsomal lipid peroxidation. J Biol Chem. 262, 1479–1484 (1987)
+202. PM Evans, DF Lanham, Effects of inhibitors of arachidonic acid metabolism
+on intercellular adhesion of SV40-3T3 cells. Cell Biol Int Rep. 10, 693–698
+(1986). doi:10.1016/0309-1651(86)90126-8
+203. NP Hurst, JK French, AL Bell, G Nuki, ML O’Donnell, WH Betts, LG Cleland,
+Differential effects of mepacrine, chloroquine and hydroxychloroquine on
+superoxide anion generation, phospholipid methylation and arachidonic
+acid release by human blood monocytes. Biochem Pharmacol. 35,
+3083–3089 (1986). doi:10.1016/0006-2952(86)90390-4
+204. PC Churchill, MC Churchill, FD McDonald, Quinacrine antagonizes the
+effects of Na, K-ATPase inhibitors on renal prostaglandin E2 release but not
+their effects on renin secretion. Life Sci. 36, 277–282 (1985). doi:10.1016/
+0024-3205(85)90070-0
+205. A Erman, R Azuri, A Raz, Prostaglandin biosynthesis in rabbit kidney:
+mepacrine inhibits renomedullary cyclooxygenase. Biochem Pharmacol. 33,
+79–82 (1984). doi:10.1016/0006-2952(84)90372-1
+206. A Raz, Mepacrine blockade of arachidonate-induced washed platelet
+aggregation: relationship to mepacrine inhibition of platelet
+cyclooxygenase. Thromb Haemost. 50, 784–786 (1983)
+207. SL Hofmann, SM Prescott, PW Majerus, The effects of mepacrine and p-
+bromophenacyl bromide on arachidonic acid release in human platelets.
+Arch Biochem Biophys. 215, 237–244 (1982). doi:10.1016/0003-9861(82)
+90300-9
+208. TY Lot, T Bennett, Comparison of the effects of chloroquine quinacrine and
+quinidine on autonomic neuroeffector mechanisms. Med Biol. 60, 307–315
+(1982)
+209. KS Authi, JR Traynor, Stimulation of polymorphonuclear leucocyte
+phospholipase A2 activity by chloroquine and mepacrine. J Pharm
+Pharmacol. 34, 736–738 (1982)
+210. JT Flynn, Inhibition of complement-mediated hepatic thromboxane
+production by mepacrine, a phospholipase inhibitor. Prostaglandins. 33,
+287–299 (1987). doi:10.1016/0090-6980(87)90013-X
+211. L Louw, J Claassen, Rationale for adjuvant fatty acid therapy to prevent
+radiotherapy failure and tumor recurrence during early laryngeal squamous
+cell carcinoma. Prostaglandins Leukot Essent Fatty Acids. 78, 21–26 (2008).
+doi:10.1016/j.plefa.2007.10.007
+212. S Itoh, K Matsui, I Furuta, Y Takano, Immunohistochemical study on
+overexpression of cyclooxygenase-2 in squamous cell carcinoma of the oral
+cavity: its importance as a prognostic predictor. Oral Oncol. 39, 829–835
+(2003). doi:10.1016/S1368-8375(03)00105-2
+213. WC Chen, WH McBride, SM Chen, KF Lee, TZ Hwang, SM Jung, H Shau, SK
+Liao, JH Hong, MF Chen, Prediction of poor survival by cyclooxygenase-2 in
+patients with T4 nasopharyngeal cancer treated by radiation therapy:
+clinical and in vitro studies. Head Neck. 27, 503–512 (2005). doi:10.1002/
+hed.20178
+214. BW Chang, DH Kim, DP Kowalski, JA Burleson, YH Son, LD Wilson, BG Haffty,
+Prognostic significance of cyclooxygenase-2 in oropharyngeal squamous
+cell carcinoma. Clin Cancer Res. 10, 1678–1684 (2004). doi:10.1158/1078-
+0432.CCR-03-0354
+215. JP Peng, CY Su, HC Chang, CY Chai, WC Hung, Overexpression of cyclo-
+oxygenase 2 in squamous cell carcinoma of the hypopharynx. Hum Pathol.
+33, 100–104 (2002). doi:10.1053/hupa.2002.30187
+216. N Terakado, S Shintani, J Yano, L Chunnan, M Mihara, K Nakashiro, H
+Hamakawa, Overexpression of cyclooxygenase-2 is associated with
+radioresistance in oral squamous cell carcinoma. Oral Oncol. 40, 383–389
+(2004). doi:10.1016/j.oraloncology.2003.09.005
+217. O Gallo, E Masini, B Bianchi, L Bruschini, M Paglierani, A Franchi, Prognostic
+significance of cyclooxygenase-2 pathway and angiogenesis in head and
+neck squamous cell carcinoma. Hum Pathol. 33, 708–714 (2002).
+doi:10.1053/hupa.2002.125376
+218. EI Cho, DP Kowalski, CT Sasaki, BG Haffty, Tissue microarray analysis reveals
+prognostic significance of COX-2 expression for local relapse in T1-2N0
+larynx cancer treated with primary radiation therapy. Laryngoscope. 114,
+2001–2008 (2004). doi:10.1097/01.mlg.0000147936.67379.e7
+219. N Li, S Sood, S Wang, M Fang, P Wang, Z Sun, CS Yang, X Chen,
+Overexpression of 5-lipoxygenase and cyclooxygenase 2 in hamster and
+human oral cancer and chemopreventive effects of zileuton and celecoxib.
+Clin Cancer Res. 11, 2089–2096 (2005). doi:10.1158/1078-0432.CCR-04-1684
+220. L Feng, Z Wang, Chemopreventive effect of celecoxib in oral precancers
+and cancers. Laryngoscope. 116, 1842–1845 (2006). doi:10.1097/01.
+mlg.0000233778.41927.c7
+221. M Shibata, I Kodani, M Osaki, K Araki, H Adachi, K Ryoke, H Ito, Cyclo-
+oxygenase-1 and -2 expression in human oral mucosa, dysplasias and
+squamous cell carcinomas and their pathological significance. Oral Oncol.
+41, 304–312 (2005). doi:10.1016/j.oraloncology.2004.09.009
+222. G Chan, JO Boyle, EK Yang, F Zhang, PG Sacks, JP Shah, D Edelstein, RA
+Soslow, AT Koki, BM Woerner, JL Masferrer, AJ Dannenberg,
+Cyclooxygenase-2 expression is up-regulated in squamous cell carcinoma of
+the head and neck. Cancer Res. 59, 991–994 (1999)
+223. GJ Blackwell, WG Duncombe, RJ Flower, MF Parsons, JR Vane, The
+distribution and metabolism of arachidonic acid in rabbit platelets during
+aggregation and its modification by drugs. Br J Pharmacol. 59, 353–366
+(1977)
+224. D Nie, M Lamberti, A Zacharek, L Li, K Szekeres, K Tang, Y Chen, KV Honn,
+Thromboxane A(2) regulation of endothelial cell migration, angiogenesis,
+and tumor metastasis. Biochem Biophys Res Commun. 267, 245–251 (2000).
+doi:10.1006/bbrc.1999.1840
+225. N Nakahata, Thromboxane A2: physiology/pathophysiology, cellular signal
+transduction and pharmacology. Pharmacol Ther. 118, 18–35 (2008).
+doi:10.1016/j.pharmthera.2008.01.001
+226. J Wei, W Yan, X Li, Y Ding, HH Tai, Thromboxane receptor alpha mediates
+tumor growth and angiogenesis via induction of vascular endothelial
+growth factor expression in human lung cancer cells. Lung Cancer. (2009)
+227. H Oshima, K Oguma, YC Du, M Oshima, Prostaglandin E2, Wnt, and BMP in
+gastric tumor mouse models. Cancer Sci. 100, 1779–1785 (2009).
+doi:10.1111/j.1349-7006.2009.01258.x
+228. D Kamei, M Murakami, Y Nakatani, Y Ishikawa, T Ishii, I Kudo, Potential role
+of microsomal prostaglandin E synthase-1 in tumorigenesis. J Biol Chem.
+278, 19396–19405 (2003). doi:10.1074/jbc.M213290200
+229. K Yoshimatsu, D Golijanin, PB Paty, RA Soslow, PJ Jakobsson, RA DeLellis, K
+Subbaramaiah, AJ Dannenberg, Inducible microsomal prostaglandin E
+synthase is overexpressed in colorectal adenomas and cancer. Clin Cancer
+Res. 7, 3971–3976 (2001)
+230. A Fulton, F Miller, A Weise, WZ Wei, Prospects of controlling breast cancer
+metastasis by immune intervention. Breast Dis. 26, 115–127 (2006)
+231. K Yoshimatsu, NK Altorki, D Golijanin, F Zhang, PJ Jakobsson, AJ
+Dannenberg, K Subbaramaiah, Inducible prostaglandin E synthase is
+overexpressed in non-small cell lung cancer. Clin Cancer Res. 7, 2669–2674
+(2001)
+232. HN Jabbour, SA Milne, AR Williams, RA Anderson, SC Boddy, Expression of
+COX-2 and PGE synthase and synthesis of PGE(2)in endometrial
+adenocarcinoma: a possible autocrine/paracrine regulation of neoplastic cell
+function via EP2/EP4 receptors. Br J Cancer. 85, 1023–1031 (2001)
+233. L Yu, WK Wu, ZJ Li, HT Li, YC Wu, CH Cho, Prostaglandin E(2) promotes cell
+proliferation via protein kinase C/extracellular signal regulated kinase
+pathway-dependent induction of c-Myc expression in human esophageal
+squamous cell carcinoma cells. Int J Cancer. 125, 2540–2546 (2009).
+doi:10.1002/ijc.24607
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 16 of 18
+234. M Camacho, X Leon, MT Fernandez-Figueras, M Quer, L Vila, Prostaglandin
+E(2) pathway in head and neck squamous cell carcinoma. Head Neck. 30,
+1175–1181 (2008). doi:10.1002/hed.20850
+235. TT Jung, NT Berlinger, SK Juhn, Prostaglandins in squamous cell carcinoma
+of the head and neck: a preliminary study. Laryngoscope. 95, 307–312
+(1985)
+236. EG Cohen, T Almahmeed, B Du, D Golijanin, JO Boyle, RA Soslow, K
+Subbaramaiah, AJ Dannenberg, Microsomal prostaglandin E synthase-1 is
+overexpressed in head and neck squamous cell carcinoma. Clin Cancer Res.
+9, 3425–3430 (2003)
+237. R Kawata, S Hyo, T Maeda, Y Urade, H Takenaka, Simultaneous expression of
+cyclooxygenase-2 and microsomal prostaglandin E synthase in squamous
+cell carcinoma of the larynx. Acta Otolaryngol. 126, 627–632 (2006).
+doi:10.1080/00016480500452541
+238. CJ Brown, S Lain, CS Verma, AR Fersht, DP Lane, Awakening guardian
+angels: drugging the p53 pathway. Nat Rev Cancer. 9, 862–873 (2009).
+doi:10.1038/nrc2763
+239. MR Junttila, GI Evan, p53–a Jack of all trades but master of none. Nat Rev
+Cancer. 9, 821–829 (2009)
+240. J Kucharczak, MJ Simmons, Y Fan, C Gelinas, To be, or not to be: NF-kappaB
+is the answer–role of Rel/NF-kappaB in the regulation of apoptosis.
+Oncogene. 22, 8961–8982 (2003). doi:10.1038/sj.onc.1207230
+241. M Karin, FR Greten, NF-kappaB: linking inflammation and immunity to
+cancer development and progression. Nat Rev Immunol. 5, 749–759 (2005).
+doi:10.1038/nri1703
+242. GA Webster, ND Perkins, Transcriptional cross talk between NF-kappaB and
+p53. Mol Cell Biol. 19, 3485–3495 (1999)
+243. V Tergaonkar, ND Perkins, p53 and NF-kappaB crosstalk: IKKalpha tips the
+balance. Mol Cell. 26, 158–159 (2007). doi:10.1016/j.molcel.2007.04.006
+244. WC Huang, TK Ju, MC Hung, CC Chen, Phosphorylation of CBP by IKKalpha
+promotes cell growth by switching the binding preference of CBP from
+p53 to NF-kappaB. Mol Cell. 26, 75–87 (2007). doi:10.1016/j.
+molcel.2007.02.019
+245. ON Ozes, LD Mayo, JA Gustin, SR Pfeffer, LM Pfeffer, DB Donner, NF-kappaB
+activation by tumour necrosis factor requires the Akt serine-threonine
+kinase. Nature. 401, 82–85 (1999). doi:10.1038/43466
+246. A Khwaja, Akt is more than just a Bad kinase. Nature. 401, 33–34 (1999).
+doi:10.1038/43354
+247. M Delhase, N Li, M Karin, Kinase regulation in inflammatory response.
+Nature. 406, 367–368 (2000). doi:10.1038/35019154
+248. I Vivanco, CL Sawyers, The phosphatidylinositol 3-Kinase AKT pathway in
+human cancer. Nat Rev Cancer. 2, 489–501 (2002). doi:10.1038/nrc839
+249. J Friedman, L Nottingham, P Duggal, FG Pernas, B Yan, XP Yang, Z Chen, C
+Van Waes, Deficient TP53 expression, function, and cisplatin sensitivity are
+restored by quinacrine in head and neck cancer. Clin Cancer Res. 13,
+6568–6578 (2007). doi:10.1158/1078-0432.CCR-07-1591
+250. KV Gurova, JE Hill, C Guo, A Prokvolit, LG Burdelya, E Samoylova, AV
+Khodyakova, R Ganapathi, M Ganapathi, ND Tararova, D Bosykh, D Lvovskiy,
+TR Webb, GR Stark, AV Gudkov, Small molecules that reactivate p53 in renal
+cell carcinoma reveal a NF-kappaB-dependent mechanism of p53
+suppression in tumors. Proc Natl Acad Sci USA. 102, 17448–17453 (2005).
+doi:10.1073/pnas.0508888102
+251. W Wang, WC Ho, DT Dicker, C MacKinnon, JD Winkler, R Marmorstein, WS
+El-Deiry, Acridine derivatives activate p53 and induce tumor cell death
+through Bax. Cancer Biol Ther. 4, 893–898 (2005). doi:10.4161/cbt.4.8.2134
+252. K Gurova, New hopes from old drugs: revisiting DNA-binding small
+molecules as anticancer agents. Future Oncol. 5, 1685–1704 (2009).
+doi:10.2217/fon.09.127
+253. AV Gorbachev, AV Gasparian, KV Gurova, AV Gudkov, RL Fairchild,
+Quinacrine inhibits the epidermal dendritic cell migration initiating T cell-
+mediated skin inflammation. Eur J Immunol. 37, 2257–2267 (2007).
+doi:10.1002/eji.200636708
+254. T Collins, MA Read, AS Neish, MZ Whitley, D Thanos, T Maniatis,
+Transcriptional regulation of endothelial cell adhesion molecules: NF-kappa
+B and cytokine-inducible enhancers. FASEB J. 9, 899–909 (1995)
+255. MA Read, MZ Whitley, AJ Williams, T Collins, NF-kappa B and I kappa B
+alpha: an inducible regulatory system in endothelial activation. J Exp Med.
+179, 503–512 (1994). doi:10.1084/jem.179.2.503
+256. M Wagner, CL Klein, TG van Kooten, CJ Kirkpatrick, Mechanisms of cell
+activation by heavy metal ions. J Biomed Mater Res. 42, 443–452 (1998).
+doi:10.1002/(SICI)1097-4636(19981205)42:33.0.CO;2-H
+257. W Konig, W Schonfeld, M Raulf, M Koller, J Knoller, J Scheffer, J Brom, The
+neutrophil and leukotrienes–role in health and disease. Eicosanoids. 3, 1–22
+(1990)
+258. KM Stuhlmeier, JJ Kao, FH Bach, Arachidonic acid influences
+proinflammatory gene induction by stabilizing the inhibitor-kappaBalpha/
+nuclear factor-kappaB (NF-kappaB) complex, thus suppressing the nuclear
+translocation of NF-kappaB. J Biol Chem. 272, 24679–24683 (1997).
+doi:10.1074/jbc.272.39.24679
+259. L Thommesen, W Sjursen, K Gasvik, W Hanssen, OL Brekke, L Skattebol, AK
+Holmeide, T Espevik, B Johansen, A Laegreid, Selective inhibitors of
+cytosolic or secretory phospholipase A2 block TNF-induced activation of
+transcription factor nuclear factor-kappa B and expression of ICAM-1.
+J Immunol. 161, 3421–3430 (1998)
+260. A Palmetshofer, SC Robson, V Nehls, Lysophosphatidic acid activates
+nuclear factor kappa B and induces proinflammatory gene expression in
+endothelial cells. Thromb Haemost. 82, 1532–1537 (1999)
+261. A Pupe, H Degreef, M Garmyn, Induction of tumor necrosis factor-alpha by
+UVB: a role for reactive oxygen intermediates and eicosanoids. Photochem
+Photobiol. 78, 68–74 (2003). doi:10.1562/0031-8655(2003)0782.0.CO;2
+262. A Pupe, R Moison, P De Haes, GB van Henegouwen, L Rhodes, H Degreef,
+M Garmyn, Eicosapentaenoic acid, a n-3 polyunsaturated fatty acid
+differentially modulates TNF-alpha, IL-1alpha, IL-6 and PGE2 expression in
+UVB-irradiated human keratinocytes. J Invest Dermatol. 118, 692–698 (2002).
+doi:10.1046/j.1523-1747.2002.01615.x
+263. A Heller, T Koch, J Schmeck, K van Ackern, Lipid mediators in inflammatory
+disorders. Drugs. 55, 487–496 (1998). doi:10.2165/00003495-199855040-
+00001
+264. X Chen, A Gresham, A Morrison, AP Pentland, Oxidative stress mediates
+synthesis of cytosolic phospholipase A2 after UVB injury. Biochim Biophys
+Acta. 1299, 23–33 (1996)
+265. I Kurose, H Saito, S Miura, H Ebinuma, H Higuchi, N Watanabe, S Zeki, T
+Nakamura, M Takaishi, H Ishii, CD18/ICAM-1-dependent oxidative NF-kappaB
+activation leading to nitric oxide production in rat Kupffer cells cocultured
+with syngeneic hepatoma cells. J Clin Invest. 99, 867–878 (1997).
+doi:10.1172/JCI119251
+266. C Holscher, Quinacrine acts like an acetylcholine receptor antagonist rather
+than like a phospholipase A2 inhibitor in a passive avoidance task in the
+chick. Neurobiol Learn Mem. 63, 206–208 (1995). doi:10.1006/
+nlme.1995.1022
+267. KM Stuhlmeier, Effects of quinacrine on endothelial cell morphology and
+transcription factor-DNA interactions. Biochim Biophys Acta. 1524, 57–65
+(2001)
+268. S Fabbri, C Prontera, M Broggini, M D’Incalci, Differential inhibition of the
+DNA binding of transcription factors NF kappa B and OTF-1 by nitrogen
+mustard and quinacrine mustard: transcriptional implications.
+Carcinogenesis. 14, 1963–1967 (1993). doi:10.1093/carcin/14.9.1963
+269. SI Na, MY Lee, JS Heo, HJ Han, Hydrogen peroxide increases [3H]-2-
+deoxyglucose uptake via MAPKs, cPLA2, and NF-kappaB signaling pathways
+in mouse embryonic stem cells. Cell Physiol Biochem. 20, 1007–1018 (2007).
+doi:10.1159/000110541
+270. C Guo, AV Gasparian, Z Zhuang, DA Bosykh, AA Komar, AV Gudkov, KV
+Gurova, 9-Aminoacridine-based anticancer drugs target the PI3K/AKT/mTOR,
+NF-kappaB and p53 pathways. Oncogene. 28, 1151–1161 (2009).
+doi:10.1038/onc.2008.460
+271. LD Mayo, JE Dixon, DL Durden, NK Tonks, DB Donner, PTEN protects p53
+from Mdm2 and sensitizes cancer cells to chemotherapy. J Biol Chem. 277,
+5484–5489 (2002). doi:10.1074/jbc.M108302200
+272. SJ Jeong, CA Pise-Masison, MF Radonovich, HU Park, JN Brady, Activated
+AKT regulates NF-kappaB activation, p53 inhibition and cell survival in
+HTLV-1-transformed cells. Oncogene. 24, 6719–6728 (2005). doi:10.1038/sj.
+onc.1208825
+273. N Sizemore, N Lerner, N Dombrowski, H Sakurai, GR Stark, Distinct roles of
+the Ikappa B kinase alpha and beta subunits in liberating nuclear factor
+kappa B (NF-kappa B) from Ikappa B and in phosphorylating the p65
+subunit of NF-kappa B. J Biol Chem. 277, 3863–3869 (2002). doi:10.1074/jbc.
+M110572200
+274. KJ Jung, A Dasgupta, K Huang, SJ Jeong, C Pise-Masison, KV Gurova, JN
+Brady, Small-molecule inhibitor which reactivates p53 in human T-cell
+leukemia virus type 1-transformed cells. J Virol. 82, 8537–8547 (2008).
+doi:10.1128/JVI.00690-08
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 17 of 18
+275. S Hassan, RE Carraway, Involvement of arachidonic acid metabolism and
+EGF receptor in neurotensin-induced prostate cancer PC3 cell growth.
+Regul Pept. 133, 105–114 (2006). doi:10.1016/j.regpep.2005.09.031
+276. H Heimpel, W Heit, Drug-induced aplastic anaemia: clinical aspects. Clin
+Haematol. 9, 641–662 (1980)
+277. F Colotta, P Allavena, A Sica, C Garlanda, A Mantovani, Cancer-related
+inflammation, the seventh hallmark of cancer: links to genetic instability.
+Carcinogenesis. 30, 1073–1081 (2009). doi:10.1093/carcin/bgp127
+278. CM Ulrich, J Bigler, JD Potter, Non-steroidal anti-inflammatory drugs for
+cancer prevention: promise, perils and pharmacogenetics. Nat Rev Cancer.
+6, 130–140 (2006). doi:10.1038/nrc1801
+279. A Dey, V Tergaonkar, DP Lane, Double-edged swords as cancer
+therapeutics: simultaneously targeting p53 and NF-kappaB pathways. Nat
+Rev Drug Discov. 7, 1031–1040 (2008). doi:10.1038/nrd2759
+doi:10.1186/1478-811X-9-13
+Cite this article as: Ehsanian et al.: Beyond DNA binding - a review of
+the potential mechanisms mediating quinacrine’s therapeutic activities
+in parasitic infections, inflammation, and cancers. Cell Communication
+and Signaling 2011 9:13.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+Ehsanian et al. Cell Communication and Signaling 2011, 9:13
+http://www.biosignaling.com/content/9/1/13
+Page 18 of 18
+

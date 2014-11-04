@@ -1,0 +1,997 @@
+ARTICLE
+The Rockefeller University Press  $30.00
+J. Exp. Med. Vol. 206 No. 11  2483-2496
+www.jem.org/cgi/doi/10.1084/jem.20091046
+2483
+Adult BM is composed of hematopoietic stem
+cells (HSCs) and tissue stem cells, which are
+often referred to as fibroblast CFUs (CFU-Fs),
+marrow stromal cells/mesenchymal stem cells
+(MSCs), or mesenchymal progenitor cells (MPCs;
+Friedenstein et al., 1974; Prockop, 1997; Conget
+and Minguell, 1999; Pittenger et al., 1999). As
+information is gathered about MSCs, parallels
+are often drawn between them and the exten-
+sively characterized HSCs. HSCs were initially
+identified by Till and McCulloch (1961), who
+called them spleen CFUs (CFU-Ss), and MSCs
+were first described by Friedenstein et al. (1974),
+who called them CFU-Fs. There has since been
+a major divergence in the way the two stem cell
+types are studied.
+HSCs can be identified prospectively by sur-
+face markers, isolated by flow cytometry, and
+transplanted in vivo without being cultured
+in vitro (Smith et al., 1991; Spangrude et al., 1995;
+Osawa et al., 1996; Matsuzaki et al., 2004). In
+contrast, MSCs, which can give rise to multiple
+mesenchymal cell lineages, including adipo-
+cytes, chondrocytes, and osteocytes (Prockop,
+1997; Pittenger et al., 1999), are currently iso-
+lated by culturing tissues from humans and
+other species (da Silva Meirelles et al., 2006;
+Beltrami et al., 2007). Therefore, most infor-
+mation about MSCs comes from in vitro stud-
+ies (Pittenger et al., 1999) of heterogeneous
+populations of adherent cells that contain un-
+identified, putative stem cells. This is a critical
+difference because it is the ability to isolate
+HSCs prospectively that has facilitated the rapid
+CORRESPONDENCE
+Yumi Matsuzaki:
+penguin@sc.itc.keio.ac.jp
+Abbreviations used: BLI, biolu-
+minescence imaging; BMMNC,
+BM mononuclear cell; CFU-F,
+fibroblast CFU; CFU-S, spleen
+CFU; HSC, hematopoietic stem
+cell; IHC, immunohistochemis-
+try; mMSC, murine MSC;
+MPC, mesenchymal progenitor
+cell; MSC, mesenchymal stem
+cell; PDGFR, platelet-derived
+growth factor receptor ; Sca-1,
+stem cell antigen 1; vSMC,
+vascular smooth muscle cell.
+Prospective identification, isolation,
+and systemic transplantation of multipotent
+mesenchymal stem cells in murine
+bone marrow
+Satoru Morikawa,1,2 Yo Mabuchi,1 Yoshiaki Kubota,3 Yasuo Nagai,1
+Kunimichi Niibe,1,2 Emi Hiratsu,1 Sadafumi Suzuki,1
+Chikako Miyauchi-Hara,1,6 Narihito Nagoshi,1,4 Takehiko Sunabori,1
+Shigeto Shimmura,5 Atsushi Miyawaki,6,7 Taneaki Nakagawa,2
+Toshio Suda,3 Hideyuki Okano,1 and Yumi Matsuzaki1
+1Department of Physiology, 2Department of Dentistry and Oral Surgery, 3Department of Cell Differentiation, the Sakaguchi
+Laboratory of Developmental Biology, 4Department of Orthopedic Surgery and 5Department of Ophthalmology,
+Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan
+6Laboratory for Cell Function and Dynamics, Advanced Technology Development Group, Brain Science Institute, Institute
+of Physical and Chemical Research, Wako-city, Saitama 351-0198, Japan
+7Life Function and Dynamics, Exploratory Research for Advanced Technology Office, Japan Science and Technology Agency,
+Wako-city, Saitama 351-0198, Japan
+Mesenchymal stem cells (MSCs) are defined as cells that undergo sustained in vitro growth
+and can give rise to multiple mesenchymal lineages. Because MSCs have only been isolated
+from tissue in culture, the equivalent cells have not been identified in vivo and little is
+known about their physiological roles or even their exact tissue location. In this study, we
+used phenotypic, morphological, and functional criteria to identify and prospectively isolate
+a subset of MSCs (PDGFR+Sca-1+CD45TER119) from adult mouse bone marrow. Indi-
+vidual MSCs generated colonies at a high frequency and could differentiate into hemato-
+poietic niche cells, osteoblasts, and adipocytes after in vivo transplantation. Naive MSCs
+resided in the perivascular region in a quiescent state. This study provides the useful
+method needed to identify MSCs as defined in vivo entities.
+© 2009 Morikawa et al.  This article is distributed under the terms of an Attribu-
+tion–Noncommercial–Share Alike–No Mirror Sites license for the first six months
+after the publication date (see http://www.jem.org/misc/terms.shtml). After six
+months it is available under a Creative Commons License (Attribution–Noncom-
+mercial–Share Alike 3.0 Unported license, as described at http://creativecommons
+.org/licenses/by-nc-sa/3.0/).
+TheJournalofExperimentalMedicine
+2484 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+Figure 1.  Enrichment of mesenchymal stem cells in the PS population. (A–D) Representative flow cytometric profiles of BM mononuclear cells
+stained with CD45, TER119, PDGFR, and Sca-1 without (A and B) or with (C and D) collagenase treatment. (E) Number of CFU-Fs 14 d after plating. Data
+JEM VOL. 206, October 26, 2009
+ARTICLE
+2485
+are mean ± SEM (n = 3 per group; **, P < 0.01; †, no colonies observed). (F) Phase-contrast micrographs of CFU-Fs 14 d after plating, derived from 5,000
+PDGFRSca-1+, PDGFR+Sca-1+, PDGFR+Sca1, or 1 × 104 PDGFR-Sca-1 cells. (G) Growth curves of representative populations derived from 5,000
+cells plated. (H) Negative linear relationship between the number of subpopulation BM cells seeded and the proportion of negative colony formation ob-
+tained by three independent experiments. (I) Adipogenesis (left) was indicated by neutral lipid vacuoles that stained with oil red O on day 14. Chondro-
+genesis (middle) indicated by toluidine blue staining on day 21 and by morphological changes. Osteogenesis (right) indicated by alkaline phosphatase
+staining on day 14. (J) CFU-Cs assays. PS cells (5,000) and CD34 KSL cells (100) were seeded into separate cultures with MethoCult medium. The total
+numbers of colonies counted at 14 d are shown. †, no colonies observed. (K) Phase-contrast micrograph of a representative colony derived from CD34
+KSL cells (top). No colonies arose from PS cells under this condition (bottom). Bars, (F, I, and K) 100 µm. (L) Two-dimensional flow cytometric profile of
+the Hoechst-Red and Hoechst-Blue fluorescence intensity of PI-negative cells (gray) and PS cells (red). Data are representative of three independent
+experiments.
+ 
+progress in understanding their biology. In contrast, because
+our knowledge of MSCs is based solely on the characteriza-
+tion of cultured cells, it has been virtually impossible to study
+many of their properties, particularly their function, in vivo.
+Recent studies consistently show that MSCs not only
+differentiate into mesenchymal lineage cells but also into
+neurons (Kohyama et al., 2001; Kondo et al., 2005), skeletal
+muscle (Dezawa et al., 2005), and myocardium (Makino et al.,
+1999; Miyahara et al., 2006). Therefore, MSCs are now con-
+sidered a potentially effective source for stem cell therapy (Jin
+et al., 2002; Hoffmann et al., 2006). However, safety issues
+still need to be clarified before their clinical use, particularly
+because so many biological aspects of MSCs, such as their
+exact identity and in vivo function, are still unknown.
+One disadvantage of the conventional in vitro method for
+isolating MSCs is the unavoidable contamination by hemato-
+poietic cells and the cellular heterogeneity of the cultures,
+including various fibroblastic cells. In fact, depending on the
+study, cultured MSCs express a different subset of various cell
+lineage–specific antigens, adhesion molecules, integrins, and
+growth factor receptors (Jiang et al., 2002; da Silva Meirelles
+et al., 2006). Another problem with the current technique is
+that the cultured cells may acquire different characteristics
+from their in vivo state, which could include changes in the
+cell surface markers they express. One example of adherent
+culture-induced change is seen when MSCs, which are read-
+ily expanded in culture without loss of multipotency, show
+poor tissue tropism when transplanted, including a failure to
+migrate to the BM (Rombouts and Ploemacher, 2003; Wang
+et al., 2005; Muguruma et al., 2006; Sackstein et al., 2008),
+which limits their therapeutic usefulness. In contrast, some
+studies (including the current one) show that primary BM-
+derived MSCs (assayed as CFU-Fs) show a low but efficient
+seeding of the BM upon injection into lethally irradiated
+hosts (Rombouts and Ploemacher, 2003; Koide et al., 2007).
+Because these changes affect fundamental properties of the
+cells, it is difficult to know whether they have retained or lost
+their original characteristics, including their apparent multi-
+potency, in vitro.
+Most studies on MSCs have been done using human
+cells, not murine cells. Murine MSCs (mMSCs) are far more
+difficult to isolate from the BM and to expand in culture
+than human MSCs (Phinney et al., 1999; Sun et al., 2003;
+Peister et al., 2004). Thus, there is much less information on
+mMSCs than on human MSCs. This reliance on human
+material means that MSCs cannot be studied in genetic
+mouse models, which greatly hinders the study of their basic
+biology, engraftment, and therapeutic potential. In fact, with-
+out some means for the prospective isolation and purifica-
+tion of MSCs, it becomes extremely difficult to ascribe any
+attribute to them with certainty. Hence, there is a clear need
+for specific markers and methods of detection, enumeration,
+and isolation of MSCs from the BM and other tissues where
+they reside.
+In a previous study, we identified several mesenchymal
+lineage specific markers in murine BM cells (Koide et al.,
+2007), and after initial screening, we determined two possible
+MSC markers (Morikawa et al., 2009), platelet-derived growth
+factor receptor  (PDGFR; an early mesodermal marker;
+Takakura et al., 1997) and stem cell antigen-1 (Sca-1; a known
+stem cell marker; Ortega et al., 1986).
+Here, we report a method for identifying and isolating
+MSCs from the adult murine BM, using flow cytometry in
+combination with in vitro function assays. We also report our
+findings on their physiological role, obtained through exist-
+ing in vivo precursor cell transplantation assays. We describe
+cell type–specific markers for MSCs, which are useful for
+their prospective isolation as a highly enriched population
+that gives rise to mesenchymal cells at the clonal level with
+high frequency, and demonstrate that these cells are capable
+of in vivo grafting when transplanted systemically.
+RESULTS
+The PS population is significantly enriched for CFU-Fs
+with differentiation potential
+Freshly prepared BM cells were stained with antibodies to
+PDGFR, Sca-1, CD45, and TER119, and analyzed by flow
+cytometry. First, the hematopoietic (CD45+ and TER119+)
+cells were removed from the population by gating on the
+marker signals (Fig. 1, A and C). In the CD45TER119
+gate, four distinct subpopulations (PDGFR+/Sca-1+, +/,
+/+, /) were observed (Fig. 1 B). Interestingly, the fre-
+quency of cells expressing PDGFR or Sca-1 significantly
+increased when the BM was extracted using collagenase treat-
+ment (Fig. 1, B and D; see Materials and methods).
+To test whether PDGFR or Sca-1 could be used for
+the prospective isolation of mMSCs, we isolated cells in
+each subpopulation from freshly isolated BM mononuclear
+2486 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+A single, self-renewing PS cell can give rise
+to mesenchymal and endothelial lineages
+To test the hypothesis that PS cells contained MSCs that
+could differentiate into all three lineages, and to rule out the
+possibility that the PS population contained several different
+kinds of committed progenitors, we performed a differentia-
+tion assay with expanded cell colonies derived from a single
+PS cell. For this experiment, sorted PS cells were plated at
+a density of 1-2 × 103 cells on a 100-mm dish. 60 individ-
+ual colonies of 50–100 cells were isolated 14 d after plating
+(Fig. 2 A). After several passages, 6 of the 60 independent
+clones were selected for further study and subjected to in vitro
+differentiation assays.
+All six clones showed osteogenic and chondrogenic differ-
+entiation, assessed by alkaline phosphatase/toluidine blue stain-
+ing and the expression of bone and cartilage-related genes,
+including osteopontin, osteocalcin, PTHr, collagen II, collagen X,
+and aggrecan. Four (clones 7, 11, 17, and 19) also underwent
+adipogenic differentiation, demonstrated by oil red O staining
+and the expression of fat-related genes, including adipsin,
+PPAR, and mLP (Fig. 2, B and C). Interestingly, these four
+clones also underwent angiogenic differentiation, as shown by
+staining for endothelium-associated proteins (PECAM-1 and
+VE-cadherin). These results suggest that MSCs are precursors
+for both mesenchymal and endothelial lineages.
+Flow cytometric analysis of clones from single cells re-
+vealed uniform expression of conventional mesenchymal
+markers CD29, CD49e, CD44, and Sca-1, but only hetero-
+geneous expression of CD105 and CD90, which are known
+as marker for cultured human MSCs. Clones with multi-
+lineage differentiation potential (#7, 11, 17, and 19) were
+CD105+CD90+, unlike those with limited differentiation
+potential (#26, 42). This observation suggests that CD105
+and CD90 may be useful indicators for multipotency of cul-
+tured mMSCs (Fig. S2).
+PS cells reside in the perivascular space in vivo
+The data presented so far convinced us that the PS popula-
+tion represented primary mMSCs. Therefore, we further in-
+vestigated the in vivo localization and cell-surface phenotype
+of naive PS cells by whole-mount immunohistochemistry
+(whole-mount IHC) and flow cytometry. As far as we ob-
+served in >100 microscopic fields of three individual wild-
+type C57BL/6, all PS cells were located in the arterial
+perivascular space near the inner surface of the cortical bone
+(Fig. 3 A), adjacent to vascular smooth muscle cells (vSMCs)
+in BM (Fig. 3 B). PDGFR was expressed in a broader cell
+population that included cells with reticular morphology,
+and relatively weak Sca-1 expression was detected in the en-
+dothelial cells (Fig. 3 B).
+Because reticular cells located in the perivascular space act
+as hematopoietic niche cells (Sugiyama et al., 2006), we used
+quantitative RT-PCR (Fig. 3 C) and IHC (Fig. 3 D) to exam-
+ine the expression of two major paracrine factors that main-
+tain hematopoiesis: angiopoietin-1 (Ang-1; Arai et al., 2004)
+and CXCL12 (Sugiyama et al., 2006). We found abundant
+cells (BMMNCs) and performed several in vitro assays to
+determine their characteristics. A traditional CFU-F assay
+showed that the number of colonies per 1,000 cells was
+highest in the PDGFR+Sca-1+CD45TER119 (PS)
+subpopulation; however, the cells in the other subpopula-
+tions still produced a significant number of colonies (Fig. 1 E).
+Conventional MSC culture conditions (Phinney et al., 1999;
+Pittenger et al., 1999) yielding fibroblastic/spindle-shaped
+cells indicative of MSCs were only derived in the PS
+cultures on day 14 (Fig. 1 F, top right). The other subpopu-
+lations showed different morphologies, such as the cobble­
+stone appearance typical of endothelial cells, observed in the
+PDGFRSca-1+ group (Fig. 1 F). In addition, an analysis
+of growth kinetics revealed that only the PS cells prolifer-
+ated without senescence, yielding more than 107 cells from
+the original 5,000 cells seeded, with a doubling time of
+50.6 h (Fig. 1 G).
+We also observed a negative linear relationship between
+seeding density and colony formation efficiency (Fig. 1 H;
+Stingl et al., 2006). In unfractionated BMMNCs, isolated
+without collagenase treatment, the frequency of CFU-Fs was
+1/2.6 × 106 cells, as described previously (Phinney et al.,
+1999). It was 100 times greater when collagenase treatment
+was used (1/3.6 × 104). The frequency of CFU-Fs obtained
+from PS cells was 1 per 22.5 cells, which was consistent
+with the bulk CFU-F assays (Fig. 1 E). Collectively, the PS
+cells showed a 120,000-fold higher CFU-F frequency than
+the unfractionated BMMNCs.
+The PS cells’ potential for in vitro mesenchymal lin-
+eage differentiation was also investigated (Fig. 1 I). Freshly
+prepared BM cells were separated into the four CD45
+TER119 subpopulations described above, cultured with
+maintenance media for one or two passages, and then
+grown in differentiation-induction media for an additional
+14–21 d. Only the PS cells differentiated robustly into adi-
+pocytes, chondrocytes, and osteocytes. Although other
+fractions formed a pelletable micro-mass when grown un-
+der chondrogenic conditions, the extracellular matrix was
+either scarce or absent, as tested by toluidine blue staining.
+Adipocytes were generated almost solely by the PS popu-
+lation, although a very few were occasionally seen in the
+PDGFR+Sca-1 population. PS cells were also detected
+in the BM of other mouse strains, and showed both high
+colony-forming frequency and trilineage differentiation
+potential at levels comparable to the C57BL/6 PS cells
+(Fig. S1).
+As might be expected for MSCs, the PS cells did not
+have any hematopoietic capacity in vitro. They did not con-
+tain any CFUs under hematopoietic culture conditions,
+whereas sorted HSCs (CD34KSL cells) formed over 80 col-
+onies per 100 cells under the same conditions (Fig. 1, J and K).
+Notably, flow cytometric analysis showed that the PS BM
+fraction did not contain any side population (SP) cells, a pop-
+ulation enriched for stem cells, including HSCs, derived from
+a variety of tissues (Fig. 1 L; Goodell et al., 1996; Ono et al.,
+2007; Oyama et al., 2007).
+JEM VOL. 206, October 26, 2009
+ARTICLE
+2487
+for cultured human MSCs (CD29, CD49e, CD105, CD133,
+and PDGFR). Endothelial cell markers (Flk-1, VEGFR3,
+and CD146, except for CD34) were also uniformly expressed,
+although the fluorescence intensities were lower than that of
+the markers for cultured human MSCs. Markers for HSCs
+(c-kit and CD150) were totally negative. The cells showed
+expression of Ang-1 in the PS cells and of CXCL12 in the
+PDGFR+Sca-1 cells, suggesting that the MSCs constitute
+a hematopoietic niche in the arterial perivascular area near
+the endosteum (Moore and Lemischka, 2006).
+Flow cytometric analysis of fresh BMMNCs (Fig. 3 E)
+revealed that PS cells uniformly expressed known markers
+Figure 2.  Identification of MSC potential by clonal assay. (A) Phase-contrast micrographs of a representative colony from a single PS cell. Bar,
+200 µm. (B) Comparison of the differentiation potential of clonally derived cells. Adipogenic (day 14), chondrogenic (day 21), osteogenic (day 14), and
+endothelial (anti-PECAM-1+ and VE-cadherin+, day 21). Bars, 100 µm. (C) RT-PCR analysis of transcription factors and lineage-specific genes. Expression
+of adipocyte- (Adipsin, PPAR, and mLP), chondrocyte- (CollagenII, CollagenX, and Aggrecan), and osteocyte-specific (Osteopontin, Osteocalcin, and PTHr)
+markers, 3 wk after differentiation induction. Data are representative of five independent experiments.
+2488 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+Figure 3.  In vivo localization and phenotype of PS cells. Whole-mount IHC was performed in bone marrow from wild-type C57BL/6 animals. (A) Rep-
+resentative results for quadruple IHC of PDGFR (green), Sca-1 (red), SMA (white), and DAPI (blue) in untreated bone marrow. (B) High magnification image
+of the boxed area in A. PS cells (arrows), vascular smooth muscle cells (arrowheads). Data are representative of three independent recipients. (C) Quantitative
+RT-PCR analysis of Ang-1 and CXCL12. The expression levels detected in PDGFR Sca-1 cells were defined as 1 for each experiment. Mean ± SEM; n = 6
+per group. (D) Triple IHC of Sca-1 (red), DAPI (blue), and Ang-1 (green, top left) or CXCL12 (green, bottom left). Data are representative of three independent
+recipients. (E) Representative results of flow cytometric analysis for cell-surface markers by using freshly isolated BMMNCs from wild-type C57BL/6 animals
+of three independent experiments. Blue line, isotype control; red line, specific antibodies. Bars: (A, B, and D) 50 µm.
+JEM VOL. 206, October 26, 2009
+ARTICLE
+2489
+heterogeneous expression of the endothelial cell marker CD34,
+cultured MSC marker CD90, and endothelial cell/HSC
+marker Tie-2.
+PS cells repopulate hematopoietic niche components
+and adipose tissue in vivo
+Although the transplantation of mesenchymal stem cells has
+not been believed to be feasible (Wang et al., 2005; Sackstein
+et al., 2008), we and several other groups have reported that
+freshly isolated BM cells can replace a part of mesenchymal or
+stromal cells (Hou et al., 1999; Pereira et al., 1998; Rombouts
+and Ploemacher, 2003; Koide et al., 2007). To examine whether
+naive MSCs can reconstitute the BM in vivo, freshly isolated
+104 PS cells from CAG-EGFP transgenic mice (EGFP+
+CD45.1) were intravenously injected into lethally irradiated
+recipient mice (EGFP CD45.1) along with 100 CD34KSL
+cells (HSCs sorted from EGFP CD45.1+ mice; Fig. 4). The
+cells derived from PS or HSCs were traceable by their ex-
+pression of EGFP or CD45.1, respectively.
+At 16 wk, the peripheral blood of 10 out of 10 recipients
+had been reconstituted by HSC-derived CD45.1-positive
+cells averaging 81.1 ± 4.9% of the total cells counted (unpub-
+lished data). The recipient animals were subsequently sacri-
+ficed and BM sections were subjected to whole-mount IHC.
+We found a significant number of PS-derived GFP+ cells in
+the BM and surrounding bone tissue in all recipients. The
+majority of the cells were located in the perivascular region
+or apposing the inner-surface of cortical bone (Fig. 4 A).
+Double IHC for GFP and marker molecules revealed that the
+transplanted PS cells differentiated into reticular cells in as-
+sociation with vSMCs (Fig. 4 B, a–c), consistent with the
+normal physiological localization of PS cells (Fig. 3, A and B).
+The CXCL12 (Fig. 4 B, d–f) and Ang-1 (Fig. 4 B, g–i)
+expression in these cells suggested they could reconstitute the
+vascular niche for hematopoiesis. GFP-positive PS cells had
+also differentiated into osteocalcin-expressing osteoblasts
+lining the inner surface of the cortical bone (Fig. 4 B, j–l).
+In addition, in the adipose tissue of recipient mice we found
+some GFP-positive cells that were also positive for perilipin
+(Fig. 4 B, m–o), an adipocyte marker that is specifically ex-
+pressed at the periphery of lipid droplets (Cho et al., 2007).
+Combined with the localization of naive PS cells in BM
+shown in Fig. 3 (A–D), these data suggested that within
+16 wk of systemic transplantation, primary PS cells (MSCs),
+which are normally located in the arterial perivascular space
+in association with vSMCs, can give rise to osteoblasts and
+perivascular cells that function as hematopoietic niche cells
+(Fig. S3) or produce adipocytes when the cells migrate to
+adipose tissue.
+However, systemically transplanted GFP+ MSCs derived
+from single PS cells in culture were not detectable 8 wk later.
+To investigate this further, 105 1-mo-culture–expanded PS
+cells that had been engineered to express firefly luciferase fused
+to Venus (see Materials and methods) were transplanted into
+lethally irradiated recipient mice. The animals were subjected
+to bioluminescence imaging (BLI) analysis (Okada et al., 2005)
+Figure 4.  Multilineage capacity of transplanted PS cells in vivo.
+Representative pictures of bone specimens from lethally irradiated wild-
+type C57BL/6 mice (EGFP CD45.1; n = 5 mice in three independent
+experiments), 16 wk after the intravenous transplantation of 104 PS cells
+from CAG-EGFP transgenic mice BMMNCs (EGFP+ CD45.1) and of 100
+CD34KSL cells from B6-Ly5.1 (EGFP CD45.1+) mice. (A) The boxed areas
+in the top panels are shown enlarged in the bottom panels. Bars: (top)
+100 µm; (bottom) 50 µm. (B) Double IHC of GFP (green; a, d, g, j, and m)
+and either SMA (red; b and c), CXCL12 (red; e and f), Ang-1 (red; h and i),
+osteocalcin (red; k and l), or perilipin (red; n, o). Nuclei were stained with
+DAPI (blue; c, f, i, l, o). Note the GFP+ cells (arrows) differentiated into
+perivascular cells expressing CXCL12, osteoblasts, or adipocytes, but not
+vSMCs (arrowheads). Bars: (c and i) 20 µm; (f, l, o) 50 µm.
+2490 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+secondary CFU-Fs could be clonally expanded, which would
+indicate their competence for self-renewal. At 16 wk after
+transplantation, the bone and BM of five recipient mice were
+individually collagenase digested into single-cell suspensions.
+Flow cytometric analysis showed that donor-derived GFP+
+nonhematopoietic (CD45TER119) cells (Fig. 5 A, left)
+were <10% (mean percentage 7.35%), although the percent-
+age varied in all cases. Notably, GFP+ cells belonging to pop-
+ulations other than PS were found (Fig. 5 A, right). To test
+on days 0, 1, 3, 7, and 14 after transplantation. Strong biolu-
+minescent signals in the bilateral lung and neck were observed
+on days 0, 1, and 3, but the signals attenuated below the level
+of detectability by day 7 (Fig. S4). The data strongly support a
+previous observation that MSCs rapidly lose their ability to
+home to an appropriate site when cultured (Rombouts and
+Ploemacher, 2003; Wang et al., 2005).
+We further investigated whether transplanted PS cells
+maintained their stem cell properties by observing whether
+Figure 5.  Self-renewal and differentiation capacity of transplanted PS cells. Wild-type B6 animals were intravenously transplanted with freshly
+isolated 104 PS cells. (A) Representative result from flow cytometric analysis of EGFP expression of BMMNCs in recipient mice (n = 5 mice in three inde-
+pendent experiments) at 16 wk after transplantation. (B) PS cells from five recipients were then single sorted by flow cytometry and cultured individu-
+ally in 96-well tissue culture plates. Bar, 50 µm. Colonies were formed by the sorted single PS, which were able to sustain proliferation in vitro. Bar, 100
+µm. (C) GFP+ PS clones derived from transplanted PS were multipotent and could give rise to adipocytes (left; oil red O staining, day 14), chondrocytes
+(middle; toluidine blue staining, day 21), and osteocytes (right; alkaline phosphatase staining, day 14). Bar, 100 µm.
+JEM VOL. 206, October 26, 2009
+ARTICLE
+2491
+The identification of a marker combination that permits
+the isolation of primary MSCs enabled us to examine their
+physiological localization and role in the BM. We found that
+primary MSCs, with abundant Ang-1 expression, were pre-
+dominantly in the arterial perivascular space near the inner
+surface of the bone, adjacent to vSMCs. Our data also demon-
+strated the in vivo fate of primary MSCs in a systemic trans-
+plantation assay. The transplanted primary MSCs (PS cells)
+mainly differentiated into osteoblasts and Ang-1– and/or
+CXCL12-expressing perivascular cells, consistent with a re-
+cent study (Sacchetti et al., 2007). Collectively, our data con-
+clusively demonstrate that primary MSCs and their descendants
+mainly function in the adult BM as a hematopoietic niche in
+the arterial perivascular area in BM (Doherty et al., 1998; Shi
+and Gronthos, 2003).
+One of the most important observations of this study is
+that intravenously transplanted PS cells were integrated not
+only into the BM but also into adipose tissue. Previous studies
+have largely indicated that MSCs are not transplantable. The
+systemic delivery of in vitro–isolated MSCs to recipient ani-
+mals, although feasible, has been limited by the entrapment of
+donor cells in tissues, primarily the lungs, and the few success-
+ful transplantations were mostly performed by direct local or
+intralesional implantation (Miyahara et al., 2006; Muguruma
+et al., 2006).
+As has been reported (Rombouts and Ploemacher, 2003),
+we found that cultured MSCs lost their homing ability. In ad-
+dition, after ex vivo expansion, even the PS cells were largely
+trapped in the lung (Fig. S4) and did not contribute to any
+BM compartment. Cell migration and tissue integration in-
+volve a cascade of events initiated by shear-resistant adhesive
+interactions between flowing cells and the vascular endothe-
+lium at the target tissue. This process is mediated by “homing
+receptors” expressed on circulating cells that engage relevant
+endothelial coreceptors, resulting in cell-tethering and rolling
+contacts on the endothelial surface; this is typically followed
+by chemokine-triggered activation of integrin adhesiveness,
+firm adhesion, and extravasation (Sackstein, 2005). The key
+molecule that mediates the homing capacity of primary MSCs
+is unknown, and its identification should be addressed in a fu-
+ture study. In addition, it is also possible that BM engrafted
+cells and CFU-Fs were derived from a distinct cell population
+because PS cells still contain a heterogeneous population of
+cells. Thus, further purification and clonal transplantation
+studies would be necessary to prove our hypothesis.
+Although cultured MSCs are multipotent in vitro, the
+cells often commit to the osteocyte lineage after local implan-
+tation (Sacchetti et al., 2007). We found that transplanted
+PS cells that migrated to the BM mainly produced niche
+cells, as described above, but the cells that localized to adipose
+tissue differentiated into mature adipocytes. These results
+strongly suggested that primary MSCs can home to their ap-
+propriate niche and differentiate in response to cues from the
+local microenvironment. However, the discrepancy in dif-
+ferentiation potential between the in vitro and in vivo data
+remains to be addressed. In the in vitro differentiation assay,
+if the recovered PS cells retained their stem cell properties,
+we sorted single PS cells into individual wells of 96-well
+plates, and analyzed the resulting colonies. GFP+ fibroblastic
+colonies generated from 2 of 96 cells (Fig. 5 B), and the 2
+clones retained the ability to undergo sustained growth, as well
+as the multilineage differentiation potential in vitro (Fig. 5 C).
+PS cells are resistant to whole-body irradiation
+Although our data showed that the prospectively isolated
+PS cells (primary MSCs) migrated to appropriate sites and
+differentiated into the expected cell types after systemic infu-
+sion, the mean chimerism resulting from the transplantation
+of 104 PS-derived cells was 7%. In contrast, 100 purified
+HSCs were sufficient to reconstitute >80% of the hemato-
+poietic cells (Fig. 6 A). Given that 104 PS cells contained
+500 CFU-Fs, based on our 1/20 frequency of CFU-Fs in
+PS cells (Fig. 1 H), the PS engraftment was lower than
+expected. The observed difference might have been caused
+by the irradiation protocol. That is, if the recipient’s MSCs
+had not been eliminated in sufficient numbers to leave their
+niche available to the donor MSCs, competition for the niche
+might have reduced the number of successfully engrafted
+cells (Rombouts and Ploemacher, 2003; Koide et al., 2007).
+To evaluate this hypothesis, we compared the susceptibility
+of HSCs (KSL) and MSCs (PS) to irradiation.
+Three mice in each group were subjected to whole-body
+irradiation at a dose of 10.5 Gy, a significant number of PS
+cells remained among the BMNNCs after 6 d, but the HSCs
+(KSL cells) were almost undetectable by flow cytometry (Fig. 6,
+B and D). Interestingly, the sorted PS cells from the irradi-
+ated animals mostly failed to form colonies, and the CFU-F
+frequency was reduced to 1.66 ± 0.57% (33 ± 5.0% in unir-
+radiated; Fig. 6 C). Because irradiation normally induces cell
+death in actively cycling cells, we reasoned that the MSC/
+PS cells were quiescent. Flow cytometric analysis for cell-
+cycle markers showed that 71% of freshly isolated PS cells
+were in the G0 phase (Fig. 6 E), which could have protected
+them from lethal irradiation. These findings suggest that a
+significant proportion of the PS cells are physiologically qui-
+escent and therefore resistant to radiation damage and myelo-
+toxicity in vivo.
+DISCUSSION
+Using cell-surface markers and flow cytometry, we succeeded
+in prospectively isolating MSCs as PDGFR+Sca-1+CD45
+TER119 (PS) cells from adult murine BM. We showed
+that PS cells have primitive characteristics consistent with
+conventional MSC populations isolated by adhesion culture.
+Because PS cells were detected in various mouse strains
+(Fig. S1) with equal CFU-F frequency and differentiation
+potency, our protocol has immense potential for isolating en-
+riched, primary MSCs for detailed analyses especially in vari-
+ous genetically modified animals. Unlike with conventional
+protocols, our protocol permits such studies to be done with
+minimal contamination by unnecessary cells or the potential
+alteration of cell characteristics by ex vivo expansion.
+2492 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+Figure 6.  In vivo effects of lethal irradiation on the quiescence of PS cells. HSCs (CD34KSL) from B6-Ly5.1 (CD45.1) mice and PS cells (MSCs)
+from CAG-EGFP transgenic mice were transplanted together into lethally irradiated B6-Ly5.2 mice to examine the competitive repopulation of the appro-
+priate niches. The graph shows the percentage of CD45.1 and GFP donor-derived cells detected in the BM of recipient mice 16 wk after transplantation
+(CD45.1, 81.1 ± 4.95%; GFP+, 7.4 ± 0.40%.; n = 3 per group in three independent experiments). (B) The numbers of HSCs (KSL, c-Kit+Sca-1+Lin) and MSCs
+(PS, PDGFR+Sca-1+) in the BM were calculated by ([Total number of BMMNCs] × [% of the cells] /100). Black bar, untreated control mice; gray bar,
+irradiated mice, 10 d after lethal irradiation. Results are means ± SEM (n = 3 per group). (C) The number of CFU-Fs formed from PS cells isolated from
+either of unirradiated control (black) or lethally irradiated (Gray) wild-type C57BL/6. Means ± SEM (n = 3 per group). (D) Representative flow cytometric
+analysis of HSCs (KSL, top) or MSCs (PS, bottom) in BMMNCs of lethally irradiated or unirradiated control mice. (E) Flow cytometry analysis of
+PY/Hoechst-stained PS cells of unirradiated (left) and lethally irradiated (right) mice. Data are representative of three independent experiments.
+JEM VOL. 206, October 26, 2009
+ARTICLE
+2493
+our animal facility at Keio University School of Medicine. All experimental
+procedures and protocols were approved by the ethics committee of Keio
+University and were in accordance with the Guide for the Care and Use of
+Laboratory Animals.
+Preparation of BM cell suspension
+Femurs and tibias were dissected and crushed with a pestle. The crushed
+bones were gently washed once in HBSS+ (Hanks-balanced salt solution
+supplemented with 2% FBS, 10 mM Hepes, and 1% penicillin/streptomycin),
+and the cell suspension filtered through a cell strainer (Falcon 2350) was
+discarded. The bone fragments were collected and incubated for 1 h at 37°C
+in 20 ml of DMEM (Invitrogen) containing 0.2% collagenase (Wako Chem-
+icals USA, Inc.), 10 mM Hepes and 1% P/S. The suspension was filtered
+with a cell strainer (Falcon 2350) to remove debris and bone fragments, and
+collected by centrifugation at 280 g for 7 min at 4°C. The pellet was im-
+mersed in 1 ml water (Sigma-Aldrich) for 5–10 s to burst the red blood cells,
+after which 1 ml of 2× PBS (dilution from Sigma-Aldrich) containing 4%
+FBS was added, and the suspension was filtered through a cell strainer.
+Antibody staining
+The cells were suspended in ice-cold HBSS+ at 1–5 × 107 cells/ml, and then
+stained for 30 min on ice with the following mAbs: biotinylated or APC-
+conjugated PDGFR (APA5), FITC-conjugated Sca-1 (Ly6A/E), PE-con-
+jugated CD45 (30-F11), and TER119 (TER-119). Biotinylated antibodies
+were visualized with APC-conjugated streptavidin (Invitrogen). All mAbs
+were purchased from eBioscience. Flow cytometry analysis and sorting
+were performed on a triple-laser MoFlo (Dako) or FACSCalibur (BD) flow
+cytometer. PI fluorescence was measured, and a live cell gate was defined
+that excluded the cells positive for PI. Additional gates were defined as posi-
+tive for PDGFR and Sca-1 and negative for CD45 and TER119, accord-
+ing to the isotype control fluorescence intensity.
+Cell culture
+A variety of culture methods were required for this study, including adherent
+culture, CFU-F assay, cultures for MSC differentiation into mature cells, and
+CFU-C assay.
+Adherent culture. Traditional MSC adherent culture was performed as
+described previously (Pittenger et al., 1999). Sorted cells were cultured in
+maintenance medium (i.e., MEM + GlutaMAX-I [Invitrogen] supple-
+mented with 10% FBS and antibiotics), incubated at 37°C with 5% CO2,
+and maintained with exchanges into fresh medium every 3–4 d for 2–3 wk.
+CFU-F assay. Approximately 1 × 103 or 2 × 103 sorted cells were seeded
+on a 100-mm dish in maintenance medium. Adherent cell clusters contain-
+ing >50 cells were counted as a colony.
+Differentiation cultures. To induce adipocyte differentiation, subconflu-
+ent cells were cultured with three cycles of Adipogenic Induction Medium/
+Adipogenic Maintenance Medium, with supplements from the Adipogenic
+Induction/Adipogenic Maintenance SingleQuot kit (Lonza). Each cycle
+consisted of feeding the subconfluent cells with the induction medium for 3
+d, followed by 3 d of culture in the maintenance medium. After 14 d, the
+cells were fixed with 4% paraformaldehyde for 15 min, and stained with oil
+red O (MutoPure Chemicals).
+For chondrogenic differentiation, cultured cells were harvested by tryp-
+sinization. The 2 × 104–2.5 × 105 cells were transferred into a 15-ml conical
+tube and washed with MEM + GlutaMAX (Invitrogen). The tube was
+spun at 150 g for 5 min at room temperature, and the supernatant was aspi-
+rated. The cells were resuspended in 1 ml Differentiation Basal Medium
+Chondrogenic, with supplements from the Chondrogenic SingleQuot kit
+(Lonza), spun at 150×g for 5 min, and the medium was aspirated. The cells
+were resuspended in 1 ml of Differentiation Basal Medium Chondrogenic,
+supplemented with Chondrogenic SingleQuots kit, TGF-b3 (10 ng/ml;
+Lonza) and BMP-6 (500 ng/ml; R&D Systems), and spun at 150 g for 5 min
+at room temperature. The pellet was maintained with Differentiation Basal
+single PS-derived MSCs differentiated not only into chon-
+drocytes and osteocytes, but also into endothelial cells and
+adipocytes. However, the primary PS cells did not integrate
+into vSMCs in vivo. In addition, at least within 3 mo after
+transplantation, there were no detectable PS-derived adipo-
+cytes in the BM. One explanation may be that naive MSCs
+are extremely sensitive to tissue level elasticity in the micro-
+environment and commit to specific lineages accordingly
+(Engler et al., 2006).
+These findings have important clinical implications. Pri-
+mary MSCs transplanted by systemic infusion may be useful
+for cell therapy of various systemic skeletal diseases, such
+as dyschondroplasia, osteochondrodysplasia, osteoporosis, and
+osteogenesis imperfecta. In contrast, local implantation is in-
+vasive and can result in significant morbidity, potentially dis-
+rupt the highly complex and delicate structure of the local
+regulatory microenvironment, and cause additional injury.
+Thus, stem cell–based therapy for systemic disorders man-
+dates vascular delivery. However, this approach is limited by
+the difficulty of ensuring that sufficient numbers of reconsti-
+tuting cells reach the damaged areas in cases of ineffective
+stem cell engraftment (Laver et al., 1987; Simmons et al.,
+1987; Agematsu and Nakahori, 1991; Awaya et al., 2002;
+Stute et al., 2002; Barbash et al., 2003; Meyerrose et al.,
+2007). Here, we demonstrated the detection of significant
+number of primary PS-derived cells in the BM of trans-
+plant-recipient animals; however, the low engraftment activ-
+ity of MSCs remains an unsolved problem. A key feature of
+stem cells is that they are in a quiescent state in vivo. Our re-
+sults clearly revealed that >70% of PS were in the G0 phase,
+and the frequency of quiescent PS in the BM did not change
+after lethal irradiation. These data demonstrate that although
+the radiation reduced the host CFU-F colony-forming ability
+in vitro, it did not physically kill the cells; instead, they re-
+mained alive, but mostly nonfunctional, in their niche. Find-
+ing nondeleterious ways to remove host MSCs, assuming that
+the cell cycle progression of transplanted MSCs can be in-
+duced, to expand the progenitor population and compensate
+for cell loss, will be our next challenge. If we succeed, freshly
+isolated MSCs could have great potential for correcting bone
+and BM-related systemic disorders.
+Overall, the approach detailed here provides a means for
+researchers to study the therapeutic potential of cells from BM
+as a cell source for bone components and to elucidate how in-
+dividual factors function in the control and maintenance of
+bone and BM formation in vivo and in a variety of health and
+disease states. Advances in this field hold promise for the devel-
+opment of rationale-based stem cell therapies for tissue regen-
+eration and of gene therapy for inherited disorders.
+MATERIALS AND METHODS
+Mice
+Adult wild-type C57BL/6 mice and B6.SJL-Ptprca Pep3b/BoyJ (C57BL/6-
+Ly5.1;Ly5.1) mice 8–12 wk of age were purchased from CLEA Japan, Inc.
+(Tokyo, Japan). Transgenic mice that ubiquitously express EGFP under the
+control of the CAG promoter (Kawamoto et al., 2000) were bred in our ani-
+mal facility. The mice were kept under specific pathogen–free conditions in
+2494 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+bioluminescent protein which emitted bigger bioluminescent signals than
+general one, only 105 cells could be detected easily. Sorted single PS cell
+was cultured and proliferated, infected with lentivirus, continuously propa-
+gated, harvested, and then dissociated into single cells. The PI-negative/Ve-
+nus-positive PS cells were sorted by a flow cytometry and transplanted
+with HSCs (34-KSL).
+BLI
+We used a Xenogen-IVIS 100–cooled CCD optical macroscopic imaging
+system (SC BioScience Corporation) for BLI. For in vivo imaging, recipient
+mice transplanted with lentivirally engineered PS cells were anesthetized
+and given D-luciferin (150 mg/kg body weight) i.p. We found this time
+window to be optimal because the signal intensity peaked at 15 min after ad-
+ministration followed by a plateau of 20 min (unpublished data). All images
+were analyzed as described in Materials and methods. To quantify the mea-
+sured light, regions of interest (ROI) were defined as lungs and all values
+were examined from an equal ROI.
+Statistical analysis.
+The Tukey-Kramer test was used to compare the frequencies of CFU-Fs
+among different groups. All reported p-values were obtained using the SPSS
+software package (SPSS 15.0J for Windows).
+Online supplemental material
+Fig. S1 shows the quantification and differentiation of PS cells isolated from
+different inbred mouse strains. Fig. S2 shows cell surface marker antigens of
+clonally cultured PS cells. Fig. S3 is a schematic model of the physiological
+localization and behavior of MSCs in BM. Fig. S4 shows imaging of trans-
+planted cultured MSCs in vivo. Table S1 lists primers used in this study. Table
+S2 lists monoclonal antibodies used in this study.Online supplemental ma-
+terial is available at http://www.jem.org/content/full/jem.20091046/DC1.
+We thank Miyuki Ogawara and Takayuki Ohkawa for technical assistance and
+Lawrence Lein for proofreading this manuscript.
+This work was supported by a grant from the Solution-Oriented Research for
+Science and Technology (SORST) program of the Japan Science and Technology
+Agency (JST) and from the Ministry of Education, Culture, Sports, Science and
+Technology (to H.O. and Y.M.), and also supported in part by a grant-in-aid from the
+Global Century COE program of the Ministry of Education, Science, and Culture of
+Japan to Keio University.
+The authors have no conflicting financial interests.
+Submitted: 12 May 2009
+Accepted: 8 September 2009
+REFERENCES
+Agematsu, K., and Y. Nakahori. 1991. Recipient origin of bone marrow-
+derived fibroblastic stromal cells during all periods following bone marrow
+transplantation in humans. Br. J. Haematol. 79:359–365. doi:10.1111/
+j.1365-2141.1991.tb08041.x
+Arai, F., A. Hirao, M. Ohmura, H. Sato, S. Matsuoka, K. Takubo, K. Ito,
+G.Y. Koh, and T. Suda. 2004. Tie2/angiopoietin-1 signaling regulates
+hematopoietic stem cell quiescence in the bone marrow niche. Cell.
+118:149–161. doi:10.1016/j.cell.2004.07.004
+Awaya, N., K. Rupert, E. Bryant, and B. Torok-Storb. 2002. Failure of
+adult marrow-derived stem cells to generate marrow stroma after suc-
+cessful hematopoietic stem cell transplantation. Exp. Hematol. 30:937–
+942. doi:10.1016/S0301-472X(02)00821-4
+Bacon, E.R., and A.J. Sytkowski. 1987. Identification and characterization
+of a differentiation-specific antigen on normal and malignant murine
+erythroid cells. Blood. 69:103–108.
+Barbash, I.M., P. Chouraqui, J. Baron, M.S. Feinberg, S. Etzion, A. Tessone,
+L. Miller, E. Guetta, D. Zipori, L.H. Kedes, et al. 2003. Systemic
+delivery of bone marrow-derived mesenchymal stem cells to the in-
+farcted myocardium: feasibility, cell migration, and body distribution.
+Circulation. 108:863–868. doi:10.1161/01.CIR.0000084828.50310.6A
+Medium changes every 3–4 d for 3 wk. After 3 wk, cell clumps were har-
+vested, washed in 4% paraformaldehyde, and stained with toluidine blue.
+To induce osteocyte differentiation, subconfluent cells were cultured
+with Differentiation Basal Medium Osteogenic, supplemented with Osteo-
+genic SingleQuots (Lonza) for 14 d. The cells were then fixed with 4% para-
+formaldehyde for 15 min and stained with alkaline phosphatase (Histofine;
+Nichirei).
+For vasculogenesis, sorted cells were seeded on poly-L-ornithine/
+fibronectin (Sigma-Aldrich)-coated 8-well chamber slides (Iwaki) with Endo-
+thelial Cell Basal Medium-2 (EBM-2), supplemented with EGM-2 MV
+SingleQuots (Lonza), and incubated at 37°C with 5% CO2. The cultures
+were maintained with medium changes every 4–7 d for 3 wk.
+CFU-C assay. Cell suspensions were mixed with MethoCult (StemCell
+Technologies). Cells were plated in 35-mm dishes and cultured at 37°C with
+5% CO2. Colonies were scored on day 14.
+Negative linear relationship assays
+In this assay, the systematic dilution of cells reduces the plating cell density
+and increases the incidence of wells with no colonies. The sorted cells were
+seeded into 96- or 24-well plates or 100-mm dishes containing 14 cell-dose
+groups: 25; 50; 100; 200; 400; 500; 800; 5,000; 10,000; 50,000; 80,000;
+1,000,000; 2,500,000; or 5,000,000 sorted cells per well. After 14 d, each
+well was fixed in methanol, stained with Giemsa, and the wells with no col-
+onies were included in the count for each population. The concentration of
+cells plated in which 37% of the wells are negative for colony growth is the
+cell concentration that contains one CFU-F (Bacon and Sytkowski, 1987).
+RT-PCR and quantitative RT-PCR (QRT-PCR) assay
+RT-PCR was performed as described previously (Koide et al., 2007). The
+QRT-PCR assay was performed on an ABI 7500 Fast Real-Time PCR
+System using TaqMan Fast Universal PCR master mixture (Applied Bio-
+systems) and TaqMan Gene Expression Assay Mix for Ang-1 (Mm00456503_
+m1) or CXCL-12 (Mm004455552_m1). The -actin (actb) assay mix
+(Mm00607939_s1) served as an endogenous control. Data were analyzed
+by 7500 Fast System SDS Software 1.3.1. All experiments were done
+in quadruplicate.
+In vivo transplantation
+CD34KSL cells (HSCs) from Ly5.1 congenic mice and PS cells from
+CAG-EGFP transgenic mice were isolated as described above. Then, a mix-
+ture of 100 HSCs and 104 PS cells were transplanted intravenously into the
+retro-orbital plexus of anesthetized recipient mice that had been lethally ir-
+radiated (10.5 Gy) along with 2 × 105 whole BM cells from recipient strain
+mice, as radioprotective cells.
+Immunostaining of BM and adipose tissue
+For BM and adipose tissue sections, whole-mount staining was performed as
+previously described (Kubota et al., 2008). The following antibodies were
+used as a primary antibodies; anti-GFP (rabbit IgG; 1:500; MBL; and goat
+IgG; 1:200; Santa Cruz Biotechnology, Inc.), -SMA (1A4; FITC or Cy3-
+conjugated; Sigma-Aldrich), Sca-1 (D7; BD), PDGFR (Santa Cruz Bio-
+technology, Inc.), Ang-1 (Santa Cruz Biotechnology, Inc.), CXCL12
+(Abcam), osteocalcin (Santa Cruz Biotechnology, Inc.), and perilipin (Re-
+search Diagnostics). The secondary antibodies used were Alexa Fluor 488
+fluorescence-conjugated IgGs (Invitrogen) or Cy3/Cy5-conjugated IgGs
+(Jackson ImmunoResearch Laboratories). For nuclear staining, specimens
+were treated with DAPI (Invitrogen).
+Infection of lentivirus expressing firefly luciferase fused to Venus
+and preparation of transduced PS cells
+By using the fluorescent and luminescent fusion protein, the success of lenti-
+virus infection was confirmed with fluorescent signal from Venus. After the
+transplantation, the spot(s) of transplanted PS cells were followed by biolu-
+minescent signal from Luciferin in mice body. Because we used the modified
+JEM VOL. 206, October 26, 2009
+ARTICLE
+2495
+specification from bone marrow-derived pluripotent stem cells. Proc.
+Natl. Acad. Sci. USA. 102:4789–4794. doi:10.1073/pnas.0408239102
+Kubota, Y., K. Takubo, and T. Suda. 2008. Bone marrow long label-
+retaining cells reside in the sinusoidal hypoxic niche. Biochem. Biophys.
+Res. Commun. 366:335–339. doi:10.1016/j.bbrc.2007.11.086
+Laver, J., S.C. Jhanwar, R.J. O’Reilly, and H. Castro-Malaspina. 1987. Host
+origin of the human hematopoietic microenvironment following allo-
+geneic bone marrow transplantation. Blood. 70:1966–1968.
+Makino, S., K. Fukuda, S. Miyoshi, F. Konishi, H. Kodama, J. Pan, M. Sano,
+T. Takahashi, S. Hori, H. Abe, et al. 1999. Cardiomyocytes can be gen-
+erated from marrow stromal cells in vitro. J. Clin. Invest. 103:697–705.
+doi:10.1172/JCI5298
+Matsuzaki, Y., K. Kinjo, R.C. Mulligan, and H. Okano. 2004. Unexpectedly
+efficient homing capacity of purified murine hematopoietic stem cells.
+Immunity. 20:87–93. doi:10.1016/S1074-7613(03)00354-6
+Meyerrose, T.E., D.A. De Ugarte, A.A. Hofling, P.E. Herrbrich, T.D.
+Cordonnier, L.D. Shultz, J.C. Eagon, L. Wirthlin, M.S. Sands, M.A.
+Hedrick, and J.A. Nolta. 2007. In vivo distribution of human adipose-
+derived mesenchymal stem cells in novel xenotransplantation models.
+Stem Cells. 25:220–227. doi:10.1634/stemcells.2006-0243
+Miyahara, Y., N. Nagaya, M. Kataoka, B. Yanagawa, K. Tanaka, H. Hao,
+K. Ishino, H. Ishida, T. Shimizu, K. Kangawa, et al. 2006. Monolayered
+mesenchymal stem cells repair scarred myocardium after myocardial in-
+farction. Nat. Med. 12:459–465. doi:10.1038/nm1391
+Moore, K.A., and I.R. Lemischka. 2006. Stem cells and their niches. Science.
+311:1880–1885. doi:10.1126/science.1110542
+Morikawa, S., Y. Mabuchi, K. Niibe, S. Suzuki, N. Nagoshi, T. Sunabori, S.
+Shimmura, Y. Nagai, T. Nakagawa, H. Okano, and Y. Matsuzaki. 2009.
+Development of mesenchymal stem cells partially originate from the neu-
+ral crest. Biochem. Biophys. Res. Commun. 379:1114–1119. doi:10.1016/
+j.bbrc.2009.01.031
+Muguruma, Y., T. Yahata, H. Miyatake, T. Sato, T. Uno, J. Itoh, S. Kato,
+M. Ito, T. Hotta, and K. Ando. 2006. Reconstitution of the functional
+human hematopoietic microenvironment derived from human mes-
+enchymal stem cells in the murine bone marrow compartment. Blood.
+107:1878–1887. doi:10.1182/blood-2005-06-2211
+Okada, S., K. Ishii, J. Yamane, A. Iwanami, T. Ikegami, H. Katoh, Y.
+Iwamoto, M. Nakamura, H. Miyoshi, H.J. Okano, et al. 2005. In vivo
+imaging of engrafted neural stem cells: its application in evaluating
+the optimal timing of transplantation for spinal cord injury. FASEB J.
+19:1839–1841.
+Ono, M., T. Maruyama, H. Masuda, T. Kajitani, T. Nagashima, T. Arase, M.
+Ito, K. Ohta, H. Uchida, H. Asada, et al. 2007. Side population in human
+uterine myometrium displays phenotypic and functional characteristics
+of myometrial stem cells. Proc. Natl. Acad. Sci. USA. 104:18700–18705.
+doi:10.1073/pnas.0704472104
+Ortega, G., P.E. Korty, E.M. Shevach, and T.R. Malek. 1986. Role of Ly-6
+in lymphocyte activation. I. Characterization of a monoclonal antibody
+to a nonpolymorphic Ly-6 specificity. J. Immunol. 137:3240–3246.
+Osawa, M., K. Hanada, H. Hamada, and H. Nakauchi. 1996. Long-term
+lymphohematopoietic reconstitution by a single CD34-low/negative
+hematopoietic stem cell. Science. 273:242–245. doi:10.1126/science.
+273.5272.242
+Oyama, T., T. Nagai, H. Wada, A.T. Naito, K. Matsuura, K. Iwanaga, T.
+Takahashi, M. Goto, Y. Mikami, N. Yasuda, et al. 2007. Cardiac side
+population cells have a potential to migrate and differentiate into cardio-
+myocytes in vitro and in vivo. J. Cell Biol. 176:329–341. doi:10.1083/
+jcb.200603014
+Peister, A., J.A. Mellad, B.L. Larson, B.M. Hall, L.F. Gibson, and D.J.
+Prockop. 2004. Adult stem cells from bone marrow (MSCs) isolated from
+different strains of inbred mice vary in surface epitopes, rates of prolifera-
+tion, and differentiation potential. Blood. 103:1662–1668. doi:10.1182/
+blood-2003-09-3070
+Pereira, R.F., M.D. O’Hara, A.V. Laptev, K.W. Halford, M.D. Pollard, R.
+Class, D. Simon, K. Livezey, and D.J. Prockop. 1998. Marrow stro-
+mal cells as a source of progenitor cells for nonhematopoietic tissues in
+transgenic mice with a phenotype of osteogenesis imperfecta. Proc. Natl.
+Acad. Sci. USA. 95:1142–1147. doi:10.1073/pnas.95.3.1142
+Beltrami, A.P., D. Cesselli, N. Bergamin, P. Marcon, S. Rigo, E. Puppato,
+F. D’Aurizio, R. Verardo, S. Piazza, A. Pignatelli, et al. 2007.
+Multipotent cells can be generated in vitro from several adult human
+organs (heart, liver, and bone marrow). Blood. 110:3438–3446. doi:10.
+1182/blood-2006-11-055566
+Cho, C.H., Y.J. Koh, J. Han, H.K. Sung, H. Jong Lee, T. Morisada, R.A.
+Schwendener, R.A. Brekken, G. Kang, Y. Oike, et al. 2007. Angiogenic
+role of LYVE-1-positive macrophages in adipose tissue. Circ. Res.
+100:e47–e57. doi:10.1161/01.RES.0000259564.92792.93
+Conget, P.A., and J.J. Minguell. 1999. Phenotypical and functional prop-
+erties of human bone marrow mesenchymal progenitor cells. J. Cell.
+Physiol. 181:67–73. doi:10.1002/(SICI)1097-4652(199910)181:1<67::
+AID-JCP7>3.0.CO;2-C
+da Silva Meirelles, L., P.C. Chagastelles, and N.B. Nardi. 2006. Mesenchymal
+stem cells reside in virtually all post-natal organs and tissues. J. Cell Sci.
+119:2204–2213. doi:10.1242/jcs.02932
+Dezawa, M., H. Ishikawa, Y. Itokazu, T. Yoshihara, M. Hoshino, S. Takeda,
+C. Ide, and Y. Nabeshima. 2005. Bone marrow stromal cells gener-
+ate muscle cells and repair muscle degeneration. Science. 309:314–317.
+doi:10.1126/science.1110364
+Doherty, M.J., B.A. Ashton, S. Walsh, J.N. Beresford, M.E. Grant, and
+A.E. Canfield. 1998. Vascular pericytes express osteogenic potential
+in vitro and in vivo. J. Bone Miner. Res. 13:828–838. doi:10.1359/
+jbmr.1998.13.5.828
+Engler, A.J., S. Sen, H.L. Sweeney, and D.E. Discher. 2006. Matrix elasticity
+directs stem cell lineage specification. Cell. 126:677–689. doi:10.1016/
+j.cell.2006.06.044
+Friedenstein, A.J., U.F. Deriglasova, N.N. Kulagina, A.F. Panasuk, S.F.
+Rudakowa, E.A. Luriá, and I.A. Ruadkow. 1974. Precursors for fibro-
+blasts in different populations of hematopoietic cells as detected by the
+in vitro colony assay method. Exp. Hematol. 2:83–92.
+Goodell, M.A., K. Brose, G. Paradis, A.S. Conner, and R.C. Mulligan. 1996.
+Isolation and functional properties of murine hematopoietic stem cells
+that are replicating in vivo. J. Exp. Med. 183:1797–1806. doi:10.1084/
+jem.183.4.1797
+Hoffmann, A., G. Pelled, G. Turgeman, P. Eberle, Y. Zilberman, H. Shinar,
+K. Keinan-Adamsky, A. Winkel, S. Shahab, G. Navon, et al. 2006.
+Neotendon formation induced by manipulation of the Smad8 signal-
+ling pathway in mesenchymal stem cells. J. Clin. Invest. 116:940–952.
+doi:10.1172/JCI22689
+Hou, Z., Q. Nguyen, B. Frenkel, S.K. Nilsson, M. Milne, A.J. van Wijnen,
+J.L. Stein, P. Quesenberry, J.B. Lian, and G.S. Stein. 1999. Osteoblast-
+specific gene expression after transplantation of marrow cells: implica-
+tions for skeletal gene therapy. Proc. Natl. Acad. Sci. USA. 96:7294–7299.
+doi:10.1073/pnas.96.13.7294
+Jiang, Y., B.N. Jahagirdar, R.L. Reinhardt, R.E. Schwartz, C.D. Keene,
+X.R. Ortiz-Gonzalez, M. Reyes, T. Lenvik, T. Lund, M. Blackstad,
+et al. 2002. Pluripotency of mesenchymal stem cells derived from adult
+marrow. Nature. 418:41–49. doi:10.1038/nature00870
+Jin, H.K., J.E. Carter, G.W. Huntley, and E.H. Schuchman. 2002.
+Intracerebral transplantation of mesenchymal stem cells into acid sphin-
+gomyelinase-deficient mice delays the onset of neurological abnormali-
+ties and extends their life span. J. Clin. Invest. 109:1183–1191.
+Kawamoto, S., H. Niwa, F. Tashiro, S. Sano, G. Kondoh, J. Takeda, K.
+Tabayashi, and J. Miyazaki. 2000. A novel reporter mouse strain that ex-
+presses enhanced green fluorescent protein upon Cre-mediated recombi-
+nation. FEBS Lett. 470:263–268. doi:10.1016/S0014-5793(00)01338-7
+Kohyama, J., H. Abe, T. Shimazaki, A. Koizumi, K. Nakashima, S. Gojo, T.
+Taga, H. Okano, J. Hata, and A. Umezawa. 2001. Brain from bone: ef-
+ficient “meta-differentiation” of marrow stroma-derived mature osteo-
+blasts to neurons with Noggin or a demethylating agent. Differentiation.
+68:235–244. doi:10.1046/j.1432-0436.2001.680411.x
+Koide, Y., S. Morikawa, Y. Mabuchi, Y. Muguruma, E. Hiratsu, K.
+Hasegawa, M. Kobayashi, K. Ando, K. Kinjo, H. Okano, and Y.
+Matsuzaki. 2007. Two distinct stem cell lineages in murine bone mar-
+row. Stem Cells. 25:1213–1221. doi:10.1634/stemcells.2006-0325
+Kondo, T., S.A. Johnson, M.C. Yoder, R. Romand, and E. Hashino. 2005.
+Sonic hedgehog and retinoic acid synergistically promote sensory fate
+2496 DIRECT ISOLATION METHOD FOR PDGFR+ SCA-1+ mMSCS | Morikawa et al.
+Phinney, D.G., G. Kopen, R.L. Isaacson, and D.J. Prockop. 1999. Plastic
+adherent stromal cells from the bone marrow of commonly used strains
+of inbred mice: variations in yield, growth, and differentiation. J.
+Cell. Biochem. 72:570–585. doi:10.1002/(SICI)1097-4644(19990315)
+72:4<570::AID-JCB12>3.0.CO;2-W
+Pittenger, M.F., A.M. Mackay, S.C. Beck, R.K. Jaiswal, R. Douglas, J.D.
+Mosca, M.A. Moorman, D.W. Simonetti, S. Craig, and D.R. Marshak.
+1999. Multilineage potential of adult human mesenchymal stem cells.
+Science. 284:143–147. doi:10.1126/science.284.5411.143
+Prockop, D.J. 1997. Marrow stromal cells as stem cells for nonhematopoietic
+tissues. Science. 276:71–74. doi:10.1126/science.276.5309.71
+Rombouts, W.J., and R.E. Ploemacher. 2003. Primary murine MSC
+show highly efficient homing to the bone marrow but lose hom-
+ing ability following culture. Leukemia. 17:160–170. doi:10.1038/
+sj.leu.2402763
+Sacchetti, B., A. Funari, S. Michienzi, S. Di Cesare, S. Piersanti, I. Saggio, E.
+Tagliafico, S. Ferrari, P.G. Robey, M. Riminucci, and P. Bianco. 2007.
+Self-renewing osteoprogenitors in bone marrow sinusoids can organize
+a hematopoietic microenvironment. Cell. 131:324–336. doi:10.1016/
+j.cell.2007.08.025
+Sackstein, R. 2005. The lymphocyte homing receptors: gatekeepers of the
+multistep paradigm. Curr. Opin. Hematol. 12:444–450. doi:10.1097/01.
+moh.0000177827.78280.79
+Sackstein, R., J.S. Merzaban, D.W. Cain, N.M. Dagia, J.A. Spencer, C.P.
+Lin, and R. Wohlgemuth. 2008. Ex vivo glycan engineering of CD44
+programs human multipotent mesenchymal stromal cell trafficking to
+bone. Nat. Med. 14:181–187.
+Shi, S., and S. Gronthos. 2003. Perivascular niche of postnatal mesenchymal
+stem cells in human bone marrow and dental pulp. J. Bone Miner. Res.
+18:696–704. doi:10.1359/jbmr.2003.18.4.696
+Simmons, P.J., D. Przepiorka, E.D. Thomas, and B. Torok-Storb. 1987.
+Host origin of marrow stromal cells following allogeneic bone marrow
+transplantation. Nature. 328:429–432. doi:10.1038/328429a0
+Smith, L.G., I.L. Weissman, and S. Heimfeld. 1991. Clonal analysis of he-
+matopoietic stem-cell differentiation in vivo. Proc. Natl. Acad. Sci. USA.
+88:2788–2792. doi:10.1073/pnas.88.7.2788
+Spangrude, G.J., D.M. Brooks, and D.B. Tumas. 1995. Long-term repopula-
+tion of irradiated mice with limiting numbers of purified hematopoietic
+stem cells: in vivo expansion of stem cell phenotype but not function.
+Blood. 85:1006–1016.
+Stingl, J., P. Eirew, I. Ricketson, M. Shackleton, F. Vaillant, D. Choi, H.I.
+Li, and C.J. Eaves. 2006. Purification and unique properties of mam-
+mary epithelial stem cells. Nature. 439:993–997.
+Stute, N., B. Fehse, J. Schröder, S. Arps, P. Adamietz, K.R. Held, and A.R.
+Zander. 2002. Human mesenchymal stem cells are not of donor origin
+in patients with severe aplastic anemia who underwent sex-mismatched
+allogeneic bone marrow transplant. J. Hematother. Stem Cell Res.
+11:977–984. doi:10.1089/152581602321080646
+Sugiyama, T., H. Kohara, M. Noda, and T. Nagasawa. 2006. Maintenance
+of the hematopoietic stem cell pool by CXCL12-CXCR4 chemokine
+signaling in bone marrow stromal cell niches. Immunity. 25:977–988.
+doi:10.1016/j.immuni.2006.10.016
+Sun, S., Z. Guo, X. Xiao, B. Liu, X. Liu, P.H. Tang, and N. Mao.
+2003. Isolation of mouse marrow mesenchymal progenitors by a
+novel and reliable method. Stem Cells. 21:527–535. doi:10.1634/
+stemcells.21-5-527
+Takakura, N., H. Yoshida, Y. Ogura, H. Kataoka, S. Nishikawa, and S.
+Nishikawa. 1997. PDGFR alpha expression during mouse embryogen-
+esis: immunolocalization analyzed by whole-mount immunohistostain-
+ing using the monoclonal anti-mouse PDGFR alpha antibody APA5.
+J. Histochem. Cytochem. 45:883–893.
+Till, J., and E. McCulloch. 1961. A direct measurement of the radiation sen-
+sitivity of normal mouse bone marow cells. Radiat. Res. 14:213–222.
+Wang, L., Y. Liu, Z. Kalajzic, X. Jiang, and D.W. Rowe. 2005. Heterogeneity
+of engrafted bone-lining cells after systemic and local transplantation.
+Blood. 106:3650–3657. doi:10.1182/blood-2005-02-0582
+

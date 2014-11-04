@@ -1,0 +1,594 @@
+Measurement of telomere DNA content by
+dot blot analysis
+Masayuki Kimura* and Abraham Aviv
+The Center for Human Development and Aging, University of Medicine and Dentistry of New Jersey,
+New Jersey Medical School, Newark, NJ 07103, USA
+Received January 11, 2011; Revised March 30, 2011; Accepted April 4, 2011
+ABSTRACT
+Telomeres play a central role in human cancer, car-
+diovascular aging and possibly longevity. However,
+present methods to measure telomere length are
+fraught with shortcomings that limit their use.
+Here, we describe a novel method to measure the
+relative telomere DNA content by dot blot analysis.
+In each dot, the DNA content is measured by a
+DNA stain (Dx) and the telomeric DNA content is
+measured with a telomeric probe (T). The T
+normalized for Dx (T/Dx) of each dot is a measure
+of telomere content. The method requires $20 ng of
+DNA per assay. Moreover, the T/Dx data are highly
+correlated linearly with mean telomere lengths
+derived from Southern blots of the terminal restric-
+tion fragments (r > 0.96, P < 0.0001). The method is
+also simple to use, has a relatively low interassay
+coefficient of variation (<6%), retains its precision
+in moderately degraded DNA and can be forged
+for high throughput analysis. The method might
+help researchers and clinicians alike in understand-
+ing risks for and extent of human diseases.
+INTRODUCTION
+Telomeres, the TTAGGG repeats at the ends of chromo-
+somes, undergo progressive shortening in replicating cells
+that lack active telomerase—the reverse transcriptase that
+adds telomere repeats to the end of the chromosomes
+(1,2). In these cells, telomere length is not only a record
+of cell replication but it is also an index of replicative
+potential. Cellular replication ﬁgures in mammalian
+development, tissue maintenance and in aging; it is also
+a key player in the runaway cellular replication that is the
+hallmark of cancer (3,4). Accordingly, telomere dynamics
+(telomere length and its shortening) have been the focus of
+intense interest in both clinical and epidemiological
+studies, which have primarily measured leukocyte
+telomere length (LTL). These studies have established
+that LTL is inversely related to age and is relatively
+short in individuals who suffer from aging-related
+diseases, principally atherosclerosis (5–7). Relatively
+short LTL has also been found to be associated with di-
+minished survival of elderly persons (8–10). Moreover,
+shortened LTL is often expressed in various forms of
+aplastic anemia (11).
+Methods to measure telomere length/content include
+Southern blot analysis of the terminal restriction
+fragment (TRF) lengths (1), quantitative PCR (qPCR)
+(12,13), ﬂuorescent in situ hybridization (FISH) (14,15),
+slot blot or dot blot analysis (16–18) and single telomere
+length analysis (STELA) (19). Although these techniques
+have been successfully employed in broadening under-
+standing the roles of telomeres in human health and
+disease, they are also fraught with shortcomings (20,21)
+that have contributed to a growing debate about their
+research applications and usefulness in clinical settings.
+For epidemiological research, the TRF length analysis
+and qPCR method are typically preferred over the other
+methods, but they too display considerable problems that
+limit their practical use.
+Clearly, there is a growing need for a simple, speciﬁc
+and sufﬁciently precise method to measure telomere length
+for research and clinical purposes. This need will only
+escalate with the anticipated expansions of research and
+clinical applications that will require telomere length
+measurements. We have developed such a method.
+Based on dot blot analysis, the method requires little
+amount of DNA ($20 ng/assay), and moreover is inexpen-
+sive and easy to perform.
+MATERIALS AND METHODS
+General procedures
+In the ﬁrst set of experiments, we used leukocyte DNA
+donated by 28 young and middle-age adults. As LTLs in
+this group did not encompass the overall spectrum of
+LTLs seen throughout the entire human lifespan, in a
+*To whom correspondence should be addressed. Tel: +973 972 8790; Fax: +973 972 5576; Email: Kimurama@umdnj.edu
+Published online 27 April 2011 Nucleic Acids Research, 2011, Vol. 39, No. 12 e84
+doi:10.1093/nar/gkr235
+ß The Author(s) 2011. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.5), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+second set of experiments we determined LTL in leukocyte
+samples from seven newborns and seven elderly persons
+(aged 90–96 years).
+We isolated DNA by Gentra Puregene Blood kit
+(Qiagen). The telomere probe we used for both the TRF
+length analysis and dot blot analysis consisted of three CC
+CTAA oligonucleotide repeats, which are complementary
+to the canonical sequence of TTAGGG repeats, and it is
+labeled at the 30
+-end with digoxigenin (DIG).
+Telomere repeats/DNA ratio by dot blot analysis
+The method proceeds as follows: (i) the analysis is carried
+out using DNA dot blots; (ii) the DNA content of the
+sample on the blot is measured by SYBR Dx DNA Blot
+Stain (S-7550, Invitrogen); (iii) the blot is hybridized with
+a DIG labeled telomeric probe; and (iv) the ratio of
+telomere repeats/DNA (T/Dx) is the amount of the
+repeats per unit DNA.
+We performed the assays as follows: DNA concentra-
+tion in all samples, including those used for generation of
+standards, was initially measured in solution by UV ab-
+sorbance at 260 nm. DNA for the standard was from a
+leukocyte sample with a mean TRF length of 7.29 kb.
+DNA (3.3 ml; 20 ng/ml for samples and 5, 15, 25 and
+35 ng/ml for the standard) was diluted into 16.5 ml of
+denaturing solution (0.5 M NaOH, 1.5 M NaCl) and
+incubated at 55
+C for 30 min. Neutralizing solution
+(495 ml; 0.5 M Tris–HCl, 1.5 M NaCl) was added. A posi-
+tively charged nylon membrane (Roche) was soaked in
+distilled water for 10 min and Bio-Dot Microﬁltration
+Apparatus was assembled according to the manufacturer’s
+instructions. Each well was washed once with 200 ml water.
+The 156 ml of neutralized sample or standard was loaded
+into each well (in triplicate) and subjected to gentle
+vacuum. Thereafter, each well was washed once with
+200 ml 2Â saline–sodium citrate buffer (SSC), the
+membrane was removed, rinsed in 2Â SSC, dried and
+UV-cross-linked (UV dose = 120 mJ/cm2
+) on both sides
+of the membrane.
+For DNA blot staining, the membrane was washed in
+distilled water for 10 min, rinsed with 0.5 Â Tris–borate–
+EDTA buffer (TBE) and stained with 5 ml SYBR Dx stain
+(1000Â dilution in 0.5Â TBE) for 30 min. The ﬂuorescence
+signal was measured by Typhoon 9400 (GE Healthcare).
+The DNA amount of each sample was calculated from the
+standard.
+The membrane was pre-hybridized in 5Â SSC, 0.1%
+Sarkosyl, 0.02% sodium dodecyl sulfate (SDS) and 1%
+blocking reagent (Roche) at 65
+C for 2 h and hybridized
+at 65
+C with the telomeric probe overnight in the same
+solution. The membrane was washed three times at room
+temperature in 2Â SSC and 0.1% SDS each for 15 min
+and once in 2Â SSC for 15 min. The DIG-labeled probe
+was detected by the DIG luminescent detection procedure
+using CDP-Star (Roche) and exposed on X-ray ﬁlm (21).
+The amount of telomere repeats from each sample was
+calculated from the standard.
+Using ImageQuant, the total intensity above local back-
+ground surrounding each dot was independently
+determined for each of the three dots in each rectangle
+shown in Figure 1a and c. The mean value of the three
+dots was used for the standard curves displayed in
+Figure 1b and d. For each sample, the T/Dx for each of
+the three dots was independently obtained and the mean
+of the three T/Dx values was derived.
+Telomere Length/DNA content measurements by
+Southern blot analysis of the TRFs and by qPCR
+We obtained the mean TRF length using either HinfI/RsaI
+or HphI/MnlI, as previously described (21). HinfI/RsaI,
+which typically is used in TRF length analysis in most
+laboratories, cuts the DNA within the non-canonical
+subtelomeric region. However, HphI/MnlI cut the DNA
+at telomere repeat variants that are in more proximal
+regions of the telomeres (22). Therefore, digestion with
+HinfI/RsaI usually results in a mean TRF length that is
+longer by $1 kb than that resulting from HphI and MnlI
+digestion (21).
+Measurements of the mean TRF length were performed
+as previously described (21). Brieﬂy, we ﬁrst evaluated the
+DNA integrity by SYBR Green I, after resolving each
+sample (10 ng) on 1% agarose gel at 200 V for 60 min.
+Thereafter, samples were digested with restriction
+enzymes Hinf I (10 U) and Rsa I (10 U; Roche) or HphI
+(3.1 U)/MnlI (3.1 U) (New England Biolabs, Ipswich, MA,
+USA). DNA samples (3 mg each), and DNA ladders (1 kb
+DNA ladder plus  DNA/Hind III fragments; Invitrogen,
+Carlsbad, CA, USA) were resolved on 0.5% agarose gels
+for most subjects and on a 0.6% agarose gels for subjects
+90–96 years (20 cm Â 20 cm) at 50 V (GNA-200 Pharmacia
+Biotech). After 16 h, the DNA was depurinated for 15 min
+in 0.25 N HCl, denatured 30 min in 0.5 M NaOH/1.5 mol/l
+NaCl and neutralized for 30 min in 0.5 M Tris, pH 8/1.5 M
+NaCl. The DNA was transferred for 1 h to a positively
+charged nylon membrane (Roche) using a vacuum
+blotter (Boeckel Scientiﬁc, Feasterville, PA, USA).
+Thereafter, membranes were hybridized at 65
+C with the
+DIG-labelled telomeric probe overnight in 5 x SSC, 0.1%
+Sarkosyl, 0.02% SDS and 1% blocking reagent (Roche).
+The membranes were washed three times at room tem-
+perature in 2Â SSC, 0.1% SDS each for 15 min and
+once in 2Â SSC for 15 min. The DIG-labeled probe was
+detected by the DIG luminescent detection procedure
+(Roche) and exposed on X-ray ﬁlm. All autoradiographs
+were scanned, and the TRF signal was digitized. The
+optical density values versus DNA migration distances
+were converted to optical density (adjusted for back-
+ground)/molecular weight versus molecular weight (21).
+The measurement of telomere repeats by qPCR
+provides the ratio of the telomeric product (T) normalized
+for a single-copy gene product (S) (12,13). This measure-
+ment was performed as previously described (23), using
+minor modiﬁcations of the original method (12) and
+b-globin as S.
+Each of the data points described in Figures 2 and 3
+represents (i) the mean of two different runs for the mean
+TRF length (one measure/run); (ii) the mean of two T/Dx
+runs (three measures/run); and (iii) the mean of three T/S
+runs (three measures/run). The coefﬁcient of variations
+for the intraassay and interassay measurements were
+e84 Nucleic Acids Research, 2011, Vol. 39, No. 12 PAGE 2 OF 7
+computed as the ratios of the standard deviation (SD) to
+the mean of measurements performed on the same run and
+the mean of measurements performed on different runs,
+respectively.
+Informed consent
+DNA donors or their parents/guardians provided written
+consent. The study was approved by the Institutional
+Review Board of University of Medicine and Dentistry
+of NJ, NJ Medical School, USA.
+RESULTS
+Figure 1 displays dot blot staining of SYBR Dx (a) and
+the telomere signal (c) of triplicate samples. Clearly, at the
+range of 5–35 ng the standard curves of both the SYBR
+Dx dye (b) and the telomere signals (d) are highly linear.
+The intraassay coefﬁcient of variations (%) of triplicate
+samples (analyzed at the same time) were: T = 4.4,
+Dx = 2.6, T/Dx = 5.4 (N = 56). The interassay coefﬁcient
+of variation of T/Dx for samples analyzed on different
+days was 5.7 (N = 28).
+Figure 2 shows the relations of T/Dx and T/S with
+mean TRF length generated either by HinfI/RsaI or
+HphI/MnlI. For the T/Dx (a and b), strong correlations
+are observed with mean TRF length regardless of the
+restriction enzymes used to generate the TRFs. Strong
+correlations are also observed for the relation of T/S
+(c and d), with the mean TRF length, although the cor-
+relations are not as robust as those between T/Dx and the
+mean TRF length, particularly for the HinfI/RsaI product.
+Both the present dot blot analysis and the qPCR-based
+methods measure only the canonical part of the telomeres,
+which consist of strictly TTAGGG repeats. In contrast,
+the TRF length generated by the Southern blots includes
+both the canonical and non-canonical region extending to
+the nearest restriction site. Estimates of the extrapolated
+non-canonical regions can be obtained from the regres-
+sions displayed in Figure 2 when T/Dx = 0 or T/S = 0,
+with the assumption that linearity of the regressions is
+maintained beyond the empirical data. Accordingly, for
+TRFs generated by HinfI/RsaI, when T/Dx = 0, mean
+TRF = 1.65 kb; for TRFs generated by HphI/MnlI,
+when T/Dx = 0, mean TRF = 0.805 kb. However, for
+TRFs generated by HinfI/RsaI, when T/S = 0, mean
+TRF = 4.71 kb; for TRFs generated by HphI/MnlI,
+when T/S = 0, mean TRF = 3.36 kb. These differences
+in the extrapolated lengths of the non-canonical segment
+of the TRFs probably stem from deviation from linearity
+of relation between T/S versus mean TRF length
+(Figure 2c and d), which is already observed for the em-
+pirical data of the regressions displayed in Figure 2c and
+Figure 1. Dot blot staining of SYBR Dx and the telomere (TTAGGG) signal. (a) The SYBR Dx dot blot staining of different samples in triplicate.
+Samples used for the DNA standard are at the right lower corner. (b) The linearity of the staining between 5 and 35 ng of standard DNA. Each data
+point is the mean of triplicate measurements. (c) The telomere signal, while (d) shows the linearity of the telomere signal within the 5–35 ng of
+standard DNA. Each data point is the mean of triplicate measurements. Vertical bars denote SD. No vertical bar indicates that the SD is within the
+space of the data point.
+PAGE 3 OF 7 Nucleic Acids Research, 2011, Vol. 39, No. 12 e84
+d. This ﬁnding has been shown by others (12,13,24). The
+underlying causes are not certain but we presume that they
+relate to problems with the PCR of S, T or both.
+The data displayed in Figure 2 do not cover the entire
+spectrum of LTL seen throughout the entire human
+lifespan. For this reason, in a second set of experiments
+we measured LTL (by dot blot analysis and Southern
+blots of the TRFs generated by HinfI/RsaI) in leukocytes
+from newborns and exceptionally old persons. Figure 3
+consists of data derived from results generated in the
+ﬁrst set of experiments (Figure 2a) and the second set of
+experiments. Clearly, the linear relation between the mean
+TRF and the T/Dx is maintained in leukocytes from
+donors whose age range essentially covers the entire
+human lifespan.
+The effect of DNA degradation on the TRF length and
+the T/Dx measurements is shown in Figure 4. DNA was
+degraded by sonication (Ultrasonic Processor XL2020,
+microtip probe) and integrity determined (using SYBR
+Green I) by resolving 10 ng DNA on 1% (wt/vol)
+agarose gel at 200 V for 60 min (a). Moderate DNA deg-
+radation, where the DNA crown is still compact but a
+Figure 2. Relationship between mean telomere length, measured by Southern blots of the TRFs, versus the ratio of T (telomere amount)/Dx (DNA
+amount), measured by dot blots, and versus the ratio of T (telomere product)/S(single gene product), measured by qPCR. (a and b) The TRF
+products generated by HinfI/RsaI and by HphI/MnlI versus the T/Dx. (c and d) The TRF product generated by HinfI/RsaI and by HphI/MnlI versus
+T/S.
+e84 Nucleic Acids Research, 2011, Vol. 39, No. 12 PAGE 4 OF 7
+long tail of DNA smear is observed, already compromises
+any meaningful analysis of the TRFs. That is because the
+TRFs are considerably shortened, so that the TRF smear
+extends to the edge of the gel (b), outside the routine
+scanning region of the TRFs, which rarely extends lower
+than 1.2 kb (6). More degradation further exacerbates this
+effect. In contrast, The T/Dx results are not modiﬁed by
+moderate DNA degradation (c). However, more severe
+DNA degradation caused 7–8% decline in the T/Dx
+values, probably because the stretches of telomere
+repeats become too short for an effective annealing of
+the telomere probe.
+DISCUSSION
+Among the methods that measure telomere length or
+DNA content, the qPCR (12,13) and to a lesser extent
+the Southern blots of the TRFs (1,21) have been the
+main techniques used in epidemiological research. The
+FISH method to measure telomere content (14,15)
+requires intact nuclei and samples must be processed
+within a short amount of time. Although STELA (19) is
+an ingenious approach to measure telomere length, it is a
+complex method with limited application for large-scale
+epidemiological studies and in clinical settings.
+Telomere DNA content has also been measured in slot/
+dot blot analysis by normalizing for alphoid centromere
+repeats (16,17). However, the length of alphoid centromer-
+ic repeats is highly variable among individuals (26).
+Moreover, in those few published works in which this
+method has been employed, the measurements of telomer-
+ic content and centromeric content were performed in du-
+plicate blots (one for telomeric content and the other for
+centromeric content) (16) or in the same blot in which the
+hybridization with the telomeric probe was followed by
+stripping the probe and re-hybridizing with the centromer-
+ic probe (17). These approaches increase the measurement
+error because the DNA input in the different blots and
+different slots/dots might not be precisely the same. Also
+stripping the membranes and re-probing may raise the
+background signal, resulting in an increase in the meas-
+urement error.
+One report described dot blot analysis in which
+telomere DNA content on the blots was normalized for
+total DNA measured in solution by PicoGreen of samples
+applied to the blots (18). The following are three intrinsic
+errors that take place when the DNA content is measured
+in solution while the telomere DNA is quantiﬁed on the
+blot. The ﬁrst error is in the measurement of DNA itself.
+No matter how accurate the measurement in solution
+might be, it has its own intrinsic error, including a poten-
+tial shift in the DNA standard on different runs, which
+would increase the interassay variation. The second error
+level is the fact that small amounts of DNA might adhere
+to the walls of tubes, pipette tips and the blot apparatus.
+Thus, the amount of DNA actually in the dot is not the
+amount that is presumed to be pipetted onto it. The third
+error level is in the pipetting into the dot; again, no matter
+how accurate this pipetting might be, the DNA input still
+varies for different dots. Together, these three tiers of
+error introduce considerable variation to the results.
+Our approach avoids these errors altogether by taking
+advantage of the unique feature of the SYBR Dx DNA
+Blot Stain to measure the total DNA content in the dot
+without interference with the hybridization of the telomere
+probe. Such a feature enables measuring the relative
+amount of telomere DNA content to total DNA in the
+dot itself regardless of the extent of the error in the input
+Figure 3. Relationship between mean telomere length, measured by
+Southern blots of the TRFs, generated by HinfI/RsaI, versus the
+ratio of T (telomere amount)/Dx (DNA amount), measured by dot
+blots. Data displayed in the ﬁgure are a composite of data displayed
+in Figure 2 plus an additional set of measurements in leukocytes from
+newborns and exceptionally old persons.
+Figure 4. The effect of DNA sonication on the TRF and T/Dx meas-
+urements. For all panels, lane 1 = no sonication; lane 2 = 0.2 s Â 5
+pulse (Position 1.5); Lane 3 = 0.2 s Â 5 pulse (Position 2); lane
+4 = 0.2 s Â 10 pulse (position 2). (a) Illustrates DNA integrity (arrow
+indicates the DNA crown). (b) Illustrates TRF length distribution.
+(c) Shows T/Dx results based on three DNA samples.
+PAGE 5 OF 7 Nucleic Acids Research, 2011, Vol. 39, No. 12 e84
+DNA. This applies to the standard and the samples.
+For instance, suppose that the true DNA content in
+a given dot is <20% what one thinks it is, the
+telomere DNA signal will also be proportionally lower
+by 20%. Therefore, the ratio between the telomere
+DNA signal and the total DNA signal, which is the
+measure of telomere content in the sample, would not
+be affected.
+Normalizing the telomeric content for the DNA content
+of a given sample is based on the premise that the amount
+of DNA in nuclei of somatic cells is constant. Thus, T/Dx
+provides a measure of mean telomere per DNA content in
+a sample. Such a conclusion is reasonable provided that
+the amount of telomeric DNA is within the discernible
+range of the method and the DNA does not contain
+large amounts of heterogeneous telomere-like sequences
+within its bulk. This is apparently the case for human
+DNA and other mammals. The DNA content doubles in
+cells undergoing mitosis, but so does the amount of
+telomere repeats. Therefore, the T/Dx ratio is still
+constant in mitotic cells. In addition, females have two
+X chromosomes, while males have only one X chromo-
+some and the much smaller Y chromosome. In principle,
+the nuclei of females should have more DNA, but evident-
+ly this effect is small, amounting to a difference of $1.6%
+(25). If future large-scale studies show that the sex differ-
+ence in DNA content impacts the T/Dx ratio in relation to
+indices of interest, a sex adjustment factor can be
+introduced or standard curves can be developed separately
+for females and males.
+We underscore the following features of the T/Dx
+approach:
+(i) The SYBR Dx DNA stain is used to quantify
+single-stranded DNA directly on the dot itself.
+(ii) The SYBR Dx DNA Blot Stain does not interfere
+with the telomeric probe hybridization, as
+indicated in the ‘Product Information’ of the
+SYBR Dx DNA Blot Stain (Invitrogen).
+(iii) The detections of both DNA and telomeric signals
+are performed within their linear ranges.
+(iv) The measurement of DNA content is completed
+within 1 h.
+(v) Small quantities of DNA ($20 ng and as little as
+5 ng) are used per dot, yet the analysis does not
+rely on PCR.
+(vi) The method only measures the canonical compo-
+nent of telomeres.
+(vii) Moderate DNA degradation has no effect on the
+T/Dx ratio.
+(viii) The method can be forged for high-throughput
+analysis.
+It is useful to compare these features with those of the
+Southern blot analysis of the TRFs and the qPCR method
+to measure telomere DNA content.
+Considered the gold standard of telomere length meas-
+urement, the Southern blot analysis of TRF lengths
+provides in absolute values (kb) the entire distribution of
+telomere lengths in the DNA sample. The TRF analysis
+requires a large amount of DNA ($2.5 mg per assay) and is
+labor intensive and costly; it also requires a considerable
+degree of expertise (21). Since the TRFs include the
+non-canonical portion of telomeres up to the nearest re-
+striction site, in theory, polymorphisms in these sites
+might impact the ﬁndings. Of importance, DNA integrity
+is essential for obtaining reliable results.
+The qPCR method normalizes T for S and it measures
+the mean content of the canonical component of telo-
+meres. The method is high throughput, relatively inexpen-
+sive and like the dot blot method, it requires little DNA
+($20 ng per assay). However, confounders that affect the
+telomere and reference signals are poorly understood. For
+instance, regardless of which gene is used as a reference S,
+copy number variations might affect the ﬁndings.
+Moreover, the PCR might amplify any measurement
+error.
+Like the qPCR and FISH techniques, the dot blot
+analysis measures telomere DNA content in relative
+units rather than in units of telomere length (kb). The
+relation between the mean TRF length and the qPCR
+results (T/S) is nonlinear. Therefore, expressing the T/S
+to telomere length (in kb) based on a linear model
+would generate a considerable distortion in the results.
+In principle, the dot blot results (T/Dx) can be expressed
+in unit telomere length based on linear models. This
+entails generating for each study cohort a formula that
+expresses the correlation between the mean TRF length
+and the T/Dx based on a reference panel of DNA
+samples with known mean TRFs across the expected
+range of telomere lengths for that cohort. However, little
+is known about the impact of potential polymorphism in
+the restriction sites on the mean TRF length. It is possible,
+therefore, that DNA panels from different individuals
+might show slightly different association between the
+mean TRF length and T/Dx, but we anticipate that this
+effect will be small.
+A major shortcoming of the T/Dx method is that it
+cannot be applied to various forms of cancer.
+Hematopoietic malignancies and solid cancers display an
+array of DNA changes, including deletions and ampliﬁca-
+tions of genes and chromosomal segments, which would
+alter the DNA content. This might also apply to the qPCR
+method.
+Finally, the lack of an optimal method to measure
+telomere length has frustrated efforts to translate the
+knowledge generated by basic and epidemiological
+telomere research to answer practical and pressing ques-
+tions in the clinical domain. The measurement of the true
+telomere length or content, like the measurement of any
+parameter, is a standard that can only be approached
+asymptotically. That said, in the future telomere length
+measurement methods, tailored to meet speciﬁc needs,
+will be central to screening programs to detect persons
+with short (or long) telomeres and enable the biomedical
+community to gain vital information above and be-
+yond conventional biomarkers about persons at risk for
+cardiovascular disease and premature death. This know-
+ledge might ultimately guide preventive and therapeutic
+interventions deﬁned by the new era of personalized
+medicine.
+e84 Nucleic Acids Research, 2011, Vol. 39, No. 12 PAGE 6 OF 7
+FUNDING
+Funding for open access charge: The National Institutes
+of Health (grant numbers AG030678 and AG20132).
+Conﬂict of interest statement. None declared.
+REFERENCES
+1. Harley,C.B., Futcher,A.B. and Greider,C.W. (1990) Telomeres
+shorten during ageing of human ﬁbroblasts. Nature, 345, 458–460.
+2. Blackburn,E.H. (2005) Telomeres and telomerase: their
+mechanisms of action and the effects of altering their functions.
+FEBS Lett., 579, 859–862.
+3. Blasco,M.A. (2005) Telomeres and human disease: ageing, cancer
+and beyond. Nat. Rev. Genet., 6, 611–622.
+4. Sahin,E. and Depinho,R.A. (2010) Linking functional decline of
+telomeres, mitochondria and stem cells during ageing. Nature,
+464, 520–528.
+5. Willeit,P., Willeit,J., Brandsta¨ tter,A., Ehrlenbach,S., Mayr,A.,
+Gasperi,A., Weger,S., Oberhollenzer,F., Reindl,M. and
+Kronenberg,F. (2010) Cellular aging reﬂected by leukocyte
+telomere length predicts advanced atherosclerosis and
+cardiovascular disease risk. Arterioscler. Thromb. Vasc. Biol., 30,
+1649–1656.
+6. Brouilette,S.W., Moore,J.S., McMahon,A.D., Thompson,J.R.,
+Ford,I., Shepherd,J., Packard,C.J. and Samani,N.J. (2007). West
+of Scotland Coronary Prevention Study Group. (2007) Telomere
+length, risk of coronary heart disease, and statin treatment in the
+West of Scotland Primary Prevention Study: a nested case-control
+study. Lancet, 369, 107–114.
+7. O’Donnell,C.J., Demissie,S., Kimura,M., Levy,D., Gardner,J.P.,
+White,C., D’Agostino,R.B., Wolf,P.A., Polak,J. and Cupples,L.A.
+(2008) Leukocyte telomere length and carotid artery intimal
+medial thickness: The Framingham Heart Study. Arterioscler.
+Thromb. Vasc. Biol., 28, 1165–1171.
+8. Kimura,M., Hjelmborg,J.V., Gardner,J.P., Bathum,L.,
+Brimacombe,M., Lu,X., Christiansen,L., Vaupel,J.W., Aviv,A.
+and Christensen,K. (2008) Short leukocyte telomeres forecast
+mortality: a study in elderly Danish twins. Am. J. Epidemiol.,
+167, 799–806.
+9. Bakaysa,S.L., Mucci,L.A., Slagboom,P.E., Boomsma,D.I.,
+McClearn,G.E., Johansson,B. and Pedersen,N.L. (2007) Telomere
+length predicts survival independent of genetic inﬂuences. Aging
+Cell, 6, 769–774.
+10. Fitzpatrick,A.L., Kronmal,R.A., Kimura,M., Gardner,J.P.,
+Psaty,B.M., Jenny,N.S., Tracy,R.P., Hardikar,S. and Aviv,A.
+(2011) Leukocyte Telomere Length and Mortality in the
+Cardiovascular Health Study. J. Gerontol. A Biol. Sci. Med. Sci.,
+66A, 421–429.
+11. Calado,R.T. and Young,N.S. (2009) Telomere diseases.
+N. Engl. J. Med., 361, 2353–2365.
+12. Cawthon,R.M. (2002) Telomere measurement by quantitative
+PCR. Nucleic Acids Res., 30, e47.
+13. Cawthon,R.M. (2009) Telomere length measurement by a novel
+monochrome multiplex quantitative PCR method. Nucleic Acids
+Res., 37, e21.
+14. Baerlocher,G.M., Vulto,I., de Jong,G. and Lansdorp,P.M. (2006)
+Flow cytometry and FISH to measure the average length of
+telomeres (ﬂow FISH). Nat. Protoc., 1, 2365–2376.
+15. Canela,A., Vera,E., Klatt,P. and Blasco,M.A. (2007)
+High-throughput telomere length quantiﬁcation by FISH and its
+application to human population studies. Proc. Natl Acad. Sci.
+USA, 104, 5300–5305.
+16. Bryant,J.E., Hutchings,K.G., Moyzis,R.K. and Grifﬁth,J.K.
+(1997) Measurement of telomeric DNA content in human tissues.
+Biotechniques, 23, 476–478.
+17. Ogami,M., Ikura,Y., Ohsawa,M., Matsuo,T., Kayo,S.,
+Yoshimi,N., Hai,E., Shirai,N., Ehara,S., Komatsu,R. et al. (2004)
+Telomere shortening in human coronary artery diseases.
+Arterioscler. Thromb. Vasc. Biol., 24, 546–550.
+18. Fordyce,C.A., Heaphy,C.M. and Grifﬁth,J.K. (2002)
+Chemiluminescent measurement of telomere DNA content in
+biopsies. Biotechniques, 33, 144–146, 148.
+19. Baird,D.M., Rowson,J., Wynford-Thomas,D. and Kipling,D.
+(2003) Extensive allelic variation and ultrashort telomeres in
+senescent human cells. Nat. Genet., 33, 203–207.
+20. Baird,D.M. (2005) New developments in telomere length analysis.
+Exp. Gerontol., 40, 363–368.
+21. Kimura,M., Stone,R.C., Hunt,S.C., Skurnick,J., Lu,X., Cao,X.,
+Harley,C.B. and Aviv,A. (2010) Measurement of telomere length
+by the southern blot analysis of the terminal restriction fragment
+lengths. Nat. Protoc., 5, 1596–1607.
+22. Baird,D.M., Britt-Compton,B., Rowson,J., Amso,N.N.,
+Gregory,L. and Kipling,D. (2006) Telomere instability in the male
+germline. Hum. Mol. Genet., 15, 45–51.
+23. Gardner,J.P., Kimura,M., Chai,W., Durrani,J.F.,
+Tchakmakjian,L., Cao,X., Lu,X., Li,G., Peppas,A.P., Skurnick,J.
+et al. (2007) Telomere dynamics in macaques and humans.
+J. Gerontol. A Biol. Sci. Med. Sci., 62, 367–374.
+24. Ehrlenbach,S., Willeit,P., Kiechl,S., Willeit,J., Reindl,M.,
+Schanda,K., Kronenberg,F. and Brandsta¨ tter,A. (2009) Inﬂuences
+on the reduction of relative telomere length over 10 years in the
+population-based Bruneck Study: introduction of a well-controlled
+high-throughput assay. Int. J. Epidemiol., 38, 1725–1734.
+25. Repin,M.V., Golubev,P.I. and Repina,L.A. (2009) New
+sequence-based data on the relative DNA contents of
+chromosomes in the normal male and female human diploid
+genomes for radiation molecular cytogenetics. Mol. Cytogenet., 2,
+13.
+26. Jabs,E.W., Goble,C.A. and Cutting,G.R. (1989) Macromolecular
+organization of human centromeric regions reveals
+high-frequency, polymorphic macro DNA repeats. Proc. Natl
+Acad. Sci. USA, 86, 202–206.
+PAGE 7 OF 7 Nucleic Acids Research, 2011, Vol. 39, No. 12 e84
+

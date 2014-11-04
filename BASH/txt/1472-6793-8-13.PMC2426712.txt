@@ -1,0 +1,634 @@
+BioMed Central
+Page 1 of 10
+(page number not for citation purposes)
+BMC Physiology
+Open AccessResearch article
+Extended flow cytometry characterization of normal bone marrow
+progenitor cells by simultaneous detection of aldehyde
+dehydrogenase and early hematopoietic antigens: implication for
+erythroid differentiation studies
+Peppino Mirabelli2, Rosa Di Noto*2, Catia Lo Pardo1,2, Paolo Morabito1,2,
+Giovanna Abate2, Marisa Gorrese2, Maddalena Raia2, Caterina Pascariello2,
+Giulia Scalia2, Marica Gemei2, Elisabetta Mariotti2 and Luigi Del Vecchio2
+Address: 1Servizio di Immunoematologia e Medicina Trasfusionale, Ospedale A. Cardarelli, Napoli, Italy and 2Dipartimento di Biochimica e
+Biotecnologie Mediche (DBBM) – CEINGE – Biotecnologie Avanzate, Napoli, Italy
+Email: Peppino Mirabelli - mirabelli@ceinge.unina.it; Rosa Di Noto* - dinoto@dbbm.unina.it; Catia Lo Pardo - clopardo@fastwebnet.it;
+Paolo Morabito - morabito.paolo@fastwebnet.it; Giovanna Abate - abate@ceinge.unina.it; Marisa Gorrese - gorrese@ceinge.unina.it;
+Maddalena Raia - raia@ceinge.unina.it; Caterina Pascariello - pascariello@ceinge.unina.it; Giulia Scalia - scalia@ceinge.unina.it;
+Marica Gemei - maricagemei@gmail.com; Elisabetta Mariotti - mariotti@ceinge.unina.it; Luigi Del Vecchio - delvecchio@dbbm.unina.it
+* Corresponding author
+Abstract
+Background: Aldehyde dehydrogenase (ALDH) is a cytosolic enzyme highly expressed in hematopoietic precursors from cord
+blood and granulocyte-colony stimulating factor mobilized peripheral blood, as well as in bone marrow from patients with acute
+myeloblastic leukemia. As regards human normal bone marrow, detailed characterization of ALDH+ cells has been addressed by
+one single study (Gentry et al, 2007). The goal of our work was to provide new information about the dissection of normal bone
+marrow progenitor cells based upon the simultaneous detection by flow cytometry of ALDH and early hematopoietic antigens,
+with particular attention to the expression of ALDH on erythroid precursors. To this aim, we used three kinds of approach: i)
+multidimensional analytical flow cytometry, detecting ALDH and early hematopoietic antigens in normal bone marrow; ii)
+fluorescence activated cell sorting of distinct subpopulations of progenitor cells, followed by in vitro induction of erythroid
+differentiation; iii) detection of ALDH+ cellular subsets in bone marrow from pure red cell aplasia patients.
+Results: In normal bone marrow, we identified three populations of cells, namely ALDH+CD34+, ALDH-CD34+ and
+ALDH+CD34- (median percentages were 0.52, 0.53 and 0.57, respectively). As compared to ALDH-CD34+ cells, ALDH+CD34+
+cells expressed the phenotypic profile of primitive hematopoietic progenitor cells, with brighter expression of CD117 and
+CD133, accompanied by lower display of CD38 and CD45RA. Of interest, ALDH+CD34- population disclosed a straightforward
+erythroid commitment, on the basis of three orders of evidences. First of all, ALDH+CD34- cells showed a CD71bright, CD105+,
+CD45- phenotype. Secondly, induction of differentiation experiments evidenced a clear-cut expression of glycophorin A
+(CD235a). Finally, ALDH+CD34- precursors were not detectable in patients with pure red cell aplasia (PRCA).
+Conclusion: Our study, comparing surface antigen expression of ALDH+/CD34+, ALDH-/CD34+ and ALDH+/CD34-
+progenitor cell subsets in human bone marrow, clearly indicated that ALDH+CD34- cells are mainly committed towards
+erythropoiesis. To the best of our knowledge this finding is new and could be useful for basic studies about normal
+erythropoietic differentiation as well as for enabling the employment of ALDH as a red cell marker in polychromatic flow
+cytometry characterization of bone marrow from patients with aplastic anemia and myelodysplasia.
+Published: 29 May 2008
+BMC Physiology 2008, 8:13 doi:10.1186/1472-6793-8-13
+Received: 22 November 2007
+Accepted: 29 May 2008
+This article is available from: http://www.biomedcentral.com/1472-6793/8/13
+© 2008 Mirabelli et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 2 of 10
+(page number not for citation purposes)
+Background
+Aldehyde dehydrogenase (ALDH) is a family of enzymes
+involved in metabolism of aldehydes to their correspond-
+ing carboxylic acids [1]. It plays an important role in
+metabolism of vitamin A as well as in mechanisms of
+resistance to alchylating agents, e.g. cyclophosphamide
+[2]. For these reasons, ALDH is considered a protecting or
+detoxifying enzyme, able to preserve stem cells from cyto-
+toxic effects [2-4]. One of the accepted technologies to
+identify human hematopoietic stem cells (HSC) is based
+upon flow cytometry (FCM) detection of ALDH enzy-
+matic activity [2]. In particular, Storms et al [2] designed a
+substrate for ALDH, termed BODIPY aminoacetaldehyde
+(BAAA), which consists of an aminoacetaldehyde moiety
+bonded to the BODIPY fluorochrome. Once BAAA dif-
+fuses freely into cells and it is converted by ALDH into
+BODIPY aminoacetate (BAA), it remains trapped intracel-
+lularly, so emitting green fluorescence [2].
+Recently, the functional role of ALDH has been elucidated
+in a study, in which the specific inhibitor of ALDH,
+diethylaminobenzaldehyde (DEAB), was able to alter the
+molecular and cellular mechanisms that control self-
+renewal capacity of human HSC [5].
+The evidence of ALDH involvement in the physiology of
+HSC was further highlighted by a series of studies devoted
+to purification/analysis of highly immature progenitor
+cells, particularly in human cord blood (CB) as well as in
+murine bone marrow (BM) [6-8]. The importance of
+ALDH in human hematopoiesis was also testified by a
+recent study in which the Authors tried to purify HSCs by
+combining FCM cell sorting and Hoechst-33342 efflux
+ability (the so called "Side Population") [9]. At variance
+with previous findings obtained in mouse, human BM
+hematopoietic cells able to exclude Hoechst-33342 did
+not correspond to highly immature HSCs. On the other
+hand, the Authors proposed that ALDH activity had to be
+considered as the reference method for the detection of
+immature HSCs in human BM, at the same time empha-
+sizing the need of studies about expression pattern of
+ALDH in comparison with other hematopoietic cell mark-
+ers in this tissue [9].
+Thanks to the relevant advances deriving from studies per-
+formed by Gentry and coworkers [10,11], it was definitely
+understood that ALDHbright cell population in banked
+cord blood is highly enriched in hematopoietic colony
+forming cells (CFC-H), compared to ALDHdim cell popu-
+lations [10]. Moreover, cell sorting of ALDHbright cells in
+human BM enables a marked enrichment of CFC-H as
+well as of endothelial and fibroblast colonies [11].
+Starting from these literature data, we carried out a com-
+prehensive FCM characterization of human normal BM by
+detecting ALDH in combination with other hematopoi-
+etic cell markers. To this aim, we used a multidimensional
+polychromatic approach, according to international
+guidelines [12].
+The goal of our work was to better define the expression
+of surface antigens classically associated with early steps of
+hematopoiesis such as CD38, CD45RA, CD71, CD105,
+CD117 and CD133 in three BM cellular compartments
+identified on the basis of ALDH and CD34 expression. We
+were also interested to derive information about the pos-
+sible erythroid lineage commitment of these identified
+subpopulations of cells.
+Methods
+Normal BM samples were obtained, following informed
+consent, from 23 patients with non-Hodgkin lymphoma
+(age 20–81, median 45) who underwent BM aspiration in
+the context of routine clinical practice. All samples
+showed complete absence of neoplastic cells when ana-
+lyzed by smear morphology, BM biopsy and FCM. Periph-
+eral blood counts were in normal ranges. Thus, all BM
+aspirates included in the study were operationally consid-
+ered as normal. Written informed consent was obtained
+from all patients before the study.
+Three patients with pure red cell aplasia (PRCA, age 36–
+40) were also included in the study. Also in this case, BM
+samples were obtained following informed consent.
+In the first phase of the study, we analyzed BM cells by
+four-color FCM, detecting ALDH activity along with the
+expression of a series of hematopoietic antigens. Directly
+conjugated fluorescent antibodies were used reacting with
+the following antigens: CD34, CD38, CD45, CD45RA,
+CD71, CD105, CD117, CD133 and CD235a. In particu-
+lar, PE conjugated monoclonal antibodies (MoAb)
+against CD133, CD117, CD45RA and CD105 were
+obtained from Miltenyi Biotec (Bergisch Gladbach, Ger-
+many), Caltag (Burlingame, CA, USA), Beckman-Coulter
+(Miami, FL, USA) and R&D Systems (Minneapolis, MN,
+USA), respectively. PE-conjugated anti-CD38, anti-CD34
+and anti-CD235a, along with APC-conjugated anti-CD71,
+PE-Cy7 conjugated anti CD34 and PerCP-conjugated anti-
+CD45 were purchased from Becton Dickinson (San Jose,
+CA, USA).
+For all antibody staining experiments, 50 μl of whole BM
+sample were incubated at 4°C for 30 min in the presence
+of appropriate amount of MoAbs in PBS. Successively, the
+mixtures were diluted 1:20 in ammonium chloride
+(NH4Cl) lysing solution, then incubated at room temper-
+ature for 5 minutes and finally washed with staining
+media prior to flow cytometry analysis. In experiments
+where BM samples were stained with BAAA and addi-
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 3 of 10
+(page number not for citation purposes)
+tional antibodies, the antibody reagents were incubated
+with the cells at a concentration of 106 cells/ml for 15
+minutes prior to BAAA staining. Cells with low side scatter
+and high levels of BAAA staining were defined as "Side
+Scatter Low ALDH Bright" (SSCloALDHbr) cells. ALDH
+activity was assessed by the BODIPY-based ALDEFLUOR
+assay (Becton Dickinson), according to the manufacturer
+method. As negative control, we used DEAB, a potent
+inhibitor of ALDH activity. Antibody and BAAA stained
+cells were analyzed on a FACSCalibur flow cytometer
+(Becton Dickinson) equipped with a 488-nm argon laser
+and a 635-nm red diode laser. BODIPY fluorescence was
+excited at 488 nm and fluorescence emission was detected
+using a standard fluorescein isothiocyanate (FITC) 530/
+30 bandpass filter. Levels of CD antigen expression were
+displayed as mean fluorescence intensity (MFI). The soft-
+ware used for cytometric analysis was Paint-a-gate (Becton
+Dickinson).
+Cell sorting experiments were performed by the cell sorter
+FACSAria (Becton Dickinson) equipped with blue, red,
+and violet lasers. Dead cells were excluded by analyzing
+forward scatter (FSC) vs side scatter (SSC) dot plots. Dou-
+blets were excluded by FSC-H vs FSC-A dot plots. Three
+populations of cells were sorted: ALDH-CD34+,
+ALDH+CD34+ and ALDH+CD34-. In all experiments,
+purity was higher than 95% of desired cells.
+Immunophenotyping of patients with PRCA was per-
+formed by the flow cytometer FACSCanto (Becton Dickin-
+son), by using a 5-colour strategy (1st channel: ALDH; 2nd
+channel: CD235a-PE; 3rd channel: CD45-PerCP; 4th chan-
+nel: CD71-APC; 5th channel: CD34-PE-Cy7).
+Induction of differentiation studies were performed
+according to Malik et al (13). In brief, ALDH+CD34+ and
+ALDH+CD34- cells were purified from three different nor-
+mal bone marrow samples and were cultured at a density
+of 105 cells/mL in Iscove's Modified Dulbecco's Medium
+(IMDM; GIBCO, Grand Island, NY), 1% deionized bovine
+serum albumin (BSA; Sigma, St Louis, MO), 10-4 mol/L 2-
+mercaptoethanol, 10-6 mol/L hydrocortisone, 100 U/mL
+penicillin-streptomycin, and 2 mmol/L L-glutamine with
+the following recombinant cytokines: 10 U/mL of recom-
+binant human (rH) Epo (Amgen, Thousand Oaks, CA),
+0.001 ng/mL rH granulocyte-macrophage colonystimulat-
+ing factor (GM-CSF), and 0.01 U/mL rH interleukin-3 (IL-
+3; Immunex Corp, Seattle, WA) and incubated in 5% CO2
+at 37°C. We strictly followed the indications of the
+reported method [13], culturing ALDH+CD34+ cells and
+ALDH+CD34- cells in the aforementioned culture condi-
+tions for 4 days in order to demonstrate our hypothesis
+that ALDH+CD34- cells were committed erythroid precur-
+sors.
+Descriptive statistics included medians, lowest and high-
+est values, and 95% CI for the medians. Statistical signifi-
+cance was assessed by paired Wilcoxon test.
+Results
+Intracellular fluorescence staining of ALDH was com-
+bined with SSC with the aim of facilitating the identifica-
+tion of ALDH+ stem cells and progenitor cells. In facts, it
+is well known that HSCs and progenitors typically have
+low SSC on FACS analysis [14]. A population of cells with
+low SSC and high levels of BAAA staining (SSCloALDHbr)
+was evident in BM aspirates of all the 23 subjects studied
+(Fig 1, panel B). In contrast, when BM aspirate was stained
+simultaneously with BAAA and DEAB, a potent inhibitor
+of ALDH, no SSCloALDHbr cells were noted (Fig 1, panel
+A). The absence of ALDH staining in the presence of
+ALDH inhibitor confirms that the presence of SSCloALD-
+Hbr population is specifically due to high-level ALDH
+activity in these cells.
+In order to better define the BM cellular compartments in
+terms of ALDH and CD34 expression, we performed a
+multimensional FCM analysis using the Paint-a-gate soft-
+ware (Becton Dickinson). We identified three distinct
+populations of cells in all 23 samples analyzed: ALDH+/
+CD34-, ALDH-/CD34+ and ALDH+/CD34+. In particular,
+in figure 2 (panel A) we first imposed a green gate on
+ALDH+ cells, then a red gate on CD34+ cells (panel B) and
+finally the events falling at the same time in the green as
+well as red gates were automatically depicted in yellow by
+the software. The median percentages of ALDH+/CD34-
+(green), ALDH-/CD34+ (red) and ALDH+/CD34+ (yellow)
+cells were 0.57% (95% CI for the median 0.40 to 0.76),
+0.53% (0.40 to 1.09) and 0.52% (0.24 to 0.68), respec-
+tively. The denominator of these percentages was com-
+posed by the entire population of nucleated bone marrow
+cells following to NH4Cl lysis of mature erythrocytes.
+Note that the green population (ALDH+CD34-) was
+simultaneously negative for CD34 and CD45 (Fig 2, pan-
+els C and D, respectively).
+Starting from this point, the work was carried out with the
+aim of identifying the immunophenotype of the three
+aforementioned cell populations.
+Firstly, we focused on differential expression of CD38,
+CD45RA, CD117 and CD133 in CD34+ALDH+ and
+CD34+ALDH- cells (Table 1). As compared to
+CD34+ALDH- cells, CD34+ALDH+ cells were characterized
+by lower expression of activation-differentiation antigens
+CD38 (median values 154 vs 253, p < 0.01) and CD45RA
+(39 vs 140, p < 0.01) and by higher expression of stem cell
+antigen CD117 (43 vs 23, p < 0.01) and CD133 (15 vs 9,
+p < 0.01).
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 4 of 10
+(page number not for citation purposes)
+Taken together, ALDH, CD133 and CD117 compose an
+immunophenotypic mosaic related to an undifferentiated
+status, while CD38 and CD45RA expression indicates a
+higher degree of cell maturation. To confirm this view, fig-
+ure 3 shows the inverse correlation between CD38 and
+ALDH. Interestingly, in all cases studied the highest
+expression of ALDH strictly corresponded to the lowest
+expression of CD38.
+Our attention was focused on ALDH+/CD34- cell popula-
+tion. As shown in Figure 4, ALDH+/CD34- cells (depicted
+in blue) were characterized by CD105 bright expression
+(panel A) accompanied by CD71 high expression level
+(panel B). Moreover, CD105 and CD71 antigens were
+tightly co-expressed (Fig. 4, panel C) and overall popula-
+tion defined by ALDH, CD105 and CD71 positivity was
+also characterized by high volume, as detected by forward
+scatter measurement (FSC, Fig. 4, panel D).
+Figure 5 shows in a representative case (we studied three
+normal BM samples) that isolated ALDH+CD34- cells are
+committed towards erythropoiesis, since they can be eas-
+ily induced to express GPA/CD235a by a brief cell culture
+(4 days) with a medium containing erythropoietin, GM-
+CSF and IL3. As shown in the figure, while ALDH+CD34+
+cells (panel A) remained GPA-negative following the
+exposure to the aforementioned agents, ALDH+CD34-
+cells (panel B) were clearly induced to differentiate into
+GPA-positive cells.
+Figure 6 is the final demonstration, obtained in a disease
+model, that ALDH+CD34- cells belong to an early eryth-
+roid subpopulation. In facts, PRCA patients are com-
+pletely deprived of this cell subpopulation. Figure 6 shows
+one representative experiment (we studied three patients)
+in which normal bone marrow contains a population of
+ALDH+CD34- cells (panel A), which is also CD71bright
+(panel C). By contrast, PRCA bone marrow is almost com-
+pletely deprived of ALDH+CD34-CD71bright cells (panel B
+and D).
+Discussion
+In spite of the existence of a series of studies describing
+ALDH expression in human CB [4,6,8,10], peripheral
+blood stem cells [3] and even acute myeloid leukemia
+(AML) BM cells [1] data aiming to characterize normal
+BM ALDH+ cells are still limited to a few recent reports
+[9,11].
+The use of NH4Cl lysed, unseparated bone marrow for
+immunophenotypic studies is strongly recommended by
+clinico-hematological guidelines [12,15]. In this work we
+decided to follow these recommendations, so that BM
+samples were not processed by density gradient separa-
+Flow cytometric analysis of BM cells of a representative patientFigure 1
+Flow cytometric analysis of BM cells of a representative patient. Panel B shows BM cells stained with BAAA. Panel A
+shows BM cells stained with BAAA and the ALDH inhibitor, DEAB. Red color indicates the SSCloALDHbr population. Grey
+color indicates the entire population of nucleated cells following to NH4Cl lysis.
+0 256 512 768 1024
+SSC-H ->
+ALDH
+0 256 512 768 1024
+SSC-H ->
+CONTR
+A B
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 5 of 10
+(page number not for citation purposes)
+Multidimensional flow cytometry analysis of BM cells according to the simultaneous detection of ALDH, CD34 and CD45Figure 2
+Multidimensional flow cytometry analysis of BM cells according to the simultaneous detection of ALDH, CD34
+and CD45. Green cell population: ALDH+CD34- cells; red cell population: ALDH-CD34+ cells; yellow cell population:
+ALDH+CD34+ cells; grey cell population: the entire population of nucleated cells following to NH4Cl lysis. Note that
+ALDH+CD34- cells are CD45 negative.
+0 256 512 768 1024
+SSC-H ->
+CD34-PE->
+B
+0 256 512 768 1024
+SSC-H ->
+ALDH->
+A
+10 10 10 10 100 1 2 3 4
+ALDH ->
+CD34-PE->
+C
+10 10 10 10 100 1 2 3 4
+ALDH ->
+CD45-PerCP->
+D
+Table 1: Expression of surface antigens on CD34+ALDH+ and CD34+ALDH- progenitor cells.
+CD34+ ALDH+ CD34+ ALDH-
+Antigen Median Range 95% CI Median Range 95% CI p
+CD38 154* 31–267 108–200 253 167–518 224–318 <0.01
+CD45RA 39 14–174 28–69 140 32–258 94–168 <0.01
+CD117 43 22–67 34–46 23 5–42 19–33 <0.01
+CD133 15 12–28 13–27 9 6–30 6–16 <0.01
+* Values are expressed as mean fluorescence intensity (MFI). Negative controls on CD34+ gated cells showed in any cases MFI lower than 5 units.
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 6 of 10
+(page number not for citation purposes)
+tion to the aim of avoiding unwanted selection of cell sub-
+sets, and, at the same time, of not interfering with assay
+interpretation [12].
+Our interest in ALDH detection relies on the considera-
+tion that FCM based ALDH activity assessment is
+exploited in order to evidence a conserved stem cell func-
+tion, rather than to merely identify a stem cell antigen
+[16].
+The first result of this study, based upon the simultaneous
+identification of ALDH activity and a detailed immu-
+nophenotype profile, is that the contemporary expression
+of CD34 and high levels of ALDH is able to identify prim-
+itive BM hematopoietic progenitors, clearly expressing
+high amounts of CD117 and CD133 as well as low
+amounts of CD38 and CD45RA. These data are in keeping
+with findings reported by Hess, Pearce and Gentry groups
+on CB cells [4,9,10]. They found that ALDHbright cells were
+able to give multilineage hematopoietic repopulation
+and, when compared to their ALDHlo counterparts, they
+expressed higher amounts of CD133, CD31, CD117 and
+lower amounts of CD38 [4,9,10].
+Our study shares some arguments with the work by Gen-
+try et al on human bone marrow [11]. Similarly to our
+work, these Authors characterized ALDHbright cells with a
+series of MoAbs directed to surface antigens, e.g. CD34,
+CD117, CD133, CD105, CD166, CD127, CD38, HLA-DR
+and CD45. Nevertheless, there is one difference between
+our study and Gentry's work. While Gentry and coworkers
+[11] used a 3-color plus 7-AAD (7-amino-actinomycin D)
+scheme, thus comparing the expression of ALDH with 2
+surface antigens, we combined ALDH analysis with 3 sur-
+face antigens. Such a multidimensional strategy allowed
+us to obtain the core finding of our work, i.e. the detection
+of a consistent population of cells characterized by the
+simultaneous presence of CD105, CD71 and ALDH, in
+the absence of CD34. In this regard, if ALDH+/CD34- cell
+subset may also contain a very rare, primitive stem cell
+remains to be demonstrated and it is conceivable that a
+specific marker for the selection of human CD34-negative
+stem cells needs to be identified before definite conclu-
+sions are made, as suggested by other research groups
+[9,17,18]. However, in our study the majority of cells we
+identified by ALDH+/CD34-/CD45- immunophenotype
+appeared to be committed, lineage antigen positive, non-
+stem cells. In particular, we demonstrated that these cells
+display precise erythroid features, i.e. CD105 and
+CD71bright expression in all 23 normal BM samples ana-
+lyzed. The expression of these two antigens along with
+CD34 negativity is consistent with erythroid precursors
+[19,20]. This finding is intriguing because little direct
+information is available about the phenotypic features of
+erythroid precursors, as these cells are both sparse and dif-
+ficult to isolate in sufficient numbers to be studied [19].
+In order to further characterize ALDH+CD34- cells we per-
+formed cell sorting isolation of ALDH+CD34+ and
+ALDH+CD34- cell subsets, followed by short term cell cul-
+ture experiments in which we were able to induce the
+expression of GPA only on ALDH+CD34- cells. These
+experiments, which strictly followed indications by Malik
+et al [13] who recapitulated the entire erythropoietic proc-
+ess in vitro, were the proof of eythroid commitment of
+ALDH+CD34- cells in normal bone marrow.
+We also decided to further confirm erythroid commit-
+ment of ALDH+CD34- cells in a disease model. Interest-
+ingly, we demonstrated that three PRCA patients were
+completely devoid of this cellular subset, thus allowing us
+to hypothesize the use of this cytometric approach as a
+diagnostic tool in this kind of disease.
+Taken together, our data indicate ALDH as a suitable tool
+to identify early steps of erythropoiesis as well as to isolate
+erythroid precursors by cell sorting. Moreover, given the
+lack of sufficient numbers of reliable erythroid markers in
+diagnostic panels [15,21] ALDH could also have possible
+application in the field of PRCA and myelodysplasia FCM
+diagnosis.
+Analysis of CD34+ gated cells shows that CD38 expressionis inversely correlated with ALDH positivityFigure 3
+Analysis of CD34+ gated cells shows that CD38
+expression is inversely correlated with ALDH positiv-
+ity. Cells with brightest expression of ALDH are completely
+negative for CD38 (red cells). This subset corresponds to
+very early CD34+ cells. As cell differentiation proceeds, cells
+lose ALDH and acquire CD38 (blue cells). Green cells repre-
+sent an intermediate stage.
+10 10 10 10 100 1 2 3 4
+ALDH ->
+CD38-PE->
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 7 of 10
+(page number not for citation purposes)
+Demonstration that ALDH+CD34- cells are early erythroid cellsFigure 4
+Demonstration that ALDH+CD34- cells are early erythroid cells. Blue: ALDH+CD34- cells. Yellow: ALDH+CD34+
+cells. Cells were stained with ALDEFLUOR, CD105-PE, CD34-PerCP and CD71-APC. Gate was imposed on ALDH+ cells. In
+panel A, all CD34- cells are CD105+. In panel B, all CD34- cells are CD71bright. In panel C, CD105 and CD71 are completely
+co-expressed. Panel D shows that erythroid cells are larger than CD34+ progenitor cells. This case is one representative
+example of a phenomenon observed in all BM specimens.
+10 10 10 10 100 1 2 3 4
+CD105 PE ->
+10 10 10 10 100 1 2 3 4
+CD71 APC ->
+10 10 10 10 100 1 2 3 4
+CD71 APC ->
+0 256 512 768 1024
+SSC-H ->
+CD34PerCP->
+CD34PerCP->
+CD105PE->
+FSC-H->
+A B
+C D
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 8 of 10
+(page number not for citation purposes)
+Finally, a possible application of ALDH detection by FCM
+to the field of acute leukemia may derive from the study
+of Cheung et al [1], in which the authors described ALDH
+expression in AML. They noted that in AML patients in
+complete remission, a relevant population of cells charac-
+terized by high ALDH activity remained [1]. In this regard,
+our data concerning multidimensional expression profile
+of ALDH combined with other hematopoietic antigens in
+normal BM precursors could represent the basis to distin-
+guish by FCM leukemic from normal ALDH+ cells.
+Conclusion
+In this study we demonstrated that ALDH+CD34- cells are
+mainly committed towards erythropoiesis. This finding is
+new and could be relevant for human physiology studies
+about erythropoietic differentiation as well as for propos-
+ing the utilization of ALDH as a red cell marker in multi-
+dimensional flow cytometry characterization of bone
+marrow from patients with aplastic anemia (mainly
+PRCA) and myelodysplasia.
+Authors' contributions
+PMi and CLP conceived the study, designed the experi-
+ments and performed flow cytometry assays. RDN ana-
+lysed data and wrote the manuscript. PMo and GS
+prepared cells and performed part of flow cytometry
+assays. GA, MGo, MR, CP reviewed cytometric files and
+participated in data interpretation. MGe performed cell
+sorting experiments. EM participated in study design, data
+analysis and revision of the manuscript. LDV conceived
+the study, designed the experiments and wrote the manu-
+script together with RDN. All authors read and approved
+the final manuscript.
+Demonstration that ALDH+CD34- cells are committed toward erythropoiesisFigure 5
+Demonstration that ALDH+CD34- cells are committed toward erythropoiesis. Panel A: sorted ALDH+CD34+ cell
+fraction, induced to differentiate for 4 days in the presence of erythropoietin, GM-CSF and IL3. Panel B: sorted ALDH+CD34-
+cell fraction, induced to differentiate in the same conditions. These results represent a typical experiment of the 3 performed.
+ALDH+CD34+ cells ALDH+CD34- cells
+Increase of
+GPA
+expression
+A B
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 9 of 10
+(page number not for citation purposes)
+Acknowledgements
+The authors Peppino Mirabelli, Rosa Di Noto, Giovanna Abate, Marisa
+Gorrese, Maddalena Raia, Caterina Pascariello, Giulia Scalia, Marica Gemei
+and Elisabetta Mariotti would like to acknowledge Professor Francesco Sal-
+vatore for sustaining their professional growth.
+This work was supported by AIL Salerno – ONLUS – Sezione "Marco
+Tulimieri" and AIL Benevento – ONLUS – Sezione "Stefania Mottola".
+References
+1. Cheung AM, Wan TS, Leung JC, Chan LY, Huang H, Kwong YL, Liang
+R, Leung AY: Aldehyde dehydrogenase activity in leukemic
+blasts defines a subgroup of acute myeloid leukemia with
+adverse prognosis and superior NOD/SCID engrafting
+potential. Leukemia 2007, 21(7):1423-30.
+2. Storms RW, Trujillo AP, Springer JB, Shah L, Colvin MO, Ludeman
+SM, Smith C: Isolation of primitive human hematopoietic pro-
+genitors on the basis of aldehyde dehydrogenase activity.
+Proceedings of National Academy of Science USA 1999, 96(16):9118-23.
+Demonstration that PRCA patients are devoid of ALDH+CD34- cell populationFigure 6
+Demonstration that PRCA patients are devoid of ALDH+CD34- cell population. Panel A: expression of ALDH and
+CD34 in normal bone marrow. Panel B: expression of ALDH and CD34 in PRCA bone marrow (note the striking depletion of
+ALDH+CD34- cell population). Panel C: CD71 expression on ALDH+CD34- cells in human normal bone marrow. Panel D:
+absence of CD71 expression in PRCA bone marrow.
+A B
+C D
+Normal bone marrow PRCA bone marrow
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+BMC Physiology 2008, 8:13 http://www.biomedcentral.com/1472-6793/8/13
+Page 10 of 10
+(page number not for citation purposes)
+3. Fallon P, Gentry T, Balber AE, Boulware D, Janssen WE, Smilee R,
+Storms RW: Mobilized peripheral blood SSClo ALDHbr cells
+have the phenotypic and functional properties of primitive
+haematopoietic cells and their number correlates with
+engraftment following autologous transplantation. British
+Journal of Haematology 2003, 122(1):99-108.
+4. Hess DA, Meyerrose TE, Wirthlin L, Craft TP, Herrbrich PE, Creer
+MH, Nolta JA: Functional characterization of highly purified
+human hematopoietic repopulating cells isolated according
+to aldehyde dehydrogenase activity. Blood 2004,
+104(6):1648-55.
+5. Chute JP, Muramoto GG, Whitesides J, Colvin M, Safi R, Chao NJ,
+McDonnell DP: Inhibition of aldehyde dehydrogenase and
+retinoid signaling induces the expansion of human hemat-
+opoietic stem cells. Proc Natl Acad Sci USA 2006,
+103(31):11707-12.
+6. Christ O, Lucke K, Imren S, Leung K, Hamilton M, Eaves A, Smith C,
+Eaves C: Improved purification of hematopoietic stem cells
+based on their elevated aldehyde dehydrogenase activity.
+Haematologica 2007, 92(9):1165-72.
+7. Juopperi TA, Schuler W, Yuan X, Collector MI, Dang CV, Sharkis SJ:
+Isolation of bone marrow-derived stem cells using density-
+gradient separation. Exp Hematol 2007, 35(2):335-41.
+8. Hess DA, Wirthlin L, Craft TP, Herrbrich PE, Hohm SA, Lahey R,
+Eades WC, Creer MH, Nolta JA: Selection based on CD133 and
+high aldehyde dehydrogenase activity isolates long-term
+reconstituting human hematopoietic stem cells. Blood 2006,
+107(5):2162-9.
+9. Pearce DJ, Bonnet D: The combined use of Hoechst efflux abil-
+ity and aldehyde dehydrogenase activity to identify murine
+and human hematopoietic stem cells. Experimental Hematology
+2007, 35(9):1437-46.
+10. Gentry T, Deibert E, Foster SJ, Haley R, Kurtzberg J, Balber AE: Iso-
+lation of early hematopoietic cells, including megakayocyte
+progenitors, in the ALDH-bright cell polupation of cryopre-
+served, banked UC blood. Cytotherapy 2007, 9(6):569-76.
+11. Gentry T, Foster SJ, Winstead L, Deibert E, Fiordalisi M, Balber AE:
+Simultaneous isolation of human BM hematopoietic,
+endothelial and mesenchymal progenitor cells by flow sort-
+ing based on aldehyde dehydrogenase activity: implication
+for cell therapy. Cytotherapy 2007, 9(3):259-74.
+12. Ruiz-Arguelles A, Rivadeneyra-Espinoza L, Duque RE, Orfao A:
+Report on the second latin American consensus conference
+for flow cytometric immunophenotyping of haematological
+malignancies. Cytometry B Clin Cytom 2006, 70(1):39-44.
+13. Malik P, Fisher TC, Barsky LL, Zeng L, Izadi P, Hiti AL, Weinberg KI,
+Coates TD, Meiselman HJ, Kohn DB: An in vitro model of human
+red blood cell production from hematopoietic progenitor
+cells. Blood 1998, 91(8):2664-71.
+14. Udomsakdi C, Lansdrop PM, Hogge DE, Reid DS, Eaves AC, Eaves CJ:
+Characterization of primitive hematopoietic cells in normal
+human peripheral blood. Blood 1992, 80(10):2513-21.
+15. Del Vecchio L, Brando B, Lanza F, Ortolani C, Pizzolo G, Semenzato
+G, Basso G: Recommended reporting format for flow cytom-
+etry diagnosis of acute leukemia. Haematologica 2004,
+89(5):594-598.
+16. Morita N, Yamamoto N, Tanizawa T: Correlation of c-kit expres-
+sion and cell cycle regulation by transforming growth factor-
+beta in CD34+CD38- human bone marrow cells. Eur J Haema-
+tol 2003, 71(5):351-8.
+17. Guo Y, Lubbert M, Engelhardt M: CD34- Hematopoietic Stem
+Cells: current concepts and controversies. Stem Cells 2003,
+21(1):15-20.
+18. Storms RW, Green PD, Safford KM, Niedzwiecki D, Cogle CR,
+Colvin OM, Chao NJ, Rice HE, Smith CA: Distinct hematopoietic
+progenitor compartments are delineated by the expression
+of aldehyde dehydrogenase and CD34. Blood 2005,
+106(1):95-102.
+19. Papayannopoulou T, Abkowitz J: Biology of erythropoiesis,
+erythroid differentiation, and maturation. In Basic Principles and
+Practice. Hematology Edited by: Hoffman R. New York: Churchill Liv-
+ingstone; 1995:242-254.
+20. Fonsatti E, Del Vecchio L, Altomonte M, Sigalotti L, Nicotra MR,
+Coral S, Natali PG, Maio M: Endoglin: an accessory component
+of the TGF-b-binding receptor-complex with diagnostic,
+prognostic, and bioimmunotherapeutic potential in human
+malignancies. Journal of Cellular Physiology 2001, 188(1):1-7.
+21. Malcovati L, Della Porta MG, Lunghi M, Pascutto C, Vanelli L, Trava-
+glino E, Mafioli M, Bernasconi P, Lazzarino M, Invernizzi R, Cazzola M:
+Flow cytometry evaluation of erythroid and myeloid displa-
+sia in patients with myelodysplastic sindrome. Leukemia 2005,
+19(5):776-783.
+

@@ -1,0 +1,1271 @@
+Targeted Resequencing and Analysis of the Diamond-
+Blackfan Anemia Disease Locus RPS19
+Alvaro Martinez Barrio1.
+, Oskar Eriksson2.¤
+, Jitendra Badhai2
+, Anne-Sophie Fro¨ jmark2
+, Erik Bongcam-
+Rudloff1,3
+, Niklas Dahl2
+, Jens Schuster2
+*
+1 The Linnaeus Centre for Bioinformatics Uppsala University/Swedish University of Agricultural Sciences, Uppsala University, Uppsala, Sweden, 2 Department of Genetics
+and Pathology, The Rudbeck Laboratory, Uppsala University, Uppsala, Sweden, 3 Department of Animal Breeding and Genetics, Uppsala University, Uppsala, Sweden
+Abstract
+Background: The Ribosomal protein S19 gene locus (RPS19) has been linked to two kinds of red cell aplasia, Diamond-
+Blackfan Anemia (DBA) and Transient Erythroblastopenia in Childhood (TEC). Mutations in RPS19 coding sequences have
+been found in 25% of DBA patients, but not in TEC patients. It has been suggested that non-coding RPS19 sequence
+variants contribute to the considerable clinical variability in red cell aplasia. We therefore aimed at identifying non-coding
+variations associated with DBA or TEC phenotypes.
+Methodology/Principal Findings: We targeted a region of 19’980 bp encompassing the RPS19 gene in a cohort of 89 DBA
+and TEC patients for resequencing. We provide here a catalog of the considerable, previously unrecognized degree of
+variation in this region. We identified 73 variations (65 SNPs, 8 indels) that all are located outside of the RPS19 open reading
+frame, and of which 67.1% are classified as novel. We hypothesize that specific alleles in non-coding regions of RPS19 could
+alter the binding of regulatory proteins or transcription factors. Therefore, we carried out an extensive analysis to identify
+transcription factor binding sites (TFBS). A series of putative interaction sites coincide with detected variants. Sixteen of the
+corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to
+hematopoiesis, tumorigenesis or leukemia (e.g. GATA-1/2, PU.1, MZF-1).
+Conclusions: Specific alleles at predicted TFBSs may alter the expression of RPS19, modify an important interaction between
+transcription factors with overlapping TFBS or remove an important stimulus for hematopoiesis. We suggest that the
+detected interactions are of importance for hematopoiesis and could provide new insights into individual response to
+treatment.
+Citation: Martinez Barrio A, Eriksson O, Badhai J, Fro¨jmark A-S, Bongcam-Rudloff E, et al. (2009) Targeted Resequencing and Analysis of the Diamond-Blackfan
+Anemia Disease Locus RPS19. PLoS ONE 4(7): e6172. doi:10.1371/journal.pone.0006172
+Editor: Thomas Mailund, Aarhus University, Denmark
+Received March 16, 2009; Accepted May 27, 2009; Published July 9, 2009
+Copyright: ß 2009 Martinez Barrio et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: Research is funded by NHLBI’s R&G Service (R53, June 2006), National Institutes of Health USA (5R01-HL079567-02), Marcus Borgstrom Foundation (to
+J.S.), Selanders Foundation, Swedish Research Council, Swedish Cancer Foundation, Children’s Cancer Foundation of Sweden and the European Commissions FP6
+Programme (the EMBRACE project, LHSG-CT-2004-512092). The funders had no role in study design, data collection and analysis, decision to publish, or
+preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: jens.schuster@genpat.uu.se
+¤ Current address: Department of Medical Science, Uppsala University, Uppsala, Sweden
+. These authors contributed equally to this work.
+Introduction
+Diamond Blackfan Anemia (DBA) is a congenital pure red cell
+aplasia (OMIM 205900) typically presenting within the first year
+of life [1,2]. The gene encoding ribosomal protein S19 (RPS19)
+[3,4] has been shown to be mutated in 25% of DBA patients [5].
+Recently, mutations in several other ribosomal protein genes have
+been identified in approximately 10% of DBA patients [6–9].
+Transient erythroblastopenia of childhood (TEC; OMIM
+227050) is a transient red cell aplasia with clinical similarities to
+DBA [10,11]. Linkage analysis has indicated an association
+between TEC and the region encompassing RPS19 but no
+structural mutations have been identified so far [12].
+Until now, more than 70 RPS19 mutations have been reported
+in DBA patients [5]. Mutations are spread out over the entire
+gene, including non-sense and mis-sense mutations as well as
+deletions and insertions. DBA is characterized by a marked clinical
+heterogeneity without correlations to any specific mutation [2,13].
+At least 30% of DBA patients respond to steroid treatment and
+patients carrying RPS19 mutations display a poorer response [5].
+The marked clinical heterogeneity strongly implies the involve-
+ment of genetic and/or environmental tissue specific modulators
+[2]. It has been suggested that the red cell aplasia is caused by
+ribosomal protein haploinsufficiency. Consequently, the expres-
+sion level of a specific ribosomal protein becomes critical for the
+disease. The expression may be influenced by non-coding
+variations resulting in a decrease in the amount of protein
+available below a critical threshold [14]. Moreover, the clinical
+variability associated with a mutation in a specific structural
+ribosomal protein gene may be related to non-coding variants on
+the non-mutant allele. Studies so far have focused on protein
+PLoS ONE | www.plosone.org 1 July 2009 | Volume 4 | Issue 7 | e6172
+coding parts and no detailed catalog of non-coding genetic
+variation is available. The identification of putative regulatory
+sequence elements in non-coding regions (such as transcription
+factor binding sites) is therefore of importance for future research.
+Many transcription factors (TFs) have been implicated in human
+disorders, for example HNF4alpha in diabetes [15,16], USF1 in
+familial combined hyperlipidemia [17] and AP2alpha in cleft
+palate [18].
+We therefore aimed at identifying non-coding variations that
+are associated with the DBA or TEC phenotypes. Here, we report
+on the targeted resequencing of the entire RPS19 locus in 77 DBA
+and 12 TEC patients not carrying a mutation in exons of the
+RPS19 gene and we provide a catalog of the genetic variations
+identified. Furthermore, we searched the entire region for putative
+transcription factor binding sites (TFBS) some of which are
+presumably altered by the variations identified. We suggest that
+gene variants at TFBSs influence the expression of RPS19 with a
+resulting effect on disease pattern and response to treatment.
+These findings are important to clarify the regulation of RPS19
+gene expression and for our understanding of the pathobiology
+behind DBA.
+Results
+Genetic catalog of the RPS19 locus
+We initially targeted a region of 14.7 kbp on human
+chromosome 19 (chr19:47,053,043–47,068,080), encompassing
+RPS19 and 2 kbp of flanking region (Accession numbers:
+RSG_JCVI|RPS19-004110_004111-C_G, RSG_JCVI|RPS19-
+005767_005771-D_CTAA). Variations were assigned in all
+individuals to provide a genetic map of the RPS19 locus. In
+addition, we analyzed a region upstream of the initial sequencing
+effort in a subset of patients (chr19:47,048,100–47,053,043); both
+analyzed regions together comprised of 19’980 bp (figure 1). We
+detected a total of 73 variations of which 65 were single nucleotide
+polymorphisms (SNPs; 89.1%) and 8 were insertion/deletion
+variants (indels; 10.9%). Forty-three SNPs (66.2%) and 6 indels
+(75.0%) were not previously described and could be classified as
+novel (figure 1 and table 1; SNPs identified in this study are
+referred to as ‘‘novel’’ throughout this report - their subsequently
+assigned database identifiers are listed in table 1). Altogether, 49 of
+the variations identified (67.1%) were novel. One of the novel
+indels overlaps with a known SNP (rs725332; table 1). All variants
+are located outside of the protein coding sequence of RPS19.
+Interestingly, the density of variations (SNP or indel) is one per
+273.7 bp (3.6 variations kbp21
+), including one SNP per 293.8 bp
+(3.4 SNPs kbp21
+). This is in contrast to the expected density of one
+SNP per 1.9 to 2.18 kbp21
+that has been estimated for human
+chromosome 19 in previous studies [19,20]. Several of the
+detected SNPs show a high frequency within the patient material
+(table 1). However, a considerable number of variations (30 out of
+73) show frequencies of less than 1% and the prevalence of these
+‘‘private’’ or rare variations is high, compared to previous
+estimates of 7% [21].
+Comparative genomic sequence analysis of the RPS19
+locus
+Human RPS19 has homologs in eukaryotes and archaebacteria
+but no eubacterial counterparts [22]. RPS19 is a component of the
+40S subunit of the ribosome, which is important for regulation of
+translation of mRNAs into polypeptides [23]. From all the
+mammalian sequences available, we selected those assembled into
+chromosomes with high coverage and lack of gaps in the targeted
+genomic region, assuring gene synteny and that the original
+structure of the human RPS19 gene is conserved (i.e. number and
+order of exons). We obtained and aligned syntenic genomic
+regions of 200 kb around the orthologous RPS19 gene from 6
+species (mouse, dog, cow, orangutan, macaque and chimpanzee;
+supplementary figure S1 and supplementary text S1). Infocon [24]
+identified a total of 161 blocks of high information content
+(BHICs) with highly conserved multi-species alignments within the
+200 kb region. They averaged 20 bp in size and their distribution
+in protein coding, non-coding and untranslated regions is shown in
+supplementary figure S2. A high information content block is a
+cluster of conservation between species where the alignment
+contains information for every species represented. Because this
+alignment is so highly conserved at almost every position, the
+consensus sequence for each BHIC defaults to the reference
+genome used in our alignment. 12 SNPs were contained in
+BHICs, 10 of them are detailed in supplementary table S1. If we
+consider the conservation of the polymorphic nucleotide, 7 of
+them are totally conserved across species (novel-12, novel-14,
+novel-15, novel-17, novel-18, rs2075749, rs2075750), 3 present a
+miss-match in one of the species (novel-13, mouse; novel-40, dog;
+rs1366610, mouse) and another 3 present two miss-matches
+(novel-3, cow-dog; novel-42, cow-mouse; rs930102, human-cow).
+With this analysis, we discovered that in many cases the human
+variation is found across species. Additionally, we downloaded the
+29-way eutherian mammals Enredo-Pecan-Ortheus (EPO) align-
+ment track containing ultra-conserved elements from the En-
+sEMBL database and compared this to our alignment results
+(supplementary figure S1). From nine conserved elements defined
+as EPO, five were entirely contained in our 7-way species
+alignment. Surprisingly, two were not contained at all. None of the
+novel SNPs was contained in a defined EPO region.
+All information obtained in our report and from external
+resources was converted into *.gff files in an effort towards
+improving the annotation of the RPS19 locus (*.gff files can be
+imported to the UCSC genome browser for visualization and are
+compiled in supplementary text S2; see also figure S2).
+Identified putative transcription factor binding sites that
+superimpose with novel SNPs
+We used the resulting multi-species alignment to analyze
+whether any of the detected variation marks out any sequence
+element important for regulation by modulators or regulating
+factors. We searched selected genomic regions for putative
+transcription factor binding sites (TFBS) focusing on regions with
+a high degree of conservation (figure 1). Our aim was to identify
+whether any of the detected SNPs coincide with predicted TFBS.
+A number of detected variations fall within putative TFBS
+(supplementary table S1). Additionally, to further narrow down
+the number of identified TFBS, we asked whether the identified
+TFBS are likely to be functionally relevant for adaptations in
+expression of RPS19 protein in the context of DBA/TEC. We
+searched the literature for association of the corresponding
+transcription factors to general transcription, tumorigenesis and
+hematopoiesis. Sixteen different transcription factors (GATA-1
+and -2, CDC5, Ebox, HOXA3, MSX-1, MZF1, PAX-2, -5 and -
+6, PBX-1, PPARalpha, PPARgamma, PU.1, SP1, YY1) are of
+particular interest with possible link to the DBA and TEC
+phenotypes (e.g. important for hematopoiesis, implicated in cancer
+development, strong general transcription factor). The putative
+TFBS coincide with 23 of the detected variants (table 2). The
+corresponding transcription factors bind to 15 possible sites
+upstream of the RPS19 coding region (TFBS encompassing 19
+SNPs), at one position within the second intron (one detected SNP)
+and to three sites located in intron 4 (three SNPs). In some cases,
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 2 July 2009 | Volume 4 | Issue 7 | e6172
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 3 July 2009 | Volume 4 | Issue 7 | e6172
+the TFBS was independently identified by two different tools/
+databases (e.g. PBX-1 binding site in upstream region; table 2).
+Comparative analysis of the proximal promoter region of
+RPS19
+Previous studies have tried to identify the promoter region of
+RPS19. Our study confirms that the RPS19 promoter region shares
+typical features with other mammalian ribosomal protein genes
+(e.g. absence of a canonical TATA-box). We also detected an
+accompanying non-consensus CCATT-box 72 to 83 bp upstream
+of the transcription start site commonly described in public
+databases (according to EnsEMBL). Three different transcription
+start sites (TSS) have been described (BC018616; BC000023;
+D28389) which differ only in the length of the 59UTR of the
+resulting mRNA. We have observed additional 59UTR variants
+differing in length between 33 to 467 nucleotides (unpublished
+data). The observed spread of the TSS together with the absence
+of a canonical TATA-box classify the RPS19 promoter as ‘‘broad
+type promoter’’ according to Sandelin and colleagues [25].
+Interestingly, the TSS stretch encompasses regions important for
+expression of RPS19 described previously by DaCosta et al.
+(figure 1) [26]. The authors identified regions of high conservation
+between mouse and human in the putative promoter region of
+RPS19, regions we also detect in our analysis (figure 1A). They
+predicted a promoter sequence and subsequently showed that the
+predicted promoter sequence and one of the conserved regions are
+important for expression of a reporter construct [26].
+We did not detect any variation in the 1.5 kb proximal region
+upstream of the first exon. This region is additionally character-
+ized by a high degree of conservation (figure 1_1). These findings
+underscore the importance of this region for expression of RPS19.
+DaCosta and colleagues identified several putative TFBS within
+the upstream region of RPS19 [26]. We checked whether we could
+reproduce their predictions of TFBS. In several cases, we obtained
+an even finer consensus motif (e.g. n-Myc, figure 1). In their study,
+DaCosta and coworkers define a strong C-Rel/Rel-A site that
+coincides with an NF-kB site. This is not surprising, because NF-
+kB is known to bind C-Rel in transcriptional regulatory systems
+[27]. Our matrix used in this detection is actually capable of
+detecting such a consensus site but cataloged it as NF-kB. Finally,
+we detected the SP1 motif in the first conserved region and an SP1
+instead of the CACCC-Bf binding site [26]. This particular SP1
+binding site (CCACCC) has been described as a regulatory switch
+element that stimulates SP1/GATA1 cooperation, and the
+consensus sequence is similar to the CACCC-Bf sequence [28].
+Discussion
+Association studies take advantage of the known variations
+throughout the human genome including SNPs and microsatel-
+lites. It has been suggested that the identification of all the
+potential risk-conferring variations within one disease associated
+gene is important for appropriate genotype-phenotype correlations
+[29,30]. Targeted resequencing studies are therefore an important
+step that may provide detailed catalogs of genomic variations to
+further studies of the mechanisms underlying diseases and
+pharmacogenetic responses [31]. We focused our efforts on the
+resequencing analysis of the RPS19 gene locus, a region that has
+been linked to two forms of anemia, namely Diamond-Blackfan
+Anemia (DBA) and Transient Erythroblastopenia of childhood
+(TEC) [12,32]. Our initial goal was to identify non-coding
+polymorphisms that are associated with either disease.
+In the present resequencing study, we show a considerable and
+previously unrecognized variation within the RPS19 gene locus.
+Estimates have approximated the degree of variation for
+chromosome 19 to 1 SNP in about 2 kbp of sequence [19,21].
+We show here that the genetic variation at the RPS19 locus in our
+patient cohort is significantly higher, with 1 SNP per 294 bp, and
+provide a catalog of additional variations associated with DBA and
+TEC. A large proportion of the presented variations consists of
+‘‘private’’ SNPs. Interestingly, independent resequencing studies of
+e.g. the innate immunity genes and the APO gene cluster have also
+detected an unexpectedly high degree of variation [20,29]. The
+high degree of variation in this study and the fact that RPS19
+seems to play a central role in a large proportion of DBA patients
+suggest that regulatory networks altered by one or the other SNP
+may have implications for RPS19 expression.
+However, our results revealed no clear correlation between any
+of the identified SNPs and either of the DBA or TEC phenotypes.
+Linkage analyses have previously indicated co-segregation of the
+two disorders suggesting they are allelic variants [4,12,32]. This
+lack of phenotype-genotype correlation may indicate that there
+exists an as yet unidentified sequence element in this region
+responsible for the regulation of RPS19 expression. Indeed, it has
+been described that regulatory elements may be situated far away
+from the actual gene. Mutations in such elements have previously
+been implicated in human diseases [33]. Alternatively, the
+observed linkage of this region to TEC patients is not due to
+mutations in RPS19, but to a different gene within the 1 Mbp
+region described previously [4]. Although the region contains a
+number of genes, no other ribosomal protein gene is located within
+this 19q13.2 region and no candidate gene of known relevance for
+erythropoiesis could be identified.
+Consequently, we hypothesized that mutations in non-coding
+regions of RPS19 could disrupt the binding of regulatory proteins.
+We aimed to identify new regulatory modulators and carried out a
+bioinformatics analysis of the locus to identify putative transcrip-
+tion factor binding sites (TFBS). As a result, we obtained a catalog
+of variations within our patient cohort and we provide a map of
+putative transcription factor binding sites (table 2 and supplemen-
+tary table S1). Several of the corresponding transcription factors
+(TF) are of particular interest. Ten of the identified TFs are
+ubiquitously or widely expressed (i.e. general transcription factors)
+and important for regulation of development, cell cycle and cell
+Figure 1. Schematic view of the RPS19 locus on chromosome 19. The genomic region targeted by the resequencing analysis
+(chr19:47’048’100–47’068’200) is shown as a snap shot using the UCSC Genome Browser (http://www.genome.ucsc.edu/). Amplicons and mammalian
+conservation are indicated, as well as detected variations (novel and known Polymorphisms, respectively). SNPs contained in dbSNP (version 128) are
+shown next to our reported variants. The six exons of the RPS19 gene and 39-end of the DMRTC2 gene located upstream are shown in grey. A more
+detailed view presenting all available information compiled on the targeted region is shown in supplementary figure S2. The whole analyzed region
+encompasses 19’980 kbp. (A) Detailed picture of the overlapping TFBSs and functional data extracted from EnsEMBL and Transfac (supplementary
+text S2) next to discovered variation in the upstream area towards the DMRCT2 gene. A more detailed section (1) describes the multiple alignment of
+a region comprising 476 bp upstream of the RPS19 Start codon (ATG) located in the second exon. For the 7 species selected, five different SNPs (in
+red with red arrows pointing the SNP position in the sequence), a transcription start site (TSS) from the Fantom database (presented as an arrow
+indicating transcriptional direction), several interesting TFBSs overlapping highly conserved SNPs (in blue with blue stars indicating important
+positions; table 2), and the four highly conserved regions reported by DaCosta et al. (containing the detected n-Myc motif) are highlighted.
+doi:10.1371/journal.pone.0006172.g001
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 4 July 2009 | Volume 4 | Issue 7 | e6172
+Table1.VariationdetectedintheDBA/TECpatientcohortwithintheresequencedregiononchromosome19.
+SNPIDa
+AllelesbPositiononChr19c
+#Homozygousd
+#Heterozygousd
+Frequency
+withincohorte
+#Chromosomes
+analyzede
+Reference
+Allelec
+dbSNPIDf
+STARTEND
+1A/g4704901547049015010.02638Anovel-1
+2A/c4704929547049295470.3938Ars4803512
+3T/c4704990947049909480.4238Trs6509002
+4CT/-4704962147049622100.0922CTrs3214574
+5CTTCTT/-470513534705135830350.62158CTTCTTnovel-2(overlappingrs7253322)
+6T/c4705079347050793100.0922Tnovel-3
+7G/c4705257547052575380.36838Grs7258162
+8G/t4705289447052894490.44738Tnovel-4
+9A/g470531214705312119220.5660106Gnovel-5(rs58857981)
+10G/t4705362247053622020.0185108Gnovel-6(rs61761212)
+11A/g4705390147053901010.0075134Anovel-7(rs61761213)
+12A/g4705392047053920010.0077130Anovel-8(rs61761214)
+13T/c4705421547054215020.0122164Tnovel-9(rs61761215)
+14C/t4705424847054248020.0061164Cnovel-10(rs61761216)
+15C/t4705444947054449020.0159126Cnovel-11(rs61761217)
+16C/t470562354705623525470.5640172Trs930102:C
+17C/g4705629347056293010.0057176Cnovel-12(rs61761218)
+18G/a4705654247056542100.0110182Gnovel-13(rs61761219)
+19G/a4705655747056557100.0110182Gnovel-14(rs61761220)
+20G/a4705658547056585100.0110182Gnovel-15(rs61761221)
+21CC/c470568364705683629440.5667180Cnovel-16(rs56182210)
+22C/g47056844470568443000.652292Grs2075749:C
+23T/-4705701247057012010.0054184Tnovel-17(rs61761223)
+24C/g4705716747057167010.0056178Cnovel-18(rs61761226)
+25A/g470577844705778427360.5844154Grs12461131:A
+26T/c470578044705780427370.5833156Crs12461099:T
+27-/ctaa470579504705795323370.5608148CTAArs34598858:C/-
+28G/a4705795547057955010.013574Gnovel-19(rs61761228)
+29A/g4705803247058032010.013574Anovel-20(rs61761229)
+30A/g47058072470580722740.805672Grs3786539:A
+31G/t47058087470580872300.621674Trs3786538:G
+32T/a4705837647058376010.021746Tnovel-21(rs61761230)
+33G/a4705843247058432030.037580Gnovel-22(rs61761231)
+34A/t470594614705946123300.6032126Trs7250787:A
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 5 July 2009 | Volume 4 | Issue 7 | e6172
+SNPIDa
+AllelesbPositiononChr19c
+#Homozygousd
+#Heterozygousd
+Frequency
+withincohorte
+#Chromosomes
+analyzede
+Reference
+Allelec
+dbSNPIDf
+STARTEND
+35C/t470597464705974630480.5870184Trs873282:C
+36G/a4705974747059747010.0054184Gnovel-23(rs61761232)
+37G/a4705981747059817010.0054184Gnovel-24(rs61761233)
+38A/g470598564705985623490.5163184Grs12972552:A
+39T/g4705992247059922010.0054184Tnovel-25(rs61761234)
+40G/t4706025047060250010.0056178Gnovel-26(rs61761235)
+41C/cccacc4706040247060402030.0163184Cnovel-27(rs61761236)
+42T/c4706041447060414010.0056178Tnovel-28(rs61761237)
+43A/g470604694706046947340.7273176Grs12974044:A
+44G/a470605784706057829480.5824182Ars7254214:G
+45C/t470615834706158329480.5761184Trs7259596:C
+46G/c4706165447061654010.0054184Gnovel-29(rs61761238)
+47G/gg4706244847062448010.0054184Gnovel-30(rs61761239)
+48C/t4706250447062504010.0055182Cnovel-31(rs61761240)
+49G/a4706269047062690010.0054184Gnovel-32(rs61761241)
+50G/c4706280747062807010.0054184Grs11879132:A
+51A/g4706400647064006010.0076132Anovel-33(rs61761242)
+52A/c470642974706429722290.5703128Crs3786536:A
+53G/t4706438047064380010.0055182Gnovel-34(rs61761243)
+54C/g4706456747064567020.034558Cnovel-35(rs61761244)
+55T/a4706458547064585020.0114176Tnovel-36(rs61762288)
+56C/a4706463947064639010.0057176Cnovel-37(rs61762289)
+57C/t4706464747064647010.0057176Cnovel-38(rs61762290)
+58C/t4706468847064688010.0057176Cnovel-39(rs61762291)
+59C/a4706477247064772010.0057176Cnovel-40(rs61762292)
+60A/g470651384706513830450.5769182Grs1366610:A
+61G/c4706514247065142010.0054184Gnovel-41(rs61762294)
+62G/t4706519047065190100.0109184Gnovel-42(rs61762295)
+63T/c470655194706551929450.5920174Crs2075750:T
+64G/a4706567547065675010.0056180Gnovel-43(rs61762296)
+65T/c470657334706573348360.7333180Crs2075751:T
+66G/c4706617147066171020.0109184Gnovel-44(rs61762297)
+67T/c4706623747066237010.0054184Tnovel-45(rs61762298)
+68G/t470666764706667630470.5879182Trs2075752:G
+Table1.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 6 July 2009 | Volume 4 | Issue 7 | e6172
+division, and cell plasticity (Cell division control protein 5 (CDC5);
+Homeobox cluster protein A3 (HOXA3); Msh-like homebox
+protein 1 (MSX-1); Paired box transcription factors (PAX);
+Peroxisome proliferator-activated receptor (PPARalpha and
+gamma); SP1 transcription factor (SP1); YY1 transcription factor
+(YY1)) [34–36]. Variations in the TFBS of these factors could
+possibly lead to altered transcriptional activity of the RPS19 gene,
+as has been described previously for transcription factors and the
+Ebox module [37–40]. A marked reduction in the transcriptional
+activity of RPS19 may have effects similar to that observed for
+haploinsufficiency. Strikingly, the non-reference allele of one SNP
+(rs3214574) deletes the putative binding site for CDC5. Instead, a
+strong TFBS for GATA-1/2 is created. This suggests a significant
+change for tissue specific expression. Moreover, the general TFs as
+well as the Ebox binding site could be pivotal for cellular response
+to extracellular stimuli and this may explain individual response to
+treatment or endogenous cytokines [41–43]. Furthermore, several
+of these general transcription factors have been shown to play a
+role in cell proliferation and tumorigenesis for which ribosomal
+protein genes are essential [44–47].
+Six TFBS identified in our study are even more interesting
+(GATA binding proteins 1 and 2 (GATA-1 and GATA-2); Myeloid
+zinc finger 1 (MZF-1); Pre-B-cell leukemia homeobox 1 (PBX-1);
+hematopoietic transcription factor PU.1 (PU.1); Ebox binding site).
+They belong to factors with a direct link to hematopoiesis [48–53].
+Several of these factors are involved in the progression to leukemia
+and they are essential for normal hematopoiesis (e.g. PU.1). We
+speculate that these factors may play a crucial role in the
+transcription of RPS19 during hematopoiesis, and alterations in
+the respective TFBS could lead to diminished RPS19 expression.
+This might render erythroid precursors to be less capable to
+proliferate, which has been suggested as a mechanism underlying
+DBA in patients with mutations in the coding sequence of RPS19
+[14]. On the other hand, alterations in TFBS could also lead to
+increased levels of RPS19 and in the best case promote remission
+which is seen to occur spontaneously.
+Another possible mechanism is that specific alleles in SNPs
+overlapping with the TFBS for PU.1, GATA-1/2 or PBX-1 might
+be of importance for the development of hematopoietic stem cells
+by altering their capacity of self-renewal, expansion and
+quiescence [50,53,54]. These factors are candidates in the
+mechanism underlying a block in erythroblast expansion and
+differentiation in DBA patients [55].
+In summary, we report here on the considerable individual
+variation detected in our resequencing study of the disease locus
+RPS19 in DBA and TEC patients. Furthermore, we identified a
+series of transcription factors putatively involved in the regulation
+of RPS19 expression and implicated in the pathobiology of DBA
+and TEC. Functional follow-up studies are needed to further
+investigate the predicted interactions described in this report.
+Methods
+Ethics Statement
+The study was approved by the Regional Ethical Review Board
+of Uppsala (Diary Number 2006/118). Informed consent of patients
+or their parents was obtained and has been documented in the
+patient files by the responsible clinician following routines approved
+by the Regional Ethics Board and according to Swedish legislation.
+Patient cohort
+We analyzed DNA prepared from peripheral blood of 77 DBA
+and 12 TEC patients of Caucasian origin. Patients included in the
+study were excluded by sequencing to carry a structural mutation
+SNPIDa
+AllelesbPositiononChr19c
+#Homozygousd
+#Heterozygousd
+Frequency
+withincohorte
+#Chromosomes
+analyzede
+Reference
+Allelec
+dbSNPIDf
+STARTEND
+69T/c47067084470670843130.691594Crs2075754:T
+70C/-4706723247067232020.0109184Cnovel-46(rs61762299)
+71C/a4706743247067432010.0054184Cnovel-47(rs61762300)
+72G/a4706756847067568010.0055182Gnovel-48(rs61762301)
+73G/a4706795547067955010.0055182Gnovel-49(rs61762302)
+a
+variantidentifier.
+b
+Mostfrequent(Major)andalternative(minor)allelewithinourpatientcohort.
+c
+ascomparedtothehumanreferencegenome(hg18,build36.1).
+d
+numberofheterozygousandhomozygouscases,respectively,withinourpatientcohort.
+e
+allelefrequencyandsamplesize(numberofanalyzedchromosomes),excludingpatientsampleswithundeterminedgenotype(NN).
+f
+databaseidentifier(dbSNP128)forpreviouslydescribedSNP(http://www.ncbi.nlm.nih.gov/SNP/)ornumberofnovelSNPwithsubsequentlyassigneddatabaseidentifier(dbSNP129)inbrackets,respectively.
+doi:10.1371/journal.pone.0006172.t001
+Table1.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 7 July 2009 | Volume 4 | Issue 7 | e6172
+Table2.PutativeTFBSsoverlayingdetectedSNPs#
+.
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+upstreamnovel-1[G/A]YY1(YinandYang1)Transfac:v7.0:M00059taatCCCAGc[G/a]ctttgg-0.996/0.976pMATCH
+(minSUM)
+(N|N)
+19:47049005-47049021:+1
+Pax-2(Pairedbox2)Transfac:v7.0:M00098aatcCCAGC[g/a]ctttgggag0.992/0.943-(N|N)
+19:47049006-47049024:+1
+Pax-2Transfac:v7.0:M00098atccCAGC[G/A]ctttgggagg0.918/0.9400.910/0.936(N|N)
+19:47049007-47049025:+1
+HOXA3(Homeoboxclusterprotein)Transfac:v7.0:M00395AGC[G/A]Ctttg1.000/0.963-(N|N)
+19:47049012-47049020:+1
+HOXA3Transfac:v7.0:M00395C[G/A]CTTtggg0.940/0.9410.956/0.953(N|N)
+19:47049014-47049022:+1
+upstreamrs4803512[A/C]Pax-2Transfac:v7.0:M00098tgaaCCATTc[a/c]gtacatag0.982/0.9220.982/0.919pMATCH
+(minSUM)
+(N|N)
+19:47049285-47049303:+1
+HOXA3Transfac:v7.0:M00395ACCATtc[a/c]g0.954/0.9480.954/0.948(N|N)
+19:47049288-47049296:+1
+Pax-2Transfac:v7.0:M00098accaTTC[A/C]Gtacataggaa0.947/0.891-(N|N)
+19:47049288-47049306:+1
+Pax-2Transfac:v7.0:M00098ccatTC[A/C]Gtacataggaaa0.975/0.903-(N|N)
+19:47049289-47049307:+1
+HOXA3Transfac:v7.0:M00395CATTC[a/c]gta0.970/0.946-(N|N)
+19:47049290-47049298:+1
+HOXA3Transfac:v7.0:M00395TTC[A/C]Gtaca1.000/0.975-(N|N)
+19:47049292-47049300:+1
+Pax-2Transfac:v7.0:M00098ttc[a/c]GTACAtaggaaaacc0.981/0.9460.981/0.945(N|N)
+19:47049292-47049310:+1
+HOXA3Transfac:v7.0:M00395[A/C]GTACatag-0.957/0.961(N|N)
+19:47049295-47049303:+1
+Msx-1(Msh-likehomeoboxprotein1)Transfac:v7.0:M00394c[a/c]gTACATa1.000/1.0001.000/1.000(N|N)
+19:47049294-47049302:+1
+upstreamrs3214574[-/CT]Pax-2Transfac:v7.0:M00098cttcCCTCCccttag[-/ct]at0.924/0.8930.924/0.894pMATCH
+(minSUM)
+(N|N)
+19:47049605-47049623:+1(cttcCCTC-
+Cccttagataa)
+HOXA3Transfac:v7.0:M00395CCCCTtag[-/ct]0.926/0.942-(N|N)
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 8 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+19:47049612-47049620:+1
+HOXA3Transfac:v7.0:M00395CCTTAg[-/ct]a0.987/0.9420.987/0.959(N|N)
+19:47049614-47049622:+1(CCTTAgata)
+Msx-1Transfac:v7.0:M00394cctTAG[-/CT]a0.955/0.9330.962/0.938(N|N)
+19:47049614-47049622:+1(cctTAGATa)
+HOXA3Transfac:v7.0:M00395CTTAG[-/ct]at0.957/0.943-(N|N)
+19:47049615-47049623:+1
+Pax-2Transfac:v7.0:M00098ag[-/ct]ATAACttagatatat0.972/0.8970.972/0.896(N|N)
+19:47049618-47049636:+1
+(ttagATAACttagatatat,
+19:47049616-
+47049634:+1)
+Pax-6Transfac:v7.0:M00097cctccCCTTAgataacttaga-0.987/0.976pMATCH(N|N)
+19:47049609-47049629:+1(minSUM,minFP)
+HOXA3Transfac:v7.0:M00395[-/ct]ATAACttag1.000/0.9951.000/0.995(N|N)
+19:47049622-47049630:+1
+GATA-1(GATA-bindingfactor1)Transfac:v7.0:M00346ttaGATAAct-/0.91629.46/0.9MotifScanner(N|N)
+19:47049616-47049625:+1
+GATA-2(GATA-bindingfactor2)Transfac:v7.0:M00082ttaGATAAct-/0.93124.5/0.9(N|N)
+19:47049616-47049625:+1
+Cdc5(Cdc5celldivisioncontrol
+protein5)
+Transfac:v7.0:M00478G[-/ct]aTAacttag3343.59/0.9-/0.9(N|N)
+19:47049619-47049630:+1
+upstreamrs6509002[C/T]Pax-2Transfac:v7.0:M00098aggaGTAGActagagg[c/t]ca0.915/0.9160.915/0.916pMATCH(y+|N)
+19:47049893-47049911:+1(minSUM)
+Pax-2Transfac:v7.0:M00098agtaGACTAgagg[c/t]cacct0.840/0.9060.840/0.906(y|N)
+19:47049896-47049914:+1
+Pax-2Transfac:v7.0:M00098agagG[c/T]CACctctccttca0.992/0.914-(y2|N)
+19:47049904-47049922:+1
+PPARalpha(PPAR:RXRheterodimers)Transfac:v12.1:M00242aAggAgTAGactAgAGG[c/T]CA0.784/0.784-MATCH(y+|N)
+19:47049892-47049911:+1(minFP)
+PPARgammaTransfac:v7.0:M00528gagtaGactAgaGg[c/T]ca3331.06/0.9-/0.9MotifScanner(y|N)
+19:47049895-47049911:+1
+upstreamnovel-3[C/T]Pax-2Transfac:v7.0:M00098cagaGTTCCcta[c/t]gttccc-0.963/0.919pMATCH(Y|N)
+19:47050781-47050799:+1(minSUM)
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 9 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+Pax-2Transfac:v7.0:M00098agagTTCCCta[c/t]gttccca0.982/0.9110.982/0.899(Y|N)
+19:47050782-47050800:+1
+Msx-1Transfac:v7.0:M00394cccTA[C/T]GTt0.955/0.9400.992/0.965(Y|N)
+19:47050788-47050796:+1
+HOXA3Transfac:v7.0:M00395CCTA[C/T]gttc0.987/0.9431.000/0.945(Y|N)
+19:47050789-47050797:+1
+Pax-2Transfac:v7.0:M00098cta[c/t]GTTCCcaaggggcca0.963/0.9280.963/0.928(y+|N)
+19:47050790-47050808:+1
+PPARgamma2(peroxisome
+proliferator-
+Transfac:v12.1:M00515ctcTcaGgCAgaGTtcCCtA[C/t]gT0.604/0.6750.604/0.682MATCH(y+|N)
+activatedreceptorgamma)19:47050773-47050795:+1(minFP)
+upstreamrs7258162[C/G]Pax-2Transfac:v7.0:M00098gcgcCCACCacct[c/g]cccca0.992/0.9470.992/0.921pMATCH(N|N)
+19:47052562-47052580:+1(minSUM)
+Msx-1Transfac:v7.0:M00394cacCACCT[c/g]0.906/0.936-(N|N)
+19:47052567-47052575:+1
+HOXA3Transfac:v7.0:M00395ACCACct[c/g]c1.000/0.941-(N|N)
+19:47052568-47052576:+1
+Pax-2Transfac:v7.0:M00098t[c/g]ccCCAGCtaatgttttg0.992/0.9300.992/0.929(N|N)
+19:47052574-47052592:+1
+Ebox(E-box)Transfac:v12.1:M01034cCACCT[c/G]cCc0.998/0.996-MATCH(N|N)
+19:47052569-47052578:+1(minFP)
+upstreamnovel-4[G/T]Pax-2Transfac:v7.0:M00098tatcCCACTgttt[G/t]taggt-1.000/0.900pMATCH(N|N)
+19:47052881-47052899:+1(minSUM)
+Msx-1Transfac:v7.0:M00394cacTGTTT[G/t]-0.951/0.959(N|N)
+19:47052886-47052894:+1
+Pax-2Transfac:v7.0:M00098cactGTTT[G/T]taggtactac0.971/0.9510.974/0.952(N|N)
+19:47052886-47052904:+1
+Pax-2Transfac:v7.0:M00098[g/t]tagGTACTacagcctcaa0.903/0.8990.903/0.898(N|N)
+19:47052894-47052912:+1
+upstreamnovel-5[A/G]Pax-2Transfac:v7.0:M00098gtatGATTCcaactat[a/g]tg0.992/0.9350.992/0.923pMATCH(N|N)
+19:47053105-47053123:+1(minSUM)
+Msx-1Transfac:v7.0:M00394aacTAT[A/G]Tg0.909/0.9310.917/0.936(N|N)
+19:47053115-47053123:+1
+Pbx-1Transfac:v7.0:M00096actAT[A/G]TGa0.964/0.9441.000/0.971(N|N)
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 10 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+19:47053116-47053124:+1
+Pax-2Transfac:v7.0:M00098tat[a/g]TGACAttctggaaaa0.929/0.9020.929/0.903(N|N)
+19:47053118-47053136:+1
+Pax-2Transfac:v7.0:M00098at[a/g]tGACATtctggaaaaa0.992/0.8990.992/0.912(N|N)
+19:47053119-47053137:+1
+HOXA3Transfac:v7.0:M00395[A/g]TGACattc-0.967/0.962(N|N)
+19:47053121-47053129:+1
+upstreamnovel-6[T/G]Pax-2Transfac:v7.0:M00098agtaCCA[T/G]Ctactcgacag0.992/0.9090.974/0.899pMATCH(N|N)
+19:47053615-47053633:+1(minSUM)
+HOXA3Transfac:v7.0:M00395[t/G]CTACtcga0.987/0.964-(N|N)
+19:47053622-47053630:+1
+Pax-2Transfac:v7.0:M00098[t/g]actcGACAGgctgaggtag-0.972/0.983pMATCH(N|N)
+19:47053623-47053641:+1(minFP)
+upstreamnovel-7[G/A]HOXA3Transfac:v7.0:M00395AAA[g/A]Ctaac0.984/0.975-pMATCH(N|N)
+19:47053898-47053906:+1(minSUM)
+Pax-2Transfac:v7.0:M00098a[g/a]ctAACATgtacaaaaat0.899/0.9220.899/0.923(N|N)
+19:47053900-47053918:+1
+Msx-1Transfac:v7.0:M00394a[g/a]cTAACAt0.949/0.9400.949/0.940(N|N)
+19:47053900-47053908:+1
+HOXA3Transfac:v7.0:M00395[g/A]CTAAcatg0.951/0.944-(N|N)
+19:47053901-47053909:+1
+Msx-1Transfac:v7.0:M00394[g/a]ctAACATg0.962/0.9670.962/0.957(N|N)
+19:47053901-47053909:+1
+HOXA3Transfac:v7.0:M00395[G/a]CTAAcatg-1.000/0.982(N|N)
+19:47053901-47053909:+1
+upstreamnovel-8[G/A]Pax-2Transfac:v7.0:M00098acatGTACAaaaatt[g/a]aca0.915/0.9040.915/0.907pMATCH(N|N)
+19:47053905-47053923:+1(minSUM)
+HOXA3Transfac:v7.0:M00395[G/A]ACAAAaatt0.973/0.9740.973/0.974(N|N)
+19:47053911-47053919:+1
+Msx-1Transfac:v7.0:M00394caaAAATT[g/a]-0.989/0.978(N|N)
+19:47053912-47053920:+1
+Pbx-1a(homeodomainfactorPbx-1)Transfac:v7.0:M00096aaaAATT[g/A]a0.983/0.955-(N|N)
+19:47053913-47053921:+1
+HOXA3Transfac:v7.0:M00395AAAATt[g/a]ac0.970/0.9640.970/0.964(N|N)
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 11 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+19:47053914-47053922:+1
+Msx-1Transfac:v7.0:M00394aaaTT[g/A]ACa0.913/0.931-(N|N)
+19:47053915-47053923:+1
+Msx-1Transfac:v7.0:M00394aatT[g/A]ACAc0.949/0.948(N|N)
+19:47053916-47053924:+1
+Pax-2Transfac:v7.0:M00098aatt[G/a]ACACcagggacaca-1.000/0.920(N|N)
+19:47053916-47053934:+1
+upstreamnovel-9[C/T]Msx-1Transfac:v7.0:M00394tgcCTTA[c/T]g0.917/0.943-pMATCH(N|N)
+19:47054208-47054216:+1(minSUM)
+HOXA3Transfac:v7.0:M00395CCTTA[c/t]gtc-0.987/0.953(N|N)
+19:47054210-47054218:+1
+Msx-1Transfac:v7.0:M00394cctTA[C/T]GTc0.955/0.9330.992/0.958(N|N)
+19:47054210-47054218:+1
+HOXA3Transfac:v7.0:M00395CTTA[C/T]gtcc0.970/0.9590.957/0.948(N|N)
+19:47054211-47054219:+1
+Msx-1Transfac:v7.0:M00394a[c/t]gTCCATc0.902/0.9330.902/0.933(N|N)
+19:47054214-47054222:+1
+Pbx-1b(homeodomainfactorPbx-1)Transfac:v7.0:M00124ta[c/t]gTCcATCAAaac2253.81/0.910900.5/0.9MotifScanner(N|N)
+19:47054213-47054227:+1
+Pbx1Jaspar:v3.0:MA0070a[c/t]gTCcATCAaa2378.14/0.98330.43/0.9(N|N)
+19:47054214-47054225:+1
+upstreamnovel-10[T/C]Pax-6Transfac:v7.0:M00097ctctgCTTTAtataaatttta[t/c]0.948/0.9680.948/0.968pMATCH(N|N)
+19:47054227-47054247:+1(minSUM)
+Pax-2Transfac:v7.0:M00098ataaATTTTa[t/c]ctaagctt0.982/0.9320.982/0.941(N|N)
+19:47054238-47054256:+1
+Pax-2Transfac:v7.0:M00098ttta[T/C]CTAAgcttcactct0.924/0.9070.949/0.922(N|N)
+19:47054244-47054262:+1
+Msx-1Transfac:v7.0:M00394a[t/c]cTAAGCt0.989/0.9680.989/0.967(N|N)
+19:47054247-47054255:+1
+HOXA3Transfac:v7.0:M00395[T/C]CTAAgctt1.000/0.9550.951/0.946(N|N)
+19:47054248-47054256:+1
+upstreamnovel-11[T/C]HOXA3Transfac:v7.0:M00395CCTGTaatc[t/c]0.970/0.9580.970/0.958pMATCH(N|N)
+19:47054440-47054448:+1(minSUM)
+Pax-2Transfac:v7.0:M00098gtaaTC[T/c]CAgcattttggg-0.989/0.931(N|N)
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 12 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+19:47054443-47054461:+1
+Pax-2Transfac:v7.0:M00098aatc[T/C]CAGCattttgggag0.992/0.9520.966/0.937(N|N)
+19:47054445-47054463:+1
+Pax-2Transfac:v7.0:M00098atc[t/c]CAGCAttttgggagg0.918/0.9270.918/0.927(N|N)
+19:47054446-47054464:+1
+upstreamrs930102[C/T]Pax-2Transfac:v7.0:M00098cgagG[c/T]GGCagggccggac0.914/0.926-pMATCH(Y|N)
+19:47056230-47056248:+1(minSUM)
+HOXA3Transfac:v7.0:M00395CGAGG[c/t]ggc0.973/0.979-(Y|N)
+19:47056230-47056238:+1
+Pax-2Transfac:v7.0:M00098agg[c/t]GGCAGggccggacgc0.887/0.9010.887/0.902(Y|N)
+19:47056232-47056250:+1
+Sp1(stimulatingprotein1)Transfac:v7.0:M00008g[c/t]GGCAGggc1.000/0.9761.000/0.976(Y|N)
+19:47056234-47056243:+1
+Pax-5(B-cell-specificactivating
+protein)
+Transfac:v7.0:M00143accgggcgCgagG[c/t]g-
+Gcagggccggacg
+2609.34/0.91057.56/0.9MotifScanner(y+|N)
+19:47056222-47056249:+1
+upstreamnovel-12[G/C]Sp1Transfac:v7.0:M00008ccGG[g/C]GCggg1.000/0.949-pMATCH(y|N)
+19:47056289-47056298:+1(minSUM)
+Sp1Transfac:v7.0:M00008cgG[G/c]GCGggc-0.957/0.956(y|N)
+19:47056290-47056299:+1
+Sp1Transfac:v7.0:M00008gg[G/c]GCGGgcc-1.000/0.985(y+|N)
+19:47056291-47056300:+1
+Pax-2Transfac:v7.0:M00098gg[g/c]gCGGGCccgtcccgcc0.938/0.891-(y+|N)
+19:47056291-47056309:+1
+Pax-5Transfac:v7.0:M00144cccgaGgcgcccgg[g/c]-
+GCGggcCcgtccc
+84.2745/0.9379.43/0.9MotifScanner(y|N)
+19:47056279-47056306:+1
+Pax-5Transfac:v12.1:M00144cccgaggcgcccgG[G/C]-
+GCGggcccgtccc
+0.839/0.7530.873/0.767MATCH(y|N)
+19:47056279-47056306:+1(minFP)
+upstreamnovel-13[A/G]PU.1(Spi-1)Jaspar:v7.0:MA0080cGGA[A/g]c-/0.9311.828/0.9MotifLocator(Y|N)
+19:47056538-47056543:+1
+Pax-2Transfac:v7.0:M00098ggagCCGGA[a/g]cccggcgtt-0.969/0.893pMATCH(y|N)
+19:47056533-47056551:+1(minSUM)
+upstreamnovel-14[A/G]Pax-2Transfac:v7.0:M00098cggcGTTGAagg[a/g]gccgtg0.982/0.9350.982/0.939pMATCH(y|N)
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 13 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+19:47056545-47056563:+1(minSUM)
+Pax-2Transfac:v7.0:M00098ggcgTTGAAgg[a/g]gccgtgg0.955/0.9300.955/0.941(y|N)
+19:47056546-47056564:+1
+Msx-1Transfac:v7.0:M00394cgtTGAAGg[a/g]0.963/0.9380.963/0.938(y2|N)
+19:47056548-47056556:+1
+HOXA3Transfac:v7.0:M00395CGTTGaagg[a/g]1.000/0.9761.000/0.976(y2|N)
+19:47056548-47056556:+1
+HOXA3Transfac:v7.0:M00395TTGAAgg[a/g]g-0.973/0.943(y2|N)
+19:47056550-47056558:+1
+HOXA3Transfac:v7.0:M00395TGAAGg[a/g]gc1.000/0.9541.000/0.954(y2|N)
+19:47056551-47056559:+1
+Sp1Transfac:v7.0:M00008gg[a/G]GCCGtgg0.981/0.942-(y+|N)
+19:47056555-47056564:+1
+upstreamnovel-15[A/G]Pax-2Transfac:v7.0:M00098ggggGTACCac[a/g]gtttagg0.895/0.891-pMATCH(y|N)
+19:47056574-47056592:+1(minSUM)
+Pbx-1Transfac:v7.0:M00096accAC[A/g]GTt-0.930/0.937(y+|N)
+19:47056580-47056588:+1
+HOXA3Transfac:v7.0:M00395C[A/G]GTTtagg0.956/0.9530.940/0.941(y2|N)
+19:47056584-47056592:+1
+Msx-1Transfac:v7.0:M00394c[a/g]gTTTAGg0.940/0.9590.940/0.959(y2|N)
+19:47056584-47056592:+1
+HOXA3Transfac:v7.0:M00395ACCAC[a/g]gtt1.000/0.9951.000/0.995pMATCH(y+|N)
+19:47056580-47056588:+1(minSUM,minFP)
+Pax-2Jaspar:v3.0:MA0067tacCAc[a/g]g112.092/0.9/0.9MotifLocator(Y|N)
+19:47056579-47056586:+1
+2nd
+intronrs2075749[C/G]Sp1Transfac:v7.0:M00008[c/g]GAGGCTTGTT111.864/0.3188.282/0.3MotifScanner(y+|N)
+19:47056845-47056854:+1
+4th
+intronrs1366610[A/G]Mzf1Transfac:v7.0:M00084agggtAG[a/G]GGggg201.027/0.5-/0.5MotifScanner(y|N)
+19:47065131-47065143:+1
+MZF1_5-13Jaspar:v3.0:MA0057gtAg[a/G]GGggg1253.7/0.5-/0.5(y|N)
+19:47065134-47065143:+1
+Sp1Jaspar:v3.0:MA0079ag[a/G]Gggggct104.692/0.5-/0.5(y|N)
+19:47065136-47065145:+1
+4th
+intronnovel-41[C/G]Mzf1Transfac:v7.0:M00084agggtAGGGGg[c/g]g201.027/0.5-/0.5-/0.5MotifScanner(y|N)
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 14 July 2009 | Volume 4 | Issue 7 | e6172
+Regiona
+SNPb
+RefSNPc
+TFBSnamed
+sourceeMotiff
+Refallele
+scoreg
+Non-ref
+allelescoreh
+Tooli
+MCSj
+Position(chr:start-end:strand)
+19:47065131-47065143:+1
+MZF1_5-13Jaspar:v3.0:MA0057gtAgGGGg[c/g]g1253.7/0.5-/0.5(y2|N)
+19:47065134,47065143:+1
+SP1Jaspar:v3.0:MA0079agGGgg[c/g]gct104.692/0.5-/0.5(y2|N)
+19:47065136-47065145:+1
+4th
+intronnovel-42[T/G]HOXA3Transfac:v7.0:M00395ac[T/g]Aatggt-/0.4121.962/0.4MotifScanner(y|N)
+19:47065188-47065196:+1
+#
+ForacompletelistofidentifiedTFBScoincidingwithdetectedSNPsseesupplementarytableS1.
+a
+locationoftheSNP/TFBSwithrespecttotheRPS19openreadingframe.
+b
+databaseidentifier(dbSNP)forpreviouslydescribedSNPsornumberofnovelSNP,respectively.
+c
+SNPalleles,indicatingreferenceandalternative(replace)allele.
+d
+nameoftranscriptionfactorormotifrecognized,asnamedinthedatabases.
+e
+library,versionofthelibraryandidentifiertowhichaTFBSisassociatedunderaPWMdatabaserelease.
+f
+motifrecognized(59to39sequence).Allelepositioningmarkedinbold.Allelesfallingexactlyadjacenttotheendofamotifhighlightedinboldanditalics.Capitallettershighlightimportantpositionsfortheputativebinding
+strengthofamotif.Chromosome,start,endpositionandstrandwithinthehumanreferencegenome(hg18,build36.1).
+g
+scoreforthereferencegenomeallele.MATCHandpMATCHuse1.000asmaximumscorebetweenanoptimalbindingsitematchandmatrixpowerofdetection.TOUCANdetectiontools(MotifScanner,MotifLocator,
+MotifSampler)donotuseglobalmaximumormatrixscoring,butthehigherthenumbers,thebetterthepredictedsite.TheaprioriprobabilityorthresholdisstatedunderthescorewhenanyoftheTOUCANtoolshasbeenused.
+h
+scorefornon-referenceallele.
+i
+programusedfordetectionofamotif.Errorminimizationcriteriastatedwhenapplicable.
+j
+transcriptfactorcontainedinanyofthemulti-conservedsequence(MCS)regionofthemulti-speciesalignment.ThefirstvaluebelongstotheInfoconprogramandthesecondtotheEPOEnsEMBLtrack.‘Y’indicatesthattheTFBS
+motifistotallycontainedinthearea(seesupplementaryfigureS1andfileS2),‘y+’thatthereismajoroverlappingpart(.75%),‘y’thatthereissignificantoverlappingpart(,75%,.50%),‘y2’onlyifaminorpartoverlaps(,50%)
+and‘N’indicatesaninexistentoverlap.
+doi:10.1371/journal.pone.0006172.t002
+Table2.Cont.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 15 July 2009 | Volume 4 | Issue 7 | e6172
+in RPS17, RPS19 or RPS24, respectively (Primer sequences
+available on request). Most of the patients are sporadic cases,
+except for 10 of the DBA patients and eight of the TEC patients
+who previously showed association with this genomic region. All
+patients were ascertained by hematologists of their country for
+criteria for DBA or TEC, respectively, and have been described
+previously [4,12,32].
+Resequencing
+Resequencing was carried out as described (METHOD-A;
+dbSNP (http://www.ncbi.nlm.nih.gov/SNP/)). Additional se-
+quence analysis was performed by sequencing standard PCR
+products (from approximately 2 mg genomic DNA) in both
+directions on an ABI PRISMH 3700 DNA Analyzer (AppliedBio-
+systems) according to manufacturer’s protocol and using Se-
+quencherH Programme for analysis of the resulting sequences.
+Primer sequences are listed in supplementary table S2.
+Comparative genomic sequence analysis
+200 kb of the human genome sequence around the RPS19 gene
+locus (hg18; chr19:47,048,239–47,068,000) as well as orthologous
+sequences for six mammalian species in different orders (rodents
+[mouse], canines [dog], ungulates [cow], primates [orangutan,
+macaque and chimpanzee]) were retrieved from EnsEMBL
+(http://www.ensembl.org/Homo_sapiens/) [56], assuring gene
+synteny was conserved and gaps were not extensive (supplemen-
+tary text S1 and supplementary figure S1). MultiPipMaker aligned
+these orthologous sequences with the ‘single coverage’ option to
+eliminate matches caused by duplications and the ‘search both
+strand’ option [57]. The identified multi-species conserved
+sequences were analyzed by virtue of the Infocon program [24].
+Infocon identifies blocks of high information content (BHIC) in
+parts of the alignment and optionally calculates a consensus
+sequence in each block. A BHIC is a cluster of conservation
+between species in which the alignment contains information for
+every species considered for the alignment.
+In order to obtain a more informative alignment of the
+mammalian clade, the multi-species alignment EPO track was
+downloaded from EnsEMBL containing elements conserved along
+29 eutherian mammals and subsequently converted into a *.gff file
+(supplementary texts S1 and S2). For a description of the *.gff file
+format see http://www.sanger.ac.uk/Software/formats/GFF/
+GFF_Spec.shtml.
+Prediction of transcription factor binding motifs
+Sequences of the whole human RPS19 upstream gene region
+(hg18; chr19:47,048,239–47,056,684) as well as 2nd
+and 4th
+introns
+(chr19:47,056,756–47,057,020 and chr19:47,065,125–47,065,608,
+respectively) and the 6 mammalian species already mentioned
+were subjected to a transcription factor binding sites (TFBS)
+detection with help of various programs: MotifScanner, Moti-
+fLocator, MotifSampler, MATCH and pMATCH.
+These programs identify over-represented motifs in a sequence
+data set and annotate putative binding sites consulting libraries of
+position weight matrices (PWMs). PWMs represent the intrinsic
+sequence variability of TFBS in the form of a matrix. Each matrix
+stores the frequency for each nucleotide at every position of the
+putative motif in order to summarize the alignment information
+for the TF with a binding site. The libraries of PWMs used in this
+study were Jaspar [58] and TRANSFAC Professional (releases 7.0
+(public), 11.2 and 12.1) [59]. The professional version of
+TRANSFAC requires licensing.
+MotifScanner uses different orders of markov chains as
+background model for matching PWMs. A parameter called a
+‘prior’ assigns an a priori probability of TFs binding to a distinct
+sequence. In MotifLocator the ‘prior’ is substituted by a posterior
+threshold for filtering matching PWMs. The resulting scores, in an
+absolute scale without log correction, represent the likelihood ratio
+of a certain PWM match versus a random match. MotifSampler
+[60] implements a stochastic model of a Gibbs sampler to detect
+‘‘over-represented’’ motifs not matching any known PWM. We
+always used the default parameters and third order vertebrate and
+human models (Eukaryotic Promoter Database and dbTSS) for
+MotifScanner and MotifLocator when searching against TRANS-
+FAC and Jaspar libraries. All these programs are contained in a
+workbench for regulatory sequence analysis called TOUCAN
+[61].
+MATCH [62] and pMATCH [63] are closely interconnected
+with the TRANSFAC database. MATCH was executed to
+minimize the false positives error (minFP) to guarantee specificity,
+whilst pMATCH was selected with minimization for FP and
+combined with the sum of both false positive and false negative
+errors (minSUM) to increase sensitivity.
+There are other recognition tools for promoter and regulatory
+motif analysis available: RSAT (Universite Libre de Bruxelles),
+TESS (University of Pennsylvania), TSSG/TSSW (Baylor College
+of Medicine), MatInspector (Genomatix Gmbh), SiteSeer (Uni-
+versity of Manchester), AliBaba2 (BioBase Gmbh), FUNSITE
+(ICG), Footprinter (University of Washington). However, we used
+the tools best integrated with the libraries used in the study.
+Additionally, several Perl scripts were created to perform data
+analysis in the suitable tools, parse TFBS annotations into *.gff files
+and filter overlapping SNPs within selected TFBS. All available
+annotations of the locus were manually formatted into *.gff files
+(supplementary text S2). Images of the RPS19 locus containing
+variations, conserved areas, annotations and TFBS provided
+within this report were created using the UCSC Genome Browser
+(http://www.genome.ucsc.edu/) [64].
+Supporting Information
+Figure S1 Detailed view of the analyzed region. Every *.gff file
+available has been imported into the UCSC Genome Browser
+(Kuhn et al, 2009) for visualisation (see supplementary text S2).
+Found at: doi:10.1371/journal.pone.0006172.s001 (1.71 MB
+PDF)
+Figure S2 Gene structures of the orthologous RPS19 loci of the
+species selected for comparative analysis taken from EnsEMBL
+(Hubbard et al, 2009).
+Found at: doi:10.1371/journal.pone.0006172.s002 (1.09 MB
+PDF)
+Table S1 Full list of all detected TFBS overlaying identified
+variations. a location of the SNP/TFBS with respect to the RPS19
+open reading frame b database identifier (dbSNP) for previously
+described SNPs or number of novel SNP, respectively. We
+complement this field with a small registry of which TFBSs are
+created (+) or destroyed (2) in a certain SNP (the actual SNP if not
+stated) and the detection score for this binding site if applicable. c
+SNP alleles, indicating reference and alternative (replace) allele d
+name of transcription factor or motif recognized, as named in the
+databases e library, version of the library and identifier to which a
+TFBS is associated under a PWM database release f motif
+recognized (59 to 39 sequence). Allele positioning marked in bold.
+Alleles falling exactly adjacent to the end of a motif highlighted in
+bold and italics. Capital letters highlight important positions for
+the putative binding strength of a motif. Chromosome, start, end
+position and strand within the human reference genome (hg18,
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 16 July 2009 | Volume 4 | Issue 7 | e6172
+build 36.1) g score for the reference genome allele. MATCH and
+pMATCH use 1.000 as maximum score between an optimal
+binding site match and matrix power of detection. TOUCAN
+detection tools (MotifScanner, MotifLocator, MotifSampler) do
+not use global maximum or matrix scoring, but the higher the
+numbers, the better the predicted site. The a priori probability or
+threshold is stated under the score when any of the TOUCAN
+tools has been used h score for non-reference allele i program used
+for detection of a motif. Error minimization criteria stated when
+applicable j transcript factor contained in any of the multi-
+conserved sequence (MCS) region of the multi-species alignment.
+The first value belongs to the Infocon program and the second to
+the EPO EnsEMBL track. ‘Y’ indicates that the TFBS motif is
+totally contained in the area (see supplementary figure S1 and text
+S2), ‘y+’ that there is major overlapping part (.75%), ‘y’ that there
+is significant overlapping part (,75%, .50%), ‘y2’ only if a
+minor part overlaps (,50%) and ‘N’ indicates an inexistent
+overlap
+Found at: doi:10.1371/journal.pone.0006172.s003 (0.16 MB
+PDF)
+Table S2 Primer sequences for analysis of 59upstream region.
+Found at: doi:10.1371/journal.pone.0006172.s004 (0.16 MB
+PDF)
+Text S1 Sequences collected for the bioinformatic analyses (in
+fasta format).
+Found at: doi:10.1371/journal.pone.0006172.s005 (0.07 MB
+TXT)
+Text S2 Compressed archive with files used in the study for
+visualization in the UCSC Genome Browser (in *.gff format)
+Found at: doi:10.1371/journal.pone.0006172.s006 (0.16 MB ZIP)
+Acknowledgments
+We thank all the patients. We acknowledge C. Ba¨cklin for assistance with
+figures and thank G. Andersson for fruitful discussions.
+Author Contributions
+Conceived and designed the experiments: AMB OE EBR JS. Performed
+the experiments: AMB OE. Analyzed the data: AMB OE EBR ND JS.
+Contributed reagents/materials/analysis tools: JB ASF. Wrote the paper:
+JS.
+References
+1. Vlachos A, Ball S, Dahl N, Alter BP, Sheth S, et al. (2008) Diagnosing and
+treating Diamond Blackfan anaemia: results of an international clinical
+consensus conference. Br J Haematol.
+2. Ellis SR, Lipton JM (2008) Chapter 8 diamond blackfan anemia: a disorder of
+red blood cell development. Curr Top Dev Biol 82: 217–241.
+3. Draptchinskaia N, Gustavsson P, Andersson B, Pettersson M, Willig TN, et al.
+(1999) The gene encoding ribosomal protein S19 is mutated in Diamond-
+Blackfan anaemia. Nat Genet 21: 169–175.
+4. Gustavsson P, Garelli E, Draptchinskaia N, Ball S, Willig TN, et al. (1998)
+Identification of microdeletions spanning the Diamond-Blackfan anemia locus
+on 19q13 and evidence for genetic heterogeneity. Am J Hum Genet 63:
+1388–1395.
+5. Campagnoli MF, Ramenghi U, Armiraglio M, Quarello P, Garelli E, et al.
+(2008) RPS19 mutations in patients with Diamond-Blackfan anemia. Hum
+Mutat.
+6. Farrar JE, Nater M, Caywood E, McDevitt MA, Kowalski J, et al. (2008)
+Abnormalities of the large ribosomal subunit protein, Rpl35a, in Diamond-
+Blackfan anemia. Blood 112: 1582–1592.
+7. Gazda HT, Sheen MR, Vlachos A, Choesmel V, O’Donohue MF, et al. (2008)
+Ribosomal protein L5 and L11 mutations are associated with cleft palate and
+abnormal thumbs in Diamond-Blackfan anemia patients. Am J Hum Genet 83:
+769–780.
+8. Cmejla R, Cmejlova J, Handrkova H, Petrak J, Pospisilova D (2007) Ribosomal
+protein S17 gene (RPS17) is mutated in Diamond-Blackfan anemia. Hum
+Mutat.
+9. Gazda HT, Grabowska A, Merida-Long LB, Latawiec E, Schneider HE, et al.
+(2006) Ribosomal protein S24 gene is mutated in Diamond-Blackfan anemia.
+Am J Hum Genet 79: 1110–1118.
+10. Alter BP (1996) Aplastic Anemia, Pediatric Aspects. Oncologist 1: 361–366.
+11. Skeppner G, Wranne L (1993) Transient erythroblastopenia of childhood in
+Sweden: incidence and findings at the time of diagnosis. Acta Paediatr 82:
+574–578.
+12. Gustavsson P, Klar J, Matsson H, Forestier E, Henter JI, et al. (2002) Familial
+transient erythroblastopenia of childhood is associated with the chromosome
+19q13.2 region but not caused by mutations in coding sequences of the
+ribosomal protein S19 (RPS19) gene. Br J Haematol 119: 261–264.
+13. Willig TN, Draptchinskaia N, Dianzani I, Ball S, Niemeyer C, et al. (1999)
+Mutations in ribosomal protein S19 gene and diamond blackfan anemia: wide
+variations in phenotypic expression. Blood 94: 4294–4306.
+14. Ellis SR, Massey AT (2006) Diamond Blackfan anemia: A paradigm for a
+ribosome-based disease. Med Hypotheses 66: 643–648.
+15. Todd JA (1996) Transcribing diabetes. Nature 384: 407–408.
+16. Silander K, Mohlke KL, Scott LJ, Peck EC, Hollstein P, et al. (2004) Genetic
+variation near the hepatocyte nuclear factor-4 alpha gene predicts susceptibility
+to type 2 diabetes. Diabetes 53: 1141–1149.
+17. Shoulders CC (2004) USF1 on trial. Nat Genet 36: 322–323.
+18. Rahimov F, Marazita ML, Visel A, Cooper ME, Hitchler MJ, et al. (2008)
+Disruption of an AP-2alpha binding site in an IRF6 enhancer is associated with
+cleft lip. Nat Genet 40: 1341–1347.
+19. Sachidanandam R, Weissman D, Schmidt SC, Kakol JM, Stein LD, et al. (2001)
+A map of human genome sequence variation containing 1.42 million single
+nucleotide polymorphisms. Nature 409: 928–933.
+20. Bairagya BB, Bhattacharya P, Bhattacharya SK, Dey B, Dey U, et al. (2008)
+Genetic variation and haplotype structures of innate immunity genes in eastern
+India. Infect Genet Evol 8: 360–366.
+21. Miller RD, Phillips MS, Jo I, Donaldson MA, Studebaker JF, et al. (2005) High-
+density single-nucleotide polymorphism maps of the human genome. Genomics
+86: 117–126.
+22. Dresios J, Panopoulos P, Synetos D (2006) Eukaryotic ribosomal proteins lacking
+a eubacterial counterpart: important players in ribosomal function. Mol
+Microbiol 59: 1651–1663.
+23. Mauro VP, Edelman GM (2002) The ribosome filter hypothesis. Proc Natl Acad
+Sci U S A 99: 12031–12036.
+24. Stojanovic N, Florea L, Riemer C, Gumucio D, Slightom J, et al. (1999)
+Comparison of five methods for finding conserved sequences in multiple
+alignments of gene regulatory regions. Nucleic Acids Res 27: 3899–3910.
+25. Sandelin A, Carninci P, Lenhard B, Ponjavic J, Hayashizaki Y, et al. (2007)
+Mammalian RNA polymerase II core promoters: insights from genome-wide
+studies. Nat Rev Genet 8: 424–436.
+26. Da Costa L, Narla G, Willig TN, Peters LL, Parra M, et al. (2003) Ribosomal
+protein S19 expression during erythroid differentiation. Blood 101: 318–324.
+27. Grilli M, Chiu JJ, Lenardo MJ (1993) NF-kappa B and Rel: participants in a
+multiform transcriptional regulatory system. Int Rev Cytol 143: 1–62.
+28. Fischer KD, Haese A, Nowock J (1993) Cooperation of GATA-1 and Sp1 can
+result in synergistic transcriptional activation or interference. J Biol Chem 268:
+23915–23923.
+29. Fullerton SM, Buchanan AV, Sonpar VA, Taylor SL, Smith JD, et al. (2004)
+The effects of scale: variation in the APOA1/C3/A4/A5 gene cluster. Hum
+Genet 115: 36–56.
+30. Neale BM, Sham PC (2004) The future of association studies: gene-based
+analysis and replication. Am J Hum Genet 75: 353–362.
+31. Wood LD, Parsons DW, Jones S, Lin J, Sjoblom T, et al. (2007) The genomic
+landscapes of human breast and colorectal cancers. Science 318: 1108–1113.
+32. Gustavsson P, Willing TN, van Haeringen A, Tchernia G, Dianzani I, et al.
+(1997) Diamond-Blackfan anaemia: genetic homogeneity for a gene on
+chromosome 19q13 restricted to 1.8 Mb. Nat Genet 16: 368–371.
+33. Enattah NS, Sahi T, Savilahti E, Terwilliger JD, Peltonen L, et al. (2002)
+Identification of a variant associated with adult-type hypolactasia. Nat Genet 30:
+233–237.
+34. Blake JA, Thomas M, Thompson JA, White R, Ziman M (2008) Perplexing Pax:
+from puzzle to paradigm. Dev Dyn 237: 2791–2803.
+35. Hall BK, Miyake T (1995) Divide, accumulate, differentiate: cell condensation in
+skeletal development revisited. Int J Dev Biol 39: 881–893.
+36. Pearson JC, Lemons D, McGinnis W (2005) Modulating Hox gene functions
+during animal body patterning. Nat Rev Genet 6: 893–904.
+37. Chaudhary J, Skinner MK (1999) Basic helix-loop-helix proteins can act at the
+E-box within the serum response element of the c-fos promoter to influence
+hormone-induced promoter activation in Sertoli cells. Mol Endocrinol 13:
+774–786.
+38. Larsson L, Johansson P, Jansson A, Donati M, Rymo L, et al. (2008) The Sp1
+transcription factor binds to the G-allele of the -1087 IL-10 gene polymorphism
+and enhances transcriptional activation. Genes Immun.
+39. Gingras ME, Masson-Gadais B, Zaniolo K, Leclerc S, Drouin R, et al. (2009)
+Differential binding of the transcription factors Sp1, AP-1, and NFI to the
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 17 July 2009 | Volume 4 | Issue 7 | e6172
+promoter of the human alpha5 integrin gene dictates its transcriptional activity.
+Invest Ophthalmol Vis Sci 50: 57–67.
+40. Sekido R, Murai K, Funahashi J, Kamachi Y, Fujisawa-Sehara A, et al. (1994)
+The delta-crystallin enhancer-binding protein delta EF1 is a repressor of E2-box-
+mediated gene activation. Mol Cell Biol 14: 5692–5700.
+41. Miltenberger RJ, Sukow KA, Farnham PJ (1995) An E-box-mediated increase in
+cad transcription at the G1/S-phase boundary is suppressed by inhibitory c-Myc
+mutants. Mol Cell Biol 15: 2527–2535.
+42. Solomon SS, Majumdar G, Martinez-Hernandez A, Raghow R (2008) A critical
+role of Sp1 transcription factor in regulating gene expression in response to
+insulin and other hormones. Life Sci 83: 305–312.
+43. Kronke G, Kadl A, Ikonomu E, Bluml S, Furnkranz A, et al. (2007) Expression
+of heme oxygenase-1 in human vascular cells is regulated by peroxisome
+proliferator-activated receptors. Arterioscler Thromb Vasc Biol 27: 1276–1282.
+44. Ruggero D, Pandolfi PP (2003) Does the ribosome translate cancer? Nat Rev
+Cancer 3: 179–192.
+45. Pozzi A, Ibanez MR, Gatica AE, Yang S, Wei S, et al. (2007) Peroxisomal
+proliferator-activated receptor-alpha-dependent inhibition of endothelial cell
+proliferation and tumorigenesis. J Biol Chem 282: 17685–17695.
+46. Gordon S, Akopyan G, Garban H, Bonavida B (2006) Transcription factor YY1:
+structure, function, and therapeutic implications in cancer biology. Oncogene
+25: 1125–1142.
+47. Nan H, Qureshi AA, Hunter DJ, Han J (2008) A functional SNP in the MDM2
+promoter, pigmentary phenotypes, and risk of skin cancer. Cancer Causes
+Control.
+48. Ryan DP, Duncan JL, Lee C, Kuchel PW, Matthews JM (2008) Assembly of the
+oncogenic DNA-binding complex LMO2-Ldb1-TAL1-E12. Proteins 70:
+1461–1474.
+49. Kastner P, Chan S (2008) PU.1: a crucial and versatile player in hematopoiesis
+and leukemia. Int J Biochem Cell Biol 40: 22–27.
+50. Ficara F, Murphy MJ, Lin M, Cleary ML (2008) Pbx1 regulates self-renewal of
+long-term hematopoietic stem cells by maintaining their quiescence. Cell Stem
+Cell 2: 484–496.
+51. Hromas R, Davis B, Rauscher FJ 3rd, Klemsz M, Tenen D, et al. (1996)
+Hematopoietic transcriptional regulation by the myeloid zinc finger gene, MZF-
+1. Curr Top Microbiol Immunol 211: 159–164.
+52. Steidl U, Steidl C, Ebralidze A, Chapuy B, Han HJ, et al. (2007) A distal single
+nucleotide polymorphism alters long-range regulation of the PU.1 gene in acute
+myeloid leukemia. J Clin Invest 117: 2611–2620.
+53. Wickrema A, Crispino JD (2007) Erythroid and megakaryocytic transformation.
+Oncogene 26: 6803–6815.
+54. Arinobu Y, Mizuno S, Chong Y, Shigematsu H, Iino T, et al. (2007) Reciprocal
+activation of GATA-1 and PU.1 marks initial specification of hematopoietic
+stem cells into myeloerythroid and myelolymphoid lineages. Cell Stem Cell 1:
+416–427.
+55. Ohene-Abuakwa Y, Orfali KA, Marius C, Ball SE (2005) Two-phase culture in
+Diamond Blackfan anemia: localization of erythroid defect. Blood 105: 838–846.
+56. Hubbard TJ, Aken BL, Ayling S, Ballester B, Beal K, et al. (2009) Ensembl 2009.
+Nucleic Acids Res 37: D690–697.
+57. Schwartz S, Elnitski L, Li M, Weirauch M, Riemer C, et al. (2003)
+MultiPipMaker and supporting tools: Alignments and analysis of multiple
+genomic DNA sequences. Nucleic Acids Res 31: 3518–3524.
+58. Sandelin A, Alkema W, Engstrom P, Wasserman WW, Lenhard B (2004)
+JASPAR: an open-access database for eukaryotic transcription factor binding
+profiles. Nucleic Acids Res 32: D91–94.
+59. Matys V, Kel-Margoulis OV, Fricke E, Liebich I, Land S, et al. (2006)
+TRANSFAC and its module TRANSCompel: transcriptional gene regulation in
+eukaryotes. Nucleic Acids Res 34: D108–110.
+60. Thijs G, Lescot M, Marchal K, Rombauts S, De Moor B, et al. (2001) A higher-
+order background model improves the detection of promoter regulatory
+elements by Gibbs sampling. Bioinformatics 17: 1113–1122.
+61. Aerts S, Van Loo P, Thijs G, Mayer H, de Martin R, et al. (2005) TOUCAN 2:
+the all-inclusive open source workbench for regulatory sequence analysis.
+Nucleic Acids Res 33: W393–396.
+62. Kel AE, Gossling E, Reuter I, Cheremushkin E, Kel-Margoulis OV, et al. (2003)
+MATCH: A tool for searching transcription factor binding sites in DNA
+sequences. Nucleic Acids Res 31: 3576–3579.
+63. Chekmenev DS, Haid C, Kel AE (2005) P-Match: transcription factor binding
+site search by combining patterns and weight matrices. Nucleic Acids Res 33:
+W432–437.
+64. Kuhn RM, Karolchik D, Zweig AS, Wang T, Smith KE, et al. (2009) The
+UCSC Genome Browser Database: update 2009. Nucleic Acids Res 37:
+D755–761.
+Analysis of the RPS19 Locus
+PLoS ONE | www.plosone.org 18 July 2009 | Volume 4 | Issue 7 | e6172
+

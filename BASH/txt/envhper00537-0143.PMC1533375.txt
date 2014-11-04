@@ -1,0 +1,2533 @@
+Alternative Testing Systems for Evaluating
+Noncarcinogenic, Hematologic Toxicity
+Ralph E. Parchment
+Division of Hematology and Oncology, the Karmanos Cancer Institute,
+Wayne State University, Detroit, Michigan
+Hematopoietic tissues are the targets of numerous xenobiotics. Clinical hematotoxicity is either a
+decrease or an increase in peripheral blood cell counts in one or more cell lineages-a cytopenia or
+a cytosis, respectively-that carries a risk of an adverse clinical event. The purpose of in vitro
+hematotoxicology is the prediction of these adverse hematologic effects from the effects of the
+toxicants on human hematopoietic targets under controlled experimental conditions in the
+laboratory. Building on its important foundations in experimental hematology and the wealth of
+hematotoxicology data found in experimental oncology, this field of alternative toxicology has
+developed rapidly during the past decade. Although the colony-forming unit-granulocyte/monocyte
+neutrophil progenitor is most frequently evaluated, other defined progenitors and stem cells as
+well as cell types found in the marrow stroma can be evaluated in vitro. End points have been
+proposed for predicting toxicant exposure levels at the maximum tolerated dose and the no
+observable adverse effect level for the neutrophil lineage, and several clinical prediction models for
+neutropenia have developed to the point that they are ready for prospective evaluation and
+validation in both preclinical species and humans. Known predictive end points are the key to
+successful comparisons across species or across chemical structures when in vitro dose-response
+curves are nonparallel. Analytical chemistry support is critical for accurate interpretation of in vitro
+data and for relating the in vitro pharmacodynamics to the in vivo pharmacokinetics. In contrast to
+acute neutropenia, anemia and acute thrombocytopenia, as well as adverse effects from chronic
+toxicant exposure, are much more difficult to predict from in vitro data. Pharmacologic principles
+critical for clinical predictions from in vitro data very likely will apply to toxicities to other proliferative
+tissues, such as mucositis. Environ Health Perspect 106(Suppl 2):541-557 (1998).
+http://ehpnetl.niehs.nih.gov/docs/1998/Suppl-2/541-557parchment/abstract.html
+Key words: neutropenia, thrombocytopenia, myelosuppression, myelotoxicity, hematotoxic-
+ity, hematotoxicology, in vitro assay, stem cells, hematopoiesis, progenitor cells, CFU-GM,
+NOAEL, permissible exposure limit, MTD, toxicology, IND, NDA
+In Vitro Hematotoxicology in nature (harmful) for the patient. This
+as an Alternative Toxicology paper focuses on the prediction of clini-
+Clinical toxicology can be defined as the cally significant, adverse perturbations in
+study of the clinically significant pertur- peripheral blood cell counts. It addresses
+bations, caused by xenobiotic and/or benign lesions in the hematopoietic system
+therapeutic exposure, which are adverse but does not consider leukemogenesis.
+This paper was prepared as background for the 13th Meeting of the Scientific Group on Methodologies for the
+Safety Evaluation of Chemicals (SGOMSEC): Alternative Testing Methodologies held 26-31 January 1997 in
+Ispra, Italy. Manuscript received at EHP9 May 1997; accepted 5 November 1997.
+Many of the ideas in this paper germinated during very stimulating discussions with C.K. Grieshaber and
+J.M. Collins at the U.S. FDA and J.E. Tomaszewski at the U.S. NCI. also thank two key Phase investigators,
+L.M. Ghielmini (Lugano) and P.M. LoRusso (Detroit), for their openness in considering this field as an integral part of
+Phase clinical development. Finally, gratitude is due for the expert assistance of technicians in Dayton, OH,
+Washington, D.C., Detroit, Ml, and elsewhere who have made these data possible. This work supported in part by
+U.S. National Institutes of Health grants CA62487, CA46560, CA75283, and a contract Consorzio Milano Richerche.
+Address correspondence to Dr. R.E. Parchment, Division of Hematology and Oncology, Wayne State
+University, Harper Hospital, 3990 John R. Street, Detroit, Ml. Telephone: (313) 745-9519. Fax: (313) 993-0559.
+E-mail: parchmen@med.wayne.edu
+Abbreviations used: AUC, area under the plasma concentration versus time curve; AZT, azidothymidine; BFU,
+burst-forming unit-erythroid; CFU, colony-forming unit; CFU-f, CFU-fibroblastoid; CFU-GEMM, CFU-granulocyte,
+erythroid, megakaryocyte, and monocyte; CFU-GM, CFU-granulocyte/monocyte; CFU-Mk, CFU-megakaryocyte;
+CYP450, cytochrome P450; ECVAM, European Centre for the Validation of Alternative Methods; HPP-CFC, high
+proliferating protential-colony-forming cell; IC, inhibition concentration (number in subscript indicates percent of
+inhibition produced); IL, interleukin; LTC-IC, long-term culture-initiating cell; MTC, maximum tolerated concentra-
+tion; MTD, maximum tolerated dose; NOAEC, no observable adverse effect concentration; NOAEL, no observable
+adverse effect level; PEL, permissible exposure limit; TGF-p, transforming growth factor beta.
+The field of hematotoxicology includes
+the study of adverse effects of toxicants on
+mature blood cells and also the precursor
+cells in the hematopoietic (blood forming)
+tissues. There are established techniques for
+assessing adverse effects of xenobiotics on
+mature blood cells. More recently, the
+availability of recombinant hematopoietic
+growth factors makes possible the evalua-
+tion of adverse effects against the blood-
+forming precursor cells as well. Thus, it is
+now possible to study human hematotoxi-
+cology in the preclinical setting. Because it
+is possible to study the effects of a toxicant
+on its actual target cell, it seems reasonable
+to expect in vitro hematotoxicology to be
+highly predictive.
+Fundamentally, toxicology has two
+goals: identification of the tissues that are
+susceptible to the toxic effects of the xeno-
+biotic and determination of the level of
+acute and chronic exposures (doses) that
+these tissues can tolerate without clinical
+consequences. The first goal is qualitative;
+it necessarily involves comparative toxicol-
+ogy in multiple tissues. This comparison is
+most efficiently completed in vivo where all
+organs can be exposed simultaneously. A
+similar evaluation performed ex vivo neces-
+sarily requires the assay of multiple human
+tissues under identical conditions, which at
+the present time is not technically possible.
+The estimation of the acceptable level of
+human exposure from in vitro hematotoxi-
+cology data assumes that the toxicant's
+most potent effects are toward the bone
+marrow, i.e., hematopoietic tissue is the
+most sensitive ofthe human tissues to toxi-
+city. By its nature, hematotoxicology com-
+plements, refines, and actually improves
+standard toxicology testing (usually in
+vivo), which still is required to identify
+hematopoiesis as the most likely tissue tar-
+get of the toxicant in humans. The second
+goal is quantitative and estimates the level
+of toxicant exposure that can be tolerated
+by the target tissue. This is critical for
+accurate risk assessment and establishment
+ofreasonable regulatory limits on exposure.
+In this case, ex vivo evaluation must involve
+evaluation of toxicity to only the target tis-
+sue or cells derived from it and in vitro
+hematotoxicology meets this second goal.
+The laboratory techniques for evaluat-
+ing the effects of a toxicant on human
+hematopoietic tissue are relatively straight-
+forward, and there is a wealth ofdata on the
+toxic effects ofxenobiotics on hematopoietic
+target cells. Most laboratories have the
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 541
+R.E. PARCHMENT
+capability of performing all of the ex vivo
+tests described here. In contrast, the inter-
+pretation of the data and the quantitative
+prediction of the acceptable level of clinical
+exposure from the data are much more diffi-
+cult. It is this latter arena in which we have
+specialized. We have investigated prediction
+models that translate the data into predicted
+hematologic perturbations as a function of
+toxicant exposure levels. The goal in the reg-
+ulatory setting usually emphasizes the pre-
+diction oftwo levels ofexposure: the highest
+dose that will not cause a dinically adverse
+effect and the dose that causes maximally
+tolerated, reversible perturbations in periph-
+eral blood counts. The former is often
+termed the no observable adverse effect level
+(NOAEL), whereas the latter is termed the
+maximum tolerated dose (MTD). Human
+exposure at the MTD is undesirable except
+for anticancer agents; with this exception,
+permissible exposure limits (PELs) are set
+for all regulated products from the NOAEL.
+Substantial pharmacologic issues arise
+during the prediction of clinical outcomes
+from in vitro data. Ex vivo assays determine
+the concentration and exposure duration
+that cause toxicity. In contrast, the regula-
+tion of human exposure requires that deci-
+sions be based on units of dose or dose
+intensity (i.e., mg/m2 or mg/kg per unit of
+time). The prediction of a dose that pro-
+duces the in vitro concentration-time-effect
+relationship in vivo involves pharmacokinet-
+ics-the disposition ofxenobiotic through-
+out the body. By analogy to animal and
+clinical toxicology, in vitro hematotoxicol-
+ogy aims to determine the no observable
+adverse effect concentration (NOAEC) and
+the maximum tolerated concentration
+(MTC) oftoxicant under a specific schedule
+of exposure. The pharmacokineticist can
+then calculate the NOAEL and MTD doses
+that produce these NOAECs and MTCs.
+The NOAEC and the MTC are two end
+points useful in regulatory science sought
+during in vitro hematotoxicology studies.
+The success to date lies primarily in the
+identification of the in vitro inhibition
+concentration value that is the MTC. An
+international validation study sponsored by
+the European Centre for the Validation of
+Alternative Methods (ECVAM) is under-
+way to evaluate the predictive value of this
+putative MTC for clinical neutropenia (1).
+Results from this formal evaluation of in
+vitro hematotoxicology can be expected by
+January 1999. Because a wealth of detailed
+preclinical and clinical pharmacokinetic
+and hematotoxicity data exists for anti-
+neoplastic agents, these compounds serve
+as prototype hematotoxicants to elucidate
+the principles of predicting the NOAEC
+and the MTC. Once the prediction mod-
+els are developed with antineoplastics, it is
+expected that they will generally be
+applicable to all other xenobiotics.
+The Hematopoietic System
+as a Prototype for in Vivo
+and in Vitro Toxicology
+Circulating Blood Cells
+and the in VivoEnd Point
+The blood of mammals contains a variety
+of differentiated cell types with specific
+functions. Red blood cells (erythrocytes)
+deliver oxygen; platelets contribute to clot
+formation; and lymphocytes, monocytes,
+and granulocytes provide resistance to
+infectious organisms and foreign materials.
+The granulocytes and platelets have a half-
+life in the circulation of only a few hours
+and a few days, respectively, whereas ery-
+throcytes have a much longer half-life of
+several months. The proportion of white
+blood cells that are lymphocytes or granu-
+locytes differs across mammalian species,
+and this must be kept in mind when inter-
+preting toxicologic data. For example,
+rodents exhibit a lymphocyte:granulocyte
+ratio of about 4:1 whereas humans and
+dogs show a 1:4 ratio. A toxicant that
+causes severe neutropenia in the absence of
+lymphocytopenia will only be detected
+during rodent toxicology studies if differ-
+ential counts are made on the leukocyte
+population. Otherwise, the maximum
+adverse effect will be a 20% reduction in
+white blood cell counts, which is likely to
+be considered unremarkable. Furthermore,
+it is important that validation studies of
+laboratory end points correlate the in vitro
+data to the correct in vivo end point. Assays
+to predict neutropenia need to be corre-
+lated with neutrophil counts, not with
+leukocyte counts.
+Hematopoietic Cells as Producers
+ofNew Blood Cells
+New blood cells must constantly be
+produced to maintain the peripheral blood
+cell counts, and under healthy physiologic
+conditions there is a balance between new
+cell production and cell loss that leads to
+the constancy ofblood cell counts observed
+clinically. The hematopoietic tissues that
+produce new blood cells are primarily
+located in the bone marrow in humans but
+in both bone marrow and spleen in rodents
+and sometimes dogs. Hematopoietic tissue
+contains a continuum of increasingly
+differentiated elements within all blood cell
+lineages. Developing myeloid, erythroid,
+megakaryocytic, and lymphoid cells can be
+distinguished cytologically by the trained
+eye or with histochemistry for lineage-
+restricted features. The highly undifferenti-
+ated cells are progenitors of the immature
+blood cells. There are also hematopoietic
+stem cells in this undifferentiated popula-
+tion. Fixed stromal cells (both fibroblastic
+and histiocytic) and T lymphocytes in
+these tissues may exert some regulation
+over hematopoiesis.
+The progenitors of the hematologic
+lineages will generate donal colonies in vitro
+in semisolid media in response to specific
+cytokine combinations (2-4), hence the
+name colony-forming units (CFUs). The
+myeloid lineage contains the CFU-granulo-
+cyte/monocyte (CFU-GM) and the more
+mature progenitors, CFU-granulocyte and
+CFU-monocyte, which produce pure granu-
+locyte or monocyte colonies, respectively
+(5-7). This lineage also contains progenitors
+for CFU-eosinophils or CFU-basophils. The
+erythroid lineage contains the CFU-ery-
+throid, which forms hemoglobinized
+colonies in response to erythropoietin
+(8-10), and the burst-forming unit-ery-
+throid (BFU-E), which produces large, mul-
+tifocal colonies of hemoglobinized cells in
+response to erythropoietin plus cytokines
+with burst-promoting activity (9,11-19).
+The megakaryocytic lineage contains the
+CFU-megakaryocyte (CFU-Mk) (also called
+CFU-Meg) (20-22), which responds to
+many cytokines, including the c-mplligand
+(23-30). By analogy to BFU-E, several labo-
+ratories report a BFU-megakaryocyte, which
+forms large, multifocal colonies (31,32). The
+lymphoid lineages also contain progenitors
+that form clonal colonies of B or T cells
+when stimulated with interleukin(IL)-7 and
+IL-2, respectively (33-35).
+In addition to these lineage-restricted
+progenitors, hematopoietic tissue contains
+immature progenitors that form colonies
+containing multiple myeloid lineages
+(3642). One such progenitor is CFU-gran-
+ulocyte, erythroid, megakaryocyte, and
+monocyte (CFU-GEMM). As the name
+implies, colonies formed by this pluripotent
+progenitor are distinguished by the presence
+ofcellular elements from all ofthese lineages.
+Several CFUs lie close to the hema-
+topoietic stem cell developmentally. The
+high proliferative potential-colony-form-
+ing cell (HPP-CFC) produces a very large
+colony that contains primarily cells with
+a blastlike cytology, a small proportion of
+which will reform a clonal colony after
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998542
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+recloning (43-50). The long-term
+culture-initiating cell (LTC-IC) is a cell
+with multilineage potential found at low fre-
+quency in the marrow, probably positioned
+prior to the HPP-CFC in myelopoiesis
+(51-54). LTC-IC cells exhibit several char-
+acteristics of stem cells, including some
+capability of self-renewal, maintenance
+of both lymphopoiesis and myelopoiesis,
+and long-term reconstitution of a lethally
+irradiated host (55-64).
+Bone Marrow Stroma
+In contrast to the proliferation and
+expansion of tissue mass by hematopoietic
+cells, the primary function of the stroma is
+the nurture and support of developing
+blood cells (52,65-67). However, there is
+a stromal colony-forming unit called CFU-
+fibroblastoid (CFU-f), which produces a
+colony composed of adherent cells exhibit-
+ing morphologic features of fibroblasts,
+adipocytes, and other stromal elements
+(65,68). Although proliferating CFU-f is
+highly sensitive to many bone marrow toxi-
+cants in vitro, it is unclear whether the
+CFU-f is an in vivo target cell of toxicants
+that affect replicating cell types.
+Interactive Cultures of
+Hematopoietic and Stromal Cells
+Cultures of hematopoietic cells combined
+with stromal support cells can be maintained
+for several months in the absence of exoge-
+nously added cytokines by adhering to pre-
+scribed methodology (69-72). These
+so-called Dexter cultures sustain myelopoiesis
+at nearly steady-state levels for several weeks,
+after which time myeloid cell output begins
+to dedine. It is possible to quantitate the out-
+put of progenitors or mature myeloid cells
+over time in these cultures. Likewise, long-
+term marrow cultures called Whidock-Witte
+cultures sustain lymphopoiesis (73-76).
+Modifications of cell culture conditions can
+switch the cultures between lympho- and
+myelopoiesis, making it possible to evaluate
+both lympho- and myelopoiesis from the
+same cell culture (56,77). Because cytokines
+are not added to these cultures, they are
+thought to model closely the steady-state
+hematopoiesis that occurs in vivo. However,
+the progressive dedine in mature cell output
+indicates the need to develop culture
+methodology for maintaining hematopoietic
+tissues in a homeostatic state.
+Multidisciplinary Application
+of in Vitro Hematotoxicology
+A great variety of toxicologic problems
+have been investigated using in vitro assays
+of hematopoiesis. The following examples
+have been selected to illustrate the wide-
+ranging usefulness of in vitro hematotoxi-
+cology. For more detailed discussions about
+study design and interpretation, see several
+recent reviews (1,78-93).
+Toxicity to the Mature
+Blood Cell Compartment
+Toxicity affecting primarily the mature,
+differentiated compartment usually mani-
+fests clinically as rapid-onset cytopenia. An
+example ofthis toxicity is phenylhydrazine-
+induced anemia caused by direct hemolysis
+of erythrocytes (10). However, hemato-
+logic toxicity following xenobiotic exposure
+can also manifest clinically as leukocytosis.
+Eosinophilia associated with exposure to
+IL-2, lithium, or a contaminant in over-
+the-counter preparations of L-tryptophan
+is due to toxicant-induced secretion of
+hematopoietic growth factors from mature
+blood cells (94-101). Xenobiotic-induced
+leukocytosis can also be due to abnormally
+high neutrophil or lymphocyte counts
+(102-105). CFU assays usually do not play
+a critical role in investigating this type of
+xenobiotic toxicity unless it cannot be
+explained by increased cytokine secretion.
+Toxicity to the Progenitor
+Compartment
+The mechanism of hematotoxicity most
+frequently and thoroughly studied in vitro
+is the acute effects of toxicant on marrow
+progenitors like CFU-GM (referred to as
+CFC-c in the older literature) and CFU-
+Mk. Toxicity is quantified from the num-
+ber ofsurviving progenitors as a function of
+exposure level under maximally stimulatory
+cytokine concentrations.
+Substances such as antineoplastics,
+biologic toxins, and ionizing radiation
+(106-116) destroy the rapidly dividing mar-
+row progenitors, and a single exposure can
+result in an acute yet reversible neutropenia
+or thrombocytopenia 4 to 20 days later. A
+rapid repopulation of the progenitor com-
+partment precedes recovery of peripheral
+counts by several days (106,117-124). The
+assumption of in vitro investigations oftoxic-
+ity is accurate recapitulation of the in vivo
+toxicity in the in vitro model. In fact, in vivo
+toxicity to progenitors can be reproduced in
+vitro after direct exposure to pharmacologi-
+cally relevant exposure levels of toxicants
+(78,81,83,84,106,125-136). Clinically
+achievable concentrations of myelosuppres-
+sive anti-human immunodeficiency virus
+nucleosides like azidothymidine (AZT)
+inhibit erythroid and myeloid progenitors
+(137-143) but the dideoxypurines, which
+do not cause anemia or neutropenia, do
+not (144,145). Clonogenic assays have
+also distinguished the relative contribu-
+tion of each component of a multidrug
+regimen to therapy-related agranulocytosis
+(131,132,146,147).
+Drug exposure levels that inhibit colony
+formation by approximately 50% do not
+cause neutropenia clinically (129,148). It is
+likely that the in vitro and in vivo data fail to
+correlate at these mildly toxic levels ofexpo-
+sure because the hyperplastic response ofthe
+marrow can compensate for this magnitude
+of progenitor loss. For example, there may
+not be any hematologic consequence from a
+2-fold reduction in the frequency of CFU-
+GM ifbalanced by a 2-fold increase in mar-
+row cellularity (no net gain in total
+CFU-GM). A direct correlation may exist
+between the decreases in donogenic survival
+and absolute neutrophil counts only when
+toxicant levels cause such a severe lesion in
+the progenitor population that marrow
+hyperplasia cannot compensate.
+In vitro assays can also be used to
+investigate cytopenias caused by noncyto-
+toxic xenobiotics. For example, substances
+that reduce the number of differentiated
+blood cells produced per progenitor would
+be expected to decrease the size ofthe donal
+colonies (the number of cells per colony),
+but not the number of colonies. Colonies
+that resemble CFU-GM colonies but are
+too small are named clusters. Thus, reduced
+CFU-GM colony formation accompanied
+by a shift in the distribution of colony size
+toward dusters argues against destruction of
+the progenitor. Trichothecene mycotoxins
+appear to shift the balance between prolifer-
+ation and differentiation toward the latter
+(113-115). Interferons, the transforming
+growth factor beta (TBF-P) family, and
+tumor necrosis factors inhibit colony
+formation by CFU-GM, CFU-GEMM,
+and HPP-CFC (149-156). Experiments
+with TGF-Ps indicate how subtle yet spe-
+cific these effects on progenitors can be
+(149-151,154-156). The principles of pre-
+dicting the parameters of neutropenia from
+in vitro data have not yet been established
+for this category oftoxicants.
+There is considerable confusion
+regarding a quantitative relationship between
+progenitor toxicity and acute anemia or
+thrombocytopenia. Megakaryocytopoiesis
+involves not only mitosis but also endorepli-
+cation, and it is unclear whether cell-cycle
+dependent toxicants are also endoreplication
+toxicants. For CFU-Mk assays, spontaneous
+colony formation occurs in vitro without
+Environmental Health Perspectives . Vol 106, Supplement 2 * April 1998 543
+R.E. PARCHMENT
+exogenously added cytokines; and colony
+formation is quantified based on a A value,
+i.e., the net increase in colony number due
+to cytokine stimulation. A cytokine-free
+control is included to quantify the number
+of colonies that form independently of
+added cytokine.
+Toxicant-induced anemia is also difficult
+to predict from erythroid progenitor assays.
+Because erythrocytes circulate with a rela-
+tively long half-life, an acute toxicant-
+induced disruption of erythropoiesis is
+probably insufficient to cause anemia. For
+example, dipyrone inhibited not only
+CFU-GEMM and CFU-GM but also
+BFU-E in the presence of serum from a
+patient with drug-induced agranulocytosis
+and thrombocytopenia but not anemia
+(157). Also, ceftazidime is an equally
+potent inhibitor of BFU-E and CFU-GM,
+although it is clinically associated with
+agranulocytosis (158).
+The most difficult hematotoxicity to
+predict with in vitro assays is the progres-
+sive loss of one or more blood cell lineages
+during chronic exposure to a toxicant:
+agranulocytosis, pancytopenia, and aplastic
+anemia. In some cases the toxicity leaves a
+permanent dysfunction, while in other
+cases the toxicity resolves after identifica-
+tion and removal of the toxicant. The dis-
+tinction between irreversible aplasias like
+aplastic anemia and the progressive yet
+usually reversible aplasias like agranulocy-
+tosis is important for proper application of
+in vitro assays. In practice, toxicity may
+not be definable as reversible or irreversible
+if the toxic insult cannot be identified or if
+the degree ofpermanent damage is insuffi-
+cient to cause permanent symptoms. In
+the cases of irreversible marrow damage
+after multiple toxicant exposures, it is often
+impossible to know whether toxicity would
+have occurred after a single exposure.
+Progressive yet reversible xenobiotic-
+induced cytopenia generally indicates a
+direct effect of toxicant or metabolite on
+hematopoietic cell types. CFU-GM levels
+in patients with drug-induced agranulocy-
+tosis are depressed relative to controls
+(91,159-164), and inhibition of myeloid
+and erythroid progenitors is a likely
+mechanism for beta-lactam-induced
+agranulocytosis (158) and contributes to
+phenylhydrazine-induced anemia (10). In
+these cases the in vitro progenitor assays
+correctly identified the mechanism of
+myelosuppression. Hypersensitivity of
+progenitors from susceptible individuals
+to the toxicant or a toxic metabolite can
+be demonstrated with progenitor assays
+(161,165-171). However, other xenobiotics
+(chlorpropamide, phenytoin, methimazole,
+valproate, disopyramide, and phenacetin)
+not only inhibit progenitors directly but
+also induce both cellular and soluble
+immune mechanisms, which inhibit
+hematopoiesis (161,163,172-176). Because
+immune constituents can contribute to
+hematotoxicity, it is important to eliminate
+effector cells when trying to prove a direct
+toxicity of xenobiotic to progenitors in
+vitro (168). Otherwise, the effects of
+inhibitory cytokines released by mature T
+cells and monocytes in response to toxicant
+may be measured instead, which would be
+a toxicity to the mature blood cell com-
+partment rather than the progenitor com-
+partment. Unfortunately, in many cases
+when the immune system contributes to
+hematotoxicity, in vitro studies using mar-
+row from normal donors are not informa-
+tive and in fact are usually inconclusive
+(167,170,177).
+It is encouraging that several laboratories
+arrived independently at similar assay condi-
+tions for quantifying toxicity to hematopoi-
+etic progenitors (1,81-85,178,179).
+Microculture techniques for progenitors are
+also available when xenobiotic is in short
+supply (180).
+Toxicityto Bone MarowStroma
+The microenvironment is a target for
+toxicant injury (90), and assays of stromal
+function have been used to investigate the
+effects of toxicant exposure. Bone marrow
+stroma is more sensitive than hematopoi-
+etic progenitors to the toxicity of acute
+neutron irradiation but less sensitive to
+X rays, and hematopoietic stem cell and
+stromal cell repopulation, but not progeni-
+tor survival, are dependent on dose rate
+(109,112,124,181-184). Long-term bone
+marrow cultures based on Dexter's method
+(69) have been used to investigate the
+agranulocytosis associated with ceftazidime
+and other agents (82,158). In addition,
+the CFU-f is potentially a dose-limiting
+cell type for radiation and some quinones
+of benzo[a]pyrene (183-185). CFU-f is
+the most sensitive progenitor to AZT toxi-
+city, and AZT causes perturbations in
+parameters of long-term bone marrow
+assays at clinically relevant concentrations
+(186). Both conventional and high-dose
+cancer chemotherapies cause permanent
+damage to the marrow microenvironment
+(111,148,187-192). However, clinical
+hematology parameters can recover and even
+normalize in spite of continuing in vitro
+measurements of impaired marrow function
+(148,182, 189-195), casting doubt on the
+power of these in vitro assays to predict
+clinical outcome after chronic exposure.
+Conceptual
+Framework for in Vitro
+Hematotoxicology Studies
+Alternative hematotoxicology has benefited
+tremendously from the progress in experi-
+mental hematology over the past 40 years.
+Recombinant cytokines are available, and
+consequently a number of hematopoietic
+cell types can be assayed. In vitro hemato-
+toxicology differs significantly from other
+alternative toxicologies in that the actual
+target cell of the toxicant can be studied in
+the laboratory. In addition, human expo-
+sure-hematotoxicity relationships are avail-
+able from clinical trials in oncology for
+quantitative correlation with in vitro data.
+Finally, there appears to be little disagree-
+ment over the standardized conditions to
+use for quantitative assays and several labo-
+ratories in this field have reached similar
+conclusions about experimental variables via
+independent studies (1,81,84,85,178,179).
+What Should Be Predicted?
+Clinical hematotoxicity resulting from
+xenobiotic exposure can be described by
+four parameters (Figure 1): severity of the
+change in blood cell counts (cytopenia or
+cytosis), time from exposure to the most
+severe toxicity, duration of the nadir, and
+time required for recovery from the toxic-
+ity (degree of reversibility). These para-
+meters completely describe the clinical
+course and nature of xenobiotic-induced
+cytosis and cytopenia (88). These toxico-
+logic parameters have several important
+characteristics. They are not linked to any
+assumptions about molecular mechanism;
+they are clinical end points measured in
+patients and therefore they constitute the
+in vivo data that in vitro end points must
+predict, and they provide a quantifiable
+description ofxenobiotic effects on human
+blood cell counts.
+Because regulatory agencies must make
+decisions about human PELs even for
+compounds with unknown mechanisms of
+action, it is preferable to have mechanism-
+naive assays, i.e., assays predictive across
+broad mechanistic classes. Molecular mech-
+anism is not trivialized by this approach;
+rather it is admitted that this information is
+not required to regulate the product or treat
+the intoxicated patient. For example, any
+compound that caused reversible thrombo-
+cytopenia of 10 days' duration will be treated
+similarly, whether the xenobiotic disrupted
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998544
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+Parameter 4, time required for recovery
+1-
+Parameter 2, time to nadir
+t.c
+CD
+am
+CO
+---
+/
+assume that the dose-limiting cell compart-
+ment in vivo is the cell type most sensitive
+to the toxicant in vitro.
+It is possible that by identifying the
+dose-limiting progenitor, we may predict
+the time to nadir. For the neutrophil lin-
+eage, this hypothesis postulates that neu-
+.- tropenia due to a lesion in an immature
+neutrophil progenitor population will take
+longer to appear than a lesion in a relative
+late-stage neutrophil progenitor pool. This
+has yet to be proven, however.
+In Vitro Pharmacology
+The in vitro assays are relatively simple to
+_* - *> Parameter 3, duration of cytopena perform and a wealth of data can be gener-
+ated in a short period. In general, the results
+ofthe test will be expressed as the change in
+1 6 11 16 21 26 31 an in vitro end point (Y axis) as a function
+of the level of toxicant exposure (X axis,
+Four independent parameters describe acute hematologic toxicity in vivo. In leukocytosis, the parameters usually in concentration units) using a clin-
+ied to the maximum increase in leukocyte counts, time to the maximum, duration of the maximum, and time ically relevant duration of exposure (Figure
+ry. In vitro hematotoxicology can be focused on the prediction of these four parameters in the human prior to 2A). The next step is to translate this in
+31 human exposure. Initial efforts have focused on validation of in vitro systems for predicting the severity of vitro data into cinical language and predict
+ophil nadir after acute (preferably single dose) exposure. ** indicates the time of acute toxicant exposure. the clinical consequences of toxicant expo-
+sure. However, the way this goal has been
+ransduction or destroyed progenitors. toxicity to all of the cell types in the lineage phrased implies a subtle distinction from
+w mechanism-independent toxicol- but only the in vitro end point from the the conventional purpose of toxicology
+generally useful and advantageous assay of the actual target cell population studies. Traditionally, the question is one of
+ecause it prevents assay proliferation will be the most likely predictor of clinical classification: Is this compound a hemato-
+me, in which a new assay must be cre- toxicity. Given data from assays of mature toxicant? However, it seems reasonable to
+r each mechanistic dass that must be blood cell lysis and dysfunction, progenitor assume that any toxicant will be a hemato-
+ed, and because it can contribute to survival and function, and stem cell and toxicant if the other tissues of the body can
+ulation of new products with poorly stromal cell function, how does one predict tolerate high enough exposure levels.
+tood mechanisms ofaction. what will be the clinical manifestation of Certainly there will be compounds that
+e goal of in vitro hematotoxicology is toxicant exposure? inhibit CFU-GM in vitro but do not cause
+diction of these four parameters (in It is a well-established principle of in neutropenia, because exposure levels never
+Id points) from end points obtained vivo toxicology that the adverse effects of reach a high enough level: for example, the
+ssays of human hematopoietic func- exposure are determined by the most sensi- nonmyelosuppressive nucleoside analog
+ter in vitro exposure to the toxicant tive of the exposed tissues. The most sensi- dideoxycytidine is in fact toxic to CFU-Mk
+). Different in vitro end points, and tive tissue is called the dose-limiting tissue, and CFU-GEMM in vitro (116,144,145).
+ps even different hematopoietic and in vitro toxicology must predict the Because toxicologic experience lends credi-
+may be required to predict each in ramifications of exposure in this tissue to bility to this assumption, the practice of
+trameter. Most studies focus on the predict clinical toxicity. By analogy, the classifying chemicals as hematotoxicants
+:ion ofthe severity ofthe nadir. manifestations of toxicant exposure in the should be abandoned.
+the Concept
+dose-limiting tissue must be determined by If classification is to be abandoned,
+ling the Conc4~ept its most sensitive cell compartment, which what prediction should replace it? We have
+se-Lmiting Tissue we have called the dose-limiting cell type attempted to answer this question during
+tose-I.fltflg Celi Type (88). This analogy is helpful in the inter- the past 7 years. The PELs for most regu-
+any hematologic lineage there are a pretation of in vitro data when a toxicant is lated products are based on the NOAEL
+r ofpotential target cells for the toxi- evaluated on the entire spectrum of cell dose, whereas antineoplastics are regulated
+he mature cell compartment in the types that constitute a hematopoietic lin- based on the MTD. We have come to
+tream, the progenitors in the marrow eage. For example, the nature of the neu- understand that the most useful in vitro end
+lake these blood cells, and the sup- tropenia caused by a toxicant will be points are those that predict the level ofsys-
+g cells in the hematopoietic tissues determined in large part by whether temic exposure to toxicants at these two
+gulate blood cell production. Most of mature neutrophils, immature neutrophils, doses of regulatory significance. Hence, the
+-an be assessed for toxicity in vitro myeloid progenitors, stem cells, or purpose of in vitro hematotoxicology is to
+is important to determine which is myelopoietic support cells are the in vivo predict the toxicant exposure levels associ-
+ual target cell of the toxicant in vivo. target of the xenobiotic. Until more is ated with the MTD and the NOAEL doses.
+especially important because many understood from attempts at in vitro-in We have termed the predictive in vitro end
+its may show some degree of in vitro vivo correlations, it seems reasonable to points for these two exposure levels the
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998
+175-
+150-
+o 125
+x
+C 75
+p
+C.Rco
+~00
+-0 50
+-° 25-a
+Figure 1.
+are modif
+to recover
+any actua
+the neutrn
+signal ti
+We vie
+ogy as
+both b
+syndror
+ated foi
+regulatu
+the reg
+underst
+The
+the pre
+vivo en
+from aw
+tion af
+(84,88
+perhaf
+assays,
+vivo pa
+predict
+Extens
+ofDos
+to a D
+Within
+numbe
+cant: tl
+bloodsi
+that m
+portini
+that ref
+these c
+and it
+the act
+This is
+toxican
+545
+R.E. PARCHMENT
+A
+100-
+75-
+50-
+251
+u
+Log toxicant exposure
+B
+0
+C.h
+0
+g 50o-
+C.)
+go, 75~
+cc
+E
+°- 25-
+0
+0 0
+C-)
+Plasma AUC at NOAEL M???)
+Plag
+rather we should assume that they could,
+and determine the AUC at the NOAEL
+Shortexposuretime and MTD for the neutrophil lineage
+(Figure 2B).
+This understanding clarified how to
+determine if the CFU-GM assay could be
+validated for predicting neutropenia and
+Long exposure time used in the regulatory setting (88). We con-
+centrated exclusively on this hematotoxicity
+2 because the relationship between progenitor
+e.g.AUC numbers and peripheral blood cell counts ise.g., simpler for neutropenia than for anemia or
+thrombocytopenia. Furthermore, to identify
+the principles and concepts to include in
+dinical prediction models, we restricted our
+initial studies to the simplest oftoxicity, the
+reversible neutropenia caused by an acute
+toxicant exposure. This rationale also
+focused the ECVAM validation study in
+hematotoxicology on the prediction of
+neutropenia (1).
+sma AUC at MTD
+1 2
+Log toxicant exposure, e.g., AUC
+Figure 2. (A) Typical in vitro hematotoxicology data
+relating the decrease in a hematopoietic end point as a
+function of toxicant exposure in units of concentration,
+AUC, or whatever pharmacologic parameter of exposure
+is most closely linked to inhibition. The data shown here
+reflect the differential toxicity between a brief and long
+duration of exposure commonly observed with cell cycle-
+dependent toxicants. (B) In vitro toxicology attempts to
+relate a cell culture end point to a regulatory end point
+such as the NOAEL or the MTD. In vitro systems relate
+changes in end points to concentration-based measure-
+ments, and the estimation of dose relies on estimates of
+pharmacokinetic parameters. Several lines of evidence
+point to the AUC that inhibits CFU-GM by 90% (e.g., the
+AUC at IC90) as the predictive end point for the plasma
+AUC that will cause grade 4 neutropenia at the MTD
+(Table 1). The in vitro end point that predicts the AUC at
+the NOAEL has not been determined.
+MTC and NOAEC, respectively. This is
+analogous to the determination of the no
+effect and maximum tolerated doses in vivo,
+except that in vitro systems use concentration
+units instead.
+For many hematotoxic compounds the
+severity oftoxicity is related to a pharmaco-
+logic measure of exposure called the area
+under the plasma concentration versus time
+curve (AUC). Thus, the hypothesis of in
+vitro hematotoxicology is that the in vitro
+AUCs at the MTC and the NOAEC are
+identical to the plasma AUCs at the MTD
+and the NOAEL, respectively. This strategy
+shifts the emphasis of the in vitro study to
+end points that lie on the X axis, not the Y
+axis. We should not try to predict whether
+compounds inhibit neutrophil production:
+Pedicting Toxicant Exposure
+(PlasmadAUC)at te MTD
+from in Vitro Data
+Because of our interest in the clinical
+development of antineoplastic agents and
+its regulation, most of our in vitro-in vivo
+correlation studies have focused on the
+identification of the in vitro end point that
+is the MTC (Table 1). A quantitative study
+of pyrazoloacridine found close correlation
+between inhibition of in vitro colony for-
+mation and the grade of neutropenia in
+vivo (129). In this study, the AUC that
+caused grade 3 to 4 neutropenia in humans
+inhibited in vitro colony formation of
+human CFU-GM by 90%. The result sug-
+gested that the 90% inhibition concentra-
+tion (IC90) from the human CFU-GM
+assay was the MTC when this progenitor
+is dose limiting. This conclusion was con-
+firmed and extended in the mouse by
+showing that the AUC at the IC90 from
+the murine CFU-GM assay was associated
+with a 90% reduction not only in absolute
+neutrophil count but also marrow CFU-
+GM (R Parchment, unpublished data).
+Subsequently, the IC90 was the in vitro
+end point that predicted the differential
+between human and mouse MTD for the
+topoisomerase I inhibitor topotecan,
+whereas other IC end points failed to pre-
+dict the MTD differential from the
+nonparallel human and mouse concentra-
+tion-toxicity curves. Preliminary results
+show that the IC90 ratio correlates to the
+MTD ratio for seven of seven tested drugs.
+Current studies are examining whether the
+IC90 is the MTC for other progenitor
+compartments and for antineoplastic
+agents with other mechanisms of action. It
+is possible that a 90% reduction in content
+might not be tolerated in other progenitor
+compartments, while confirmation of this
+putative MTC for CFU-GM and addi-
+tional toxicants will help clarify prediction
+models and gain regulatory acceptance.
+Based in part on these studies, the ECVAM
+validation study of the CFU-GM assay will
+attempt to validate the IC90 as the MTC
+from which the plasma AUC at MTD can
+be predicted for xenobiotics associated with
+dose-limiting neutropenia (1).
+PrdictingToxicant Exposure (AUC)
+at the NOAEL from in VitroData
+Although the NOAEL is used much more
+frequently than the MTD as the basis for
+setting PELs for regulated products, there is
+a lack ofunderstanding about the maximum
+degree of loss of progenitors that does not
+result in clinical neutropenia. This issue
+directly relates to our understanding of the
+resilience of hematopoietic tissue to toxic
+insult and the compensatory mechanisms,
+such as marrow hyperplasia, that can over-
+come mild reductions in progenitor survival.
+For example, a 50% reduction in CFU-GM
+survival coupled to a 2-fold increase in mar-
+row cellularity would not result in any net
+loss ofneutrophil progenitors. During our in
+vitro-in vivo correlation study in the Phase I
+trial of 9-methoxypyrazoloacridine (129),
+the greatest plasma AUC that did not cause
+neutropenia inhibited human CFU-GM by
+35%. Although circumstantial, these results
+suggest that the IC35 may be the NOAEC,
+i.e., the end point from which the AUC at
+NOAEL can be predicted. Unfortunately,
+the minimum number of progenitors
+required to maintain normal peripheral
+blood cell counts in vivo has not yet been
+determined for any myeloid lineage in any
+species. Until the IC35 is established as the in
+vitro NOAEC, the ICo or perhaps IC05
+should be used to estimate the NOAEL in
+vivo (1). Obviously, there is a pressing
+research need to determine the exact rela-
+tionship between progenitor numbers and
+peripheral blood cell counts in each of the
+myeloid lineages and then identify the most
+predictive IC value to use for each level of
+myelosuppression in vivo. We are currently
+examining other compounds to determine if
+the IC35 consistently predicts the AUC at
+the NOAEL.
+The Critical Importance ofIdentifying
+the MTC and the NOAEC
+Knowing the NOAEC and the MTC
+simplifies what otherwise would be very
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998
+0
+C.)
+0
+cc
+E
+0
+cD
+0
+C-,
+n
+1
+546
+7.
+-
+/ .& -1
+K_
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+Table 1. Identification of the IC90 as the MTC in CFU-GM assays.
+Toxicant Species Evidence Reference
+9-Methoxypyrazoloacidine Human In vitro-in vivo correlation with ANC Parchment et al. ( 129)
+Mouse Intentional exposure at IAUC90 produced Parchment et al. (129)
+85% reduction in ANC
+Topotecan Human and mouse Nine-fold differential for both MTD and IC90, Erickson-Miller et al. (219)
+but not for IC50
+Flavopiridol Human and rat Rat more sensitive than human at IC90, J Tomaszewski (unpublished data)
+but more resistant at IC50, and rat MTD
+lower than human MTD
+Fludarabine, fazarabine, Multiple species IC90 ratios and MTD ratios correlate J Tomaszewski (unpublished data)
+camptothecins, amonafide
+Abbreviations: ANC, absolute neutrophil count; IAUC90, AUC at the IC90. The toxicants are antineoplastic agents that cause myelosuppression; these are useful test com-
+pounds because neutropenia is an acceptable risk of human exposure.
+complicated data interpretation (87,88).
+For example, it is common practice to
+compare a new compound with a reference
+compound of known hematotoxicity in
+vitro. Suppose one obtains data from such a
+study that shows a crossing of the concen-
+tration-response curves and it cannot be
+explained by differential chemical stability
+(Figure 3). From these data, can one pre-
+dict whether humans can tolerate higher,
+the same, or lower levels of the investiga-
+tional compound than the reference com-
+pound? In other words, should the PEL be
+higher or lower than the reference com-
+pound? If one knows that the IC90 is the
+MTC and that grade 3 to 4 neutropenia is
+an acceptable risk of human exposure (e.g.,
+a cancer drug), then clearly the tolerated
+AUC is higher for the investigational prod-
+uct than for the reference compound.
+Assuming equivalent pharmacokinetics, the
+PEL can then be set higher for the new
+product than for the reference product. In
+contrast, if the IC35 is the NOAEC and
+neutropenia is not an acceptable conse-
+quence of exposure to this product, the
+opposite conclusion would be reached. The
+PEL for the investigational product should
+be set lower than the reference product
+because its IC35 is lower. This theoretical
+example illustrates how the interpretation
+ofthe in vitro data depends on the intended
+use of the product. For one use the PEL
+can be higher, whereas for another use it
+must be lower. This example also suggests
+how to choose a least hematotoxic analog
+from in vitro data when the analogs do not
+exhibit parallel curves. The least toxic ana-
+log is that with the least inhibition in an
+appropriate in vitro assay at the end point
+most relevant to the product's intended use.
+Such data would be impossible to interpret
+without these X-axis concepts.
+The identical issue arises when using in
+vitro hematotoxicology to directly compare
+human toxicant sensitivity to that of the
+preclinical animal species in which the
+product is tested in vivo. In this case, the
+question is whether the preclinical toxicol-
+ogy species under- or overestimates human
+PELs for myelosuppressive compounds. If
+the direct comparison results in parallel
+curves (Figure 4A) then this question is eas-
+ily answered. The human:animal ratio at
+any IC value will provide an estimate ofthe
+difference in tolerance of the compound;
+and, because the IC50 is the most accurately
+determined point on these curves, the IC50
+ratios should be used. However, consider
+the more typical case of nonparallel curves
+across species (Figure 4B). Without know-
+ing which IC values to compare, it would
+be difficult to interpret these data and pre-
+dict human tolerance. However, a compari-
+son of the IC90 end point across species
+shows that humans can tolerate more than
+100
+=
+0
+ci
+0L)
+._
+a,
+=c
+Co
+E
+0
+c
+0
+C-
+-1
+dogs but less than rodents. Assuming there
+are no pharmacokinetic differences across
+species, the MTD differential will be pro-
+portional to the IC9o differential. In con-
+trast, if neutropenia is an unacceptable risk
+of exposure, the NOAEC will be used for
+comparison. Assuming the IC35 is the
+NOAEC, one would predict that the
+human PEL could be set higher than the
+rodent PEL by an amount proportional to
+the in vitro differential in the NOAECs.
+Clinical Prediction Models
+for Prospective Evaluation
+andValidation Trials
+Several prediction models have been
+developed that use the MTC and the
+NOAEC as predictive in vitro end points
+for the plasma AUC at the MTD and the
+NOAEL, respectively. From this estimate
+and knowledge ofhuman pharmacokinetics
+- - U- -- Investigational product
+0 Reference toxicant
+1 2
+Log, exposure parameter
+3 4
+Figure 3. Differences between the test article and the reference compound depend on the level of inhibition at
+which the comparison is made. Knowing which in vitro end points are the NOAEC and the MTC makes it possible
+to interpret such in vitro hematotoxicology results. Note that the NOAEC is lower for the new product than the ref-
+erence toxicant; in contrast, its MTC is higher. This interpretation assumes neutropenia is the dose limiting toxicity
+for both compounds.
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 547
+R.E. PARCHMENT
+1 2
+Log, exposure parameter
+0 1 2 3
+Log, exposure parameter
+Figure 4. (A) In the ideal situation, comparative toxicology data across species will map to parallel curves so that dif-
+ferentials in toxicant tolerance can be based on the IC50 values for two reasons: the ratio of any IC value will be the
+same and the IC50 is the most accurate point using conventional curve fitting methods. (B) In many cases data from
+multiple species must be compared across nonparallel curves that may even cross each other over the tested concen-
+tration range. In this case, knowing which in vitro end points are the NOAEC and the MTC is critical for data interpre-
+tation and clinical prediction. For example, these data predict that the MTD will be higher in rats, humans, and then
+dogs, assuming neutropenia is the dose-limiting toxicity and the IC90 is the MTC. In contrast, the data predict that the
+NOAEL will be highest in humans, followed by dogs and then rats, assuming the IC35 is the NOAEC.
+and plasma protein drug binding, the doses
+that achieve these AUCs in the plasma of
+exposed humans can be determined.
+However, the models can only be applied
+to compounds that are expected to show
+dose-limiting neutropenia. This is a critical
+assumption for in vitro hematotoxicology,
+and in vivo toxicology studies must indicate
+that neutrophil precursors are the dose-lim-
+iting target. If the dose-limiting toxicity of
+the investigational product was e.g., car-
+diotoxicity, determination of AUC at the
+MTC for CFU-GM would overestimate
+human tolerance and jeopardize patient
+safety. Some studies have used the 1C70
+instead of the 1C90 as the MTC, and these
+two end points will be compared during
+some of the ongoing studies. The IC70 may
+be more appropriate when estimating PELs
+for products that will be used in patients
+with impaired marrow function.
+Prospective evaluation of these models will
+be critical in gaining acceptance, and Phase
+I clinical trials (dose-escalation trials) of
+antineoplastic agents provide an excellent
+opportunity for such an evaluation. The
+following models focus on the prediction of
+MTD; prediction of the NOAEL would
+simply substitute the IC35 or other
+NOAEC end point for the 1C90.
+Prediction Model 1 is the simplist
+model. It can be used if human pharmaco-
+kinetic parameters are unknown or cannot
+be determined. Model 1 has the greatest
+level of uncertainty because it incorporates
+only pharmacodynamics. It is based on the
+idea that neutrophil progenitors can serve as
+a sentinel tissue for interspecies compar-
+isons. Large interspecies differences in toxi-
+cant disposition (AUC as a function of
+dose) could lead to significant errors in the
+predicted MTD. Step 1: determine the
+MTD in an animal model; step 2: deter-
+mine the toxicity differential between the
+animal and human dose-limiting progenitor
+based on IC90 values; step 3: adjust the ani-
+mal MTD for the IC90 differential; and step
+4: adjust the MTD again for differences in
+free drug concentration between the animal
+and human (e.g., protein binding).
+Prediction Model 2 can be used when
+the AUC cannot be measured at the IC90
+for the human progenitor but human phar-
+macokinetic parameters are known or can
+be predicted. This model assumes the mar-
+row toxicant causes an AUC-dependent
+cytotoxicity. The model adjusts the plasma
+AUC at the MTD in the animal studies for
+species differentials in drug tolerance and
+plasma protein drug binding. Step 1: deter-
+mine the plasma AUC at the MTD in an
+animal model; step 2: determine the toxic-
+ity differential between the animal and
+human dose-limiting progenitor based on
+IC90 values; step 3: adjust the animal-
+derived plasma AUC by the 1C90 differen-
+tial; step 4: adjust the plasma AUC for
+differences in free drug concentration
+between species; and step 5: using human
+pharmacokinetic parameters or estimated
+parameters, calculate the dose that gives the
+predicted AUC.
+Prediction Model 3 aims to predict the
+actual human MTD for the neutrophil
+lineage. It should be the most accurate
+prediction model because it incorporates
+both human pharmacodynamics and
+pharmacokinetics. Step 1: identify the
+most sensitive neutrophil progenitor in
+human bone marrow; step 2: determine
+the IC90 for the dose-limiting human
+progenitor; step 3: derive the in vitro AUC
+at the IC90 by integrating the Cx t curve;
+step 4: translate the in vitro AUC into in
+vivo terms by adjusting for differences in
+free concentration under the two condi-
+tions of exposure (e.g., protein binding);
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998
+A
+a,
+E
+4-,
+a,
+0
+aJ
+cc
+E
+0
+0
+-
+W
+C.)
+J,
+s
+0-
+0
+L)
+B
+548
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+and step 5: using human pharmacokinetic
+parameters or estimated parameters, calcu-
+late the dose that gives the predicted AUC.
+Summary
+Although our knowledge of how to use
+in vitro hematotoxicity data is in its
+infancy, these examples illustrate the
+progress that has been made by assessing
+exactly what end point is needed, i.e., what
+clinical end point should be predicted. The
+realization that X-axis rather than Y-axis
+end points are required for prediction was
+in a sense a breakthrough that has made it
+possible to propose clinical prediction
+models for prospective evaluation and vali-
+dation (1,88,129). A second important
+breakthrough was our realization that pre-
+dicting neutropenia actually involves the
+prediction of four independent parameters
+that, when taken together, describe clinical
+neutropenia: severity at nadir, time to
+nadir, duration ofnadir, and time to recov-
+ery (84,88). Progress to date has been
+exclusively in the prediction of the severity
+ofneutropenia (88,129). We are not aware
+that any progress that has been made in
+predicting the other parameters from in
+vitro data. Therefore, assays for CFU-GM
+and other granulocyte progenitors can be
+considered useful for investigating the cel-
+lular mechanism underlying the severity of
+reversible neutropenia and for determining
+the level of toxicant exposure that will be
+associated with grade 3 to 4 neutropenia.
+The investigation of the other parameters
+of neutropenia with in vitro assays should
+be considered exploratory research rather
+than established testing methodology.
+Detailed Planning of in Vitro
+Hematotoxicology Studies
+This section briefly covers some of the
+details that must be addressed when plan-
+ning an in vitro hematotoxicology study
+(84,87,88).
+Analytical Chemistry
+There is substantial variability in the
+stability of different products under the
+conditions of the in vitro bone marrow
+assay, and subtle changes in the culture
+conditions can dramatically alter in vitro
+bioavailability. For example, many camp-
+tothecins show large differences in stabil-
+ity as a function ofthe species from which
+the culture medium serum or albumin is
+derived (196-200). These data show that
+one cannot assume that chemically related
+compounds have identical protein bind-
+ing or stability in vitro and in vivo
+(84,88). In addition, some toxicants bind
+extensively to the cell culture containers
+(201). Therefore, the absolute Cxt curve
+of a test substance at the MTC and the
+NOAEC under the conditions of the
+bone marrow assay must be determined
+chemically to determine the AUC.
+Chemical analysis also provides dose con-
+firmation. Highly misleading results can
+be obtained when comparing two com-
+pounds, one of which is chemically stable
+and the other unstable, or one that is
+highly soluble versus one that is partially
+soluble. Unstable compounds and poorly
+soluble compounds will appear less toxic
+than equally potent stable or soluble com-
+pounds simply because the former have
+lower in vitro bioavailability than the lat-
+ter. Concluding from in vitro data that a
+compound is relatively nontoxic, when in
+fact the data reflect an artifactual rapid
+decomposition of compound in the cul-
+ture medium, could cause serious under-
+estimation of clinical hematotoxicity.
+Thus, colony inhibition data must be
+accompanied by sound analytical data
+before one can make clinical predictions,
+and analyte quantitation is an important
+aspect of the ECVAM validation study of
+the CFU-GM assay (1).
+Duraton ofExposure
+In vitro data should be obtained not only
+for relevant concentrations but also for rel-
+evant durations of exposure. The duration
+of in vitro exposure to each test substance
+should mimic as closely as possible the
+duration of in vivo exposure. For example,
+if in vivo exposure is multiday, brief in
+vitro exposures are unnecessary. Likewise, if
+the substance rapidly decomposes in vitro
+then only brief in vitro exposures should be
+used. In fact, prolonged in vitro exposures
+to unstable compounds expose the cells to
+potentially myelotoxic breakdown products
+that may not be present in vivo. The effects
+of decomposition on perceived toxicity
+become magnified as the time of com-
+pound exposure becomes much larger than
+the time ofdecomposition.
+When toxicant exposure is brief, it must
+be decided whether to preexpose the
+hematopoietic cells to cytokine, stimulating
+their entry into the cell cycle, or to expose
+the hematopoietic cells immediately after
+isolation from the human tissue source.
+Toxicants that show cell cycle-dependent
+toxicity would be expected to show signifi-
+cant differences in toxicity between the two
+conditions. This is an important question of
+experimental design that needs exploration.
+Endogenous (Naturally Occurrin)
+Antagonists and Protein Binding
+ofToxicants
+For maximized correlation between in vitro
+and in vivo data, the in vitro assays must
+take into account physiologic levels of
+endogenous biochemicals that influence the
+toxicity of the test compound. Obvious
+examples ofendogenous antagonists include
+pyrimidines and purines and their nucleo-
+sides for toxicants that target nucleoside
+and nucleic acid metabolism, and glu-
+tathione and other nucleophiles for alkylat-
+ing agents. There are also cotoxicants such
+as molecular oxygen for free-radical gener-
+ating compounds. The concentrations of
+both antagonist and cotoxicants must be as
+close as possible to in vivo levels.
+The plasma proteins that bind
+xenobiotics (albumin, a1-acid glycoprotein)
+are another class of substances endogenous
+to both the in vitro and in vivo testing envi-
+ronments that introduce another source of
+error during interpretation of in vitro data.
+One cannot assume that a particular com-
+pound will behave identically in plasma
+from different species (such as from humans
+in vivo but from bovine or equine sources
+for in vitro assays), and the problem is espe-
+cially significant for compounds that circu-
+late tightly bound to carrier proteins. The
+levels of these proteins in the culture
+medium can dramatically affect the appar-
+ent potency ofthe test substance via changes
+in free (unbound) concentration of the
+actual toxicant (84,88,196-203). However,
+it is not necessary to add specific plasma
+proteins to the culture medium for in vitro
+hematotoxicity assays because results can be
+corrected for plasma protein binding mea-
+sured in other simpler in vitro systems (1).
+It is best to compare several toxicants under
+identical culture conditions to learn about
+intrinsic differences in end-organ sensitivity
+and then correct the in vitro data for differ-
+ences in protein binding determined in
+other assays. To facilitate in vivo extrapola-
+tion of in vitro data, the concentration-inhi-
+bition curve from bone marrow assays
+should express percent of inhibition as a
+function of free concentration ofxenobiotic
+in the medium rather than total concentra-
+tion. From these curves plus measurements
+of free versus total concentrations in human
+or animal plasma, it is possible to make
+in vivo predictions from in vitro data.
+Protoxicants and Metabolic
+Activation
+Although many toxicants are inactivated
+by metabolism, some compounds are
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 549
+R.E. PARCHMENT
+metabolized to toxic species. Human bone
+marrow stroma contains cytochrome P450s
+(CYP450s) that can bioactivate several tox-
+icants, including polycyclic aromatic
+hydrocarbons, benzene, and cyclophos-
+phamide (92,204-210). However, the
+metabolic capacity ofthe marrow stroma is
+small compared to liver, and it cannot pro-
+duce sufficient levels of metabolite to reli-
+ably detect toxicity in the in vitro assays
+(1,92). Several in vitro systems are available
+for producing human CYP450 metabo-
+lites: liver microsomes, liver slices, hepato-
+cytes, and transgenic cell lines expressing
+particular CYP450 isozymes. Hepatocytes
+or transgenic cell lines expressing specific
+CYP450s can be cocultured in the in vitro
+assays as a physically separate cell layer
+(92). Alternatively, stable metabolites can
+be isolated and evaluated individually in
+the in vitro assays.
+The ECVAM validation study addresses
+several issues related to the selection of
+metabolizing systems and the in vitro study
+of protoxicants (1). S-9 fractions, dog liver
+microsomes, and rat liver microsomes are
+commonly used to produce metabolites.
+However, analysis of putative hematotoxic
+metabolites should use species-specific
+sources of metabolizing enzymes, i.e.,
+human microsomes on human bone mar-
+row or rat microsomes on rat marrow,
+because of the potential for interspecies dif-
+ferences in bioactivation (e.g., iododoxoru-
+bicin (211)]. Xenogeneic combinations are
+sometimes warranted to prove the species-
+specific nature of certain toxicology prob-
+lems or the lack of relevance of animal
+toxicology findings to humans. In addition,
+to exclude any contribution of metabolites
+to hematotoxicity, they should be tested by
+coexposure with the parent compound to
+identify any synergism or antagonism that
+might affect hematotoxicity.
+Sources ofHuman
+Hematopoietic Cells
+Mononuclear cells and subpopulations like
+CD34+ cells can be isolated from various
+sources: remnant marrow from femur or
+rib after surgeries, iliac crest aspirates from
+volunteers, umbilical cord blood, and
+peripheral blood leukocyte preparations
+(31,32,39,48,53,64,70,117,150,155,178,
+179,212-216). Bone marrow-derived prog-
+enitors might be the most applicable to
+human toxicology, but cord blood-derived
+cells are more readily available for research
+in many countries. Pharmacologic differ-
+ences, if they exist, between hematopoietic
+cells in adults versus cord blood may be
+most pronounced after exposure to cell
+cycle-dependent toxicants because these
+populations of cells show substantial differ-
+ences in cell cycle status after isolation
+(217). One study that directly compared
+the chemosensitivity ofhuman marrow and
+cord blood CFU-GM did not find any dif-
+ferences (218). In contrast, there are differ-
+ences between marrow and cord blood
+progenitors and between mobilized and sta-
+tionary progenitors in terms of autocrine
+cytokine stimulation, cell cycle status, and
+susceptibility to cytomegalovirus toxicity
+(150,217). Differences in cell cycle status
+between cord blood and bone marrow
+hematopoietic cells accentuate the need to
+determine whether preexposure to cytokines
+to stimulate entry into the cell cycle affects
+the predictive accuracy of in vitro models
+that use short duration ofexposure.
+Thoughts on the Immediate
+Future of in Vitro
+Hematotoxicology
+Staying Currentwith
+Experimental Hematology
+Experimental hematology is identifying
+hematopoietic cell types faster than toxicol-
+ogists can determine if they are targets of
+toxicants. It cannot be assumed a priori
+that any progenitor is a target of hemato-
+toxicants, but one cannot afford to assume
+that newly identified cell types are not tar-
+gets and then be wrong. An efficient strat-
+egy to determine which of these cell types
+are targets is simply to determine which
+ones show altered levels in toxicant-
+exposed animals or patients with a time
+course that is consistent with a direct toxi-
+cant effect. Furthermore, a new progenitor
+population in a preclinical species that is a
+bona fide toxicant target but is not found
+in human marrow would create a serious
+toxicologic problem.
+If mechanism-naive assays are
+advantageous in regulatory science, it is
+important to work toward the replacement
+of clonogenic assays with new assays that
+measure the rate of production of mature
+blood cells by hematopoietic tissues rather
+than by survival of progenitors. Kinetic
+measurements of cell output by toxicant-
+exposed progenitors would offer some
+advantages over clonogenic assays. First, the
+capability of the marrow to compensate for
+the loss of up to 30 to 40% of its progeni-
+tors via a hyperplastic response would be
+detectable. Second, initial rates of mature
+cell output by the exposed progenitor pop-
+ulation could be analyzed sooner than
+colony formation (3-4 days vs 14 days), so
+efficiency and through-put would be
+increased. Third, assays that could quantify
+toxicant effects on the kinetics of mature
+cell production have the capability of
+detecting myelosuppression regardless of
+whether it is caused by cytotoxicity. Such
+an effect would be hard to detect and
+quantify using clonogenic assays (smaller
+colonies but no reduction in their number).
+Nuanca in Daa Interpretaion
+Colony-forming assays contain additional
+information to colony size. One ofthese was
+discussed above: the toxicant that causes
+smaller colonies but does not decrease their
+number. Consider this question: Ifthe result
+of compound exposure is to inhibit the
+development of the erythroid component in
+CFU-GEMM colonies, should this be
+scored as inhibition ofCFU-GEMM (which
+it probably is not) or as inhibition ofan early
+erythroid progenitor generated by the CFU-
+GEMM? If the latter, would percent inhibi-
+tion of BFU-E give the same estimate of
+myelotoxicity as the percent reduction in the
+CFU-GEMM that contains erythroid ele-
+ments? In the design of studies to evaluate
+these toxicants, it may be important to limit
+the duration ofexposure to only a few hours
+so that lineage-restricted progeny generated
+by surviving CFU-GEMM are not exposed
+to toxicant. Prolonged exposures would con-
+fuse toxicity to CFU-GEMM with toxicity
+to the progeny ofCFU-GEMM.
+Predicting the NOAEL raises the issue
+of the definition of NOAEL. Should the
+NOAEL be defined only by a lack of
+clinical symptoms and pathologic changes
+or should it indicate a lack of cellular and
+molecular changes as well? Defining the
+NOAEL with ever more sensitive end
+points, from tissue to cell to molecular
+levels, does not account for the compen-
+satory mechanisms that may provide for
+continued health in spite of constant
+exposure to xenobiotics. Should PELs for
+a xenobiotic be based on altered gene
+expression in the absence of any adverse
+clinical effects? Rather, should it be con-
+cluded that the indicator gene, although a
+marker of exposure, must have some
+threshold yet to be exceeded and that the
+change does not indicate risk? The defini-
+tion ofNOAEL is important in regulatory
+science, especially as technology becomes
+more sensitive at detecting minute changes
+and more facile at expedited quests for
+effects. These issues must be integrated
+into validation studies of the NOAEC for
+predicting the human NOAEL.
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998550
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+Recommendations
+for Research Support
+Federal agencies can take the lead in
+accomplishing the following goals that will
+promote the validation, clinical accep-
+tance, and regulatory usefulness of in vitro
+hematotoxicology:
+* After the ECVAM study (1) validates
+the human CFU-GM assay for predict-
+ing the toxicant exposure level that
+causes grade 3 to 4 neutropenia, exam-
+ine assays for the differentiated spectrum
+of myeloid progenitors in the marrow
+for predicting time to neutrophil nadir.
+* Fund an evaluation of possible in vitro
+assays and end points to predict the
+duration of the neutrophil nadir and/or
+the time to neutrophil recovery.
+Currently, it is much easier to investigate
+marrow toxicity than marrow recovery.
+For example, there are no in vitro assays
+for predicting the clinical efficacy of
+cytokines used to stimulate hematopoi-
+etic recovery. Research is needed to
+know how to predict time to recovery,
+which is likely related to predicting
+irreversible hematotoxicity as well.
+* Coordinate regulatory- and industry-
+based surveys of human bone marrow
+and cord blood uses and needs for in
+vitro hematotoxicology and propose
+solutions to obstacles that currently
+limit the use ofhuman bone marrow in
+these assays, which is the actual human
+target tissue.
+* Identify the NOAEC end point in the
+CFU-GM assay and prove that CFU-
+GM but not neutrophil counts
+decrease by this amount in vivo at this
+exposure level.
+* Fund veterinary and clinical research to
+identify what progenitor stage(s) in the
+platelet and red blood cell lineages fluc-
+tuates in concert with peripheral blood
+platelet and erythrocyte levels.
+* Fund an evaluation of all newly identi-
+fied hematopoietic cell types defined by
+in vitro assays and determine ifacute in
+vivo exposure to hematotoxic xenobi-
+otics causes a decrease in their bone
+marrow levels, i.e., whether these newly
+identified cell populations are frequent
+targets for xenobiotics or not.
+* Fund research into the replacement of
+clonogenic assays with new in vitro assays
+that quantify the rate of production of
+mature blood cells by toxicant-exposed
+hematopoietic cells.
+Significance ofin Vitro
+Hematotoxicology for Other
+Alternative Toxicologies
+There are substantial ethical, political,
+financial, and regulatory pressures to
+replace and refine animal toxicology with
+alternative assays. Studies of the toxicant
+on its actual human target tissues would
+seem to be the best alternative. In vitro
+hematotoxicology does this, and as a result
+shows much promise for predicting clinical
+hematotoxicity, especially neutropenia
+caused by acute exposures. It provides an
+opportunity to obtain human toxicology
+and pharmacology information in the labo-
+ratory setting and an experimental basis for
+selecting an animal model for investigating
+clinical hematotoxicity.
+The in vitro assays ofxenobiotic effects
+on human hematopoiesis can be viewed as
+prototypes of future in vitro toxicology
+assays that will reveal concepts and princi-
+ples ofclinical prediction. The hierarchical
+structure of stem cells and progenitors in
+the hematopoietic system likely reflects
+similar hierarchies in other renewing tis-
+sues of the body, such as the gastrointesti-
+nal mucosa. The emerging principles for
+prediction described in this paper will be
+applicable to toxicity in these other renew-
+ing tissues once clonogenic assays for
+epithelial progenitors are developed and
+the colony-stimulating factors are avail-
+able. However, it seems unlikely that what
+is learned in predicting hematologic toxic-
+ity will be ofmuch help in predicting toxi-
+city to nonproliferative tissues such as the
+nervous system; other end points and prin-
+ciples of clinical prediction will be needed
+for these more troublesome toxicities.
+REFERENCES AND NOTES
+1. Gribaldo L, Bueren J, Deldar A, Hokland P, Meredith C,
+Moneta D, Monesso P, Parchment R, Parent-Massin D,
+Pessina A et al. The use of in vitro systems for evaluating hema-
+totoxicity. ATLA 24:211-231 (1996).
+2. Wu AM, Siminovitch L, Till JE, McCulloch EA. Evidence for
+a relationship between mouse hemopoietic stem cells and cells
+forming colonies in culture. Proc NatI Acad Sci USA
+59:1209-1215 (1968).
+3. Dexter TM, Allen TD, Lajtha LG. Conditions controlling the
+proliferation of haemopoietic stem cells in vitro. J Cell Physiol
+91:335-344 (1977).
+4. Till JE, Price GB, Mak TW, McCulloch EA. Regulation of
+blood cell differentiation. Fed Proc 34:2279-2284 (1975).
+5. Pluznik DH, Sachs L. The cloning of normal "mast" cells in
+tissue culture. J Cell Comp Physiol 66:319-324 (1965).
+6. Bradley TR, Metcalf D. The growth of mouse bone marrow
+cells in vitro. Aust J Exp Biol Med Sci 44:287-299 (1966).
+7. Ichikawa Y, Pluznik DH, Sachs L. In vitro control of the devel-
+opment of macrophage and granulocyte colonies. Proc NatI
+Acad Sci USA 56:488-495 (1966).
+8. Stephenson JR, Axelrad AA, McLeod DI, Schreeve MM.
+Induction of colonies of hemoglobin-synthesizing cells by
+erythropoietin in vitro. Proc Natl Acad Sci USA 68:1542-1546
+(1971).
+9. Iscove NN, Sieber F. Erythroid progenitors in mouse bone mar-
+row detected by macroscopic colony formation in culture. Exp
+Hematol 3:32-43 (1975).
+10. Hara H, Ogawa M. Erthropoietic precursors in mice with
+phenylhydrazine-induced anemia. Am J Hematol 1:453-458
+(1975).
+11. Gregory CJ, Eaves AC. Human marrow cells capable of erythro-
+poietic differentiation in vitro: definition ofthree erythroid colony
+responses. Blood 49:855-864 (1977).
+12. Clarke BJ, Housman D. Characterization ofan erythroid precursor
+cell of high proliferative capacity in normal human peripheral
+blood. Proc Nad Acad Sci USA 74:1105-1109 (1977).
+13. Johnson GR, Metcalf D. Nature of cells forming erythroid
+colonies in agar after stimulation by spleen conditioned medium.
+J Cell PhysioT 94:243-252 (1978).
+14. Koury MJ, Kost TA, Hankins WD, Krantz SB. Response of ery-
+throid day 3 burst-forming units to endotoxin and erythropoietin.
+Proc Soc Exp Biol Med 162:275-280 (1979).
+15. Eliason JF, Van Zant G, Goldwasser E. The relationship of
+hemoglobin synthesis to erythroid colony and burst formation.
+Blood 53:935-945 (1979).
+16. Wagemaker G, Peters MF, Bol SJ. Induction of erythropoietin
+responsiveness in vitro by a distinct population ofbone marrow
+cells. Cell Tissue Kinet 12:521-537 (1979).
+17. Meytes D, Ortega JA, Shore NA, Dukes PP. Human erythroid
+burst-promoting activity produced by phytohemagglutinin-
+stimulated, radioresistant peripheral b ood mononuc ear cells.
+Blood 54:1050-1057 (1979).
+18. Nathan DG, Chess L, Hillman DG, Clarke B, Breard J, Merler
+E, Housman DE. Human erythroid burst-forming unit: T-cell
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 551
+R.E. PARCHMENT
+requirement for proliferation in vitro. J Exp Med 147:324-339
+(1978).
+19. Sonoda Y, Maekawa T, Kuzuyama Y, Clark SC, Abe T.
+Human interleukin-9 supports formation ofa subpopulation of
+erythroid bursts that are responsive to interleukin-3. Am J
+Hematol 41:84-91 (1992).
+20. Metcalf D, MacDonald HR, Odartchenko N, Sordat B.
+Growth of mouse megakaryocyte colonies in vitro. Proc Natl
+Acad Sci USA 72:1744-1748 (1975).
+21. NakeffA, Daniels-McQueen S. In vitro colony assay for a new
+class of megakaryocyte precursor: colony-forming unit
+megakaryocyte (CFU-M). Proc Soc Exp Biol Med 151:587-590
+(1976).
+22. Vainchenker W, Bouguet J, Guichard J, Breton-Gorius J.
+Megakaryocyte colony formation from human bone marrow
+precursors. Blood 54:940-945 (1979).
+23. Williams N, Jackson H, Sheridan AP, Murphy MJ Jr, Elste A,
+Moore MA. Regulation of megakaryopoiesis in long-term
+murine bone marrow cultures. Blood 51:245-255 (1978).
+24. Mei RL, Burstein SA. Megakaryocytic maturation in murine
+long-term bone marrow culture: role of interleukin-6. Blood
+78:1438-1447 (1991).
+25. Erickson-Miller CL, Ji H, Parchment RE, Murphy MJ Jr.
+Megakaryocyte colony-stimulating factor (Meg-CSF) is a
+unique cytokine specific for the megakaryocyte lineage. Br J
+Haematol 84:197-203 (1993).
+26. Ogata K, Erickson-Miller CL, Nomura T, Abe K, Zhang Z,
+Murphy MJ Jr. Effects of recombinant cytokines on murine
+megakaryocyte colony formation in a serum-free fibrin clot cul-
+ture system. Pathobiology 60:143-148 (1992).
+27. Kaushansky K, Lok S, Holly RD, Broudy VC, Lin N, Bailey
+MC, Forstrom JW, Buddle MM, Oort PJ, Hagen FS et al.
+Promotion ofmegakaryocyte progenitor expansion and differenti-
+ation by the c-mplligand thrombopoietin. Nature 369:568-571
+(1994).
+28. Kaushansky K. The mpl ligand: molecular and cellular biology
+of the critical regulator of megakaryocyte development. Stem
+Cells (Dayt) 12(Suppl 1):91-96 (1994).
+29. Broudy VC, Lin NL, Kaushansky K. Thrombopoietin (c-mpl
+ligand) acts synergistically with erythropoietin, stem cell factor,
+and interleukin- 11 to enhance murine megakaryocyte colony
+growth and increases megakaryocyte ploidy in vitro. Blood
+85:1719-1726 (1995).
+30. Methia N, Louache F, Vainchenker W, Wendling F.
+Oligodeoxynucleotides antisense to the proto-oncogene c-mpl
+specifically inhibit in vitro megakaryocytopoiesis. Blood
+82:1395-1401 (1993).
+31. Nishihira H, Toyoda Y, Miyazaki H, Kigasawa H, Ohsaki E.
+Growth of macroscopic human megakaryocyte colonies from
+cord blood in culture with recombinant human thrombopoi-
+etin (c-mpl ligand) and the effects of gestational age on fre-
+quency ofcolonies. Br J Haematol 92:23-28 (1996).
+32. Zauli G, Vitale L, Brunelli MA, Bagnara GP. Prevalence of the
+primitive megakaryocyte progenitors (BFU-meg) in adult
+human peripheral blood. Exp Hematol 20:850-854 (1992).
+33. Choi KW, Bloom AD. Cloning human lymphocytes in vitro.
+Nature 227:171-173 (1970).
+34. Klein AK, Dyck JA, Shimizu JA, Stitzel KA, Wilson FD, Cain
+GR. Effect of continuous, whole-body gamma irradiation upon
+canine lymphohematopoietic (CFU-GM, CFU-L) progenitors
+and a possible hematopoietic regulatory population. Radiat Res
+101:332-350 (1985).
+35. Dorshkind K, Johnson A, Harrison Y, Landreth KS. A colony
+assay system that detects B cell progenitors in fresh and cul-
+tured bone marrow. J Immunol Methods 123:93-101 (1989).
+36. Johnson GR, Metcalf D. Pure and mixed erythroid colony for-
+mation in vitro stimulated by spleen conditioned medium with
+no detectable erythropoietin. Proc Natl Acad Sci USA
+74:3879-3882 (1997).
+37. Metcalf D, Johnson GR, Mandel TE. Colony formation in
+agar by multipotential hemopoietic cells. J Cell Physiol
+98:401-420 (1979).
+38. Williams N, Jackson H, Meyers P. Isolation of pluripotent
+hemopoietic stem cells and clonable precursor cells of erythro-
+cytes, granulocytes, macrophages and megakaryocytes from
+mouse bone marrow. Exp Hematol 7:524-534 (1979).
+39. Johnson GR. Colony formation in agar by adult bone marrow
+multipotential hemopoietic cells. J Cell Physiol 103:371-383
+(1980).
+40. Nishi N, Nakahata T, Koike K, Takagi M, Naganuma K,
+Akabane T. Induction ofmixed erythroid-megakaryocyte colonies
+and bipotential blast cell colonies by recombinant human erythro-
+poietin in serum-free culture. Blood 76:1330-1335 (1990).
+41. Hara H, Ogawa M. Murine hemopoietic colonies in culture
+containing normoblasts, macrophages, and megakaryocytes.
+Am J Hematol 4:23-34 (1978).
+42. Fauser AA, Messner HA. Identification of megakaryocytes,
+macrophages, and eosinophils in colonies of human bone mar-
+row containing neutrophilic granulocytes and erythroblasts.
+Blood 53:1023-1027 (1979).
+43. Bradley TR, Hodgson GS. Detection of primitive macrophage
+progenitor cells in mouse bone marrow. Blood 54:1446-1450
+(1979).
+44. Baines P, Bol S, Rosendaal M. Characterization of a develop-
+mentally early macrophage progenitor found in normal mouse
+marrow. Br J Haematol 48:147-153 (1981).
+45. Baines P, Lajmanovich A, Hollard D. Enrichment of high pro-
+liferation potential colony forming cells from mouse marrow by
+selecting low-density cells expressing receptors for wheat germ
+agglutinin. Leuk Res 8:853-861 (1984).
+46. Hodgson GS, Bradley TR, Radley JM. The organization of
+hemopoietic tissue as inferred from the effects of 5-fluorouracil.
+Exp Hematol 10:26-35 (1982).
+47. Boswell HS, Wade PM Jr, Quesenberry PJ. Thy-1 antigen
+expression by murine high-proliferative capacity hematopoietic
+progenitor cells. I: Relation between sensitivity to depletion by
+Thy-1 antibody and stem cell generation potential. J Immunol
+133:2940-2949 (1984).
+48. Leary AG, Ogawa M. Blast cell colony assay for umbilical cord
+blood and adult bone marrow progenitors. Blood 69:953-956
+(1987).
+49. McNiece IK, Stewart FM, Deacon DM, Temeles DS, Zsebo
+KM, Clark SC, Quesenberry PJ. Detection of a human CFC
+with a high proliferative potential. Blood 74:609-612 (1989).
+50. McNiece IK, Bertoncello I, Kriegler AB, Quesenberry PJ.
+Colony-forming cells with high proliferative potential (HPP-
+CFC). IntJ CellCloning 8:146-160 (1990).
+51. Ploemacher RE, van der Sluijs JP, Voerman JS, Brons NH. An
+in vitro limiting-dilution assay of long-term repopulating
+hematopoietic stem cells in the mouse. Blood 74:2755-2763
+(1989).
+52. Sutherland HJ, Lansdorp PM, Henkelman DH, Eaves AC,
+Eaves CJ. Functional characterization of individual human
+hematopoietic stem cells cultured at limiting dilution on sup-
+portive marrow stromal layers. Proc Natl Acad Sci USA
+87:3584-3588 (1990).
+53. Pettengell R, Luft T, Henschler R, Hows JM, Dexter TM,
+Ryder D, Testa NG. Direct comparison by limiting dilution
+analysis of long-term culture-initiatin cells in human bone
+marrow, umbilical cord blood, and bfood stem cells. Blood
+84:3653-3659 (1994).
+54. Breems DA, Blokland EA, Neben S, Ploemacher RE.
+Frequency analysis of human primitive haematopoietic stem
+cell subsets using a cobblestone area forming cell assay.
+Leukemia 8:1095-1104 (1994).
+55. Eaves CJ, Sutherland HJ, Udomsakdi C, Lansdorp PM,
+Szilvassy SJ, Fraser CC, Humphries RK, Barnett MJ, Phillips
+GL, Eaves AC. The human hematopoietic stem cell in vitro
+and in vivo. Blood Cells 18:301-307 (1992).
+56. Lemieux ME, Rebel VI, Lansdorp PM, Eaves CJ.
+Characterization and purification of a primitive hematopoietic
+cell type in adult mouse marrow capable oflymphomyeloid dif-
+ferentiation in long-term marrow switch cultures. Blood
+86:1339-1347 (1995).
+552 Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+57. Ploemacher RE, Brons RH. Separation of CFU-S from primi-
+tive cells responsible for reconstitution of the bone marrow
+hemopoietic stem cell compartment following irradiation: evi-
+dence for a pre-CFU-S cell. Exp Hematol 17:263-266 (1989).
+58. Murray L, DiGiusto D, Chen B, Chen S, Combs J, Conti A,
+Galy A, Negrin R, Tricot G, Tsukamoto A. Analysis of human
+hematopoietic stem cell populations. Blood Cells 20:364-369
+(1994).
+59. Orlic D, Fischer R, Nishikawa S, Nienhuis AW, Bodine DM.
+Purification and characterization of heterogeneous pluripotent
+hematopoietic stem cell populations expressing high levels ofc-
+kitreceptor. Blood 82:762-770 (1993).
+60. Orlic D, Anderson S, Bodine DM. Biological properties ofsub-
+populations ofpluripotent hematopoietic stem cells enriched by
+elutriation and flow cytometry. Blood Cells 20:107-117 (1994).
+61. Watt SM, Visser JW. Recent advances in the growth and isola-
+tion of primitive human haemopoietic progenitor cells. Cell
+Prolif25:263-297 (1992).
+62. Zijlmans JM, Visser JW, Kleiverda K, Kluin PM, Willemze R,
+Fibbe WE. Modification of rhodamine staining allows identifi-
+cation of hematopoietic stem cells with preferential short-term
+or long-term bone marrow-repopulating ability. Proc Natl
+Acad Sci USA 92:8901-8905 (1995).
+63. Berardi AC, Wang A, Levine JD, Lopez P, Scadden DT.
+Functional isolation and characterization ofhuman hematopoi-
+etic stem cells. Science 267:104-108 (1995).
+64. Bungart B, Loeffler M, Goris H, Dontje B, Diehl V, NijhofW.
+Differential effects of recombinant human colony stimulating
+factor (rh G-CSF) on stem cells in marrow, spleen and periph-
+eral blood in mice. BrJ Haematol 76:174-179 (1990).
+65. Friedenstein AJ, Chailakhyan RK, Latsinik NV, Panasyuk AF,
+Keiliss-Borok IV. Stromal cells responsible for transferring the
+microenvironment of the hemopoietic tissues. Cloning in vitro
+and retransplantation in vivo. Transplantation 17:331-340
+(1974).
+66. Van Den Heuvel R, Schoeters G, Leppens H, Vanderborght 0.
+Stromal cells in long-term cultures of liver, spleen, and bone
+marrow at different developmental ages have different capaci-
+ties to maintain GM-CFC proliferation. Exp Hematol
+19:115-121 (1991).
+67. Aizawa S, Yaguchi M, Nakano M, Toyama K, Inokuchi S, Imai
+T, Yasuda M, Nabeshima R, Handa H. Hematopoietic sup-
+portive function of human bone marrow stromal cell lines
+established by a recombinant SV40-adenovirus vector. Exp
+Hematol 22:482-487 (1994).
+68. Friedenstein AJ, Deriglasova UF, Kulagina NN, Panasuk AF,
+Rudakowa SF, Luria EA, Ruadkow IA. Precursors for fibroblasts
+in different populations ofhematopoietic cells as detected by the
+in vitro colony assay method. Exp Hematol 2:83-92 (1974).
+69. Dexter TM. Haemopoiesis in long-term bone marrow cultures.
+A review. Acta Haematol 62:299-305 (1979).
+70. Gartner S, Kaplan HS. Long-term culture ofhuman bone mar-
+row cells. Proc Natl Acad Sci USA 77:4756-4759 (1980).
+71. Johnson A, Dorshkind K. Stromal cells in myeloid and lym-
+phoid long-term bone marrow cultures can support multiple
+emopoietic lineages and modulate their production of hemo-
+poietic growth factors. Blood 68:1348-1354 (1986).
+72. Wang TY, Brennan JK, Wu JH. Multilineal hematopoiesis in a
+three-dimensional murine long-term bone marrow culture. Exp
+Hematol 23:26-32 (1995).
+73. Whitlock CA, Witte ON. Long-term culture ofB lymphocytes
+and their precursors from murine bone marrow. Proc Natl
+Acad Sci USA 79:3608-3612 (1982).
+74. Nagasawa R, Kanagawa 0, Tittle TV, Chiller JM. In vivo mat-
+uration of pre-B cells derived from long-term cultured bone
+marrow. J Immunol 135:965-972 (1985).
+75. Whitlock CA, Witte ON. Long-term culture of murine bone
+marrow precursors of B lymphocytes. Methods Enzymol
+150:275-286 (1987).
+76. Dorshkind K. In vitro differentiation of B lymphocytes from
+primitive hemopoietic precursors present in long-term bone
+marrow cultures. J Immunol 136:422-429 (1986).
+77. Collins LS, Dorshkind K. A stromal cell line from myeloid
+long-term bone marrow cultures can support myelopoiesis and
+B lymphopoiesis. J Immunol 138:1082-1087 (1987).
+78. Greenberg PL, Schrier SL. Clinical utility of in vitro evaluation
+ofgranulopoiesis. Annu Rev Med 25:269-278 (1974).
+79. Marsh JC. Chemical toxicity of the granulocyte. Environ
+Health Perspect 39:71-78 (1981).
+80. Boorman GA, Luster MI, Dean JH, Campbell ML. Assessment
+of myelotoxicity caused by environmental chemicals. Environ
+Health Perspect 43:129-135 (1982).
+81. Deldar A, Lewis H, Bloom J, Weiss L. Reproducible cloning
+assays for in vitro growth of canine hematopoietic progenitor
+cells and their potential applications in investigative hematotox-
+icity. AmJ Vet Res 49:1393-1401 (1988).
+82. Naughton BA, Sibanda B, Azar L, San Roman J. Differential
+effects of drugs upon hematopoiesis can be assessed in long-
+term bone marrow cultures established on nylon screens. Proc
+Soc Exp Biol Med 199:481-490 (1992).
+83. Noble C, Sina JF. Usefulness of the in vitro bone marrow
+colony-forming assay in cellular toxicology. In Vitro Toxicol
+6:187-195 (1993).
+84. Parchment RE, Huang M, Erickson-Miller CL. Roles for in
+vitro myelotoxicity tests in preclinical drug development and
+clinical trial planning. Toxicol Pathol 21:241-250 (1993).
+85. Deldar A, Stevens CE. Development and application of in vitro
+models of hematopoiesis to drug development. Toxicol Pathol
+21:231-240 (1993).
+86. Deldar A. Drug-induced blood disorders: review of patho-
+genetic mechanisms and utilisation ofbone marrow cell culture
+technology as an investigative approach. Curr Top Vet Res
+1:83-101 (1994).
+87. Deldar A, Parchment RE. Preclinical risk assessment for hema-
+totoxicity: animal models and in vitro systems. In:
+Comprehensive Toxicology (Sipes GI, McQueen CA, Gandolfi
+AJ, eds). Vol 4: Toxicology of the Hematopoietic System
+(Bloom JC, ed). New York:Pergamon, 1997;303-320.
+88. Parchment RE, Murphy MJ Jr. Human hematopoietic stem
+cells: laboratory assessment and response to toxic injury. In:
+Comprehensive Toxicology (Sipes GI, McQueen CA, Gandolfi
+AJ, eds). Vol 4: Toxicology of the Hematopoietic System
+(Bloom JC, ed). New York:Pergamon, 1997;335-362.
+89. Treleaven J, Barrett J. Drugs and the bone marrow. Br J Hosp
+Med 44:245-250 (1990).
+90. Greenberger JS. Toxic effects on the hematopoietic microenvi-
+ronment. Exp Hematol 19:1101-1109 (1991).
+91. Young GA, Croaker G, Vincent PC, Forrest P, Morris TC.
+The CFU-C assay in patients with neutropenia and, in particu-
+lar, drug associated neutropenia. Clin Lab Haematol
+9:245-253 (1987).
+92. Naughton BA, San Roman J, Sibanda B, Weintraub JP, Kamali
+V. Stereotypic culture systems for liver and bone marrow: evi-
+dence for the development ofcuntional tissue in vitro and follow-
+ing implantation in vivo. Biotechnol Bioeng 43:810-825 (1994).
+93. B oom JC. Introduction to hematotoxicology. In:
+Comprehensive Toxicology (Sipes GI, McQueen CA, Gandolfi
+AJ, eds). Vol 4: Toxicology of the Hematopoietic System
+(Bloom JC, ed). New York:Pergamon, 1997;1-10.
+94. Levitt LJ, Quesenberry PJ. The effect of lithium on murine
+hematopoiesis in a liquid culture system. N Engl J Med
+302:713-719 (1980).
+95. Chatelain C, Burstein SA, Harker LA. Lithium enhancement
+of megakaryocytopoiesis in culture: mediation via accessory
+marrow cells. Blood 62:172-176 (1983).
+96. Boggs DR, Joyce RA. The hematopoietic effects of lithium.
+Semin Hematol 20:129-138 (1983).
+97. Silberstein DS, Austen KF, Owen WF Jr. Hemopoietins for
+eosinophils. Glycoprotein hormones that regulate the develop-
+ment of inflammation in eosinophilia-associated disease.
+Hematol Oncol Clin North Am 3:511-533 (1989).
+98. Owen WF Jr, Petersen J, Sheff DM, Folkerth RD, Anderson
+RJ, Corson JM, Sheffer AL, Austen KF. Hypodense eosinophils
+and interleukin 5 activity in the blood of patients with the
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 553
+R.E. PARCHMENT
+eosinophilia-myalgia syndrome. Proc Natl Acad Sci USA
+87:8647-8651 (1990).
+99. Yamaoka KA, Miyasaka N, Inuo G, Saito I, Kolb JP, Fujita K,
+Kashiwazaki S. 1,1 '-Ethylidenebis(tryptophan) (Peak E)
+induces functional activation of human eosinophils and inter-
+leukin 5 production from T lymphocytes: association of
+eosinophilia-myalgia syndrome with a L-tryptophan contami-
+nant. J Clin Immunol 14:50-60 (1994).
+100. Gallamini A, Carbone A, Lista P, Cavallero G, Reato G,
+Fruttero A, Novero D, Asnaghi G, di Celle PF, Foa R. Intestinal
+T-cell lymphoma with massive tissue and blood eosinophilia
+mediated by IL-5. Leuk Lymphoma 17:155-161 (1995).
+101. Macdonald D, Gordon AA, Kajitani H, Enokihara H, Barrett
+AJ. Interleukin-2 treatment-associated eosinophilia is mediated
+by interleukin-5 production. Br J Haematol 76:168-173
+(1990).
+102. Dale DC, Fauci AS, Guerry D IV, Wolff SM. Comparison of
+agents producing a neutrophilic leukocytosis in man: hydrocor-
+tisone, prednisone, endotoxin, and etiocholanolone. J Clin
+Invest 56:808-813 (1975).
+103. Grillot-Courvalin C, Vinci G, Tsapis A, Dokhelar MC,
+Vainchenker W, Brouet JC. The syndrome of T8 hyperlym-
+phocytosis: variation in phenotype and cytotoxic activities of
+granular cells and evaluation of their role in associated neu-
+tropenia. Blood 69:1204-1210 (1987).
+104. van der Veen JP, Goldschmeding R, Miedema F, Smit JW,
+Melief CJ, von dem Borne AE. K-cell lymphocytosis/neutrope-
+nia syndrome: the neutropenia is not caused by autoimmunity.
+BrJ Haematol 64:777-787 (1986).
+105. Smith JG, Smith MA, James I, Blundell E, Maddison PJ.
+Inhibition of CFU-GM by prostaglandins in a case of chronic
+T-cell lymphocytosis and neutropenia. Br J Haematol
+73:148-151 (1989).
+106. Greenberg P, Bax I, Mara B, Schrier S. Alterations of granu-
+lopoiesis following chemotherapy. Blood 44:375-383 (1974).
+107. Bruce WR, Meeker BE, Valeriote FA. Comparison ofthe sensi-
+tivity of normal hematopoietic and transplanted lymphoma
+colony-forming cells to chemotherapeutic agents administered
+in vivo. J Natl Cancer Inst 37:233-245 (1966).
+108. Valeriote F, van Putten L. Proliferation-dependent cytotoxicity
+of anticancer agents: a review. Cancer Res 35:2619-2630
+(1975).
+109. Gallini R, Hendry JH, Molineux G, Testa NG. The effect of
+low dose rate on recovery ofhemopoietic and stromal progeni-
+tor cells in gamma-irradiated mouse bone marrow. Radiat Res
+115:481-487 (1988).
+110. Horikoshi A, Murphy MJ Jr. Comparative effects of
+chemotherapeutic drugs on human and murine hematopoietic
+progenitors in vitro. Chemotherapy 28:480-501 (1982).
+111. Qi DY, Hendry JH, Testa NG. Interactions in recovery and in
+residual injury from sequential treatments of mouse haemopoi-
+etic and stromal marrow cell populations, using X-rays,
+cyclophosphamide and busulphan. Radiother Oncol 20:46-52
+(1991).
+112. Seed TM, Kaspar LV. Changing patterns of radiosensitivity of
+hematopoietic progenitors from chronically irradiated dogs
+prone either to aplastic anemia or to myeloproliferative disease.
+Leuk Res 14:299-307 (1990).
+113. Pessina A, Neri MG, Muschiato A, Raimondi A. Inhibition of
+granulocytic-macrophagic precursor cells (CFU-C) by heat-
+labile enterotoxin (LT) produced by Escherichia coli. Biomed
+Pharmacother 37:447-452 (1983).
+114. Parent-Massin D, Thouvenot D. In vitro study of pesticide
+hematotoxicity in human and rat progenitors. J Pharmacol
+Toxicol Methods 30:203-207 (1993).
+115. Parent-Massin D, Fuselier R, Thouvenot D. In vitro toxicity of
+trichothecenes on human haematopoietic progenitors. Food
+Addit Contam 11:441-447 (1994).
+116. Inoue T, Tsushita K, Itoh T, Ogura M, Hotta T, Saneyoshi M,
+Yoshida S, Saitoh H, Tomoda Y, Nagai Y. In vitro bone marrow
+toxicity ofnucleoside analogs against human immunodeficiency
+virus. Antimicrob Agents Chemother 33:57-579 (1989).
+117. Fink FM, Maurer-Dengg K, Fritsch G, Mann G, Zoubek A,
+Falk M, Gadner H. Recombinant human granulocyte-
+macrophage colony-stimulating factor in septic neutropenic
+pediatric cancer patients: detection ofcirculating hematopoietic
+precursor cells correlates with rapid granulocyte recovery. Med
+Pediatr Oncol 25:365-371 (1995).
+118. Wittels B. Bone marrow biopsy changes following chemother-
+apy for acute leukemia. Am J Surg Pathol 4:35-142 (1980).
+119. Schurig JE, Schlein A, Florczyk AP, Farwell AR, Bradner WT.
+Animal models for evaluating the myelosuppressive effects of
+cancer chemotherapeutic agents. Exp Hematol 13(Suppl
+16):101-105 (1985).
+120. Ventura GJ, Reading CL, Hester JP, Vadhan-Raj S.
+Circulating myeloid progenitor cell kinetics during hematologic
+recovery from chemotherapy and subsequent recombinant
+human granulocyte-macrophage colony-stimulating factor
+administration. Acta Haematol 84:175-181 (1990).
+121. Ema H, Suda T, Sakamoto S, Tomonaga T, Tsunoda J, Muroi
+K, Komatsu N, Miwa A, Ohsaka A, Yoshida M et al. Effects of
+the in vivo administration of recombinant human granulocyte
+colony-stimulating factor following cytotoxic chemotherapy on
+granulocytic precursors in patients with malignant lymphoma.
+Jpn J Cancer Res 80:577-582 (1989).
+122. Ponassi A, Morra L, Mela GS, Caristo G, Parodi GB, Sacchetti
+C. Correlation between blood granulocyte progenitor cells and
+polymorphonuclear leukocytes. A tentative pathophysiological
+subgrouping of neutropenic and neutrophilic patients. Biomed
+Pharmacother 37:293-297 (1983).
+123. Mukai J, Shimizu E, Ogura T. Granulocyte-colony-stimulating
+factor enhances the circulating hematopoietic progenitors in
+lung cancer patients treated wit cisplatin-containing regimens.
+Jpn J Cancer Res 83:746-753 (1992).
+124. Neelis KJ, Dubbelman YD, Luo QL, Thomas GR, Eaton DL,
+Wagemaker G. Simultaneous administration of TPO and G-
+CSF after cytoreductive treatment of rhesus monkeys prevents
+thrombocytopenia, accelerates platelet and red cell reconstitu-
+tion, alleviates neutropenia, and promotes the recovery of
+immature bone marrow cells. Exp Hematol 25:1084-1093
+(1997).
+125. Du DL, Volpe DA, Grieshaber CK, Murphy MJ Jr. Comparative
+toxicity of fostriecin, hepsulfam and pyrazine diazohydroxide to
+human and murine hematopoietic progenitor cells in vitro. Invest
+New Drugs 9:149-157 (1991).
+126. Hendricks CB, Grochow LB, Rowinsky EK, Forastiere AA,
+McGuire WP, Ettinger DS, Sartorius S, Lubejko B, Donehower
+RC. Phase I and pharmacokinetic study of hepsulfam (NSC
+329680). Cancer Res 51:5781-5785 (1991).
+127. Volpe DA, Du DL, Zurlo MG, Mongelli N, Murphy MJ Jr.
+Comparative in vitro myelotoxicity of FCE 24517, a
+distamycin derivative, to human, canine and murine
+hematopoietic progenitor cells. Invest New Drugs 10:255-261
+(1992).
+128. Volpe DA, Du DL, Grieshaber CK, Murphy MJ Jr. In vitro
+characterization of the myelotoxicity of cyclopentenyl cytosine.
+Cancer Chemother Pharmacol 34:103-108 (1994).
+129. Parchment RE, Volpe DA, LoRusso PM, Erickson-Miller CL,
+Murphy MJ Jr, Grieshaber CK. In vivo-in vitro correlation of
+myelotoxicity of 9-methoxypyrazoloacridine (NSC-366 140,
+PD1 15934) to myeloid and erythroid hematopoietic progeni-
+tors from human, murine, and canine marrow. J Nati Cancer
+Inst 86:273-280 (1994).
+130. Volpe DA, Cole K, Sandeen MA, Kohn EC. In vitro and in
+vivo myelotoxicity ofCAI to human and murine hematopoietic
+progenitor cells. Am J Hematol 50:277-282 (1995).
+131. Du DL, Volpe DA, Grieshaber CK, Murphy MJ Jr. Effects of
+L-phenylalanine mustard and L-buthionine sulfoximine on
+murine and human hematopoietic progenitor cells in vitro.
+Cancer Res 50:4038-4043 (1990).
+132. Smith AC, Liao JT, Page JG, Wientjes MG, Grieshaber CK.
+Pharmacokinetics of buthionine sulfoximine (NSC 326231)
+and its effect on melphalan-induced toxicity in mice. Cancer
+Res 49:5385-5391 (1989).
+554 Environmental Health Perspectives * Vol 106, Supplement 2 - April 1998
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+133. Pressacco J, Erlichman C. Combination studies with 3'-azido-
+3'-deoxythymidine (AZT) plus ICI D1694. Cytotoxic and bio-
+chemical effects. Biochem Pharmacol 46:1989-1997 (1993).
+134. Pressacco J, Hedley DW, Erlichman C. ICI D1694 and idox-
+uridine: a synergistic antitumor combination. Cancer Res
+54:3772-3778 (1994).
+135. Kalechman Y, Sotnik-Barkai I, Albeck M, Sredni B. Protection
+of bone marrow stromal cells from the toxic effects of
+cyclophosphamide in vivo and ofASTA-Z 7557 and etoposide
+in vitro by ammonium trichloro(dioxyethylene-aO')tellurate
+(AS101). Cancer Res 53:1838-1844 (1993).
+136. Kalechman Y, Rushkin G, Nerubay J, Albeck M, Sredni B.
+Effect of the immunomodulator AS101 on chemotherapy-
+induced multilineage myelosuppression, thrombocytopenia,
+and anemia in mice. Exp Hematol 23:1358-1366 (1995).
+137. Walker RE, Parker RI, Kovacs JA, Masur H, Lane HC,
+Carleton S, Kirk LE, Gralnick HR, Fauci AS. Anemia and ery-
+thropoiesis in patients with the acquired immunodeficiency
+syndrome (AIDS) and Kaposi sarcoma treated with zidovudine.
+Ann Intern Med 108:372-376 (1988).
+138. Richman DD, Fischl MA, Grieco MH, Gottlieb MS, Volberding
+PA, Laskin OL, Leedom JM, Groopman JE, Mildvan D, Hirsch
+MS et al. The toxicity ofazidothymidine (AZT) in the treatment
+of patients with AIDS and AIDS-related complex. A double-
+blind, placebo-controlled trial. N Engl J Med 317:192-197
+(1987).
+139. Dainiak N, Worthington M, Riordan MA, Kreczko S,
+Goldman L. 3'-Azido-3 -deoxythymidine (AZT) inhibits pro-
+liferation in vitro ofhuman haematopoietic progenitor cells. Br
+J Haematol 69:299-304 (1988).
+140. Morse GD, Olson J, Portmore A, Taylor C, Plank C,
+Reichman RC. Pharmacokinetics of orally administered
+zidovudine among patients with hemophilia and asymptomatic
+human immunodeficiency virus (HIV) infection. Antiviral Res
+11:57-65 (1989).
+141. Bhalla K, Birkhofer M, Grant S, Graham G. The effect of
+recombinant human granulocyte-macrophage colony-stimulat-
+ing factor (rGM-CSF) on 3'-azido-3'-deoxythymidine (AZT)-
+mediated biochemical and cytotoxic effects on normal human
+myeloid progenitor cells. Exp Hematol 17:17-20 (1989).
+142. Balis FM, Pizzo PA, Eddy J, Wilfert C, McKinney R, Scott G,
+Murphy RF, Jarosinski PF, Falloon J, Poplack DG.
+Pharmacokinetics of zidovudine administered intravenously
+and orally in children with human immunodeficiency virus
+infection. J Pediatr 114:880-884 (1989).
+143. Collins JM, Unadkat JD. Clinical pharmacokinetics of zidovu-
+dine. An overview ofcurrent data. Clin Pharmacokinet 17:1-9
+(1989).
+144. Ganser A, Greher J, Volkers B, Staszewski S, Hoelzer D.
+Inhibitory effect of azidothymidine, 2'-3'-dideoxyadenosine,
+and 2'-3'-dideoxycytidine on in vitro growth of hematopoietic
+progenitor cells from normal persons and from patients with
+AIDS. Exp Hematol 17:321-325 (1989).
+145. Du DL, Volpe DA, Grieshaber CK, Murphy MJ Jr. In vitro
+myelotoxicity of 2',3'-dideoxynucleosides on human hematopoi-
+etic progenitor cells. Exp Hematol 18:832-836 (1990).
+146. Irvine AE, Morris TC, Kelly GJ, McCracken N. Ticarcillin-
+induced neutropenia corroborated by in vitro CFU-C toxicity.
+Acta Haematol 70:364-368 (1983).
+147. Volpe DA, Du DL, Verhoef V, Murphy MJ Jr. Myelotoxicity
+ofrifabutin and 3'-azido-3'-deoxythymidine, alone and in com-
+bination, to human hematopoietic progenitor cells in vitro.
+Pathobiology 61:77-82 (1993).
+148. Haworth C, Morris-Jones PH, Testa NG. Long-term bone-
+marrow damage in children treated for ALL: evidence from in
+vitro colony assays (GM-CFC and CFUF). Br J Cancer
+46:918-923 (1982).
+149. Jacobsen SE, Keller JR, Ruscetti FW, Kondaiah P, Roberts AB,
+Falk L.A. Bidirectional effects of transforming growth factor
+beta (TGF-beta) on colony-stimulating factor-induced human
+myelopoiesis in vitro: differential effects of distinct TGF-beta
+isoforms. Blood 78:2239-2247 (1991).
+150. Piacibello W, Ferrero D, Sanavio F, Badoni R, Stacchini A,
+Severino A, Aglietta M. Responsiveness of highly enriched CFU-
+GM subpopulations from bone marrow, peripheral blood, and
+cord blood to hemopoietic growth inhibitors. Exp Hematol
+19:1084-1089 (1991).
+151. Ruscetti FW, Dubois C, Falk LA, Jacobsen SE, Sing G, Longo
+DL, Wiltrout RH, Keller JR. In vivo and in vitro effects ofTGF-
+beta 1 on normal and neoplastic haemopoiesis. Ciba Found Symp
+157:212-227 (1991).
+152. Caux C, Moreau I, Saeland S, Banchereau J. Interferon-gamma
+enhances factor-dependent myeloid proliferation of human
+CD34+ hematopoietic progenitor cells. Blood 79:2628-2635
+(1992).
+153. Broxmeyer HE, Lu L, Platzer E, Juliano L, Rubin BY.
+Comparative analysis ofthe influences ofhuman gamma, alpha
+and beta interferons on human multipotential (CFU-GEMM),
+erythroid (BFU-E) and granulocyte-macrophage (CFU-GM)
+progenitor cells. J Immunol 131:1300-1305 (1983).
+154. Cashman JD, Eaves AC, Raines EW, Ross R, Eaves CJ.
+Mechanisms that regulate the cell cycle status of very primitive
+hematopoietic cells in long-term human marrow cultures. I:
+Stimulatory role ofa variety ofmesenchymal cell activators and
+inhibitory role ofTGF-beta. Blood 75:96-101 (1990).
+155. Strife A, Lambek C, Perez A, Darzynkiewicz Z, Skierski J, Gulati
+S, HaleyJD, ten Dijke P, Iwata KK, Clarkson BD. The effects of
+transforming growth factor beta 3 on the growth of highly
+enriched hematopoietic progenitor cells derived from normal
+human bone marrow and peripheral blood. Cancer Res
+51:4828-4836 (1991).
+156. Bursuker I, Neddermann KM, Petty BA, Schacter B, Spitalny
+GL, Tepper MA, Pasternak RD. In vivo regulation of hemo-
+poiesis by transforming growth factor beta 1: stimulation ofGM-
+CSF- and M-CSF-dependent murine bone marrow precursors.
+Exp Hematol 20:431-435 (1992).
+157. Hargis JB, La Russa VF, Redmond J, Kessler SW, Wright DG.
+Agranulocytosis associated with Mexican aspirin (dipyrone): evi-
+dence for an autoimmune mechanism affecting multipotential
+hematopoietic progenitors. Am J Hematol 31:213-215 (1989).
+158. Hauser SP, Udupa KB, Lipschitz DA. Effects of ceftazidime, a
+betalactam antibiotic, on murine haemopoiesis in vitro. Br J
+Haematol 86:733-739 (1994).
+159. Stojanovic N, Ruvidic R, Jovcic G, Mijovic A. Drug-induced
+agranulocytosis: bone marrow granulocytic progenitor cells.
+Biomed Pharmacother 44:181-184 (1990).
+160. Parmentier C, Tchernia G, Subtil E, Diakhate L, Morardet N. In
+vitro medullary granulocytic progenitor (CFUc) cultures from 6
+cases ofgranulocytopenias. ScandJ Haematol 21:19-23 (1978).
+161. Pisciotta AV, Konings SA, Ciesemier LL, Cronkite CE,
+Lieberman JA. Cytotoxic activity in serum ofpatients with cloza-
+pine-induced agranulocytosis. J Lab Clin Med 119:254-266
+(1992).
+162. Pisciotta AV, Konings SA, Ciesemier LL, Cronkite CE,
+Lieberman JA On the possible mechanisms and predictability of
+clozapine-induced agranulocytosis. Drug Saf 7(Suppl 1):33-44
+(1992).
+163. Levitt LJ. Chlorpropamide-induced pure white cell aplasia. Blood
+69:394-400 (1987).
+164. Parent-Massin DM, Sensebe L, Leglise MC, Guern G, Berthou
+C, Riche C, Abgrall JF. Relevance of in vitro studies of drug-
+induced agranulocytosis. Report of 14 cases. Drug Saf9:463-469
+(1993).
+165. Gerson SL, Arce C, Meltzer HY. N-desmethylclozapine: a clozap-
+ine metabolite that.suppresses haemopoiesis. Br J Haematol
+86:555-561 (1994). 3
+166. Aymard JP, Rouveix B, Ferry R, Janot C, May T, Legras B, Streiff
+F. Amodiaquine-induced agranulocytosis: report ofa case with in
+vitro studies of granulocyte-macrophage progenitor cells. Acta
+Haematol 82:40-42 (1989).
+167. Aymard JP, Wioland C, Ferry R, Netter P, Streiff F. The in vitro
+effect of amodiaquine on bone marrow granulocyte-macrophage
+progenitor cells Wrom normal subjects. Fundam Clin Pharmacol
+6:1-4 (1992).
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 555
+R.E. PARCHMENT
+168. Ono K, Kurohara K, Yoshihara M, Shimamoto Y, Yamaguchi
+M. Agranulocytosis caused by ticlopidine and its mechanism.
+Am J Hematol 37:239-242 (1991).
+169. Humphrey CA, French A, Morris TC. Prospective in vitro test-
+ing for drug-induced neutropenia in a patient requiring anti-
+malarial prophylaxis: confirmation of findings on exposure of
+patient to drug. Clin Lab Haematol 12:31-36 (1990).
+170. Schreml W, Lohrmann HP. No effects of levamisole on cyto-
+toxic drug-induced changes of human granulopoiesis. Blut
+38:331-336 (1979).
+171. Sperner-Unterweger B, Gaggl S, Fleischhacker WW, Barnas
+C, Herold M, Geissler D. Effects of clozapine on
+hematopoiesis and the cytokine system. Biol Psychiatry
+34:536-543 (1993).
+172. Fibbe WE, Claas FH, Van der Star-Dijkstra W, Schaafsma
+MR, Meyboom RH, Falkenburg JH. Agranulocytosis induced
+by propylthiouracil: evidence of a drug dependent antibody
+reacting with granulocytes, monocytes and haematopoietic
+progenitor cells. Br J Haematol 64:363-373 (1986).
+173. Bloom JC, Thiem PA, Sellers TS, Deldar A, Lewis HB.
+Cephalosporin-induced immune cytopenia in the dog: demon-
+stration of erythrocyte-, neutrophil-, and platelet-associated
+IgG following treatment with cefazedone. Am J Hematol
+28:71-78 (1988).
+174. Kobashi H, Adachi T, Tsubota T, Asano K, Fukai M, Namba
+J, Izumi K, Hoshijima T, Miura H, Sezaki T. The role ofdrugs
+and lymphocytes in granulocyte-macrophage colony formation
+in patients with drug induced agranu ocytosis [in Japanese].
+Rinsho Ketsueki 30:282-288 (1989).
+175. Matsuzaki M, Tokioka T, Suga K, Sueoka E, Ono K, Sano M,
+Shimamoto Y, Yamaguchi M. Phenytoin induced agranulocy-
+tosis: direct and T cell-mediated mechanisms [in Japanese].
+Rinsho Ketsueki 31:474-478 (1990).
+176. Douer D, Eisenstein Z. Methimazole-induced agranulocytosis:
+growth inhibition of myeloid progenitor cells by the patient's
+serum. EurJ Haematol 40:91-94 (1988).
+177. Pessina A, Neri MG, Muschiato A, Mineo E, Cocuzza G. Effect
+offluoroquinolones on the in-vitro proliferation ofmyeloid pre-
+cursor cells. J Antimicrob Chemother 24:203-208 (1989).
+178. Deldar A, House RV, Wierda D. Bone marrow colony-forming
+assays. Methods Immunotoxicol 1:227-250 (1995).
+179. Volpe DA, Du DL, Pohl KP, Campbell JP, Murphy MJ Jr.
+Utility ofhuman bone marrow obtained incidental to orthope-
+dic surgery for hematopoietic clonal assays. Pathobiology
+59:53-56 (1991).
+180. Du DL, Volpe DA, Murphy MJ Jr. Microcapillary clonogenic
+assays for human marrow hematopoietic progenitor cells. Int J
+Cell Cloning 7:303-313 (1989).
+181. Meijne EI, Ploemacher RE, Vos 0, Huiskamp R The effects of
+graded doses of 1 MeV fission neutrons or X rays on the murine
+hematopoietic stroma. Radiat Res 131:302-308 (1992).
+182. Xu CX, Hendry JH, Testa NG. The response of stromal prog-
+enitor cells in mouse marrow to graded repeated doses ofX rays
+or neutrons. Radiat Res 96:82-89 (1983).
+183. Klein AK, Rosenblatt LS, Stitzel KA, Greenberg B, Woo L. In
+vitro radiation response studies on bone marrow fibroblasts
+(CFU-F) obtained from normal and chronically irradiated
+dogs. Leuk Res 8:473-481 (1984).
+184. Hendry JH, Wang SB, Testa NG. Greater sparing of stromal
+progenitor cells than ofhaemopoietic stemce- s in gamma-irra-
+diated mouse marrow using low dose-rates. Biomed
+Pharmacother 38:356-358 (1984).
+185. Zhu H, Li Y, Trush MA. Charactprization of benzo[a]pyrene
+quinone-induced toxicity to primary cultured bone marrow
+stromal cells from DBA/2 mice: potential role ofmitochondrial
+dysfunction. Toxicol AppI Pharmacol 130:108-120 (1995).
+186. Abraham NG, Bucher D, Niranjan U, Brown AC, Lutton JD,
+Distenfeld A, Ahmed T, Levere RD. Microenvironmental toxi-
+city of azidothymidine: partial sparing with hemin. Blood
+74:139-144 (1989).
+187. Ben-Ishay Z, Prindull G, Sharon S, Borenstein A. Effects of
+chemotherapy on bone marrow stroma in mice with acute
+myelogenous leukemia. Correlation with CFU-C and CFU-D.
+Leuk Res 9:1059-1067 (1985).
+188. Gidali J, Istvan E, Feher I. Long-term perturbation of hemo-
+poiesis after moderate damage to stem cells. Exp Hematol
+13:647-651 (1985).
+189. Domenech J, Gihana E, Dayan A, Truglio D, Linassier C,
+Desbois I, Lamagnere JP, Colombat P, Binet C. Haemopoiesis
+of transplanted patients with autologous marrows assessed by
+long-term marrow culture. Br J Haematol 88:488-496 (1994).
+190. Betticher DC, Huxol H, Muller R, Speck B, Nissen C. Colony
+growth in cultures from bone marrow and peripheral blood
+after curative treatment for leukemia and severe aplastic ane-
+mia. Exp Hematol 21:1517-1521 (1993).
+191. Chang J, Geary CG, Testa NG. Long-term bone marrow dam-
+age after chemotherapy for acute myeloid leukemia does not
+improve with time. Br J Haematol 75:68-72 (1990).
+192. Radford JA, Testa NG, Crowther D. The long-term effects of
+MVPP chemotherapy for Hodgkin's disease on bone marrow
+function. Br J Cancer 62:127-132 (1990).
+193. Grande T, Gaitan S, Tejero C, Bueren JA. Residual
+haematopoietic damage in adult and 8-day-old mice exposed to
+7 Gy ofX-rays. Int J Radiat Biol 63:59-67 (1993).
+194. Grande T, Bueren JA. Involvement ofthe bone marrow stroma
+in the residual hematopoietic damage induced by irradiation of
+adult and young mice. Exp Hematol 22:1283-1287 (1994).
+195. Grande T, Bueren JA. Analysis ofhematopoiesis in mice irradi-
+ated with 500 mGy of X rays at different stages of develop-
+ment. Radiat Res 143:327-333 (1995).
+196. Burke TG, Mi Z. Preferential binding of the carboxylate form
+of camptothecin by human serum albumin. Anal Biochem
+212:285-287 (1993).
+197. Burke TG, Mi Z. The structural basis ofcamptothecin interac-
+tions with human serum albumin: impact on drug stability. J
+Med Chem 37:40-46 (1994).
+198. Mi Z, Burke TG. Differential interactions ofcamptothecin lac-
+tone and carboxylate forms with human blood components.
+Biochemistry 33:10325-10336 (1994).
+199. Mi Z, Burke TG. Marked interspecies variations concerning
+the interactions of camptothecin with serum albumins: a fre-
+quency-domain fluorescence spectroscopic study. Biochemistry
+33:12540-12545 (1994).
+200. Burke TG, Munshi CB, Mi Z, Jiang Y. The important role of
+albumin in determining the relative human blood stabilities of
+the camptothecin anticancer drugs [letter]. J Pharm Sci
+84:518-519 (1995).
+201. Song D, Hsu LF, Au JL. Binding of taxol to plastic and glass
+containers and protein under in vitro conditions. J Pharm Sci
+85:29-31 (1996).
+202. Lopez RL, Peters GJ, van Loenen AC, Pizao PE, van Rijswijk
+REN, WagstaffJ, Pinedo HM. The effect of schedule, protein
+binding and growth factors on the activity of suramin. Int J
+Cancer 51:921-926 (1992).
+203. Miller VA, Rigas JR, Tong WP, Reid JR, Pisters KMW, Grant
+SC, Heelan RT, Kris MG. Phase II trial of chloroquinoxaline
+sulfonamide (CQS) in patients with stage III and IV non-
+small-cell lung cancer. Cancer Chemother Pharmacol
+40:415-418 (1997).
+204. Myers SR, Flesher JW. Metabolism of the carcinogen 3-
+methylcholanthrene in human bone marrow preparations.
+Drug Metab Dispos 18:664-669 (1990).
+205. Twerdok LE, Trush MA. Differences in quinone reductase
+activity in primary bone marrow stromal cells derived from
+C57BL/6 and DBA/2 mice. Res Commun Chem Pathol
+Pharmacol 67:375-386 (1990).
+206. Thomas DJ, Sadler A, Subrahmanyam VV, Siegel D, Reasor
+MJ, Wierda D, Ross D. Bone marrow stromal cell bioactiva-
+tion and detoxification of the benzene metabolite hydro-
+quinone: comparison of macrophages and fibroblastoid cells.
+Mol Pharmacol 37:255-262 (1990).
+207. Twerdok LE, Trush MA. Studies on biochemical determinants
+of quinone-induced toxicity in primary murine bone marrow
+stromal cells. Adv Exp Med Biol 283:843-846 (1991).
+556 Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998
+PREDICTING HEMATOLOGIC CONSEQUENCES OF XENOBIOTIC EXPOSURES
+208. Twerdok LE, Mosebrook DR, Trush MA. Comparison ofoxi-
+dant-generation and BP-diol activation by bone marrow cells
+from C57B116 and DBA/2 mice: implications for risk of bone
+marrow toxicity induced by polycycdic hydrocarbons. Toxicol
+Appi Pharmacol 112:266-272 (1992).
+209. Twerdok LE, Rembish SJ, Trush MA. Induction of quinone
+reductase and glutathione in bone marrow cells by 1,2-dithi-
+ole-3-thione: effect on hydroquinone-induced cytotoxicity.
+Toxicol Appl Pharmacol 112:273-281 (1992).
+210. Ganousis LG, Goon D, Zyglewska T, Wu KK, Ross D. Cell-
+specific metabolism in mouse bone marrow stroma: studies of
+activation and detoxification of benzene metabolites. Mol
+Pharmacol 42:1118-1125 (1992).
+211. Gianni L, Vigano L, Surbone A, Ballinari D, Casali P, Tarella
+C, Collins JM, Bonadonna G. Pharmacology and clinical toxi-
+city of 4'-iodo-4'-deoxydoxorubicin: an example of successful
+application of pharmacokinetics to dose escalation in phase I
+trials. J Natl Cancer Inst 82:469-477 (1990).
+212. Deldar A, Stevens CE, Beineke PJ. Comparative distribution
+of marrow CFU-e and CFU-gm progenitors in different
+anatomic sites in the dog. Int J Cell Cloning 8:196-208
+(1990).
+213. Deldar A, Stevens CE, Rodocker KB. Canine BFU-e progeni-
+tors: adaptation ofa reproducible assay and anatomical distribu-
+tion. IntJ Cell Cloning 9:579-593 (1991).
+214. Demirer T, Rowley S, Buckner CD, Appelbaum FR, Lilleby K,
+Storb R, Schiffman K, Bensinger WI. Peripheral-blood stem-cell
+collections after paclitaxel, cyclophosphamide, and recombinant
+human granulocyte colony-stimulating factor in patients with
+breast and ovarian cancer. J Clin Oncol 13:1714-1719 (1995).
+215. BenderJG, Lum L, Unverzagt KL, Lee W, Van Epps D, George
+S, Coon J, Ghalie R, McLeod B, Kaizer H et al. Correlation of
+colony-forming cells, long-term culture initiating cells and
+CD34+ cells in apheresis products from patients mobilized for
+peripheral blood progenitors with different regimens. Bone
+Marrow Transplant 13:479-485 (1994).
+216. Urashima M, Uchiyama H, Hoshi Y, Deguchi Y, Kamijou M,
+Katou Y, Fujisawa K, Akatsuka J, Maekawa K. Prediction of
+engraftment after peripheral blood stem cell transplantation by
+CD34-positive cells in grafts. Acta Paediatr Jpn 35:325-331
+(1993).
+217. Holberg-Petersen M, Rollag H, Beck S, 0verli I, Tj0nnfjord G,
+Abrahamsen TG, Degrd M, Hestdal K. Direct growth suppres-
+sion of myeloid bone marrow progenitor cel[s but not cord
+blood progenitors by human cytomegalovirus in vitro. Blood
+88:2510-2516 (1996).
+218. Leglise MC, de Tailly PD, Vi not JL, LeBot MA, LeRoux AM,
+Riche C. A celrular model for drug interactions on
+hematopoiesis: the use of human umbilical cord blood progeni-
+tors as a model for the study of drug-related myelosuppression
+ofnormal hematopoiesis. Cell Biol Toxicol 12:39-53 (1996).
+219. Erickson-Miller CL, May RD, Tomaszewski J, Osborn B,
+Murphy MJ, Page JG, Parchment RE. Differential toxicity of
+camptothecin, topotecan and 9-aminocamptothecin to human,
+canine, and murine myeloid progenitors (CFU-GM) in vitro.
+Cancer Chemother Pharmacol 39:467-472 (1997).
+Environmental Health Perspectives * Vol 106, Supplement 2 * April 1998 557
+

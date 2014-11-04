@@ -1,0 +1,1387 @@
+A novel motif in telomerase reverse transcriptase
+regulates telomere repeat addition rate and
+processivity
+Mingyi Xie1
+, Joshua D. Podlevsky2
+, Xiaodong Qi1
+, Christopher J. Bley1
+and
+Julian J.-L. Chen1,2,
+*
+1
+Department of Chemistry & Biochemistry and 2
+School of Life Sciences, Arizona State University, Tempe,
+AZ 85287-1604, USA
+Received September 21, 2009; Revised December 7, 2009; Accepted December 9, 2009
+ABSTRACT
+Telomerase is a specialized reverse transcriptase
+that adds telomeric DNA repeats onto chromosome
+termini. Here, we characterize a new telomerase-
+specific motif, called motif 3, in the catalytic
+domain of telomerase reverse transcriptase, that is
+crucial for telomerase function and evolutionally
+conserved between vertebrates and ciliates.
+Comprehensive mutagenesis of motif 3 identified
+mutations that remarkably increase the rate or
+alter the processivity of telomere repeat addition.
+Notably, the rate and processivity of repeat
+addition are affected independently by separate
+motif 3 mutations. The processive telomerase
+action relies upon a template translocation mecha-
+nism whereby the RNA template and the telomeric
+DNA strand separate and realign between each
+repeat synthesis. By analyzing the mutant tel-
+omerases reconstituted in vitro and in cells, we
+show that the hyperactive mutants exhibit higher
+repeat addition rates and faster enzyme turnovers,
+suggesting higher rates of strand-separation during
+template translocation. In addition, the strong
+correlation between the processivity of the motif 3
+mutants and their ability to use an 8 nt DNA primer,
+suggests that motif 3 facilitates realignment
+between the telomeric DNA and the template RNA
+following strand-separation. These findings support
+motif 3 as a key determinant for telomerase activity
+and processivity.
+INTRODUCTION
+Telomerase is a specialized reverse transcriptase (RT)
+responsible for adding telomeric DNA repeats onto
+the 30
+-ends of chromosomes. Telomere elongation
+counter-balances the natural shortening of linear chromo-
+somes due to the end-replication problem, preventing
+senescence, apoptosis and genome instability (1). The deﬁ-
+ciency in telomerase function leads to limited renewal
+capacity in highly proliferative cells, and is associated
+with human diseases including dyskeratosis congenita,
+aplastic anemia and idiopathic pulmonary ﬁbrosis (2,3).
+Reconstitution of catalytically active telomerase in vitro
+requires two core components: the telomerase RNA (TR)
+and the telomerase reverse transcriptase (TERT) protein.
+The TR contains a short template region for the synthesis
+of telomeric DNA repeats, and conserved structural
+domains essential to in vivo biogenesis and assembly
+with the TERT protein. The TERT subunit is a multi-
+domain protein comprised of an N-terminal extension
+(NTE), a central catalytic RT domain and a C-terminal
+extension (CTE) (4). In most eukaryotes, the NTE consists
+of a TR binding domain and a telomerase-essential N-
+terminal (TEN) domain that binds telomeric DNA (5).
+However, the TEN domain is dispensable in certain
+species, such as insects (6). The catalytic RT domain
+encompasses seven essential motifs (1, 2, A, B, C, D
+and E) that are universally conserved among RTs (7).
+Telomerase has the unique ability to add multiple
+telomeric repeats to a given primer before complete
+dissociation from the DNA, called ‘repeat addition
+processivity’ (abbreviated to ‘processivity’). Unlike con-
+ventional RTs which can utilize a variety of single-
+stranded RNA templates, telomerase uses only a short
+sequence from its intrinsic RNA component as template.
+During telomere DNA synthesis, the 30
+-end of telomeric
+DNA base pairs with the RNA template forming an
+RNA/DNA duplex which is positioned within the
+catalytic site of TERT protein for nucleotide addition.
+When telomerase completes the synthesis of one telomeric
+DNA repeat, a ‘template translocation’ must occur
+whereby the RNA template dissociates from the DNA
+strand, translocates and realigns relative to the 30
+-end of
+the DNA, providing an unoccupied template for the next
+*To whom correspondence should be addressed. Tel: +1 480 965 3650; Fax: +1 480 965 2747; Email: jlchen@asu.edu
+1982–1996 Nucleic Acids Research, 2010, Vol. 38, No. 6 Published online 30 December 2009
+doi:10.1093/nar/gkp1198
+ß The Author(s) 2009. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.5), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+round of repeat synthesis. This translocation process is the
+rate-limiting step in a processive telomerase reaction, as
+indicated by the strong pause after each round of repeat
+synthesis, giving rise to the characteristic ladder banding
+pattern of telomere products (8,9). While the repeat
+addition rate is determined by the rate-limiting tran-
+slocation step, the processivity of the reaction is deter-
+mined by the probability, or eﬃciency, of RNA/DNA
+realignment over complete product release during
+translocation.
+The extent of telomerase processivity varies dramati-
+cally among species. Telomerase from ciliates and most
+vertebrates are highly processive (8–10). In contrast,
+telomerase from certain rodents and yeasts have little to
+no processivity (11–14). Reaction conditions and acces-
+sory proteins appear to contribute to the disparity in
+processivity observed in vitro (15–17). However, the intrin-
+sic properties of TERT and TR components are by and
+large the major determinants for the varying degrees of
+processivity observed among species.
+Mutations in both TERT and TR components have
+been found to aﬀect the rate and processivity of the
+telomerase reaction. Several elements within TERT were
+shown to be crucial for telomerase processivity. The TEN
+domain contains an ‘anchor site’ that binds single-
+stranded telomeric DNA, preventing complete product
+release from the enzyme during template translocation
+(4,18). A recent study has shown that a mutation at
+Leu14 in the Tetrahymena TEN domain abolished pro-
+cessivity while leaving activity and DNA binding aﬃnity
+intact. The Leu14 residue was proposed to function
+as an intra-molecular switch for processivity (19). In
+Saccharomyces cerevisiae, a motif called insertion in
+ﬁnger domain (IFD), located in the RT domain between
+motifs A and B, contains four conserved residues shown
+to be important for second repeat synthesis (20). Also
+within the RT domain, a point mutation in motif C of
+Tetrahymena TERT increases processivity by increasing
+protein–DNA primer aﬃnity (21). Beyond the RT
+domain, a mutation in the CTE, a putative homolog to
+the HIV RT thumb, was shown to reduce repeat addition
+processivity (22). Within the TR, the template length and
+conserved structural elements also contribute to
+telomerase processivity, through aﬀecting telomeric
+DNA/template RNA base-pairing interactions during
+template translocation (23,24) or the RNA/TERT
+protein interactions (25,26). A previous study by
+Drosopoulos et al. (27) showed that varying the
+template sequence can alter the rate of telomere repeat
+addition, possibly through modulating interactions
+between the template RNA, DNA product and TERT
+protein. Although the TERT protein was shown to con-
+tribute to the processivity of telomerase activity, its
+involvement in the regulation of telomere repeat
+addition rate is unclear.
+In this study, we carried out a comprehensive
+alanine-substitution screening in a novel motif of the
+TERT protein and discovered mutations that surprisingly
+increased the rate or altered the processivity of telomere
+repeat addition. Characterization of the in vitro reconsti-
+tuted telomerase enzymes containing these unusual
+hyperactive mutations indicates a higher rate of enzyme
+turnover or product dissociation. In addition, mutations
+that alter processivity alter the ability of the enzymes to
+use the short 8 nt primer as substrate, the use of which
+resembles the realignment of the 30
+-end of DNA with
+the template RNA—the second step of the template
+translocation. We conclude that this novel TERT motif
+is an important determinant for telomerase activity and
+processivity, regulating both strand-separation and
+realignment of telomeric DNA and template RNA
+during template translocation.
+MATERIALS AND METHODS
+Sequence alignment analysis
+The sequence alignment of the RT domain for TERT and
+other RTs was performed within the program BioEdit
+using the ClustalW algorithm, and further reﬁned
+manually using the highly conserved RT motifs as
+anchor points. The alignment was carried out initially
+for individual groups of closely related species, then
+expanded to include sequences from more divergent
+species. The complete sequence alignment is available at
+the telomerase database (http://telomerase.asu.edu) (28).
+Plasmid construction and mutagenesis
+Speciﬁc mutations in the human TERT (hTERT) genes
+were introduced into pNFLAG-hTERT (a generous gift
+from Dr Vinayaka Prasad) by site-directed mutagenesis
+using an overlapping PCR strategy (29). For in vivo
+expression of TERT, gene fragments that contain speciﬁc
+mutations were sub-cloned from pNFLAG-hTERT into
+a modiﬁed pcDNA-hTERT vector (generous gifts from
+Dr Joachim Lingner) via two SacII sites within the
+TERT gene. Intended mutations were conﬁrmed by
+sequencing.
+Reconstitution of telomerase in vitro and in cells
+Human telomerase was reconstituted in vitro using the
+TNT Quick Coupled rabbit reticulocyte lysate system
+(Promega) as described previously with minor modiﬁca-
+tions (30). To assemble telomerase, 1 mM of human TR
+(hTR) pseudoknot (nt 32–195) and CR4–CR5 (nt 239–
+328) RNA fragments were added to the hTERT synthesis
+reactions, and incubated at 30
+C for 30 min.
+To purify suﬃcient amount of mutant telomerase from
+cells for telomerase direct assay, we used the telomerase
+reconstitution system developed by Lingner’s group with
+minor modiﬁcations (31,32). Recombinant telomerase
+enzyme was reconstituted by over-expressing the hTERT
+and hTR genes in 293FT cells (Invitrogen) using
+pcDNA-hTERT and pBS-U1-hTR (generous gifts from
+Dr Joachim Lingner) as described previously. Cells were
+grown in DMEM media supplemented with 10% FBS at
+37
+C with 5% CO2. After reaching 80–90% conﬂuency,
+cells were transfected with 1 mg of plasmid DNA (200 ng of
+pcDNA-hTERT and 800 ng of pBS-U1-hTR diluted in
+50 ml of FBS-free DMEM media) and 4 ml of Fugene
+HD transfection reagent (Roche) in 12-well plates,
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1983
+following the manufacturer’s instruction. Two days post
+transfection, cells were harvested and lysed (31).
+Telomerase activity assay
+Telomerase reconstituted in vitro or in cells was assayed
+using the conventional direct primer-extension assay as
+previously described (30), with the exception of that
+0.165 mM of [a-32
+P]dGTP (3000 Ci/mmol, Perkin Elmer)
+was used in a 10 ml reaction. Telomerase processivity was
+determined by measuring the intensity of each major
+band, normalized by the numbers of 32
+P-dGTP incorpo-
+rated and plotted versus the repeat numbers as previously
+described (15). Processivity was calculated using the
+equation: Processivity = Àln 2/(2.303k), where k is the
+slope. The processivity of mutant telomerase was pre-
+sented relative to the wild-type enzyme.
+The pulse-chase time course experiments were carried
+out using in vitro reconstituted telomerase and the conven-
+tional direct assay as described above. The pulse-chase
+assay tracks the progressive extension of telomere
+products that were labeled (or pulsed) during the pulse
+reaction and extended by the processive telomerase
+enzymes during the chase reaction. During the pulse
+reaction, the enzymes add telomere repeats to the DNA
+primer with the incorporation of radioactive [a-32
+P]dGTP.
+In brief, telomerase was incubated with 4 mM (TTAGGG
+)3 primer in the presence of 1 Â PE buﬀer (50 mM Tris–
+HCl, pH 8.3, 50 mM KCl, 2 mM DTT, 3 mM MgCl2 and
+1 mM spermidine) at 30
+C for 5 min to allow suﬃcient
+primer–enzyme complex formation prior to the pulse
+reaction. The pulse reaction was initiated by the
+addition of 1 mM dATP, 1 mM dTTP, 2 mM dGTP and
+0.33 mM a-32
+P-dGTP (3000 Ci/mmol, Perkin Elmer) and
+incubated at 30
+C for 5 min. The chase reaction was
+then carried out by adding non-radioactive dGTP to
+100 mM in the reaction and incubated at 30
+C for
+various amount of time as indicated. Upon addition of
+50-fold excess non-radioactive dGTP, the initially
+labeled telomere products continue to be extended in the
+chase reaction by the same enzyme. During the chase
+reaction, the primers extended by the enzymes dissociated
+from the initially pulsed telomere products will not be
+seen. The chase reaction was terminated by ethanol pre-
+cipitation and analyzed by gel-electrophoresis. For each
+chase reaction, 10 bands with highest intensity above
+initial pulse product bands were used to deduce a
+‘modal band’ and calculate the extension rate as
+previously described (27). Because of the short extension
+time, the processivity cannot be accurately measured
+during the pulse reaction and the chase reactions at the
+early time points. Instead, telomerase processivity in the
+pulse-chase assay was determined from the ﬁrst ten major
+bands (1–10 repeats added) in the chase reaction at the last
+time point (10 min).
+For the short-primer telomerase assay, diﬀerent
+telomere primers tel8, tel10, tel12, tel15, tel18 were used
+as indicated. For Km measurements, the primers were
+supplied at varying concentrations and the reaction
+mixture was incubated for 5–60 min, which falls in the
+linear range of product formation. A 32
+P-end-labeled
+oligonucleotide (50 nt) was used as the recovery and
+loading control. The product intensity of each reaction
+was quantitated, normalized with loading control and
+expressed as a relative activity compared to the reaction
+with highest primer concentration. The relative activities
+were plotted against primer concentration and the
+Michaelis–Menten equation, Y = Vmax Â X/(Km + X),
+was used to ﬁt the nonlinear curve to determine the Km
+(Prism 5, Graphpad Software).
+To measure enzyme turnover rate, the in vitro
+reconstituted telomerase was pre-incubated with 10 mM
+tel7 primer (50
+-AGGGTTA-30
+) in the presence of 1Â PE
+buﬀer at 30
+C for 10 min. Telomerase reaction was
+initiated by addition of 2 mM dGTP and 0.33 mM
+[a-32
+P]dGTP (3000 Ci/mmol, Perkin Elmer), and aliquots
+were removed from the reaction mixture at diﬀerent time
+points. The intensity of product was ﬁrst adjusted by the
+TERT protein level, and normalized by the intensity of
+loading controls. The intensity of each band was
+normalized by that of the wild-type reaction at the last
+time point (10 min). The relative product intensities were
+then plotted against the amount of time. The slope of
+linear trend line represents the enzyme turnover rate.
+The enzyme turnover rates of mutant telomerases were
+indicated as relative values to the wild-type enzyme.
+Western blot analysis
+Ten micrograms of total protein of 293FT cell lysate was
+heated at 95
+C for 5 min in 1 Â Laemmli buﬀer (0.125 M
+Tris–HCl, pH 6.8, 2% SDS, 10% glycerol, 5%
+2-mercaptoethanol and 0.0025% bromophenol blue),
+resolved on a 6 or 8% SDS–PAGE gel, and
+electro-transferred onto the PVDF membrane. Blocking
+(overnight at 4
+C) and incubation with antibodies (1 h at
+room temperature) were carried out in 5% nonfat milk/
+1Â TTBS (20 mM Tris–HCl, pH 7.5, 150 mM NaCl and
+0.05% Tween 20). Anti-hTERT goat polyclonal antibody
+L-20 (Santa Cruz Biotechnology) and anti-GAPDH
+mouse monoclonal antibody 6C5 (Ambion) were used as
+the primary antibodies. After incubation with the HRP-
+conjugated secondary antibody (Santa Cruz Biotech-
+nology), the blots were developed using the Immobilon
+Western Chemiluminescent HRP substrate (Millipore),
+and the blot images were acquired and analyzed using a
+Gel Logic440 system (Kodak).
+Northern blot analysis
+Total RNA was extracted from transfected cells using
+Tri-reagent (Molecular Research Center, Inc.) following
+manufacturer’s instruction. Three micrograms of total
+RNA was resolved on a 4% polyacrylamide/8 M urea
+denaturing gel and electro-transferred to the Hybond-
+XL membrane (GE Healthcare). Preparation of the
+riboprobes and hybridization of the blot were carried
+out as described previously (9).
+Homology modeling
+The RNA–DNA duplex was modeled into the Tribolium
+TERT structure (3DU6) by superimposition with the
+HIV1 p66 structure (1HYS) containing an RNA/DNA
+1984 Nucleic Acids Research, 2010, Vol. 38, No. 6
+duplex. The two pdb ﬁles were superimposed in the CCP4
+program using the following seven conserved resides
+within the RT domain as anchor points: three Asp
+residues in motifs A and C; Arg in motif 2; Glu and Gly
+in motif B; and Gly in motif E. These seven residues are
+highly conserved between TERTs and retroviral RTs.
+RESULTS
+Sequence conservation of motif 3
+The novel motif 3, located in the catalytic RT domain of
+TERT between motifs 2 and A (Figure 1A), was
+previously found conserved in vertebrate and invertebrate
+chordates (33). To determine the extent of conservation of
+this motif in species beyond chordates, we extended the
+sequence alignment analysis to include additional groups
+of eukaryotes (detailed in ‘Materials and Methods’
+section). Remarkably, the sequence of motif 3 is conserved
+also in non-yeast fungi, plants and ciliates (Figure 1B).
+The conservation of motif 3 sequences over a large evolu-
+tionary distance, from vertebrates to ciliates, implies
+necessity for telomerase function. Secondary-structure
+prediction of the motif 3 sequences from a large number
+of species suggested a putative helix–coil–helix fold
+(Supplementary Figure S1A). Interestingly, the recent
+crystal structure of TERT from an insect, Tribolium
+castaneum, contains a helix–coil–helix structure between
+motif 2 and A, supporting the secondary-structure predic-
+tion (34). Despite the apparent similarity in predicted
+secondary-structure, TERTs from insects, nematodes
+and yeasts did not show the same degree of sequence con-
+servation, particularly in the central region of motif 3
+(Supplementary Figure S2). Previously in the RTs
+closely related to the TERT, including the Penelope-like
+retrotransposons, non-LTR retrotransposons and group
+II introns, a conserved motif between motif 2 and A was
+identiﬁed as motif 2a (35–37), which however shares no
+common sequence to the TERT motif 3 (Supplementary
+Figure S2). Since motif 3 appears conserved speciﬁcally in
+vertebrates and ciliates whose telomerase is highly
+processive, but not in yeasts whose telomerase is not
+processive, we speculated that motif 3 might be important
+for telomerase processivity.
+Mutations in motif 3 aﬀect telomerase activity and
+processivity independently
+To experimentally determine the function of motif 3, we
+conducted comprehensive alanine substitution mutagenesis
+on human TERT and analyzed the telomerase mutants
+reconstituted in rabbit reticulocyte lysate (RRL) for
+activity and processivity (see ‘Materials and Methods’
+section). Certain residues in motif 3 appear to be critical
+for telomerase catalysis, as the alanine substitutions
+W690A and F693A nearly abolished telomerase activity
+(Figure 2A, lanes 38 and 42). This is not unexpected for
+the F693 residue as it is one of the three most conserved
+residues in motif 3 (Figure 1B). The W690 residue,
+although not as highly conserved as F693, is naturally
+A
+B
+Figure 1. Multiple sequence alignment of TERT motif 3. (A) Schematic of domain and motif organization of human TERT protein. Motif 3 (red)
+and the conserve RT motifs 1, 2 and A–E (cyan and blue) are colored. (B) Sequence alignment of TERT motif 3 from vertebrates, invertebrates,
+fungi, plants and ciliates. Shading indicates a minimum of 55% identity (dark cyan, red and blue) and 55% similarity (light cyan, red and blue)
+conservation. The degree of identity conservation with the human sequence at each residue is shown below the sequence alignment. No conservation
+determined where more than two sequences had gaps present. Darker shading indicates greater identity conservation with the human sequence
+(<30% light, 30–60% medium and >60% dark).
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1985
+Relative
+Activity
+w
+ild-typeR
+657AV658AK659A
+L661AF662AS663AV664AL665AN
+666AY667AE668AR
+669A
+R
+671A
+L683AD
+684A
+G
+682A
+L681A
+V680A
+S679A
+n/a
+L676AG
+677A
+L675A
+G
+674A
+P673A
+R
+672A
+n/a
+D
+685AI686AH
+687AR
+688A
+W
+690A
+n/a
+R
+691AT692AF693AV694AL695AR
+696AV697A
+n/a
+Relative
+Processivity
+hTERT:
+l.c.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+w
+ild-type
+negativeR
+657AV658AK659AL661AF662A
+w
+ild-type
+S663A
+V664AL665AN
+666AY667AE668AR
+669AR
+671A
+L683AD
+684A
+G
+682A
+L681A
+V680A
+S679A
+w
+ild-type
+L676AG
+677A
+L675A
+G
+674A
+P673A
+R
+672A
+w
+ild-type
+negative
+w
+ild-type
+negative
+D
+685AI686AH
+687AR
+688AW
+690A
+w
+ild-type
+R
+691A
+T692AF693AV694AL695AR
+696AV697A
+motif 3
++4
++10
++16
++22
++28
++34
++40
+(%)(%)
+A
+B
+Figure 2. Alanine substitution screening of motif 3. (A) Activity assays of the motif 3 mutants. Human telomerases with alanine substitutions in
+motif 3 were reconstituted in vitro and assayed for activity. Numbers on the left (+4, +10, +16, etc.) of the gel indicate the number of nucleotides
+added to the primer in each major band. l.c.: loading control, a 32
+P-end-labeled 15-nt DNA oligonucleotide, shown with the contrast adjusted. Below
+the gel, the [35
+S] methionine labeled TERTs analyzed by SDS–PAGE for quantitation are shown. (B) Quantitation of activity and processivity of
+motif 3 mutants. The residues in the human motif 3 sequence are shaded according to their identity and similarity as shown in Figure 1B. Below the
+sequence, the bar graph shows the activity and processivity of each mutant relative to wild-type. The dash line across the graph indicates the wild-type
+level of activity and processivity. The shaded bars indicate a relative activity lower than 50% or a processivity lower than 75% of the wild-type level.
+Alanine residues in the wild-type motif 3 sequence were omitted from the analysis and labeled as n/a (not available). Error bars indicate the standard
+deviation derived from 2–4 independent experiments. Asterisk: for the mutants with an extremely low activity, a special assay (3-fold more enzyme
+and reagents, and longer exposure time of the gel) was performed to determine processivity.
+1986 Nucleic Acids Research, 2010, Vol. 38, No. 6
+substituted with hydrophobic leucine or valine in most
+species (Figure 1B).
+An intriguing ﬁnding from analyzing these motif 3
+mutants was that telomerase activity and processivity
+can be independently altered (Figure 2). Three mutations
+(V658A, K659A and R669A) in the N-terminal region of
+motif 3 increased telomerase activity up to 1.7-fold, but
+had diﬀerent eﬀects on processivity (Figure 2B). For
+example, mutant V658A is hyperactive and hyper-
+processive, compared to wild-type enzyme (Figure 2A,
+lane 4). In contrast, hyperactive mutants K659A and
+R669A had reduced processivity (Figure 2A, lanes 5
+and 15). Unlike V658A, mutants E668A, D684A and
+V697A showed greater processivity, but lower activity
+(Figure 2B). Mutations L661A, N666A, R669A, L681A,
+G682A and I686A, while all reduced processivity, altered
+activity diﬀerently (Figure 2B). In summary, the analysis
+of motif 3 mutants showed no correlation between
+changes in activity and changes in processivity, suggest-
+ing that telomerase activity and processivity are indepen-
+dent and possibly regulated through separate mechanisms.
+To determine if the telomerase mutants assembled
+in vitro and in cells behave similarly, we assayed
+two hypo-processive mutants (G682A and I686A) and
+three hyper-processive mutants (E668A, D684A and
+V697A). The mutant telomerases were reconstituted by
+over-expressing the full-length hTR and mutant hTERT
+genes in the 293FT cells to generate high telomerase
+activity suﬃcient for direct telomerase assay, a system
+developed by Cristofari and Lingner (31,32). The endog-
+enous telomerase activity from 293FT cells transfected
+with the empty vector was undetectable by the direct
+primer-extension assay (Figure 3, lane 1). The telomerase
+mutants reconstituted in RRL and in human cells
+exhibited similar levels of activity and processivity
+(Figure 3, lanes 7, 8, 16, 17 and 18), conﬁrming the
+results from the in vitro reconstituted enzymes. Addi-
+tionally, we rescued two nearly inactive alanine-
+substituted mutants, L665A and F693A, with substitu-
+tions of conservative amino acids L665I and F693Y
+(Figure 3, compare lanes 10 to 11 and 12 to 13), suggesting
+the bulky hydrophobic side-chains of these two residues
+are required for telomerase function.
+We also tested two disease-associating motif 3 muta-
+tions, G682D and V694M, previously identiﬁed
+in aplastic anemia patients (38,39). While both muta-
+tions signiﬁcantly reduced telomerase activity (Figure 3,
+lanes 9 and 20), the G682D mutation also caused a signiﬁ-
+cant reduction in processivity (Figure 3, lane 20).
+The reduced telomerase activity and processivtiy of the
+disease-associating motif 3 mutants, together with the
+shortened telomere length in the patients harboring
+the mutations, support the importance of motif 3 for
+telomerase function and telomere maintenance in vivo.
+The length of N-terminal linker of motif 3 aﬀects
+telomerase activity
+Based on the sequence alignment, the upstream linker con-
+necting motif 3 to 2 is more variable in length than the
+downstream linker connecting motif 3 to A (Figure 1B).
+To assess the functional importance of the motif 3
+ﬂanking linkers, we generated TERT mutants with inser-
+tions (i644AAA645 and i702KKK703) or deletions
+(d643–649 and d699–701) in the linker regions and
+assayed the in vivo reconstituted enzymes for telomerase
+activity.
+Both linker regions are more sensitive to deletions
+than insertions. Insertions i644AAA645 (N-terminal
+linker) and i702KKK703 (C-terminal linker) did not
+signiﬁcantly decrease telomerase activity or processivity
+(Figure 3, lanes 4 and 6). In contrast, deletions in the
+linker regions caused dramatic alterations in telomerase
+activity. The 3-residue deletion d699–701 in the
+C-terminal linker 3/A nearly abolished activity
+(Figure 3, lane 5). Surprisingly, a 7-residue deletion
+d643–649 in the N-terminal linker increased activity by
+nearly two-fold without signiﬁcant changes in processivity
+(Figure 3, lane 3). The N-terminal linker appeared more
+ﬂexible than of the C-terminus, as a 12-residue deletion in
+the N-terminal linker did not aﬀect telomerase activity
+(data not shown). Notably, the hyperactive alanine-
+substitution mutations, V658A, K659A, R669A, are
+located within the N-terminal portion of motif 3 near
+the upstream linker, implicating a similar role for the
+N-terminal linker and the N-terminal portion of motif 3
+in regulating telomerase activity.
+Hyperactive motif 3 mutants exhibit faster rates
+of repeat addition
+To determine if the greater activity observed within the
+hyperactive mutants was due to faster repeat addition,
+we carried out a pulse-chase time-course assay to
+measure repeat addition rate. Our results demonstrate
+that, regardless of their diﬀerences in processivity, the
+hyperactive d643–649, V658A, K659A and R669A
+mutants add telomere repeats at a faster rate of
+5–6 repeats/min, higher than the wild-type enzyme,
+3–4 repeats/min (Figure 4, lanes 7–32). Conversely, the
+hypoactive mutants E668A, D684A and V697A present
+slower repeat addition rates than the wild-type enzyme
+(Figure 4, lanes 38–52). These results suggest a critical
+role for motif 3 in regulating repeat addition rate of
+telomerase enzyme.
+The increase or decrease in repeat addition rate is inde-
+pendent of the processivity level of the mutants. In the
+pulse-chase assay, the extent of telomerase processivity
+was measured at the last time point where the processive
+enzyme–product complexes have already moved up to
+the top of the gel and separated from the products disso-
+ciated from the enzyme during the time course. While
+the hyperactive V658A mutant was more processive, the
+other two hyperactive mutants, K659A and R669A, were
+less processive (Figure 4, compare lanes 17, 22, 27 and 32).
+Moreover, by combining two motif 3 mutations
+(d643–649 and V658A) and an hTR-57C template
+mutation that increases processivity (23), we generated a
+telomerase mutant that is super-active and super-
+processive, demonstrating an additive eﬀect for these
+mutations in telomerase activity and processivity
+(Supplementary Figure S3, lane 6).
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1987
+Low-processivity motif 3 mutants are defective in utilizing
+short DNA primers
+The motif 3 mutations that altered processivity presum-
+ably aﬀected either the template realignment or product
+release step of translocation, as telomerase processivity
+correlates to the probability of template realignment
+over product release. To determine if the low-processivity
+mutations aﬀect the template realignment step, we
+designed a short primer assay to analyze the ability of
+telomerase to use short primers that, when base-pair
+with the RNA template, leave no single-stranded
+overhang for the TEN domain anchor site to bind
+(Figure 5B). This assay thus discounts the eﬀect of
+the TEN domain on substrate binding, as it binds to the
+upstream single-stranded region of a longer telomeric
+DNA primer (40). The base-pairing between the short
+tel8 DNA primer and the template RNA resembles the
+realignment of the 30
+-end of telomeric DNA with the
+RNA template during translocation. By using a short
+primer, i.e. the 8-nt tel8 primer, in the telomerase assay,
+we can then determine solely the contribution of motif 3 in
+facilitating formation, or recognition, of the RNA/DNA
+duplex inside the active site. Thus, a low-processivity
+mutant with an inability to complete the realignment
+step in a translocation cycle would be predicted unable
+to use a short primer as substrate.
+Figure 3. Activity assay of telomerase mutants reconstituted in cells. Top panel: Mutant telomerases were reconstituted in 293FT cells and analyzed
+for activity. The TERT mutants d643-649 and d699-701 contain deletions of 7 and 3 residues, respectively. The TERT mutants i644AAA645 and
+i702KKK703 contain insertions of three alanine residues and three lysine residues between 644–645 and 702–703, respectively. The TERT mutants
+that contain diﬀerent amino acid substitutions at the same residue are indicated by brackets. Numbers on the right (+1, +2, +3 etc.) indicate the
+number of repeats added to the telomeric primer. A 32
+P-end-labeled 15-mer DNA oligonucleotide is used as a loading control (l.c.). Middle panel:
+Expression level of hTERT protein in the transfected cells was analyzed by western blots of hTERT and GAPDH using anti-hTERT L-20 and
+anti-GAPDH antibodies. The level of GAPDH was used as a loading control. Bottom panel: Expression level of hTR in the transfected cells was
+analyzed by northern blots of hTR and 5S ribosomal RNA (rRNA) using riboprobes against hTR or 5S rRNA. The level of 5S rRNA was used as a
+loading control. The endogenous hTR is not visible in the vector-only sample (lane 1) due to the short exposure time. Quantitation of telomerase
+activity and processivity of telomerase reconstituted in cells in relation to the wild-type TERT are shown below the gel (in vivo reconstituted
+telomerase). Activity and processivity of telomerase mutants reconstituted in vitro analyzed in Figure 2 is shown at bottom for comparison
+(in vitro reconstituted telomerase). n/d: not determined.
+1988 Nucleic Acids Research, 2010, Vol. 38, No. 6
+131415161718192021222324252627282930313233343536373839404142123456789101112
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+Wild-typeV658AK659AR669A
+3.895.665.52n/d
+10010583.476.3
+Reaction
+time(min)
+Extensionrate
+(repeats/min)
+Relative
+processivity(%)
+Wild-typeE668A
+2.972.36
+100109
+pulse
+chase
+after
+5246810
+5
+m
+in
+pulse
+Wild-typed643-649
+pulse
+chase
+after
+5246810
+5
+m
+in
+pulse
+3.184.98
+10091.9
+********
++1
++2
++3
++4
++5
++6
++7
++8
++9
++10
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+pulse
+chase
+after
+52468
+5
+m
+in
+pulse
+43444546474849505152
+D684AV697A
+2.862.64
+115109
+**
+Figure4.Pulse-chasetimecourseanalysistomeasurerepeatadditionratesofthemotif3mutants.Invitroreconstitutedwild-type,hyperactive(d643-649,V658A,K659AandR669A)or
+hypoactive(E668A,D684AandV697A)telomerasemutantswereincubatedwith(TTAGGG)3primerinthepulsereactionfor5mininwhichthe[a-32
+P]dGTPisincorporatedtothenewly
+synthesizedtelomererepeats.After5minofpulsereaction,non-radioactivedGTPwasaddedto100mMtoinitiatethechasereactionsandthereactionswereterminatedatdiﬀerenttimepoints
+(2–10min).Theverticallinesonthegeldenotethemajorbandsoftelomereproductssynthesizedandlabeledintheinitial5-minpulsereaction,andextendedinthefollowingchasereactions.
+Numbersontheright(+1,+2,+3,etc.)indicatethenumberofrepeatsaddedtothetelomericprimer.Repeat-extensionrate,expressedasrepeatsperminute,ofeachenzymewerecalculated
+(see‘MaterialsandMethods’section)andindicatedbelowthegel.Asteriskdenotesthe10minchasereactionfromwhichtheprocessivityofeachmutantwasmeasuredbasedontheﬁrst10
+majorbands(repeats1–10)(see‘MaterialsandMethods’section).
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1989
+Using the short-primer assay, we tested six motif 3
+mutants (V658A, N666A, L681A, G682A, D684A and
+I686A) with either increased or decreased processivity.
+In addition to motif 3, we also analyzed low-processivity
+mutations that are located in other parts of TERT, or in
+the TR component. Mutations N95A (TEN), L980A
+(CTE), 790-VVIE-793-4A (IFD) and hTR-A55G (RNA
+template) have been previously shown to reduce
+telomerase processivity (20,22,23,41). The wild-type
+telomerase can utilize all primers (8, 10, 12 or 18 nt)
+tested with similar activity (Figure 5A, lanes 1–4).
+Remarkably, the low-processivity mutants, N666A,
+L681A, G682A, I686A, 790-VVIE-793-4A, L980A and
+hTR-A55G, that can extend longer primers normally,
+had little to no activity when using the short tel8 primer
+(Figure 5A, lanes 13, 17, 21, 29, 33, 37 and 41). This
+suggests these mutations compromised the ability of
+TERT in promoting RNA/DNA duplex formation or
+positioning the duplex into the active site for the ﬁrst
+repeat synthesis. As would be expected, the
+hyper-processive mutants V658A and D684A utilized the
+short tel8 and the longer primers with equal eﬃciency
+(Figure 5A, lanes 9 and 25). The TEN domain N95A
+mutant, while having low processivity, can however
+extend the short tel8 primers eﬃciently (Figure 5A,
+lane 5). The TEN domain thus does not appear to play
+a role in facilitating primer/template realignment, instead
+preventing product release during template translocation
+through DNA binding. When using tel10 and tel12
+primers, all enzymes gave rise to stronger ﬁrst bands
+(10 + 2 and 12 + 2) than the subsequent bands, indicat-
+ing a lower eﬃciency for the ﬁrst translocation event
+8+2
+10+2
+12+2
+18+2
+1 2 3 4 5 6 7 8 9 10 1112 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44
+tel8 (8 nt)
+tel10 (10 nt)
+tel12 (12 nt)
+tel18 (18 nt)
+-3'5'-
+-3'5'-
+-3'5'-
+5'- -3'
+hTR
+5'
+Telomere primers
+3'
+Alignment
+region
+Template
+region
+55
+L681A
+(motif 3)
+G682A
+(motif 3)
+V658A
+(motif 3)
+N666A
+(motif 3)
+D684A
+(motif 3)
+I686A
+(motif 3)
+790-793
+VVIE-4A
+(motif IFD)
+A55G
+(hTR)
+L980A
+(CTE)
+(nt)
+primer
+length
+N95A
+(TEN)Wild-type
+8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18 8 10 12 18
+A
+B C
+Figure 5. Activity assay of telomerase mutants using primers with various lengths. (A) Telomerases with speciﬁc mutations in TERT or TR indicated
+were assayed for activity using telomere primers, tel8, tel10, tel12 or tel18, with length ranging from 8 to 18 nt. Due to the diﬀerence in overall
+activity between mutants, the gel image of each mutant was adjusted to have similar intensity for better comparison of the products of diﬀerent
+primers. The numbers (8 + 2, 10 + 2, 12 + 2, etc.) labeled on the right of the gel indicate the length of the primer plus the number of nucleotides
+added. The black triangle on the left of the gel indicates the ﬁrst repeat product extended from the tel8 primer. (B) The four diﬀerent primers are
+aligned with hTR template sequence. The alignment (nt 52–56) and template (nt 46–51) regions are shaded in grey and black, respectively. (C) The
+Kapp
+m values for telomere primers of various lengths. The apparent Km values are determined from experiments using tel8, tel10, tel12 or tel18 primers
+at various concentrations and by ﬁtting the data to the Michaelis–Menten equation (see ‘Materials and Methods’ section). Standard deviations
+(n = 3–4) are given in parentheses. n/d: not determined.
+1990 Nucleic Acids Research, 2010, Vol. 38, No. 6
+(Figure 5A). This phenomenon is also consistent with the
+notion that TEN domain binding to the longer DNA
+primer facilitates template translocation.
+To quantitatively determine the ability of these
+processivity mutants to utilize short primers as substrate,
+we measured the Km of the wild-type and mutant enzymes
+to the tel8 DNA primer. All mutants that failed to extend
+the tel8 primer had higher Km values ranging from 2.76 to
+5.31 mM, 5–10-fold higher than the 0.56 mM of the
+wild-type enzyme (Figure 5C). In contrast, mutants that
+retained the ability to extend the tel8 primer had Km
+values similar to or lower than the wild-type enzyme.
+For example, the most processive mutant D684A has a
+Km of 0.33 mM, signiﬁcantly lower than that of the
+wild-type (Figure 5C). Compared to tel8, primers tel10
+and tel12 can still be used eﬃciently by the wild-type
+and mutant enzymes, with Km ranging from 80 to
+680 nM (Figure 5A and 5C). When the longer tel18
+primer (18 nt) was used, the wild-type enzyme and all
+mutants, with the exception of the TEN N95A mutant,
+had similar Km values $100 nM (Figure 5C).
+The hTR-A55G template mutation resulted in a
+mismatch between the RNA template and the DNA
+substrate (Figure 5B), leading to a high Km for the tel8
+primer (Figure 5C) and lower processivity (Figure 5A,
+lanes 41–44). The IFD motif, found ﬁrst in yeast, also
+contributes to the repeat addition processivity (20).
+Based on the sequence alignment, we divided the IFD
+into three regions, termed IFD-a, -b and -c (see
+Supplementary Figures S1B and S4). Our human IFD-b
+mutant (790-VVIE-793-4A) causes a phenotype similar
+to motif 3, CTE and the hTR template mutants, conﬁrm-
+ing that IFD-b is indeed required for processivity (Figure
+5A, lanes 33–36).
+The TEN N95A mutant had a higher Km value of
+0.16 mM to the 18 nt tel18 primer, presumably due to a
+reduced binding aﬃnity to the 50
+-end single-strand
+region of the longer DNA primer (Figure 5C). This
+supports that the TEN domain is a major contributor
+for the overall substrate aﬃnity as proposed previously.
+The strong correlation between the processivity and the
+Km to the tel8 primer of the motif 3, IFD and CTE
+mutants ascertain that these elements contribute to the
+formation or positioning of an extendable RNA/DNA
+duplex substrate in the active site.
+Hyperactive telomerase mutants have higher enzyme
+turnover rates
+Since template translocation is the rate-limiting step in the
+processive telomerase reactions, the increased repeat
+addition rate observed with the hyperactive mutants
+should result from a greater translocation rate. Strand-
+separation between the telomeric DNA and the template
+RNA is a crucial step of template translocation. Taking
+advantage of the short primer assay, we asked if the hyper-
+active mutants have a faster dissociation rate for extended
+telomere product from the template, which resembles the
+strand-separation step of template translocation. Since the
+tel8 primer still gave rise to multiple repeats products,
+indicating successful translocation events, we thus used
+an even shorter tel7 DNA primer, 50
+-AGGGTTA-30
+(7-nt) and only dGTP in the reaction to prevent any
+possible realignment of the telomeric DNA product with
+the RNA template after one round of repeat synthesis.
+Without the interference from TEN domain or other
+DNA binding sites, this time-course assay focused primar-
+ily on the rate of product dissociation from the active site.
+Our results from this time-course analysis indicated that
+all hyperactive mutants d643-649, V658A, K659A and
+R669A have higher enzyme turnover rates than the
+wild-type enzyme (Figure 6). The higher turnover rates
+of these mutants were not due to higher substrate
+binding aﬃnity, as these hyperactive mutants had a Km
+higher or similar to that of the wild-type enzyme
+(Figure 6B) and the reactions were performed at a satu-
+rated substrate concentration of 10 mM (see ‘Materials and
+Methods’ section). The high Km values of the hyperactive
+mutants K659A and R669A were consistent with their low
+processivity as shown above (Figures 4 and 6B). Con-
+versely, the hypoactive mutants E668A, D684A and
+V697A that showed lower repeat addition and template
+translocation rates (Figure 4) had lower enzyme turnover
+rates (Figure 6B). Together, these results suggest that the
+increased template translocation rates of the hyperactive
+motif 3 mutants are likely due to the higher dissociation
+rates of products from the active site after each round of
+repeat synthesis.
+DISCUSSION
+The repeat addition processivity of telomerase relies on a
+unique template translocation mechanism that presum-
+ably requires novel structural elements within the TERT
+protein. The telomerase-speciﬁc motif 3 we characterized
+in this study has been overlooked in the past, in part due
+to the low degree of sequence conservation among
+eukaryotic lineages, the presence of variable linkers and
+the ineﬃciency of alignment algorithms (Figure 1 and
+Supplementary Figure S2). In this study, through a com-
+prehensive mutagenesis analysis within motif 3 (Figure 2),
+we identiﬁed mutations that unusually increased the rate
+or altered the processivity of telomere repeat addition
+(Figures 3 and 4). By using a novel short-primer assay
+to determine the binding aﬃnity of the mutants to short
+DNA primers (Figure 5) and the time-course analysis to
+measure enzyme turnover rates (Figure 6), we showed that
+motif 3 mutations aﬀect repeat addition rate and
+processivity, suggesting a crucial role for motif 3 in
+strand-separation and realignment during template
+translocation.
+Our sequence alignment analysis and secondary-
+structure prediction on motif 3 provide useful insights
+into the function and evolution of this motif. The second-
+ary structures of motif 3 predicted from diﬀerent TERT
+homologs are surprisingly conserved (Supplementary
+Figure S1A) and consistent with the crystal structure of
+Tribolium castaneum TERT (34). The secondary-structure
+prediction of TERT sequences from all available species
+suggests that the motif 3 region consists of two a-helices
+separated by a conserved linker (Supplementary
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1991
+A
+B
+Figure 6. Enzyme turnover rates of the hyperactive and hypoactive motif 3 mutants. (A) Telomerase activity time course analysis of the hyperactive
+(d643–649, V658A, K659A and R669A) and hypoactive (E668A, D684A and V697A) mutant telomerases. The reactions were performed using a 7-nt
+telomere primer 50
+-AGGGTTA-30
+and incubated for various amounts of time (0, 2, 5 and 10 min) as indicated. The reactions were carried out in the
+presence of only 32
+P-dGTP nucleotide to prevent processive reactions. A 32
+P-end-labeled 15-nt DNA oligonucleotide is used as the loading control
+(l.c.). The in vitro synthesized TERT proteins (wild-type, d643–649, V658A, K659A, R669A, D684A, E668A and V697A) were labeled with [35
+S]-
+methionine and quantitated after SDS–PAGE. (B) Quantitation of enzyme turnover rates of the hyperactive and hypoactive telomerase mutants. For
+each telomerase enzyme, the intensity of products was adjusted with protein amount and normalized by the intensity of loading control. For each set
+of reactions, the product intensities are further normalized to that of the wild-type reaction at the 10 min time point. The relative product intensities
+were then plotted against the amount of time. Wild-type (ﬁlled circle); d643–649 mutant (square); V658A (triangle); K659A (reverse triangle); R669A
+(diamond); D684A (cross); E668A (dotted diamond); V697A (plus). The relative enzyme turnover rates were determined from slopes of the linear
+trend lines in relation to that of the wild-type enzyme. The apparent Km values of diﬀerent telomerase mutants toward the tel7 primer were
+determined by ﬁtting the data to Michaelis–Menten equation. The standard deviation was derived from three independent experiments.
+1992 Nucleic Acids Research, 2010, Vol. 38, No. 6
+Figure S1A and data not shown), consistent with the
+Tribolium crystal structure. To display the physical
+location of motif 3 in relation to other TERT domains
+and the RNA/DNA duplex, we mapped the sequence of
+the two putative a-helices of human motif 3 onto the
+crystal structure Tribolium TERT based on the structural
+and sequence homology. To speciﬁcally denote the diﬀer-
+ent structural features, we divided motif 3 into three
+sub-motifs, 3a, 3b and 3c, where 3a and 3c designate the
+two separate a-helices and 3b designates the spanning
+linker (Figure 7A). While the sequences of helices 3a and
+3c are well conserved in most organisms, the sequence of
+linker 3b is conserved most speciﬁcally within vertebrates,
+non-yeast fungi, plants and ciliates (Figures 1B and 7A).
+This group-speciﬁc sequence conservation of linker 3b
+suggests a role important for telomerase function in
+most species, yet dispensable and lost in species including
+nematodes, insects and yeasts (Supplementary Figure S2).
+Our comprehensive mutagenesis surveyed the func-
+tional eﬀects of alanine-substitution at individual
+residues of motif 3. Although alanine-substitution at
+most of the highly conserved residues resulted in
+CTE
+K659A
+V658A
+d643-649
+Mutations that increase repeat addition rate
+(increase enzyme turnover rate)
+Mutations that affect processivity
+(affect affinity to short primers)
+IFD
+R669A
+VVIE790-793AAAA(-)
+I686A(-)
+D684A(+)
+L681A(-)
+R669A(-)
+3a
+3c
+3c
+G682A(-)
+3a
+L980A(-)
+L661A(-)
+V658A(+)
+N666A(-)
+V697A(+)
+A
+B
+Figure 7. Homologous locations of human TERT mutations on the Tribolium TERT structure. (A) Sequence alignment and predicted secondary
+structures of human and Tribolium motif 3. Residues critical for repeat addition rate are shaded in green, while critical residues for processivity are
+shaded in blue; asterisk indicates both. The residues that abolish activity when mutated are colored red. The secondary structure (a-helix shown as a
+cylinder) based on the crystal structure of Tribolium TERT is shown below the predicted secondary structures. The predicted secondary structures
+(a-helix shown in blue and b-sheet shown in red) based on three algorithms: YASPIN, PSI and JPred (see Supplementary Figure S1A). Black/grey
+boxes located between human and Tribolium sequences indicate identity/similarity. The alignment is based on optimal positioning within the
+predicted helix sequence. (B) Mutations in human TERT that aﬀect repeat addition rate and processivity are mapped onto the crystal structure
+of Tribolium TERT. Left panel: mutations that increase repeat addition rate are located in helix 3a and its N-terminal linker that connects motif 2 to
+helix 3a. Right panel: mutations that aﬀect processivity and RNA/DNA duplex formation are dispersed in the IFD, motif 3 and the CTE. The blue
+arrowheads indicate putative locations for the human TERT sequences (IFD-b and motif 3b) absent from the Tribolium TERT. The (+) and (À)
+following the mutations denote an increase or decrease in processivity. Superimposed hetero-duplex of RNA strand (green) and DNA strand (blue).
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1993
+signiﬁcant changes in telomerase activity or processivity,
+mutations at the residues V664A, L676A and S679A
+showed no dramatic changes (Figure 2B). It was
+however expected that alanine substitutions do not
+always give the same degree of eﬀects for all conserved
+residues, due to unique structural and chemical properties
+within various amino acids. Substitutions to amino acids
+other than alanine will presumably produce diﬀerent
+phenotypes.
+The mutations (L681A, G682A and I686A) that
+severely impair processivity are located in linker 3b
+(Figures 2B and 7B, right), suggesting a primary role for
+this linker in regulating the template translocation eﬃ-
+ciency and repeat addition processivity. In comparison,
+mutations (d643–649, V658A, K659A and R669A) that
+signiﬁcantly increase telomerase activity are located in
+the helix 3a and its N-terminal linker (Figure 7B, left),
+suggesting that helix 3a is more important in regulating
+the rate of template translocation and repeat addition.
+However, helix 3a might play an additional role in
+telomerase processivity as several mutations (V658A,
+L661A, N666A, E668A and R669A) in motif 3a also sub-
+stantially altered processivity.
+The role of motif 3 on repeat addition rate
+The three mutations in motif 3a, V658A, K659A and
+R669A, and the deletion d643–649 in N-terminal linker
+of motif 3a remarkably increased the repeat addition
+rate (Figure 4), presumably due to an increase in
+template translocation rate. This increase in repeat
+addition rate is independent of the processivity, as some
+hyperactive mutants have decreased processivity
+(Figure 4). The combination of a high addition-rate
+mutation with a low-processivity mutation did not
+reduce the repeat addition rate of the enzyme (data not
+shown), supporting that the rate and processivity of
+telomerase are regulated separately, as previously
+proposed (27).
+The higher enzyme turnover rates measured in the
+non-processive short primer assay suggest faster product
+dissociation (or strand-separation) for the motif 3 hyper-
+active mutants (Figure 6), assuming that the product dis-
+sociation is the rate-limiting step. This is consistent with
+the observation of the hyperactive mutants showing faster
+template translocation in the processive pulse-chase assay,
+in which the translocation is the rate-limiting step
+(Figure 4). We propose that the putative helix 3a and its
+N-terminal linker regulate the strand-separation step of
+template translocation and thus modulate the rate of
+repeat addition. It remains unclear if the strand-separation
+of the RNA/DNA hybrid involves a conformational
+change to helix 3a or its N-terminal linker. We hypothe-
+size that the long N-terminal linker could function in
+allowing helix 3a to swing away from the active site, per-
+mitting the RNA/DNA duplex to dissociate from the
+active site and the two strands to separate from each
+other (Figure 7B). A source of energy for such a
+conformational change could originate from the
+movement and distortion of DNA/RNA duplex during
+repeat synthesis as previously proposed (42).
+The role of motif 3 on repeat addition processivity
+Mutations at conserved residues within motif 3, the CTE
+and the IFD of TERT as well as the template region of TR
+aﬀected telomerase processivity and the ability to use
+short telomere primers (Figures 5 and 6). The retained
+ability of the wild-type enzyme to extend the short tel7
+and tel8 primers indicates that the catalytic core of
+TERT protein alone is capable of promoting the forma-
+tion of, or recognizing, the RNA/DNA duplex substrate
+inside the active site independent of the TEN domain. The
+ability of telomerase to use the short primer correlates to
+the processivity of repeat addition as it resembles the
+second step of the translocation event, where the RNA
+and DNA realign to form the hetero-duplex inside the
+active site for the next round of repeat synthesis. The
+fact that the TEN N95A mutant can eﬃciently elongate
+the tel8 primer is consistent with the notion that this TEN
+mutation impairs the binding to the upstream
+single-stranded region of telomeric DNA primer, repre-
+senting a diﬀerent mechanism to aﬀect telomerase
+processivity.
+It was however unexpected that the wild-type enzyme
+would be capable of adding more than one telomere
+repeats to the 8-nt DNA primer in the absence of
+upstream single-stranded sequence for TEN binding
+(Figure 5A, lane 1). The synthesis of multiple repeats indi-
+cates the occurrence of template translocation after the
+synthesis of the ﬁrst repeat. Although the tel8 primer
+does not initially leave a single-stranded overhang when
+base-paired with the RNA template, it would potentially
+have the 50
+-end unpaired from the template during cycles
+of nucleotide addition, while maintaining a constant
+number of base-pairings between the telomeric DNA
+and the template RNA, as previously proposed (43).
+Since the TEN domain requires a longer single-stranded
+DNA overhang for binding, a more adjacent DNA
+binding site (the template-proximal anchor site) in the
+RT domain would thus seem responsible for binding the
+partially unpaired 50
+-end of the short tel8 DNA primer
+(41,44).
+Our results suggest that motif 3, CTE and IFD contrib-
+ute to the realignment of telomeric DNA and the RNA
+template, i.e. the reformation of RNA/DNA duplex. In
+support of this notion, the crystal structure of Tribolium
+TERT shows that these three motifs are located adjacent
+to the RNA/DNA duplex, forming a horseshoe shaped
+structure encircling the duplex (Figure 7B). The majority
+of the motif 3 mutations that severely impaired the
+enzyme’s processivity and short primer usage are located
+in linker 3b (Figure 7). We envision the conserved motif
+3b would act as a molecular hinge, positioning helix 3a
+and the CTE to facilitate the RNA/DNA duplex forma-
+tion or positioning the duplex within the active site
+(Figure 7B). Since motif 3b is not conserved in insects, a
+crystal structure of a vertebrate or ciliate TERT would be
+necessary to elucidate the structural and functional
+purpose of motif 3b in template translocation.
+Our phylogenetic and biochemical studies of motif 3
+shed light upon the molecular mechanism of the
+translocation process for the processive telomerase
+1994 Nucleic Acids Research, 2010, Vol. 38, No. 6
+reaction. The implication of our data provides testable
+hypotheses and elicits critical questions for future studies
+of telomerase action. Moreover, our hyperactive and
+hyper-processive motif 3 mutants demonstrate the feasi-
+bility of enhancing telomerase enzymatic activity through
+motif 3 targeting. Altering telomerase function can
+possibly aﬀect the proliferative capacity of adult stem
+cells. Drugs that augment enzymatic activity and
+processivity of telomerase, similar to our mutants, might
+provide treatments for patients suﬀering from telomerase-
+insuﬃciency diseases. Additionally, the abated telomerase
+motif 3 mutants provide potential drug target locals for
+anti-cancer therapies.
+SUPPLEMENTARY DATA
+Supplementary Data are available at NAR Online.
+ACKNOWLEDGEMENTS
+The authors thank Blake Atkinson and Drs Jim Allen,
+Carol Greider and Juan Alfonzo for critical reading of
+the manuscript and helpful discussions.
+FUNDING
+National Science Foundation (CAREER award
+MCB0642857 to J.J.-L.C.). Funding for open access
+charges: National Science Foundation.
+Conﬂict of interest statement. None declared.
+REFERENCES
+1. Shawi,M. and Autexier,C. (2008) Telomerase, senescence and
+ageing. Mech. Ageing Dev., 129, 3–10.
+2. Armanios,M.Y., Chen,J.J.L., Cogan,J.D., Alder,J.K.,
+Ingersoll,R.G., Markin,C., Lawson,W.E., Xie,M., Vulto,I.,
+Phillips,J.A. 3rd et al. (2007) Telomerase mutations in families
+with idiopathic pulmonary ﬁbrosis. N. Engl. J. Med., 356,
+1317–1326.
+3. Walne,A.J. and Dokal,I. (2008) Dyskeratosis Congenita: a
+historical perspective. Mech. Ageing Dev., 129, 48–59.
+4. Autexier,C. and Lue,N.F. (2006) The structure and function of
+telomerase reverse transcriptase. Annu. Rev. Biochem., 75,
+493–517.
+5. Jacobs,S.A., Podell,E.R. and Cech,T.R. (2006) Crystal structure
+of the essential N-terminal domain of telomerase reverse
+transcriptase. Nat. Struct. Mol. Biol., 13, 218–225.
+6. Osanai,M., Kojima,K.K., Futahashi,R., Yaguchi,S. and
+Fujiwara,H. (2006) Identiﬁcation and characterization of the
+telomerase reverse transcriptase of Bombyx mori (silkworm) and
+Tribolium castaneum (ﬂour beetle). Gene, 376, 281–289.
+7. Xiong,Y. and Eickbush,T.H. (1990) Origin and evolution of
+retroelements based upon their reverse transcriptase sequences.
+EMBO J., 9, 3353–3362.
+8. Greider,C.W. (1991) Telomerase is processive. Mol. Cell. Biol., 11,
+4572–4580.
+9. Morin,G.B. (1989) The human telomere terminal transferase
+enzyme is a ribonucleoprotein that synthesizes TTAGGG repeats.
+Cell, 59, 521–529.
+10. Xie,M., Mosig,A., Qi,X., Li,Y., Stadler,P.F. and Chen,J.J.L.
+(2008) Structure and function of the smallest vertebrate
+telomerase RNA from teleost ﬁsh. J. Biol. Chem., 283,
+2049–2059.
+11. Cohn,M. and Blackburn,E.H. (1995) Telomerase in yeast. Science,
+269, 396–400.
+12. Prowse,K.R., Avilion,A.A. and Greider,C.W. (1993) Identiﬁcation
+of a nonprocessive telomerase activity from mouse cells.
+Proc. Natl Acad. Sci. USA, 90, 1493–1497.
+13. Lue,N.F. and Peng,Y. (1997) Identiﬁcation and characterization
+of a telomerase activity from Schizosaccharomyces pombe.
+Nucleic Acids Res., 25, 4331–4337.
+14. Bosoy,D. and Lue,N.F. (2004) Yeast telomerase is capable of
+limited repeat addition processivity. Nucleic Acids Res., 32,
+93–101.
+15. Wang,F., Podell,E.R., Zaug,A.J., Yang,Y., Baciu,P., Cech,T.R.
+and Lei,M. (2007) The POT1-TPP1 telomere complex is a
+telomerase processivity factor. Nature, 445, 506–510.
+16. Aigner,S. and Cech,T.R. (2004) The Euplotes telomerase subunit
+p43 stimulates enzymatic activity and processivity in vitro. RNA,
+10, 1108–1118.
+17. Sun,D., Lopez-Guajardo,C.C., Quada,J., Hurley,L.H. and Von
+Hoﬀ,D.D. (1999) Regulation of catalytic activity and processivity
+of human telomerase. Biochemistry, 38, 4037–4044.
+18. Harrington,L.A. and Greider,C.W. (1991) Telomerase primer
+speciﬁcity and chromosome healing. Nature, 353, 451–454.
+19. Zaug,A.J., Podell,E.R. and Cech,T.R. (2008) Mutation in TERT
+separates processivity from anchor-site function. Nat. Struct. Mol.
+Biol., 15, 870–872.
+20. Lue,N.F., Lin,Y.C. and Mian,I.S. (2003) A conserved telomerase
+motif within the catalytic domain of telomerase reverse
+transcriptase is speciﬁcally required for repeat addition
+processivity. Mol. Cell. Biol., 23, 8440–8449.
+21. Bryan,T.M., Goodrich,K.J. and Cech,T.R. (2000) A mutant of
+Tetrahymena telomerase reverse transcriptase with increased
+processivity. J. Biol. Chem., 275, 24199–24207.
+22. Huard,S., Moriarty,T.J. and Autexier,C. (2003) The C terminus
+of the human telomerase reverse transcriptase is a determinant of
+enzyme processivity. Nucleic Acids Res., 31, 4059–4070.
+23. Chen,J.-L. and Greider,C.W. (2003) Determinants in mammalian
+telomerase RNA that mediate enzyme processivity and
+cross-species incompatibility. EMBO J., 22, 304–314.
+24. Gavory,G., Farrow,M. and Balasubramanian,S. (2002) Minimum
+length requirement of the alignment domain of human telomerase
+RNA to sustain catalytic activity in vitro. Nucleic Acids Res, 30,
+4470–4480.
+25. Lai,C.K., Miller,M.C. and Collins,K. (2003) Roles for RNA in
+telomerase nucleotide and repeat addition processivity. Mol. Cell,
+11, 1673–1683.
+26. Moriarty,T.J., Marie-Egyptienne,D.T. and Autexier,C. (2004)
+Functional organization of repeat addition processivity and DNA
+synthesis determinants in the human telomerase multimer.
+Mol. Cell. Biol., 24, 3720–3733.
+27. Drosopoulos,W.C., Direnzo,R. and Prasad,V.R. (2005)
+Human telomerase RNA template sequence is a determinant
+of telomere repeat extension rate. J. Biol. Chem., 280,
+32801–32810.
+28. Podlevsky,J.D., Bley,C.J., Omana,R.V., Qi,X. and Chen,J.J.L.
+(2008) The telomerase database. Nucleic Acids Res, 36,
+D339–D343.
+29. Ge,L. and Rudolph,P. (1997) Simultaneous introduction of
+multiple mutations using overlap extension PCR. Biotechniques,
+22, 28–30.
+30. Alder,J.K., Chen,J.J.L., Lancaster,L., Danoﬀ,S., Su,S.C.,
+Cogan,J.D., Vulto,I., Xie,M., Qi,X., Tuder,R.M. et al. (2008)
+Short telomeres are a risk factor for idiopathic pulmonary
+ﬁbrosis. Proc. Natl Acad. Sci. USA, 105, 13051–13056.
+31. Cristofari,G., Adolf,E., Reichenbach,P., Sikora,K., Terns,R.M.,
+Terns,M.P. and Lingner,J. (2007) Human telomerase RNA
+accumulation in Cajal bodies facilitates telomerase
+recruitment to telomeres and telomere elongation. Mol. Cell, 27,
+882–889.
+32. Cristofari,G. and Lingner,J. (2006) Telomere length homeostasis
+requires that telomerase levels are limiting. EMBO J., 25,
+565–574.
+33. Li,Y., Yates,J.A. and Chen,J.J.L. (2007) Identiﬁcation and
+characterization of sea squirt telomerase reverse transcriptase.
+Gene, 400, 16–24.
+Nucleic Acids Research, 2010, Vol. 38, No. 6 1995
+34. Gillis,A.J., Schuller,A.P. and Skordalakes,E. (2008) Structure of
+the Tribolium castaneum telomerase catalytic subunit TERT.
+Nature, 455, 633–637.
+35. Malik,H.S. and Eickbush,T.H. (1998) The RTE class of non-LTR
+retrotransposons is widely distributed in animals and is the origin
+of many SINEs. Mol. Biol. Evol., 15, 1123–1134.
+36. Zimmerly,S., Hausner,G. and Xc,W. (2001) Phylogenetic
+relationships among group II intron ORFs. Nucleic Acids Res.,
+29, 1238–1250.
+37. Arkhipova,I.R. (2006) Distribution and phylogeny of
+Penelope-like elements in eukaryotes. Syst. Biol., 55, 875–885.
+38. Liang,J., Yagasaki,H., Kamachi,Y., Hama,A., Matsumoto,K.,
+Kato,K., Kudo,K. and Kojima,S. (2006) Mutations in telomerase
+catalytic protein in Japanese children with aplastic anemia.
+Haematologica, 91, 656–658.
+39. Yamaguchi,H., Calado,R.T., Ly,H., Kajigaya,S., Baerlocher,G.M.,
+Chanock,S.J., Lansdorp,P.M. and Young,N.S. (2005) Mutations
+in TERT, the gene for telomerase reverse transcriptase, in aplastic
+anemia. N. Engl. J. Med., 352, 1413–1424.
+40. Moriarty,T.J., Ward,R.J., Taboski,M.A. and Autexier,C. (2005)
+An anchor site-type defect in human telomerase that disrupts
+telomere length maintenance and cellular immortalization.
+Mol. Biol. Cell, 16, 3152–3161.
+41. Wyatt,H.D., Lobb,D.A. and Beattie,T.L. (2007) Characterization
+of physical and functional anchor site interactions in human
+telomerase. Mol. Cell. Biol., 27, 3226–3240.
+42. Greider,C.W. (1995) In Blackburn,E.H. and Greider,C.W. (eds),
+Telomeres. Cold Spring Harbor Laboratory Press, Cold Spring
+Harbor, New York, pp. 35–68.
+43. Forstemann,K. and Lingner,J. (2005) Telomerase limits the extent
+of base pairing between template RNA and telomeric DNA.
+EMBO Rep., 6, 361–366.
+44. Finger,S.N. and Bryan,T.M. (2008) Multiple DNA-binding sites
+in Tetrahymena telomerase. Nucleic Acids Res., 36, 1260–1272.
+1996 Nucleic Acids Research, 2010, Vol. 38, No. 6
+

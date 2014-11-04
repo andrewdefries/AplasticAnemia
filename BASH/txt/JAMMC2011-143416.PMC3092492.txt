@@ -1,0 +1,975 @@
+Hindawi Publishing Corporation
+Journal of Automated Methods and Management in Chemistry
+Volume 2011, Article ID 143416, 10 pages
+doi:10.1155/2011/143416
+Research Article
+Flow-Injection Preconcentration of Chloramphenicol Using
+Molecularly Imprinted Polymer for HPLC Determination in
+Environmental Samples
+Damian Kowalski, Ewa Pobo˙zy, and Marek Trojanowicz
+Department of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland
+Correspondence should be addressed to Marek Trojanowicz, trojan@chem.uw.edu.pl
+Received 6 November 2010; Revised 27 December 2010; Accepted 27 January 2011
+Academic Editor: Dario Compagnone
+Copyright © 2011 Damian Kowalski et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+The residue of antibiotic chloramphenicol (CAP) is important issue for food quality control and also for the environmental
+monitoring. It is banned for use in food-producing animals and has very limited use in human medicine, because of its severe
+impact on human health. Determination of trace level of CAP in environmental samples requires a very sensitive analytical method
+and eﬃcient preconcentration procedure. CAP can be eﬃciently preconcentrated in ﬂow-injection system using ﬂow-through
+reactor packed with molecularly imprinted polymer (MIP), but determination of CAP in eluate from MIP requires the application
+of chromatographic separation, which was made in reversed-phase HPLC system with UV detection. In optimized conditions the
+limit of detection for 100 mL sample in HPLC with oﬄine preconcentration on MIP was evaluated as 0.66 mg/L. In hyphenated
+FIA-HPLC system with zone sampling the LOD for developed method was evaluated as 15 ng/L, which indicates the possibility of
+using it for analysis of environmental samples.
+1. Introduction
+The occurrence and impacts of various pharmaceuticals
+applied for human and veterinary use in the environment are
+emerging environmental issues in recent years. The presence
+of pharmaceuticals in the environment generally results from
+human and veterinary excretion of unmetabolized drugs
+passing into sewage systems and subsequent discharge of
+sewage eﬄuents. Among variety of pharmaceuticals, the
+antibiotics are of special importance due to their extensive
+use in human therapy and veterinary medicine, as well as
+in promoting the growth of animals in livestock production
+[1–5].
+Chloramphenicol (CAP) (2,2-dichloro-N-[(1R,2R)-2-
+hydroxy-1-(hydroxymethyl)-2-(4-nitrophenyl) ethyl] acet-
+amide) (see Scheme 1) is an antimicrobial agent with
+restricted use, because it causes blood dyscresia and is
+reasonably anticipated to be a human carcinogen [6].
+Numerous case reports have shown leukemia to occur
+after medical treatment for CAP-induced aplastic anemia.
+Several studies show that its metabolite dehydrochloroam-
+phenicol may be responsible for DNA damage [7], so CAP
+appears to be a gene toxin. CAP has been used since the
+1950s to combat a wide range of microbial infections. It has
+been also used in veterinary medicine as a highly eﬀective and
+well-tolerated broad-spectrum antibiotic. It can be detected
+in blood serum, plasma, cerebrospinal ﬂuid and urine. It
+can be released to environment and found in various waste
+streams. Half-life of CAP in soil is 4.5 days, while in water
+10–20 days depending on pH and temperature.
+CAP has been completely banned for use in food-
+producing animals in many countries including European
+Union and USA, hence is treated as illegal antibiotic. A
+minimum performance limit which is required for the
+determination of CAP was set by EU at 0.3 μg/kg in all food
+of animal origin.
+The most common method for routine determination of
+CAP is LC/MS, however usually in analysis of real samples
+with complex matrices, it has to be accompanied with
+cleanup step using most commonly solid-phase extraction.
+2 Journal of Automated Methods and Management in Chemistry
+OH OH
+Cl
+Cl
+HN
+N+
+O
+O
+O−
+Scheme 1
+Recently published papers reported development of methods
+for determination of CAP, for example, in honey [8], sewage
+treatment plants [9], in swine wastewater and environmental
+water samples [10], and also in herbs and grass [11]. For CAP
+determination the HPLC method with UV detection and SPE
+on C18 column was employed [12], and also GC/MS method
+[13]. Several ﬂow injection methods with amperometric
+detection have been developed with various types of working
+electrodes [14–16].
+For the same purpose in recent years also numerous
+immunochemical methods have been developed. Screening
+and conﬁrmation in shrimp tissue samples using ELISA in
+combination with GC/MS and LC/MS was reported [17].
+The application of molecularly imprinted polymers
+(MIP), laboratory-synthesized or commercially available, for
+the improvement of selectivity and limits of detection in
+the determination of CAP, can be a method competitive to
+the use of immunosorbents for the same purposes. In the
+way the MIP is used as packed bed in SPE cartridge as it
+was reported for HPLC determinations with UV detection
+[18, 19]. The MIP for CAP was also employed as a solid-
+phase dispersion sorbent for the CAP determination in
+ﬁsh tissues [20]. The commercial MIP in SPE cartridges
+was used for LC/MS2 determinations [21, 22]. The ﬂow
+through reactor packed with MIP beads was employed in
+the CAP determination with voltammetric detection for
+analysis of ophthalmic solutions and spiked milk samples
+[23]. Two other particular applications of MIP for CAP were
+reported in ﬂow injection analysis (FIA) with luminescence
+detections. In ﬂuorescent competitive ﬂow through assay
+the MIP was packed to the spectroﬂuorimetric cell and the
+limit of detection (LOD) in such system was evaluated as
+8 mg/L [24]. The FIA determination of CAP involving online
+preconcentration was recently reported in microﬂuidic sys-
+tem with chemiluminescence detection with unprecedented
+LOD level 2.4 ng/L for analyses in 50 μL samples [25]. In
+conventional FIA system with chemiluminescence detection
+for 524 mL sample volume the LOD was evaluated as 30 μg/L
+[26].
+The aim of this work was to investigate the possibility of
+application of commercial MIP preparation for CAP precon-
+centration in dynamic FIA system. Carrying out this step in
+ﬂow through reactor may oﬀer some advantages compared
+to conventional SPE syringes, including the mechanization of
+handling solutions, better control of eluent ﬂow through the
+bed, and favorable elution in counter-ﬂow direction. In the
+FIA system two diﬀerent detections were examined, namely,
+spectrophotometric in UV range and amperometric. Due to
+limited selectivity of MIP sorption and possible bleeding,
+for the detection of CAP in eluate from the MIP bed the
+HPLC with UV detection was also applied. The optimized
+method was applied for CAP determination in spiked river
+water samples.
+2. Experimental
+2.1. Instrumentation. Electrochemical measurements were
+conducted on glassy carbon (3 mm diameter) working elec-
+trode, Ag/AgCl was used as reference and platinum wire as
+auxiliary electrode. Cyclic voltammetry (CV) measurements
+were carried out with potentiostat CHI model 830B (CH
+Instruments Inc., Austin, Tex, USA).
+The ﬂow injection system with amperometric detection
+consisted of Knauer HPLC Pump model 64 and Autolab
+PGSTAT10 potentiostat (Eco Chemie, the Netherlands). The
+UV detection was carried out using ﬂow detector Waters
+2487 Dual λ Absorbance. Tygon silicone tubings of 1.42 mm
+i.d. were used for pumping and PTFE tubing of 0.82 mm
+i.d. for connections; both were obtained from Cole Parmer
+(Chicago, Ill, USA). A two-position injection valve was
+obtained from Rheodyne (type 7010) (Rohnert Park, CA,
+USA). Injection loops of 100 μL (amperometric system)
+and 20 μL (UV system) were used throughout experiments.
+Manual solid-phase extraction procedure was carried out
+on a Vac Elut 20 Extraction Manifold obtained from Varian
+(Walnut Creek, Calif, USA).
+Chromatographic determinations in oﬄine mode were
+carried out using HPLC system HP Series II model 1090.
+In FIA/HPLC hyphenated system with online sample
+preconcentration the peristaltic pump Alitea model U1
+(FIALab Inc., Wash, USA) was used and Knauer HPLC
+62 chromatographic pump. The Agilent column Zorbax
+Extended C-18 (4, 6×150 mm, 5 μm) was used for HPLC sep-
+aration.
+2.2. Chemicals. Chloramphenicol (CAP), graphite nano-
+ﬁbers (95%), and Naﬁon solution were purchased from
+Sigma-Aldrich (Steinheim, Germany). Methanol of HPLC
+grade used as eluent, was a product of Merck (Darmstadt,
+Germany). Phosphoric acid 85% of analytical grade used
+for preparation of carrier solution was from Chempur
+(Piekary Slaskie, Poland). Solid sodium hydroxide used for
+pH adjustment in preparation of phosphate buﬀer was from
+POCh (Gliwice, Poland).
+MIP columns containing 25 mg of polymeric bed were
+obtained from Sigma-Aldrich (SupelMIP SPE, MIP Tech-
+nologies, Supelco).
+A 30 mg/L CAP stock solution was prepared every second
+week by dissolving 0.015 g of compound in 500 mL deionized
+water and stored in a refrigerator. Standard solutions were
+prepared by suitable dilution of stock solution with water.
+The ultrapure water was from a Milli-Q ultrapure water
+puriﬁcation system (Millipore, Bedford, Mass, USA).
+Journal of Automated Methods and Management in Chemistry 3
+20
+10
+0
+−1 −0.5
+−10
+−20
+−30
+−40
+0 0.5 1
+1
+2
+Current(µA)
+Potential (V)
+(a)
+−107
+−132
+−157
+−182
+−207
+−232
+−257
+−282
+Current(µA)
+−0.8 −0.7 −0.6 −0.5 −0.4 −0.3 −0.2
+Potential (V)
+1
+2
+3
+(b)
+Figure 1: (a) Cyclic voltammograms recorded for freshly made 0.5 mM CAP solution in 0.1 M H3PO4 with scan-rate 10 mV/s, using
+nonmodiﬁed glassy carbon electrode, and (b) linear-scan voltammograms recorded in the same conditions for freshly made (1), 3 days
+(2) and 20 days (3) after preparation of CAP solution.
+2.3. Preparation of MIP Flow-through Reactor. The ﬂow
+through reactor was prepared by slurry packing of MIP beads
+from SupelMIP SPE commercial cartridges `a 25 mg. For
+preparation of the reactor 100 mg of MIP bed prepared as
+aqueous suspension was trickled through SPE tube (5 mm
+i.d.) in vacuum ﬂow. Both outlets of reactor were plugged
+with polypropylene frits in order to prevent beads from
+washing out.
+2.4. Procedures
+2.4.1. Natural Sample Pretreatment. Samples of tap water
+were collected from the local water-supply system. River
+water was collected from Warsaw stretch of Vistula River. All
+samples were stored in refrigerator until the time of analysis.
+Prior to the preconcentration all samples were ﬁltered on
+Whatman no. 42 ﬁlter papers.
+2.4.2. Oﬄine Sample SPE Extraction on MIP Sorbent. Condi-
+tioning of SPE cartridge was carried out by ﬂushing it 5 mL
+methanol and 5 mL water, respectively. Afterwards aqueous
+sample was preconcentrated and bed was dried for 1 min in
+vacuum ﬂow. The bed was washed with 1 mL of methanol to
+elute the analyte.
+2.4.3. Online Sample Preconcentration in FIA/HPLC Hyphen-
+ated System. The procedure is analogous to that one
+mentioned above. Firstly, MIP ﬂow through reactor was
+conditioned by pumping 5 mL of methanol and 5 mL of
+water, respectively, with ﬂow rate 0.5 mL/min. Appropriate
+sample volume was preconcentrated consecutively (in ﬂow
+rate up to 1.9 mL/min). Elution of analyte was carried out by
+pumping 1 mL of methanol through reactor with ﬂow rate of
+0.5 mL/min.
+2.4.4. Chromatographic Determinations in Oﬄine Mode.
+Prior to the injection, 1 mL of preconcentrated methanolic
+sample was diluted 3 : 2 with water.
+3. Results and Discussion
+Due to strong absorption of UV radiation and electroactvity
+of chloramphenicol, in this study on development of FIA
+systems for determination of trace level of CAP, the UV
+absorbance and amperometric detections of CAP were
+examined.
+3.1. Amperometric Detection in FIA System. As it was men-
+tioned already in Introduction, several reports were already
+published on the application of amperometric detection
+of CAP in FIA systems with diﬀerent working electrodes
+[14–16]. The application of voltammetric detection with
+the use of a cylindrical carbon ﬁber microelectrode as the
+working electrode was also reported [23]. For a single-
+run determination of CAP also a disposable electrochemical
+sensor with a Naﬁon coated screen-printed carbon working
+electrode was developed [27]. In each case the detection
+of CAP for analytical purposes was based on the four-
+electron irreversible reduction of nitro group of CAP to the
+hydroxylamine derivative.
+In this work as working electrode a conventional
+glassy carbon (GC) disk electrode of 3.0 mm diameter was
+employed. The cyclic voltammogram recorded for 0.5 mM
+CAP solution in 0.1 M H3PO4 in potential range –0.8 to
++1.0 V is showed in Figure 1(a). It is in good agreement
+with voltammogram recorded using screen-printed carbon
+electrode for CAP in the same conditions [16], with cathodic
+peak of reduction of nitro group at −0.45 V. This working
+electrode was further employed in FIA measurements in
+4 Journal of Automated Methods and Management in Chemistry
+the single-line manifold, using large-volume wall-jet cell.
+Based on recorded CV voltammograms and analogous mea-
+surements in hydrodynamic conditions for amperometric
+detection in ﬂow measurements the polarization potential
+−0.45 V was selected. In order to reduce the noise amplitude
+of baseline in determination of LOD the gravity ﬂow
+was employed instead of the use of peristaltic pump. In
+measurements with the use of 0.1 M phosphoric acid as
+carrier solution and for 100 μL injection volume the LOD
+value for S/N = 3 was evaluated as 71 μM. It is widely
+documented [28], that in many cases the modiﬁcation of
+working electrode surface with the layer of carbon nanotubes
+(CNT) results in some electrocatalytic enhancement of the
+signal magnitude, hence in this work the GC electrode
+surface was covered with CNT by evaporation of suspension
+of CNT in Naﬁon on the electrode surface. This modiﬁcation
+resulted in drop of LOD value down to 47 μM. The obtained
+LOD value is similar to that reported recently for detection of
+CAP in FIA system with amperometric detection using gold
+electrode with self-assembled monolayer of 2-mercapto-5-
+methylbenzimidazole [14], but evidently poorer than those
+reported earlier for screen-printed carbon-based electrodes
+or boron-doped diamond electrode in FIA systems [15, 16,
+27].
+Although this detection was not further employed in this
+work due to poor LOD value, it was used for determination
+of stability of aqueous solutions of CAP. As it is showed in
+CV voltammograms in Figure 1(b), the height of cathodic
+peak for CAP is decreasing in time, what means the necessity
+of the preparation of fresh CAP solutions daily prior to the
+measurements.
+3.2. UV Detection in FIA System. The liquid chromato-
+graphic determinations of CAP with UV detection reported
+in the literature were carried out at wavelengths 275–
+279 nm [18–20], which was in good agreement with our
+recorded spectrum for 3 mg/L aqueous solution of CAP,
+where maximum of absorption was observed at 278 nm. This
+wavelength was used in this work for detection in FIA system
+with chromatographic detector Waters model 2487. The
+FIA signals recorded for CAP solutions using 20 μL sample
+volume are showed in Figure 2. The well-reproducible blank
+signal (S in Figure 2) resulted from injection of carrier in
+single manifold FIA system was taken into account in the
+calculation of LOD, taking into account both average blank
+signal value and its precision. For whole examined range
+of CAP concentration up to 300 mg/L the linear calibration
+plot was obtained with LOD 0.17 μM (54 μg/L). Because of
+much lower LOD obtained for CAP determination further
+measurements were carried out using UV detection.
+3.3. Preconcentration of CAP on Molecularly Imprinted
+Polymer Bed. The commercially available MIP from MIP
+Technologies, which were designed for the chloramphenicol
+determination was already applied in the form of SPE
+cartridges, and it was employed for determination of CAP
+in milk-based matrices [21], and also in urine, plasma and
+honey [22] in LC/MS2 systems.
+−1
+0
+1
+2
+3
+4
+0 5 10 15 20
+Signal(mV)
+Time (min)
+S
+1
+2
+3
+4
+Figure 2: Flow-injection signals recorded for injected 60 (1), 90
+(2), 150 (3) and 300 (4) μg/L CAP solutions in water. Conditions:
+water used as carrier, ﬂow rate 1 mL/min, injection volume 20 μL,
+UV detection at 278 nm. S: signal corresponding to the instrumental
+blank which results from injection of water.
+One of the aims of this study was to examine, if
+for detection of CAP preconcentrated on commercial MIP
+the direct UV detection in simple FIA system can be
+successfully applied. Already initial measurements with
+25 mg MIP cartridges showed a very signiﬁcant bleeding
+of MIP bed in sequential cycles of rinsing the sorbent
+bed with deionized water and eluting with methanol. As
+the ﬁrst step the MIP bed was conditioning according
+to manufacturer recommendation, then 10 mL of distilled
+water was aspirated through the sorbent bed using solid-
+phase extraction vacuum manifold. After this, sorbent was
+dried during 1 min and washed with 1 mL methanol. The
+obtained eluate was evaporated in the argon stream and
+reconstituted with 1 mL water. The 20 μL volume of obtained
+aqueous solution was injected into FIA system with UV
+detection. Figure 3 shows the FIA signal magnitude obtained
+after 8 consecutive repetition of this procedure, showing the
+evident presence of some components absorbing at 278 nm.
+For the comparison, the dotted line in Figure 3 corresponds
+to signal obtained after injection into the FIA system the
+20 μL of standard 150 μg/L solution of CAP. This experiment
+convincingly indicates, that direct UV detection in eluate
+from the MIP bed without separation cannot be employed
+for the quantitative determination of preconcentrated CAP.
+The presence of other than CAP components eluted
+from the MIP bed, in sequentially repeated blank procedure
+of washing bed with water and eluting with methanol, is
+conﬁrmed by recorded chromatograms shown in Figure 4.
+It was obtained in HPLC system with C18 column and
+water: methanol (50 : 50 v/v) eluent. The chromatogram a
+corresponds to washing bed with 10 mL water and elution
+with 1 mL methanol, in b—10 mL of 15 μg/L CAP standard
+solution was loaded on the bed, and then washed with 1 mL
+methanol, that means 10-fold preconcentration of analyte.
+For comparison in c is shown chromatogram obtained for
+150 μg/L CAP solution. It is evident that component(s)
+eluted as peak 1 on chromatograms will interfere in direct
+Journal of Automated Methods and Management in Chemistry 5
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+0 1 2 3 4 5 6 7 8 9
+Peakheight(mV)
+Consecutive measurements
+Figure 3: The changes of ﬂow injection signal for ﬂushing the MIP
+bed in SPE syringe with eight consecutive portions of 10 mL water,
+elution the MIP bed with 2 mL methanol after each ﬂushing with
+water, evaporation, and reconstitution of evaporated samples in
+1 mL water prior to the injection. Conditions of measurements are
+the same as in Figure 2. The dotted line shows the signal magnitude
+obtained for injection into the FIA system of a 150 μg/L solution of
+CAP in methanol.
+detection of the eluate in the CAP determination hence the
+application of separation method for analysis of eluate from
+the MIP bed is indispensable.
+For further HPLC determination of CAP in eluates
+from the MIP bed, the eﬀect of diﬀerent solvents used
+for reconstitution of the CAP eluted with methanol was
+examined, because as it is illustrated by chromatograms
+showed in Figure 5, the use of pure methanolic solutions
+causes some distortion of the signal shape by frontal peak
+broadening. This eﬀect can be slightly reduced by the
+decrease of injected sample volume. It can be fully removed
+by the using of the HPLC eluent for reconstitution of
+evaporated elate from MIP bed. It was also observed that
+increase of the methanol content from 50 to 90% in injected
+CAP solutions in HPLC determination results additionally in
+about 20% decrease of the peak area. In optimized conditions
+for the determination of CAP using standard solutions, with
+injection sample volume 20 μL, a linear calibration plot peak
+area vs. CAP concentration in whole examined range up to
+600 μg/L was observed. The LOD for S/N = 3 was evaluated
+as 51 μg/L.
+In preconcentration of CAP from aqueous standard
+solutions using SPE cartridge with MIP, it was found that
+for the same amount of CAP 0.5 nanomole dissolved in
+diﬀerent volumes ranging from 10 to 250 mL, which was
+then loaded to the MIP bed with the same ﬂow rate,
+a diﬀerent recovery was obtained. This was observed for
+the same elution conditions, ranging from the complete
+recovery for 10 mL (recommended volume of eluent by the
+manufacturer), to about 60% recovery for initial sample
+volume 250 mL. Concentration of the CAP in the solution,
+which was loaded onto MIP bed were in the range from
+0.6 to 15 μg/L. This can be attributed to slow kinetics of the
+sorption, important especially at low concentration level of
+analyte.
+1
+0 5 10 15
+Retention time (min)
+1
+0.5
+0
+Absorbance(mAU)
+(a)
+1
+2
+2.65
+0 5 10 15
+Retention time (min)
+1
+0.5
+0
+Absorbance(mAU)
+(b)
+2.661
+2
+0 5 10 15
+Retention time (min)
+1
+0.5
+0
+Absorbance(mAU)
+(c)
+Figure 4: Chromatograms recorded in HPLC system with UV
+detection at 278 nm using as eluent water: methanol (50/50 v/v)
+mixture at ﬂow rate 1 mL/min and sample injection volume 20 μL.
+(a) blank solution obtained for ﬂushing MIP bed with 10 mL
+water, elution with 1 mL methanol, evaporation and reconstitution
+in 1 mL water, (b) solution obtained by ﬂushing MIP bed with
+10 mL 15 μg/L CAP solution, elution with 1 mL methanol and
+reconstitution in 1 mL water, (c) injection of 150 μg/L standard
+solution of CAP. 1: unknown signal, 2: CAP. MIP used as 25 mg bed
+in SPE syringe.
+The same eﬀect was examined for the application of
+ﬂow through reactor with MIP prepared for carrying out
+preconcentration in the ﬂow injection manifold, used later
+on in hyphenated FIA-HPLC system. For this purpose
+the ﬂow through reactor was prepared using 100 mg of
+beads taken from commercial MIP cartridges and packing
+them into the polypropylene tube of inner diameter 5 mm.
+The standard solutions used for these measurements were
+6 Journal of Automated Methods and Management in Chemistry
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0 1 2 3 4
+1
+2
+3
+4
+−1
+Absorbance(mAU)
+Retention time (min)
+Figure 5: Eﬀect of injected sample volume and methanol content
+in injected CAP solutions and on shape of peaks recorded in
+HPLC system with UV detection at 278 nm. Injections of 20 (1)
+and 10 (2) μL 6 mg/L CAP solution in methanol, and injections of
+10 (3) and 20 (4) μL of 3 mg/L CAP solution in water: methanol
+(50 : 50 v/v) mixture. Other conditions are the same as in Figure 4.
+ranging from 0.6 to 60 μg/L, and the loaded volume from
+10 to 500 mL. The analyte retained on the MIP beads
+was eluted with methanol in counter-ﬂow mode to sample
+loading. The obtained results showed in Table 1 indicate
+satisfactory recovery in optimized conditions up to initial
+sample volume loaded to the sorbent bed 250 mL. This
+indicates the possibility of obtaining enrichment factor
+about 250, which is of a primary importance for the CAP
+determination in trace level in environmental samples. The
+chromatogram recorded for standard 1.0 μg/L CAP solution
+preconcentrated from 100 mL sample is shown in Figure
+6(b) (curve 1). In these conditions, taking into account the
+amplitude of the baseline noise (N) the LOD for S/N = 3
+was determined as 0.66 μg/L, while the limit of quantitation
+(LOQ) for S/N = 10 as 2.2 μg/L.
+3.4. CAP Determination in Natural Water Samples. In spite of
+numerous restrictions in use of chloramphenicol in human
+and veterinary medicine, in numerous studies its presence
+was found in natural waters and wastes. Its content in ground
+water and lake water from Hubei province in China was
+found about 2 ng/L [10], while in water from river Han in
+Korea 31 ng/L [29]. Much higher level, incidentally up to
+1.5 μg/L was found in eﬄuent from industrial installation for
+treatment of dairy wastewater [30]. The maximum CAP level
+in sewage treatment plant eﬄuents was reported as 0.56 μg/L
+[31], while in sewage treatment plants in China, in inﬂuent
+31 ± 16, and in eﬄuent 17 ± 10 ng/L [9].
+In analyses of environmental samples for the deter-
+mination of trace analytes, the challenging task is not
+only the developing of suﬃciently sensitive method, but
+also optimizing whole analytical procedure in order to
+eliminate interferences from matrix components. The sorp-
+tion processes observed in molecularly imprinted polymers
+include not only selective binding of target analyte in
+cavity of polymer produced by employed template, but also
+nonspeciﬁc sorption of matrix components, for example,
+by hydrophobic interactions with polymer matrix, which
+are strengthened in aqueous conditions [32]. As it was
+demonstrated above, the application of direct UV detection
+of CAP in the eluate from MIP bed is not possible due
+to washing out of the sorbent beads some other not-
+identiﬁed, as yet, components than CAP. Therefore, it is
+necessary to apply some separation method, for example, as
+HPLC in this study, which can additionally separate target
+analyte CAP in eluates from MIP-based preconcentration
+of analyte from complex matrices. This is well illustrated
+by example chromatograms showed in Figure 6 for natural
+water samples. In both samples of tap and river water, in
+dead-volume of HPLC chromatograms a large absorbance
+is observed, that can be attributed to the presence of
+other organic components retained on MIP bed during
+the preconcentration run. There are also, especially in river
+water sample, numerous components eluted with particular
+retention time. The spiking of analyzed samples with CAP
+at 1 μg/L level, illustrates the potential of this method for
+real analytical application. It seems that for instance for
+analysis of river water samples, a further optimization of
+HPLC separation should be made for better separation of
+signal for CAP from partly overlapped signal with retention
+time 3.50 min.
+As it showed in Table 2, the recovery of CAP deter-
+mination is slightly aﬀected by matrix components in
+natural waters, compared to aqueous CAP standards, but for
+100 mL sample volume, giving enrichment factor 100, the
+obtained recovery above 92% can be considered as satisfac-
+tory.
+3.5. Hyphenated FIA-HPLC System. The schematic of the
+ﬁnal setup for this study with hyphenation of ﬂow injection
+preconcentration with HPLC analysis is showed in Figure 7.
+The crucial factor in optimization of functioning of this
+system is to ﬁnd the most favorable time delay for injection
+of 20 μL sample with chromatographic injection valve since
+starting elution from MIP column. In order to do this, the
+concentration proﬁle of eluted sample was recorded. The
+experimental data for this plot were obtained by sampling
+a 20 μL volume from eluted 1 mL methanolic solution from
+MIP column every 30 s since the elution from the MIP
+column has started, and injecting this into HPLC setup. The
+obtained proﬁle is showed in Figure 8(a). The maximum
+concentration in dispersed zone of 1 mL methanolic eluent
+was observed in sample segment taken after 775 s, and this
+time delay was employed for measurements in hyphenated
+systems.
+As one can expect this zone re-sampling step allows the
+injection of a much more concentrated sample than average
+concentration in whole volume of 1 mL methanolic eluent
+used for injection in oﬄine mode measurement. Based on
+chromatographic signal recorded for 30 μg/L CAP solution
+(Figure 8(b)), based on the peak-height for S/N = 3, the
+limit of detection was evaluated as 0.15 μg/L. This was
+Journal of Automated Methods and Management in Chemistry 7
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+−0.1
+−0.2
+∗
+Absorbance(mAU)
+0 1
+1
+2
+2
+3 4 5
+Retention time (min)
+(a)
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+−0.2
+∗
+∗
+0 1
+1
+2
+2
+3
+3
+4 5 6
+Absorbance(mAU)
+Retention time (min)
+(b)
+Figure 6: Chromatograms recorded in HPLC system with UV detection for eluates from preconcentration 100 mL samples in MIP ﬂow
+through reactor, and elution with 1 mL methanol. Prior to the injection eluates diluted 3 : 2 with water, and injected 20 μL. (a) 1: tap
+water, 2: tap water spiked with 1 μg/L CAP. (b) 1: 1 μg/L standard solution of CAP, 2: river water, 3: river water spiked with 1 μg/L CAP.
+Preconcentration carried out with ﬂow rate 1.92 mL/min, elution with ﬂow rate 0.36 mL/min. Asterisk indicates CAP peak.
+Table 1: The recovery of CAP preconcentration from aqueous standard solutions on MIP ﬂow through reactor in FIA system with UV
+detection. MIP reactor of 5 mm i.d. and 100 mg MIP bed was used. The elution was carried out with 1.2 mL methanol.
+Initial CAP
+concentration, μg/L
+Initial volume of
+loaded solution, mL
+Enrichment
+factor
+Flow rate of
+preconcentration, mL/min
+Average
+recovery, %
+RSD of
+recovery, %
+30.0 10 8.3 0.5 105.0 2.9
+3.00 100 83 1.4 103.5 3.0
+1.20 250 208 1.9 104.6 4.4
+0.60 500 417 1.7 62.6 5.0
+Table 2: The recovery of CAP preconcentration on MIP ﬂow through reactor in FIA system with UV detection for natural water samples
+spiked with known amounts of CAP. Preconcentration was carried out with ﬂow rate 1.9 mL/min, and elution with 1.0 mL methanol at
+0.48 mL/min. Flow-through reactor was used with 100 mg MIP bed.
+Sample Initial sample volume, mL Added CAP, μg/L Enrichment factor Average recovery, % RSD of recovery, %
+Tap water 250 3.60 250 78.2 4.3
+Tap water 100 9.00 100 92.9 1.5
+Tap water 100 1.00 100 95.7 1.3
+River water 250 3.60 250 80.9 1.7
+River water 100 1.00 100 94.9 1.3
+obtained for 10 times preconcentration as initial sample
+volume for preconcentration was 10 mL, while for evaluated
+earlier 100 times enrichment the LOD value will be 15 ng/L,
+which seems to be satisfactory for analysis of environmental
+samples.
+4. Conclusions
+The determination of pharmaceutical residues in environ-
+mental and food samples is a challenging task in modern
+analysis. It is due to their ultra trace level and from other
+8 Journal of Automated Methods and Management in Chemistry
+MIP
+L
+Eluent
+Sample
+MeOH
+H2O
+A
+C
+D
+PP
+CP
+V1 V2 V3 V4
+(a)
+MIP
+L
+Eluent
+Sample
+MeOH
+H2O
+A
+C
+D
+PP
+CP
+V1 V2 V3 V4
+(b)
+MIP
+L
+Eluent
+Sample
+MeOH
+H2O
+A
+C
+D
+PP
+CP
+V1 V2 V3 V4
+(c)
+Figure 7: Schematic diagram of hyphenated FIA-HPLC system with
+UV detection for determination of CAP with online preconcentra-
+tion on MIP in MIP bed washing (a), CAP preconcentration (b),
+and elution stage (c). Actual ﬂow of analytes is shown by dotted
+line. PP: peristaltic pump, CP: chromatographic pump, Vi: injection
+valves, AC: analytical column, MIP: ﬂow through reactor with MIP,
+D: detector.
+point of view of signiﬁcant possible toxic and mutagenic
+eﬀects for higher organisms, including humans. They require
+usually preconcentration of trace analyte and cleanup sam-
+ples with complex matrices, what most commonly is carried
+out with solid-phase extraction methods.
+A signiﬁcant improvement in SPE sample treatment is
+carrying it out in ﬂow injection systems, which simpliﬁes
+the manipulation with solutions in diﬀerent stages of whole
+procedure, and can then be utilized in design of mech-
+anized or automated measuring systems. The application
+of MIP in SPE allows the obtaining certain selectivity of
+preconcentration process, but in complex matrices, as it
+was shown for determination of chloramphenicol in spiked
+0
+50
+100
+150
+200
+250
+300
+350
+400
+600 650 700 750 800 850 900 950 1000 1050
+Signalmagnitude(mV)
+Time (s)
+(a)
+−0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1 2 3 4 5 6 7Peakheight(mV)
+Retention time (min)
+(b)
+Figure 8: Concentration proﬁle of 1 mL methanol sample used
+for elution of CAP from MIP column with ﬂow rate 1.5 mL/min
+(a) and chromatogram recorded in hyphenated FIA-HPLC system
+using re-sampling in 775 s since starting elution from MIP column
+with 20 μL volume (b). In (a) preconcentrated 10 mL solution of
+300 μg/L CAP. In (b) preconcentrated 10 mL solution of 30 μg/L.
+natural waters, this selectivity is not suﬃcient for application
+of simple ﬂow detection without separation of components
+of eluates from MIP reactor. The obtained sub-μg/L LOD
+level indicates a potential possibility of application of devel-
+oped method for CAP monitoring in heavy-loaded industrial
+and agricultural wastes for environmental protection. In the
+hyphenated FIA-HPLC system where additionally zone re-
+sampling can be employed, using 100 times enrichment
+on MIP column, the limit of detection was evaluated as
+15 ng/L, which makes the developed method suitable for
+determinations of CAP in waters.
+For the comparison of the developed method with
+methods reported earlier in the literature, the limits of
+detection are listed in Table 3. The developed method
+exhibits the best LOD value among other ﬂow methods with
+diﬀerent detections, and better values of LOD were reported
+only for sophisticated capillary electrophoretic method
+with LIF detection [34], and also one of reported surface
+plasmon resonance method [37]. Table 3 does not include
+applications of LC/MS methods in food and biological
+material analysis, where LOD values are evaluated in terms
+of content of CAP in analyzed material. Based on recent
+review [38] one can expect the possibility of application of
+developed method also for determination of CAP in biologicl
+samples.
+Journal of Automated Methods and Management in Chemistry 9
+Table 3: The values of limits of detection (LOD) of chloramphenicol reported for diﬀerent analytical methods.
+Method LOD, μg/L Reference
+FIA with amperometric detection 0.44 [14]
+FIA with amperometric detection 9.7 [15]
+FIA with amperometric detection 24 [16]
+FIA with ﬂuorimetric detection, and SPE-MIP 8 000 [24]
+SIA-HPLC with UV detection 500 [33]
+Microﬂow system with chemiluminescence detection and SPE-MIP 0.019 [25]
+FIA-HPLC with UV detection and online SPE-MIP 0.015 This work
+Voltammetry with oﬄine MIP 4.3 [23]
+CE immunoassay with LIF detection 0.0016 [34]
+Immunoaﬃnity chromatography 1.2 [35]
+SPR immunoassay 0.032 [36]
+SPR immunoassay 0.00074 [37]
+FIA: ﬂow injection analysis, SIA: sequential injection analysis,
+SPE-MIP: solid-phase extraction with molecularly imprinted polymer,
+SPR: surface plasmon resonance, LIF: laser induced ﬂuorescence.
+References
+[1] B. Halling-Sorensen, S. Nors Nielsen, P. F. Lanzky, F. Inger-
+slev, H. C. Holten L¨utzhoft, and S. E. Jorgensen, “Occur-
+rence, fate and eﬀects of pharmaceutical substances in the
+environment—a review,” Chemosphere, vol. 36, no. 2, pp. 357–
+393, 1998.
+[2] E. R. Campagnolo, K. R. Johnson, A. Karpati et al., “Antimi-
+crobial residues in animal waste and water resources proximal
+to large-scale swine and poultry feeding operations,” Science of
+the Total Environment, vol. 299, no. 1–3, pp. 89–95, 2002.
+[3] A. A. M. Stolker and U. A. TH. Brinkman, “Analytical
+strategies for residue analysis of veterinary drugs and growth-
+promoting agents in food-producing animals—a review,”
+Journal of Chromatography A, vol. 1067, no. 1-2, pp. 15–53,
+2005.
+[4] K. G. Karthikeyan and M. T. Meyer, “Occurrence of antibiotics
+in wastewater treatment facilities in Wisconsin, USA,” Science
+of the Total Environment, vol. 361, no. 1–3, pp. 196–207, 2006.
+[5] E. Mart´ınez-Carballo, C. Gonz´alez-Barreiro, S. Scharf, and O.
+Gans, “Environmental monitoring study of selected veterinary
+antibiotics in animal manure and soils in Austria,” Environ-
+mental Pollution, vol. 148, no. 2, pp. 570–579, 2007.
+[6] X. O. Shu, M. S. Linet, R. N. Gao et al., “Chloramphenicol
+use and childhood leukaemia in Shanghai,” Lancet, vol. 2, no.
+8565, pp. 934–937, 1987.
+[7] M. Isildar, J. J. Jimenez, G. K. Arimura, and A. A. Yunis,
+“DNA damage in intact cells induced by bacterial metabolites
+of chloramphenicol,” American Journal of Hematology, vol. 28,
+no. 1, pp. 40–46, 1988.
+[8] M. I. Lopez, J. S. Pettis, I. B. Smith, and P. S. Chu, “Multiclass
+determination and conﬁrmation of antibiotic residues in
+honey using LC-MS/MS,” Journal of Agricultural and Food
+Chemistry, vol. 56, no. 5, pp. 1553–1559, 2008.
+[9] W. Xu, G. Zhang, X. Li et al., “Occurrence and elimination of
+antibiotics at four sewage treatment plants in the Pearl River
+Delta (PRD), South China,” Water Research, vol. 41, no. 19, pp.
+4526–4534, 2007.
+[10] L. Tong, P. Li, Y. Wang, and K. Zhu, “Analysis of veterinary
+antibiotic residues in swine wastewater and environmental
+water samples using optimized SPE-LC/MS/MS,” Chemo-
+sphere, vol. 74, no. 8, pp. 1090–1097, 2009.
+[11] B. Berendsen, L. Stolker, J. De Jong et al., “Evidence of natural
+occurrence of the banned antibiotic chloramphenicol in herbs
+and grass,” Analytical and Bioanalytical Chemistry, vol. 397,
+no. 5, pp. 1955–1963, 2010.
+[12] I. Ali, V. K. Gupta, P. Singh, H. V. Pant, and H. Y. Aboul-
+Enein, “Fast screening of chloramphenicol in wastewater by
+high performance liquid chromatography and solid phase
+extraction methods,” Journal of Liquid Chromatography and
+Related Technologies, vol. 31, no. 18, pp. 2862–2878, 2008.
+[13] A. P. Pfenning, J. E. Roybal, H. S. Rupp, S. B. Turnipseed, S.
+A. Gonzales, and J. A. Hurlbut, “Simultaneous determination
+of residues of chloramphenicol, ﬂorfenicol, ﬂorfenicol amine,
+and thiamphenicol in shrimp tissue by gas chromatography
+with electron capture detection,” Journal of AOAC Interna-
+tional, vol. 83, no. 1, pp. 26–30, 2000.
+[14] L. Codognoto, E. Winter, K. M. Doretto, G. B. Monteiro,
+and S. Rath, “Electroanalytical performance of self-assembled
+monolayer gold electrode for chloramphenicol determina-
+tion,” Microchimica Acta, vol. 169, no. 3, pp. 345–351, 2010.
+[15] S. Chuanuwatanakul, O. Chailapakul, and S. Motomizu,
+“Electrochemical analysis of chloramphenicol using boron-
+doped diamond electrode applied to a ﬂow-injection system,”
+Analytical Sciences, vol. 24, no. 4, pp. 493–498, 2008.
+[16] C. Y. Liao, C. C. Chang, C. Ay, and J. M. Zen, “Flow injection
+analysis of chloramphenicol by using a disposable wall-jet ring
+disk carbon electrode,” Electroanalysis, vol. 19, no. 1, pp. 65–
+70, 2007.
+[17] S. Impens, W. Reybroeck, J. Vercammen et al., “Screening
+and conﬁrmation of chloramphenicol in shrimp tissue using
+ELISA in combination with GC-MS2
+and LC-MS2
+,” Analytica
+Chimica Acta, vol. 483, no. 1-2, pp. 153–163, 2003.
+[18] C. Schirmer and H. Meisel, “Molecularly imprinted polymers
+for the selective solid-phase extraction of chloramphenicol,”
+Analytical and Bioanalytical Chemistry, vol. 392, no. 1-2, pp.
+223–229, 2008.
+10 Journal of Automated Methods and Management in Chemistry
+[19] C. Schirmer and H. Meisel, “Chromatographic evaluation of
+polymers imprinted with analogs of chloramphenicol and
+application to selective solid-phase extraction,” Analytical and
+Bioanalytical Chemistry, vol. 394, no. 8, pp. 2249–2255, 2009.
+[20] L. Y. Guo, M. Guan, C. Zhao, and H. Zhang, “Molec-
+ularly imprinted matrix solid-phase dispersion for extrac-
+tion of chloramphenicol in ﬁsh tissues coupled with high-
+performance liquid chromatography determination,” Analyt-
+ical and Bioanalytical Chemistry, vol. 392, no. 7-8, pp. 1431–
+1438, 2008.
+[21] R. Mohamed, J. Richoz-Payot, E. Gremaud et al., “Advantages
+of molecularly imprinted polymers LC-ESI-MS/MS for the
+selective extraction and quantiﬁcation of chloramphenicol
+in milk-based matrixes. Comparison with a classical sample
+preparation,” Analytical Chemistry, vol. 79, no. 24, pp. 9557–
+9565, 2007.
+[22] B. Boyd, H. Bj¨ork, J. Billing et al., “Development of an
+improved method for trace analysis of chloramphenicol using
+molecularly imprinted polymers,” Journal of Chromatography
+A, vol. 1174, no. 1-2, pp. 63–71, 2007.
+[23] M. L. Mena, L. Ag¨u´ı, P. Martinez-Ruiz, P. Y´a˜nez-Sede˜no,
+A. J. Reviejo, and J. M. Pingarr´on, “Molecularly imprinted
+polymers for on-line clean up and preconcentration of
+chloramphenicol prior to its voltammetric determination,”
+Analytical and Bioanalytical Chemistry, vol. 376, no. 1, pp. 18–
+25, 2003.
+[24] J. L. Su´arez-Rodr´ıguez and M. E. D´ıaz-Garc´ıa, “Fluorescent
+competitive ﬂow-through assay for chloramphenicol using
+molecularly imprinted polymers,” Biosensors and Bioelectron-
+ics, vol. 16, no. 9-12, pp. 955–961, 2001.
+[25] W. Thongchai, B. Liawruangath, S. Liawruangrath, and G. M.
+Greenway, “A microﬂow chemiluminescence system for deter-
+mination of chloramphenicol in honey with preconcentration
+using a molecularly imprinted polymer,” Talanta, vol. 82, no.
+2, pp. 560–566, 2010.
+[26] M. C. Icardo, M. Misiewicz, A. Ciucu, J. V. Garc´ıa Mateo, and
+J. Mart´ınez Calatayud, “FI-on line photochemical reaction for
+direct chemiluminescence determination of photodegradated
+chloramphenicol,” Talanta, vol. 60, no. 2-3, pp. 405–414, 2003.
+[27] J. C. Chen, J. L. Shih, C. H. Liu, M. Y. Kuo, and J. M.
+Zen, “Disposable electrochemical sensor for determination
+of nitroaromatic compounds by a single-run approach,”
+Analytical Chemistry, vol. 78, no. 11, pp. 3752–3757, 2006.
+[28] P. Y´a˜nez-Sede˜no, J. M. Pingarr´on, J. Riu, and F. X. Rius,
+“Electrochemical sensing based on carbon nanotubes,” Trends
+in Analytical Chemistry, vol. 29, no. 9, pp. 939–953, 2010.
+[29] K. Choi, Y. Kim, J. Jung et al., “Occurrences and ecological
+risks of roxithromycin, trimethoprim, and chloramphenicol
+in the Han River, Korea,” Environmental Toxicology and
+Chemistry, vol. 27, no. 3, pp. 711–719, 2008.
+[30] F. Omil, J. M. Garrido, B. Arrojo, and R. M´endez, “Anaerobic
+ﬁlter reactor performance for the treatment of complex dairy
+wastewater at industrial scale,” Water Research, vol. 37, no. 17,
+pp. 4099–4108, 2003.
+[31] R. Hirsch, T. Ternes, K. Haberer, and K. L. Kratz, “Occurrence
+of antibiotics in the aquatic environment,” Science of the Total
+Environment, vol. 225, no. 1-2, pp. 109–118, 1999.
+[32] R. J. Ansell, “Molecularly imprinted polymers in pseudoim-
+munoassay,” Journal of Chromatography B, vol. 804, no. 1, pp.
+151–165, 2004.
+[33] D. Satinsky, P. Chocholous, M. Salabova, and P. Solich, “Sim-
+ple determination of betamethasome and chloramphenicol
+in a pharmaceutical preparation using a short monolithic
+comloumn couples to a sequential injection system,” Journal
+of Separation Science, vol. 29, no. 16, pp. 2494–2499, 2006.
+[34] C. Zhang, S. Wang, G. Fang, Y. Zhang, and L. Jiang,
+“Competitive immunoassay by capillary electrophoresis with
+laser-induced ﬂuorescence for the trace detection of chloram-
+phenicol in animal-derived foods,” Electrophoresis, vol. 29, no.
+16, pp. 3422–3428, 2008.
+[35] R. Stidl and M. Cichna-Markl, “Sample clean-up by sol-
+gel immunoaﬃnity chromatography for determination of
+chloramphenicol in shrimp,” Journal of Sol-Gel Science and
+Technology, vol. 41, no. 2, pp. 175–183, 2007.
+[36] J. Yuan, J. Addo, M. I. Aguilar, and Y. Wu, “Surface plasmon
+resonance assay for chloramphenicol without surface regen-
+eration,” Analytical Biochemistry, vol. 390, no. 1, pp. 97–99,
+2009.
+[37] J. Yuan, R. Oliver, M. I. Aguilar, and Y. Wu, “Surface plasmon
+resonance assay for chloramphenicol,” Analytical Chemistry,
+vol. 80, no. 21, pp. 8329–8333, 2008.
+[38] I. Ali, H. Y. Aboul-Enein, V. K. Gupta, P. Singh, and U. Negi,
+“Analyses of chloramphenicol in biological samples by HPLC,”
+Analytical Letters, vol. 42, no. 10, pp. 1368–1381, 2009.
+

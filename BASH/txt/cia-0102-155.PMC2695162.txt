@@ -1,0 +1,802 @@
+Clinical Interventions in Aging 2006:1(2) 155–167
+© 2006 Dove Medical Press Limited. All rights reserved
+155
+O R I G I N A L R E S E A R C H
+Telomerase confers resistance to caspase-
+mediated apoptosis
+Yira Bermudez
+Diana Erasso
+Nicole C Johnson
+Michelle Y Alfonso
+Nancy E Lowell
+Patricia A Kruk
+Department of Pathology, University
+of South Florida and the H Lee
+Moffitt Cancer Center,Tampa, FL,
+USA
+Correspondence: Patricia A Kruk
+Department of Pathology, MDC 11,
+University of South Florida, 12901 Bruce
+B. Downs Blvd,Tampa, FL 33612, USA
+Tel +1 813 974 0548
+Fax +1 813 974 5536
+Email pkruk@hsc.usf.edu
+Abstract: There is growing evidence that accelerated telomeric attrition and/or aberrant
+telomerase activity contributes to pathogenesis in a number of diseases. Likewise, there is
+increasing interest to develop new therapies to restore or replace dysfunctional cells
+characterized by short telomeric length using telomerase-positive counterparts or stem cells.
+While telomerase adds telomeric repeats de novo contributing to enhanced proliferative capacity
+and lifespan, it may also increase cellular survival by conferring resistance to apoptosis.
+Consequently, we sought to determine the involvement of telomerase for reduced apoptosis
+using ovarian surface epithelial cells. We found that expression of hTERT, the catalytic
+component of telomerase, was sufficient and specific to reduce caspase-mediated cellular
+apoptosis. Further, hTERT expression reduced activation of caspases 3, 8, and 9, reduced
+expression of pro-apoptotic mitochondrial proteins t-BID, BAD, and BAX and increased
+expression of the anti-apoptotic mitochondrial protein, Bcl-2. The ability of telomerase to
+suppress caspase-mediated apoptosis was p-jnk dependent since abrogation of jnk expression
+with jip abolished resistance to apoptosis. Consequently, these findings indicate that telomerase
+may promote cellular survival in epithelial cells by suppressing jnk-dependent caspase-
+mediated apoptosis.
+Keywords: telomerase, hTERT, caspase, apoptosis, jnk, jip, epithelial cells
+Introduction
+Telomeric attrition is the prevailing model of a molecular clock (Harley et al 1992)
+proposed to explain limited cellular proliferation known as the Hayflick limit (Hayflick
+1965). Telomeres, the linear ends of eukaryotic chromosomes, consist of specialized
+tandem (TTAGGG)n DNA repeats and associated telomeric binding proteins that
+serve to protect the ends of chromosomes from recombination, end-to-end fusion
+and degradation, thereby maintaining chromosomal integrity (Blackburn 1991).While
+telomeres may also be involved in nuclear organization because they attach to the
+nuclear matrix (deLange 1992), they are crucial in solving the ‘end replication’
+problem (Olovnikov 1975; Harley et al 1992). That is, in normal somatic cells there
+is progressive telomeric loss with successive rounds of cellular replication due to the
+inability of conventional DNA polymerase to fully elongate linear DNA. Telomeric
+shortening continues until replicative senescence or cellular crisis when critically
+shortened telomeres no longer effectively stabilize chromosomes and most cells die.
+Greatest telomeric shortening has been reported in cells from patients with progeroid
+syndromes (Kruk et al 1995; Metcalfe et al 1996) and in epithelial cells (Counter et
+al 1992). However, the rates and extents of telomeric loss in vivo (7–150 base pairs/
+year) and in vitro (50–200 base pairs/population doubling) are highly variable among
+different cell types (Hastie et al 1990; Allsopp et al 1995; Kruk et al 1995; Metcalfe
+et al 1996), so that not all cells reach senescent crisis equally.
+Clinical Interventions in Aging 2006:1(2)156
+Bermudez et al
+Occasional immortal cells emerging from crisis usually
+contain shortened, but stable telomeres due to the re-
+expression of telomerase, a ribonucleoprotein that elongates
+telomeric repeats de novo (Kim et al 1994). Consequently,
+telomerase suppresses cellular senescence and extends
+cellular lifespan (Meyerson et al 1997). Telomerase activity
+is generally limited to stem cell populations and
+immortalized tumor cells and is suppressed in normal cells
+(Kim et al 1994). Telomerase consists of an RNA component
+(hTR) that serves as an internal telomeric template and
+hTERT, a reverse transcriptase (Kim et al 1994). While both
+protein catalytic hTERT and hTR subunits have been
+identified and cloned, the protein catalytic subunit is the
+limiting determinant of telomerase activity (Feng et al 1995;
+Meyerson et al 1997; Weinrich et al 1997; Counter et al
+1998). In addition to these two core components, several
+telomerase-associated proteins have been identified. They
+include the hTR RNA binding proteins TEP1, hnRNP
+proteins (A1, C1/C2, D), survival of motor neuron (SMN),
+L22, and hStau, while p23 and hsp90 bind hTERT,
+suggesting a role for these proteins in hTR RNA processing,
+telomerase assembly, and cellular localization of the
+telomerase complex (Nakayama et al 1997; Holt, Aisner, et
+al 1999; Eversole and Maizels 2000; Ford et al 2000, 2001;
+Le et al 2000; Fiset and Chabot 2001; Kamma et al 2001;
+Bachand et al 2002). While telomerase regulation is complex
+(Ulaner et al 1998; Cong et al 1999; Greenberg et al 1999;
+Takakura et al 1999), we have previously developed a culture
+model system in which telomerase activity can be perturbed
+and controlled in ovarian surface epithelial (OSE) cell lines
+by endogenous and exogenous stresses (Alfonso-De Matte
+et al 2001; Alfonso-De Matte, Moses-Soto, et al 2002;
+Alfonso-De Matte,Yang, et al 2002; Alfonso-De Matte and
+Kruk 2004).
+Although the primary function of telomerase is the
+maintenance of structural integrity at the linear ends of
+chromosomes contributing to cellular immortalization,
+recent studies have shown an association between telomerase
+activity and increased chemotherapeutic resistance
+consistent with poor prognosis in many cancers (Asai et al
+1998; Kiyozuka et al 2000; Villa et al 2000). Telomerase
+appears to mediate its protective effect by conferring
+resistance to apoptosis (Mandal and Kumar 1997; Kondo et
+al 1998; Fu et al 1999, 2000; Tian et al 1999; Zhang et al
+1999; Herbert et al 1999; Holt, Glinsky, et al 1999; Iida et
+al 2000; Zhu et al 2000), suggesting that the function of
+telomerase is more complex than initially thought. However,
+the exact mechanism(s) by which telomerase confers
+resistance to apoptosis leading to enhanced cellular survival
+remains unclear.
+Accelerated telomeric erosion and/or aberrant telomerase
+activity have been implicated in the pathogenesis of many
+diseases including: progeroid disorders (Kruk et al 1995;
+Metcalfe et al 1996; Du et al 2004); cardiovascular disease
+(Oh et al 2001; Serrano and Andres 2004); neurological
+disorders (Panossian et al 2003; Zhang et al 2003); and
+acquired anemia (Mitchell et al 1999; Vulliamy et al 2001;
+Greenwood and Lansdorp 2003; Ohshima et al 2003;
+Polychronopoulou and Koutroumba 2004). Given the
+growing interest in the potential for progenitor cell therapy
+to restore or repair dysfunctional cells by using telomerase-
+positive/stem cells to enhance cell survival, we sought to
+determine whether telomerase-mediated suppression of
+apoptosis contributes to increased cellular survival in
+epithelial cells.
+Materials and methods
+Cell culture and transfections
+Normal ovarian surface epithelial cell lines (IOSE-80,
+FHIOSE 1816-686, IMCC3, IMCC5) were used as
+previously described (Kruk et al 1990, 1999). All cell lines
+were previously determined to be telomerase-negative (Kruk
+et al 1999). Cells were maintained in Medium 199/MCDB
+105 (1:1; Sigma Scientific, St Louis, MO, USA)
+supplemented with 10 μg gentamicin (GIBCO BRL, Grand
+Island, NY, USA) and 5%–10% fetal bovine serum (FBS;
+Hyclone, Logan UT, USA) in a humidified 5% CO2/95%
+air atmosphere. Cisplatin (CP), staurosporine (STS), and
+tumor necrosis factor-α (TNF-α) were employed to induce
+apoptosis and were obtained from Sigma Scientific.
+Cells were transfected with plasmid constructs of wild-
+type (wt) hTERT, dominant-negative (DN) hTERT, jip, or
+jnk using the previously described lipofectamine transfection
+protocol (Alfonso-De Matte,Yang, et al 2002). Transfections
+were confirmed via Western blot analysis. Transfection
+efficiency was measured in parallel cultures transfected with
+green fluorescent protein (GFP) cDNA under identical
+conditions.
+Telomerase assay
+To quantitatively detect changes in telomerase, cells were
+assayed for telomerase activity using the telomerase
+polymerase chain reaction-enzyme-linked immunosorbent
+assay (PCR-ELISA; Roche Molecular Biochemicals,
+Indianapolis, IN, USA) as described previously (Alfonso-
+De Matte et al 2001). Briefly, cells were washed with
+Clinical Interventions in Aging 2006:1(2) 157
+Telomerase suppresses apoptosis
+Dulbecco’s phosphate buffered saline (DPBS), trypsinized
+and centrifuged at 500g for 5 min. Pellets were washed twice
+in DPBS, then resuspended in 200 μl of CHAPS lysis buffer
+and kept on ice for 30 min, after which time the lysates were
+centrifuged at 100 000 g for 60 min at 4°C. Lysates were
+assayed using the Bio-Rad detergent corrected (DC) Protein
+Assay (Bio-Rad, Hercules, CA, USA) for determination of
+protein concentration following detergent solubilization. In
+order to perform the telomerase PCR-ELISA assay within
+the linear range, cell extracts equivalent to 2 μg of protein
+were used. Following PCR-ELISA, telomerase activity was
+detected using a Dynex-MRX plate reader (Dynex
+Technologies, Chantilly, VA, USA) and recorded as
+absorbance units. The values were expressed as relative
+absorbance at 450 nm ± SE.
+Telomeric length determination
+Telomeric lengths were determined by Southern blot analysis
+as described previously (Kruk et al 1995). Briefly, cells were
+washed with phosphate buffered saline (PBS), lysed in
+10 mM TrisHCl/1mM EDTA/0.5% SDS/0.1 mg of
+proteinase K per ml (Sigma Scientific) at 37°C. DNA was
+isolated by standard high salt extraction, treated with 100 μg
+RNaseA per ml, and resuspended in 10 mM TrisHCl/ 1 mM
+EDTA, pH 7.2. The DNA concentration was determined by
+the absorbance at 260 nm. The DNA was digested to
+completion with HinfI (1 unit per μg DNA; New England
+Biolabs, Beverly, MA, USA). DNA (1–2 μg) was loaded
+onto 0.5% alkaline agarose gels, resolved by electrophoresis,
+transferred to nylon membranes in 1 N NaOH, and
+hybridized in Church’s hybridization buffer at 42°C with
+(γ-32
+P) adenosine triphosphate (ATP) (Dupont/NEN,
+Wilmington, DE, USA) end-labeled (TTAGGG)4 (Midland
+Certified Reagent Company, Midland, TX, USA).
+Membranes were washed in 0.5X saline–sodium citrate
+(SSC)/0.1% Sodium dodecyl sulfate (SDS) at 42°C, and the
+telomeres visualized by autoradiography. Mean telomeric
+lengths were calculated using ImageQuant software
+(Molecular Dynamics, Sunnyvale, CA, USA) based on
+center of mass calculations and expressed in kb ± SE. Mean
+telomeric lengths were determined from at least two
+autoradiograms from each of three biological experiments.
+Cell growth
+Cell growth was determined by the MTS colorimetric assay
+(Promega, Madison, WI, USA). The assay was performed
+in 96 well microtiter plates as described previously (Johnson
+and Kruk 2002) and is based on soluble formazan production
+by dehydrogenase enzymes found in metabolically active
+cells. Cells were plated at 2.5 x 103
+cells per well.
+Absorbance was determined at 490 nm using a Dynex MRX
+plate reader and the results expressed as the mean absorbance
+± SE.
+DNA ladders
+Cellular apoptosis, as performed previously (Johnson et al
+2004), was examined via DNA laddering by electrophoresis
+of 1 μg of high salt-extracted DNA on a 2% agarose gels
+followed by SYBR green I staining (FMC Bioproducts,
+Rockland, ME, USA).
+SDS-PAGE and Western blot analysis
+As described previously, Western blot analysis was
+performed to observe changes in members of the apoptotic
+cascade associated with telomerase expression (Alfonso-De
+Matte, Moses-Soto, et al 2002; Johnson and Kruk 2002;
+Johnson et al 2004). Cells were trypsinized, pelleted at 500g
+for 5min, lysed in ice cold CHAPS lysis buffer and 15 μg
+protein were added to 4X loading buffer (250 mM Tris pH
+6.8, 8% SDS, 20% glycerol, 0.012% bromophenol blue, 4%
+β-mercaptoethanol), electrophoresed in 12.5 % SDS-
+polyacrylamide gels, transferred to nitrocellulose
+membranes (Amersham Pharmacia Biotech, Piscataway, NJ,
+USA) via semi-dry or wet transfer. All membranes were
+blocked for 1 hour with 5% non-fat milk Tris Buffered Saline
+plus 0.1% Tween-20 (T-TBS) and incubated overnight at
+4°C in primary antibody. Membranes were incubated and
+developed according to the Enhanced Chemiluminescent
+Protocol (Amersham Pharmacia Biotech). After initial
+blotting, membranes were reprobed for actin to ensure even
+loading.All antibodies were purchased from Cell Signaling
+Technology, Inc. (Beverly, MA, USA).
+Statistical analysis
+Samples for telomerase PCR-ELISA, MTL, and growth
+assays were run in triplicate and the data subjected to Student
+t test analysis for determination of statistical significance
+between treated and untreated samples.
+Results
+Telomerase increases mean telomeric
+length and cell growth
+In agreement with others (Kim et al 1994; Meyerson et al
+1997; Weinrich et al 1997; Counter et al 1998; Luiten et al
+2003), we found that transfection with hTERT cDNA was
+Clinical Interventions in Aging 2006:1(2)158
+Bermudez et al
+Figure 1 hTERT expression extends mean telomeric length and increases cell growth.
+IOSE686 and IOSE80 cells were transfected ± hTERT cDNA and assayed for telomerase activity by PCR-ELISA (A), mean telomeric length by Southern blot analysis
+(B), and short term growth in cell culture by MTS assay (C).Telomerase activity and cell growth are expressed as the absorbance at 450 nm and 490 nm, respectively, ±
+SE while mean telomeric length is expressed as average kb ± SE.
+Abbreviations: cDNA, single-stranded complementary deoxyribonucleic acid; hTERT, catalytic component of telomerase; IOSE, SV-40 large T-antigen transfected
+ovarian surface epithelial cell; PCR-ELISA, telomerase polymerase chain reaction-enzyme-linked immunosorbent assay; SE, standard error of mean.
+Clinical Interventions in Aging 2006:1(2) 159
+Telomerase suppresses apoptosis
+sufficient to activate telomerase expression in ovarian surface
+epithelial cells (Figure 1A). Likewise, long-term expression
+of hTERT resulted in increased mean telomeric lengths to
+levels more than double their telomerase-negative
+counterparts (Figure 1B) and indicative of functional
+telomerase activity with hTERT transfection. In addition,
+cells transfected with hTERT demonstrated increased growth
+capacity (Figure 1C). That is, cell yield in hTERT-positive
+cells was found to be three times greater than their
+telomerase-negative counterparts in short term culture
+assays.
+Telomerase enhances cell survival
+To determine whether telomerase conferred increased cell
+survival, IOSE cells ± hTERT cDNA were treated with
+25μM cisplatin (CP) for 2 hours and assayed for cell growth.
+Cisplatin suppressed cell growth in parental cell lines 50%–
+70% of untreated controls (Figure 2A). In contrast, CP was
+only able to suppress cell growth in hTERT-positive cells
+by approximately 30% (Figure 2A). While increased growth
+rates in telomerase-positive cells may contribute to reduced
+cytotoxicity, parallel cultures were examined for DNA
+Figure 2 Telomerase enhances cell survival.
+IMCC3 and IOSE80 cells were transfected ± hTERT cDNA, treated with 25 μM CP for 2 hr and then assayed for cell growth by MTS (A) or apoptosis by DNA
+laddering (B). Cell growth is expressed as the absorbance at 490 nm ± SE.
+Abbreviations: cDNA, single-stranded complementary deoxyribonucleic acid; CP, cisplatin; hTERT, catalytic component of telomerase; IOSE, SV-40 large T-antigen
+transfected ovarian surface epithelial cell; SE, standard error of mean.
+Clinical Interventions in Aging 2006:1(2)160
+Bermudez et al
+laddering to determine whether reduced apoptosis
+contributed to reduced cytotoxicity in telomerase-positive
+cells. In agreement with the cytotoxicity reported above,
+IOSE cells demonstrated significant DNA laddering and
+fragmentation by 48 hours following treatment with CP
+(Figure 2B). In contrast, telomerase-positive cells showed
+only marginal DNA laddering by 72 hours following CP,
+indicative of reduced apoptosis in telomerase-positive cells.
+Telomerase reduces caspase 3-mediated
+apoptosis
+To determine whether reduced apoptosis in telomerase-
+positive cells was caspase 3-dependent, we treated
+telomerase-positive and negative IOSE cells with 25μM CP
+for 2 hours, 20J/m2
+ultraviolet (UV) or 1μM STS for 4 hours
+and examined cell lysates for levels of activated (cleaved)
+caspase 3 (Figures 3A, 3B). All three agents were able to
+induce significant activation of caspase 3 cleavage in
+telomerase-negative cells. However, we noted reduced
+caspase 3 cleavage by all three apoptosis-inducing agents
+in telomerase-positive cells. In addition, some samples were
+examined for DFF45, a known cleavage target of caspase 3
+to ensure caspase 3 activity (Figure 3A). We found increased
+cleavage of DFF45 in telomerase-negative cells compared
+with telomerase-positive cells. To ensure that telomerase was
+sufficient and specific to reduce caspase 3-mediated
+apoptosis, we co-transfected telomerase-positive cells with
+a dominant negative (DN) hTERT cDNA to determine
+whether inhibition of telomerase restored caspase 3
+activation. As expected, DN hTERT suppressed telomerase
+Figure 3 Telomerase confers resistance to caspase 3-dependent apoptosis.
+IOSE cells transfected ± hTERT cDNA were treated with 25 μM CP for 2 hours, 20J/m2
+(A), or 1 μM STS for 4 hours (B), and assayed for activated caspase 3 (17 kDa
+and 19 kDa bands) or DFF45 cleavage (45 kDa band) by Western blot analysis. (C) Control IOSE cells, IOSE cells transfected with hTERT, and IOSE cells transfected
+with both hTERT and DN hTERT cDNA were treated ± 1 μM STS and examined for telomerase activity by PCR-ELISA.Telomerase activity was expressed as the
+absorbance at 450 nm ± SE. Samples from (C) were analyzed by Western immunoblot for activated caspase 3 (D).Actin served as a loading control for all Western
+immunoblots.
+Abbreviations: cDNA, single-stranded complementary deoxyribonucleic acid; CP, cisplatin; DFF, DNA fragmentation factor; DN, dominant negative; hTERT, catalytic
+component of telomerase; IOSE, SV-40 large T-antigen transfected ovarian surface epithelial cell; MTS, ; PCR-ELISA, telomerase polymerase chain reaction-enzyme-
+linked immunosorbent assay; SE, standard error of mean, STS, staurosporine.
+Clinical Interventions in Aging 2006:1(2) 161
+Telomerase suppresses apoptosis
+activity (Figure 3C), but levels of telomerase were unaffected
+by STS. When these cultures were examined for caspase 3
+activation, DN hTERT was able to restore STS-induced
+caspase 3 activation to levels found in control cells while
+hTERT alone suppressed caspase 3 activation (Figure 3D).
+Telomerase reduces caspase and
+mitochondrial apoptotic activation
+To identify additional targets of telomerase-mediated anti-
+apoptosis, IOSE cells ± hTERT were treated with 1 ng/ml
+TNF-α, which induces apoptosis by both the intrinsic and
+extrinsic apoptotic pathways. TNF-α did not significantly
+alter telomerase activity in telomerase-positive cells (Figure
+4A). However, activation of caspases 3, 8, and 9 in
+telomerase-positive cells was reduced by up to 50%
+compared with their telomerase-negative counterparts
+following treatment with TNF-α (Figures 4B–4D).
+Likewise, telomerase altered pro- and anti-apoptotic
+mitochondrial protein expression. Densitometric analysis
+revealed that treatment with TNF-α resulted in up to an 84%
+reduction in Bcl-2 levels in telomerase-negative cells, but
+up to a 172% increase in Bcl-2 expression in telomerase-
+positive cells (Figure 5A), suggesting an anti-apoptotic
+tendency in the latter cells. When we examined the samples
+for levels of pro-apoptotic proteins, we found that activation
+of tBID (by cleavage of BID) was more pronounced in
+telomerase-negative cells (Figure 5B). Further, when the
+levels of t-BID to Bcl-2 were compared, the ratio of t-BID/
+Figure 4 Telomerase-mediated anti-apoptosis is caspase-dependent.
+IOSE cells transfected ± hTERT cDNA were treated with 1ng/ml TNF-α for 24 hours and assayed for telomerase activity by PCR-ELISA for up to 72 hours following
+treatment (A).Telomerase activity was expressed as the absorbance at 450 nm ± SE. Samples from (A) were also analyzed by Western immunoblot for procaspase 3,
+activated caspase 3 (B), cleaved caspase 9 (C), and cleaved caspase 8 (D).Actin served as a loading control for all Western immunoblots. Densitometric analysis of
+Western blots is provided in graphical presentation below respective blots.
+Abbreviations: cDNA, single-stranded complementary deoxyribonucleic acid; hTERT, catalytic component of telomerase; IOSE, SV-40 large T-antigen transfected
+ovarian surface epithelial cell; PCR-ELISA, telomerase polymerase chain reaction-enzyme-linked immunosorbent assay; SE, standard error of mean, STS, staurosporine;
+TNF-α, tumor necrosis factor-α.
+Clinical Interventions in Aging 2006:1(2)162
+Bermudez et al
+Bcl-2 was more than 7 times greater in telomerase-negative
+cells (Figure 5E). Likewise, while BAX levels did not change
+significantly during TNF-α treatment course (Figure 5C),
+densitometric analysis revealed that BAX levels were
+consistently 20%–25% lower in telomerase-positive cells.
+When the levels of BAX or BAD to Bcl-2 were compared,
+the ratios of BAX/Bcl-2 and BAD/Bcl-2 were up to 30 times
+and 8 times greater, respectively, in telomerase-negative cells
+indicating an increased propensity for apoptosis in these cells
+compared with telomerase-positive cells (Figures 5F, 5G).
+In contrast, telomerase did not appear to alter the levels of
+the inhibitor of apoptosis protein (IAP), XIAP (Figure 5D).
+Telomerase-mediated anti-apoptosis is
+jnk-dependent
+To identify a molecular signaling pathway involved in
+telomerase-mediated suppression of apoptosis, we assessed
+the contribution of jnk to suppress apoptosis since we found
+that induction of apoptosis in telomerase-positive cells was
+associated with a 2-fold increase in the levels of
+phosphorylated (p)-jnk compared with telomerase-negative
+cells (Figure 6A). In contrast, transfection with GFP as a
+procedural control was not associated with significant
+increases in p-jnk expression since p-jnk levels in GFP-
+transfected cells did not differ from untreated cells by more
+Figure 5 Telomerase alters pro- and anti-apoptotic mitochondrial protein expression.
+IOSE cells transfected ± hTERT cDNA were treated with 1 mg/ml TNF-α for 24 hours and analyzed by Western immunoblot for Bcl-2 (A), tBID and BID (B), BAX (C),
+and XIAP (D).Actin served as a loading control for all Western immunoblots. Densitometric analysis of Western 2blots for the ratios of t-BID/Bcl-2, BAX/Bcl-2 and
+BAD/Bcl-2 are provided in graphical representation in (E–G), respectively.
+Abbreviations: cDNA, single-stranded complementary deoxyribonucleic acid; hTERT, catalytic component of telomerase; IOSE, SV-40 large T-antigen transfected
+ovarian surface epithelial cell;TNF-α, tumor necrosis factor-α.
+Clinical Interventions in Aging 2006:1(2) 163
+Telomerase suppresses apoptosis
+than 10% (data not shown). Co-transfection with jip, an
+inhibitor of jnk, not only reduced levels of p-jnk in
+telomerase-positive cells by 25%, but also abolished TNF-
+α-mediated induction of p-jnk in these cells (Figure 6B).
+Likewise, inhibition of jnk with jip in telomerase-positive
+cells restored apoptotic sensitivity as indicated by increased
+caspase 3 and 8 cleavage as well as increased levels of tBID/
+Bcl-2 following treatment with TNF-α (Figures 6C–6E).
+Discussion
+Apoptosis, programmed cell death, plays an important role
+in many normal and pathophysiological processes and is
+triggered when cellular death factors outweigh cellular
+survival factors. Aspartic acid-specific cysteine proteases
+(caspases), synthesized as zymogens, are the critical
+mediators of apoptosis (Cohen 1997). Whether activated by
+membrane-bound death receptors (Walczak and Krammer
+2000) or by stress-induced mitochondrial perturbation with
+subsequent cytochrome c release (Bratton et al 2000;
+Loeffler and Kroemer 2000), the respective initiator caspases
+8 and 9 function to activate downstream caspases 3 and 7
+(Nicholson 1999). Once triggered, caspases lead to stepwise
+cellular destruction by disrupting the cytoskeleton, shutting
+down DNA replication and repair, degrading chromosomal
+Figure 6 Telomerase-mediated anti-apoptosis is jnk-dependent.
+(A) IOSE cells transfected ± hTERT cDNA were treated with 1 ng/ml TNF-α and analyzed by Western immunoblot for p-jnk and jnk. Densitometric analysis of
+Western blots for the levels of p-jnk is provided in graphical representation below the Western immunoblot. IOSE cells, transfected with hTERT cDNA ± jip cDNA,
+were treated with 1ng/ml TNF-α for 24 hours and analyzed by Western immunoblot for p-jnk (B), cleaved caspase 8 (C), cleaved caspase 3 (D), and levels of tBID/Bcl-2
+(E).The results are presented as densitometric analyses of Western blots in graphical presentation.Actin served as a loading control for all Western immunoblots.
+Abbreviations: cDNA, single-stranded complementary deoxyribonucleic acid; hTERT, catalytic component of telomerase; IOSE, SV-40 large T-antigen transfected
+ovarian surface epithelial cell;TNF-α, tumor necrosis factor-α.
+Clinical Interventions in Aging 2006:1(2)164
+Bermudez et al
+DNA, and, finally, disintegrating the cell into apoptotic
+bodies (Nagata 2000).
+In the present study, several lines of evidence suggest
+that telomerase confers resistance to epithelial cell apoptosis.
+First, activation of telomerase by transfection with hTERT
+resulted in reduced cisplatin-induced cytotoxicity as well
+as reduced DNA ladder formation. This is consistent with
+previous reports where telomerase activity in primary
+cultures of cancer cells was inversely related to
+chemosensitivity (Faraoni et al 1999). Similarly, in a pilot
+study, Takahashi et al (2000) showed that ovarian cancer
+patients responding to platinum therapy had low levels of
+telomerase whereas 50% of non-responders demonstrated
+elevated telomerase activity. Likewise, reduced apoptosis
+in pancreatic cancer cells after exposure to etoposide was
+associated with elevated telomerase activity (Sato et al 2000).
+Second, ectopic expression of telomerase reduced
+apoptosis by suppressing caspase 3 cleavage in OSE cells.
+This appears to be the major pathway for telomerase-
+mediated resistance to apoptosis and has likewise been
+reported by Yamada et al (2003) who showed that
+overexpression of hTERT suppressed caspase 3 activity in
+K562 hematopoietic cells and Luiten et al (2003) who
+showed reduced caspase 3 activation following ectopic
+expression of hTERT in T cells. However, there have been
+reports of telomerase-mediated resistance to apoptosis
+through caspase 3-independent means (Ren et al 2001),
+which serves to highlight the potential complexity of
+telomerase-mediated resistance to apoptosis. Interestingly,
+we also found that telomerase-mediated suppression of
+caspase 3 activation occurred in response to a number of
+apoptotic insults including CP, UV, and STS. Consequently,
+it appears that telomerase may confer global resistance to
+apoptosis and may be related to the propensity of many
+DNA-damaging agents to target the telomeric TTAGGG
+DNA sequence (Ramirez et al 2003).
+Third, hTERT expression was sufficient and specific to
+confer resistance to apoptosis since co-transfection with
+dominant negative (DN) hTERT inhibited telomerase
+activity and abolished resistance to apoptosis. Likewise, we
+and others have shown that inhibition of telomerase in a
+variety of cancer cell types resulted in enhanced drug-
+induced apoptosis associated with increased caspase 3
+activity (Kondo et al 1998; Kraemer et al 2004; Shoup et al
+2004). Consequently, since telomerase re-activation is a
+crucial step for cellular immortalization and malignant
+transformation, inhibition of telomerase may act as a tumor-
+suppressive mechanism and have clinical utility as adjuvant
+therapy for enhanced chemosensitization.
+Fourth, our data also indicate that telomerase suppresses
+an early step in the apoptotic cascade since, in addition to
+caspase 3 cleavage, telomerase re-activation suppressed
+cleavage of the upstream caspases 8 and 9, but did not affect
+levels of the caspase 3 inhibitor, XIAP. Further, we found
+that telomerase-mediated resistance to apoptosis was jnk-
+dependent because apoptosis associated with ectopic
+expression of hTERT resulted in elevated levels of p-jnk
+while suppression of jnk expression by jip abolished
+resistance to apoptosis. Interestingly, jnk promotes both pro-
+and anti-apoptotic functions, dependent upon differential
+phosphorylation of pro- and anti-apoptotic Bcl-2 family
+members. That is, jnk-mediated cleavage of BID to truncated
+(t)-BID results in mitochondrial release of cytochrome C
+whereas its phosphorylation of BAD at theronine 201
+inhibits inactivation of the anti-apoptotic protein, BCL-Xl,
+by BAD (Deng et al 2003;Yu et al 2004). In agreement, we
+found that re-expression of telomerase resulted in increased
+Bcl-2 expression consistent with studies showing that
+telomerase activity is higher in colorectal and cervical
+cancers expressing high levels of Bcl-2 (Mandal and Kumar
+1997; Iida et al 2000). Further, the ratio of pro-apoptotic
+proteins tBID, BAD, or BAX/Bcl-2 remained low in
+telomerase-positive cells favoring resistance to apoptosis.
+Age-dependent telomeric attrition in normal somatic
+cells, including endothelial cells, smooth muscle cells,
+cardiomyocytes, lymphocytes, and neurons, impairs cellular
+function so that telomeric shortening is thought to contribute
+to the pathogenesis of chronic diseases of aging including
+heart disease, diabetes, and Alzheimer’s disease (Jeanclos
+et al 1998; Halvorsen et al 2000; Oh et al 2001, 2003; Obana
+et al 2003; Panossian et al 2003; Zhang et al 2003;
+Nakashima et al 2004; Serrano and Andres 2004).
+Accelerated telomeric shortening associated with progeroid
+and DNA damage repair syndromes, including Werner’s
+syndrome, Xeroderma pigmentosum,Ataxia telangiectasia,
+and Bloom’s syndrome (Du et al 2004; Kruk et al 1995;
+Metcalfe et al 1996; Mondello et al 1997), similarly
+contributes to accelerated cellular senescence and reduced
+viability. Likewise, aberrant telomerase regulation has been
+reported in developmental abnormalities, cancer, and
+disorders of the hematopoietic system. Specifically, in
+aplastic anemia and Fanconi’s anemia, the mean telomeric
+length of peripheral blood cells is considerably shorter than
+normal counterparts despite increased levels of telomerase,
+Clinical Interventions in Aging 2006:1(2) 165
+Telomerase suppresses apoptosis
+which is considered a result of high turnover in
+hematopoietic stem cells and high rates of telomere breaks
+(Greenwood and Lansdorp 2003; Ohshima et al 2003;
+Polychronopoulou and Koutroumba 2004). In addition,
+autosomal dominant dyskeratosis congenita is associated
+with mutations in the hTR component of telomerase while
+X-linked dyskeratosis congenita is due to mutations of
+dyskerin, a protein involved in RNA processing and that
+also resides within the telomerase complex (Mitchell et al
+1999;Vulliamy et al 2001). Telomerase dysfunction in either
+form of dyskeratosis congenita results in progressive bone
+marrow failure. The potential clinical use of telomerase-
+positive cells or stem cells to expand proliferative capacity
+and replace damaged somatic cells could reverse or prevent
+symptoms associated with progeroid disorders, age-related
+diseases, or diseases associated with dysfunctional
+telomerase regulation and telomere maintenance. Indeed,
+Roy et al (2004) showed that when fetal neuroepithelial cells
+were transfected with hTERT and transplanted at sites of
+spinal cord injury, they differentiated into functional neurons
+and became incorporated into the tissue at the damaged site.
+Using TERT transgenic mice, Oh et al (2003) showed that
+telomerase expression could delay cardiac myocyte cell
+cycle exit and stimulate cardiac hypertrophy. Though further
+studies are warranted, our data indicate that restoration of
+hTERT expression and telomerase activity in epithelial cells
+increases cell survival possibly by conferring resistance to
+apoptotic insults important in the pathogenesis of disease.
+Acknowledgements
+We thank Ms Farheen S Qureshi for technical assistance
+and Drs.Vernon Mar and NellyAuersperg for generous gifts
+of hTERT constructs and cells. This work was supported, in
+part, by USArmy Department of Defense grant # DAMD17-
+02-1-0670 (Project #2) to PAK.
+References
+Alfonso-De Matte MY, Cheng JQ, Kruk PA. 2001. Ultraviolet irradiation-
+and dimethyl sulfoxide-induced telomerase activity in ovarian
+epithelial cell lines. Exp Cell Res, 267:13–27.
+Alfonso-De Matte MY, Moses-Soto H, Kruk PA. 2002. Calcium induces
+telomerase activity in ovarian epithelial cell lines. Arch Biochem
+Biophys, 399:239–44.
+Alfonso-De Matte MY, Yang H, Cheng JQ, et al. 2002. C-Jun kinase-
+mediated regulation of telomerase in ovarian surface epithelial cells.
+Cancer Res, 62:4575–8.
+Alfonso-De Matte MY, Kruk PA. 2004. Phosphotidylinositol-triphosphate
+kinase- and c-jun N-terminal kinase-dependent induction of
+telomerase by calcium requires pyk2. Cancer Res, 64:23–6.
+Allsopp RC, Chang E, Kashefi-Aazam M, et al. 1995. Telomere shortening
+is associated with cell division in vitro and in vivo. Exp Cell Res,
+220:194–200.
+Asai A, Kiyozuka Y, Yoshida R, et al. 1998. Telomere length, telomerase
+activity and telomerase RNA expression in human esophageal cancer
+cells: correlation with cell proliferation, differentiation and
+chemosensitivity to anticancer drugs. Anticancer Res, 18:1465–72.
+Bachand F, Boisvert FM, Cote J, et al. 2002. The product of the survival
+motor neuron (smn) gene is a human telomerase-associated protein.
+Mol Cell Biol, 13:3192–3202.
+Blackburn EH. 1991. Structure and function of telomeres. Nature,
+350:569–72.
+Bratton SB, MacFarlane M, Cain K, et al. 2000. Protein complexes activate
+distinct caspase cascades in death receptor and stress-induced
+apoptosis. Exp Cell Res, 256:27–33.
+Cohen GM. 1997. Caspases: The executioners of apoptosis. Biochem J,
+326:1–16.
+Cong YS, Wen J, Bacchetti S. 1999. The human telomerase catalytic
+subunit hTERT: organization of the gene and characterization of the
+promoter. Hum Mol Genet, 8:137–42.
+Counter CM, Avilion AA, LeFeuvre CE, et al. 1992. Telomere shortening
+associated with chromosome instability is arrested in immortal cells
+which express telomerase activity. EMBO J, 11:1921–9.
+Counter CM, Meyerson M, Eaton EN, et al. 1998. Telomerase activity is
+restored in human cells by ectopic expression of hTERT (hEST2),
+the catalytic subunit of telomerase. Oncogene, 16:1217–22.
+deLange T. 1992. Human telomeres are attached to the nuclear matrix.
+EMBO J, 11:717–24.
+DengY, Ren X,Yang L, et al. 2003.A JNK-dependent pathway is required
+for TNF-α induced apoptosis. Cell, 115:61–70.
+Du X, Shen J, Kugan N, et al. 2004. Telomere shortening exposes functions
+of the mouse Werner and Bloom syndrome genes. Mol Cell Biol,
+24:8437–46.
+Eversole A, Maizels N. 2000. In vitro properties of the conserved
+mammalian protein hnrnp d suggest a role in telomere maintenance.
+Mol Cell Biol, 20:5425–32.
+Faraoni I, Graziani G, Turriziani M, et al. 1999. Suppression of telomerase
+activity as an indicator of drug-induced cytotoxicity against cancer
+cells: in vitro studies with fresh human tumor samples. Lab Invest,
+79:993–1005.
+Feng J, Funk W, Wang S, et al. 1995. The human telomerase RNA
+component. Sci, 269:1236–41.
+Fiset S, Chabot B. 2001. Hnrnp a1 may interact simultaneously with
+telomeric DNA and the human telomerase RNA in vitro. Nuc Acids
+Res, 29:2268–75.
+Ford LP, Shay JW, Wright WE. 2001. The Ia antigen associated with the
+human telomerase ribonucleoprotein and influences telomere length
+in vivo. RNA, 7:1068–75.
+Ford LP, Suh JM, Wright WE, et al. 2000. Heterogeneous nuclear
+ribonucleoproteins c1 and c2 associates with the RNA component of
+human telomerase. Mol Cell Biol, 20:9084–91.
+Fu W, Begley JG, Killen MW, et al. 1999.Anti-apoptotic role of telomerase
+in pheochromocytoma cells. J Biol Chem, 274:7264–71.
+Fu W, Killen M, Culmsee C, et al. 2000. The catalytic subunit of telomerase
+is expressed in developing brain neurons and serves a cell survival-
+promoting function. J Mol Neurosci, 14:3–15.
+Greenberg RA, O’Hagan RC, Deng H, et al. 1999. Telomerase reverse
+transcriptase gene is a direct target of c-Myc but is not functionally
+equivalent in cellular transformation. Oncogene, 18:1219–26.
+Greenwood MJ, Lansdorp PM. 2003. Telomeres, telomerase, and
+hematopoietic stem cell biology. Arch Med Res, 34:489–95.
+Halvorsen TL, Beattie GM, Lopez AD, et al. 2000. Accelerated telomere
+shortening and senescence in human pancreatic islet cells stimulated
+to divide in vitro. J Endocrinol, 166:103–9.
+Harley CB, Vaziri H, Counter CM, et al. 1992. The telomere hypothesis
+of cellular aging. Exp Gerontol, 27:375–82.
+Clinical Interventions in Aging 2006:1(2)166
+Bermudez et al
+Hastie ND, Dempster M, Dunlop MG, et al. 1990. Telomere reduction in
+human colorectal carcinoma and with ageing Nature, 346:866–8.
+Hayflick L. 1965. The limited in vitro lifetime of human diploid cell strains.
+Exp Cell Res, 37:614–36.
+Herbert BS, PittsAE, Baker SI, et al. 1999. Inhibition of human telomerase
+in immortal human cells leads to progressive telomere shortening and
+cell death. Proc Natl Acad Sci U S A, 96:14277–81.
+Holt SE, Aisner DL, Baur J, et al. 1999a. Functional requirement of p23
+and hsp90 in telomerase complexes. Genes Dev, 13:817–26.
+Holt SE, Glinsky VV, Ivanova AB, et al. 1999b. Resistance to apoptosis
+in human cells conferred by telomerase function and telomere stability.
+Mol Carcinogenesis, 25:241–8.
+IidaA,YamaguchiA and Hirose K. 2000. Telomerase activity in colorectal
+cancer and its relationship to bcl-2 expression. J Surg Oncol, 73:219–
+23.
+Jeanclos E, KrolewskiA, Skurnick J, et al. 1998. Shortened telomere length
+in white blood cells of patients with IDDM. Diabetes, 47:482–6.
+Johnson NC, Kruk PA. 2002. BRCA1 Zinc RING finger domain disruption
+alters caspase response in ovarian surface epithelial cells. Cancer Cell
+Intl, 2:1–16.
+Johnson NC, Dan HC, Cheng, JQ, et al. 2004. Loss of XIAP in BRCA1
+185delAG human ovarian surface epithelial cells results in aberrant
+active caspase 3 ubiquitination. Exp Cell Res, 298:9–16.
+Kamma H, Fujimoto M, Fujiwara M, et al. 2001. Interaction of hnrnp a2/
+b1 isoforms with telomeric ssdna and the in vitro function. Biochem
+Biophys Res Commun, 280:625–30.
+Kim NW, Piatyszek MA, Prowse KR, et al. 1994. Specific association of
+human telomerase activity with immortal cells and cancer. Sci,
+266:2011–15.
+Kiyozuka Y, Yamamoto D, Yang J, et al. 2000. Correlation of
+chemosensitivity to anticancer drugs and telomere length, telomerase
+activity and telomerase RNA expression in human ovarian cancer cells.
+Anticancer Res, 20:203–12.
+KondoY, Kondo S, TanakaY, et al. 1998. Inhibition of telomerase increases
+the susceptibility of human malignant glioblastoma cells to cisplatin-
+induced apoptosis. Oncogene, 16:2243–8.
+Kraemer K, Fuessel S, Kotzsch M, et al. 2004. Chemosensitization of
+bladder cancer cells by human telomerase reverse transcriptase
+antisense treatment. J Urol, 172:2023–8.
+Kruk PA, Maines-Bandiera SL and Auersperg N. 1990. A simplified
+method to culture human ovarian surface epithelium. Lab Invest,
+63:132–6.
+Kruk PA, Rampino NJ, Bohr VA. 1995. DNA damage and repair in
+telomeres: relation to aging. Proc Natl Acad Sci U S A, 92:258–62.
+Kruk PA, Godwin AK, Hamilton TC, et al. 1999. Telomeric instability
+and reduced proliferative potential in ovarian surface epithelial cells
+from women with a family history of cancer. Gynecol Oncol, 73:229–
+36.
+Le S, Sternglanz R, Greider CW. 2000. Identification of two RNA-binding
+proteins associated with human telomerase RNA. Mol Cell Biol,
+11:999–1010.
+Loeffler M, Kroemer G. 2000. The mitochondrion in cell death control:
+certainties and incognita. Exp Cell Res, 256:19–26.
+Luiten RM, Pene J,Yssel H, et al. 2003. Ectopic hTERT expression extends
+the life span of human CD4+ helper and regulatory T-cell clones and
+confers resistance to oxidative stress-induced apoptosis. Blood,
+101:4512–19.
+Mandal M, Kumar R. 1997. Bcl-2 modulates telomerase activity. J Biol
+Chem, 22:14183–7.
+Metcalfe JA, Parkhill J, Campbell L, et al. 1996. Accelerated telomere
+shortening in ataxia telangiectasia. Nature Genet, 13:350–3.
+Meyerson M, Counter CM, Eaton EN, et al. 1997. hEST2, the putative
+human telomerase catalytic subunit gene, is up-regulated in tumor
+cells and during immortalization. Cell, 90:785–95.
+Mitchell JR, Wood E, Collins K. 1999. A telomerase component is
+defective in the human disease dyskeratosis congenital. Nature,
+402:551–5.
+Mondello C, Riboni R, Casatu A, et al. 1997. Chromosomal instability
+and telomere length variations during the life span of human fibroblast
+clones. Exp Cell Res, 236:385–96.
+Nagata S. 2000. Apoptotic DNA fragmentation. Exp Cell Res, 256:12–18.
+Nakashima H, Ozono R, Suyama C, et al. 2004. Telomere attrition in
+white blood cell correlating with cardiovascular damage. Hypertension
+Res Clin Exp, 27:319–25.
+Nakayama J, Saito H, Nakamura H, et al. 1997. Tlp1: a gene encoding a
+protein component of mammalian telomerase is a novel member of
+wd repeats family. Cell, 88:875–84.
+Nicholson DW. 1999. Caspase structure, proteolytic substrates, and
+function during apoptotic cell death. Cell Death Differ, 6:1028–42.
+Obana N, Takagi S, Kinouchi Y, et al. 2003. Telomere shortening of
+peripheral blood mononuclear cells in coronary disease patients with
+metabolic disease. Int Med, 42:150–3.
+Oh H, Taffet GE,Youker KA, et al. 2001. Telomerase reverse transcriptase
+promotes cardiac muscle cell proliferation, hypertrophy, and survival.
+Proc Natl Acad Sci U S A, 98:10308–13.
+Oh H, Wang SC, Prahash A, et al. 2003. Telomere attrition and Chk2
+activation in human heart failure. Proc Natl Acad Sci U S A, 100:5378–
+83.
+Ohshima K, Karube K, Shimazaki K, et al. 2003. Imbalance between
+apoptosis and telomerase activity in myelodysplastic syndromes: possible
+role in ineffective hemopoiesis. Leuk Lymphoma, 44:1339–46.
+Olovnikov AM. 1975. A theory of marginotomy. The incomplete copying
+of template margin in enzymic synthesis of polynucleotides and
+biological significance of the phenomenon. J Theor Biol, 41:181–90.
+Panossian LA, PorterVR,Valenzuela HF, et al. 2003. Telomere shortening
+in T cells correlates withAlzheimer’s disease status. Neurobiol Aging,
+24:77–84.
+Polychronopoulou S, Koutroumba P. 2004. Telomere length variation and
+telomerase activity expression in patients with congenital and acquired
+aplastic anemia. Acta Hematol, 111:125–31.
+Ramirez R, Carracedo J, Jimenez R, et al. 2003. Massive telomere loss is
+an early event of DNA damage-induced apoptosis. J Biol Chem,
+278:836–42.
+Ren JG, Xia HL, Tian YM, et al. 2001. Expression of telomerase inhibits
+hydroxyl radical-induced apoptosis in normal telomerase negative
+human lung fibroblasts. FEBS Lett, 488:133–8.
+Roy NS, Nakano T, Keyoung HM, et al. 2004. Telomerase immortalization
+of neuronally restricted progenitor cells derived from the human fetal
+spinal cord. Nature Biotech, 22:297–305.
+Sato N, Mizumoto K, Kusumoto M, et al. 2000. Up-regulation of
+telomerase activity in human pancreatic cancer cells after exposure
+to etoposide. Brit J Cancer, 82:1819–26.
+Serrano AL, Andres V. 2004. Telomeres and cardiovascular disease. Does
+size matter? Circ Res, 94:575–84.
+Shoup BL, Lowell NE and Kruk PA. 2004. Inhibition of telomerase
+improves chemosensitivity in cisplatin resistant ovarian cancer cells.
+Cancer Therapy, 2: 501–10.
+Takahashi M, Kigawa J, Oishi T, et al. 2000. Alteration of telomerase
+activity in ovarian cancer after chemotherapy. Gynecol Obstet Invest,
+49:204–8.
+Takakura M, Kyo T, Hirano H, et al, 1999. Cloning of human telomerase
+catalytic subunit (hTERT) gene promoter and identification of
+proximal core promoter sequences essential for transcriptional
+activation in immortalized and cancer cells. Cancer Res, 59:551–7.
+Tian X-X, Pang JCS, To SST, et al. 1999. Restoration of wild-type PTEN
+expression leads to apoptosis, induces differentiation, and reduces
+telomerase activity in human glioma cells. J Neuropathol Exp Neurol,
+58:472–9.
+Clinical Interventions in Aging 2006:1(2) 167
+Telomerase suppresses apoptosis
+Ulaner GA, Hu J-F, Vu TH, et al. 1998. Telomerase activity in human
+development is regulated by human telomerase reverse transcriptase
+(hTERT) transcription and by alternate splicing of hTERT transcripts.
+Cancer Res, 58:4168–72.
+Villa R, Folini M, Perego P, et al. 2000. Telomerase activity and telomere
+length in human ovarian cancer and melanoma cell lines: correlation
+with sensitivity to DNA damaging agents. Intl J Oncol, 16:995–1002.
+Vulliamy T, Marrone A, Goldman F, et al. 2001. The RNA component of
+telomerase is mutated in autosomal dominant dyskeratosis congenital.
+Nature, 413:432–5.
+Walczak H and Krammer PH. 2000. The CD95 (APO-1/Fas) and the
+TRAIL (APO-2L) apoptosis systems. Exp Cell Res, 256:58–66.
+Weinrich SL, Pruzan R, Ma L, et al. 1997. Reconstitution of human
+telomerase with the template RNA component hTR and the catalytic
+protein subunit hTERT. Nat Genet, 17:498–502.
+Yamada O, Akiyama M, Kawauchi K, et al. 2003. Overexpression of
+telomerase confers a survival; advantage through suppression of TFR1
+gene expression while maintaining differentiation characteristics in
+K562 cells. Cell Transplant, 12:365–77.
+Yu C, Minemoto Y, Zhang J, et al. 2004. JNK suppresses apoptosis via
+phosphorylation of the proapoptotic Bcl-2 family protein BAD. Mol
+Cell, 13:329–40.
+Zhang J, Kong Q, Zhang Z, et al. 2003. Telomere dysfunction of
+lymphocytes in patients withAlzheimer disease. Cognit Behav Neurol,
+16:170–6.
+Zhang X, Mar V, Zhou W, et al. 1999. Telomere shortening and apoptosis
+in telomerase-inhibited human tumor cells. Genes Dev, 13:2388–99.
+Zhu H, Fu W, Mattson MP. 2000. The catalytic subunit of telomerase
+protects neurons against amyloid beta-peptide-induced apoptosis. J
+Neurochem, 75:117–24.
+

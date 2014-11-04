@@ -1,0 +1,537 @@
+BioMed Central
+Page 1 of 8
+(page number not for citation purposes)
+BMC Blood Disorders
+Open AccessResearch article
+A mutation in a functional Sp1 binding site of the telomerase RNA
+gene (hTERC) promoter in a patient with Paroxysmal Nocturnal
+Haemoglobinuria
+W Nicol Keith1, Tom Vulliamy2, Jiangqin Zhao1, Cem Ar3, Can Erzik4,
+Alan Bilsland1, Birsen Ulku3, Anna Marrone2, Philip J Mason*2,5,
+Monica Bessler5, Nedime Serakinci6 and Inderjeet Dokal2
+Address: 1Cancer Research UK, Department of Medical Oncology, Cancer Research UK Beatson Laboratories, University of Glasgow, Garscube
+Estate, Switchback Road, Glasgow G61 1BD, UK, 2Department of Haematology-Division of Investigative Science, Imperial College London,
+Hammersmith Hospital, London, UK, 3Department of Haematology, Cerrahpasa Medical Faculty, Istanbul University, Turkey, 4Medical Faculty,
+Marmara University, Turkey, 5Department of Internal Medicine, Division of Hematology, Washington University School of Medicine, St.Louis,
+MO, 63110, USA and 6Department of Human Genetics, Bartholin Building, University of Aarhus, Universitetsparken, 8000 Aarhus C, Denmark
+Email: W Nicol Keith - n.keith@beatson.gla.ac.uk; Tom Vulliamy - t.vulliamy@imperial.ac.uk; Jiangqin Zhao - J.Zhao@beatson.gla.ac.uk;
+Cem Ar - muhcar@superonline.com; Can Erzik - ursusc@superonline.com; Alan Bilsland - a.bilsland@beatson.gla.ac.uk;
+Birsen Ulku - ubulku@superonline.com; Anna Marrone - a.marrone@imperial.ac.uk; Philip J Mason* - Pmason@im.wustl.edu;
+Monica Bessler - mbessler@im.wustl.edu; Nedime Serakinci - nedi@humgen.au.dk; Inderjeet Dokal - i.dokal@imperial.ac.uk
+* Corresponding author
+Abstract
+Background: Mutations in the gene coding for the RNA component of telomerase, hTERC, have been
+found in autosomal dominant dyskeratosis congenita (DC) and aplastic anemia. Paroxysmal nocturnal
+hemoglobinuria (PNH) is a clonal blood disorder associated with aplastic anemia and characterized by the
+presence of one or more clones of blood cells lacking glycosylphosphatidylinositol (GPI) anchored proteins
+due to a somatic mutation in the PIGA gene.
+Methods: We searched for mutations in DNA extracted from PNH patients by amplification of the hTERC
+gene and denaturing high performance liquid chromatography (dHPLC). After a mutation was found in a
+potential transcription factor binding site in one patient electrophoretic mobility shift assays were used to
+detect binding of transcription factors to that site. The effect of the mutation on the function of the
+promoter was tested by transient transfection constructs in which the promoter is used to drive a
+reporter gene.
+Results: Here we report the finding of a novel promoter mutation (-99C->G) in the hTERC gene in a
+patient with PNH. The mutation disrupts an Sp1 binding site and destroys its ability to bind Sp1. Transient
+transfection assays show that mutations in this hTERC site including C-99G cause either up- or down-
+regulation of promoter activity and suggest that the site regulates core promoter activity in a context
+dependent manner in cancer cells.
+Conclusions: These data are the first report of an hTERC promoter mutation from a patient sample which
+can modulate core promoter activity in vitro, raising the possibility that the mutation may affect the
+transcription of the gene in hematopoietic stem cells in vivo, and that dysregulation of telomerase may play
+a role in the development of bone marrow failure and the evolution of PNH clones.
+Published: 22 June 2004
+BMC Blood Disorders 2004, 4:3
+Received: 15 March 2004
+Accepted: 22 June 2004
+This article is available from: http://www.biomedcentral.com/1471-2326/4/3
+© 2004 Keith et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all
+media for any purpose, provided this notice is preserved along with the article's original URL.
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 2 of 8
+(page number not for citation purposes)
+Background
+Dyskeratosis congenita is an inherited bone marrow fail-
+ure syndrome whose characteristic features are nail dystro-
+phy, abnormal skin pigmentation and mucosal
+leucoplakia [1]. There are X-linked, autosomal dominant
+and recessive forms of the disease. The X-linked form is
+due to mutations in the gene, DKC1, which codes for the
+nucleolar protein dyskerin [2]. Dyskerin is a component
+of snoRNP complexes involved in rRNA maturation [3]
+and is also associated with the telomerase complex [4].
+Autosomal dominant DC is due to mutations in the gene,
+hTERC [5] encoding the telomerase RNA component, sug-
+gesting the pathology of DC is largely due to defective tel-
+omerase. The recent finding of hTERC mutations in cases
+presenting with aplastic anaemia [6,7] has introduced the
+possibility that defects in telomerase may be more wide-
+spread than previously thought.
+Paroxysmal nocturnal haemoglobinuria (PNH) is a clonal
+blood disorder which often develops in association with
+aplastic anaemia [8]. In PNH a somatic mutation in the
+PIGA gene disrupts the synthesis of GPI anchors resulting
+in the growth of one or more clones of GPI- blood cells
+(which lack GPI anchored proteins such as CD55 and
+CD59) [9]. It is presumed that these cells survive in the
+aplastic marrow because they evade the insult that is kill-
+ing the other cells (GPI+) and leading to aplasia [8]. The
+nature of the insult is not known but it is presumed to
+involve one or more GPI linked proteins. PNH is not
+known to be inherited. While there are cases of familial or
+constitutional AA the vast majority of cases are idiopathic.
+However the observation that idiopathic AA often occurs
+after exposure to a drug or other chemical that many peo-
+ple are exposed to suggests that there may be a genetic pre-
+disposition to the development of AA. Here we present a
+case of PNH in which the proband was found to have a
+mutation in an Sp1 binding site in the promoter of
+hTERC. In vitro analysis of the mutated promoter suggests
+the mutation may affect hTERC promoter activity and
+thus might influence telomerase levels.
+Methods
+Case History
+An 18 year-old Turkish man presented with a three month
+history of fatigue, nose and gum bleeding. He was found
+to have pancytopenia at his local Hospital and was
+referred to the Haematology Department of the Cerrah-
+pasa Medical Faculty (University of Istanbul) in August
+2001 for further management. His past medical history
+was unremarkable and there was no recent exposure to
+chemicals or drugs. Physical examination was unremarka-
+ble except for marked pallor and petechiae. Spleen was
+not palpable. His initial investigations were as follows:
+Hb 4.1 g/dl, WBC 1.4 × 109/l (0.6 × 109/l neutrophils),
+platelets 10.0 × 109/l, reticulocytes 0.4%, MCV 115.4 fl.
+Blood film showed anisocytosis with prominent poikilo-
+cytes and polychromasia. The serum iron, iron binding
+capacity, vitamin B12, folic acid and haptoglobin meas-
+urements were within the normal range. His LDH and
+indirect bilirubin were slightly elevated.
+Bone marrow biopsy revealed variable cellularity between
+<5% to 60%. Cellular parts of the marrow displayed focal
+erythroid hyperplasia with megaloblastoid and dyseryth-
+ropoietic features. Myelopoiesis was relatively reduced
+and some megakaryocytes were present.
+Direct Coombs test was negative. Hemosiderinuria was
+detected. Flow cytometric analysis revealed absence of
+CD55 and CD59 on all granulocytes consistent with a
+diagnosis of PNH. He was initially treated with pred-
+nisolone (1 mg/kg/day). A moderate increase in the Hb
+level and reticulocyte counts (4.6%) was noted lasting a
+few weeks. No improvement was seen in the leucocyte
+and platelet counts. In November 2001 his blood count
+was as follows: Hb 4.7 g/dl, WBC 2.4 × 109/l, platelets
+17.0 × 109/l. He was cushingoid and developed steroid
+induced myopathy. The prednisolone was discontinued
+and he was supported with erythrocyte and platelet trans-
+fusions. His blood counts were January 2002 (Hb: 4.5 g/
+dl, WBC 2.5 × 109/l, platelets 60 × 109/l), December 2003
+(Hb:5.5 g/dl, WBC 2.9 × 109/l, Hct: 16%, platelets 13 ×
+109/l). In July 2002 an archived DNA sample was sent to
+the Department of Heamatology, Hammersmith Hospital
+to screen for mutations in the hTERC gene. In December
+2003 DNA extracted from a buccal smear was screened for
+hTERC mutations.
+Mutation analysis
+A 654 bp fragment encompassing the hTERC gene was
+amplified by PCR with the primer pair 5'
+TCATGGCCGGAAATGGAACT3' and
+5'GGGTGACGGATGCGCACGAT3' using the conditions
+described previously [5]. Fragments were screened for
+mutation by denaturing high performance liquid chroma-
+tography (dHPLC) using the Transgenomic WAVE DNA
+fragment analysis system. When an abnormal pattern of
+elution was observed, the sample was re-amplified and
+subjected to direct sequence analysis by BigDye chain ter-
+mination cycle sequencing. The products of the reaction
+were run on a 3700 DNA analyser and the sequences read
+using the EditView automated DNA sequence viewer
+(Applied Biosystems Inc). Restriction enzyme digestion of
+PCR products was carried out according to manufacturers
+instructions (New England Biolabs).
+Construction of reporter plasmids and mutagenesis
+Primers carrying restriction sites were used for PCR with
+hProm867 as the template to generate a series of 5' and 3'
+terminal deletions with compatible ends for cloning as
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 3 of 8
+(page number not for citation purposes)
+Xho I/Hind III fragments into the multiple cloning region
+of the promoter-less luciferase vector pGL3-basic
+(Promega, Madison, WI). A two step cloning strategy was
+used for site-directed mutagenesis to prevent unexpected
+mutations in luciferase reporter vectors; (i) an hTR 176 bp
+fragment (2923 wt, spanning from -107 to +69 bp) was
+cloned into the Xho I/Hind III sites in pCR-Script™ plasmid
+vector (Stratagene, La, Jolla CA), which was used as tem-
+plate for PCR using a QuikChange™ site-directed muta-
+genesis kit (Stratagene, La, Jolla CA) following the
+manufacturer's instructions. (ii) All mutation fragments
+were reconstructed into the Xho I/Hind III sites of pGL3-
+basic vectors and verified by DNA sequencing. Primers
+carrying the mutations and a second set of primers for
+subcloning were designed. The PCR reaction was per-
+formed with these primers and 2923 wt or 2925 wt as
+template to create single-site mutation constructs. The
+double-site mutation construct, mSp1(2), harbouring a
+C-101A/C-100A double substitution, or No-Sp1, har-
+bouring both the C-101A/C-100A double substitution
+and an ATGT substitution in site Sp1.1 were generated in
+several separate PCR reactions using mSp1.2 constructs as
+template. Minimal promoter mutation constructs based
+on 2925 wt contained the PNH C-99G mutation in site
+Sp1.2. The following oligonucleotides were used as PCR
+primers:
+hTR23(+69 to +46) Hind III, 5'-cgcaagcttTACGCCCTTCT-
+CAGTTAGGGTTAG-3';
+hTR25(+10 to -12) Hind III, 5'-cgcaagctTCCGCAACCCG-
+GTGCGCTGCCG-3';
+hTR29(-107 to -88) Xho I, 5-gcgctcgAGCCCGCCCGAGA-
+GAGTGAC-3';
+hTR29Fm(-107 to -88) Xho I, 5'-gcgctcgAGCCCGCCG-
+GAGAGAGTGAC-3';
+mSp1.1 5'-CGGCGGCCATAGCCTTTATAAGCCGACT-3;
+Nucleotides corresponding to promoter sequences are
+given in uppercase letters from 5' end to 3' end. Lowercase
+letters indicate clamps for introduction of restriction
+enzyme sites. Bold indicates mutation.
+Transfection and dual-luciferase reporter assay
+3.0 µg of hTERC promoter plasmids containing firefly
+luciferase reporters were cotransfected into 5637 bladder
+cancer cells with an internal Renilla luciferase control,
+pRL-SV40 (Promega) using Superfect Transfection Rea-
+gent (Qiagen) as previously described [10,11]. The total
+amount of DNA was kept constant at 10 µg with Salmon
+sperm DNA. The activity of both firefly and Renilla luci-
+ferase was determined 48 h later using the Dual Luciferase
+Assay kit (Promega). A minimum of three independent
+transfections were performed in duplicate and specific
+hTERC promoter activity was normalized to protein as
+described elsewhere [10-12].
+Electrophoretic mobility shift assays (EMSAs)
+Nuclear extracts from cultured 5637 cells were made
+according to our previous study [10]. EMSAs were per-
+formed using the EMSA kit (Promega, E3300). 5.0 µg of
+nuclear extract proteins were incubated in 15 µl of reac-
+tion containing 4% glycerol, 1 mM MgCl2, 0.5 mM dithi-
+othreitol (DTT), 0.5 mM EDTA, 50 mM NaCl, 10 mM Tris-
+HCl, pH7.5 and 2.0 µg poly(dI-dC) with or without 100-
+fold molar excess of unlabeled DNA competitors on ice
+for 15 min, followed by addition of the radiolabelled
+probe. All DNA-protein complexes were resolved by elec-
+trophoresis on 5% native polyacrylamide.
+Results
+In a screen of aplastic anemia samples for hTERC muta-
+tions we found a changed dHPLC elution pattern in a
+Turkish PNH patient. We subsequently analysed 12 other
+PNH patients in our collection and all appeared normal
+on dHPLC. DNA sequence analysis showed that the
+abnormal sample was heterozygous for a C->G substitu-
+tion, 99 bp upstream of the hTERC transcript (Figure 1).
+Since this mutation results in the loss of an AvaI site
+present in the normal hTERC gene, we were able to con-
+firm the presence of both mutant and normal alleles in
+this sample by restriction enzyme digestion of the appro-
+priate PCR product (data not shown). This mutation was
+detected by dHPLC analysis in DNA extracted from a buc-
+cal smear taken from the patient, indicating the mutation
+is constitutional. It was not detected by denaturing HPLC
+analysis in 100 ethnically matched DNA samples. The C-
+99 residue is located in a core binding sequence for the
+Sp1 transcription factor (site Sp1.2 [11]). The mutation
+changes this sequence from 5'CCGCCC3' to
+5'CCGCCG3'. We postulated that the mutation might dis-
+rupt the Sp1 binding to the hTERC promoter. Initial anal-
+ysis of transcription factor binding sites in the mutant
+sequence using the TRANSFAC search tool revealed that
+the predicted Sp1.2 binding site was lost in the patient
+mutant sequence.
+In order to determine whether the patient C-99G muta-
+tion functionally affects Sp1 binding to the Sp1.2 site, we
+first examined the ability of the mutant sequence to bind
+Sp1/Sp3 in electromobility shift assays (EMSA). We previ-
+ously demonstrated by supershift analysis that Sp1/Sp3
+bind double stranded oligonucleotides corresponding to
+the Sp1.2 site with low affinity in vitro but do not bind an
+oligo in which C-101/C-100 are replaced with AA [13]
+(Figure 2, h41 m). We now constructed oligos in which C-
+99 was replaced with A (h43 m) or with the G substitution
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 4 of 8
+(page number not for citation purposes)
+found in the patient (h42 m). Excess of either cold A-99
+or patient G-99 mutant failed to compete with the wild
+type Sp1.2 oligo for Sp1/Sp3 binding, indicating that an
+hTERC promoter mutation identified in the PNH patient
+disrupts the ability of Sp1/Sp3 to bind a regulatory site in
+the core promoter. To confirm disruption of Sp1/Sp3
+binding, labelled h42 m and h43 m oligos were incubated
+with 5637 cell nuclear extract, but did not form retarded
+complexes although complex formation was seen with the
+wild type Sp1.2 oligo (data not shown).
+To investigate whether the loss of Sp1/Sp3 binding might
+have functional effects on the activity of the hTERC core
+promoter we constructed wild type and mutant hTERC-
+luciferase reporter plasmids and analysed relative luci-
+ferase activity by transient transfection in 5637 bladder
+cancer cells. We previously showed that the activity of the
+core hTERC promoter is regulated by Sp1 sites
+surrounding the CCAAT box (Sp1.1 and Sp1.2) and by
+Sp1 sites downstream of the transcriptional start site
+which have a general repressive role (Sp1.3 and Sp1.4).
+Removal of the downstream sequence encompassing
+nucleotides +11 to +69 leads to an approximately 2.5-fold
+induction in core promoter activity [11,13]. We now
+examined the effects of the patient C-99G mutation on
+Sequence of hTERC in the patientFigure 1
+Sequence of hTERC in the patient. Sequence traces show that the patient is heterozygous for a C->G substitution
+(arrowed) upstream of the hTERC gene.
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 5 of 8
+(page number not for citation purposes)
+Band shift analysisFigure 2
+Band shift analysis. A. Oligonucleotides used in EMSA and mutagenesis studies of the hTERC promoter. The sequence of the
+wild type oligonucleotides covering identified transcription factor Sp1.2 binding sites are shown as h41. The colon symbol rep-
+resents bases identical to those in the top row, the mutant sequences are shown underneath. B. Single mutation in Sp1.2 site
+inhibits the Sp1 binding activity. 5637 nuclear extract was mixed with radiolabelled oligonucleotide probe and analysed by
+EMSA. Specific DNA/protein complexes are indicated by the arrow on the right hand side. The oligonucleotide h41 was used
+as a probe and the oligonucleotides used as competitors are indicated at the top oflanes 2–5.
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 6 of 8
+(page number not for citation purposes)
+hTERC promoter activity in the absence of downstream
+negative regulation using this minimal construct compris-
+ing Sp1.2, CCAAT and Sp1.1 (nucleotides -107 to +10).
+Consistent with our previous analysis, mutation of the
+Sp1.1 site led to strong induction of core promoter activ-
+ity, confirming a repressive role for this site (figure 3C). In
+the minimal promoter context a single mutant construct
+harbouring the Sp1.2 C-99G mutation had an increased
+reporter activity, suggesting that this site acts as a repressor
+of transcription. Additionally, the combined ablation of
+both Sp1.2 by the PNH C-99G substitution and Sp1.1 led
+to a weak further increase in promoter activity relative to
+the Sp1.1 single mutant. Interestingly, we previously
+observed that inactivation of Sp1/Sp3 binding to Sp1.2 in
+the context of the larger core promoter (-107 to +69) by a
+C-101A/C-100A double substitution (mSp1.2, figure 3B)
+results in a slight decrease of hTERC promoter activity,
+identifying Sp1.2 as a positive regulator of hTERC tran-
+scription (compare figures 3B, re-analysed and re-plotted
+previous observations, and 3C).
+Thus, the role of Sp1.2 would appear to be dependent on
+the promoter context. Since both mutations have been
+shown to disrupt Sp1/Sp3 binding, the present results
+extend our view of the role of Sp1.2 in the core hTERC
+promoter, suggesting that Sp1.2 may act as both a positive
+and a negative regulatory site. This would be consistent
+with the ability of Sp1 sites to bind both positive or nega-
+tive regulators and may also be consistent with a scenario
+in which co-operativity with downstream binding factors
+might recruit specific factors in a context dependent man-
+ner. In totality, the data confirm the role of Sp1.2 as a
+functional regulator of the hTERC promoter and provide
+the first evidence that a bona fide hTERC promoter muta-
+tion found in a human pathology may modulate core
+hTERC promoter activity in vitro.
+Discussion
+The hTERC mutation described in this study affects the
+core consensus sequence for one of 4 Sp1 binding sites in
+the core hTERC promoter [13]. EMSA analysis indicated
+that the pathogenic mutation destroyed the binding of the
+transcriptional regulators Sp1 and Sp3 to this site (termed
+Sp1.2). Transient transfection of hTERC promoter-luci-
+ferase constructs confirmed that this site is a functional
+regulator of hTERC core promoter activity and that intro-
+duction of the patient mutation at this site modulates core
+hTERC promoter activity. Our data show that Sp1.2 has
+the capacity to mediate both positive and negative regula-
+tion of hTERC, in a context dependent manner depending
+on the other sites available for transcription factor bind-
+ing in the core promoter. This raises the possibility that
+Sp1.2 might exhibit functional co-operativity in vivo and
+that its role might vary, possibly even in a cell-specific
+manner, depending on the full complement of factors
+bound to the core promoter.
+It is tempting to speculate that mutation of Sp1.2 might
+contribute to the pathogenesis of PNH, especially given
+recent reports implicating perturbation of hTERC steady
+state levels in dyskeratosis congenita and in idiopathic
+aplastic anaemia [5-7]. The picture that is emerging is one
+in which the role of hTERC levels in the regulation of tel-
+omerase in non-malignant tissues may be more important
+than was previously thought. In support of this argument
+are the findings that haploinsufficiency of the telomerase
+RNA component is sufficient to result in shortened telom-
+eres both in autosomal dominant dyskeratosis congenita
+in humans and in mTerc+/- heterozygous mice [5,14]. In X-
+linked DC the mutations in DKC1 are thought to act by
+reducing the stability of hTERC leading to decreased tel-
+omerase levels [4], though they may also act through a
+defect in rRNA production [15]. Nevertheless it is interest-
+ing that amongst the DKC1 mutations is a point mutation
+in a conserved Sp1 binding site in the promoter [16]that
+in vitro has been shown to reduce transcription of the gene
+[17].
+Conclusions
+This is the first report of a hTERC mutation in a patient
+with PNH. This has important implications for the con-
+ventional model of PNH development. It is generally
+accepted that two factors are required for the development
+of PNH. One is bone marrow failure, in fact PNH clones
+are found in ~30% of AA patients and ~20% of myelodys-
+plasia (MDS) patients. The second factor is a pathogenic
+PIGA mutation. The PNH clone is thought to expand
+because the GPI- cells have a growth or survival advantage
+over the GPI+ clones in the context of an aplastic bone
+marrow. The nature of the survival advantage is unknown
+but is thought to be mediated via one or more GPI linked
+proteins by an immunological mechanism. The implica-
+tions of the present findings are that aplastic anaemia
+caused by a genetic mechanism can also lead to PNH, sug-
+gesting the growth advantage of GPI- cells may be more
+subtle than resistance to cell killing via GPI linked pro-
+teins. It has been known for some time that cells from
+patients with aplastic anemia have significantly shorter
+telomeres than cells from matched controls [18-20]. This
+could be due to a direct effect on telomere synthesis or an
+indirect effect through for example increased cell death
+leading to increased proliferation of a smaller number of
+progenitor cells. Studies on PNH patients' telomere
+lengths have been inconsistent [18,19] but a recent study
+of 10 patients with primary classical PNH showed granu-
+locytes with significantly shorter telomeres than controls
+[21]. Moreover both GPI- and GPI+ cells showed telomere
+shortening suggesting it reflects the underlying aplastic
+anemia rather than the proliferation of the PNH clone. It
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 7 of 8
+(page number not for citation purposes)
+remains to be seen if hTERC mutations or other genetic
+disturbances of the telomere maintenance pathway are
+the exception or the rule in AA and PNH.
+Competing interests
+None declared.
+Authors' contribution
+WNK was responsible for the molecular analysis and
+wrote part of the paper. TV and AM performed the muta-
+tion analysis. JZ and AB did the binding and transfection
+assays. CA and BU examined the patient and provided the
+DNA. PJM instigated the collaboration and organized and
+Transient transfection analysisFigure 3
+Transient transfection analysis A. The sequence of the wild-type hTERC core promoter (-107/+69) is shown at the top.
+The name of each mutant construct is indicated on the left hand side. The number on either side of the sequence is related to
+the transcriptional start site. Dashes indicate an identical sequence to wild-type. Mutated nucleotides are shown below the wild
+type sequence. B. Scanning mutational analysis Sp1 sites in the hTERC core promoter Promoter activities of site-replaced
+mutant constructs: The various symbols or circles represent the different transcription factor binding sites indicated at the top.
+Transcriptional start site indicated as broken line. The constructs are shown with a black ellipsoid shape indicating a site-
+replaced mutation in one or more positions and open ellipsoids representing unmodified sites. The promoter activity is shown
+on the right hand side. Three micrograms of each plasmid were used for transient transfection analysis in 5637 cells. Promoter
+activities of the mutant constructs were assayed by transfection and compared to the wild-type promoter. The pRL-SV40 vec-
+tor was used as an internal control to normalise the transfection efficiency. For each transfection the mean and standard devi-
+ation of data from three experiments are shown. C. Mutation of Sp1.2 site from PNH patient in 117 bp in length of minimum
+hTERC promoter increases promoter activity.
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+BMC Blood Disorders 2004, 4 http://www.biomedcentral.com/1471-2326/4/3
+Page 8 of 8
+(page number not for citation purposes)
+contributed to the writing of the paper. MB provided a
+series of DNAs from PNH patients. NS and CE provided
+DNA from the ethnically matched controls. ID oversaw
+the clinical data analysis and wrote part of the paper. All
+authors contributed to the writing of the paper.
+Acknowledgements
+The authors would like to thank Aileen Monaghan for help in construct
+development. This work was supported in part by a Wellcome Trust Pro-
+gramme Grant.
+References
+1. Dokal I: Dyskeratosis congenita in all its forms. Br J Haematol
+2000, 110:768-779.
+2. Heiss NS, Knight SW, Vulliamy TJ, Klauck SM, Wiemann S, Mason PJ,
+Poustka A, Dokal I: X-linked dyskeratosis congenita is caused
+by mutations in a highly conserved gene with putative nucle-
+olar functions. Nat Genet 1998, 19:32-38.
+3. Filipowicz W, Pogacic V: Biogenesis of small nucleolar
+ribonucleoproteins. Curr Opinion Cell Biol 2002, 14:319-327.
+4. Mitchell JR, Wood E, Collins K: A telomerase component is
+defective in the human disease dyskeratosis congenita. Nature
+1999, 402:551-555.
+5. Vulliamy T, Marrone A, Goldman F, Dearlove A, Bessler M, Mason PJ,
+Dokal I: The RNA component of telomerase is mutated in
+autosomal dominant dyskeratosis congenita. Nature 2001,
+413:432-435.
+6. Yamaguchi H, Baerlocher GM, Lansdorp PM, Chanock SJ, Nunez O,
+Sloand E, Young NS: Mutations of the human telomerase RNA
+gene (TERC) in aplastic anemia and myelodysplastic
+syndrome. Blood 2003, 102:916-918.
+7. Vulliamy T, Marrone A, Dokal I, Mason PJ: Association between
+aplastic anaemia and mutations in telomerase RNA. Lancet
+2002, 359:2168-2170.
+8. Kinoshita T, Inoue N: Relationship between aplastic anemia
+and paroxysmal nocturnal hemoglobinuria. Int J Hematol 2002,
+75:117-122.
+9. Bessler M, Schaefer A, Keller P: Paroxysmal nocturnal hemo-
+globinuria: insights from recent advances in molecular
+biology. Transfus Med Rev 2001, 15:255-267.
+10. Zhao JQ, Hoare SF, McFarlane R, Muir S, Parkinson EK, Black DM,
+Keith WN: Cloning and characterization of human and mouse
+telomerase RNA gene promoter sequences. Oncogene 1998,
+16:1345-1350.
+11. Zhao JQ, Glasspool RM, Hoare SF, Bilsland A, Szatmari I, Keith WN:
+Activation of telomerase rna gene promoter activity by NF-
+Y, Sp1, and the retinoblastoma protein and repression by
+Sp3. Neoplasia 2000, 2:531-539.
+12. Yamada K, Tanaka T, Miyamoto K, Noguchi T: Sp family members
+and nuclear factor-Y cooperatively stimulate transcription
+from the rat pyruvate kinase M gene distal promoter region
+via their direct interactions. J Biol Chem 2000, 275:18129-18137.
+13. Zhao J, Bilsland A, Hoare SF, Keith WN: Involvement of NF-Y and
+Sp1 binding sequences in basal transcription of the human
+telomerase RNA gene. FEBS Lett 2003, 536:111-119.
+14. Hathcock KS, Hemann MT, Opperman KK, Strong MA, Greider CW,
+Hodes RJ: Haploinsufficiency of mTR results in defects in tel-
+omere elongation. Proc Natl Acad Sci U S A 2002, 99:3591-3596.
+15. Ruggero D, Grisendi S, Piazza F, Rego E, Mari F, Rao PH, Cordon-
+Cardo C, Pandolfi PP: Dyskeratosis congenita and cancer in
+mice deficient in ribosomal RNA modification. Science 2003,
+299:259-262.
+16. Knight SW, Vulliamy TJ, Morgan B, Devriendt K, Mason PJ, Dokal I:
+Identification of novel DKC1 mutations in patients with dys-
+keratosis congenita: implications for pathophysiology and
+diagnosis. Hum Genet 2001, 108:299-303.
+17. Salowsky R, Heiss NS, Benner A, Wittig R, Poustka A: Basal tran-
+scription activity of the dyskeratosis congenita gene is medi-
+ated by Sp1 and Sp3 and a patient mutation in a Sp1 binding
+site is associated with decreased promoter activity. Gene
+2002, 293:9-19.
+18. Brummendorf TH, Maciejewski JP, Mak J, Young NS, Lansdorp PM:
+Telomere length in leukocyte subpopulations of patients
+with aplastic anemia. Blood 2001, 97:895-900.
+19. Ball SE, Gibson FM, Rizzo S, Tooze JA, Marsh JC, Gordon-Smith EC:
+Progressive telomere shortening in aplastic anemia. Blood
+1998, 91:3582-3592.
+20. Lee JJ, Kook H, Chung IJ, Na JA, Park MR, Hwang TJ, Kwak JY, Sohn
+SK, Kim HJ: Telomere length changes in patients with aplastic
+anaemia. Br J Haematol 2001, 112:1025-1030.
+21. Karadimitris A, Araten DJ, Luzzatto L, Notaro R: Severe telomere
+shortening in patients with paroxysmal nocturnal hemoglob-
+inuria affects both GPI- and GPI+ hematopoiesis. Blood 2003,
+102:514-516.
+Pre-publication history
+The pre-publication history for this paper can be accessed
+here:
+http://www.biomedcentral.com/1471-2326/4/3/prepub
+

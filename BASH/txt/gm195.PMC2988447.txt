@@ -1,0 +1,643 @@
+Introduction
+Preimplantation genetic diagnosis (PGD) is an alternative
+to prenatal diagnosis involving the biopsy and genetic
+testing of single cells from in vitro obtained oocytes and/
+or preimplantation embryos. Only embryos shown to be
+free of the genetic defect under study are transferred to
+the uterus of the patient. PGD is performed for couples at
+high risk of transmitting a genetic condition to their
+children; it offers the advantage of circumventing an
+invasive prenatal diagnosis and therapeutic abortion.
+Preimplantation genetic screening (PGS) involves the
+selection of euploid embryos to improve in vitro fertili­za­
+tion (IVF) results and to avoid pregnancies with chromo­
+somal abnormalities [1]. Considering the increasing risk
+for aneuploidy with advanced maternal age and findings
+of high aneuploidy rates in spontaneous abortions, PGS
+has been offered to specific IVF patient groups: patients
+of advanced maternal age and patients with recurrent
+IVF failure or repeated miscarriages (not due to trans­
+locations). For many years, PGS using fluorescence in situ
+hybridization (FISH) for 5 to 12 chromosomes has been
+applied worldwide but without real validation of its
+efficiency. In recent years, several randomized controlled
+trials have failed to show a benefit for PGS, as summar­
+ized in the meta-analysis by Checa and colleagues [2].
+Biological (embryonic mosaicism) and technical (limita­
+tions of FISH and negative impact of cleavage-stage
+biopsy) arguments were proposed to explain the lack of
+benefit. Further clinical practice now awaits new
+random­ized controlled trials to prove that PGS with
+biopsy at other stages, and using new array methods with
+full chromosome analysis, improves live birth rates and
+reduces miscarriage rates [3]. PGD and PGS rely on the
+same technology, but since PGS is offered to (sub)fertile
+couples without genetic diseases, it is mostly outside the
+scope of this review.
+PGD developed in the wake of human IVF and PCR
+technology. The first children born after PGD were
+reported by Handyside et al. in 1990 [4]. In these initial
+cycles, PCR was used for gender determination in
+families with X-linked diseases. Later, FISH became the
+standard method for sexing, and also for chromosomal
+aberrations, while PCR-based methods were used for the
+detection of single gene defects. It is essential that these
+techniques are adapted to the single-cell level and are
+thoroughly validated before clinical application.
+PGD requires a multidisciplinary team with a close
+collaboration and excellent communication between the
+assisted reproduction unit and the medical genetics unit.
+Preferentially, both units work within the same institute.
+Alternatively, transport PGD can be set up, and IVF
+Abstract
+Preimplantation genetic diagnosis (PGD) involves
+testing of single cells biopsied from oocytes and/
+or embryos generated in vitro. As only embryos
+unaffected for a given genetic condition are
+transferred to the uterus, it avoids prenatal diagnosis
+and termination of pregnancy. Follow-up data from
+PGD pregnancies, deliveries and children show an
+acceptable live birth rate and, so far, no detrimental
+effects of the procedure have been observed. Of
+course, the long-term health outcome is currently
+unknown. PGD was first performed in 1990 and
+remained an experimental procedure for a number
+of years. Now, two decades later, it is regarded as an
+established alternative to prenatal diagnosis: its use has
+expanded, the range of applications has broadened,
+and continuous technical progress in single-cell testing
+has led to high levels of efficiency and accuracy.
+The current gold standard methods (single-cell
+multiplex-PCR for monogenic diseases and interphase
+fluorescence in situ hybridization for chromosomal
+aberrations) are being replaced by single-cell whole
+genome amplification and array technology. These
+generalized methods substantially reduce the pre-
+PGD workload and allow more automated genome-
+wide analysis. The implementation of laboratory
+accreditation schemes brings the field at the same
+level of routine diagnostics. This article reviews the
+state of the art and considers indications, accuracy and
+current technical changes in the field of PGD.
+© 2010 BioMed Central Ltd
+Singling out genetic disorders and disease
+Martine De Rycke*
+REVIEW
+*Correspondence: martine.derycke@uzbrussel.be
+Centre for Medical Genetics, Universitair Ziekenhuis Brussel, Laarbeeklaan 101,
+Brussels, Belgium
+De Rycke Genome Medicine 2010, 2:74
+http://genomemedicine.com/content/2/10/74
+© 2010 BioMed Central Ltd
+treatment (hormonal stimulation, oocyte retrieval and in
+vitro fertilization, embryo culture and embryo transfer) is
+carried out at a satellite assisted-reproduction unit. Only
+the biopsied embryonic cell samples are transported,
+often over long distances, to a genetics unit specializing
+in single-cell diagnosis.
+Extensive data on PGD cycles, pregnancies, deliveries
+and children have been collected by the European Society
+for Human Reproduction and Embryology (ESHRE) PGD
+consortium since 1997 and, although not worldwide, the
+data sets offer comprehensive insights into this particular
+field of single-cell testing [5].
+Indications for preimplantation genetic diagnosis
+The main indications for PGD are chromosomal abnor­
+mali­ties, X-linked disorders and single gene or mono­
+genic disorders. The majority of PGD cycles for
+chromosomal abnormalities are aimed at reciprocal and
+Robertsonian translocations, while cases with inversions
+or insertions are less frequent. For the monogenic dis­
+orders, PGD was initially applied for the same indica­tions
+as in prenatal diagnosis. According to the latest ESHRE
+PGD consortium data, the most common indications for
+autosomal recessive disorders are cystic fibrosis, spinal
+muscular atrophy and hemoglobinopathies [6]. For the
+autosomal dominant disorders, myotonic dystrophy type
+1, neurofibromatosis and Huntington’s disease are the
+most frequently requested indications; for the X-linked
+disorders, PGD is mainly carried out for Duchenne’s
+muscular dystrophy, hemophilia and fragile X syndrome.
+Sexing with FISH has been most frequently used for X-
+linked disorders but more and more specific DNA
+diagnoses have been developed. Specific DNA diagnosis
+has important advantages: first, healthy male embryos
+are not discarded; and second, female carriers can be
+identified and excluded from transfer or not, according to
+the wishes of the patient and the policy of the center.
+PGD is currently available for more than 200 mono­
+genic diseases and has lately also been applied for indica­
+tions, such as cancer predisposition syndromes and other
+late-onset diseases, for which prenatal diagnosis is
+ethically difficult [7,8]. For cancer predisposition syn­
+dromes that are not fully penetrant and for which some
+form of therapeutic measures may be available, prenatal
+diagnosis and termination of pregnancy remain contro­
+versial. As the preimplantation embryo is often con­
+sidered as having less moral value than a fetus, PGD
+seems a more acceptable option.
+Another more recent indication is human leucocyte
+antigen (HLA) typing of preimplantation embryos to
+select an embryo that is HLA compatible with an affected
+sibling. At birth, hematopoietic stem cells from the cord
+blood of the saviour baby are then used to transplant the
+sick sibling. HLA typing alone is carried out for acquired
+diseases, such as severe aplastic anemia, or HLA typing is
+combined with the detection of mutations underlying
+immunodeficiencies and hemoglobin disorders [9- 11].
+The major ethical objection here is that the future child
+may be regarded as an instrument and not as an autono­
+mous person. This concern was studied in depth and it
+was concluded that considering the efforts of the parents
+to cure the sick child and their wish for another child, it is
+unlikely that they would treat the saviour child solely as a
+donor. In addition, it is universally accepted to rely on an
+existing HLA-compatible child as a donor of hemato­
+poietic stem cells [12].
+So far, few clinical cycles have been carried out for
+families carrying heteroplasmic mitochondrial (mt)DNA
+mutations [13-15]. The genetics of mtDNA is quite com­
+plex and the proportion of mutant mtDNA trans­mitted
+from mother to offspring will vary due to a genetic
+bottleneck in the oocytes [16]. It is another ethically
+difficult indication, as the possibility exists that there are
+no zero-mutation embryos for transfer but just embryos
+with a low mutation load (that is, the ratio of mutant to
+normal mtDNA) under a certain disease-specific
+threshold, meaning that the risk for an affected child is
+not eliminated but only reduced. PGD for mtDNA
+mutations can only be offered reliably when certain
+criteria are fulfilled: a close correlation between the
+mutation load and disease severity is a first requirement;
+second, there should be no change in mutation load with
+time; and third, mutant mtDNA should be uniformly
+distributed over all blastomeres of the cleavage-stage
+embryo [17]. For many mtDNA mutations the latter
+information is not available. Therefore, it is recommended
+to develop PGD within a scientific research protocol and
+to counsel prospective parents adequately and inform
+them that a first PGD cycle may be carried out merely to
+gather information on the reliability of PGD [18].
+Assisted reproductive technology and biopsy
+The first step in a PGD cycle is controlled ovarian hyper­
+stimulation, aimed at obtaining a large cohort of mature
+oocytes. The aspirated oocytes are denuded of surround­
+ing cumulus cells before IVF occurs. Intracytoplasmic
+sperm injection is preferred over regular IVF, regardless
+of the sperm quality, in order to avoid residual sperm
+adhering to the zona pellucida after IVF. Remaining
+cumulus or sperm cells may lead to contamination when
+PCR is used for diagnosis [19].
+The biopsy procedure involving breaching of the zona
+pellucida and removal of the cell(s) can be carried out at
+different developmental stages [20]. Polar body (PB)
+biopsy from oocytes (first PB from metaphase II oocytes
+and second PB after normal fertilization) is a first
+possibility [21]. As PBs do not contribute to normal
+fertilization or embryonic development, their removal
+De Rycke Genome Medicine 2010, 2:74
+http://genomemedicine.com/content/2/10/74
+Page 2 of 6
+has no detrimental effect. In countries where embryo
+selection is forbidden, PB biopsy is the only legal option
+as testing can take place before syngamy, which is the
+moment considered as the beginning of an embryo. The
+main disadvantage is that PB analysis can only evaluate
+the maternal genetic contribution. The ESHRE PGD
+consortium data collection indicates that cleavage-stage
+biopsy at day 3 is used in the majority of PGD cycles [6].
+At this eight-cell stage, embryo compaction has not
+started yet and cells are considered to be totipotent. The
+zona pellucida opening is mostly carried out with a non-
+contact diode infrared laser and one or two nucleated
+blastomeres are aspirated [22]. The impact of the random
+removal of one or two embryonic cells on further
+development and implantation potential is highly
+debated. In a recent prospective analysis of a cohort of
+single-embryo transfers, the authors demonstrated that
+the live birth rate after one-cell removal from eight-cell
+embryos (37.4%) is similar to the rate of a control
+intracytoplasmic sperm injection group without biopsy
+(35.0%), but significantly higher than the rate of the two-
+cell biopsy study group (22%). It is therefore recom­
+mended to biopsy one cell, provided that an accurate and
+reliable diagnosis method is in place [23]. Another limita­
+tion of cleavage-stage biopsy is the high chromosomal
+mosaicism rate that seems inherent at this developmental
+stage and probably evolves to lower rates at the blastocyst
+stage via self-correction [24]. Trophectoderm (TE) biopsy
+at day 5 is a fast emerging biopsy approach. Some reports
+suggest that it may yield substantially higher implantation
+and live birth rates than cleavage-stage biopsy [25-27].
+About 4 to 20 extra-embryonic TE cells are aspirated and
+the inner cell mass, from which the fetus will develop, is
+kept intact. This is one advantage compared with
+cleavage-stage biopsy; another advantage is that multiple
+cells are available for genetic testing, and this may
+improve diagnostic accuracy. The drawbacks of TE
+biopsy are that it requires a successful embryo culture
+system with high blastocyst rates and it leaves limited
+time for genetic analysis. The time problem may be
+solved by freezing the blastocysts, relying on efficient
+vitrification and thaw-survival protocols, and transferring
+them later in a natural cycle.
+After biopsy, (single) cells are washed and either fixated
+for FISH analysis or tubed and lysed for amplification.
+Amplification reaction components are added directly to
+the lysed cells without prior DNA purification.
+Single-cell genetic testing for monogenic disorders
+In principle, any monogenic disease for which the
+chromosomal locus has been identified can be diagnosed
+at the single-cell level. The golden standard today is
+fluorescent multiplex PCR in which one of each primer
+pair is fluorescently labeled, allowing subsequent
+detection of PCR fragments on an automated sequencer.
+In indirect tests, multiple short tandem repeat markers
+are co-amplified together in one reaction (linkage-based
+strategy); for direct testing, markers are combined with
+specific mutation(s). The main advantage of linkage-
+based testing over mutation-specific testing is that the
+single-cell protocols can be used for several couples,
+independent of the mutation they carry. This saves time,
+resources and manpower in pre-PGD workups for
+diseases for which many private mutations have been
+identified. The use of polymorphic markers implicates
+that during pre-PGD work up, informativity and segre­
+gation tests are performed on DNA samples of the couple
+and family members to establish which alleles of the
+informative markers segregate with the mutation.
+Different strategies of PCR and allele discrimination have
+been developed for mutation detection over recent years,
+and the most important ones are: amplification refractory
+mutation system [28], endonuclease restriction [29],
+minisequencing [30] and quantitative real-time PCR [26].
+PCR-based protocols with short tandem repeat markers
+have recently also been applied in PGD cycles for
+structural chromosome abnormalities, in which FISH has
+been traditionally the preferred method [31,32]. A major
+bottleneck with PCR assays is that the single-cell adap­
+tation and validation part of the pre-PGD work up has to
+be repeated with every new DNA locus. In recent years,
+the use of single-cell whole genome amplification (WGA)
+as a universal step has been demonstrated to be a
+practical and efficient alternative to single-cell PCR. The
+first WGA methods were PCR-based and suffered from
+incomplete genome coverage and amplification bias, but
+the more recent methods are markedly better [33]. One
+method is multiple displacement amplification that relies
+on isothermal strand displacement amplification with
+Phi29 DNA polymerase. This method is very straight­
+forward but requires high-quality DNA as the template,
+and yields relatively high allele drop-out (ADO) and
+preferential amplification rates of 25% on average [34];
+this is about five times higher than with fluorescent
+multiplex PCR. Other WGA methods involve somewhat
+more complex protocols with DNA fragmentation and
+library formation prior to amplification; they even
+amplify low-quality DNA, and ADO rates are approxi­
+mately 10% [35]. Single-cell WGA generates micrograms
+of amplified DNA, which is sufficient for several down­
+stream applications. Multiple standard PCR assays may
+be performed for haplotyping in case of monogenic
+diseases [36]. Haplotyping can also be combined with
+array comparative genomic hybridization (aCGH) for the
+detection of chromosomal imbalances. These strategies
+are already clinically applied in some centers. Further
+improvement and generalization will come from the intro­
+duction of high-density single nucleotide polymorphism
+De Rycke Genome Medicine 2010, 2:74
+http://genomemedicine.com/content/2/10/74
+Page 3 of 6
+(SNP) arrays, which enable evaluation of DNA haplo­
+typing and chromosomal constitution on the same
+platform. The validation of these SNP arrays is ongoing
+[37,38]. The implementation of these new technologies
+will reduce the procedures substantially and introduce
+automation. On the other hand, these arrays will generate
+a tremendous amount of genetic data - for instance, on
+disease susceptibility genes - and it is expected that this
+will entail many ethical discussions and challenges for
+genetic counseling.
+Single-cell genetic testing for chromosomal
+aberrations
+The majority of PGD cycles for chromosomal aberrations
+are performed for translocations. Balanced translocation
+carriers have a high risk for producing chromosomally
+unbalanced gametes and present with infertility,
+repeated spontaneous abortions and unbalanced
+offspring. With FISH, fixated cells are hybridized using
+chromosome-specific DNA probes, which are labeled
+with different fluorochromes. Probe selection is based
+on the break­points of the specific translocation and
+chromosomes involved, and should allow detection of all
+possible segregation patterns. FISH has a number of
+technical limitations and it is gradually replaced by
+aCGH. Here, whole genome amplified DNA of the test
+single-cell(s) is labeled with a green fluorochrome, while
+a red fluoro­chrome is used for the control sample. Both
+samples are mixed and hybridized to either a normal
+metaphase chromosome spread or, in case of aCGH, to
+DNA sequences specific to human chromosomes
+spotted on an array. A computerized system allows
+analysis of the ratios between both fluorochromes for
+each chromosome and detection of imbalances. As
+metaphase comparative genomic hybridization (CGH) at
+the single-cell level requires several days for analysis,
+groups that have presented clinical application of CGH
+in PGD have to resort to either polar body analysis [39]
+or cryo­preservation of the embryos [40,41]. As aCGH
+has a lower hybridization time, it can be performed
+within the time frame of PGD. Other advantages over
+metaphase CGH are the higher resolution and the
+important auto­mation [42]. aCGH following multiple
+displacement amplification has been preclinically
+validated in single lymphoblasts, fibroblasts and
+blastomeres of trans­loca­tion carriers [43], and clinical
+data have been published for PGS applications [44].
+Compared with FISH, aCGH provides a generalized
+platform, circumventing pre-PGD testing of FISH
+probes with every new translocation. aCGH, as well as
+SNP arrays, yields information on genome-wide copy
+number variation, but only SNP arrays offer
+simultaneously genotype information and present a
+universal platform for both chromosomal aberrations
+and monogenic diseases. Therefore, SNP arrays are
+regarded as the most promising future strategy for PGD.
+Accuracy
+Single-cell DNA amplification is technically demanding
+because of the small amount of non-purified DNA at the
+start, and inherent pitfalls of contamination and ADO,
+which can lead to misdiagnosis. ADO is defined as the
+random failure of amplification for one of two alleles in a
+heterozygous cell. The use of optimized cell lysis and
+DNA amplification conditions, along with sensitive
+detection systems, should reduce ADO to a minimum.
+Contamination is minimized by taking a number of
+prevention measures (see best practice guidelines). The
+application of multiplex PCR protocols further assists in
+monitoring problems of contamination and ADO in
+addition to mutation detection, making these assays
+highly accurate.
+A recent theoretical study on the accuracy of FISH
+showed that the technology has the potential of high
+accuracy for sexing and for translocations, but not in the
+case of aneuploidy screening [45]. Apart from technical
+errors such as ADO and contamination, other possible
+causes for misdiagnosis involve intrinsic sample quality,
+such as chromosomal mosaicism, and human errors,
+such as mislabeling, incorrect embryo transfer or
+erroneous segregation analysis. According to the PGD
+consortium data, low error rates have been observed for
+both DNA-amplification-based cycles (0.5%) and FISH-
+based cycles (0.1%) [46].
+Quality control and assurance
+PGD is still relatively unregulated compared with routine
+genetic testing. In order to better standardize single-cell
+testing and to achieve high quality levels, guidelines for
+best practice have been designed by the ESHRE PGD
+consortium and by the Preimplantation Genetic Diag­nosis
+International Society [47-49]. In addition, four new
+extensive guidelines on different aspects of PGD (organi­
+za­tion of a PGD center, FISH-based testing, amplification-
+based testing and biopsy) are in preparation.
+A powerful method for quality assurance is accredita­
+tion. In 2008, only 33% of 53 European PGD centers had
+achieved or were preparing for accreditation [50]. Many
+countries and international authorities now recommend
+PGD centers to initiate the accreditation process; that is,
+to be committed not only to reach the standards set by
+the accrediting body but also to continuously enhance
+the quality of the services.
+Two programs of external quality assessment (EQA), a
+key element of quality assurance [51,52], have been
+initiated recently. The UK National External Quality
+Assess­ment Service [53], in collaboration with the
+ESHRE PGD consortium, has set up EQA programs for
+De Rycke Genome Medicine 2010, 2:74
+http://genomemedicine.com/content/2/10/74
+Page 4 of 6
+PGD for monogenic diseases, while the FISH-based PGD
+EQA program is run by the Cytogenetics European
+Quality Assessment [54].
+Conclusions
+In the past two decades, PGD has evolved from an
+experimental procedure to a widely accepted alternative
+for prenatal diagnosis that is applied to an expanding
+range of indications. Non-stop technical improvements
+have provided reliable and accurate single-cell assays for
+both chromosomal abnormalities and monogenic dis­
+orders. As protocols are often family specific, their
+develop­ment is labour intensive and time consuming and
+can be carried out in specialized laboratories. The
+introduction of powerful array technologies following
+universal whole genome amplification will reduce the
+workload and allow automation. Together with the
+imple­mentation of accreditation schemes, this will lead
+to improved standardization and uniformity in the
+complex process of PGD.
+Abbreviations
+aCGH, array comparative genomic hybridization; ADO, allele drop-out; CGH,
+comparative genomic hybridization; EQA, external quality assessment;
+ESHRE, European Society for Human Reproduction and Embryology; FISH,
+fluorescence in situ hybridization; HLA, human leucocyte antigen; IVF, in vitro
+fertilization; mt, mitochondrial; PB, polar body; PCR, polymerase chain reaction;
+PGD, preimplantation genetic diagnosis; PGS, preimplantation genetic
+screening; SNP, single nucleotide polymorphism; TE, trophectoderm; WGA,
+whole genome amplification.
+Competing interests
+The author declares that she has no competing interests.
+Acknowledgements
+I thank Pascale De Becker for providing feedback and edits on the manuscript.
+Published: 6 October 2010
+References
+1.	 Verlinsky Y, Kuliev A: Preimplantation diagnosis of common aneuploidies in
+fertile couples of advanced maternal age. Hum Reprod 1996, 11:2076-2077.
+2.	 Checa MA, Alonso-Coello P, Solà I, Robles A, Carreras R, Balasch J: IVF/ICSI
+with or without preimplantation genetic screening for aneuploidy in
+couples without genetic disorders: a systematic review and meta-analysis.
+J Assist Reprod Genet 2009, 26:273-283.
+3.	 Harper J, Coonen E, De Rycke M, Fiorentino F, Geraedts J, Goossens V, Harton
+G, Moutou C, Pehlivan Budak T, Renwick P, Sengupta S, Traeger-Synodinos J,
+Vesela K: What next for preimplantation genetic screening (PGS)?
+A position statement from the ESHRE PGD Consortium Steering
+Committee. Hum Reprod 2010, 25:821-823.
+4.	 Handyside AH, Kontogianni EH, Hardy K, Winston RM: Pregnancies from
+biopsied human preimplantation embryos sexed by Y-specific DNA
+amplification. Nature 1990, 344:768-770.
+5.	 The ESHRE PGD consortium [http://www.eshre.eu/01/default.
+aspx?pageid=201]
+6.	 Harper J, Coonen E, De Rycke M, Harton G, Moutou C, Pehlivan T, Traeger-
+Synodinos J, Van Rij M, Goossens V: ESHRE PGD consortium data collection
+X: Cycles from January to December 2007 with pregnancy follow-up to
+October 2008. Hum Reprod 2010, in press.
+7.	 Verlinsky Y, Rechitsky S, Verlinsky O, Xu K, Schattman G, Masciangelo C,
+Ginberg, N, Strom C, Rosenwaks Z, Kuliev A: Preimplantation diagnosis for
+p53 tumour suppressor gene mutations. Reprod Biomed Online 2001,
+2:102-105.
+8.	 Spits C, De Rycke M, Van Ranst N, Verpoest W, Lissens W, Van Steirteghem A,
+Liebaers I, Sermon K: Preimplantation genetic diagnosis for cancer
+predisposition syndromes. Prenat Diagn 2007, 27:447-456.
+9.	 Kuliev A, Rechitsky S, Verlinsky O, Tur-Kaspa I, Kalakoutis G, Angastiniotis M,
+Verlinsky Y: Preimplantation diagnosis and HLA typing for haemoglobin
+disorders. Reprod Biomed Online 2005, 11:362-370.
+10.	 Verlinsky Y, Rechitsky S, Sharapova T, Laziuk K, Barsky I, Verlinsky O, Tur-Kaspa I,
+Kuliev A: Preimplantation diagnosis for immunodeficiencies. Reprod Biomed
+Online 2007, 14:214-223.
+11.	 Van de Velde H, De Rycke M, De Man C, De Hauwere K, Fiorentino F,
+Kahraman S, Pennings G, Verpoest W, Devroey P, Liebaers I: The experience
+of two European preimplantation genetic diagnosis centres on human
+leukocyte antigen typing. Hum Reprod 2009, 24:732-740.
+12.	 Devolder K: Preimplantation HLA typing: having children to save our loved
+ones. J Med Ethics 2005, 31:582-586.
+13.	 Steffann J, Frydman N, Gigarel N, Burlet P, Ray PF, Fanchin R, Feyereisen E,
+Kerbrat V, Tachdjian G, Bonnefont JP, Frydman R, Munnich A: Analysis of
+mtDNA variant segregation during early human embryonic development:
+a tool for successful NARP preimplantation diagnosis. J Med Genet 2006,
+43:244-247.
+14.	 Tajima H, Sueoka K, Moon SY, Nakabayashi A, Sakurai T, Murakoshi Y,
+Watanabe H, Iwata S, Hashiba T, Kato S, Goto Y, Yoshimura Y: The
+development of novel quantification assay for mitochondrial DNA
+heteroplasmy aimed at preimplantation genetic diagnosis of Leigh
+encephalopathy. J Assist Reprod Genet 2007, 24:227-232.
+15.	 Poulton J, Bredenoord AL: 174th ENMC international workshop: Applying
+pre-implantation genetic diagnosis to mtDNA diseases: implications of
+scientific advances 19-21 March 2010, Naarden, The Netherlands.
+Neuromuscul Disord 2010, 20:559-563.
+16.	 Poulton J, Chiaratti MR, Meirelles FV, Kennedy S, Wells D, Holt IJ: Transmission
+of mitochondrial DNA diseases and ways to prevent them. PLoS Genet
+2010, 6pii:e1001066.
+17.	 Bredenoord AL, Dondorp W, Pennings G, De Die-Smulders CE, De Wert G:
+PGD to reduce reproductive risk: the case of mitochondrial DNA disorders.
+Hum Reprod 2008, 23:2392-2401.
+18.	 Bredenoord A, Dondorp W, Pennings G, de Die-Smulders C, Smeets B, de
+Wert G: Preimplantation genetic diagnosis for mitochondrial DNA
+disorders: ethical guidance for clinical practice. Eur J Hum Genet 2009,
+17:1550-1559.
+19.	 Liebaers I, Sermon K, Staessen C, Joris H, Lissens W, Van Assche E, Nagy P,
+Bonduelle M, Vandervorst M, Devroey P, Van Steirteghem A: Clinical
+experience with preimplantation genetic diagnosis and intracytoplasmic
+sperm injection. Hum Reprod 1998, 13:186-195.
+20.	 De Vos A, Van Steirteghem A: Aspects of biopsy procedures prior to
+preimplantation genetic diagnosis. Prenat Diagn 2001, 21:767-780.
+21.	 Verlinsky Y, Ginsberg N, Lifchez A, Valle J, Moise J, Strom CM: Analysis of the
+first polar body: preconception genetic diagnosis. Hum Reprod 1990,
+5:826-829.
+22.	 Joris H, De Vos A, Janssens R, Devroey P, Liebaers I, Van Steirteghem A:
+Comparison of the results of human embryo biopsy and outcome of PGD
+after zona drilling using acid Tyrode medium or a laser. Hum Reprod 2003,
+18:1896-1902.
+23.	 De Vos A, Staessen C, De Rycke M, Verpoest W, Haentjens P, Devroey P,
+Liebaers I, Van de Velde H: Impact of cleavage-stage embryo biopsy in view
+of PGD on human blastocyst implantation: a prospective cohort of single
+embryo transfers. Hum Reprod 2009, 24:2988-2996.
+24.	 Barbash-Hazan S, Frumkin T, Malcov M, Yaron Y, Cohen T, Azem F, Amit A,
+Ben-Yosef D: Preimplantation aneuploid embryos undergo self-correction
+in correlation with their developmental potential. Fertil Steril 2009,
+92:890-896.
+25.	 McArthur SJ, Leigh D, Marshall JT, de Boer KA, Jansen RP: Pregnancies and
+live births after trophectoderm biopsy and preimplantation genetic
+testing of human blastocysts. Fertil Steril 2005, 84:1628-1636.
+26.	 Kokkali G, Traeger-Synodinos J, Vrettou C, Stavrou D, Jones GM, Cram DS,
+Makrakis E, Trounson AO, Kanavakis E, Pantos K: Blastocyst biopsy versus
+cleavage stage biopsy and blastocyst transfer for preimplantation genetic
+diagnosis of beta-thalassaemia: a pilot study. Hum Reprod 2007,
+22:1443-1449.
+27.	 McArthur SJ, Leigh D, Marshall JT, Gee AJ, De Boer KA, Jansen RP: Blastocyst
+trophectoderm biopsy and preimplantation genetic diagnosis for familial
+monogenic disorders and chromosomal translocations. Prenat Diagn 2008,
+28:434-442.
+De Rycke Genome Medicine 2010, 2:74
+http://genomemedicine.com/content/2/10/74
+Page 5 of 6
+28.	 Moutou C, Gardes N, Nicod JC, Viville S: Strategies and outcomes of PGD of
+familial adenomatous polyposis. Mol Hum Reprod 2007, 13:95-101.
+29.	 Spits C, De Rycke M, Verpoest W, Lissens W, Van Steirteghem A, Liebaers I,
+Sermon K: Preimplantation genetic diagnosis for Marfan syndrome. Fertil
+Steril 2006, 86:310-320.
+30.	 Iacobelli M, Greco E, Rienzi L, Ubaldi F, Podini D, Nuccitelli A, Tesarik J, Baldi M,
+Fiorentino F: Birth of a healthy female after preimplantation genetic
+diagnosis for Charcot-Marie-Tooth type X. Reprod Biomed Online 2003,
+7:558-562.
+31.	 Traversa MV, Carey L, Leigh D: A molecular strategy for routine
+preimplantation genetic diagnosis in both reciprocal and Robertsonian
+translocation carriers. Mol Hum Reprod 2010, 16:329-337.
+32.	 Fiorentino F, Kokkali G, Biricik A, Stavrou D, Ismailoglu B, De Palma R, Arizzi L,
+Harton G, Sessa M, Pantos K: Polymerase chain reaction-based detection of
+chromosomal imbalances on embryos: the evolution of preimplantation
+genetic diagnosis for chromosomal translocations. Fertil Steril 2010.
+doi:10.1016/j.fertnstert.2009.12.063.
+33.	 Coskun S, Alsmadi O: Whole genome amplification from a single cell: a new
+era for preimplantation genetic diagnosis. Prenat Diagn 2007, 27:297-302.
+34.	 Spits C, Le Caignec C, De Rycke M, Van Haute L, Van Steirteghem A, Liebaers I,
+Sermon K: Whole-genome multiple displacement amplification from
+single-cells. Nat Protoc 2006, 1:1965-1970.
+35.	 Höckner M, Erdel M, Spreiz A, Utermann G, Kotzot D: Whole genome
+amplification from microdissected chromosomes. Cytogenet Genome Res
+2009, 125:98-102.
+36.	 Renwick P, Trussler J, Lashwood A, Braude P, Ogilvie CM: Preimplantation
+genetic haplotyping: 127 diagnostic cycles demonstrating a robust,
+efficient alternative to direct mutation testing on single-cells. Reprod
+Biomed Online 2010, 20:470-476.
+37.	 Johnson DS, Gemelos G, Baner J, Ryan A, Cinnioglu C, Banjevic M, Ross R,
+Alper M, Barrett B, Frederick J, Potter D, Behr B, Rabinowitz M: Preclinical
+validation of a microarray method for full molecular karyotyping of
+blastomeres in a 24-h protocol. Hum Reprod 2010, 25:1066-1075.
+38.	 Treff NR, Su J, Tao X, Miller KA, Levy B, Scott RT Jr: A novel single-cell DNA
+fingerprinting method successfully distinguishes sibling human embryos.
+Fertil Steril 2010, 94:477-484.
+39.	 Wells D, Escudero T, Levy B, Hirschhorn K, Delhanty J, Munné S: First clinical
+application of comparative genomic hybridisation and polar body testing
+for preimplantation genetic diagnosis of aneuploidy. Fertil Steril 2002,
+78:543-549.
+40.	 Voullaire L, Slater H, Williamson R, Wilton L: Chromosome analysis of
+blastomeres from human embryos by using CGH. Hum Genet 2000,
+106:210-217.
+41.	 Wilton L, Williamson R, McBain J, Edgar D, Voullaire L: Birth of a healthy infant
+after preimlantation confirmation of euploidy by comparative genomic
+hybridisation. N Engl J Med 2001, 345:1537-1541.
+42.	 Wells D, Brynn L: Cytogenetics in reproductive medicine: the contribution
+of comparative genomic hybridisation (CGH). BioEssays 2003, 25:289-300.
+43.	 Le Caignec, C, Spits C, Sermon K, De Rycke M, Thienpont B, Debrock S,
+Staessen C, Moreau Y, Fryns JP, Van Steirteghem A, Liebaers I, Vermeesch, JR:
+Single-cell chromosomal imbalances detection by array CGH. Nucleic Acids
+Res 2006, 34:e68.
+44.	 Munne S, Ketterson K, Wagner C, Hill D, Cohen J, Wells D: Pregnancy
+outcome following comprehensive chromosome analysis at the cleavage
+and blastocyst stages. Fertil Steril 2010, 94:S175-S176.
+45.	 Scriven PN, Bossuyt PM: Diagnostic accuracy: theoretical models for
+preimplantation genetic testing of a single nucleus using the fluorescence
+in situ hybridization technique. Hum Reprod 2010, 25:2622-2628.
+46.	 Wilton L, Thornhill A, Traeger-Synodinos J, Sermon KD, Harper JC: The causes
+of misdiagnosis and adverse outcomes in PGD. Hum Reprod 2009,
+24:1221-1228.
+47.	 Thornhill AR, De Die-Smulders CE, Geraedts JP, Harper JC, Harton GL, Lavery
+SA, Moutou C, Robinson, MD, Schmutzler AG, Scriven PN, Sermon KD, Wilton
+L: ESHRE PGD Consortium“Best practice guidelines for clinical
+preimplantation genetic diagnosis (PGD) and preimplantation genetic
+screening (PGS)”. Hum Reprod 2005, 20:35-48.
+48.	 Preimplantation Genetic Diagnosis International Society: The
+Preimplantation Genetic Diagnosis International Society (PGDIS):
+Guidelines for good practice in PGD. Reprod Biomed Online 2004, 9:430-434.
+49.	 Preimplantation Genetic Diagnosis International Society (PGDIS): Guidelines
+for good practice in PGD: programme requirements and laboratory
+quality assurance. Reprod Biomed Online 2008, 16:134-147.
+50.	 Corveleyn A, Morris MA, Dequeker E, Sermon K, Davies JL, Antiñolo G,
+Schmutzler A, Vanecek J, Nagels N, Zika E, Palau F, Ibarreta D: Provision and
+quality assurance of preimplantation genetic diagnosis in Europe. Eur J
+Hum Genet 2008, 16:290-299.
+51.	 Vendrell X, Carrero R, Alberola T, Bautista-Llácer R, García-Mengual E,
+Claramunt R, Pérez-Alonso M: Quality management system in PGD/PGS:
+now is the time. J Assist Reprod Genet 2009, 26:197-204.
+52.	 Harper JC, Sengupta S, Vesela K, Thornhill A, Dequeker E, Coonen E, Morris
+MA: Accreditation of the PGD laboratory. Hum Reprod 2010, 25:1051-1065.
+53.	 The UK National External Quality Assessment Service (UKNEQAS) [http://
+www.ukneqas-molgen.org.uk]
+54.	 The Cytogenetics European Quality Assessment Service (CEQA) [http://
+www.ceqa-cyto.eu]
+doi:10.1186/gm195
+Cite this article as: De Rycke M: Singling out genetic disorders and disease.
+Genome Medicine 2010, 2:74.
+De Rycke Genome Medicine 2010, 2:74
+http://genomemedicine.com/content/2/10/74
+Page 6 of 6
+

@@ -1,0 +1,702 @@
+Human Pluripotent Stem Cells Differentiated in Fully
+Defined Medium Generate Hematopoietic CD34+
+and
+CD342
+Progenitors with Distinct Characteristics
+Laurie Chicha1
+, Anis Feki2
+, Alessandro Boni1
+, Olivier Irion2
+, Outi Hovatta2,3
+, Marisa Jaconi1
+*
+1 Department of Pathology and Immunology, Faculty of Medicine, Geneva University, Geneva, Switzerland, 2 Stem Cell Research Laboratory, Department of Gynecology
+and Obstetrics, Geneva University Hospital, Geneva, Switzerland, 3 Department of Clinical Science, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden
+Abstract
+Background: Differentiation of pluripotent stem cells in vitro provides a powerful means to investigate early developmental
+fates, including hematopoiesis. In particular, the use of a fully defined medium (FDM) would avoid biases induced by
+unidentified factors contained in serum, and would also allow key molecular mediators involved in such a process to be
+identified. Our goal was to induce in vitro, the differentiation of human embryonic stem cells (ESC) and induced pluripotent
+stem cells (iPSC) into morphologically and phenotypically mature leukocytes and erythrocytes, in the complete absence of
+serum and feeder cells.
+Methodology/Principal Findings: ESC and iPSC were sequentially induced in liquid cultures for 4 days with bone
+morphogenic protein-4, and for 4 days with FLT3-ligand, stem cell factor, thrombopoietin and vascular endothelium growth
+factor. Cell differentiation status was investigated by both mRNA expression and FACS expression profiles. Cells were further
+sorted and assayed for their hematopoietic properties in colony-forming unit (CFU) assays. In liquid cultures, cells
+progressively down-modulated Oct-4 expression while a sizeable cell fraction expressed CD34 de novo. SCL/Tal1 and Runx1
+transcripts were exclusively detected in CD34+
+cells. In clonal assays, both ESC and iPSC-derived cells generated CFU, albeit
+with a 150-fold lower efficacy than cord blood (CB) CD34+
+cells. ESC-derived CD34+
+cells generated myeloid and fully
+hemoglobinized erythroid cells whereas CD342
+cells almost exclusively generated small erythroid colonies. Both ESC and
+iPSC-derived erythroid cells expressed embryonic and fetal globins but were unable to synthesize adult b-globin in contrast
+with CB cells, suggesting that they had differentiated from primitive rather than from definitive hematopoietic progenitors.
+Conclusions/Significance: Short-term, animal protein-free culture conditions are sufficient to sustain the differentiation of
+human ESC and iPSC into primitive hematopoietic progenitors, which, in turn, produce more mature blood cell types.
+However, additional factors have yet to be identified to allow their differentiation into definitive erythroid cultures.
+Citation: Chicha L, Feki A, Boni A, Irion O, Hovatta O, et al. (2011) Human Pluripotent Stem Cells Differentiated in Fully Defined Medium Generate Hematopoietic
+CD34+
+and CD342
+Progenitors with Distinct Characteristics. PLoS ONE 6(2): e14733. doi:10.1371/journal.pone.0014733
+Editor: David S. Milstone, Brigham and Women’s Hospital, United States of America
+Received June 11, 2010; Accepted January 21, 2011; Published February 25, 2011
+Copyright: ß 2011 Chicha et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by European Molecular Biology Organization (LC, grant #ALTF-363-2006), the Roche Research Foundation (LC, MJ), the Dinu
+Lipatti-Dr. Henri Dubois-Ferrie`re Leukemia Foundation (LC) and the Swiss National Science Foundation (MJ, grant #310031-110002). Reagents such as Flt3-ligand
+and SCF have been kindly donated by Amgen, while VEGF and bFGF have been kindly provided by NCI Biological Resources branch. The funders had no role in
+study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: marisa.jaconi@unige.ch
+Introduction
+Embryonic stem cells (ESC) are derived from the inner cell mass
+of the pre-implantation blastocyst [1]. These cells are pluripotent,
+self-renewing, and can differentiate into all three embryonic germ
+layers – ectoderm, endoderm and mesoderm. Several studies have
+already identified defined culture conditions for directing ESC
+differentiation toward the mesodermal hematopoietic lineage
+[2,3,4,5,6], and more specifically, terminally differentiated erythro-
+cytes and leukocytes have been generated through these strategies
+[2,3,7,8,9]. These studies however, used mouse embryonic
+fibroblasts as feeder support and poorly defined xenogenic
+compounds including serum prior to lineage-specific differentiation.
+As serum is replete with various growth factors and growth factor
+precursors, such an approach may lead to inter-species contamina-
+tion, a fact that would preclude the use of the generated cells for
+clinical application. Moreover, the use of ESC raises both
+immunological [10,11] and, more controversially, ethical concerns
+that may also preclude their use as therapeutic tools. The process of
+somatic cell reprogramming, which allows the generation of
+pluripotent stem cells exhibiting similar properties to ESC, may
+help bypass these concerns [12,13,14]. Recently, two studies showed
+that human iPSC could be differentiated toward hematopoiesis
+[15,16], however, as for earlier studies with ESC, experiments were
+performed in bovine serum-supplemented cocultures, in the
+presence of murine stroma. Thus, it remains to be established
+whether xenogenic compounds are dispensable for the differenti-
+ation of human ESC and iPSC toward the hematopoietic lineage.
+Here we show that human ESC and iPSC maintained over
+mitotically-inactivated human foreskin fibroblasts (HFF) [14] can
+differentiate toward the hematopoietic lineage in fully defined
+medium devoid of animal proteins when sequentially exposed to
+PLoS ONE | www.plosone.org 1 February 2011 | Volume 6 | Issue 2 | e14733
+recombinant bone morphogenic protein-4 (BMP-4), a factor
+known to enhance mesodermal differentiation of human ESC in
+vitro [17,18,19], and to a cocktail of early acting hematopoietic
+factors comprising FMS-like tyrosin kinase-3 ligand (FLT3-L),
+stem cell factor (SCF), thrombopoietin (TPO) and vascular
+endothelial growth factor (VEGF). Within 8 days, cells down-
+modulated Oct-4 expression and upregulated hematopoie-
+tic transcription factors such as SCL/Tal1 and Runx1. Cell
+suspensions contained hematopoietic progenitors generating
+erythroid and granulocyte-macrophage colonies in methylcellu-
+lose. It appeared; however, that ESC- and iPSC-derived hemato-
+poietic cells remained at an early stage of differentiation, corres-
+ponding to transient, primitive hematopoiesis, as they only
+expressed embryonic and fetal globins, but not adult b-globins,
+which was in contrast with CB cells.
+Results
+Differentiation of embryonic stem cells (ESC) toward the
+hematopoietic lineage
+During the initial 4-day induction phase with BMP-4 and bFGF
+in hypoxic conditions, ESC differentiated toward early mesoder-
+mal progenitors, as seen by the rapid decrease of Oct-4 expression
+and the transient induction of Brachyury at day 4 (Fig. 1A). After
+a subsequent induction of 4 days with VEGF, bFGF, SCF, FLT3-
+L and TPO in the absence of BMP-4, Oct-4 expression vanished,
+Brachyury sharply decreased and CD34+
+cells, undetectable in
+undifferentiated ESC suspensions, reached 1666% (mean6SD,
+n = 9, Fig. 1B left panel). Differentiated ESC were sorted by
+MACS according to CD34 expression. Mean purity was 73617%
+(mean6SD, n = 8, Fig. 1B right panel) for the CD34-enriched
+fraction (defined as ES34+
+) and no contaminating CD34+
+cells
+were detected in the ES342
+fractions upon reanalysis (not shown).
+FACS analysis of ES34+
+demonstrated that they were CD45-,
+MHC-II- and CD38-negative, expressed low levels of MHC-I,
+CD43 and c-kit (CD117), and were positive for KDR, CXCR4
+and CD31. This phenotype, though distinct from ex vivo CB-
+purified CD34+
+cells (CB34+
+, Fig. 1C) may be consistent with
+very immature hematopoietic stem cells (HSC), likely sharing
+properties with the hemangioblast [4,17,18]. mRNA analysis
+performed on ES34+
+and ES342
+fractions showed that SCL/Tal1,
+which exerts its effect immediately downstream of Brachyury to
+differentiate hemangioblasts into haemogenic endothelium [20],
+and Runx1, which is mainly expressed in cells differentiating
+further from this later step to the hematopoietic lineage [20], were
+exclusively expressed in ES34+
+(Fig. 1D). Altogether, these
+observations suggest that our protocol generates a significant
+number of cells with a phenotype reminiscent of hematopoietic
+progenitors, yet in an immature stage of differentiation.
+ES34+
+hematopoietic progeny generated in vitro is larger
+and contains more myeloid cells than that of ES342
+ES34+
+and ES342
+were tested for their ability to proliferate
+clonally in methylcellulose-based medium complemented with
+hematopoietic growth factors. After 14 days of culture, both cell
+suspensions generated colonies. Myeloid (CFU-GM) and erythroid
+colonies (BFU-E) derived from ES34+
+were morphologically
+similar to hematopoietic colonies derived from CB34+
+cells. By
+contrast ES342
+produced almost exclusively small-sized erythroid
+colonies with a limited burst promoting activity which looked more
+like CFU-E rather than BFU-E. Myeloid colonies derived from
+ES342
+were scarce and could not be documented by photographic
+means (Fig. 2A). The frequency of hematopoietic colonies
+obtained from ESC-generated hematopoietic progenitors was
+approximately 160-fold lower than those obtained from CB34+
+cells (Fig. 2B, left panel). Erythroid and CFU-GM colony
+frequencies were 9.761024
+and 6.161024
+for ES34+
+(n = 12)
+and 1.661023
+and 2.561024
+for ES342
+(n = 5) respectively
+(Fig. 2B, right panel). Such a low cloning efficiency led to a large
+dispersion of the values that did not allow establishing a significant
+difference between ES34+
+and ES342
+. The erythroid/myeloid
+colony ratio was 34% for CB34+
+, 61% for ES34+
+and 86% for
+ES342
+cells. Colonies derived from CB34+
+contained in average
+2.16104
+cells/colony, whereas colonies obtained from ES34+
+or
+ES342
+cells contained 36103
+and 1.76103
+cells/colony, respec-
+tively. Thus, ESC differentiated in our assay generated both
+myeloid and erythroid colonies, albeit at a lower efficiency as
+compared with CB.
+Cell suspensions derived from the clonal cultures of ES34+
+were
+then analyzed by FACS (ES342
+numbers were not sufficient to
+allow for FACS analysis) and compared to the progeny of CB34+
+cells. Cultures derived from ES34+
+cells contained both myeloid
+and erythroid progenitors (Fig. 2C), and, as for CB-derived
+cultures, CD34+
+cells were no more detectable (data not shown),
+consistent with the differentiation of the progenitors observed in
+CFU assays. Cells were also tested for globin gene expression.
+While CB-derived CFU expressed embryonic (e), fetal (c) and
+adult (b) globin mRNAs, ES34+
+exclusively expressed e and c
+globins after in vitro differentiation (Fig. 2D). Altogether these
+observations - i.e. low frequency of hematopoietic colonies, limited
+proliferation, bias toward erythropoiesis and absence of adult
+globin synthesis - suggest that ESC differentiated in vitro exhibit a
+block in further differentiation that prevents them to reach the
+same stage than CB-HSC.
+Reprogrammed human somatic cells (iPSC) also generate
+hematopoietic progenitors in animal protein-free
+differentiation cultures
+iPSC have recently been reported to recapitulate major ESC
+features, including the ability to differentiate in various cell
+lineages in vitro and to generate teratomas [12,13,14]. We therefore
+investigated whether iPSC generated in our laboratory upon
+reprogramming of HFF (see Figure S1 for in vitro (A-E) and in vivo
+(F-H) characterization, and Movie S1 for the presence of beating
+cardiomyocytes) behave like bona fide ESC, in particular when
+exposed to our protocol of hematopoietic induction. Indeed, as for
+ESC, iPSC rapidly down-modulated Oct-4 expression and
+transiently expressed Brachyury at day 4. This expression
+subsequently decreased when BMP-4 was substituted by early
+acting hematopoietic growth factors (Fig. 3A). This substitution
+was also associated with the emergence at day 8 of a CD34+
+-
+KDR+
+population that was clearly distinguishable from its
+CD342
+-KDR2
+counterpart (Fig. 3B). Sorted iPS34+
+cells
+displayed a similar phenotype as their ESC counterpart, including
+expression of CD31, CD43 and CXCR4 (Fig 1C, and data not
+shown). After sorting and culture in clonogenic conditions, both
+iPS34+
+and iPS342
+produced hematopoietic colonies (Fig. 3C)
+with increased frequency of GM colonies in the iPS34+ fractions
+(Table 1). However, the large variability observed in these CFU
+experiments, including the absence of iPS342
+proliferation in
+many methylcellulose assays, did not allow establishing a signi-
+ficant difference of cloning efficiency between these 2 groups
+(Table 1). Nevertheless, the overall cloning frequencies (erythroid
+plus CFU-GM) were comparable to those of ESC and approx-
+imately 150-fold lower than CB34+
+cell frequencies. Interestingly,
+iPS34+
+, as with ES34+
+, expressed e and c, but not b globins (not
+shown), consistent with a complete reprogramming of the initial
+fibroblasts to an embryonic stage. They also produced in some
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 2 February 2011 | Volume 6 | Issue 2 | e14733
+Figure 1. Modification of ESC gene and surface marker expression during in vitro differentiation in fully defined medium. (A) Oct-4
+and Brachyury mRNA levels were assessed by quantitative RT-PCR at the onset of the differentiation (d0) and 4 (d4) and 8 (d8) days later. Data were
+normalized with Gus-B housekeeping gene expression (Representative data of 4 independent experiments). (B) CD34 expression was assessed by
+flow cytometry upon 8 days of differentiation before (black line, left panel) and after (black line, right panel) MACS selection. Grey profiles represent
+CD34 expression before hematopoietic differentiation. (C) Analysis of relevant markers was performed on MACS-enriched ES34+
+after 8 days of
+differentiation and compared to CB34+
+sorted cells. (D) SCL/Tal1 and Runx1 mRNA levels on indicated populations were assessed by quantitative RT-
+PCR and RT-PCR, respectively. Data are representative of 4 independent experiments.
+doi:10.1371/journal.pone.0014733.g001
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 3 February 2011 | Volume 6 | Issue 2 | e14733
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 4 February 2011 | Volume 6 | Issue 2 | e14733
+instances, GM-colonies of very large size that had not been
+observed in ES34+
+cultures. Altogether, these data suggest that our
+protocol devoid of xenogenic compounds to generate hematopoi-
+etic cells could be successfully applied to reprogrammed somatic
+cells.
+Discussion
+Our work describes the generation of hematopoietic progenitors
+from human ESC and iPSC induced by the sequential exposure to
+BMP-4 and bFGF [17,19], and to a mixture of early-acting
+hematopoietic factors in the absence of any xenogenic compound
+and feeder cells. Several other protocols have reported the
+generation of hematopoietic progenitors from human ESC in
+fully defined serum- and feeder-free conditions [17,19], and
+similarly to our differentiation procedure, these protocols initially
+rely on the ventralizing effect of BMP-4 to induce early
+hematopoietic commitment. Kennedy et al. further demonstrated
+that hematopoietic potential was strictly dependent on such
+signaling [17], however, the mixture of cytokines used subse-
+quently, differed between these procedures. Pick et al. used BMP-4
+simultaneously with VEGF, SCF and FGF2 for a minimum of 10
+days, and reported 13.9% of CD34-expressing cells, with a mean
+CFC frequency of approximately 2.261023
+. Kennedy et al report
+CFC potential in their KDR+
+/CD31+
+/CD34+
+fraction at day 8
+(about 361023
+), however, they did not observe any CFC potential
+in their negative fraction. By supplementing our cultures with
+Flt3L, TPO and SCF from day 4 to day 8, we succeeded in
+increasing the potential of CD34 expressing cells (up to 20%) while
+achieving comparable CFC frequencies (about 2.561023
+). More-
+over, we observe a significant erythroid potential also from the
+CD342
+fraction, which resemble the sequential hematopoietic
+potential observed in protocols supplemented with serum and/or
+feeders [6]. We believe that this choice of early acting cytokines
+results in an overall differentiation that is more consistent to what
+observed in vivo.
+For instance, culture supplementation with Flt3-L, which has
+not been documented before in such an animal protein-free
+context, may further enhance ESC and iPSC differentiation
+toward hematopoiesis in vitro. Indeed, Flt3-L is pivotal for the
+maintenance of CB34+
+stem cells in long-term cultures [21,22] and
+its serum level correlates with the hematopoietic requirement of
+the individuals. In particular, patients suffering from severe
+chronic hematopoietic dysfunctions such as Fanconi’s anemia
+[23,24] exhibit elevated serum levels of Flt3-L in response to the
+disease.
+After 8 days of differentiation, our protocol produced ESC
+progeny comprising of CD34+
+and CD342
+cells, both able to
+generate hematopoietic colonies in methylcellulose-based semi-
+solid cultures. ES34+
+were CD452
+CD382
+, KDR+
+and CD31+
+,
+consistent with an immature hemangioblastic phenotype, though
+more recent studies claim that hemangioblasts, in addition to
+KDR, also express Brachyury [25] which is not the case here.
+Thus, our cells may have differentiated beyond the hemangioblast
+stage prior to clonal methylcellulose assays. This is consistent with
+their slight expression of CD43, which has been previously
+reported as an early marker to define hematopoietic progenitors in
+human ESC cultures [4]. In contrast with earlier studies [17], our
+ES34+
+cells did not express CD117 (c-kit). A significant fraction of
+ES34+
+cells expresses CXCR4, the receptor for stroma-derived
+factor (SDF)-1/CXCL-12, which is associated with the homing
+and maintenance of HSC in the bone marrow. This observation
+was not reported with either ESC (H1 cell line) or iPSC
+differentiated in presence of OP9 stroma [3,4], and suggests that
+our protocol may achieve the generation of hematopoietic cells
+with enhanced in vivo bone marrow homing properties [26]. While
+this issue remains to be investigated in vivo using appropriate
+reconstitution models [27], we presently consider it unlikely that
+our cells, given their primitive-stage phenotype, would achieve a
+robust in vivo reconstitution. Although not in the primary intention
+of the present study, this point deserves future investigations.
+Interestingly, the hematopoietic transcription factors SCL/Tal1
+and Runx1 were both exclusively detectable in the CD34+
+fraction. This observation is puzzling as SCL expression is
+associated with the short-lived, primitive hematopoiesis, whereas
+Runx1 is required for definitive hematopoiesis [20]. Thus, the
+expression of both markers in the same cell fraction appears rather
+contradictory. One can speculate that the in vitro environment may
+artificially block CD34+
+cells at an intermediate stage between
+primitive and definitive hematopoiesis (that is not observed in
+unmanipulated cells) which may allow the expression of both
+transcripts in the same cells. Alternatively, we cannot exclude that
+cultures may contain a mixture of cells exclusively expressing
+either factor.
+ES342
+cells were SCL2
+, Runx12
+and differentiated mostly in
+erythroids, suggesting that they were locked at a rather primitive
+stage of hematopoiesis. Indeed, the morphology of our erythroid
+colonies generated from ES342
+cells, as well as their inability to
+generate b-globin, are identical to those described by Kennedy
+et al. [17], further suggesting that ES342
+cells likely represent
+progenitors of primitive and not definitive hematopoiesis. The few
+macrophagic colonies observed in the ES342
+fraction may
+originate from either CD34+
+contaminant cells that were too few
+to be detected by FACS, or from progenitors of primitive
+hematopoiesis that were endowed with the ability to produce
+GM colonies at a low frequency [17].
+Despite the identification of a sizeable frequency of hemato-
+poietic progenitors after clonogenic assays in methylcellulose, the
+overall efficacy of our protocol remains low, and for the time
+being, incompatible with eventual clinical application. Further
+improvements of the method are required to force ESC and iPSC
+toward definitive hematopoiesis. Foetal HSC may not be fully
+responsive to the hematopoietic growth factors present in the CFU
+assay, and such a lack of response may contribute to the apparent
+paucity of HSC generated in vitro. Indeed, we cannot discern
+whether the observed low frequency of progenitors (i.e. 100 fold
+less than in CB) is due to the real absence of these cells or is related
+to their inability, probably due to a lack of sufficient differenti-
+ation, to respond efficiently to the classical assay performed in this
+study. Moreover, in light of recently published data [28], the
+Figure 2. Cells differentiated from ESC are functional hematopoietic progenitors. (A) Colony morphology upon 14 days of methylcellulose
+culture. Erythroid CFU (upper panels) and myeloid CFU (lower panels) are shown (initial magnification 6100). (B) CFU frequencies of CB34+
+, ES34+
+and
+ES342
+. Overall frequencies (left panel) of CB and ESC-derived cells, and a close-up of ES34+
+and ES342
+frequencies (right panel) displayed with an
+enlarged scale to help reading are depicted. Grey columns represent erythroids and white columns, myeloids. Bars are SD’s. n = 8, 12 and 5 for CB,
+ES34+
+and ES342
+respectively. (C) FACS analysis of cells recovered after the CFU assay derived from CB34+
+(upper panels) and ES34+
+(lower panels).
+Myeloid (CD45, CD11b, CD14) and erythroid (GPA) cell surface markers are depicted. Quadrants were established using appropriate isotype controls
+and percentages are indicated. (D) Qualitative analysis of embryonic (e), fetal (c) and adult (b) globin mRNAs expression by RT-PCR of cell suspensions
+recovered after the CFU assays, derived from the indicated populations.
+doi:10.1371/journal.pone.0014733.g002
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 5 February 2011 | Volume 6 | Issue 2 | e14733
+particularly low hematopoietic efficiency of iPSC may also be due
+to an increased sensitivity to apoptosis as compared to ESC in vitro.
+Further investigations and new approaches are required to
+establish the full potential of ESC and iPSC once induced toward
+the hematopoietic lineage in vitro. Nevertheless, this work
+contributes to the demonstration that it is possible to generate
+in vitro hematopoietic progenitors from ESC and iPSC in an
+environment devoid of xenogenic compounds, which represent
+one of the requirements to be fulfilled before manipulated cells can
+be envisaged for use in clinical applications.
+Materials and Methods
+Human ESC and iPSC cultures
+Human embryonic stem cell lines (H1 line [1]; HS181 [29] and
+HS401 [30]) and human induced pluripotent stem cells (iPSC-w
+line, referred in the text as iPSC, derived from lentivirally
+transduced human foreskin fibroblasts (HFF) with OCT-4/
+SOX2/NANOG/LIN28 reprogramming genes as initially dem-
+onstrated in [13]) were maintained and expanded over irradiated
+HFF [14]. Knock-out serum (KSR, Invitrogen)-supplemented
+media was used for propagation, supplemented with 4 ng/ml of
+basic fibroblast growth factor (bFGF, R&D Systems) for ESC
+cultures, and 100 ng/ml bFGF for iPSC cultures. Cells were fed
+on a daily basis and weekly passaged using collagenase IV (1 mg/
+ml, Roche) or manual dissection when required.
+Hematopoietic differentiation
+Confluent human ESC and iPSC colonies were disrupted to
+small aggregates using collagenase IV (1 mg/ml, 15 minutes at
+37 uC). Cell aggregates were resuspended in StemPro fully defined
+medium (StemPro-34 Serum-Free Media, Gibco proprietary
+formulation, guaranteed as animal protein-free by the manufac-
+turer) supplemented with 0.5 ng/ml human recombinant BMP-4
+(R&D Systems) at a ratio of 2 confluent ESC/iPSC wells for 1 well
+of differentiation. During all the differentiation process, cell
+attachment was prevented using low cluster tissue culture dishes
+(Corning Costar). On day 1 of differentiation, embryoid bodies
+(EB) were harvested and transferred to fresh StemPro media
+supplemented with 10 ng/ml BMP-4 and 5 ng/ml bFGF. After 72
+hours, EB were harvested again and transferred to « hematopoietic
+medium » consisting of StemPro media supplemented with
+100 ng/ml human recombinant VEGF (R&D Systems), 5 ng/ml
+bFGF, 100 ng/ml SCF (kind gift from Amgen), 100 ng/ml FLT3-L
+Figure 3. Hematopoietic differentiation of human iPSC. (A) Oct-
+4 and Brachyury mRNA expression were assessed by quantitative PCR at
+the onset of the differentiation (d0), and 4 (d4) and 8 (d8) days later. The
+expression of the Gus-B housekeeping gene was used for normalization
+(representative data of 3 experiments). (B) CD34 and KDR expression
+was assessed by flow cytometry. ESC are shown in the upper panels and
+iPSC in the lower panels. Expression prior to differentiation (d0, left
+panel) and after 8 days (d8, right panel) is depicted. (C) CFU
+morphology was assessed upon 14 days of methylcellulose culture of
+iPSC-derived cells. Erythroid CFUs (upper panels) and myeloid CFUs
+(lower panels) were observed in these cultures and CB-derived cells are
+shown (initial magnification 6100).
+doi:10.1371/journal.pone.0014733.g003
+Table 1. Indicative frequencies of hematopoietic colonies
+recovered after clonogenic cultures of sorted iPSC.
+CB34+
+iPSC 34+
+iPSC 342
+Erythroids 4.762.1 0.04160.052 0.02960.013
+CFU-GM 9.164.3 0.05860.055 0.00860.007
+Total 1466.4 0.09960.110 0.03760.020
+Ratio of
+responding
+cultures
+4/4 6/6 2/4
+iPSC have been differentiated in six independent experiments, sorted into
+CD34+
+and CD342
+fractions and tested in CFU assays. Frequencies are
+expressed as percentages of colonies recovered, compared to the initial cell
+seeding. Standard deviations are shown. The fraction of responding cultures are
+depicted on the last line. CFU: colony forming units, GM: granulocytes-
+macrophages. CB: cord blood-derived.
+doi:10.1371/journal.pone.0014733.t001
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 6 February 2011 | Volume 6 | Issue 2 | e14733
+(kind gift from Amgen) and 40 ng/ml TPO (Peprotech, UK) for 4
+additional days. All differentiation steps were performed in hypoxic
+conditions (5% O2) in a humidified incubator at 37 uC.
+Analysis of hematopoiesis and clonogenic assays
+After 8 days of differentiation, EB were harvested and spun at
+65 g for 4 min. Supernatants containing non-adherent cells were
+stored on ice and EB were disrupted using Trypsin-EDTA
+followed by manual disruption in FBS-containing blocking
+medium using a 21G needle. After centrifugation, cells were
+resuspended in freshly prepared collagenase IV solution (0.2 mg/
+ml) for 30 min at 37 uC. Cells were disrupted again using a 21G
+needle and filtered over a 70 mm cell strainer (Falcon).
+Supernatants from the initial centrifugation were pooled with
+these suspensions and magnetic bead associated cell sorting
+(MACS) for the CD34 epitope was performed following
+manufacturer’s instructions (Miltenyi Biotech). Human clonogenic
+progenitor assays were performed by plating undifferentiated
+ESC, ESC-derived CD34+
+and CD342
+cells as well as CB34+
+cells
+in a methylcellulose-containing medium (Methocult GF H84434,
+Stem Cell Technologies France). All clonogenic progenitor assays
+were performed in duplicates. Counts were performed after
+incubation at 37 uC, 5% CO2 for 14 days in a humidified
+atmosphere. In some instances, cells from CFU assays were
+washed out from the methylcellulose by gentle pipetting in Hank’s
+balanced solution. Single cell suspensions were utilized for flow
+cytometry analysis or RNA extraction.
+Flow cytometry
+Cell suspensions were analyzed after staining with antibodies
+specific for CD34, CD45, CXCR4, KDR (VEGF-receptor),
+CD117, CD38, CD31, CD43, MHC class I, MHC class II,
+Glycophorin-A (GPA) (BD Biosciences, Miltenyi and R&D
+Systems). Dead cells were identified as 7-amino actinomycin D
+(7AAD)-high cells and excluded. Cells were stained in PBS
+containing 20% of human AB serum (Sigma) to prevent unspecific
+binding. Data were collected on a FACS Calibur device (BD
+Biosciences) and analyzed with the Flowjo software (Treestar).
+Reverse transcription, PCR and quantitative PCR analysis
+Total RNA was extracted using the RNA easy Microkit (Qiagen)
+following manufacturer’s instructions, including a DNAse I treatment
+to remove residual genomic DNA. cDNA was synthesized with
+random hexamers and Superscript II reverse transcriptase (Invitro-
+gen). Real-time PCR was performed using a sequence detector
+(model ABI PRISM 7900HT; Perkin-Elmer). Primers for quantita-
+tive RT-PCR were: SCL/Tal1 forward GGAGACCTTCCCCC-
+TATGAG, reverse GATGTGTGGGGATCAGCTTG (147 bp);
+Brachyury forward ACAGCTGTGACAGGTACCCAAC, reverse
+CATGCAGGTGAGTTGTCAGAAT (109 bp); Oct-4 forward
+AGTGCCCGAAACCCACACTG, reverse ACCACACTCGGA-
+CCACATCCT (81 bp); GusB forward CCACCAGGGACCATC-
+CAAT, reverse AGTCAAAATATGTGTTCTGGACAAAGTAA
+(79 bp); GATA4: forward CTGGCCTGTCATCTCACTACG,
+reverse GGTCCGTGCAGGAATTTGAGG; Nxk2.5 forward CT-
+ATCCACGTGCCTACAGCGAC, reverse GCACAGCTCTTT-
+CTTTTCGGC; and MEF2C forward TTCAACGCTGGAC-
+GAAGTAA, reverse CAGTTCCCAAATTCCTGCAT. For RT-
+PCR, globin and Runx1 primers were as described by Kennedy et al.
+[17] and Vodyanik et al. [3] respectively, while pluripotency markers
+were as follows: Oct-4 forward GACAACAATGAAAATCTTCAG-
+GAGA, reverse TTCTGGCGCCGGTTACAGAACCA; Nanog
+forward AAGACAAGGTCCCGGTCAAG, reverse CCTAGTG-
+GTCTGCTGTATTAC; Sox2 forward GCGAACCATCTCTG-
+TGGTCT, reverse GGAAAGTTGGGATCGAACAA, Rex1 for-
+ward CCTAGTGGTCTGCTGTATTAC, reverse CCTAGTGG-
+TCTGCTGTATTAC; GAPDH forward AGCCACATCGCTCA-
+GACACC, reverse GTACTCAGCGGCCAGCATCG.
+Supporting Information
+Figure S1. In vitro and in vivo characterization of the iPSC (w
+line). (A) Phase contrast picture of undifferentiated iPSC colonies
+on irradiated HFF; (B) expression of pluripotency markers by RT-
+PCR, H1 ESC are used as positive controls; (C) immunofluores-
+cence staining of the pluripotency markers Oct-4, Nanog, Tra-1-
+81, SSEA4 and Tra1-60 (C). Feeder cells appear in green because
+stably expressing GFP as previously described [14]. (D) Example
+of in vitro cardiac differentiation through EB formation and (E)
+expression levels by Q-PCR to three cardiac transcription factors
+at indicated time points. Black bars represent iPSC-W and grey
+bars, H1-ESC positive controls. (G-I) Cytochemical analysis (H&E
+staining) of in vivo teratoma formation shows tissues of the three
+germ layers.
+Found at: doi:10.1371/journal.pone.0014733.s001 (4.20 MB TIF)
+Movie S1. Beating cardiomyocyte cluster from differentiating
+iPSC-derived embryoid bodies.
+Found at: doi:10.1371/journal.pone.0014733.s002 (1.31 MB AVI)
+Acknowledgments
+The authors thank Dr. Vincent Kindler for assistance in data analysis and
+interpretation, Nicolette Brouwers for assistance with CFU reading,
+Sandrine Vianin and Ingrid Wagner for assistance with iPSC cultures,
+Dr. Yves Chalandon for useful discussions, and Dr. Alexis Bosman for
+proof reading the manuscript.
+Author Contributions
+Conceived and designed the experiments: LC MEEJ. Performed the
+experiments: LC AF AB. Analyzed the data: LC AB MEEJ. Contributed
+reagents/materials/analysis tools: AF OI OH MEEJ. Wrote the paper: LC
+MEEJ. inal approval of manuscript: LC AF AB OI OH MJ.
+Discussions: OH.
+References
+1. Thomson JA, Itskovitz-Eldor J, Shapiro SS, Waknitz MA, Swiergiel JJ, et al.
+(1998) Embryonic stem cell lines derived from human blastocysts. Science 282:
+1145–1147.
+2. Chadwick K, Wang L, Li L, Menendez P, Murdoch B, et al. (2003) Cytokines
+and BMP-4 promote hematopoietic differentiation of human embryonic stem
+cells. Blood 102: 906–915.
+3. Vodyanik MA, Bork JA, Thomson JA, Slukvin II (2005) Human embryonic stem
+cell-derived CD34+ cells: efficient production in the coculture with OP9 stromal
+cells and analysis of lymphohematopoietic potential. Blood 105: 617–626.
+4. Vodyanik MA, Thomson JA, Slukvin II (2006) Leukosialin (CD43) defines
+hematopoietic progenitors in human embryonic stem cell differentiation
+cultures. Blood 108: 2095–2105.
+5. Wang Y, Yates F, Naveiras O, Ernst P, Daley GQ (2005) Embryonic stem cell-
+derived hematopoietic stem cells. Proc Natl Acad Sci U S A 102: 19081–19086.
+6. Zambidis ET, Peault B, Park TS, Bunz F, Civin CI (2005) Hematopoietic
+differentiation of human embryonic stem cells progresses through sequential
+hematoendothelial, primitive, and definitive stages resembling human yolk sac
+development. Blood 106: 860–870.
+7. Galic Z, Kitchen SG, Kacena A, Subramanian A, Burke B, et al. (2006) T
+lineage differentiation from human embryonic stem cells. Proc Natl Acad
+Sci U S A 103: 11742–11747.
+8. Senju S, Suemori H, Zembutsu H, Uemura Y, Hirata S, et al. (2007) Genetically
+manipulated human embryonic stem cell-derived dendritic cells with immune
+regulatory function. Stem Cells 25: 2720–2729.
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 7 February 2011 | Volume 6 | Issue 2 | e14733
+F
+9. Zhan X, Dravid G, Ye Z, Hammond H, Shamblott M, et al. (2004) Functional
+antigen-presenting leucocytes derived from human embryonic stem cells in vitro.
+Lancet 364: 163–171.
+10. Drukker M (2006) Immunogenicity of embryonic stem cells and their progeny.
+Methods Enzymol 420: 391–409.
+11. Grinnemo KH, Sylven C, Hovatta O, Dellgren G, Corbascio M (2008)
+Immunogenicity of human embryonic stem cells. Cell Tissue Res 331: 67–78.
+12. Takahashi K, Tanabe K, Ohnuki M, Narita M, Ichisaka T, et al. (2007)
+Induction of pluripotent stem cells from adult human fibroblasts by defined
+factors. Cell 131: 861–872.
+13. Yu J, Vodyanik MA, Smuga-Otto K, Antosiewicz-Bourget J, Frane JL, et al.
+(2007) Induced pluripotent stem cell lines derived from human somatic cells.
+Science 318: 1917–1920.
+14. Unger C, Gao S, Cohen M, Jaconi M, Bergstrom R, et al. (2009) Immortalized
+human skin fibroblast feeder cells support growth and maintenance of both
+human embryonic and induced pluripotent stem cells. Hum Reprod.
+15. Choi KD, Yu J, Smuga-Otto K, Salvagiotto G, Rehrauer W, et al. (2009)
+Hematopoietic and endothelial differentiation of human induced pluripotent
+stem cells. Stem Cells 27: 559–567.
+16. Lu M, Kardel MD, O’Connor MD, Eaves CJ (2009) Enhanced generation of
+hematopoietic cells from human hepatocarcinoma cell-stimulated human
+embryonic and induced pluripotent stem cells. Exp Hematol 37: 924–936.
+17. Kennedy M, D’Souza SL, Lynch-Kattman M, Schwantz S, Keller G (2007)
+Development of the hemangioblast defines the onset of hematopoiesis in human
+ES cell differentiation cultures. Blood 109: 2679–2687.
+18. Lu SJ, Feng Q, Caballero S, Chen Y, Moore MA, et al. (2007) Generation of
+functional hemangioblasts from human embryonic stem cells. Nat Methods 4:
+501–509.
+19. Pick M, Azzola L, Mossman A, Stanley EG, Elefanty AG (2007) Differentiation
+of human embryonic stem cells in serum-free medium reveals distinct roles for
+bone morphogenetic protein 4, vascular endothelial growth factor, stem cell
+factor, and fibroblast growth factor 2 in hematopoiesis. Stem Cells 25:
+2206–2214.
+20. Lancrin C, Sroczynska P, Stephenson C, Allen T, Kouskoff V, et al. (2009) The
+haemangioblast generates haematopoietic cells through a haemogenic endothe-
+lium stage. Nature 457: 892–895.
+21. Piacibello W, Sanavio F, Garetto L, Severino A, Dane A, et al. (1998) The role
+of c-Mpl ligands in the expansion of cord blood hematopoietic progenitors. Stem
+Cells 16 Suppl 2: 243–248.
+22. Piacibello W, Sanavio F, Garetto L, Severino A, Dane A, et al. (1998)
+Differential growth factor requirement of primitive cord blood hematopoietic
+stem cell for self-renewal and amplification vs proliferation and differentiation.
+Leukemia 12: 718–727.
+23. Lyman SD, Seaberg M, Hanna R, Zappone J, Brasel K, et al. (1995) Plasma/
+serum levels of flt3 ligand are low in normal individuals and highly elevated in
+patients with Fanconi anemia and acquired aplastic anemia. Blood 86:
+4091–4096.
+24. Wodnar-Filipowicz A, Lyman SD, Gratwohl A, Tichelli A, Speck B, et al. (1996)
+Flt3 ligand level reflects hematopoietic progenitor cell function in aplastic
+anemia and chemotherapy-induced bone marrow aplasia. Blood 88: 4493–4499.
+25. Huber TL, Kouskoff V, Fehling HJ, Palis J, Keller G (2004) Haemangioblast
+commitment is initiated in the primitive streak of the mouse embryo. Nature
+432: 625–630.
+26. Peled A, Petit I, Kollet O, Magid M, Ponomaryov T, et al. (1999) Dependence
+of human stem cell engraftment and repopulation of NOD/SCID mice on
+CXCR4. Science 283: 845–848.
+27. McKinney-Freeman SL, Daley GQ (2007) Towards hematopoietic reconstitu-
+tion from embryonic stem cells: a sanguine future. Curr Opin Hematol 14:
+343–347.
+28. Feng Q, Lu SJ, Klimanskaya I, Gomes I, Kim D, et al. (2010) Hemangioblastic
+derivatives from human induced pluripotent stem cells exhibit limited expansion
+and early senescence. Stem Cells 28: 704–712.
+29. Imreh MP, Wolbank S, Unger C, Gertow K, Aints A, et al. (2004) Culture and
+expansion of the human embryonic stem cell line HS181, evaluated in a double-
+color system. Stem Cells Dev 13: 337–343.
+30. Inzunza J, Gertow K, Stromberg MA, Matilainen E, Blennow E, et al. (2005)
+Derivation of human embryonic stem cell lines in serum replacement medium
+using postnatal human fibroblasts as feeder cells. Stem Cells 23: 544–549.
+ESC and iPSC Hematopoiesis
+PLoS ONE | www.plosone.org 8 February 2011 | Volume 6 | Issue 2 | e14733
+

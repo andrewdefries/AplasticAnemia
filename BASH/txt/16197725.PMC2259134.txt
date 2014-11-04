@@ -1,0 +1,1039 @@
+INTRODUCTION
+Bacillus anthracis is the etiological
+agent of anthrax, the acute and often fatal
+infectious disease of herbivores and
+humans and is a threatening agent used in
+bioterrorism. It is a member of the B.
+cereus group, which includes other spore-
+forming soil bacteria commonly isolated in
+nature, B. cereus, B. thuringiensis, B.
+mycoides, B. weihenstephanensis [1] and
+B. pseudomycoides [2]. B. cereus causes
+food-borne gastroenteritis and opportunis-
+tic infections in immunocompromised
+patients [3-6], and other members have
+been reported to be potentially enteropath-
+YALE JOURNAL OF BIOLOGY AND MEDICINE 78 (2005), pp. 1-14.
+Copyright © 2005. All rights reserved.
+1
+*
+To whom all correspondence should be addressed: Kijeong Kim, Chung-Ang University
+College of Medicine, Department of Microbiology, 221, Heuksuk-dong, Dongjak-gu, Seoul
+156-756, South Korea. Tel.: 82-(2)-820-5694; Fax: 82-(2)-812-5495; E-mail:
+kimkj@cau.ac.kr.
+†
+Abbreviations: glpF, glycerol uptake facilitator protein; gmk, guanylate kinase; ilvD, dihy-
+droxy-acid dehydratase; MLST, multilocus sequence typing; pta, phosphate acetyltrans-
+ferase; pur, phosphoribosylaminoimidazolecarboxamide; pycA, pyruvate carboxylase;
+rpoβ, the β subunit of RNA polymerase; ST, sequence type; tpi, triosephosphate iso-
+merase; UPGMA, unweighted pair group method with arithmetic means.
+ORIGINAL CONTRIBUTION
+Determination of the Most Closely Related
+Bacillus Isolates to Bacillus anthracis by
+Multilocus Sequence Typing
+Kijeong Kim,a,b*
+Eunhee Cheon,a
+Katherine E. Wheeler,b
+Youngchul
+Youn,c
+Terrance J. Leighton,b
+Chulmin Park,b
+Wonyong Kim,a
+and Sang-In Chunga
+a
+Department of Microbiology, College of Medicine, Chung-Ang University, Seoul, Korea;
+b
+Children’s Hospital, Oakland Research Institute, Oakland, California; and c
+Institute of
+Medical Science, Chung-Ang University, Seoul, Korea
+There have been many efforts to develop Bacillus anthracis detection assays, but the prob-
+lem of false-positive results has often been encountered. Therefore, to validate an assay
+for B. anthracis detection, it is critical to examine its specificity with the most closely relat-
+ed Bacillus isolates that are available. To define the most closely related Bacillus isolates
+to B. anthracis in our Bacillus collections, we analyzed by multilocus sequence typing
+(MLST) the phylogeny of 77 closely related Bacillus isolates selected from 264 Bacillus iso-
+lates. The selection includes all the Bacillus isolates that have been shown in our previous
+studies to produce false-positive results by some anthrax-detection assays. The MLST
+phylogenetic analyses revealed that 27 of the non-B. anthracis isolates clustered within the
+B. anthracis clade, and four of them (three sequence types, STs) had the highest degree
+of genetic relatedness with B. anthracis, 18 (11 STs) had the second highest, and five (five
+STs) had the third highest. We anticipate that the inclusion of the 19 ST isolates when ana-
+lyzing B. anthracis detection assays will prove to be useful for screening for their specifici-
+ty to detect B. anthracis.
+ogenic [7-11]. Amongst this group, B.
+cereus and B. thuringiensis are genetically
+and phenotypically closely related to B.
+anthracis, and the unambiguous identifica-
+tion of these organisms has been difficult
+[12]. However, the unambiguous and rapid
+diagnostic detection of B. anthracis is
+important for early treatment and control of
+anthrax due to its highly pathogenic nature
+to animals and humans. Many methods
+have been developed to detect B.
+anthracis, but these methods have revealed
+some undesirable problems. The early
+reported PCR-based methods [13-17],
+which target only virulence genes located
+on the plasmids of B. anthracis, can readi-
+ly differentiate vaccine or fully virulent B.
+anthracis plasmid genotypes. But when
+using these methods, plasmid-cured B.
+anthracis [18-21], species containing the
+transferred plasmids or virulence genes
+[22-31], or near-neighbor species contain-
+ing closely-related B. anthracis plasmids
+[32] are very difficult to distinguish from
+B. anthracis. Therefore, PCR-based meth-
+ods targeting the B. anthracis chromosome
+for B. anthracis detection have been devel-
+oped but suffer from lack of assay speci-
+ficity; Ba813 [16, 33, 34], vrrA gene [35-
+37], gyrase B gene (gyrB) [38], SG-850
+[39], the β subunit of RNA polymerase
+gene (rpoβ) [40] and the gyrase A (gyrA)
+gene [41].
+When these assays were originally
+developed, the most closely related
+Bacillus species were not examined, and
+afterwards the assays were revealed not to
+be specific by further examination of other
+closely related Bacillus species. In our
+previous studies on developing highly spe-
+cific PCR detection methods for B.
+anthracis (manuscript in preparation and
+[12]), we used 272 isolates of bacteria to
+verify the specificity of our detection
+assay. We compared the specificity of our
+detection assay to the specificity of previ-
+ously reported B. anthracis detection
+assays, and the results revealed that as
+many as 42 isolates showed false-positive
+results when using one of the previous
+detection assays. This result motivated us
+to study and define the most closely relat-
+ed Bacillus isolates to B. anthracis. Once
+we identify Bacillus isolates that are the
+most closely related to B. anthracis and
+include these isolates first when examin-
+ing B. anthracis detection assays, we can
+readily screen the specificity of these
+assays and search for the highly specific
+ones.
+For this purpose, we have determined
+the most closely related Bacillus isolates
+among 77 isolates selected from 264
+Bacillus isolates, many of which have
+shown false-positive results by the previ-
+ously reported assays, by analyzing their
+phylogenetic relatedness to B. anthracis
+using multilocus sequence typing
+(MLST)†
+with seven house keeping genes.
+MATERIALS AND METHODS
+Bacterial strains and DNA isolation
+A total of 77 strains used in this study
+are shown in Table 1. The strains, except
+for B. anthracis, were acquired from the
+American Type Culture collection
+(Manassas, Virginia), Bacillus Genetic
+Stock Center (Department of
+Biochemistry, The Ohio State University,
+Columbus, Ohio), Deutsche Sammlung
+von Mikroorganismen und Zellkulturen
+(Braunschweig, Germany), Korean
+Collection for Type Cultures (Dajeon,
+Korea) and Korean Culture Center of
+Microorganisms (Seoul, Korea), and Dr.
+Terrance Leighton (Children’s Hospital
+Oakland Research Institute, Oakland,
+California). B. anthracis genomic DNA
+preparations were a gift from Chung-Ang
+University Medical College. Genomic
+DNA from other strains was isolated
+using the Easy-DNA kit (Invitrogen
+Corporation, Carlsbad, California)
+according to the manufacturer’s protocol.
+DNA concentrations were determined
+spectrophotometrically [42].
+2 Kim et al: The most closely related Bacillus isolates to B. anthracis
+Kim et al: The most closely related Bacillus isolates to B. anthracis 3
+Table 1. Bacterial strains used in this study.
+a
+ATCC, American Type Culture Collection, Manassas, Virginia; NVRQS, National Veterinary Research
+and Quarantine Service, Anyang-si, Kyeonggi-do, South Korea; BGSC, Bacillus Genetic Stock Center,
+Department of Biochemistry, The Ohio State University, Columbus, Ohio; DSM, Deutsche Sammlung
+von Mikroorganismen und Zellkulturen, Braunschweig, Germany.
+Species Strain ID Sourcea
+Species Strain ID Sourcea
+B. anthracis 14578T
+ATCC B. cereus 6E1 BGSC
+B. anthracis CAU-1 Korea B. cereus 6E2 BGSC
+B. anthracis CAU-2 Korea B. cereus 1012 KCTC
+B. anthracis CAU-3 Korea B. cereus 1014 KCTC
+B. anthracis CN1 Korea B. cereus 1094 KCTC
+B. anthracis CN2 Korea B. cereus 1661 KCTC
+B. anthracis 14185 ATCC B. cereus 3062 KCTC
+B. anthracis 14186 ATCC B. cereus 3624 KCTC
+B. anthracis Sterne 34-F2 NVRQS B. mycoides 10206 ATCC
+B. anthracis BC China B. mycoides 19647 ATCC
+B. anthracis Pasteur #2 NVRQS B. mycoides 21929 ATCC
+B. thuringiensis 4AB1 BGSC B. mycoides 23258 ATCC
+B. thuringiensis 4AF1 BGSC B. mycoides 6462T
+ATCC
+B. thuringiensis 4AJ1 BGSC B. mycoides 40260 ATCC
+B. thuringiensis 4AN1 BGSC B. mycoides 3453 ATCC
+B. thuringiensis 4AQ1 BGSC B. pseudomycoides 12442T
+DSM
+B. thuringiensis 4AS1 BGSC B. weihenstephanensis 11821T
+DSM
+B. thuringiensis 4AW1 BGSC Bacillus sp. IB Rogers J.E.
+B. thuringiensis 4AX1 BGSC Bacillus sp. 2A6 Pasteur Institute
+B. thuringiensis 4AY1 BGSC Bacillus sp. 2C1 Pasteur Institute
+B. thuringiensis 4BA1 BGSC Bacillus sp. 003 Rogers J.E.
+B. thuringiensis 4BD1 BGSC Bacillus sp. 3466-8.1 Pasteur Institute
+B. thuringiensis 4BG1 BGSC Bacillus sp. 9594/3 Patra G.
+B. thuringiensis 4BN1 BGSC Bacillus sp. DM55 El-Helow E.
+B. thuringiensis 4BY1 BGSC Bacillus sp. S8553/2 Pasteur Institute
+B. thuringiensis 4CB1 BGSC Bacillus sp. I2 Patra G.
+B. thuringiensis 4CC1 BGSC Bacillus sp. IV Rogers J.E.
+B. thuringiensis 4CD1 BGSC Bacillus sp. III Rogers J.E.
+B. thuringiensis 4U1 BGSC Bacillus sp. III BL Ramisse V.
+B. thuringiensis 4Y1 BGSC Bacillus sp. III BS Ramisse V.
+B. thuringiensis 2046T
+DSM Bacillus sp. Peyr 6 Pasteur Institute
+B. thuringiensis 1034 KCTC Bacillus sp. Peyr 8 Pasteur Institute
+B. thuringiensis 1507 KCTC Bacillus sp. Peyr 9 Pasteur Institute
+B. thuringiensis 1509 KCTC Bacillus sp. PT030101-01 Dean D.
+B. thuringiensis 3452 KCTC Bacillus sp. PT030101-02 Dean D.
+B. thuringiensis 97-27 Hernandez E. Bacillus sp. Rho Korea
+B. cereus 14579T
+ATCC Bacillus sp. S10A Korea
+B. cereus 6A7 BGSC Bacillus sp. 11R-1 Korea
+B. cereus 6A8 BGSC
+4 Kim et al: The most closely related Bacillus isolates to B. anthracis
+MLST and data analysis
+We amplified fragments of seven
+housekeeping genes (glpF, gmk, ilvD, pta,
+pur, pycA, and tpi) by PCR as described on
+the website for MLST of B. cereus
+(www.pubmlst.org/bcereus) using the
+standard primers. The PCR fragments
+were sequenced in both directions using
+the amplification primers to provide
+unambiguous sequence data.
+The allele sequences were compared
+with existing allele sequences on the B.
+cereus MLST website using Sequence
+Comparator software (www.pubmlst.org/
+bcereus) [43] and given new allele num-
+bers if they differed from known alleles.
+The seven allele numbers define a
+sequence type (ST) a number of which was
+assigned to each new allele combination.
+To improve the discrimination between
+divergent lineages, analyses were conduct-
+ed after each gene was split into three seg-
+ments as described by Helgason et al [44].
+Allele numbers were assigned indepen-
+dently for each gene region, and the allelic
+profiles were then combinations of 21
+numbers. To assess the genetic relatedness
+among the isolates, a dendrogram based on
+the allelic profiles was constructed by
+using the unweighted pair group method
+with arithmetic means (UPGMA) applied
+to a matrix of pairwise distances, defined
+as the percentages of allelic differences
+between profiles, by means of the MEGA
+2.1 analysis package [45]. In addition, the
+concatenated sequences for the seven gene
+fragments were used for building neighbor-
+joining trees using the MEGA software.
+The two phylogenentic dendrograms were
+compared to determine the most closely
+related isolates to B. anthracis.
+Standard MLST statistics such as num-
+ber of polymorphic sites and allele frequen-
+cies were computed by using the START
+v1.0.5 (www.pubmlst.org/ bcereus) [43].
+RESULTS
+Allelic profiles and sequence types
+The lengths of the fragments analyzed
+ranged from 348 bp (pur) to 504 bp (gmk).
+The sequences of the seven gene frag-
+ments amplified from the isolates had vari-
+able sites from 9.2 percent (tpi) to 27 per-
+cent (ilvD), which resulted in 17 to 35 dis-
+tinct alleles for the different loci (Table 2).
+The average number of alleles per locus
+was 29.3. No insertions or deletions were
+observed in any of the sequences. The
+average dN/dS values ranged from 0.0107
+(pta) to 0.0791 (tpi), indicating that most
+Table 2. Genetic diversity at the seven loci examined in this study.
+a
+The numbers in parentheses are total lengths of PCR products.
+b
+dN/dS, pairwise ratios of non-synonymous substitutions to synonymous substitutions.
+c
+Abberviations: glpF, glycerol uptake facilitator protein; gmk, guanylate kinase; ilvD, dihydroxy-acid
+dehydratase; pta, phosphate acetyltransferase; pur, phosphoribosylaminoimidazolecarboxamide;
+pycA, pyruvate carboxylase; tpi, triosephosphate isomerase.
+Fragment Average Conserved Variable
+length G + C No. of nucleotide nucleotide Average
+Locus (bp)a
+(%) alleles site (%) site (%) dN/dSb
+glpFc
+381 (549) 38.82% 35 314/381 (82.4) 67/381 (17.6) 0.0654
+gmk 504 (600) 38.10% 17 409/504 (81.2) 95/504 (18.8) 0.0222
+ilvD 393 (556) 45.20% 35 287/393 (73) 106/393 (27) 0.0152
+pta 414 (579) 40.54% 32 352/414 (85) 62/414 (23.3) 0.0107
+pur 348 (536) 38.52% 29 267/348 (76.7) 81/348 (24.2) 0.0124
+pycA 363 (550) 40.38% 28 275/363 (75.8) 88/363 (24.2) 0.0268
+tpi 435 (558) 44.01% 29 395/435 (90.8) 40/435 (9.2) 0.0791
+Kim et al: The most closely related Bacillus isolates to B. anthracis 5
+of the sequence variability identified is
+selectively neutral.
+Altogether, 48 unique STs were
+observed in the 77 isolates (Table 3), and
+32 of the STs (67 percent) were identified
+only once. Three STs were observed in B.
+anthracis isolates, and ST 1 was the most
+frequent type of B. anthracis.
+Interestingly, even though B. anthracis
+isolates did not have the same ST as any
+other B. cereus group isolates, some B.
+cereus group strains shared one or more
+alleles with B. anthracis. B. thuringiensis
+BGSC 4AJ1 had four alleles (gmk, pta,
+pur, and tpi) that were the same as B.
+anthracis; B. thuringiensis BGSC 4AB1
+and 4BA1 had three same alleles (gmk,
+pta, and pur); B. thuringiensis strains
+BGSC 4AY1, 4CC1, Bacillus species 1B,
+III, 003, III BL, III BS, IV, DM55, and
+PT030101-01 had two same alleles (gmk
+and pta); and B. thuringiensis strains
+BGSC 4BY1, 4CB1, 4AS1, 97-27, B.
+cereus strains BGSC 6E1, 6E2, and KCTC
+1661 had the same gmk allele.
+Phylogenetic relatedness
+To estimate the degree of genetic
+relatedness of the closely related Bacillus
+isolates to B. anthracis, we constructed
+two dendrograms using the improved
+MLST methods; one of them was built in
+the similar way to the standard MLST but
+instead used split profiles of the gene frag-
+ments (Table 4) and the other one was
+done by the neighbor-joining method
+using the concatenated sequences for the
+seven gene fragments. Clustering of the
+Bacillus isolates in both dendrograms
+revealed three major clades (Figures 1 and
+2); within clade I, B. anthracis clustered
+with many of the B. cereus and B.
+thuringiensis isolates; within clade II, B.
+cereus and B. thuringiensis, unidentified
+Bacillus isolates, and one isolate of B.
+mycoides clustered together; and within
+clade III, the former dendrogram (Figure
+1) showed that many of the B. mycoides
+isolates clustered with B. thuringiensis and
+B. cereus isolates but the latter one showed
+with more reliability that all the B.
+mycoides isolates except one clustered
+within clade III, separately from the B.
+cereus and B. thuringiensis isolates
+(Figure 2). However, the Bacillus isolates
+clustering with Bacillus anthracis within
+the clade I were grouped in a very similar
+way in both dendrograms, but in the latter
+dendrogram, clade I had six more isolates
+than the clade I of the former one; these
+isolates clustered within clade II separate-
+ly from the clade I of the former one.
+Twenty-seven non-B. anthracis isolates
+clustered with B. anthracis in clade I of
+both dendrograms: B. thuringiensis BGSC
+strains 4AJ1, 4AB1, 4BA1, 4CC1, 4AS1,
+4AY1, 4BY1, 4CB1, 4CD1, 4Y1, 4BG1,
+B. thuringiensis 97-27, B. thuringiensis
+KCTC 1014, B. cereus BGSC strains 6E1
+and 6E2, B. cereus KCTC 1661, Bacillus
+isolates DM55, III, III BL, III BS, IV, 003,
+1B, S8553/2, PT030101-01, PT030101-
+02, 9594/3. All of these B. cereus group
+isolates showed false-positive results in
+one or more of the previously reported
+assays used for B. anthracis detection in
+our previous studies (manuscript in prepa-
+ration and [12]). Among these, 4AJ1,
+4AB1, 4BA1, and 4CC1 were proximate
+to B. anthracis in both dendrograms. 4AJ1
+and 4CC1 showed false-positives in two to
+three assays used for B. anthracis detec-
+tion in our previous studies. The six iso-
+lates additionally clustered in clade I of the
+second dendrogram include three Bacillus
+isolates Rho, S10A, and 11R-1, which
+were isolated from the patients and soils of
+an unidentified epidemic disease in Korea
+and were once the isolates of controversy
+due to their connection with anthrax.
+DISCUSSION
+Of the species in the genus Bacillus, B.
+anthracis, B. cereus, and B. thuringiensis
+are in the group referred as the B. cereus
+group. These species are genetically very
+closely related to one another and have con-
+6 Kim et al: The most closely related Bacillus isolates to B. anthracis
+Table 3. Allele numbers at the seven loci assigned for entire gene fragments.
+Allele no. at the following loci
+No. Strain STa
+glpF gmk ilvD pta pur pycA tpi
+1 B. anthracis ATCC 14578 1 1 1 1 1 1 1 1
+2 B. anthracis CAU-1 1 1 1 1 1 1 1 1
+3 B. anthracis CAU-2 1 1 1 1 1 1 1 1
+4 B. anthracis CAU-3 1 1 1 1 1 1 1 1
+5 B. anthracis Sterne 34-F2 1 1 1 1 1 1 1 1
+6 B. anthracis BC 1 1 1 1 1 1 1 1
+7 B. anthracis Pasteur No.2 1 1 1 1 1 1 1 1
+8 B. anthracis CN1 2 2 1 1 1 1 1 1
+9 B. anthracis CN2 2 2 1 1 1 1 1 1
+10 B. anthracis ATCC 14185 3 1 1 2 1 1 2 1
+11 B. anthracis ATCC 14186 3 1 1 2 1 1 2 1
+12 B. thuringiensis BGSC 4AJ1 4 57 1 52 1 1 52 1
+13 B. thuringiensis BGSC 4AB1 5 57 1 56 1 1 54 42
+14 B. thuringiensis BGSC 4BA1 5 57 1 56 1 1 54 42
+15 B. thuringiensis BGSC 4CC1 6 61 38 55 1 1 53 19
+16 Bacillus sp. 1B 7 34 1 32 1 51 37 24
+17 Bacillus sp. III 7 34 1 32 1 51 37 24
+18 Bacillus sp. 003 7 34 1 32 1 51 37 24
+19 Bacillus sp. III BL 7 34 1 32 1 51 37 24
+20 Bacillus sp. III BS 7 34 1 32 1 51 37 24
+21 Bacillus sp. IV 7 34 1 32 1 51 37 24
+22 B. thuringiensis BGSC 4AY1 8 56 1 51 1 50 52 24
+23 Bacillus sp. DM55 9 44 1 32 1 18 33 24
+24 Bacillus sp. PT030101-01 10 76 1 66 1 18 52 24
+25 B. cereus BGSC 6E1 11 38 1 32 16 18 33 24
+26 B. cereus BGSC 6E2 11 38 1 32 16 18 33 24
+27 B. thuringiensis BGSC 4BY1 12 70 1 66 60 55 37 51
+28 B. thuringiensis BGSC 4CB1 12 70 1 66 60 55 37 51
+29 B. thuringiensis 97-27 13 62 1 57 52 55 37 43
+30 B. thuringiensis BGSC 4AS1 14 56 1 64 58 18 53 48
+31 B. cereus KCTC 1661 15 34 1 68 16 18 33 53
+32 B. cereus BGSC 6A7 16 43 26 35 42 39 41 30
+33 Bacillus sp. PEYR 9 16 43 26 35 42 39 41 30
+34 B. cereus BGSC 6A8 16 43 26 35 42 39 41 30
+35 Bacillus sp. 3466-8.1 16 43 26 35 42 39 41 30
+36 B. mycoides ATCC 21929 17 73 42 71 64 66 64 55
+37 B. mycoides ATCC 23258 17 73 42 71 64 66 64 55
+38 B. mycoides KCCM 40260 17 73 42 71 64 66 64 55
+39 Bacillus sp. 11R-1 18 78 45 74 67 70 67 58
+40 Bacillus sp. Rho 18 78 45 74 67 70 67 58
+41 Bacillus sp. S10A 18 78 45 74 67 70 67 58
+42 B. cereus ATCC 14579 19 13 8 8 11 11 12 7
+43 B. cereus KCTC 3624 19 13 8 8 11 11 12 7
+44 B. thuringiensis DSM 2046 20 15 6 10 8 3 7 14
+45 B. thuringiensis KCTC 3452 20 15 6 10 8 3 7 14
+46 B. mycoides ATCC 6462 21 25 10 22 53 57 23 44
+47 B. mycoides KCTC 3453 21 25 10 22 53 57 23 44
+48 B. thuringiensis BGSC 4AW1 22 69 40 65 59 62 60 49
+49 B. thuringiensis BGSC 4AX1 22 69 40 65 59 62 60 49
+50 B. thuringiensis KCTC 1034 23 33 8 13 19 2 17 17
+51 B. cereus KCTC 1012 23 33 8 13 19 2 17 17
+52 Bacillus sp. 2A6 24 43 26 35 42 39 41 50
+53 Bacillus sp. 2C1 24 43 26 35 42 39 41 50
+54 B. thuringiensis BGSC 4BG1 25 24 12 50 21 23 31 40
+55 B. thuringiensis BGSC 4Y1 26 24 12 33 37 48 31 19
+56 Bacillus sp. 9594/3 27 55 12 33 47 49 31 41
+57 B. pseudomycoides DSM 12442 2 8 63 13 58 23 25 44 35
+58 B. weihenstephanensis DSM 11821 29 64 10 9 36 56 22 11
+59 B. thuringiensis BGSC 4AF1 30 66 39 62 56 60 41 30
+60 B. thuringiensis BGSC 4AN1 31 67 26 63 57 61 59 30
+Kim et al: The most closely related Bacillus isolates to B. anthracis 7
+stantly provoked a nomenclatural contro-
+versy. In fact, a high level of genetic relat-
+edness amongst these species has been
+demonstrated by whole-genome DNA
+hybridization [46, 47], 16S and 23S gene
+rRNA sequence analysis [48, 49], sequence
+analysis of 16S-23S operons [50, 51],
+sequence analysis of the gyrB-gyrA inter-
+genic spacer region [50], pulsed-field gel
+electrophoresis [52, 53], and restriction
+fragmentation pattern analysis of the
+genome [54]. All of these methods failed to
+completely discriminate the species of the
+B. cereus group. There is so little difference
+amongst these species that some investiga-
+tors have suggested that all these organisms
+should be classified as a single species [12,
+53]. However, the clinical aspects of the
+diseases caused by these species are dis-
+tinctively different. B. anthracis causes the
+highly fatal disease in humans and animals,
+B. cereus causes food-poisoning and oppor-
+tunistic infections, and B. thuringiensis is
+an insect pathogen. Therefore, despite the
+nomenclatural controversy that is encoun-
+tered due to the high level of genetic relat-
+edness amongst these species, a specific
+diagnostic assay to identify B. anthracis is
+clearly required.
+There have been many efforts to
+develop a simple, rapid, and accurate
+detection assay for B. anthracis using
+advanced molecular biology tools. All the
+previously developed methods are good at
+detecting B. anthracis, but, however,
+many of the developed methods have the
+problem of lack of specificity, which can
+often lead to false-positive results. If these
+detection assays are used for the detection
+of B. anthracis in society, the possible
+occurrence of false-positives can bring
+about a false alarm of anthrax to the com-
+munity. The potential consequences result-
+ing from the shock and anxiety of a false-
+positive result on a community should
+never be underestimated, particularly
+under the current threat of increased
+bioterrorism. Thus, when an assay for B.
+anthracis detection is developed or is
+being developed, the validation of its
+specificity is important.
+For the specificity analysis, a number
+of similar, but not B. anthracis isolates are
+required for the test. The more isolates that
+a
+Abbreviations: ST, sequence type; glpF, glycerol uptake facilitator protein; gmk, guanylate kinase;
+ilvD, dihydroxy-acid dehydratase; pta, phosphate acetyltransferase; pur, phosphoribosylaminoimida-
+zolecarboxamide; pycA, pyruvate carboxylase; tpi, triosephosphate isomerase; Sp., species
+Allele no. at the following loci
+No. Strain STa
+glpF gmk ilvD pta pur pycA tpi
+61 B. thuringiensis BGSC 4AQ1 32 68 39 62 42 60 41 30
+62 B. thuringiensis BGSC 4BD1 33 14 8 48 45 58 61 7
+63 B. thuringiensis BGSC 4BN1 34 67 26 35 42 39 41 50
+64 B. thuringiensis BGSC 4CD1 35 71 22 67 61 63 62 52
+65 B. thuringiensis BGSC 4U1 36 67 39 62 42 64 41 30
+66 B. thuringiensis KCTC 1507 37 8 8 16 13 2 16 7
+67 B. thuringiensis KCTC 1509 38 15 6 7 2 6 8 13
+68 B. cereus KCTC 1014 39 3 2 31 5 16 3 4
+69 B. cereus KCTC 1094 40 8 41 14 12 2 25 7
+70 B. cereus KCTC 3062 41 12 8 9 14 11 12 10
+71 B. mycoides ATCC 10206 42 72 13 69 62 65 63 54
+72 B. mycoides ATCC 19647 43 67 26 70 63 39 41 30
+73 Bacillus sp. S8553/2 44 44 26 32 16 18 33 24
+74 Bacillus sp. I2 45 74 43 72 65 67 65 32
+75 Bacillus sp. PEYR 6 46 75 26 35 40 68 41 30
+76 Bacillus sp. PEYR 8 47 43 26 35 42 39 41 56
+77 Bacillus sp. PT030101-02 48 77 44 73 66 69 66 57
+Table 3. Allele numbers at the seven loci assigned for entire gene fragments (contd).
+8 Kim et al: The most closely related Bacillus isolates to B. anthracis
+Table 4. Allele numbers at the seven loci assigned after gene fragments were split
+into three equal-length parts.
+a
+Abbreviations: ST, sequence type; glpF, glycerol uptake facilitator protein; gmk, guanylate kinase;
+ilvD, dihydroxy-acid dehydratase; pta, phosphate acetyltransferase; pur, phosphorribosylaminoimida-
+zolecarboxamide; pycA, pyruvate carboxylase; tpi, triosephosphate isomerase; Sp, species.
+Allele no. at the following loci
+STa
+glpF gmk ilvD pta pur pucA tpi
+1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1
+2 1, 2, 1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1 1, 1, 1
+3 1, 1, 1 1, 1, 1 1, 1, 2 1, 1, 1 1, 1, 1 2, 1, 1 1, 1, 1
+4 36, 23, 1 1, 1, 1 1, 29, 1 1, 1, 1 1, 1, 1 20, 28, 27 1, 1, 1
+5 36, 23, 1 1, 1, 1 33, 28, 23 1, 1, 1 1, 1, 1 35, 29, 29 1, 1, 1
+6 39, 9, 1 1, 1, 21 1, 31, 15 1, 1, 1 1, 1, 1 35, 29, 28 3, 4, 6
+7 24, 16, 1 1, 1, 1 20, 19, 15 1, 1, 1 32, 26, 1 20, 1, 1 1, 15, 6
+8 36, 8, 1 1, 1, 1 31, 28, 23 1, 1, 1 9, 32, 1 20, 28, 27 1, 15, 6
+9 31, 16, 1 1, 1, 1 20, 19, 15 1, 1, 1 9, 13, 1 24, 1, 1 1, 15, 6
+10 46, 8, 1 1, 1, 1 20, 36, 15 1, 1, 1 9, 13, 1 20, 28, 27 1, 15, 6
+11 27, 1, 1 1, 1, 1 20, 19, 15 8, 8, 11 9, 13, 1 24, 1, 1, 1, 15, 6
+12 40, 8, 1 1, 1, 1 20, 36, 15 31, 17, 32 9, 26, 1 20, 1, 1 1, 23, 6
+13 40, 8, 14 1, 1, 1 34, 32, 23 27, 1, 1 9, 26, 1 20, 1, 1 1, 4, 6
+14 36, 8, 1 1, 1, 1 34, 28, 23 1, 1, 31 9, 13, 1 35, 29, 28 2, 4, 14
+15 24, 16, 1 1, 1, 1 14, 38, 38 8, 8, 11 9, 13, 1 24, 1, 1 21, 15, 6
+16 30, 19, 11 18, 3, 14 23, 21, 21 20, 22, 22 25, 27, 22 27, 24, 21 6, 18, 5
+17 44, 30, 2 24, 19, 23 43, 39, 40 33, 28, 36 25, 37, 34 43, 33, 34 22, 8, 5
+18 48, 1, 4 26, 21, 25 46, 42, 43 34, 31, 37 42, 40, 26 46, 35, 35 2, 25, 6
+19 10, 1, 2 7, 3, 3 7, 6, 8 5, 1, 8 1, 7, 6 8, 10, 6 2, 4, 3
+20 12, 1, 2 5, 4, 3 8, 8, 9 5, 4, 7 1, 3, 3 5, 5, 3 8, 10, 3
+21 18, 10, 4 8, 6, 6 4, 3, 17 28, 7, 10 12, 25, 13 15, 7, 13 5, 21, 5
+22 43, 1, 4 23, 3, 18 39, 35, 36 11, 9, 15 27, 36, 32 13, 32, 11 20, 4, 15
+23 11, 1, 9 7, 3, 3 11, 8, 11 9, 1, 7 1, 2, 2 11, 13, 8 9, 4, 4
+24 30, 19, 11 18, 3, 14 23, 21, 21 20, 22, 22 25, 27, 22 27, 24, 21 6, 22, 5
+25 4, 9, 7 2, 7, 7 21, 27, 31 5, 1, 14 14, 17, 12 22, 18, 16 3, 17, 6
+26 4, 9, 7 2, 7, 7 21, 20, 20 5, 19, 20 30, 17, 12 22, 18, 16 3, 4, 6
+27 4, 9, 1 2, 7, 7 21, 20, 20 24, 19, 20 31, 14, 12 22, 18, 16 19, 4, 1
+28 41, 24, 15 10, 8, 8 35, 33, 33 12, 11, 16 15, 18, 15 30, 17, 15 16, 20, 10
+29 18, 7, 4 8, 6, 6 7, 7, 8 17, 10, 10 35, 12, 29 14, 15, 13 5, 7, 5
+30 30, 25, 11 18, 18, 14 23, 21, 35 30, 1, 29 38, 27, 30 27, 24, 21 6, 18, 5
+31 30, 26, 11 18, 3, 14 38, 21, 21 20, 22, 30 25, 27, 31 27, 24, 33 6, 18, 5
+32 42, 27, 11 18, 18, 14 23, 21, 35 20, 22, 22 38, 27, 30 27, 24, 21 6, 18, 5
+33 11, 1, 2 7, 3, 3 30, 26, 29 5, 24, 25 36, 14, 3 40, 27, 26 2, 4, 3
+34 30, 26, 11 18, 3, 14 23, 21, 21 20, 22, 22 25, 27, 22 27, 24, 21 6, 22, 5
+35 4, 28, 2 2, 7, 1 40, 37, 37 5, 1, 33 7, 6, 33 41, 21, 20 3, 24, 5
+36 30, 26, 11 18, 18, 14 23, 21, 35 20, 22, 22 25, 27, 30 27, 24, 21 6, 18, 5
+37 6, 1, 2 7, 3, 3 12, 12, 13 6, 6, 8 1, 2, 2 8, 9, 9 2, 4, 3
+38 12, 1, 2 5, 4, 3 6, 5, 7 2, 2, 2 3, 5, 5 5, 6, 3 7, 9, 5
+39 2, 1, 1 2, 2, 1 19, 14, 15 4, 2, 5 7, 11, 10 3, 2, 2 2, 2, 1
+40 6, 1, 2 7, 3, 22 12, 8, 12 5, 5, 8 1, 2, 2 17, 9, 8 2, 4, 3
+41 9, 1, 2 7, 3, 3 7, 7, 8 4, 1, 6 1, 7, 6 8, 10, 6 2, 4, 4
+42 41, 29, 16 10, 8, 8 41, 33, 39 32, 27, 34 39, 18, 15 42, 17, 15 11, 20, 10
+43 30, 26, 11 18, 3, 14 42, 21, 21 20, 1, 35 25, 27, 22 27, 24, 21 6, 18, 5
+44 31, 16, 1 18, 3, 14 20, 19, 15 8, 8, 11 9, 13, 1 24, 1, 1 1, 15, 6
+45 45, 31, 17 25, 20, 18 44, 40, 41 20, 29, 27 40, 38, 35 44, 32, 11 13, 4, 5
+46 30, 32, 11 18, 3, 14 23, 21, 21 20, 21, 22 41, 27, 36 27, 24, 21 6, 18, 5
+47 30, 19, 11 18, 3, 14 23, 21, 21 20, 22, 22 25, 27, 22 27, 24, 21 23, 18, 5
+48 47, 9, 1 1, 1, 24 45, 41, 42 19, 30, 32 9, 39, 1 45, 34, 1 2, 4, 6
+are tested, the more reliable the test will
+be. However, the test isolates should be
+closely related to B. anthracis because
+false-positive results often occur in tests
+with bacteria that are similar to B.
+anthracis. The selection of a limited num-
+ber of the most closely related isolates to
+B. anthracis will be useful and economi-
+cal, especially when time, labor and mate-
+rials are limited. In addition, the assays
+showing low specificity will be detected
+early and discarded, avoiding the possible
+wasting of time and resources.
+To select these isolates among a num-
+ber of Bacillus isolates, their genetic relat-
+edness to B. anthracis is usually investigat-
+ed by analysis of the genetic diversity
+amongst them. For this purpose, various
+methods including multilocus enzyme elec-
+trophoresis, pulsed-field gel electrophore-
+sis, and amplified fragment length poly-
+morphism have been used. However, these
+methods are difficult to standardize
+between laboratories, and it is difficult to
+compare the results for large strain collec-
+tions. MLST has been developed and has
+been used successfully when exploring the
+population structure of many important
+bacterial pathogens [53, 55-66]. This
+method is based on sequencing a number of
+essential or housekeeping genes spread
+around the bacterial chromosome and is a
+method that is unambiguous and truly
+portable among laboratories [67]. However,
+the standard MLST method, which is based
+on the allelic profiles of seven gene frag-
+ments, was known to have low resolving
+power when constructing a dendrogram
+[53]. To improve the resolution, MLST
+based on split allele profiles or the concate-
+nated sequences for the seven gene frag-
+ments was attempted, and the resulting den-
+drograms are highly resolved [53, 68].
+In this study, we applied the standard
+MLST as well as two other improved
+MLST methods to construct phylogenetic
+dendrograms. The dendrogram constructed
+by the standard MLST was lowly resolved
+(data not presented). The other two
+improved MLST methods provided dendro-
+grams that were highly resolved to the sim-
+ilar degree, but the MLST using the con-
+catenated sequences appeared better and
+phylogenetically more reliable than the
+gene split MLST because it showed good
+clustering of B. mycoides isolates out of the
+B. thuringiensis and B. cereus cluster. The
+dendrograms constructed by these two
+methods revealed three major clades among
+the Bacillus isolates tested. The composi-
+tion of the Bacillus isolates clustering in
+clade I of both dendrograms, within which
+all the B. anthracis isolates clustered, were
+almost similar except for the fact that the
+dendrogram of the second method showed
+that clade I had six more isolates than the
+clade I of the first dendrogram. Clade I
+appeared as a B. anthracis clade, and with-
+in this clade many Bacillus isolates were
+proximate to B. anthracis. This clade was
+composed of the isolates that gave false-
+positive results by previously reported
+assays for B. anthracis detection, and the
+degree of proximity to B. anthracis and the
+frequency of false-positive results appeared
+correlated. For instance, B. thuringiensis
+BGSC 4AJ1, which was shown to give
+false-positive results by three of the report-
+ed assays in our previous studies was the
+most proximate to B. anthracis.
+In conclusion, we determined 27
+Bacillus isolates that are the most closely
+related to B. anthracis amongst 77 Bacillus
+isolates as shown in the dendrograms. We
+believe that considering these strains when
+testing the specificity of newly developing or
+already developed assays for the detection of
+B. anthracis will prove to be very useful and
+will help to lead to the development of more
+highly specific detection assays.
+ACKNOWLEDGEMENTS: This research
+was supported by the Chung-Ang
+University research grants in 2003.
+Kim et al: The most closely related Bacillus isolates to B. anthracis 9
+10 Kim et al: The most closely related Bacillus isolates to B. anthracis
+Figure. 1. Phylogenetic dendrogram of 77 isolates of the B. cereus group construct-
+ed by UPGMA MLST based on the differences between allelic profiles. Alleles were
+identified after gene fragments were split into three equal-length parts (Table 3). The pop-
+ulation comprised three major clades. The clades are indicated by Roman numerals and
+lineages by names. Clade I encompassed all the B. anthracis isolates and 27 isolates of
+other B. cereus group species. B. thuringiensis BGSC 4AJ1, 4CC1, 4AS1, 4AB1 and 4BA1
+(asterisks) were the most proximate to B. anthracis. The scale bars indicate the percent-
+ages of mismatches between allelic profiles.
+Kim et al: The most closely related Bacillus isolates to B. anthracis 11
+Figure 2. Phylogenetic dendrogram of 77 isolates of the B. cereus group construct-
+ed by MLST neighbor-joining method based on the concatenated sequences of the
+seven gene fragments. The population comprised three major clades. The clades are
+indicated by Roman numerals and lineages by names. Clade I encompassed all the B.
+anthracis isolates and 33 isolates of other B. cereus group species. B. thuringiensis BGSC
+4AJ1, 4CC1, 4AB1 and 4BA1 (asterisks) were the most proximate to B. anthracis. Bar is
+substitutions/site.
+12 Kim et al: The most closely related Bacillus isolates to B. anthracis
+REFERENCES
+1. Lechner S, Mayr R, Francis KP, et al.
+Bacillus weihenstephanensis sp. nov. is a
+new psychrotolerant species of the Bacillus
+cereus group. Int J Syst Bacteriol
+1998;48:1373-82.
+2. Nakamura LK. Bacillus pseudomycoides sp.
+nov. Int J Syst Bacteriol 1998;48:1031-5.
+3. Jaruratanasirikul S, Kalnauwakul S, and
+Lekhakula A. Traumatic wound infection
+due to Bacillus cereus in an immunocom-
+promised patient: a case report. Southeast
+Asian J Trop Med Public Health
+1987;18:112-4.
+4. Van Der Zwet WC, Parlevliet GA,
+Savelkoul PH, et al. Outbreak of Bacillus
+cereus infections in a neonatal intensive
+care unit traced to balloons used in manual
+ventilation. J Clin Microbiol
+2000;38:4131-6.
+5. Ueda K, Konishi M, Maeda K, et al.
+Bacillus cereus septicemia in a patient with
+severe aplastic anemia. Kansenshogaku
+Zasshi 1998;72:1325-9.
+6. Carretto E, Barbarini D, Poletti F, Marzani
+FC, Emmi V, and Marone P. Bacillus cereus
+fatal bacteremia and apparent association
+with nosocomial transmission in an inten-
+sive care unit. Scand J Infect Dis
+2000;32:98-100.
+7. Hansen BM and Hendriksen NB. Detection
+of enterotoxic Bacillus cereus and Bacillus
+thuringiensis strains by PCR analysis. Appl
+Environ Microbiol 2001;67:185-9.
+8. Gaviria Rivera AM, Granum PE, and Priest
+FG. Common occurrence of enterotoxin
+genes and enterotoxicity in Bacillus
+thuringiensis. FEMS Microbiol Lett
+2000;190:151-5.
+9. Stenfors LP, Mayr R, Scherer S, and
+Granum PE. Pathogenic potential of fifty
+Bacillus weihenstephanensis strains. FEMS
+Microbiol Lett 2002;215:47-51.
+10. Hsieh YM, Sheu SJ, Chen YL, and Tsen
+HY. Enterotoxigenic profiles and poly-
+merase chain reaction detection of Bacillus
+cereus group cells and B. cereus strains
+from foods and food-borne outbreaks. J
+Appl Microbiol 1999;87:481-90.
+11. Pruss BM, Dietrich R, Nibler B,
+Martlbauer E, and Scherer S. The hemolyt-
+ic enterotoxin HBL is broadly distributed
+among species of the Bacillus cereus
+group. Appl Environ Microbiol
+1999;65:5436-42.
+12. Kim K, Seo J, Wheeler K, et al. Rapid
+genotypic detection of Bacillus anthracis
+and the Bacillus cereus group by multiplex
+real-time PCR melting curve analysis.
+FEMS Immunol Med Microbiol
+2005;43:301-10.
+13. Makino SI, Iinuma-Okada Y, Maruyama T,
+Ezaki T, Sasakawa C, and Yoshikawa M.
+Direct detection of Bacillus anthracis DNA
+in animals by polymerase chain reaction. J
+Clin Microbiol 1993;31:547-51.
+14. Reif TC, Johns M, Pillai SD, and Carl M.
+Identification of capsule-forming Bacillus
+anthracis spores with the PCR and a novel
+dual-probe hybridization format. Appl
+Environ Microbiol 1994;60:1622-5.
+15. Beyer W, Glockner P, Otto J, and Bohm R.
+A nested PCR method for the detection of
+Bacillus anthracis in environmental sam-
+ples collected from former tannery sites.
+Microbiol Res 1995;150:179-86.
+16. Brightwell G, Pearce M, and Leslie D.
+Development of internal controls for PCR
+detection of Bacillus anthracis. Mol Cell
+Probes 1998;12:367-77.
+17. Bell CA, Uhl JR, Hadfield TL, et al.
+Detection of Bacillus anthracis DNA by
+LightCycler PCR. J Clin Microbiol
+2002;40:2897-902.
+18. Mikesell P, Ivins BE, Ristroph JD, and
+Dreier TM. Evidence for plasmid-mediated
+toxin production in Bacillus anthracis.
+Infect Immun 1983;39:371-6.
+19. Green BD, Battisti L, Koehler TM, Thorne
+CB, and Ivins BE. Demonstration of a cap-
+sule plasmid in Bacillus anthracis. Infect
+Immun 1985;49:291-7.
+20. Turnbull PC, Hutson RA, Ward MJ, et al.
+Bacillus anthracis but not always anthrax. J
+Appl Bacteriol 1992;72:21-8.
+21. Turnbull PC. Definitive identification of
+Bacillus anthracis — a review. J Appl
+Microbiol 1999;87:237-40.
+22. Ruhfel RE, Robillard NJ, and Thorne CB.
+Interspecies transduction of plasmids
+among Bacillus anthracis, B. cereus, and B.
+thuringiensis. J Bacteriol 1984;157:708-11.
+23. Green BD, Battisti L, and Thorne CB.
+Involvement of Tn4430 in transfer of
+Bacillus anthracis plasmids mediated by
+Bacillus thuringiensis plasmid pXO12. J
+Bacteriol 1989;171:104-13.
+24. Pannucci J, Okinaka RT, Sabin R, and
+Kuske CR. Bacillus anthracis pXO1 plas-
+mid sequence conservation among closely
+related bacterial species. J Bacteriol
+2002;184:134-41.
+25. Vodkin MH and Leppla SH. Cloning of the
+protective antigen gene of Bacillus
+anthracis. Cell 1983;34:693-7.
+26. Ivins BE and Welkos SL. Cloning and
+expression of the Bacillus anthracis protec-
+tive antigen gene in Bacillus subtilis. Infect
+Immun 1986;54:537-42.
+27. Robertson DL and Leppla SH. Molecular
+cloning and expression in Escherichia coli
+of the lethal factor gene of Bacillus
+anthracis. Gene 1986;44:71-8.
+Kim et al: The most closely related Bacillus isolates to B. anthracis 13
+28. Mock M, Labruyere E, Glaser P, Danchin
+A, and Ullmann A. Cloning and expression
+of the calmodulin-sensitive Bacillus
+anthracis adenylate cyclase in Escherichia
+coli. Gene 1988;64:277-84.
+29. Tippetts MT and Robertson DL. Molecular
+cloning and expression of the Bacillus
+anthracis edema factor toxin gene: a
+calmodulin-dependent adenylate cyclase. J
+Bacteriol 1988;170:2263-6.
+30. Cataldi A, Labruyere E, and Mock M.
+Construction and characterization of a pro-
+tective antigen-deficient Bacillus anthracis
+strain. Mol Microbiol 1990;4:1111-7.
+31. Tedikov VM and Dobritsa AP. Cloning and
+expression of determinants of Bacillus
+anthracis protective antigen in Escherichia
+coli, Bacillus subtilis, and Bacillus
+anthracis cells. Mol Gen Mikrobiol Virusol
+1993;2:13-6.
+32. Hoffmaster AR, Ravel J, Rasko DA, et al.
+Identification of anthrax toxin genes in a
+Bacillus cereus associated with an illness
+resembling inhalation anthrax. Proc Natl
+Acad Sci USA 2004; 101:8449-54.
+33. Patra G, Sylvestre P, Ramisse V, Therasse J,
+and Guesdon JL. Isolation of a specific
+chromosomic DNA sequence of Bacillus
+anthracis and its possible use in diagnosis.
+FEMS Immunol Med Microbiol
+1996;15:223-31.
+34. Ramisse V, Patra G, Garrigue H, Guesdon
+JL, and Mock M. Identification and charac-
+terization of Bacillus anthracis by multi-
+plex PCR analysis of sequences on plas-
+mids pXO1 and pXO2 and chromosomal
+DNA. FEMS Microbiol Lett 1996;145:9-
+16.
+35. Patra G, Vaissaire J, Weber-Levy M, Le
+Doujet C, and Mock M. Molecular charac-
+terization of Bacillus strains involved in
+outbreaks of anthrax in France in 1997. J
+Clin Microbiol 1998;36:3412-4.
+36. Andersen GL, Simchock JM, and Wilson
+KH. Identification of a region of genetic
+variability among Bacillus anthracis
+strains and related species. J Bacteriol
+1996;178:377-84.
+37. Jackson PJ, Walthers EA, Kalif AS, et al.
+Characterization of the variable-number
+tandem repeats in vrrA from different
+Bacillus anthracis isolates. Appl Environ
+Microbiol 1997;63:1400-5.
+38. Yamada S, Ohashi E, Agata N, and
+Venkateswaran K. Cloning and nucleotide
+sequence analysis of gyrB of Bacillus
+cereus, B. thuringiensis, B. mycoides, and
+B. anthracis and their application to the
+detection of B. cereus in rice. Appl Environ
+Microbiol 1999;65:1483-90.
+39. Daffonchio D, Borin S, Frova G, et al. A
+randomly amplified polymorphic DNA
+marker specific for the Bacillus cereus
+group is diagnostic for Bacillus anthracis.
+Appl Environ Microbiol 1999;65:1298-
+1303.
+40. Qi Y, Patra G, Liang X, et al. Utilization of
+the rpoβ gene as a specific chromosomal
+marker for real-time PCR detection of
+Bacillus anthracis. Appl Environ Microbiol
+2001;67:3720-7.
+41. Hurtle W, Bode E, Kulesh DA, et al.
+Detection of the Bacillus anthracis gyrA
+gene by using a minor groove binder probe.
+J Clin Microbiol 2004;42:179-85.
+42. Sambrook J and Russell DW. Molecular
+cloning: a laboratory manual. 2nd ed. Cold
+Spring Harbor, New York: Cold Spring
+Harbor Laboratory Press; 2001:E.5
+43. Jolley KA, Feil EJ, Chan MS, and Maiden
+MC. Sequence type analysis and recombi-
+national tests (START). Bioinformatics
+2001;17:1230-1.
+44. Helgason E, Tourasse NJ, Meisal R,
+Caugant DA, and Kolsto AB. Multilocus
+sequence typing scheme for bacteria of the
+Bacillus cereus group. Appl Environ
+Microbiol 2004;70:191-201.
+45. Kumar S, Tamura K, Jakobsen IB, and Nei
+M. MEGA2: molecular evolutionary genet-
+ics analysis software. Bioinformatics
+2001;17:1244-5
+46. Kaneko T, Nozaki R, and Aizawa K.
+Deoxyribonucleic acid relatedness between
+Bacillus anthracis, Bacillus cereus and
+Bacillus thuringiensis. Microbiol Immunol
+1978;22:639-41.
+47. Seki T, Chung C, Mikami H, and Oshima Y.
+Deoxyribonucleic acid homology and tax-
+onomy of the genus Bacillus. Int J Syst
+Bacteriol 1978;28:182-9.
+48. Ash C, Farrow JA, Dorsch M, Stackebrandt
+E, and Collins MD. Comparative analysis
+of Bacillus anthracis, Bacillus cereus, and
+related species on the basis of reverse tran-
+scriptase sequencing of 16S rRNA. Int J
+Syst Bacteriol 1991;41:343-6.
+49. Ash C and Collins MD. Comparative
+analysis of 23S ribosomal RNA gene
+sequences of Bacillus anthracis and emetic
+Bacillus cereus determined by PCR-direct
+sequencing. FEMS Microbiol Lett
+1992;73:75-80.
+50. Harrell LJ, Andersen GL, and Wilson KH.
+Genetic variability of Bacillus anthracis
+and related species. J Clin Microbiol
+1995;33:1847-50.
+51. Bourque SN, Valero JR, Lavoie MC, and
+Levesque RC. Comparative analysis of the
+16S to 23S ribosomal intergenic spacer
+sequences of Bacillus thuringiensis strains
+and subspecies and of closely related
+species. Appl Environ Microbiol
+1995;61:1623-6.
+52. Carlson CR, Caugant D, and Kolstø A.
+Genotypic diversity among Bacillus cereus
+and Bacillus thuringiensis strains. Appl
+Environ Microbiol 1994;60:1719-25.
+53. Helgason E, Okstad OA, Caugant DA, et
+al. Bacillus anthracis, Bacillus cereus, and
+Bacillus thuringiensis — one species on the
+basis of genetic evidence. Appl Environ
+Microbiol 2000;66:2627-30.
+54. Henderson I, Duggleby CJ, and Turnbull PC.
+Differentiation of Bacillus anthracis from
+other Bacillus cereus group bacteria with the
+PCR. Int J Syst Bacteriol 1994;44:99-105.
+55. Maiden MC, Bygraves JA, Feil E, et al.
+Multilocus sequence typing: a portable
+approach to the identification of clones with-
+in populations of pathogenic microorganisms.
+Proc Natl Acad Sci USA 1998;95:3140-5.
+56. Enright MC and Spratt BG. A multilocus
+sequence typing scheme for Streptococcus
+pneumoniae: identification of clones asso-
+ciated with serious invasive disease.
+Microbiology 1998;144:3049-60.
+57. Enright MC, Spratt BG, Kalia A, Cross JH,
+and Bessen DE. Multilocus sequence typ-
+ing of Streptococcus pyogenes and the rela-
+tionships between emm type and clone.
+Infect Immun 2001;69:2416-27.
+58. Meats E, Feil EJ, Stringer S, et al.
+Characterization of encapsulated and non-
+capsulated Haemophilus influenzae and
+determination of phylogenetic relationships
+by multilocus sequence typing. J Clin
+Microbiol 2003;41:1623-1636.
+59. Enright, MC, Day NP, Davies CE, Peacock
+SJ, and Spratt BG. Multilocus sequence
+typing for characterization of methicillin-
+resistant and methicillin-susceptible clones
+of Staphylococcus aureus. J Clin Microbiol
+2000;38:1008-15.
+60. Dingle KE, Colles FM, Wareing DR, et al.
+Multilocus sequence typing system for
+Campylobacter jejuni. J Clin Microbiol
+2001;39:14-23.
+61. Homan WL, Tribe D, Poznanski S, et al.
+Multilocus sequence typing scheme for
+Enterococcus faecium. J Clin Microbiol
+2002;40:1963-1971.
+62. van Loo IH, Heuvelman KJ, King AJ, and
+Mooi FR. Multilocus sequence typing of
+Bordetella pertussis based on surface pro-
+tein genes. J Clin Microbiol 2002;40:1994-
+2001.
+63. Adiri RS, Gophna U, and Ron EZ.
+Multilocus sequence typing (MLST) of
+Escherichia coli O78 strains. FEMS
+Microbiol Lett 2003;222:199-203.
+64. Noller AC, McEllistrem MC, Stine OC, et
+al. Multilocus sequence typing reveals a
+lack of diversity among Escherichia coli
+O157:H7 isolates that are distinct by
+pulsed-field gel electrophoresis. J Clin
+Microbiol 2003;41:675-9.
+65. Kotetishvili M, Stine OC, Kreger A, Morris
+JG Jr, and Sulakvelidze A. Multilocus
+sequence typing for characterization of
+clinical and environmental Salmonella
+strains. J Clin Microbiol 2002;40:1626-35.
+66. Priest FG, Barker M, Baillie LWJ, Holmes
+EC, and Maiden MCJ. Population structure
+and evolution of the Bacillus cereus group.
+J Bacteriol 2004;186:7959-70.
+67. Maiden MC, Bygraves JA, Feil E, et al.
+Multilocus sequence typing: a portable
+approach to the identification of clones
+within populations of pathogenic microor-
+ganisms. Proc Natl Acad Sci USA
+1998;95:3140-5.
+68. Barker M, Thakker B, and Priest FG.
+Multilocus sequence typing reveals that
+Bacillus cereus strains isolated from clini-
+cal infections have distinct phylogenetic
+origins. FEMS Microbiol Lett
+2005;245:179-84.
+14 Kim et al: The most closely related Bacillus isolates to B. anthracis
+

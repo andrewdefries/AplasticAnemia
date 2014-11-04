@@ -1,0 +1,765 @@
+RESEARCH Open Access
+Fanconi anemia protein FANCD2 inhibits TRF1
+polyADP-ribosylation through tankyrase1-dependent
+manner
+Alex Lyakhovich1,2†
+, Maria Jose Ramirez1,3†
+, Andres Castellanos1
+, Maria Castella1,3,4
+, Amanda M Simons5
+,
+Jeffrey D Parvin5,6
+, Jordi Surralles1,3*
+Abstract
+Background: Fanconi anemia (FA) is a rare autosomal recessive syndrome characterized by developmental
+abnormalities, progressive bone marrow failure, and predisposition to cancer. The key FA protein FANCD2 crosstalks
+with members of DNA damage and repair pathways that also play a role at telomeres. Therefore, we investigated
+whether FANCD2 has a similar involvement at telomeres.
+Results: We reveal that FANCD2 may perform a novel function separate to the FANCD2/BRCA pathway. This
+function includes FANCD2 interaction with one of the telomere components, the PARP family member tankyrase-1.
+Moreover, FANCD2 inhibits tankyrase-1 activity in vitro. In turn, FANCD2 deficiency increases the polyADP-
+ribosylation of telomere binding factor TRF1.
+Conclusions: FANCD2 binding and inhibiting tankyrase-1PARsylation at telomeres may provide an additional step
+within the FA pathway for the regulation of genomic integrity.
+Background
+Fanconi anemia (FA) is a rare recessive disorder asso-
+ciated with chromosomal fragility, aplastic anemia, con-
+genital abnormalities and a predisposition to cancer
+[1,2]. Cells from FA patients exhibit hypersensitivity to
+DNA cross-linking agents suggesting the role of FA pro-
+teins in the repair of damaged DNA [3,4]. Currently, at
+least 14 FA genes are known to exist, each of them
+representing a different FA subtype [5-7]. Although they
+have very few similarities, the encoded FA proteins
+cooperate in a common FA/BRCA pathway by forming
+several complexes, where the activation of a key FA pro-
+tein FANCD2 (and FANCI) seems to orchestrate the
+cascade of events in response to DNA damage [8,9].
+FA proteins crosstalk with several proteins involved in
+both DNA damage response and telomere regulation
+[10-13]. Telomeres, the ends of chromosomes, consist
+of TTAGGG tandem repeats (in mammals) forming a
+T-loop structure and a 3’ G-rich single-stranded over-
+hang that invades the telomeric tracts forming a D loop
+[14-18]. In most human somatic cells telomeres undergo
+shortening with each cycle of cell division due to what is
+known as the “end-replication problem” [19,20]. To pre-
+vent such shortening, a specialized enzyme called telo-
+merase serves to maintain telomere length [21]. In
+normally dividing somatic cells telomerase is insuffi-
+ciently active to compensate for telomere shortening
+and telomeres undergo attrition with each round of cell
+division. In turn, telomeres in cancer cells are main-
+tained either by the activation of telomerase or by the
+homologous recombination mechanism known as alter-
+native lengthening of telomeres (ALT) [22-24].
+Telomeres are capped by a complex of proteins called
+shelterin, which contains TRF1, TRF2, POT1 and asso-
+ciated proteins including TIN2, TPP1, Rap1 and poly-
+(ADP-ribose)-polymerase enzymes tankyrase 1 and 2
+(TNKS1/2) [23,25]. TIN2 negatively regulates telomere
+length by changing the telomeric DNA structure, stabiliz-
+ing the T-loop and possibly limiting DNA accessibility to
+telomerase [26]. Conversely, TNKS1 positively regulates
+telomere length by the polyADP-ribosylation (PARsylation)
+* Correspondence: jordi.surralles@uab.es
+† Contributed equally
+1
+Department of Genetics and Microbiology, Universitat Autonoma de
+Barcelona, Edifici C, Bellaterra, Barcelona 08193, Spain
+Full list of author information is available at the end of the article
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+GENOME INTEGRITY
+© 2011 Lyakhovich et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+of TRF1 thus preventing TRF1 from binding to telomeres
+[26,27]. Similar regulation occurs through the communica-
+tion of TRF1 and POT1 [28,29]. The fact that (i) many tel-
+omere-localized and FA proteins were found among DNA
+repair proteins [30,31]; (ii) FANCD2 was shown to bind
+Holliday junction DNA, an intermediate of homologous
+recombination and stalled replication forks [32]; and
+(iii) FA proteins are involved in the ALT mechanism of tel-
+omere maintenance [33,34] prompted us to test for the pos-
+sible engagement of FANCD2 in telomeres of normal cells.
+Here we demonstrate that FANCD2 interacts both
+with telomeric DNA and TNKS1 in vitro. Moreover,
+FANCD2 inhibits TNKS1 PARsylation activity and
+TNKS1-mediated TRF1 PARsylation. Such a novel func-
+tion of FANCD2 may provide an additional step for
+maintaining genomic stability.
+Results
+FANCD2 binds to telomeric DNA in vitro
+We attempted to find a novel role for FANCD2 at telo-
+meres and tested whether FANCD2 might bind to telo-
+meric DNA sequence in vitro. The footprint analyses
+demonstrate that FANCD2 has preferential binding to a
+DNA template that includes tandem of 48 bp telomere
+sequences (Figure 1A, lanes 5-9). This binding seems to be
+telomere sequence-specific since adding myelin protein
+(Figure 1A, lanes 3,4) or using a DNA template containing
+nonTelDNA of the same length (Figure 1A, Lanes 10-12)
+revealed no FANCD2-mediated protection against DNaseI.
+These results were further validated by the electrophoretic
+mobility shift assay (EMSA). We have shown that the
+incubation of 40 bp telomere DNA with recombinant full
+length FANCD2 protein resulted in the formation of a
+protein-DNA complex on a native gel (Figure 1B). This
+complex was completed by increasing amounts of cold
+DNA, indicating the specificity of the telomere binding
+(Figure 1B, lanes 1-4). We further verified the presence of
+FANCD2 in DNA-protein complexes formed in EMSA by
+direct Western blot analysis (Figure 2) and confirmed the
+presence of FANCD2 in complexes formed with FANCD2
+proficient (Figure 2B, lanes 1-3), but not with FANCD2
+deficient cellular extracts (Figure 2B, lanes 4-6). The for-
+mation of FANCD2-32P-TelDNA complexes in native
+conditions was disrupted by the addition of anti-FANCD2
+mAb probably due to the occlusion of FANCD2 and the
+fact that it competed for binding with the telomere DNA
+template (Figure 2B, lanes 2,3,5,6) but not with random
+DNA sequence (data not shown). More importantly, the
+mobility of 32P-TelDNA bound protein complexes on
+autoradiogram corresponds to the mobility of the
+FANCD2 signals as revealed by immunoblot analyses of
+the same replica gel (Figure 2C). We also demonstrated
+the presence of FANCD2 at telomeres in alternatively
+lengthening telomere (ALT) cells but not in primary cells,
+by performing ChIP assay (data not shown).
+FANCD2 binds to TNKS1
+To interpret the results of FANCD2 involvement at telo-
+meres, we have screened some telomere-associated pro-
+teins in HeLa cells by performing immunoprecipitation
+experiments and detected that PARP-family member
+tankyrase 1 (TNKS1), but not tankyrase 2 (TNKS2),
+Figure 1 FANCD2 binds to telomere DNA sequence. (A)
+FANCD2-dependent DNase I protection assay show degradation of
+32P-labeled 600 bp DNA containing either two 48 bp inserts of
+tandem telomeric sequences (lanes 1-9) or nonTelDNA of the same
+length (lanes 10-12) upon treatment with increased concentrations
+of DNaseI (lanes 2-11), as described in Experimental procedures.
+Myelin binding protein (MBP) was added as a non-FANCD2
+negative control; (B) Mobility shift assay show that incubation of
+[32P]-labeled 40 bp telomere DNA with recombinant full length
+FANCD2 protein resulted in protein-DNA complex formation (lane1)
+identified on native gels. This complex was competed by increasing
+amounts of cold DNA, indicating the specificity of the telomere
+binding (lanes 2-4). Please note, that DNAse concentrations are
+comparable in lanes 3,7,10 and 4,8,11.
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 2 of 10
+binds to FANCD2 (Figure 3A). We then confirmed, by
+means of an in vitro pull-down assay, that TNKS1 binds
+to FANCD2. For that part, His-tagged TNKS1
+was immobilized on a resin followed by consecutive
+washing steps and binding with recombinant FANCD2
+(Figure 3B) or heat-inactivated FANCD2 protein
+(Figure 3C). Resin complexes were washed (lanes W1-3)
+and eluted several times (Figure 3B, lanes E1-E5). Frac-
+tions of equal volumes were loaded onto SDS PAGE
+followed by Western blot analyses with anti-FANCD2.
+Almost 84% of FANCD2 protein (vs. 9% for heat-inacti-
+vated FANCD2) was retained with immobilized TNKS1
+pellets, as calculated by comparing densitometry signals
+from the input to those revealed from elution fractions.
+The presence of single- and double-stranded telomeric
+and nontelomeric DNA oligonucleotides did not signifi-
+cantly affect this interaction (data not shown).
+FANCD2 inhibits TNKS1 and TRF1 PARsylation
+Using TNKS1 autoPARsylates [28], we then performed an
+in vitro PARP assay in the presence or absence of
+FANCD2. Interestingly, we observed the FANCD2-
+dependent inhibition of TNKS1 autoPARsylation
+(Figure 4A, lanes 5-7, upper panel). A similar effect was
+observed when using the PARP inhibitor 3AB (lane 4). As
+a control, we showed that neither myelin (lanes 2,3) or
+heat-inactivated FANCD2 protein (lanes 8,9) affected
+TNKS1 autoPARsylation. Similarly, we recognized low
+levels of PARsylation in TNKS1 immunocomplexes
+obtained after the immunoprecipitation of FANCD2-
+deficient PD20 cell lysates as compared with the lysates
+from the PD20 cells corrected with non-ubiquitinable
+mutant (K561R) or wild-type FANCD2(data not shown)
+suggesting that FANCD2-TNKS1 interaction and inhibi-
+tion of TNKS1 autoPARsylation is not dependent on
+FANCD2 monoubiquitinylation.
+Since the main known cellular function of TNKS1 is
+PARsylation of the telomere repeat binding factor TRF1
+that results in detaching TRF1 from telomere complexes
+[26,27], we performed an in vitro TRF1/TNKS1 PARP
+assay in the presence of recombinant FANCD2. Similar
+to the above data, we observed the FANCD2-dependent
+inhibition of TRF1 PARsylation (Figure 4B). The pre-
+sence of double-stranded telomeric DNA only slightly
+increased the inhibition of TRF1 PARsylation (data not
+shown). Thus, our results suggest that FANCD2 inhibits
+the autoPARsylation of TNKS1 and PARsylation of
+TRF1 in vitro.
+FANCD2 affects TRF1 binding to telomeric DNA
+Previous results showed that the ADP-ribosylation of
+TRF1 by TNKS1 releases TRF1 from telomeres and pro-
+motes telomere elongation [27]. PARsylated TRF1 dissoci-
+ates from telomeres and becomes degraded via the
+proteasomal pathway [35]. Deprotected telomeres become
+better substrates for telomerase-mediated DNA extension
+[36]. Since FANCD2 inhibits TNKS1 activity in vitro, we
+tested whether TRF1 PARsylation or TNKS1-TRF1 com-
+plex formation is affected by FANCD2. We performed
+multiple immunoprecipitation studies and showed that the
+formation of the TRF1-TNKS1 complex is impaired in
+FANCD2-/- cells (Figure 5A,B). This could be due to
+Figure 2 Binding of FANCD2 and TelDNA. (A) Experimental scheme showing specific binding of recombinant FANCD2 protein from cell
+extracts with TelDNA oligoduplexes. Duplex oligonucleotides containing TelDNA sequence were [32P]-end labeled and incubated with 100 μg of
+PD20 or PD20cor cell extracts. Complexes were separated and either subjected to autoradiography (B) or transferred to nitrocellulose for Western
+blot analysis with anti-FANCD2 antibody (C). The position of specific complexes formed with 32P-TelDNA and proteins from FANCD2-/- (PD20) or
+FANCD2-/- corrected (PD20cor) cell extracts separated on native gel matches the FANCD2 signals from the corresponding immunoblot. These
+specific complexes are not seen in PD20 samples.
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 3 of 10
+inhibition of the TNKS1-dependent degradation of TRF1.
+In order to test these hypotheses, we immunoprecipitated
+TRF1 in the above cell lysates and probed the correspond-
+ing immunoblot with anti-PAR antibodies. We recognized
+that in immunopellets obtained from PD20 (FANCD2-/-)
+cell extracts, TRF1 is more PARsylated when compared to
+PD20 corrected cells, suggesting that the presence of
+FANCD2 impairs TRF1 PARsylation (Figure 5D).
+Since both the FANCD2-mediated inhibition of
+TNKS1 and TRF1 PARsylation may disturb TRF1 bind-
+ing to telomeres, we hypothesized that FANCD2 defi-
+cient cells might have altered telomere structure, length
+or predisposition to recombination. Although telomere
+length was not affected by FANCD2 deficiency as mea-
+sured by Southern blot (additional file 1), Q-FISH (addi-
+tional file 2), or Flow-FISH (additional file 3) analyses,
+we observed telomeric extrachromosomal circular struc-
+tures (ECS) in PD20 cells, but not in the corrected
+counterparts, by performing 2D Southern blot with a
+telomeric probe (Figure 6). We then attempted to com-
+pare telomere recombination in these cells and analyzed
+telomeric sister chromatid exchanges (T-SCE) using the
+CO-FISH[0] technique with double color telomeric PNA
+probes in PD20, PD20 corrected, primary FA-D2 and
+corrected cells. We did not find any statistically signifi-
+cant differences (additional file 4) in the amount of
+T-SCE between FANCD2 deficient or corrected cells
+indicating that the occurrence of ECS is unrelated to
+telomeric recombination between sister chromatids.
+Discussion
+While normal FANCD2 activity is evident for maintain-
+ing living functions of any cell, it is yet unclear whether
+the key FA protein FANCD2 may possess biochemical
+properties other than crosstalk with the FA members
+upon resolving stalled replication forks. Our current
+study suggests that FANCD2 may serve a separate role,
+separate to FA-complex-mediated FANCD2/FANCI
+monoubiquitinylation. This role includes the inhibition
+of tankyrase 1-dependent TRF1 PARsylation which, in
+turn, protects telomeric DNA. We suggest that under
+normal conditions, FANCD2 safeguards genomic integ-
+rity both by inhibiting TNKS1-mediated TRF1 PARsyla-
+tion and by protecting telomeric DNA through TRF1.
+TRF1 binding to telomeric DNA is essential for telo-
+mere function, whereas PARsylation of TRF1 reduces
+TRF1 affinity for telomeric DNA.
+Recent studies showed that overexpression of TNKS1 in
+normal human cells results in the downregulation of
+TRF1, but has no effect on telomere length [37]. In addi-
+tion, inhibition of TRF1 in normal human (IMR90) cells
+using TRF1-dominant negative allele had no effect on telo-
+mere length [31]. It was reported previously that the
+knockdown of FANCD2 rapidly causes telomere dysfunc-
+tion in cells that rely on ALT mechanism [33]. Studies by
+Fan et al. suggest telomeric localization of FANCD2 in
+ALT cells and that the transient depletion of FANCD2 or
+FANCA results in a loss of detectable telomeres in ALT,
+but not in telomerase-positive cells [34]. Some previous
+works on telomerase-mediated telomere lengthening and
+generation of ECS by telomere trimming upon inhibition
+of TRF1 [38] incited us to examine possible changes in tel-
+omere length in our model. However, measurements of
+telomere length in siRNA FANCD2 depleted primary
+fibroblasts either using Southern blot analyses of genomic
+DNA (additional file 1), Q-FISH analyses in cells’
+Figure 3 FANCD2 binding to TNKS1. (A) HeLa cell extracts were
+immunoprecipitated either with anti-tankyrase 1 (TNKS1) or anti-
+tankyrase 2 (TNKS2) antibody followed by Western blotting and
+probing with anti-FANCD2 antibodies. In parallel, same amount of
+cell lysate was immunoproecipitated with anti-FANCD2 antibodies
+and corresponding Western blot was probed with TNKS1 antibodies.
+Heavy and light IgG chains are depicted by arrows to show equal
+loading. (B) In-vitro pull-down assay showing binding of
+recombinant FANCD2 protein to TNKS1 was performed with 5 ug of
+His-tagged TNKS1 (INP, input of half TNKS1 amount used for
+binding) immobilized onto resin followed by incubation either with
+recombinant (B) or with heat-inactivated FANCD2 (C). The beads
+were washed with TNE buffer (fractions W1-3) followed by several
+elution steps (E1-5). Corresponding aliquots from each step (1/4
+volume each) were subjected to Western blot analyses followed by
+probing with anti-FANCD2 antibodies. Densitometric measurement
+of the Western blot signals was performed by TotaLab2.0 software
+and corresponding intensities from the all fractions versus input
+were calculated as percentages of retained proteins.
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 4 of 10
+metaphase (additional file 2), or Flow-FISH technique in
+interphase (additional file 3) did not reveal any significant
+changes. We can not disregard the fact that this short per-
+iod of the transient depletion of FANCD2 by siRNA may
+not be sufficient to detect alterations in telomere length.
+Moreover, several other studies demonstrated telomere
+attrition in the FA cells of an upstream FA subtype
+[11,39-41]. For instance, telomere length was shown to be
+shorter in 54 FA patient samples, compared to 51 controls
+[39]. Similarly, a correlation between severe aplastic
+Figure 4 FANCD2 inhibits tankyrase-1 PARsylation. (A) TNKS1 (3 ug, lanes 1-9) was mixed with increasing amounts of myelin (lanes 2,3),
+FANCD2 (5 ug, lanes 5-7, 10-12), heat-inactivated FANCD2 (5 ug, lanes 8,9,13) in the presence of [32
+P]NAD+
+(lanes 1-13) and PARP inhibitor 3AB
+(1 mM, lane 4). After incubation in a PARP buffer, all the reactions were stopped and resulting samples were subjected to SDS-PAGE followed
+either by autoradiography of the membranes or detected with corresponding antibodies. as described in Experimental section; (B) FANCD2
+inhibits tankyrase-1-dependent TRF1 PARsylation. TRF1 protein (3 ug) was added to the reaction mixture as in A. All the reaction products were
+resolved into SDS PAGE and subjected transfer into nitrocellulose membrane in the buffer containing sodium vanadate. Corresponding
+membranes were either autoradiographed or probed with anti-FANCD2, anti-TNKS1 or anti-TRF1 antibodies.
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 5 of 10
+anemia and the individual annual telomere-shortening rate
+in peripheral blood mononuclear cells was observed in 71
+FA patients [42]. These facts may suggest that telomere
+shortening may occur in some upstream FA subgroups as
+a consequence of proliferative stress. The role of FANCD2
+binding with TNKS1 and telomeric DNA is still quite
+intriguing. On the one hand, such binding may affect telo-
+mere maintenance by protecting telomeric DNA, in a
+similar manner to the role of shelterin. On the other hand,
+FANCD2 functions as a modulator of TNKS1 activity
+which, in turn, may affect telomere maintenance.
+Based on our experiments aimed at justifying the
+direct link of FANCD2 to changes in telomere length
+we may conclude that the presence of FANCD2 may
+only affect telomere stability, but not the length. More-
+over, our studies on a variety of human cells do not
+exclude that FANCD2-dependent telomere alteration
+also involves other aspects of FANCD2 function. Those
+aspects could include the role of FANCD2 at replication
+fork or the recently proposed link between FANCD2
+and oxidative damage [43]. Consequently, the TRF1
+removal described here can be one of the possible
+effects of FANCD2 in telomere biology. Another inter-
+pretation could be that FANCD2 stabilizes the t-loop
+structure. Although our data do not demonstrate this
+possibility, they are highly suggestive due to the follow-
+ing reasons: (i) homologous recombination at t-loop
+leads to an extra-chromosomal circle in the presence of
+TRF2 deltaB [4]; (ii) FANCD2 binds Holliday junction,
+which might contribute to t-loop stabilization [32,44],
+(Giraud-Panis and Gilson, personal communication);
+Figure 6 FANCD2 deficiency leads to formation of
+extrachromosomal telomeric structures. 2D Southern blot
+analyses of telomeric DNA signals of PD20 (A) and PD20 corrected
+cells (B). Scheme representing different types of extrachromosomal
+DNA resolved on two dimensional gel electrophoresis (C).
+Densitometric analyses of linear and circular extrachromosomal
+telomeric structures (D).
+Figure 5 Presence of FANCD2 rescues TRF1 from PARsylation by impairing TNKS1-TRF1 complex formation. (A) Immunoprecipitation of
+PD20 or PD20cor cell extracts with TRF1 (A,D) or TNKS1(B) antibodies or non-immune control (b-actin) were performed as in Materials and
+Methods and corresponding immunopellets were resolved on 4-12%SDS PAGE followed by Western blotting and probing with TNKS1 (A) or
+TRF1 antibodies (B). FANCD2 levels in the same cell extracts is shown on Western blot (C). In parallel, immunoblots with TRF1 immunopellets
+were probed with anti-PAR antibodies (D). Corresponding signals of TNKS1, TRF1 or PAR-TRF1 proteins were digitized from the scanned blots
+and the relative percentages were included on the right side of each immunoblot panel as bar diagrams.
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 6 of 10
+(iii) TRF1 contributes to t-loop formation [31]. Overall,
+our finding of a novel interaction of FANCD2 may con-
+tribute to understanding the differences between down-
+stream FA-D2 versus upstream FA groups.
+Conclusions
+FANCD2 interacts both with telomeric DNA and with
+telomeric protein TNKS1 in vitro. Moreover, FANCD2
+inhibits TNKS1 autoPARsylation and TNKS1-dependent
+TRF1 PARsylation thus affecting stability but not the
+length of telomeres. This novel interaction of FANCD2
+may provide an additional safeguard role to secure gen-
+ome integrity.
+Methods
+Cell Lines and Treatment
+The following cell lines were used in this study: human
+transformed fibroblasts PD20 (FANCD2-/-); PD20 cor.
+(PD20 retrovirally corrected with pMMp-FANCD2
+cDNA); PD20 transduced with pMMp-FANCD2/K561R
+MRC5; HeLa and primary fibroblasts (yoli) All the cell
+lines were cultured as described previously [45]. Impor-
+tantly, PD20 cells and variants are SV40 transformed
+fibroblast and they are telomerase positive, as studied by
+both RT-PCR of hTETR and with the TRAP assay. 3AB
+PARP inhibitor (Sigma) was used at 3 mM concentra-
+tion. Treatment with PARP inhibitor at this concentra-
+tion did not significantly affect the cell cycle, as
+measured by flow cytometry (data not shown). The cell
+cycle was verified by flow cytometry and then analyzed
+using BD PharMingen FACScan and CellQuest software
+exactly as described earlier [45].
+Preparation of Human Cell Lysates
+Cells were washed with ice-cold PBS and resuspended in
+the buffer consisting of 20 mM HEPES (pH 7.9), 420
+mM KCl, 25% glycerol, 0.1 mM EDTA, 5 mM MgCl2,
+0.2% Nonidet P-40, 1 mM dithiothreitol, and a 1:40
+volume of protease and phosphatase inhibitor mixture
+(Sigma) on ice for 30 min. After centrifugation at 12,000
+g for 10 min at 4°C, the supernatant was collected as
+the total cell lysate. Separation on nuclear and cytoplas-
+mic fractions has been performed as described in
+Bogliolo et al. [45]. PBS-washed nuclear cell pellets were
+further resuspended in buffer containing 5 mM MgCl2/
+PBS, 10 mM HEPES (pH 7.9), 10 mM KCl, 20% gly-
+cerol, 1 mM dithiothreitol, and a protease inhibitor mix-
+ture (Sigma). The pellets were homogenized on ice by
+sonication, clarified by centrifugation and stored at
+-20°C for further experiments.
+DNA Templates and Foot-Print analyses
+Telomere DNA for footprint analysis was constructed
+by modifying telomere sequences obtained from
+Dr. Giraud-Panis [44] by cutting out the right-size frag-
+ment from puc19-based pTelo2 and amplifying it by
+PCR following digestion with TspRI, gel purification and
+subsequent ligation with a non-telomeric coding 31-
+mere DNA linker. After subcloning to pML20-42 plas-
+mid, 600 bp DNA strands contains two telomere tan-
+dem repeats of 48 bp each: (TTAGGG)8AACA
+TCACGTACGTACGTACGTTCAAGCACT(TTAGGG)
+8 and non-telomere linker. The complete templates
+were gel purified and used for assay. To obtain the ran-
+dom-sequence of non-telomeric DNA templates, two
+single-stranded DNA fragments were synthesized and
+subcloned to pML20-42. One DNA fragment was [32P]-
+5’ end-labeled with T4 kinase. After annealing, the frag-
+ments were extended with Klenow(exo-) DNA polymer-
+ase and PCR amplified, followed by digestion with
+TspRI restriction enzyme and purified. To obtain the
+nonTelDNA for binding assays, same-length plasmid
+having nonTelDNA random sequence was used. For in-
+vitro pull-down assay, (TTAGGG)7 templates were
+synthesized and used either as single stranded DNA or
+annealed with corresponding sequences to obtain double
+stranded DNA. Consequently, ssDNA and dsDNA oligo-
+nucleotides of the same length with nonTelDNA
+random sequences have been utilized as controls. Foot-
+print analyses were performed as described in earlier
+study [46].
+Preparation of Proteins
+Recombinant full-length wild-type FANCD2 was
+expressed using baculovirus in Sf9 insect. The encoded
+FA protein contained at the amino terminus a zz
+domain, for purification on IgG-Sepharose. Tagged
+genes were cloned into a modified pFastBac vector
+(Invitrogen) and processed to generate recombinant
+baculovirus and used to infect Sf9 cells following purifi-
+cation and TEV cleavage procedure exactly as described
+earlier [32]. TRF1 protein obtained from Dr. Chapman
+(MRC Laboratory of Molecular Biology, Cambridge, UK)
+was produced from hTRF1 expressed in E. coli following
+necessary purification steps. Recombinant tankyrase pro-
+tein obtained from Dr. Smith was purified from the
+baculovirus-derived DH10Bac E. coli plasmid designed
+as a NH2-terminally (His)6-tagged version of human
+tankyrase in the expression vector pFastBac HTb (Gibco
+BRL) following expression in SF9 insect cells exactly as
+described before [28].
+Electrophoretic mobility shift assay (EMSA)
+EMSA was performed as described in Promega protocol
+(http://www.promega.com/guides/protein.interactions_-
+guide/chap7.pdf). Briefly, aliquots of FANCD2 recombi-
+nant protein or cell extracts were incubated with the
+DNA sequence that has been P32-labeled and the DNA:
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 7 of 10
+protein complexes, with or without competitors (protein
+or specific antibody) were run on a non-denaturing
+polyacrylamide gel. After electrophoresis, the experi-
+mental reaction was compared to a control reaction that
+contains only the labeled DNA or to the signals of cor-
+responding immunoblot done in parallel.
+Immunoprecipitation and Western blot
+For Western blot procedure cell lysates were eluted by
+boiling in SDS gel sample buffer and proteins were
+separated by SDS-PAGE and immunoblotted onto nylon
+membrane following incubation with corresponding
+antibodies. Protein bands were visualized with anti-
+rabbit or anti-mouse IgG coupled to horseradish peroxi-
+dase using the ECL kit (Amersham, Arlington Heights,
+IL, USA).
+In vitro binding and pull-down assay
+For his pull-down assays, 5 ug of tankyrase 1 fusion pro-
+tein was incubated for 1 h at 4°C with Co-sepharose
+(Pharmacia) in TNE buffer (10 mM Tris-HCl [pH 7.8],
+1% Nonidet P-40 [NP-40], 150 mM NaCl, and 1 mM
+EDTA). Recombinant or heat inactivated (HI) FANCD2
+(both at 5 ug) was added to the binding mixture either
+alone or in the presence of single- or double-stranded
+42 bp DNA oligonucleotides following incubation in
+TNE buffer for 30 min at 4°C. The beads were washed
+with TNE buffer 3 times and corresponding aliquots
+were subjected to Western blot analyses as described
+above (fractions W1-3). Elution was done with immida-
+zole (0.01-0.5 M). Corresponding fractions (E1-5) were
+collected and analysed by Western blot as above. For
+measurement of protein retention, scanned Western
+blots were analyzed by densitometry program (Tota-
+lab2.0) and the percentage of retained proteins in elu-
+tion fractions was calculated by comparing the signals
+from input fractions (2.5 ug of each protein).
+PARP assay
+Modified PARP activity assays were done with baculo-
+virus-derived TNKS1 essentially as described before
+[28,47]. Shortly, (His)6-tagged version of human tankyr-
+ase samples (3 ug) and/or FANCD2 (0, 0.5, 3 or 8 ug)
+were incubated for 30 min at 25°C in PARP buffer 50 ul
+of buffer containing 50 mM tris-HCl (pH 8.0), 4 mM
+MgCl2, 0.2 mM dithiothreitol (DTT), 1.3. M [32P]
+NAD+ (4 uCi). Reactions were stopped by addition of
+20% trichloroacetic acid (TCA). Acid-insoluble proteins
+were collected by centrifugation, rinsed in 5% TCA, sus-
+pended in Laemmli loading buffer, and fractionated by
+SDS-polyacrylamide gel electrophoresis (4-20% SDS-
+PAGE). Proteins were visualized by Western blotting
+with corresponding antibodies and/or autoradiography
+of the membranes. As controls, myeling or heat-
+inactivated FANCD2 (obtained by boiling FANCD2
+samples for 20 min) were used. PARP inhibitor 3AB was
+added where needed.
+Additional material
+Additional file 1: Southern blot analyses of telomere length upon
+FANCD2 depletion. (A) Primary fibroblasts (PR) were consecutively
+depleted from FANCD2 by siRNA for 5 days (PR+siRNA) or treated with
+scrambled RNA (PR+scRNA) and the telomere length was measured by
+Southern Blot analyses probed with Telomere probe as described in the
+manufacturer manual from Roche. Low (Tel Con Low), high (Tel Con
+High) control telomeric DNAs (Roche) or DNA extracted from mouse
+fibroblast (Tel Con M) or HeLa cells at 2 ug or 5 ug were applied
+alongside with the PR probes. (B) Telomere length was measured by
+computer program (Roche) as the mean of the maximum intensities.
+Additional file 2: Q-FISH analyses of telomere length upon FANCD2
+depletion. Human primary fibroblasts (control) were consecutively
+depleted from FANCD2 by siRNA for 5 days (FANCD2 siRNA) or treated
+with scrambled RNA (scRNA) and the telomere length was measured by
+Q-FISH analyses as described in Slijepcevic [48]. Mann-Whitney test was
+applied to interpret the significance of the data and corresponding P
+values are depicted at the bottom of the figures.
+Additional file 3: Flow-FISH analyses of telomere length upon
+FANCD2 depletion. Human primary fibroblasts (control) were
+consecutively depleted from FANCD2 by siRNA for 5 days (FANCD2
+siRNA) or treated with scrambled RNA (scRNA) and the level of FANCD2
+was tested either by Western blot (A) or by immunofluorescence (B,
+green signals). Corresponding fractions were measured for telomere
+length by Flow-FISH analyses as described in Baerlocher et al.[49].
+Additional file 4: Telomere recombination in FANCD2 deficient cells.
+FANCD2-/- or FANCD2-/- corrected transformed (left part) or primary
+(right part) fibroblasts were assayed for telomeric sister chromatid
+exchanges (T-SCE) and the relative number of T-SCE/chromosome was
+were measured by CO-FISH[0] technique with double color telomeric
+PNA probes followed by plotting on the diagram.
+Acknowledgements
+We are grateful to Dr. Susan Smith (The Kimmel Center for Biology and
+Medicine of the Skirball Institute, New York University School of Medicine)
+for providing us with recombinant tankyrase 1, Dr. Giraud-Panis (CNRS,
+Lyon), Dr. Chapman (MRC Laboratory of Molecular Biology, Cambridge, UK)
+for sharing materials. We would like to thank Dr. Eric Gilson (Ecole Normale
+Superieure de Lyon, France) for valuable comments. This work was
+supported by the Generalitat de Catalunya (SGR0489-2009), the La Caixa
+Fundation Oncology Program (BM05-67-0), Genoma Espana, the Spanish
+Ministry of Science and Innovation (projects FIS PI06-1099, CIBER-ER CB06/
+07/0023, SAF2006-3440 and SAF2009-11936), the Commission of the
+European Union (project RISC-RAD FI6R-CT-2003-508842), and the European
+Regional Development Funds. JPD laboratory is funded by the National
+Institutes of Health grant CA090281.
+Author details
+1
+Department of Genetics and Microbiology, Universitat Autonoma de
+Barcelona, Edifici C, Bellaterra, Barcelona 08193, Spain. 2
+Cancer and Stem Cell
+Research Program, Duke-NUS Graduate Medical School, College Rd. 6,
+169857, Singapore. 3
+Centre for Biomedical Network Research on Rare
+Diseases (CIBERER), Instituto de Salud Carlos III, Spain. 4
+Fred Hutchinson
+Cancer Research Center, Seattle, USA. 5
+Department of Pathology, Harvard
+Medical School and Brigham and Women’s Hospital, Boston, MA, USA.
+6
+Department of Biomedical Informatics, The Ohio State University, 460 W.
+12th Avenue, Columbus, OH, USA.
+Authors’ contributions
+Authors’ contributions: Please indicate that all authors read and approved
+the final manuscript. AL designed the work, performed experiments and
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 8 of 10
+wrote the manuscript. MJS, AC, MC, AMS performed experiments and
+interpreted the data. JP interpreted the data and participated in manuscript
+drafting. JS interpreted the data, designed the experimental strategy,
+participated in manuscript drafting and obtained funds for making this
+study.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 3 November 2010 Accepted: 12 February 2011
+Published: 12 February 2011
+References
+1. Gurtan AM, D’Andrea AD: Dedicated to the core: understanding the
+Fanconi anemia complex. DNA Repair (Amst) 2006, 5:1119-1125.
+2. Mathew CG: Fanconi anaemia genes and susceptibility to cancer.
+Oncogene 2006, 25:5875-5884.
+3. Taniguchi T, D’Andrea AD: Molecular pathogenesis of Fanconi anemia:
+recent progress. Blood 2006, 107:4223-4233.
+4. Wang RC, Smogorzewska A, de Lange T: Homologous recombination
+generates T-loop-sized deletions at human telomeres. Cell 2004,
+119:355-368.
+5. Wang W: Emergence of a DNA-damage response network consisting of
+Fanconi anaemia and BRCA proteins. Nat Rev Genet 2007, 8:735-748.
+6. Patel KJ, Joenje H: Fanconi anemia and DNA replication repair. DNA
+Repair (Amst) 2007, 6:885-890.
+7. Moldovan GL, D’Andrea AD: How the fanconi anemia pathway guards the
+genome. Annu Rev Genet 2009, 43:223-249.
+8. Garcia-Higuera I, Taniguchi T, Ganesan S, Meyn MS, Timmers C, Hejna J,
+Grompe M, D’Andrea AD: Interaction of the Fanconi anemia proteins and
+BRCA1 in a common pathway. Mol Cell 2001, 7:249-262.
+9. Huang TT, D’Andrea AD: Regulation of DNA repair by ubiquitylation. Nat
+Rev Mol Cell Biol 2006, 7:323-334.
+10. Surralles J, Jackson SP, Jasin M, Kastan MB, West SC, Joenje H: Molecular
+cross talk among chromosome fragility syndromes. Genes Dev 2004,
+18:1359-1370.
+11. Callen E, Surralles J: Telomere dysfunction in genome instability
+syndromes. Mutat Res 2004, 567:85-104.
+12. Dokal I: Fanconi’s anaemia and related bone marrow failure syndromes.
+Br Med Bull 2006, 77-78, 37-53.
+13. Pang Q, Andreassen PR: Fanconi anemia proteins and endogenous
+stresses. Mutat Res 2009, 668:42-53.
+14. Moyzis RK, Buckingham JM, Cram LS, Dani M, Deaven LL, Jones MD,
+Meyne J, Ratliff RL, Wu JR: A highly conserved repetitive DNA sequence,
+(TTAGGG)n, present at the telomeres of human chromosomes. Proc Natl
+Acad Sci USA 1988, 85:6622-6626.
+15. Griffith JD, Comeau L, Rosenfield S, Stansel RM, Bianchi A, Moss H, de
+Lange T: Mammalian telomeres end in a large duplex loop. Cell 1999,
+97:503-514.
+16. Greider CW: Telomeres do D-loop-T-loop. Cell 1999, 97:419-422.
+17. de Lange T: How telomeres solve the end-protection problem. Science
+2009, 326:948-952.
+18. Blasco MA: The epigenetic regulation of mammalian telomeres. Nat Rev
+Genet 2007, 8:299-309.
+19. Olovnikov AM: A theory of marginotomy. The incomplete copying of
+template margin in enzymic synthesis of polynucleotides and biological
+significance of the phenomenon. J Theor Biol 1973, 41:181-190.
+20. Watson JD: Origin of concatemeric T7 DNA. Nat New Biol 1972,
+239:197-201.
+21. Greider CW, Blackburn EH: The telomere terminal transferase of
+Tetrahymena is a ribonucleoprotein enzyme with two kinds of primer
+specificity. Cell 1987, 51:887-898.
+22. Muntoni A, Reddel RR: The first molecular details of ALT in human tumor
+cells. Hum Mol Genet 2005, 14:R191-196.
+23. De Lange T: Telomere-related genome instability in cancer. Cold Spring
+Harb Symp Quant Biol 2005, 70:197-204.
+24. Henson JD, Cao Y, Huschtscha LI, Chang AC, Au AY, Pickett HA,
+Reddel RR: DNA C-circles are specific and quantifiable markers of
+alternative-lengthening-of-telomeres activity. Nat Biotechnol 2009,
+27:1181-1185.
+25. Xin H, Liu D, Wan M, Safari A, Kim H, Sun W, O’Connor MS, Songyang Z:
+TPP1 is a homologue of ciliate TEBP-beta and interacts with POT1 to
+recruit telomerase. Nature 2007, 445:559-562.
+26. Kim SH, Kaminker P, Campisi J: TIN2, a new regulator of telomere length
+in human cells. Nat Genet 1999, 23:405-412.
+27. Smith S, de Lange T: Tankyrase promotes telomere elongation in human
+cells. Curr Biol 2000, 10:1299-1302.
+28. Smith S, Giriat I, Schmitt A, de Lange T: Tankyrase, a poly(ADP-ribose)
+polymerase at human telomeres. Science 1998, 282:1484-1487.
+29. Loayza D, De Lange T: POT1 as a terminal transducer of TRF1 telomere
+length control. Nature 2003, 423:1013-1018.
+30. Callen E, Samper E, Ramirez MJ, Creus A, Marcos R, Ortega JJ, Olive T,
+Badell I, Blasco MA, Surralles J: Breaks at telomeres and TRF2-independent
+end fusions in Fanconi anemia. Hum Mol Genet 2002, 11:439-444.
+31. Verdun RE, Karlseder J: Replication and protection of telomeres. Nature
+2007, 447:924-931.
+32. Park WH, Margossian S, Horwitz AA, Simons AM, D’Andrea AD, Parvin JD:
+Direct DNA binding activity of the Fanconi anemia D2 protein. J Biol
+Chem 2005, 280:23593-23598.
+33. Spardy N, Duensing A, Hoskins EE, Wells SI, Duensing S: HPV-16 E7 reveals
+a link between DNA replication stress, fanconi anemia D2 protein, and
+alternative lengthening of telomere-associated promyelocytic leukemia
+bodies. Cancer Res 2008, 68:9954-63.
+34. Fan Q, Zhang F, Barrett B, Ren K, Andreassen PR: A role for
+monoubiquitinated FANCD2 at telomeres in ALT cells. Nucleic Acids Res
+2009, 37:1740-1754.
+35. Chang W, Dynek JN, Smith S: TRF1 is degraded by ubiquitin-mediated
+proteolysis after release from telomeres. Genes Dev 2003, 17:1328-1333.
+36. Muramatsu Y, Tahara H, Ono T, Tsuruo T, Seimiya H: Telomere elongation
+by a mutant tankyrase 1 without TRF1 poly(ADP-ribosyl)ation. Exp Cell
+Res 2008, 314:1115-1124.
+37. Cook BD, Dynek JN, Chang W, Shostak G, Smith S: Role for the related
+poly(ADP-Ribose) polymerases tankyrase 1 and 2 at human telomeres.
+Mol Cell Biol 2002, 22:332-342.
+38. Leteurtre F, Li X, Guardiola P, Le Roux G, Sergere JC, Richard P, Carosella ED,
+Gluckman E: Accelerated telomere shortening and telomerase activation
+in Fanconi’s anaemia. Br J Haematol 1999, 105:883-893.
+39. Pickett HA, Cesare AJ, Johnston RL, Neumann AA, Reddel RR: Control of
+telomere length by a trimming mechanism that involves generation of
+t-circles. EMBO J 2009, 28:799-809.
+40. Hanson H, Mathew CG, Docherty Mackie Z, Ogilvie C: Telomere shortening
+in Fanconi anaemia demonstrated by a direct FISH approach. Cytogenet
+Cell Genet 2001, 93:203-206.
+41. Cabuy E, Newton C, Joksic G, Woodbine L, Koller B, Jeggo PA, Slijepcevic P:
+Accelerated telomere shortening and telomere abnormalities in
+radiosensitive cell lines. Radiat Res 2005, 164:53-62.
+42. Li X, Leteurtre F, Rocha V, Guardiola P, Berger R, Daniel MT, Noguera MH,
+Maarek O, Roux GL, de la Salmonière P, Richard P, Gluckman E: Abnormal
+telomere metabolism in Fanconi’s anaemia correlates with genomic
+instability and the probability of developing severe aplastic anaemia. Br
+J Haematol 2003, 120:836-45.
+43. Lyakhovich A, Surrallés J: Constitutive activation of caspase-3 and Poly
+ADP ribose polymerase cleavage in fanconi anemia cells. Mol Cancer Res
+2010, 8:46-56.
+44. Amiard S, Doudeau M, Pinte S, Poulet A, Lenain C, Faivre-Moskalenko C,
+Angelov D, Hug N, Vindigni A, Bouvet P, Paoletti J, Gilson E, Giraud-
+Panis MJ: A topological mechanism for TRF2-enhanced strand invasion.
+Nat Struct Mol Biol 2007, 14:147-154.
+45. Bogliolo M, Lyakhovich A, Callen E, Castella M, Cappelli E, Ramirez MJ,
+Creus A, Marcos R, Kalb R, Neveling K, Schindler D, Surralles J: Histone
+H2AX and Fanconi anemia FANCD2 function in the same pathway to
+maintain chromosome stability. EMBO J 2007, 26:1340-1351.
+46. Driscoll MD, Klinge CM, Hilf R, Bambara RA: Footprint analysis of estrogen
+receptor binding to adjacent estrogen response elements. J Steroid
+Biochem Mol Biol 1996, 58:45-61.
+47. Simonin F, Poch O, Delarue M, de Murcia G: Identification of potential
+active-site residues in the human poly(ADP-ribose) polymerase. J Biol
+Chem 1993, 268:8529-8535.
+48. Slijepcevic P: Telomere length measurement by Q-FISH. Methods Cell Sci
+2001, 23:17-22.
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 9 of 10
+49. Baerlocher GM, Vulto I, de Jong G, Lansdorp PM: Flow cytometry and FISH
+to measure the average length of telomeres. Nature Protocols 2006,
+1:2365-2376.
+doi:10.1186/2041-9414-2-4
+Cite this article as: Lyakhovich et al.: Fanconi anemia protein FANCD2
+inhibits TRF1 polyADP-ribosylation through tankyrase1-dependent manner.
+Genome Integrity 2011 2:4.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+Lyakhovich et al. Genome Integrity 2011, 2:4
+http://www.genomeintegrity.com/content/2/1/4
+Page 10 of 10
+

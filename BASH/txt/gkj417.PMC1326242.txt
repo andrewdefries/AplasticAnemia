@@ -1,0 +1,588 @@
+High incidence of rapid telomere loss
+in telomerase-deficient Caenorhabditis elegans
+Iris Cheung1,2
+, Michael Schertzer1
+, Ann Rose2
+and Peter M. Lansdorp1,3,
+*
+1
+Terry Fox Laboratory, BC Cancer Agency, Avenue, Vancouver, BC, Canada V5Z 1L3, 2
+Department of Medical
+Genetics, University of British Columbia, Vancouver, BC, Canada V6T 1Z3 and 3
+Department of Medicine,
+University of British Columbia, Vancouver, BC, Canada V5Z 4E3
+Received September 20, 2005; Revised and Accepted December 13, 2005
+ABSTRACT
+Telomerase is essential to maintain telomere length
+in most eukaryotes. Other functions for telomerase
+have been proposed but molecular mechanisms
+remain unclear. We studied Caenorhabditis elegans
+with a mutation in the trt-1 telomerase reverse tran-
+scriptase gene. Mutant animals showed a progressive
+decrease in brood size and typically failed to repro-
+duce after five generations. Using PCR analysis to
+measure the length of individual telomere repeat
+tracks on the left arm of chromosome V we observed
+that trt-1 mutants lost $125bp of telomeric DNA per
+generation. Chromosome fusions involving complex
+recombination reactions were observed in late gen-
+erations. Strikingly, trt-1 mutant animals displayed a
+high frequency of telomeres with many fewer repeats
+than average. Such outlying short telomeres were not
+observed in mrt-2 mutants displaying progressive
+telomere loss very similar to trt-1 mutants. We specu-
+late that, apart from maintaining the average telomere
+length, telomerase is required to prevent or repair
+sporadic telomere truncations that are unrelated to
+the typical ‘end-replication’ problems.
+INTRODUCTION
+A minimum number of repeats are required at every chromo-
+some end in order to form a proper telomere structure that
+prevents activation of a DNA damage response (1,2). In order
+to maintain telomere repeats most eukaryotes require the
+enzyme telomerase, which minimally consists of a RNA tem-
+plate and a reverse transcriptase. It has been proposed that
+telomerase has functions other than telomere length mainte-
+nance, such as telomere end protection and regulation of DNA
+damage responses (1,3–6). However, details of the molecular
+mechanisms involved in such functions are lacking.
+Various model organisms have been used to study the role
+of telomerase. In Saccharomyces cerevisiae, null mutations in
+any of the ﬁve genes, EST1, EST2, EST3, CDC13 and TLC1,
+result in progressive telomere shortening followed by senes-
+cence (7–11). Late generations of the telomerase-deﬁcient
+est1D strain showed elevated mutation rates and frequent
+chromosomal rearrangements and end-to-end fusions (12).
+Telomerase null mutants in multicellular organisms also dis-
+play progressive telomere shortening and genetic instability.
+In the Arabidopsis telomerase mutant (AtTERTÀ/À
+) develop-
+mental abnormalities and chromosomal instability became
+evident after ﬁve generations (13–15). Molecular character-
+ization revealed that most fusions in AtTERTÀ/À
+involve a
+telomeric end and a subtelomeric end (15). In addition, Ku-
+dependent non-homologous end joining (NHEJ) appears to be
+the major mechanism by which these fusions form.
+In mice, homozygous disruption in either the telomerase
+RNA template gene (mTERC) or the reverse transcriptase
+gene (mTERT) results in progressive telomere shortening
+and chromosomal instability in late generations (16–19).
+Recent studies have linked mutations in one allele of the
+hTERC or hTERT gene to bone marrow failure in humans
+(20–23). Of note, telomerase activity is typically readily
+detectable in the cultured lymphocytes from such patients,
+yet the telomere length in such cells is typically (very)
+short. These observations indicate that even modest (e.g.
+2-fold) reductions in telomerase levels are poorly tolerated
+in human cells (24). Compared with the absence of a disease
+phenotype in mice that are haplo-insufﬁcient for either
+mTERC (25) or mTERT (26), the marrow failure in patients
+with comparable genetic defects is remarkable. One possibility
+is that telomerase in humans has a role outside telomere length
+maintenance (6). Alternatively, the large differences in aver-
+age telomere length between inbred mice ($50 kb) and man
+($5 kb) could be important for these observed phenotypic
+*To whom correspondence should be addressed. Tel: +1 604 675 8135; Fax: +1 604 877 0712; Email: plansdor@bccrc.ca
+Present address:
+Iris Cheung, Department of Molecular Biology, Princeton University, Princeton, NJ 08544, USA
+Ó The Author 2006. Published by Oxford University Press. All rights reserved.
+The online version of this article has been published under an open access model. Users are entitled to use, reproduce, disseminate, or display the open access
+version of this article for non-commercial purposes provided that: the original authorship is properly and fully attributed; the Journal and Oxford University Press
+are attributed as the original place of publication with the correct citation details given; if an article is subsequently reproduced or disseminated not in its entirety but
+only in part or as a derivative work this must be clearly indicated. For commercial re-use, please contact journals.permissions@oxfordjournals.org
+96–103 Nucleic Acids Research, 2006, Vol. 34, No. 1
+doi:10.1093/nar/gkj417
+differences. In order to clarify these possibilities further stud-
+ies on the role of telomerase in multicellular organisms are
+needed.
+The putative reverse transcriptase component of
+Caenorhabditis elegans telomerase is encoded by trt-1 (27).
+Telomeric DNA in C.elegans consists of TTAGGC repeats
+and has been shown to span between 4 and 9 kb in the
+wild-type strain N2 (28). We have adapted previously
+the PCR-based technique STELA (single telomere length
+analysis) (29) to telomere length measurement in C.elegans
+(30). Using STELA, we show here that besides progressive
+telomere shortening and telomere fusions, disruption of telom-
+erase in C.elegans leads to a high frequency of short outlying
+telomeres, suggesting that telomerase is required to prevent or
+repair large-scale truncations of telomeric DNA.
+MATERIALS AND METHODS
+Strains
+Worms were handled as described by Brenner (31) but were
+grown at room temperature (19–23
+C) unless stated otherwise.
+The strains used in this study included N2, glp-4(bn2ts) that
+has been outcrossed to N2 10 times (KR4138 and KR4139),
+and trt-1(ok410) that has been outcrossed to N2 for at least
+10 times (KR4050). The deletion allele ok410 was generated
+by Robert Barstead Laboratory (Oklahoma Medical Research
+Foundation, OK) and characterized by the Vancouver Gene
+Knockout Facility, which is part of the C.elegans Gene
+Knockout Consortium (for more information of the allele
+see www.wormbase.org).
+Single telomere length analysis
+Measurement of VL telomere length by STELA was carried
+out as described in Cheung et al. (30). Brieﬂy, an oligo-
+nucleotide was ﬁrst ligated to the 50
+end of telomeres. PCR
+was then carried out using a primer against the oligonucleotide
+and a primer against a unique sequence in the subtelomeric
+region of Chromosome VL, followed by Southern blotting
+using a probe that hybridizes to the subtelomeric region.
+Telomere length was calculated by subtracting 1.1 kb (the
+distance between the primer recognition site in the subtelom-
+eric region and the start of the telomeric sequence) from the
+size of the band ampliﬁed.
+Analysis of STELA data
+From a gel ﬁle generated by PhosphorImager, intensity of
+signals was measured (in 0.1 mm intervals) along a lane by
+ImageQuant 5.0 software. Data were imported into Microsoft
+Excel for size analysis. From a size marker lane, a plot of size
+(kb) against distance (mm) was generated and ﬁtted by the
+power function (y ¼ axb
+), which works best for bands <5 kb.
+The formula was then used to calculate the size, and 1.095 kb
+was subtracted to obtain telomere length for each measured
+intensity value. To calculate the rate of VL telomere shorten-
+ing in trt-1 mutants, plots of intensity against telomere length
+were generated for each generation in each line from
+Figure 3. In most cases where a major cluster of bands
+were ampliﬁed, telomere length for the generation was deter-
+mined to be the peak of the plot. In cases where bands were
+spread out, telomere length was arbitrarily determined to be
+the middle of the spread. Telomere length determined this way
+was plotted against generation and the plot was ﬁtted by linear
+regression. The rate of VL telomere shortening is the slope
+of the linear curve.
+Characterization of telomere fusions
+Genomic DNA was extracted from single worms using
+phenol:chloroform:isoamyl alcohol as described in Cheung
+et al. (30), except that DNA pellet was resuspended in
+10 mM Tris–HCl (pH 8.5), and used directly as template in
+nested PCR. Primary PCR was carried out in a 20 ml reaction
+containing half or the whole of the genomic DNA extracted
+from a single worm, 1· PCR buffer IV (ABgene), 2 mM
+MgCl2, 0.1 mM of primer 798 (50
+-GGGATGCGCAGCTAAC-
+TATAGGAC-30
+), 0.3 mM of each dNTP (Amersham) and
+1.5 U Extensor Hi-Fidelity PCR Enzyme Mix (ABgene).
+Thermal cycling conditions were the following: initial dena-
+turation at 94
+C for 3 min, 25 cycles of 94
+C for 20 s, 70
+C
+for 8 min, followed by ﬁnal elongation at 70
+C for 10 min.
+Primary PCR products (0.2 ml) were used as templates in
+nested PCRs, which contained the same concentrations of buf-
+fer, MgCl2, dNTPs and Enzyme Mix as in primary PCRs, with
+0.1 mM of primer 797 (50
+-AAATGACAGTACTTATGGGT-
+TTCGTTC-30
+). Thermal cycling conditions were the same as
+in primary PCR, except that 30 cycles were carried out instead
+of 25. PCR products were puriﬁed, A-tailed, and cloned into
+pGEMÒ
+-T Vector (Promega), which was then transformed
+into DH5aÔ competent cells (Invitrogen). Inserts were
+sequenced at the Nucleic Acid Protein Service Unit at the
+University of British Columbia (Vancouver, BC).
+RESULTS AND DISCUSSION
+We analyzed the length of telomeric DNA at the left end of
+chromosome V (VL) in C.elegans using STELA (30) in dif-
+ferent generations of the wild-type strain N2. Marked ﬂuctua-
+tions in telomere length over multiple generations were
+observed (Figure 1A), consistent with the results generated
+by Southern hybridization reported previously (32). Despite
+these ﬂuctuations, VL telomeres were maintained within a
+range of $1 kb in all generations examined (Figure 1A).
+This range reﬂects the sum of telomere length heterogeneity
+in all (ﬁve) individuals analyzed from each generation. To
+examine variations in the distribution of telomere length
+among individuals, a hermaphrodite parent and 10 of its pro-
+geny were analyzed by STELA (Figure 1B). Individuals with
+clearly distinct telomere length distribution were apparent
+(progeny 3 and 9, Figure 1B). Hence, considerable telomere
+length variation occurs within one generation and may explain
+the telomere length ﬂuctuations shown in Figure 1A. Exam-
+ination of the temperature sensitive mutant glp-4(bn2ts),
+which becomes essentially germline-less when grown at the
+restrictive temperature (33) suggested that the germline may
+be an important source of the observed telomere length
+diversity (Supplementary Figure S1).
+The putative reverse transcriptase component of C.elegans
+telomerase is encoded by trt-1 (27). The trt-1 allele ok410
+carries a deletion spanning the region that encodes for
+three of the seven conserved reverse transcriptase motifs as
+Nucleic Acids Research, 2006, Vol. 34, No. 1 97
+Figure 1. Telomere length heterogeneity in wild-type C.elegans. (A) Telomere length fluctuations in the wild-type strain N2. Telomere length of VL was measured
+by STELA at F1, F5, F9, F13 and F17. DNA was extracted from five reproductive-stage adult sampled at each of the generations. DNA was ligated to the telorette and
+0.1 worm equivalent was used in each PCR. Marker lane is shown on the left and the corresponding telomere length is indicated on the right. Actual telomere length
+was 1.1 kb shorter than the size of the PCR product because 1.1 kb of subtelomeric sequences were also amplified. (B) Telomere length heterogeneity in a clonal
+population. A N2 parent and 10 of its progeny were analyzed by STELA. DNA was extracted from each single worm, ligated to telorette, and the entire DNA sample
+was used as template in PCR. Each lane represents a single worm.
+Figure 2. Progressive telomere shortening in trt-1. Trt-1 was outcrossed to N2 males. From 2 heterozygous parents, 16 homozygous trt-1 lines were set up separately.
+For each generation, the parent (post-reproductive stage) was analyzed by STELA, starting from F2 and ending at the generation that became sterile. Generation
+numbers are indicated on top of each panel; the heterozygous parent is considered as Po. A number was assigned for each line (1–16) and it is shown at the top right
+corner of each panel.
+98 Nucleic Acids Research, 2006, Vol. 34, No. 1
+predicted by Malik et al. (27) (Figure S1). Sixteen lines of trt-1
+were serially propagated until the line became sterile. For each
+generation, the number of adult progeny was counted and the
+parent was analyzed by STELA after all eggs were laid. In the
+early generations, most adult worms appeared healthy,
+although trt-1 had variably reduced progeny number (Supple-
+mentary Table S1). In later generations, the worms became
+sluggish and early death was frequent (data not shown). There-
+fore, similar to telomerase mutants in other organisms (13,16),
+trt-1 has decreased general ﬁtness. Consistent with TRT-1
+being a component of telomerase, all 16 lines of trt-1 displayed
+progressive shortening of telomeres (Figure 2). In most lines,
+the VL telomere shortened by between 100 and 150 bp per
+generation (Supplementary Table S2). With an estimation of
+10–15 cell divisions per generation (34), we calculated that
+C.elegans loses $10 bp of telomeric DNA per cell division.
+Although this rate was measured from only one chromosome
+end, results from different chromosome ends are expected to
+be similar. This rate of telomere shortening is more similar to
+S.cerevisiae ($4 bp per cell division) than to mammals (100–
+150 bp per cell division) (10,35), suggesting that the process-
+ing of telomeric ends after replication in C.elegans may be
+more closely related to yeast than to mammals. In a number of
+instances, VL telomere did not appear to shorten between
+generations (e.g. F3 to F4 in line 6 and F2 to F3 in line 11;
+Figure 2). It is possible that in those cases, rare longer
+telomeres in the population of germ cells were inherited,
+resulting in no apparent telomere shortening between those
+generations.
+Telomere length heterogeneity in trt-1 was studied by
+STELA on individual progeny from a single parent
+(Figure 3A–D). In contrast to wild-type (Figure 1B), telomere
+length was highly uniform among trt-1 progeny (the two clus-
+ters of bands in most worms shown in Figure 3A–D likely
+represent the two alleles of VL), supporting the notion that
+telomerase is involved in the generation of telomere length
+diversity observed in wild-type animals (Figure S2). In
+addition, trt-1 lacks the abundance of long telomeres seen
+Figure 3. Short outlying telomeres are readily observed in the DNA from single trt-1 mutants but not in the DNA from five mrt-2 mutants. (A–D) Eight to sixteen
+reproductive-stage individual progeny from four separate trt-1 parents were analyzed by STELA. Each lane represents a single worm. The two clusters of bands in
+most worms likely represent the two alleles of VL. In order to maintain the strain, trt-1 has to be routinely outcrossed. The longer VL telomere could be derived from
+the wild-type parent and the shorter VL telomere from the trt-1 parent. (E) DNA was extracted from five worms from the same mrt-2 parent in each of F2 (lane 1), F5
+(lane 2) and F9 (lane 3) and subsequently used in STELA. A DNA equivalent of one worm was used as the template in each PCR.
+Nucleic Acids Research, 2006, Vol. 34, No. 1 99
+in wild type. The lack of long telomeres in trt-1 is compatible
+with telomerase being important in telomere elongation in
+wild type. However, a high frequency of short outlying telom-
+eres relative to wild type was also observed in trt-1 (compare
+Figure 1B and Figure 3A–D). Although not present in every
+individual, a ladder of short outlying bands was ampliﬁed in
+most trt-1 animals. These short outliers were more apparent in
+mutants with longer telomeres (compare Figure 3A and B with
+100 Nucleic Acids Research, 2006, Vol. 34, No. 1
+Figure 3C and D). Because telomerase adds telomeric repeats
+to only a fraction of telomeres in each cell cycle (36), these
+short telomeres could be explained if they escaped telomerase
+elongation through all cellular divisions. However, trt-1 lost
+on average between 100 and 150 bp per generation (Figure 2
+and Figure S1), and the short outlying telomeres were almost
+always more than a few hundred basepairs shorter than the
+majority (Figure 3A–D). Therefore, the short outlier telomeres
+were probably not generated by the typical loss predicted to
+occur during telomere replication (37).
+It is interesting to note that in mutants of mrt-2, which is a
+highly conserved DNA damage checkpoint gene homologous
+to S.cerevisiae RAD17 and Schizosaccharomyces pombe
+rad1+
+, telomeres are shortened at a similar rate as observed
+in trt-1 ($125 bp per generation) (34), suggesting that telom-
+ere shortening in mrt-2 could be caused by lack of elongation
+by telomerase. Ahmed and Hodgkin (34) speculated that
+MRT-2, in its role as a checkpoint protein, could recognize
+telomeres as a form of DNA damage during replication, when
+telomeres are expected to adapt an open structure, revealing a
+structure that resembles a double-stranded break (1). MRT-2
+could contribute to telomerase recruitment, possibly by coor-
+dinating the temporal and spatial association of telomerase.
+One major noticeable difference in telomere phenotype
+between mrt-2 and trt-1 is the lack of short outlying telomeres
+in mrt-2 (30). Figure 3E shows telomere length measured from
+F2, F5 and F9 mrt-2 mutants. In each generation, DNA
+extracted from ﬁve worms was used in STELA. While mrt-2
+also displayed reduced telomere length heterogeneity as in
+trt-1, an increased frequency of short outlying telomeres was
+not observed even when telomere length was relatively long
+(F2 in Figure 3E). Perhaps telomerase in mrt-2 is defective in
+elongating telomeres after replication but still functions in an
+mrt-2-independent manner to prevent rapid telomere loss.
+End-to-end fusions have been observed in telomerase
+mutants in different organisms (12,13,16,19). To study if
+telomerase deﬁciency leads to telomere fusions in C.elegans,
+single primer nested PCR was carried out. By including a
+single primer that recognizes the VL subtelomeric region in
+PCRs, we reasoned that only fusions between two VL telom-
+eres would be ampliﬁed. In support of this notion, PCR prod-
+ucts could indeed be detected in some trt-1 worms but not in
+N2 (data not shown). Cloning and sequencing of eight of the
+ampliﬁed products revealed different types of telomere
+fusions: simple end-to-end fusions (category I), and more
+complicated rearrangements that involved either insertion of
+a sequence normally found in an internal VL chromosomal
+location (category II) or duplication within the VL subtelom-
+eric region (category III) (Figure 4). We note that simple
+end-to-end fusions with the subtelomeric–telomeric and the
+telomeric–telomeric conﬁgurations (Figure 4) could be under-
+represented because PCR ampliﬁcation through long repeat
+sequences is generally difﬁcult. Therefore, the relative fre-
+quency of the different types of fusions could be skewed.
+All eight clones characterized in this study display either
+microhomology or insertion at the fusion junctions, similar
+to the observations in Arabidopsis lacking telomerase (15).
+Two characteristics of the fusions are noted. First, in all
+eight fusions, at least one telomere end involved in the fusion
+was truncated. Truncation occurred within the same 10 bp
+fragment in ﬁve out of the eight clones (clones 1–3, 7 and
+8). Second, in all four cases of category II fusions, the site
+where the inserted internal VL fragment joined the telomeric
+repeats of a VL end contained multiple imperfect telomeric
+repeats. The imperfect telomeric repeats were always in the
+same direction as the telomeric repeats to which they joined. A
+correlation between the direction of the imperfect repeats and
+the orientation of insertion is illustrated by clone 7. The entire
+50 bp-inserted sequence in clone 7 was interspersed with
+imperfect telomeric repeats. By inserting in an opposite
+orientation as clones 4–6, the direction of the imperfect
+repeats relative to the telomeric repeats was maintained.
+We speculate that the complicated fusions were generated
+by recombination, while the end-to-end fusions were likely
+to have resulted from NHEJ.
+In this study, we have demonstrated that mutation in telom-
+erase leads to progressive telomere shortening, telomere
+fusions, reduced telomere length heterogeneity and increased
+frequency of short outlying telomeres. It appears that the
+germline may be an important source of telomere length het-
+erogeneity (Supplementary Figure S2). We have shown in this
+study that trt-1 contributes to telomere length heterogeneity
+both within an animal and within a clonal population: VL
+telomere length distribution within an individual is narrower,
+and variations among siblings are much smaller in trt-1
+mutants (Figure 3A–D). Since signiﬁcant levels of expression
+of trt-1 have only been observed in isolated oocytes,
+reproductive-stage adults and certain stages of embryogenesis
+(38,39), we propose that telomerase activity in the embryo and
+in the germ cells is responsible for the observed telomere
+length heterogeneity within individuals and within clonal
+populations respectively. It is likely that telomere length
+Figure 4. Structure of telomere fusions isolated from trt-1. Eight clones of telomere fusions amplified from nested PCR were sequenced and classified into
+three categories. Category I consists of simple end-to-end fusions. White block arrow denotes the sequence between the inner primer and the beginning of telomeric
+DNA (represented by the wiggly line). Hatched block arrow denotes sequence between the inner primer and the outer primer. The presence of microhomology or
+insertion at the fusion junction (shown by an arrow head) is also indicated. In clone 3, 25 telomeric repeats were present at the fusion junction. Category II consists of
+complicated rearrangements in which a fragment from an internal VL site (denoted by a black block arrow) was inserted between the two ends. In clone 4, the
+black block arrow represents a 3.8 kb fragment found within the cosmid Y39D8B ($360 kb from the VL telomere). In clone 5, the black block arrow represents a
+0.47 kb fragment found within the cosmid B0348 ($16 kb from the VL telomere). In clone 6, it represents a 0.73 kb fragment from cosmid B0348 that overlaps with
+the 0.47kb fragment insertedin clone 5. The inserted fragments in clones4–6 all containedimperfect telomeric repeats around the regionwhere it joined the telomeric
+repeats (represented by wiggly line). In clone 7, the black block arrow represents a 50 bp fragment found in the cosmid C39F7 (1.2 Mb from the VL telomere). This
+fragment is interspersed with imperfect telomeric repeats. It was inserted in an opposite orientation as the other clones in this category. Category III consists of a clone
+which involved complicated rearrangement of the VL subtelomeric sequence. Within the fragment between the inner primer and the beginning of telomeric DNA, a
+172 bp sequence is replicated 2.5 times (indicated by the division of the block arrow into three parts in gradient)but the replicatescarry severalmismatches. Inclone 8,
+a sequence(denotedby the small orange blockarrow) that overlapswithtwo of the replicateswas insertedbetween two chromosome ends,one of which was truncated
+within the 10 bp fragment as in clones 1–3 in category I. Although only the nested primer was used in secondary PCRs, most clones (1–3, 7 and 8) were flanked by the
+outer primer sequence and the nested primer sequence, indicating that the low concentration of the outer primer in the secondary PCRs was enough to prime
+amplification with the more abundant nested primer.
+Nucleic Acids Research, 2006, Vol. 34, No. 1 101
+heterogeneity in wild-type C.elegans results mostly from
+direct elongation by telomerase. However, indirect mecha-
+nism(s) may also play a role. It has been proposed that
+telomere repeat addition by telomerase is required for recom-
+binational repair of nicks in telomeric DNA by break-induced
+replication (37). Recombination reactions could generate the
+unusually long telomeres observed occasionally in wild-type
+animals (e.g. progeny 3 in Figure 1B).
+The generation of extremely short telomeres has been
+inferred from the high frequency of fusions between induced
+double-stranded breaks and short tracts of telomeric repeats in
+S.cerevisiae telomerase mutants (40). In this study we have
+provided direct evidence for the presence of such extremely
+short telomeres in C.elegans in the absence of functional
+telomerase. We previously described that in all of the wild-
+type C.elegans strains characterized, occasional short outlying
+telomeres, indicative of processes other than end-replication
+losses and telomerase-mediated lengthening could be
+observed (30). The model put forward initially by Lustig
+and coworkers (41–43) to explain telomere rapid deletion in
+rap1t
+yeast mutants, and later by Wang et al. (44) to account
+for the presence of T-loop-sized, telomeric repeat-containing
+circular DNA induced by TRFDB
+, involves intrachromatid
+recombination at telomeres. Recently, it has been suggested
+that sporadic telomere loss events could also result from
+(oxidative) damage to telomeric DNA or from failure to
+resolve higher order structures of G-rich DNA (37). Similar
+processes could also generate the short outlying telomeres
+observed in different strains of wild-type worms and in
+human clonal ﬁbroblast cultures (29,30). In addition to gen-
+erating heterogeneous telomere length, our data suggest that a
+major function of telomerase could be related to the repair of
+sporadic telomeric DNA loss events.
+SUPPLEMENTARY DATA
+Supplementary Data are available at NAR Online.
+ACKNOWLEDGEMENTS
+We wish to thank the Caenorhabditis Genetics Center (sup-
+ported by the National Institute of Health National Center for
+Research Resources) for the trt-1(ok410) strain. This work was
+supported by the Natural Sciences and Engineering Research
+Council (Canada) to A.M.R. and a grant from the National
+Cancer Institute of Canada with funds from the Terry Fox
+Run to P.M.L. I.C. was funded by fellowships from the
+Canadian Institute of Health Research and the Michael
+Smith Foundation for Health Research. Funding to pay the
+Open Access publication charges for this article was provided
+by The National Cancer Institute of Canada with funds from the
+Terry Fox Run.
+Conflict of interest statement. None declared.
+REFERENCES
+1. Blackburn,E.H. (2001) Switching and signaling at the telomere.
+Cell, 106, 661–673.
+2. d’Adda di Fagagna,F., Reaper,P.M., Clay-Farrace,L., Fiegler,H., Carr,P.,
+Von Zglinicki,T., Saretzki,G., Carter,N.P. and Jackson,S.P. (2003)
+A DNA damage checkpoint response in telomere-initiated senescence.
+Nature, 426, 194–198.
+3. Taggart,A.K., Teng,S.C. and Zakian,V.A. (2002) Est1p as a cell
+cycle-regulated activator of telomere-bound telomerase. Science,
+297, 1023–1026.
+4. Jacob,N.K., Kirk,K.E. and Price,C.M. (2003) Generation of telomeric G
+strand overhangs involves both G and C strand cleavage. Mol. Cell, 11,
+1021–1032.
+5. Masutomi,K., Yu,E.Y.,Khurts,S., Ben-Porath,I., Currier,J.L., Metz,G.B.,
+Brooks,M.W., Kaneko,S., Murakami,S., DeCaprio,J.A. et al. (2003)
+Telomerase maintains telomere structure in normal human cells.
+Cell, 114, 241–253.
+6. Masutomi,K., Possemato,R., Wong,J.M., Currier,J.L., Tothova,Z.,
+Manola,J.B., Ganesan,S., Lansdorp,P.M., Collins,K. and Hahn,W.C.
+(2005) The telomerase reverse transcriptase regulates chromatin
+state and DNA damage responses. Proc. Natl Acad. Sci. USA, 102,
+8222–8227.
+7. Counter,C.M., Meyerson,M., Eaton,E.N. and Weinberg,R.A. (1997) The
+catalytic subunit of yeast telomerase. Proc. Natl Acad. Sci. USA, 94,
+9202–9207.
+8. Lendvay,T.S.,Morris,D.K.,Sah,J.,Balasubramanian,B. andLundblad,V.
+(1996) Senescence mutants of Saccharomyces cerevisiae with a defect in
+telomere replication identify three additional EST genes. Genetics, 144,
+1399–1412.
+9. Lingner,J., Cech,T.R., Hughes,T.R. and Lundblad,V. (1997) Three Ever
+Shorter Telomere (EST) genes are dispensable for in vitro yeast
+telomerase activity. Proc. Natl Acad. Sci. USA, 94, 11190–11195.
+10. Lundblad,V. and Szostak,J.W. (1989) A mutant with a defect in telomere
+elongation leads to senescence in yeast. Cell, 57, 633–643.
+11. Singer,M.S. and Gottschling,D.E. (1994) TLC1: template RNA
+component of Saccharomyces cerevisiae telomerase. Science, 266,
+404–409.
+12. Hackett,J.A., Feldser,D.M. and Greider,C.W. (2001) Telomere
+dysfunction increases mutation rate and genomic instability.
+Cell, 106, 275–286.
+13. Riha,K., McKnight,T.D., Griffing,L.R. and Shippen,D.E. (2001) Living
+with genome instability: plant responses to telomere dysfunction.
+Science, 291, 1797–1800.
+14. Siroky,J., Zluvova,J., Riha,K., Shippen,D.E. and Vyskot,B. (2003)
+Rearrangements of ribosomal DNA clusters in late generation
+telomerase-deficient Arabidopsis. Chromosoma, 112, 116–123.
+15. Heacock,M., Spangler,E., Riha,K., Puizina,J. and Shippen,D.E. (2004)
+Molecular analysisof telomere fusionsin Arabidopsis: multiple pathways
+for chromosome end-joining. EMBO J., 23, 2304–2313.
+16. Blasco,M.A., Lee,H.W., Hande,M.P., Samper,E., Lansdorp,P.M.,
+DePinho,R.A. and Greider,C.W. (1997) Telomere shortening and tumor
+formation by mouse cells lacking telomerase RNA. Cell, 91, 25–34.
+17. Hande,M.P., Samper,E., Lansdorp,P. and Blasco,M.A. (1999) Telomere
+length dynamics and chromosomal instability in cells derived from
+telomerase null mice. J. Cell Biol., 144, 589–601.
+18. Hao,L.Y. and Greider,C.W. (2004) Genomic instability in both wild-type
+and telomerase null MEFs. Chromosoma, 113, 62–68.
+19. Liu,Y., Snow,B.E., Hande,M.P., Yeung,D., Erdmann,N.J., Wakeham,A.,
+Itie,A., Siderovski,D.P., Lansdorp,P.M., Robinson,M.O. et al.(2000) The
+telomerase reverse transcriptase is limiting and necessary for telomerase
+function in vivo. Curr. Biol., 10, 1459–1462.
+20. Vulliamy,T., Marrone,A., Goldman,F., Dearlove,A., Bessler,M.,
+Mason,P.J. and Dokal,I. (2001) The RNA component of telomerase is
+mutated in autosomal dominant dyskeratosis congenita. Nature, 413,
+432–435.
+21. Yamaguchi,H., Baerlocher,G.M., Lansdorp,P.M., Chanock,S.J.,
+Nunez,O., Sloand,E. and Young,N.S. (2003) Mutations of the human
+telomerase RNA gene (TERC) in aplastic anemia and myelodysplastic
+syndrome. Blood, 102, 916–918.
+22. Yamaguchi,H., Calado,R.T., Ly,H., Kajigaya,S., Baerlocher,G.M.,
+Chanock,S.J.,Lansdorp,P.M.andYoung,N.S.(2005)MutationsinTERT,
+the gene for telomerase reverse transcriptase, in aplastic anemia. N. Engl.
+J. Med., 352, 1413–1424.
+23. Vulliamy,T.J., Walne,A., Baskaradas,A., Mason,P.J., Marrone,A.
+and Dokal,I. (2005) Mutations in the reverse transcriptase component
+of telomerase (TERT) in patients with bone marrow failure.
+Blood Cells Mol. Dis., 34, 257–263.
+102 Nucleic Acids Research, 2006, Vol. 34, No. 1
+24. Lansdorp,P.M. (2005) Role of telomerase in hematopoietic stem cells.
+Ann. N Y Acad. Sci., 1044, 220–227.
+25. Hathcock,K.S., Hemann,M.T., Opperman,K.K., Strong,M.A.,
+Greider,C.W. and Hodes,R.J. (2002) Haploinsufficiency of mTR results
+in defects in telomere elongation. Proc. Natl Acad. Sci. USA, 99,
+3591–3596.
+26. Erdmann,N., Liu,Y. and Harrington,L. (2004) Distinct dosage
+requirements for the maintenance of long and short telomeres in
+mTert heterozygous mice. Proc. Natl Acad. Sci. USA, 101,
+6080–6085.
+27. Malik,H.S., Burke,W.D. and Eickbush,T.H. (2000) Putative telomerase
+catalytic subunits from Giardia lamblia and Caenorhabditis elegans.
+Gene, 251, 101–108.
+28. Wicky,C., Villeneuve,A.M., Lauper,N., Codourey,L., Tobler,H. and
+Muller,F. (1996) Telomeric repeats (TTAGGC)n are sufficient for
+chromosome capping function in Caenorhabditis elegans.
+Proc. Natl Acad. Sci. USA, 93, 8983–8988.
+29. Baird,D.M., Rowson,J., Wynford-Thomas,D. and Kipling,D. (2003)
+Extensive allelic variation and ultrashort telomeres in senescent human
+cells. Nature Genet., 33, 203–207.
+30. Cheung,I., Schertzer,M., Baross,A., Rose,A.M., Lansdorp,P.M. and
+Baird,D.M. (2004) Strain-specific telomere length revealed by single
+telomere length analysis in Caenorhabditis elegans. Nucleic Acids Res.,
+32, 3383–3391.
+31. Brenner,S. (1974) The genetics of Caenorhabditis elegans.
+Genetics, 77, 71–94.
+32. Ahmed,S., Alpi,A., Hengartner,M.O. and Gartner,A. (2001) C.elegans
+RAD-5/CLK-2 defines a new DNA damage checkpoint protein.
+Curr. Biol., 11, 1934–1944.
+33. Beanan,M.J. and Strome,S. (1992) Characterization of a germ-line
+proliferation mutation in C.elegans. Development, 116, 755–766.
+34. Ahmed,S. and Hodgkin,J. (2000) MRT-2 checkpoint protein is required
+for germline immortality and telomere replication in C.elegans. Nature,
+403, 159–164.
+35. Huffman,K.E., Levene,S.D., Tesmer,V.M., Shay,J.W. and Wright,W.E.
+(2000) Telomere shortening is proportional to the size of the G-rich
+telomeric 30
+-overhang. J. Biol. Chem., 275, 19719–19722.
+36. Teixeira,M.T., Arneric,M., Sperisen,P. and Lingner,J. (2004)
+Telomere length homeostasis is achieved via a switch between
+telomerase-extendible and -nonextendible states. Cell, 117, 323–335.
+37. Lansdorp,P.M. (2005) Major cutbacks at chromosome ends. Trends
+Biochem. Sci., 30, 388–395.
+38. Hill,A.A., Hunter,C.P., Tsung,B.T., Tucker-Kellogg,G. and
+Brown,E.L. (2000) Genomic analysis of gene expression in C.elegans.
+Science, 290, 809–812.
+39. Baugh,L.R., Hill,A.A., Slonim,D.K., Brown,E.L. and Hunter,C.P. (2003)
+Composition and dynamics of the Caenorhabditis elegans early
+embryonic transcriptome. Development, 130, 889–900.
+40. Chan,S.W. and Blackburn,E.H. (2003) Telomerase and ATM/Tel1p
+protect telomeres from nonhomologous end joining. Mol. Cell, 11,
+1379–1387.
+41. Kyrion,G., Boakye,K.A. and Lustig,A.J. (1992) C-terminal truncation of
+RAP1resultsinthederegulationoftelomeresize,stability,andfunctionin
+Saccharomyces cerevisiae. Mol. Cell. Biol., 12, 5159–5173.
+42. Li,B. and Lustig,A.J. (1996) A novel mechanism for telomere size control
+in Saccharomyces cerevisiae. Genes Dev., 10, 1310–1326.
+43. Bucholc,M., Park,Y. and Lustig,A.J. (2001) Intrachromatid excision of
+telomeric DNA as a mechanism for telomere size control in
+Saccharomyces cerevisiae. Mol. Cell Biol., 21, 6559–6573.
+44. Wang,R.C., Smogorzewska,A. and de Lange,T. (2004) Homologous
+recombination generates T-loop-sized deletions at human telomeres.
+Cell, 119, 355–368.
+Nucleic Acids Research, 2006, Vol. 34, No. 1 103
+

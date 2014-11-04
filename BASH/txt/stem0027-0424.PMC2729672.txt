@@ -1,0 +1,793 @@
+Preclinical Activity of Eltrombopag (SB-497115), an Oral,
+Nonpeptide Thrombopoietin Receptor Agonist
+CONNIE L. ERICKSON-MILLER,a
+EVELYNE DELORME,b
+SHIN-SHAY TIAN,b
+CHRISTOPHER B. HOPSON,a
+AMY J. LANDIS,a
+ELIZABETH I. VALORET,a
+TERESA S. SELLERS,c
+JON ROSEN,b
+STEPHEN G. MILLER,b
+JUAN I. LUENGO,a
+KEVIN J. DUFFY,a
+JULIAN M. JENKINS
+a
+a
+GlaxoSmithKline, Collegeville, Pennsylvania, USA; b
+Ligand Pharmaceuticals, La Jolla, California, USA;
+c
+GlaxoSmithKline, King of Prussia, Pennsylvania, USA
+Key Words. Thrombopoietin receptor agonist • Megakaryocyte • Differentiation • Thrombocytopenia
+ABSTRACT
+Eltrombopag is a first-in-class, orally bioavailable, small-
+molecule, nonpeptide agonist of the thrombopoietin receptor
+(TpoR), which is being developed as a treatment for throm-
+bocytopenia of various etiologies. In vitro studies have dem-
+onstrated that the activity of eltrombopag is dependent on
+expression of TpoR, which activates the signaling transduc-
+ers and activators of transcription (STAT) and mitogen-
+activated protein kinase signal transduction pathways. The
+objective of this preclinical study is to determine if eltrom-
+bopag interacts selectively with the TpoR to facilitate
+megakaryocyte differentiation in platelets. Functional
+thrombopoietic activity was demonstrated by the prolifera-
+tion and differentiation of primary human CD34؉
+bone
+marrow cells into CD41؉
+megakaryocytes. Measurements in
+platelets in several species indicated that eltrombopag spe-
+cifically activates only the human and chimpanzee STAT
+pathways. The in vivo activity of eltrombopag was demon-
+strated by an increase of up to 100% in platelet numbers
+when administered orally (10 mg/kg per day for 5 days) to
+chimpanzees. In conclusion, eltrombopag interacts selec-
+tively with the TpoR without competing with Tpo, leading to
+the increased proliferation and differentiation of human
+bone marrow progenitor cells into megakaryocytes and in-
+creased platelet production. These results suggest that el-
+trombopag and Tpo may be able to act additively to increase
+platelet production. STEM CELLS 2009;27:424–430
+Disclosure of potential conflicts of interest is found at the end of this article.
+INTRODUCTION
+Thrombocytopenia is a condition of an unusually low level of
+platelets in the blood and results from an imbalance between the
+production and destruction of platelets. Thrombocytopenia is
+associated with several medical disorders, including aplastic
+anemia [1], myelodysplasia [1], and idiopathic thrombocytope-
+nic purpura (ITP) [2]. Clinically significant thrombocytopenia
+can occur as a consequence of myelosuppressive or myeloabla-
+tive chemotherapy or radiotherapy [3]. Thrombocytopenia can
+also be associated with severe chronic liver disease due to the
+reduced production of the endogenous thrombopoietic growth
+factor, thrombopoietin (Tpo), and/or the increased sequestration
+of platelets [4]. In patients infected with the hepatitis C virus
+(HCV), thrombocytopenia may occur due to the myelosuppres-
+sive effects of the virus on the bone marrow [5].
+A key concept in treating thrombocytopenia is to eliminate
+the underlying problem, which may include targeting the cause
+of the increased platelet destruction (i.e., immunosuppressive
+agents or other drugs that may cause thrombocytopenia) or
+increasing platelet counts by stimulating the production of
+new platelets. Platelet production initially originates from
+megakaryocyte precursor cells in the bone marrow. Proliferation
+and differentiation in the megakaryocytic pathway is predomi-
+nantly controlled by Tpo, a cytokine that is constitutively pro-
+duced, and primarily made by the liver [6, 7]. The binding of
+Tpo to the thrombopoietin receptor (TpoR) on cells in the
+megakaryocyte pathway triggers the activation of the cytoplas-
+mic tyrosine kinases Janus kinase (JAK)2 and tyrosine kinase 2,
+which in turn activate signal transducers and activators of tran-
+scription five (STAT)5, phosphoinositide-3 kinase, and Ras-
+mitogen-activated protein kinase (MAPK) [8–10]. The subse-
+quent changes in gene expression in precursor cells promote
+Author contributions: C.L.E.-M.: conception and design, collection and/or assembly of data, data analysis and interpretation, manuscript
+writing, final approval of manuscript; E.D.: conception and design, collection and/or assembly of data, data analysis and interpretation;
+S.-S.T.: conception and design, collection and/or assembly of data, data analysis and interpretation; C.B.H.: collection and/or assembly of
+data, data analysis and interpretation; A.J.L.: collection and/or assembly of data; E.I.V.: collection and/or assembly of data, data analysis and
+interpretation; T.S.S.: conception and design, collection and/or assembly of data, data analysis and interpretation; J.R.: conception and design,
+collection and/or assembly of data, data analysis and interpretation, final approval of manuscript; S.G.M.: conception and design, collection
+and/or assembly of data, data analysis and interpretation; J.I.L.: conception and design, collection and/or assembly of data, data analysis and
+interpretation; K.J.D.: provision of study material or patients, data analysis and interpretation; J.M.J.: conception and design, collection and/or
+assembly of data, data analysis and interpretation, manuscript writing, final approval of manuscript.
+Correspondence: Connie L. Erickson-Miller, Ph.D., GlaxoSmithKline, 1250 South Collegeville Road, Collegeville, Pennsylvania 19426,
+USA. Telephone: 610-917-4509; Fax: 610-917-4181; e-mail: erickc00@gsk.com Received April 11, 2008; accepted for publication
+November 5, 2008; first published online in STEM CELLS EXPRESS November 26, 2008; available online without subscription through the
+open access option. ©AlphaMed Press 1066-5099/2009/$30.00/0 doi: 10.1634/stemcells.2008-0366
+TISSUE-SPECIFIC STEM CELLS
+STEM CELLS 2009;27:424–430 www.StemCells.com
+differentiation along the megakaryocytic lineage and have an
+antiapoptotic effect, which ultimately leads to platelet develop-
+ment and release.
+Following the purification of Tpo in the mid-1990s, recom-
+binant human Tpo (rhTpo) and a similar protein, megakaryocyte
+growth and development factor, were extensively tested for their
+ability to overcome thrombocytopenia, and were shown to sig-
+nificantly increase circulating platelet levels in mice, primates,
+and humans [7, 11–15]. However, because of the induction of
+immunogenicity [7, 16], megakaryocyte growth and develop-
+ment factor is no longer being tested in clinical trials. Nonpep-
+tide, small-molecule TpoR agonists are an attractive alternative
+to protein therapeutics because they are more likely to be orally
+bioavailable and less likely to be immunogenic.
+In this report, we present preclinical results for eltrombopag
+(SB-497115, Promacta௡/Revolade™; GlaxoSmithKline, Re-
+search Triangle Park, NC, http://www.gsk.com, and Ligand
+Pharmaceuticals, Inc., San Diego, CA, http://www.ligand.com),
+an orally bioavailable, small-molecule, nonpeptide TpoR ago-
+nist. We show that eltrombopag interacts specifically with the
+TpoR without competing with Tpo, thereby activating intracel-
+lular signal transduction pathways additively with endogenous
+Tpo, leading to the increased proliferation and differentiation of
+human bone marrow progenitor cells into megakaryocytes, and
+ultimately, increased platelet production.
+MATERIALS AND METHODS
+Cytokines and Cell Lines
+rhTpo, recombinant human stem cell factor (rhSCF), and recombi-
+nant murine interleukin-3 (rmIL-3) were obtained from R&D Sys-
+tems, Inc. (Minneapolis, MN, http://www.rndsystems.com). Re-
+combinant human erythropoietin and G-CSF were obtained from
+Amgen, Inc. (Thousand Oaks, CA, http://www.amgen.com). The
+BAF3/hTpoR and 32D-mpl cell lines were made by stable trans-
+fection of rhTpoR (c-mpl) and STAT-inducible reporter interferon
+regulatory factor one (IRF-1; BAF3/hTpoR cells) or the megakaryo-
+cyte-specific promoter glycoprotein (gp)IIb (32D-mpl cells) cou-
+pled to the luciferase reporter gene, as previously described [17].
+These two TpoR-transfected cell lines are dependent on rmIL-3 or
+rhTpo for growth. The N2C-Tpo cell line, derived by culture of a
+megakaryoblastic cell line in rhTpo for 10 weeks, was generously
+provided by Dr. Camille Abboud of the University of Rochester
+Medical Center (Rochester, NY).
+Luciferase Reporter Gene Assay
+BAF3/hTpoR or 32D-mpl cells were washed and starved of rmIL-3
+or rhTpo overnight prior to treatment. Starved parental BAF3 cells
+(1 ϫ 105
+cells/ml) in Iscove’s modified Dulbecco’s medium
+(IMDM)/0.5% fetal bovine serum (FBS) and 30 ␮M ZnCl2 were
+treated with eltrombopag (0.002–50 ␮M) or rhTpo (100 ng/ml) at
+37°C, 5% CO2, for 4 hours. Cells were lysed in 100 ␮l lysis buffer
+(25 mM tris, 15% glycerol, 2% 3-[(3-cholamidopropyl)dimethyl-
+ammonio]-1-propanesulfonic acid, 1% lecithin, 1% bovine serum
+albumin, 4 mM EGTA, 8 mM MgCl2, 10 mM dithiothreitol, and 0.4
+mM phenylmethylsulfonyl fluoride, pH 7.8) for 15 minutes and
+added to a 96-well plate (30 ␮l per well). Promega Steady Glow
+(100 ␮l; Madison, WI, http://www.promega.com) was added to
+each well immediately before the plates were read using a chemi-
+luminometer (Model ML1000; Dynatech Laboratories Inc., Chan-
+tilly, VA, http://dynatechlaboratories.com). Luciferase assay data
+are presented as the mean and standard error of quadruplicate wells.
+Proliferation Assays
+Bromodeoxyuridine (BrdU) proliferation assays were conducted
+using cytokine-starved BAF3/hTpoR cells plated in 96-well plates
+at 4 ϫ 104
+cells/well. rhTpo (100 ng/ml) or eltrombopag (0.0001–10
+␮M) was added to triplicate wells and the cells were incubated in
+5% CO2 at 37°C. BAF3/hTpoR cells were grown for 44 hours,
+labeled with BrdU, and returned to the incubator for four more
+hours. The plates were developed using a BrdU cell proliferation kit
+(Roche Diagnostics, Indianapolis, IN, http://www.roche-diagnostics.
+us) and were read on an enzyme-linked immunosorbent assay plate
+reader at 380 nm.
+Thymidine incorporation assays were conducted using cyto-
+kine-starved N2C-Tpo cells plated in 96-well plates (1.4 ϫ 105
+cells/ml final concentration), grown in a white view plate, and
+exposed to eltrombopag (0.003–3 ␮M) and/or rhTpo (1–100
+ng/ml) for 72 hours at 37°C. Tritiated thymidine (1 ␮Ci/well)
+was added for the final 4 hours of incubation. Cells were har-
+vested onto glass fiber filter mats and read on a Wallac 1,450
+Microbeta scintillation counter (PerkinElmer, Inc., Waltham,
+MA, http://www.perkinelmer.com).
+Caspase-3 and Caspase-7 Assays
+The Caspase-Glo 3/7 assay (Promega) is a luminescent assay that
+measures caspase-3 and caspase-7 activity. The addition of the
+Caspase-Glo reagent results in cell lysis, followed by caspase cleav-
+age of the substrate and generation of a luminescent signal; the
+amount of luminescence is proportional to the amount of caspase
+present. Cytokine-starved N2C-Tpo cells (1.4 ϫ 105
+cells/ml final
+concentration) were grown in a white view plate and exposed to
+eltrombopag (0.003–3 ␮M) and/or rhTpo (1–100 ng/ml) for 72
+hours at 37°C. Caspase-Glo (100 ␮l) was added, and cells were
+incubated for 90 minutes at room temperature. Luminescence was
+measured using the Envision plate reader (PerkinElmer, Inc.).
+Western Blot Analysis of STAT5 and MAPK
+N2C-Tpo cells (1 ϫ 106
+) were starved of rhTpo overnight in
+IMDM-containing glutamine and 0.5% FBS. Cells were treated for
+up to 120 minutes with eltrombopag (30 ␮M) or rhTpo (75 ng/ml),
+pelleted by centrifugation, and placed on dry ice. Lysates were
+prepared, proteins were separated by gel electrophoresis, and im-
+munoblotting was performed with antibodies to phospho-STAT5
+and p44/42 MAPK, as described previously [17].
+CD34ϩ
+cells (5 ϫ 105
+cells/ml) were cultured in StemSpan
+(Stem Cell Technologies, Vancouver, Canada, http://www.stemcell.
+com) and rhTpo (100 ng/ml). After 10 days, CD41ϩ
+megakaryo-
+cytes comprised 75% of the cells. These cells were washed and
+starved of rhTpo for 6 hours, treated with rhTpo (100 ng/ml) or
+eltrombopag (0, 1, 3 or 10 ␮M) for 30 minutes, and made into
+lysates. Lysates were applied to a 12% Tris-Bis gel (50 ␮g per lane),
+and anti-phopsho-STAT5 antibody (cat#AB3800; Millipore, Bil-
+lerica, MA, http://www.millipore.com) was used to detect activation
+of STAT5.
+Human Marrow Differentiation Assay
+Human blood and bone marrow samples were obtained from
+healthy donors with informed consent under an institutional review
+board-approved protocol. CD34ϩ
+cells were purified from the light
+density fraction of normal human bone marrow by Miltenyi (Au-
+burn, CAhttp://www.miltenyibiotec.com) immunomagnetic bead
+separation as previously described [17]. CD34ϩ
+cells were plated at
+1 ϫ 105
+cells/ml in IMDM with 20% FBS and 100 ng/ml rhSCF.
+Eltrombopag (0.003–3.0 ␮M) or rhTpo (100 ng/ml) was added at
+10% final volume and the cells were incubated for 10 days at 37°C
+in 5% CO2 and 5% O2. Cells were stained with fluorescein isothio-
+cyanate-conjugated anti-CD41a (gpIIb), isotype control antibody, or
+phosphate-buffered saline as an autofluorescence control. Flow
+cytometric analysis was performed on a Becton-Dickinson FACS-
+can (BD Immunocytometry Systems, San Jose, CA, http://www.
+bdbiosciences.com). Gates for CD41ϩ
+cells were based on the
+negative control (i.e., SCF-treated cultures). Data are represented as
+a percentage of Tpomax (Tpomax ϭ [% CD41sample Ϫ % CD41SCF]/
+[% CD41Tpo Ϫ % CD41SCF]).
+Electrophoretic Mobility Shift Assay
+Human, chimpanzee, cynomolgus, and murine blood samples were
+obtained using the appropriate Institutional Animal Care and Use
+Committee-approved protocols. Platelets were incubated with el-
+425Erickson-Miller, Delorme, Tian et al.
+www.StemCells.com
+trombopag (0.3–30 ␮M) or rhTpo (100 ng/ml) for 20 minutes at
+37°C. Lysates and the IRF-1 DNA probe were prepared as previ-
+ously described [17]. 32
+P-IRF-1 was incubated with the platelet
+lysate at room temperature for 20 minutes and loaded onto a 5%
+acrylamide gel. Results were analyzed after visualization by auto-
+radiography.
+Chimpanzee Study Protocol
+Chimpanzee data were collected under an Institutional Animal Care
+and Use Committee-approved protocol at the Southwest Foundation
+for Biomedical Research (San Antonio, TX, http://www.sfbr.org).
+Female chimpanzees (approximately 7–8 years of age) were given
+either eltrombopag (10 mg/kg) in aqueous 2% hydroxypropyl meth-
+ylcellulose with 0.2% sodium lauryl sulfate vehicle or vehicle alone
+by oral gavage at a dose volume of 1 ml/kg. Chimpanzees were
+given five daily doses of vehicle alone (n ϭ 2) or eltrombopag (n ϭ
+3). Platelet counts and reticulated platelet counts were performed
+prior to, during, and following the treatment regimen. At the end of
+the study, all chimpanzees were returned to the stock colony.
+RESULTS
+Eltrombopag Molecular Structure and
+Characterization
+Eltrombopag is a member of the biarylhydrazone class of com-
+pounds, with an empirical formula of C25H22N4O4 and a mo-
+lecular weight of approximately 442 D (Fig. 1). Eltrombopag
+demonstrated a half maximal effective concentration (EC50) of
+0.27 ␮M in murine BAF3 cells transfected with the luciferase
+reporter gene under direction of the STAT-activated IRF-1
+promoter and human TpoR (BAF3/IRF-1/hTpoR) (Fig. 2A).
+Because eltrombopag is specific to the human and chimpanzee
+TpoR, the parental murine BAF3 cell line, which was not
+transfected with hTpoR (BAF3/IRF-1), was not activated by
+eltrombopag (Fig. 2A). Eltrombopag and rhTpo both demon-
+strated activity in hTpoR-transfected 32D-mpl cells using the
+reporter assay with luciferase under the direction of the
+megakaryocyte-specific promoter gpIIb (Fig. 2B).
+Specificity of Eltrombopag Binding
+To determine whether the effect of eltrombopag was specific for
+the activation of the TpoR, cell lines that are dependent on other
+cytokines for growth were tested. In a variety of different
+assays, eltrombopag showed no activity in cells expressing
+receptors for hematopoietic growth factors that are activated by
+STAT, including Epo, G-CSF, interferon (IFN)-␣, IFN-␥, and
+IL-3 (Table 1).
+The pharmacophore defined by the biarylhydrazone class of
+compounds [18–20] has a distinct species specificity. In elec-
+trophoretic mobility shift assays measuring STAT activation
+induced by such compounds, including eltrombopag, activation
+was detected only in human or chimpanzee platelets (Fig. 3A).
+A single amino acid difference in the transmembrane domain
+(histidine 499 of human TpoR) [21] is hypothesized to be
+responsible for this species specificity. Studies of the mecha-
+nism of action of eltrombopag and compounds bearing a similar
+pharmacophore suggest that eltrombopag activates the receptor
+by association with metal ions (i.e., Zn2ϩ
+) and specific amino
+acids within the transmembrane and juxtamembrane domains of
+the TpoR [17, 22, 23].
+Activation of TpoR Signaling Pathways
+As measured by Western blotting, the activation of the TpoR via
+interaction with eltrombopag results in the induction of intra-
+cellular signaling pathways similar to those induced by rhTpo,
+but with less intensity. N2C-Tpo cells are a Tpo-dependent
+CO2
+H
+CH3
+CH3
+NH
+OH
+N N
+N
+OH3
+C
+Figure 1. Structure of eltrombopag, an orally bioavailable thrombo-
+poietin receptor agonist.
+Luminescence(relativelightunit)
+Eltrombopag (µM)
+BAF3/IRF-1/hTpoR
+BAF3/IRF-1
+0
+4,000
+8,000
+12,000
+16,000
+0.001 0.01 0.1 1.0 10 100
+Luminescence(relativelightunit)
+Eltrombopag (µM) or rhTpo (ng/mL)
+0
+0.4
+0.3
+0.2
+0.1
+0.5
+0.6
+0.7
+0.01 0.03 0.1 0.3 3 101 30
+Eltrombopag
+rhTpo
+A
+B
+Figure 2. Cell-based STAT activation. (A): Representative gene ac-
+tivity of eltrombopag on BAF3/interferon regulatory factor (IRF)-1 cells
+transfected with and without the thrombopoietin receptor (TpoR). (B):
+Gene activity of eltrombopag and recombinant human thrombopoietin
+(rhTpo) on 32D-mpl cells transfected with the megakaryocyte-specific
+glycoprotein IIb promoter. Reprinted from Duffy KJ, Erickson-Miller
+CL. The discovery of eltrombopag, an orally bioavailable TpoR agonist.
+In: Metcalf BW, Dillon S, eds. Target Validation in Drug Discovery.
+Burlington, MA: Academic Press, 2007:241–254, with permission.
+426 Preclinical Activity of Eltrombopag
+human cell line that endogenously expresses the TpoR. Incuba-
+tion of N2C-Tpo cells with eltrombopag at a 30-␮M concentra-
+tion resulted in activation of STAT5, as detected with an an-
+tiphospho-STAT5 antibody on Western blots. Maximum signal
+intensity was observed at 60 minutes after treatment with el-
+trombopag (Fig. 3B). The time course of activation by eltrom-
+bopag was similar to that achieved by 75 ng/ml rhTpo. Eltrom-
+bopag (10 ␮M) also activated p42/44 MAPK with similar
+kinetics to rhTpo (50 ng/ml) (Fig. 3C). The detection of STAT5
+phosphorylation at 30 minutes after treatment of megakaryo-
+cytes derived from CD34ϩ
+cells with rhTpo or eltrombopag
+demonstrated a detectable activation of STAT5 by rhTpo. As in
+the N2C-Tpo cells, the activation of STAT5 by eltrombopag in
+these megakaryocytes was dose-dependent, but at a much lower
+level than the signal induced by rhTpo (Fig. 3D).
+Stimulation of Proliferation and Differentiation in
+Mammalian Cells and Cell Lines
+In a BrdU assay conducted in BAF3/hTpoR cells, eltrombopag
+stimulated proliferation after a 2-day incubation with an EC50 of
+0.03 ␮M (Fig. 4A).
+In addition to a proliferative effect on cells of the
+megakaryocytic lineage, eltrombopag also induces differentia-
+tion of hematopoietic stem cells into committed megakaryocyte
+progenitor cells. Assessment of megakaryocyte maturation can
+be determined by measuring the appearance of the megakaryo-
+cyte-specific marker glycoprotein CD41 on human CD34ϩ
+cells
+obtained from human bone marrow samples. The data were
+calculated as a percentage of the maximal number of cells
+responding to the maximally efficacious dose of rhTpo (i.e., 100
+ng/ml). Eltrombopag increased the differentiation of bone mar-
+row CD34ϩ
+cells into CD41ϩ
+megakaryocytes in a dose-depen-
+dent manner with an EC50 of 0.1 ␮M (Fig. 4B).
+Table 1. Selectivity of eltrombopag for TpoR-expressing cells
+Cell line Assay type
+Cytokine
+selectivity rhTpo Eltrombopag
+N2C-Tpo Proliferation Tpo ϩ ϩ
+BAF3/hTpoR Luciferase Tpo ϩ ϩ
+UT7-Epo Proliferation Epo Ϫ Ϫ
+BAF3/GCSFR Proliferation G-CSF Ϫ Ϫ
+BAF3/GCSFR STAT EMSA G-CSF Ϫ Ϫ
+HepG2 STAT EMSA IFN-␣;IFN-␥ Ϫ Ϫ
+BAF3 parental Luciferase IL-3 Ϫ Ϫ
+Abbreviations: EMSA, electrophoretic mobility shift assay; Epo,
+erythropoietin; IFN, interferon; IL-3, interleukin 3; rhTpo,
+recombinant human thrombopoietin; STAT, signal transducers and
+activators of transcription; Tpo, thrombopoietin; TpoR,
+thrombopoietin receptor.
+Chimpanzee
+Murine
+Human
+0 100 30 10 3 1 0.3
+Eltrombopag (µM)
+Cynomolgus
+rhTpo (ng/mL)
+Eltrombopag
+(30 µM)
+rhTpo
+(75 ng/mL)
+P-STAT5
+15 30 60 120 -- 15 30 60 120 Minutes
+Eltrombopag
+(10 uM)
+rhTpo
+(50 ng/mL)
+p44
+p42
+0 5 10 20 30 60 5 10 20 30 60Minutes
+50 kD
+36 kD
+MAPK
+A
+B
+C
+D
+Figure 3. Signal transduction induced by eltrombopag. (A): Eltrom-
+bopag demonstrated activity on human and chimpanzee (but not other
+species) platelets by signaling transducers and activators of transcription
+(STAT) electrophoretic mobility shift assay. Similar kinetics of (B)
+phospho-STAT5 and (C) mitogen-activated protein kinase (MAPK)
+expression were detected by Western blot of eltrombopag- or recombi-
+nant human thrombopoietin (rhTpo)-treated N2C-Tpo cell lysates. (D):
+STAT5 activation was also detected in megakaryocytes derived from
+CD34ϩ
+cells. (A, B): Reprinted from Duffy KJ, Erickson-Miller CL.
+The discovery of eltrombopag, an orally bioavailable TpoR agonist. In:
+Metcalf BW, Dillon S, eds. Target Validation in Drug Discovery.
+Burlington, MA: Academic Press, 2007:241–254, with permission.
+OD380
+0
+1.0
+0.8
+0.6
+0.4
+1.2
+1.4
+1.6
+0.00010.0003
+0.001
+3.0
+1.0
+0.3
+0.1
+0.03
+0.01
+0.003
+10
+0.2
+Eltrombopag (µM)
+Tpomax
+(%)
+0
+125
+100
+75
+50
+150
+3.01.00.30.10.030.010.003
+25
+Eltrombopag (µM)
+A
+B
+Figure 4. Proliferation and differentiation induced by eltrombopag.
+(A): Proliferation of BAF3/hTpoR cells induced by eltrombopag after
+48 hours of treatment; the dotted line represents the activity of cells
+treated with 100 ng/ml of recombinant human thrombopoietin. OD,
+optical density. (B): Representative example of megakaryocyte differ-
+entiation of CD34ϩ
+cells after 10 days of eltrombopag treatment; similar
+results were obtained with six independent marrow samples. Panel (B)
+was reprinted from Duffy KJ, Erickson-Miller CL. The discovery of
+eltrombopag, an orally bioavailable TpoR agonist. In: Metcalf BW,
+Dillon S, eds. Target Validation in Drug Discovery. Burlington, MA:
+Academic Press, 2007:241–254, with permission.
+427Erickson-Miller, Delorme, Tian et al.
+www.StemCells.com
+Thymidine incorporation assays in N2C-Tpo cells were uti-
+lized to determine the effect of treatment with eltrombopag in
+combination with rhTpo. The results demonstrate that eltrom-
+bopag and Tpo are not antagonistic with each other; rather, there
+appears to be an additive effect when eltrombopag is added to
+suboptimal amounts of rhTpo (Fig. 5A). The additive effect of
+eltrombopag also occurs in the presence of rhTpo at a concen-
+tration that causes a plateau in cell proliferation rates (i.e., 100
+ng/ml).
+Caspase-3 and Caspase-7 Assays in Cells Incubated
+with Eltrombopag and rhTpo
+In an assay measuring the activation of caspase-3 and caspase-7,
+treating N2C-Tpo cells with rhTpo at concentrations of 0, 1, and
+3 ng/ml, and with eltrombopag at concentrations of 0–0.03 ␮M,
+demonstrated comparable caspase activity to untreated cells,
+indicating that these concentrations of rhTpo and eltrombopag
+were insufficient to prevent apoptosis of N2C-Tpo cells (Fig.
+5B). The antiapoptotic effect evidenced by lowered caspase
+cleavage activity occurred at concentrations of eltrombopag
+Ͼ0.03 ␮M. Increasing concentrations of eltrombopag demon-
+strated additional antiapoptotic effects in these cells. Cells in-
+cubated with 10, 30, or 100 ng/ml rhTpo also demonstrated
+decreased caspase activation and an antiapoptotic effect on these
+cells. Thus, both Tpo and eltrombopag are capable of preventing
+apoptosis in Tpo-dependent cells and could substitute for each
+other at suboptimal levels of each treatment.
+Repeat Dose Study in Chimpanzees
+Given the distinct species specificity for STAT activation ex-
+hibited by eltrombopag in human and chimpanzee platelets, a
+5-day, repeat-dose safety and pharmacology study was con-
+ducted in five female chimpanzees. Chimpanzees were admin-
+istered either vehicle alone (n ϭ 2) or eltrombopag in vehicle
+(n ϭ 3; 10 mg/kg per day) by oral gavage. Administration of
+eltrombopag was well tolerated following repeat oral doses.
+There were no adverse effects on hematology, coagulation, or
+clinical chemistry parameters. In chimpanzees treated with el-
+trombopag, platelet counts were increased over twofold approx-
+imately 1 week after the last dose for one chimpanzee and
+approximately 1.5-fold for the other two chimpanzees. Platelet
+counts returned to near baseline values approximately 2 weeks
+after peak values were reached (Fig. 6).
+Although only limited pharmacokinetic sampling in three
+chimpanzees was performed, the data suggest that the pharma-
+MicroBetacounts(countperminute)
+rhTpo 0 ng/mL
+rhTpo 1 ng/mL
+rhTpo 3 ng/mL
+rhTpo 10 ng/mL
+rhTpo 30 ng/mL
+rhTpo 100 ng/mL
+0
+60,000
+50,000
+70,000
+40,000
+30,000
+20,000
+10,000
+0 0.003 0.01 0.03 10.30.1 3
+Eltrombopag (µM)
+Luminescence(relativelightunit)
+0
+600,000
+500,000
+700,000
+800,000
+900,000
+400,000
+300,000
+200,000
+100,000
+0 0.003 0.01 0.03 10.30.1 3
+rhTpo 0 ng/mL
+rhTpo 1 ng/mL
+rhTpo 3 ng/mL
+rhTpo 10 ng/mL
+rhTpo 30 ng/mL
+rhTpo 100 ng/mL
+Eltrombopag (µM)
+A
+B
+Figure 5. Additive effects of eltrombopag and rhTpo. (A): Proliferation, as measured by thymidine incorporation, of N2C-Tpo cells by eltrombopag
+(0.003–3 ␮M) in combination with recombinant human thrombopoietin (rhTpo; 1–100 ng/ml). (B): Activation of caspase-3 and caspase-7 by
+eltrombopag (0–3 ␮M) in combination with rhTpo (0–100 ng/ml) in N2C-Tpo cells.
+Platelets(foldincreasevsbaseline)
+0
+1.0
+0.5
+1.5
+2.0
+2.5
+Duration of study (days)
+0 5 10 15 20 25
+Eltrombopag 0 mg/kg/day
+Eltrombopag 0 mg/kg/day
+Eltrombopag 10 mg/kg/day
+Eltrombopag 10 mg/kg/day
+Eltrombopag 10 mg/kg/day
+Figure 6. Increase in platelet counts in
+chimpanzees treated orally with eltrom-
+bopag for 5 days at 10 mg/kg per day
+(solid lines; n ϭ 3) or vehicle (dotted
+lines, n ϭ 2). Data are expressed as the
+fold increase of each animal over its
+baseline platelet count. Reprinted from
+Duffy KJ, Erickson-Miller CL. The dis-
+covery of eltrombopag, an orally bio-
+available TpoR agonist. In: Metcalf BW,
+Dillon S, eds. Target Validation in Drug
+Discovery. Burlington, MA: Academic
+Press, 2007:241–254, with permission.
+428 Preclinical Activity of Eltrombopag
+codynamic signal of a change in platelet count from baseline for
+eltrombopag in the chimpanzees was detected at minimum
+concentration (Cmin), Cmax, and area under the curve (AUC)
+values of approximately 0.107 ␮g/ml, 0.525 ␮g/ml, and 12.1 ␮g
+h/ml, respectively.
+DISCUSSION
+Eltrombopag represents the first in a class of orally bioavailable,
+nonpeptide TpoR agonists. In these preclinical studies, we have
+shown that eltrombopag activates TpoR with kinetics similar to
+rhTpo. Eltrombopag has high potency in in vitro assays for
+activation of the STAT and MAPK signaling pathways, and
+proliferation of Tpo-dependent cell lines. In addition, eltrom-
+bopag induced the differentiation of bone marrow precursor
+cells, the ultimate target cell of patients with thrombocytopenia,
+with EC50 values in the range of 30–300 nM. These activities of
+eltrombopag were shown to be dependent on the expression of
+the TpoR. Cells expressing other growth factor receptors, even
+those acting through the JAK/STAT signaling pathway, were
+not activated by eltrombopag, suggesting that the activation of
+JAK/STAT by eltrombopag is due to the specific activation of
+the TpoR. In addition, eltrombopag and Tpo do not bind to the
+same site on the TpoR, which prevents competitive binding and
+allows eltrombopag and Tpo to have additive cell-signaling
+effects. Differences in some aspects of the signaling pathway
+between eltrombopag and rhTpo (i.e., activation of AKT) have
+been detected in platelets [24].
+Because eltrombopag is specific for humans and chimpan-
+zees, preclinical in vivo assessments of pharmacologic activity
+were limited to chimpanzees. Oral administration of 10 mg/kg
+of eltrombopag per day to chimpanzees was shown to increase
+platelet counts after 5 days of administration, which is similar to
+the kinetics of rhTpo. These in vivo data, combined with the
+EC50 in vitro differentiation results, provided a rationale for
+examining the target effect exposure in healthy subjects in a
+phase I clinical study [25]. Oral administration of eltrombopag
+leading to a steady-state minimal concentration of Ͼ225 ng/ml
+and an AUC of 30 ␮g h/ml was targeted as the minimally
+effective pharmacokinetic activity for human studies.
+The administration of recombinant Tpo to rodents, primates,
+and humans has been shown to significantly increase circulating
+platelet levels [11–15, 26, 27]. However, attempts to develop an
+rhTpo have been unsuccessful, due in part to the development of
+neutralizing antibodies to endogenous Tpo in some patients who
+received megakaryocyte growth and development factor [16].
+Nonpeptide, small-molecule TpoR agonists like eltrombopag
+are less likely to induce immunogenicity and may also be
+conveniently administered orally.
+The development of targeted TpoR agonists has implica-
+tions for improving therapy for patients suffering from diseases
+associated with low platelet counts. For example, ITP treatment
+has focused on reducing autoimmune-induced platelet destruc-
+tion through the use of immunosuppressive or immunomodula-
+tory therapies, such as corticosteroids and injectable pooled
+immunoglobulin preparations, or even splenectomy. Data have
+emerged supporting the role of inadequate platelet production in
+ITP, and eltrombopag has been successful in boosting platelet
+counts in ITP patients [28]. Thrombopoietin receptor agonists
+may also prove to have clinical benefit in other conditions in
+which thrombocytopenia can occur, such as myelodysplastic
+syndrome [29] and HCV [30]. In addition to evaluating the
+clinical benefit of eltrombopag, the effects of eltrombopag and
+other TpoR agonists on signaling, proliferation, differentiation,
+and receptor internalization, among others, suggest many areas
+of future preclinical research opportunity.
+CONCLUSION
+The Tpo mimetic properties of eltrombopag have been demon-
+strated in vitro and in animal studies, and have provided the
+foundation for the clinical development of eltrombopag in a
+broad range of thrombocytopenia-associated conditions. Be-
+cause eltrombopag does not compete with Tpo for binding to the
+TpoR, eltrombopag and endogenous Tpo may be able to work
+together to activate platelet production. Collectively, these data
+suggest that oral eltrombopag has great potential for combating
+thrombocytopenia of various etiologies.
+ACKNOWLEDGMENTS
+The authors thank all the members of the eltrombopag teams
+who have supported this effort. This manuscript was prepared
+with assistance from MedErgy.
+DISCLOSURE OF POTENTIAL CONFLICTS
+OF INTEREST
+All authors were employees of GlaxoSmithKline or Ligand
+Pharmaceuticals and this work was supported by those compa-
+nies. Connie L. Erickson-Miller, Juan I. Luengo, Kevin J. Duffy,
+Julian M. Jenkins, Jon Rosen, and Stephen G. Miller are inven-
+tors on patents covering this work.
+REFERENCES
+1 Paquette RL. Diagnosis and management of aplastic anemia and
+myelodysplastic syndrome. Oncology (Williston Park) 2002;16(suppl
+10):153–161.
+2 Stevens W, Koene H, Zwaginga JJ et al. Chronic Idiopathic Thrombo-
+cytopenic purpura: Present strategy, guidelines and new insights. Neth
+J Med 2006;64:356–363.
+3 Tijssen MR, van der Schoot CE, Voermans C et al. Clinical approaches
+involving thrombopoietin to shorten the period of thrombocytopenia after
+high-dose chemotherapy. Transfus Med Rev 2006;20:283–293.
+4 Giannini EG. Review article: Thrombocytopenia in chronic liver disease
+and pharmacologic treatment options. Aliment Pharmacol Ther 2006;23:
+1055–1065.
+5 Bordin G, Ballare M, Zigrossi P et al. A laboratory and thrombokinetic
+study of HCV-associated thrombocytopenia: A direct role of HCV in bone
+marrow exhaustion? Clin Exp Rheumatol 1995;13(suppl 13):S39–S43.
+6 Kaushansky K, Drachman JG. The molecular and cellular biology of
+thrombopoietin: The primary regulator of platelet production. Oncogene
+2002;21:3359–3367.
+7 Kuter DJ, Begley CG. Recombinant human thrombopoietin: Basic biol-
+ogy and evaluation of clinical studies. Blood 2002;100:3457–3469.
+8 Ezumi Y, Takayama H, Okuma M. Thrombopoietin, c-Mpl ligand,
+induces tyrosine phosphorylation of Tyk2, JAK2, and STAT3, and
+enhances agonists-induced aggregation in platelets in vitro. FEBS Lett
+1995;374:48–52.
+9 Drachman JG, Millet KM, Kaushansky K. Thrombopoietin signal trans-
+duction requires functional JAK2, not TYK2. J Biol Chem 1999;274:
+13480–13484.
+10 Rojnuckarin P, Drachman JG, Kaushansky K. Thrombopoietin-in-
+duced activation of the mitogen-activated protein kinase (MAPK)
+pathway in normal megakaryocytes: Role in endomitosis. Blood
+1999;94:1273–1282.
+11 Bartley TD, Bogenberger J, Hunt P et al. Identification and cloning of a
+megakaryocyte growth and development factor that is a ligand for the
+cytokine receptor Mpl. Cell 1994;77:1117–1124.
+429Erickson-Miller, Delorme, Tian et al.
+www.StemCells.com
+12 de Sauvage FJ, Hass PE, Spencer SD et al. Stimulation of megakaryocyto-
+poiesis and thrombopoiesis by the c-Mpl ligand. Nature 1994;369:533–538.
+13 Kaushansky K, Lok S, Holly RD et al. Promotion of megakaryocyte
+progenitor expansion and differentiation by the c-Mpl ligand thrombo-
+poietin. Nature 1994;369:568–571.
+14 Lok S, Kaushansky K, Holly RD et al. Cloning and expression of murine
+thrombopoietin cDNA and stimulation of platelet production in vivo.
+Nature 1994;369:565–568.
+15 Wendling F, Maraskovsky E, Debili N et al. cMpl ligand is a humoral
+regulator of megakaryocytopoiesis. Nature 1994;369:571–574.
+16 Li J, Yang C, Xia Y et al. Thrombocytopenia caused by the development
+of antibodies to thrombopoietin. Blood 2001;98:3241–3248.
+17 Erickson-Miller CL, DeLorme E, Tian SS et al. Discovery and charac-
+terization of a selective, nonpeptidyl thrombopoietin receptor agonist.
+Exp Hematol 2005;33:85–93.
+18 Duffy KJ, Darcy MG, Delorme E et al. Hydrazinonaphthalene and
+azonaphthalene thrombopoietin mimics are nonpeptidyl promoters of
+megakaryocytopoiesis. J Med Chem 2001;44:3730–3745.
+19 Duffy KJ, Shaw AN, Delorme E et al. Identification of a pharmacophore
+for thrombopoietic activity of small, non-peptidyl molecules. 1. Discov-
+ery and optimization of salicylaldehyde thiosemicarbazone thrombopoi-
+etin mimics. J Med Chem 2002;45:3573–3575.
+20 Duffy KJ, Price AT, Delorme E et al. Identification of a pharmacophore
+for thrombopoietic activity of small, non-peptidyl molecules. 2. Rational
+design of naphtho[1,2-d]imidazole thrombopoietin mimics. J Med Chem
+2002;45:3576–3578.
+21 Erickson-Miller C, DeLorme E, Iskandar M et al. Species specificity and
+receptor domain interaction of a small molecule TpoR agonist. Blood
+2004;104:2909.
+22 Nakamura T, Miyakawa Y, Miyamura A et al. A novel nonpetidyl human
+c-Mpl activator stimulates human megakaryocytopoiesis and thrombosis.
+Blood 2006;107:4300–4307.
+23 Kim M-J, Park SH, Opella SJ et al. NMR structural studies of interac-
+tions of a small, nonpeptidyl Tpo mimic with the thrombopoietin recep-
+tor extracellular juxtamembrane and transmembrane domains. J Biol
+Chem 2007;282:14253–14261.
+24 Erhardt J, Tapley P, Erickson-Miller, C. A low molecular weight, orally
+active TpoR agonist, SB-497115, does not prime platelets for activation
+or agonist-induced aggregation in vitro. Exper Hematol 2005;33(1
+suppl):365.
+25 Jenkins JM, Williams D, Deng Y et al. Phase I clinical study of eltrom-
+bopag, an oral, nonpeptide thrombopoietin receptor agonist. Blood 2007;
+109:4739–4741.
+26 Harker LA, Marzec UM, Hunt P et al. Dose-response effects of pegylated
+human megakaryocyte growth and development factor on platelet pro-
+duction and function in nonhuman primates. Blood 1996;88:511–521.
+27 Harker LA, Roskos LK, Marzec UM et al. Effects of megakaryocyte
+growth and development factor on platelet production, platelet life
+span, and platelet function in healthy human volunteers. Blood 2000;
+95:2514–2522.
+28 Bussel JB, Cheng G, Saleh MN et al. Eltrombopag for the treatment of
+chronic idiopathic thrombocytopenic purpura. N Engl J Med 2007;357:
+2237–2247.
+29 Kantarjian HM, Giles FJ, Fenaux P et al. Evaluating safety and efficacy
+of AMG 531 for the treatment of thrombocytopenic patients with my-
+elodysplastic syndrome (MDS): Preliminary results of a phase 1/2 study.
+J Clin Oncol 2007;25(18 suppl):7032.
+30 McHutchison JG, Dusheiko G, Shiffman ML et al. Eltrombopag for
+thrombocytopenia in patients with cirrhosis associated with hepatitis C.
+N Engl J Med 2007;357:2227–2236.
+31 Duffy KJ, Erickson-Miller CL. The discovery of eltrombopag, an
+orally bioavailable TpoR agonist. In: Metcalf BW, Dillon S, eds.
+Target Validation in Drug Discovery. Burlington, MA: Academic
+Press, 2007:241–254.
+430 Preclinical Activity of Eltrombopag
+

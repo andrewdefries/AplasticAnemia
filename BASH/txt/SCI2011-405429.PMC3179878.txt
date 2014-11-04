@@ -1,0 +1,976 @@
+SAGE-Hindawi Access to Research
+Stem Cells International
+Volume 2011, Article ID 405429, 10 pages
+doi:10.4061/2011/405429
+Research Article
+Human Fetal Liver: An In Vitro Model of Erythropoiesis
+Guillaume Pourcher,1, 2, 3 Christelle Mazurier,1, 4 Y´e Yong King,1
+Marie-Catherine Giarratana,1, 5 Ladan Kobari,1, 5 Daniela Boehm,1, 5
+Luc Douay,1, 4, 5 and H´el`ene Lapillonne1, 5
+1 Prolif´eration et Diﬀ´erenciation des Cellules Souches: Application `a la Th´erapie Cellulaire H´ematopo¨ı´etique,
+INSERM, UMR S938, CDR Saint-Antoine, 75012 Paris, France
+2 Service de chirurgie g´en´erale, AP-HP Hˆopital Antoine B´ecl`ere, 92141 Clamart, France
+3 Universit´e Paris sud XI, Orsay, France
+4 Etablissement Franc¸ais du Sang Ile de France, 94200 Ivry-sur-Seine, France
+5 Service d’H´ematologie et immunologie biologique, AP-HP Hˆopital Saint Antoine/Armand Trousseau, 75012 Paris, France
+Correspondence should be addressed to H´el`ene Lapillonne, helene.lapillonne@trs.aphp.fr
+Received 5 May 2011; Accepted 24 May 2011
+Academic Editor: Anna Rita Migliaccio
+Copyright © 2011 Guillaume Pourcher et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+We previously described the large-scale production of RBCs from hematopoietic stem cells (HSCs) of diverse sources. Our present
+eﬀorts are focused to produce RBCs thanks to an unlimited source of stem cells. Human embryonic stem (ES) cells or induced
+pluripotent stem cell (iPS) are the natural candidates. Even if the proof of RBCs production from these sources has been done,
+their ampliﬁcation ability is to date not suﬃcient for a transfusion application. In this work, our protocol of RBC production
+was applied to HSC isolated from fetal liver (FL) as an intermediate source between embryonic and adult stem cells. We studied
+the erythroid potential of FL-derived CD34+ cells. In this in vitro model, maturation that is enucleation reaches a lower level
+compared to adult sources as observed for embryonic or iP, but, interestingly, they (i) displayed a dramatic in vitro expansion
+(100-fold more when compared to CB CD34+) and (ii) 100% cloning eﬃciency in hematopoietic progenitor assays after 3 days of
+erythroid induction, as compared to 10–15% cloning eﬃciency for adult CD34+ cells. This work supports the idea that FL remains
+a model of study and is not a candidate for ex vivo RBCS production for blood transfusion as a direct source of stem cells but could
+be helpful to understand and enhance proliferation abilities for primitive cells such as ES cells or iPS.
+1. Introduction
+The cell therapy approach which consists of generating
+cultured RBC (cRBC) in vitro after ampliﬁcation of stem
+cells (SC) makes sense in a context of chronic diﬃculties
+of obtaining blood supplies. More than blood supplies,
+hematopoietic diﬀerentiation of human stem cells into
+RBC has important therapeutic implications, including the
+possibility to produce virus-free units or tailor-designed phe-
+notypes for transfusion purposes. Our team has established
+an experimental procedure to reproduce in vitro terminal
+erythropoiesis from adult hematopoietic stem cells (HSC)
+from diverse sources (peripheral blood (PB), bone marrow
+(BM), and cord blood (CB)) [1, 2]. This protocol, using
+appropriate cytokines and a speciﬁc microenvironment
+(including stromal murine MS5 or Mesenchymal Stem Cells
+(MSC)) in a serum-free medium, allows HSC prolifera-
+tion and terminal diﬀerentiation in mature and functional
+enucleated RBC containing adult haemoglobin [2]. Major
+advances have allowed towards the in vitro production of
+RBCs from diverse sources in a few years. Nevertheless, their
+transfusional future will become a reality only if we are able
+to produce functional transfusable RBCs at a large scale. This
+will of course require not only the conception of appropriate
+industrial tools, but also ﬁnding the best source of stem cells.
+To date, the most accessible and proliferative source of HSC
+in a quantitative aspect is cord blood (CB) [3].
+However, this cell source is dependent on donations
+and ex vivo production of RBC is restricted to a system
+of production in batches, using the ﬁnite quantity of HSC
+available in a CB unit. Such are its limits.
+2 Stem Cells International
+Consequently, our present eﬀorts are focused on estab-
+lishing conditions to produce RBC using a permanent and
+inexhaustible source of stem cells. Human embryonic stem
+cells or recently discovered induced pluripotent stem cells
+(iPS) [4, 5] are the natural candidates. As other teams, we
+have shown the possibility to reconstitute in vitro eryth-
+ropoiesis starting from very primitive stem cells [6–13], and
+we were the ﬁrst to report the erythroid diﬀerentiation and
+maturation of iPS lines (from fetal and adult ﬁbroblasts)
+into mature enucleated RBC (4% to 10% compared to 52%
+to 66% from human ES cell line (H1)), which synthesized
+functional fetal hemoglobin [9].
+The demonstration that primitive cells can be diﬀeren-
+tiated in vitro to cells similar to their natural counterpart
+was the ﬁrst step for a potential therapeutic application. But
+there is still a major problem for a hypothetical application
+in transfusion: their ampliﬁcation. Indeed, in our conditions,
+1 ES or 1 iPS cell can generate 5000 or 1000 RBC, respectively,
+[9] whereas 1 CD34+ from CB can give up to 2.5 × 105
+RBCs
+[2]. This crucial diﬃculty of ampliﬁcation of ES or iPS has
+not yet been solved by any team.
+Rollini et al. have demonstrated that fetal liver (FL)
+could be an alternative source of HSC despite a limited
+total cell number per tissue, due to their high proliferative
+capacity [14]. Indeed, the site of erythropoiesis migrates
+during development. It takes place ﬁrst in the yolk sac and
+the para-aortic region. Erythropoiesis then migrates to the
+fetal liver between the 8th and the 22nd week of gestation
+to ﬁnally take place in the BM [15]. In the present work
+we investigated the capacity of CD34+ cells isolated from
+human FL, an ontogenic source intermediate between very
+primitive cells (ES and iPS) and adult stem cells, to expand
+and diﬀerentiate into erythroid lineage cells.
+We cocultured FL-derived CD34+ cells over an in vitro
+reconstituted bone marrow (BM) microenvironment. As
+observed for hES or iPS, only a fraction of erythroid
+cells reached terminal diﬀerentiation into mature RBC
+(15%). These few RBCs contained nearly exclusively fetal
+hemoglobin at the protein level. However, as compared to
+adult HSC, we could observe a dramatic expansion of FL-
+derived erythroid cells, 100-fold higher when compared to
+CB CD34+.
+FL is an alternative model that might be relevant to
+understanding mechanisms both implied in ampliﬁcation
+and diﬀerentiation of HSC in erythropoiesis and could be
+used as a model for other diﬀerentiation pathways.
+2. Materials and Methods
+2.1. Fetal Liver. Fetal livers were surgically obtained from
+6 aborted fetuses (after 12–14 weeks of amenorrhoea) after
+informed consent of patients was given. All experiments and
+procedures were in agreement with the guidelines from the
+French Health ministry and the Agence de la Biom´edecine.
+FL was dissociated within less than 4 hours after collection
+and ﬂushed through a 70 μm ﬁlter and preserved in a
+PBS/BSA 10% (v/v) (Sigma Aldrich, Lyon, France) solution
+until CD34 cell immunomagnetic separation, which was
+performed within a maximal 1 hour delay.
+2.2. CD34 Cell Isolation. FL CD34+ cells were isolated
+by immunomagnetic separation according to the manu-
+facturer’s guidelines (Miltenyi Biotech, Bergisch Gladbach,
+Germany). CD34+ purity was evaluated by ﬂow cytometry.
+2.3. FL-Derived Mesenchymal Stem Cells (MSCs). The CD34
+negative fractions were used for MSC generation according
+to the technique described by Doucet et al. [16]. Brieﬂy,
+cells were plated at a density of 2 × 105
+cells/cm2 and cul-
+tured in alpha-MEM medium (Biological Industries, ATGC
+Biotechnologies, Noisy le Grand, France) supplemented with
+5% (v/v) platelet-enriched plasma lysate (PL) and 2 IU/mL
+heparin (Roche Diagnostics, Basel, Switzerland). Cultures
+were fed every 3-4 days with fresh medium. At conﬂuence
+cells were replated at 6 × 103
+/cm2. The grown cells had
+a ﬁbroblast-like morphology. After 2 passages, cells were
+assessed for immunophenotyping, and their phenotype
+corresponded to MSCs, that is, CD73+, CD105+, CD90+,
+CD45−
+.
+2.4. Generation of Red Blood Cells Ex Vivo. CD34+ cells
+were cultured in a three-step procedure in a serum-free
+medium as previously described [2] with some modiﬁcations
+such as the source of serum or the use of FL mesenchymal
+stem cells (MSCs) as stroma. 2 × 104
+CD34+ cells/mL were
+ﬁrst cultured in IMDM medium (Biological Industries,
+ATGC Biotechnologies) supplemented either with 1% BSA
+or 1% human AB plasma, 10 μg/mL insulin (Sigma), and
+120 μg/mL iron-saturated human transferrin (Sigma). In
+the ﬁrst step (days 0–8), 2 × 104
+/mL CD34+ cells were
+cultured in the presence of 10−6 M hydrocortisone (Sigma),
+100 ng/mL stem cell factor (SCF, Peprotech, Neuilly sur
+Seine, France), 5 ng/mL IL-3 (R&D Systems), and 3 IU/mL
+erythropoietin (Eprex, kindly provided by Janssen-Cilag).
+On day 4, one volume of cell culture was diluted in four
+volumes of fresh medium containing hydrocortisone, SCF,
+IL-3, and erythropoietin. In the second step (days 8–10),
+the cells were replated at 5 × 104
+/mL and cocultured on
+an adherent stromal layer in fresh medium supplemented
+with erythropoietin. In the third step (days 10–18), cells
+were cultured on an adherent stromal layer in fresh medium
+without cytokines. The cultures were maintained at 37◦
+C in
+5% CO2. The adherent cell layer consisted of either the MS-5
+stromal cell line (provided by K. Mori) or fetal mesenchymal
+stromal cells (MSCs) established from the CD34 negative
+fraction of FL liver samples.
+2.5. Colony Assay. Colony-Forming Unit Granulocyte Ma-
+crophage (CFU-GM), Colony-Forming Unit Erythroid cells
+(CFU-E), Burst-Forming Unit Erythroid cells (BFU-E) and
+Colony-Forming Unit Mix (CFU-Mix) were assayed in a
+semisolid methylcellulose medium as previously described
+[17].
+2.6. Flow Cytometry Analyses. All immunophenotyping
+analyses were performed using a FACScalibur ﬂow cytome-
+ter (Becton Dickinson, Franklin Lakes, NJ, USA) using
+CellQuest Pro software. Immunophenotyping of fetal
+Stem Cells International 3
+MSCs was carried out with the following antibodies:
+FITC-conjugated anti-CD45 (Beckman Coulter, Imunotech,
+Roissy en France, France), anti-CD105 (Serotec, Cergy
+Saint Christophe, France), PE-conjugated anti-CD90, and
+anti-CD73 (Pharmingen-Becton Dickinson Franklin Lakes,
+USA). Immunophenotyping of fetal RBCs was carried
+out with the following antibodies: FITC-conjugated anti-
+CD36 and PE-conjugated anti-CD71 (Beckman Coulter,
+Imunotech). Immunophenotyping of fetal mononuclear
+cells was carried out with the following antibodies: FITC-
+conjugated anti-CD38 (DAKO, Glostrup, Denmark), anti-
+Glycophorin A, anti-CD36, anti-CD71, anti-CD45, PE-
+conjugated anti-CD117, anti-CD33, anti-CD34, anti-CD2,
+anti-CD3, anti-CD8, (Beckman Coulter-Imunotech), anti-
+CD19, anti-CD4, anti-CD14, and anti-CD56 (Becton Dick-
+inson). Appropriate negative controls (mouse anti-human
+irrelevant control) were performed for each FACS analysis.
+2.7. Cells and Hemoglobin Characterisation
+Hematological Staining. Cell diﬀerentiation was monitored
+throughout culture by morphological analysis of the cells
+after cytocentrifugation and May-Gr¨unwald-Giemsa (MGG)
+staining.
+Hemoglobin Analysis. The pattern of hemoglobin (Hb) syn-
+thesis was analyzed by high-performance liquid chromatog-
+raphy (HPLC) (Biorad variant II, BioRad Laboratories,
+Munich, Germany) with a high-resolution betathalassemia
+program.
+2.8. Semiquantitative Real-Time Reverse Transcriptase-
+Polymerase Chain Reaction (RT-PCR). Using the protocol
+of erythroid diﬀerentiation described above, we generated
+RBCs from CD34+ cells isolated from diﬀerent ontogenic
+sources (i.e., from CB, BM, and FL) in order to compare
+the kinetics of the transcriptomic proﬁle of genes known
+to be involved in erythroid diﬀerentiation (GATA-1, FOG
+1, SOX6, GFI 1b, STAT5a, FOXO3a, and α, β, γ, ε, ζ globin
+chains).
+Total RNA was prepared from cells collected at diﬀerent
+times of RBCs culture (days 8, 11, 15, 18). RNA was extracted
+using the Trizol method according to the manufacturer’s
+instructions (Invitrogen, Paisley, Scotland). 1 μg of DNase-
+treated RNA was transcribed into cDNA using 200 units
+of SuperScript II reverse transcriptase (Invitrogen) and
+150 ng of random primers (Invitrogen). The resulting cDNA
+was aliquoted to avoid repeat freeze/thaw cycles. Real-time
+PCR was performed using an ABI PRISM 7700 Sequence
+Detection System (Applied Biosystems, Foster City, Calif,
+USA). The 18S gene was used as an internal reference. All
+primers and probes were from Applied Biosystems.
+Other genes were ampliﬁed using SYBRgreen chemistry,
+and the GAPDH gene was used as an internal reference. All
+primers were from Eurogentech (Liege, Belgium).
+For both chemistries, PCR were performed in duplicate
+using either the TaqMan Master Mix or SYBR green Master
+Mix with 10 ng of cDNA and 300 nM of primers in a ﬁnal
+Table 1: Flow cytometric analysis of fetal liver cells before CD34+
+immunomagnetic separation. Fetal liver was dissociated, and the
+mononuclear cells were isolated by density-gradient centrifugation
+and analyzed by ﬂow cytometry for diﬀerent cell surface markers.
+Results are presented as the percentage of positive cells. CD: cluster
+of diﬀerentiation.
+Phenotypical analysis of mononuclear cells
+CD45 29%
+CD117 20%
+CD38 15%
+CD14 2.2%
+CD13 14.5%
+CD33 11%
+CD2, CD3, CD19, CD56 Negative
+CD36 72%
+GlycoA 68%
+CD71 78%
+CD34 22%
+volume of 25 μL. After 2 minutes incubation at 50◦
+C, the
+AmpliTaq Gold was activated by 10-minute incubation at
+95◦
+C. A total of 40 ampliﬁcation cycles were run with an
+annealing temperature of 60◦
+C. Calibration curves were
+established to check that PCR eﬃciency was similar for
+all target genes and references. The relative expression of
+a given target gene was given by the 2−ΔΔCt method [18],
+where ΔΔCt represents the diﬀerence of an unknown sample
+(days 8, 11, 15, 18 of culture) versus a control (day 0 of
+culture) for a target gene normalized to a control gene
+(18S or GAPDH). This calculation method is suitable for
+investigating physiological changes in gene expression levels.
+3. Results
+Starting from FL-derived CD34+ cells, we used a three-step
+stimulation protocol. Firstly, cell proliferation and erythroid
+diﬀerentiation were induced with stem cell factor (SCF),
+interleukin-3 (IL3), and erythropoietin (Epo). Secondly,
+the cells were cocultured with additional Epo alone on an
+in vitro reconstituted BM microenvironment (human fetal
+MSC or murine MS5 stromal cell line). In the third step,
+all exogenous factors were withdrawn, and the cells were
+incubated on the stroma alone.
+3.1. Massive Expansion and Commitment of Human Erythroid
+Cells from FL-Derived CD34+ Cells. In the starting FL
+population, smear examination showed that a majority of
+cells belonged to the erythroid lineage, more than 50% being
+proerythroblasts. As analyzed by ﬂow cytometry, most cells
+expressed markers of the erythroid lineage (69% double
+positive for CD235a/CD36 and 74% for CD235a/CD71), and
+22 ± 2.8% were CD34+/CD38−
+HSC. Other cells belonged
+to the myeloid lineage while no lymphoid B or T cells
+were detected (Table 1). After CD34+ immunomagnetic
+separation, we obtained a purity of over 90%. The three-
+step protocol resulted in a dramatic ampliﬁcation of CD34+
+4 Stem Cells International
+D0 D8 D11 D15 D18
+106
+105
+104
+103
+102
+101
+100
+FL
+CB
+BM
+Days of culture
+Cellsexpansion(fold)
+Figure 1: Ampliﬁcation of CD34+ FL cells during erythroid
+diﬀerentiation. CD34+ hematopoietic stem cells from fetal liver
+(FL) were grown in liquid culture according to the three-step
+protocol described in Section 2, and total cells were counted at
+the indicated times. Mean values with the standard deviation for
+three experiments are shown, and the results are compared to those
+for ampliﬁcation of cells from cord blood (CB) and bone marrow
+(BM).
+stem cells by 1.2 ± 0.3 × 106
+-fold (mean of six diﬀerent liver
+samples) by day 18. This ampliﬁcation represents 1 or 2 logs
+higher expansion as compared to CB (8×104
+±2 ×104
+-fold,
+n = 3) and BM (2.6 × 104
+± 0.8 × 104
+-fold, n = 3) cells,
+respectively, (Figure 1).
+The development of a large and almost pure erythroid
+cell population can probably be attributed to the preferential
+proliferation of the generated erythroid progenitors and
+their subsequent diﬀerentiation and maturation. On day
+3, 100% of the cells were clonogenic, most belonging to
+the erythroid lineage (44% BFU-E, 7% CFU-E, 33% CFU-
+GM and 16% CFU-mix). On day 8, 5% of the cells were
+clonogenic, 90% of these being BFU-Es. Late erythroid CFU-
+E progenitors proliferated extensively and constituted 57%
+of the clonogenic cell population by day 10 (Figure 2). Cells
+in culture lost their immaturity as early as day 8 as assessed
+by CD34, CD117, and CD33 negativity, while their erythroid
+commitment was conﬁrmed by CD235a, CD71, and CD36
+positivity. Day 18 cultured RBCs were CD235a+. These cells
+still expressed CD36 and CD71 markers, as was also observed
+in our model using CB and BM sources (Figure 3(a)).
+On an MS5 stromal layer, FL CD34+ cells displayed the
+same erythroid maturation kinetics as CD34+ cells from
+other sources (CB, BM, or peripheral blood, data not shown)
+up to day 15. However, their erythroid maturation was
+blocked by day 18 at the acidophilic stage, and very little
+nucleus expulsion was observed (3 to 15%) (Figure 3(b)). On
+the hypothesis that a fetal microenvironment would provide
+a more suitable niche to achieve complete maturation, we
+established cocultures over autologous or allogeneic MSCs
+grown from the FL CD34 negative fractions, but with no
+Type of colony
+BFU-E
+CFU-E
+CFU-GM
+Mix (CFU-GM + BFU-E)
+Total
+Day of culture
+D8D3 D10
+228
+32
+167
+91
+518
+100
+18
+22
+14
+154
+20
+31
+3
+2
+56
+Day 3 Day 8 Day 10
+110
+90
+70
+50
+30
+10
+−10
+CFU-GM
+CFU-Mix
+CFU-E
+BFU-E
+Cloningeﬃciency
+Figure 2: Colony formation of FL-derived erythroid cells. The
+colony forming ability of FL-derived erythroid cells was measured
+on days 3, 8, and 10 of liquid culture. Aliquots of nonadherent
+cells were grown in methylcellulose medium in the presence of SCF,
+GM-CSF, IL3, and erythropoietin. CFU-E colonies were counted on
+day 7 and BFU-E, CFU-GM, and CFU-mix colonies on day 14 of
+semisolid culture.
+improvement in the enucleation eﬃciency even by extending
+culture up to day 24.
+3.2. Hemoglobin Analysis of FL-Derived Erythroid Cells.
+Quantitative real-time PCR analysis of total RNA at diﬀerent
+times of culture (days 8, 11, 15, and 18) showed that, except
+for the β globin gene whose expression is constant regardless
+of the stage of the culture, the expression level of mRNA
+coding for the other globin genes is upregulated during the
+erythroid diﬀerentiation process.
+More particularly, the globin gene expression of the
+FL-derived erythroid cells showed to be mainly embryonic
+(ζ and ε globin chains) and fetal (γ globin chains). No adult
+β globin gene expression could be detected. BM-derived
+erythroid cells showed an adult globin proﬁle as they mainly
+expressed β globin chains and to lesser extent fetal (α, γ)
+globin chains. No embryonic genes (ζ- and ε-globin chains)
+could be detected. CB-derived erythroid cells showed a
+similar gene proﬁle but had a stronger expression of the fetal
+γ-globin chains; embryonic genes (ζ- and ε-globin chains)
+could be detected but with a variable and low expression
+(Figure 4(a)).
+Stem Cells International 5
+100
+80
+60
+40
+20
+0
+Counts
+100 101 102 103 104
+100
+80
+60
+40
+20
+0
+Counts
+100 101 102 103 104
+100
+80
+60
+40
+20
+0
+Counts
+100 101 102 103 104
+CD71 FITC CD36 FITC
+GlyA PE
+M1 M1
+M1
+Cells on day 8 of culture
+Cells on day 18 of culture
+Control isotype IgG1
+(a)
+Day 8 Day 10 Day 15 Day 18
+(b)
+Figure 3: Maturation of FL-derived erythroid cells. (a) FACS analyses of transferrin receptor (CD71), CD36 and glycophorin A (CD235a)
+expression on days 8 and 18 of liquid culture. Data are from one representative experiment and the green, light blue and dark blue, tracings
+represent the negative control and cells from days 8 and 18 of culture, respectively. (b) Photographs of the cells on days 8, 10, 15, and
+18 of liquid culture after May-Gr¨unwald-Giemsa staining. Every stage of erythroid maturation is represented: proerythroblast, basophilic
+erythroblast, polychromatophilic erythroblast, orthochromatic erythroblast, and RBCs (magniﬁcation ×50).
+HPLC analysis (n = 4) performed on erythroid cells
+derived from FL revealed mainly fetal hemoglobin (Hb)
+regardless of the time of culture. On day 8, the cells
+contained 68% (59–77%) fetal hemoglobin (HbF) including
+an acetylated fraction. A very early migrating subfraction
+was detected and could be identiﬁed as Bart Hb, which
+corresponds to the association of four γ globin chains. At
+the end of culture (days 19–24), 86% (80–89%) of the cells
+contained HbF and less than 2% (1.2–1.8%) adult HbA
+(Figure 4(b)).
+6 Stem Cells International
+α chain
+α chain
+β chain
+ε chain ζ chain
+γ chain
+2−ΔΔCt
+2−ΔΔCt
+Days of culture
+Bone marrow
+Cord blood
+Fetal liver
+Bone marrow
+Cord blood
+Fetal liver
+10000
+1000
+100
+10
+1
+2−ΔΔCt
+2−ΔΔCt
+2−ΔΔCt
+2−ΔΔCt
+10000
+1000
+100
+10
+1
+1000
+100
+10
+1
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+10
+1
+0.1
+0.01
+0.001
+10
+1
+0.1
+0.01
+0.0010.0001
+105
+103
+101
+10−1
+10−3
+10−5
+10−7
+10−9
+(a)
+100
+80
+60
+40
+20
+0
+Typeofhemoglobin(%)
+D8–D10 D16 D19–D24
+Days of culture
+Hb Bart
+HbF
+HbA
+HbA2
+33%
+22%
+12%
+0
+0 1 2 3 4 5 6
+Acetylated HbF
+Hb Bart
+HbF
+HbA
+(b)
+Figure 4: Analysis of the hemoglobin produced by FL-derived erythroid cells. (a) Quantitative real-time PCR analysis of the globin chains at
+diﬀerent times of culture (days 8, 11, 15, and 18). Relative gene expression is given by the 2−ΔΔCt method where ΔΔCt represents the diﬀerence
+of an unknown sample (days 8, 11, 15, and 18 of culture) versus a control (day 0 of culture) for a target gene (globin genes) normalized to
+a control gene (18S). (b) HPLC analysis of the hemoglobin (Hb) produced on days 8 (n = 6), 16 (n = 2), and 19–24 (n = 5) of erythroid
+diﬀerentiation. Graph and proﬁle show mainly fetal hemoglobin (HbF) including an acetylated fraction.
+Stem Cells International 7
+3.3. Gene Expression of Factors Involved in Deﬁnitive Ery-
+thropoiesis. In an attempt to explain the blockage at the
+acidophilic stage of the FL-derived erythroid cells, we
+analyzed the expression pattern of factors known to be
+involved in deﬁnitive erythropoiesis. We compared PCR
+results with those obtained for BM and CB samples taken at
+the same time of erythroid culture (days 8, 11, 15, 18). The
+2−ΔΔCt method was applied to establish relative expression of
+genes (Figure 5).
+As compared to BM or CB samples, RT-PCR revealed
+a strong downregulation of all genes for FL-derived cells
+regardless of the stage of the culture. BM and CB had the
+same expression pattern of factors except for STAT5a factor
+(for which CB showed the same proﬁle as FL). We also
+observed that the levels of gene expression were higher for
+BM than for CB.
+4. Discussion
+A large variety of ontogenic sources of HSC have been
+explored for cellular therapies. Because of constantly increas-
+ing demand in blood supplies, one particular ﬁeld of
+interest is transfusion. Thus, we and others have described
+experimental procedures which allow the massive expansion
+of CD34+ cells from various sources and the generation of
+mature RBCs [1, 2, 19–22]. To date, the most proliferative
+and accessible source of stem cells for generating cultured
+RBCs (cRBCs) is cord blood. It presents, nevertheless,
+the drawbacks of being restricted to voluntary donations
+and is not unlimited; 1 CB unit gives one batch of cRBC
+production.
+Because they are an unlimited source of stem cells, many
+studies are being carried out with ES cells and more recently
+with iPS. Critical advances have allowed progress towards the
+in vitro production of functional RBC from these sources in
+a few years. However their limited ability to expand in vitro
+is a limitation to large-scale production.
+In human development, FL is a rich source of hematopoi-
+etic progenitors between the 8th and the 22nd week of
+gestation as it is the exclusive site of erythropoiesis. Although
+“conventional” sources of HSC for generating cRBC include
+both adult (mobilized peripheral blood or CB) and primitive
+stem cells (ES or iPS cells), evidence suggests that FL may
+represent a rich alternative source of “early” HSCs, displaying
+multipotency, possessing high proliferative and repopulating
+potential [23–26]. Indeed, it has been proven to be eﬃcient
+in transplantation [27–29].
+In the present work, we addressed the question of the
+possibility of generating in vitro mature cells from HSC of
+such an intermediate ontogenic source (FL cells) between
+ES cells and adult cells. In our experimental conditions,
+FL cell maturation is mainly blocked at the acidophilic
+stage. Indeed, only few cells (3–15%) achieved terminal
+diﬀerentiation. We made the hypothesis that the blockade
+of maturation observed in vitro was the consequence of an
+inappropriate microenvironment. On the assumption that
+a microenvironment from the same ontogenic stage would
+better support erythroid diﬀerentiation, we cocultured FL-
+derived CD34+ cells on FL-derived MSC instead of the
+murine MS5 stromal cell line. However, no diﬀerence was
+observed in terms of terminal maturation, and the produced
+cells were mostly nucleated, whereas in the same culture
+conditions adult stem cells could generate fully enucleated
+cRBC. When we analyzed by RT-PCR globin transcripts of
+FL-derived erythroid cells, the transcriptomic proﬁles were
+mainly fetal (γ-globin chains) and embryonic (ζ- and ε-
+globin chains). In the same way, BM-derived erythroid cells
+showed an adult globin proﬁle as they mainly expressed
+β-globin chain and to lesser extent fetal chains (α-, γ-
+globin chains). No embryonic genes (ζ- and ε-globin chains)
+could be detected. In comparison, CB-derived erythroid cells
+showed a similar gene proﬁle but had a stronger expression
+of the fetal γ-globin chains and embryonic genes (ζ- and
+ε-globin chains) could be detected but with a variable and
+low expression. By analyzing the globin genes expression,
+we could observe that our system of culture mimics what
+happens during development and leads to globin gene
+expression patterns in accordance with the cells’ ontogeny.
+The precise molecular mechanisms that regulate the ery-
+throid diﬀerentiation process remain to be fully elucidated
+despite many genes and pathways have been described to be
+essential in erythropoiesis. In order to understand the reason
+for the enucleation deﬁciency observed with FL cells, we
+analyzed by RT-PCR the expression of some genes known to
+be involved in deﬁnitive erythropoiesis (i.e., GATA-1, FOG 1,
+SOX6, GFI 1b, STAT5a, FOXO3a) upon the following ratio-
+nale. GATA-1 is found exclusively in hematopoietic cells and
+is particularly important in erythroid and megakaryocytic
+lineages. In vitro, in the absence of GATA-1, a maturation
+deﬁcit can be observed, indicating its crucial role in terminal
+erythroid diﬀerentiation [30]. FOG-1-null embryos present
+a defect both in primitive and deﬁnitive erythropoiesis with
+a blockage of maturation at the stage of proerythroblast [31].
+The signal transducer and activator of transcription
+STAT5 is responsible for the control of proliferation, diﬀer-
+entiation, and apoptosis, via its eﬀect on gene expression.
+STAT5 proteins [32] are suggested to play an important
+role in hematopoiesis, but there are numerous contradictory
+reports on the role of STAT5 in normal hematopoietic cell
+development. A recent study [33] shows that overexpression
+of an activated mutant of (STAT5) induces erythropoiesis
+and increases long-term proliferation of human hematopoi-
+etic stem/progenitor cells. siRNA silencing of FOXO3a as well
+as the inactivation of GFI 1b led to erythroid diﬀerentiation
+blockage [34, 35]. Finally, it has been reported that, in
+CD34+ from CB, SOX6 accelerated the kinetics of erythroid
+maturation and increased the number of cells that reached
+the ﬁnal enucleation step [36].
+Our results clearly show that, in our culture conditions,
+all the genes we studied are strongly downregulated in FL
+cells, whereas they are upregulated both in BM and CB
+cells, notably in BM cells. The pattern of gene expression
+that we observed was in concordance with the enucleation
+defect observed in FL but could not fully explain it. Indeed
+this molecular analysis is qualitative and not functional.
+Nevertheless, it suggests that genes involved in terminal
+diﬀerentiation are diﬀerently regulated in the function of
+the cell ontogeny and might at least in part explain the
+8 Stem Cells International
+2−ΔΔCt
+2−ΔΔCt
+Days of culture
+Bone marrow
+Cord blood
+Fetal liver
+FOXO3a
+FOG 1
+GFI 1b
+GATA-1
+SOX6 Stat 5a
+10000
+1000
+100
+10
+1
+1
+1
+0.1
+0.01
+0.001
+0.0001
+0.00001
+2−ΔΔCt
+1000
+100
+10
+0.1
+0.01
+0.001
+0.0001
+0.00001
+1
+2−ΔΔCt
+100
+10
+0.1
+0.01
+0.001
+0.0001
+0.00001
+1000
+100
+10
+0.1
+0.01
+0.001
+0.0001
+0.00001
+2−ΔΔCt2−ΔΔCt
+100
+10
+0.1
+0.01
+0.001
+0.0001
+0.00001
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+Days of culture
+8 11 15 18
+10
+1
+0.1
+0.01
+0.001
+0.0001
+0.00001
+Bone marrow
+Cord blood
+Fetal liver
+1
+Figure 5: Gene expression of factors involved in deﬁnitive erythropoiesis. Quantitative real-time PCR analysis of genes known to be implied
+in deﬁnitive erythropoiesis at diﬀerent times of culture (days 8, 11, 15, and 18). Relative gene expression is given by the 2−ΔΔCt method where
+ΔΔCt represents the diﬀerence of an unknown sample (days 8, 11, 15, and 18 of culture) versus a control (day 0 of culture) for a target gene
+normalized to a control gene (GAPDH).
+diﬀerences observed in the ability to generate RBC in vitro.
+For many reasons, ES or iPS cells would be the natural
+candidates for the regenerative medicine of tomorrow.
+Through this model of erythropoiesis, one can understand
+how diﬀerent cells behave according to their ontogeny. As it
+is titled in the publication of Williams et al. “Children are
+not little adults: just ask their hematopoietic stem cells” [37].
+Extensive analysis on models explaining these diﬀerences
+would be of great interest to fully control the diﬀerentiation
+pathway of stem cells and would be helpful for the next
+generation of stem cell therapy.
+Even if the generation of RBCs from ES cells or iPS has
+been quite routinely achieved by several teams [6–13], none
+succeeded in a 100% enucleated population whatever the
+culture conditions. Primitive cells seem to underperform in
+terms of production yield of fully mature cRBCs in vitro. The
+question whether this is due to their ontogeny or related to
+inappropriate culture conditions remains open.
+If FL has no advantage in terms of ﬁnal maturation
+over pluripotent stem cells, we observed an interest in
+terms of ampliﬁcation. As far as the hematopoietic pathway
+is concerned, FL is known to contain a compartment of
+Stem Cells International 9
+colony-forming cells with a high proliferative potential [14,
+23–25]. These observations were conﬁrmed by our ﬁndings
+of (i) a strong expansion of CD34+ FL cells and (ii) 100%
+cloning eﬃciency in hematopoietic progenitor assays after 3
+days of erythroid induction, as compared to 10–15% cloning
+eﬃciency for adult CD34+ cells [17]. The proliferation capac-
+ity of stem cells from various sources is partly related to their
+ontogenic origin. ontogeny-related changes in proliferative
+potential of human hematopoietic cells in vitro have already
+been suggested in the literature, and analyses have shown, by
+comparing bone marrow, peripheral blood, umbilical cord
+blood, and fetal liver, that FL appears to represent a good
+target for ex vivo stem cell expansion [38, 39].
+We reproduced this observation in our culture con-
+ditions. Indeed, we observed a 100,000- and 25,000-fold
+expansion for cells from CB, BM, respectively. Strikingly, for
+FL-derived CD34+ cells, in the same culture conditions, the
+expansion reached more than 1.2 × 106
+-fold.
+FL remains a model of study and is not a candidate as
+a direct source of stem cells for ex vivo RBCs production
+for blood transfusion. On the contrary, because iPS cells can
+proliferate indeﬁnitely, they are obviously the best candidate
+to set up complementary sources of RBCs for transfusion.
+But their clinical application will need a drastic increase of
+their ability to proliferate in vitro. The present observations
+relating to erythropoiesis from FL could pave the way for
+the design of new strategies to generate induced pluripotent
+stem cells. This idea is supported by the work of Kim et al.
+[40]. In a murine model, these authors observed that iPS
+harbor residual methylation signatures of their somatic tissue
+of origin, which favors their diﬀerentiation into lineages
+related to the donor cells while restricting alternative cell
+fates. According to this logic, we could imagine that a cell
+with a high proliferative capacity thereby would be optimal
+for the production of RBC.
+Acknowledgments
+This work was supported by grants from the Associa-
+tion Combattre La Leuc´emie (CLL) and the Etablissement
+Franc¸ais du Sang (EFS). G. Pourcher and C. Mazurier equally
+contribute this work.
+References
+[1] T. M. A. Neildez-Nguyen, H. Wajcman, M. C. Marden et
+al., “Human erythroid cells produced ex vivo at large scale
+diﬀerentiate into red blood cells in vivo,” Nature Biotechnology,
+vol. 20, no. 5, pp. 467–472, 2002.
+[2] M. C. Giarratana, L. Kobari, H. Lapillonne et al., “Ex vivo
+generation of fully mature human red blood cells from
+hematopoietic stem cells,” Nature Biotechnology, vol. 23, no.
+1, pp. 69–74, 2005.
+[3] L. Douay and M. C. Giarratana, “Ex vivo generation of human
+red blood cells: a new advance in stem cell engineering,”
+Methods in Molecular Biology, vol. 482, pp. 127–140, 2009.
+[4] K. Takahashi and S. Yamanaka, “Induction of pluripotent stem
+cells from mouse embryonic and adult ﬁbroblast cultures by
+deﬁned factors,” Cell, vol. 126, no. 4, pp. 663–676, 2006.
+[5] J. Yu, M. A. Vodyanik, K. Smuga-Otto et al., “Induced
+pluripotent stem cell lines derived from human somatic cells,”
+Science, vol. 318, no. 5858, pp. 1917–1920, 2007.
+[6] C. Qiu, E. Hanson, E. Olivier et al., “Diﬀerentiation of human
+embryonic stem cells into hematopoietic cells by coculture
+with human fetal liver cells recapitulates the globin switch that
+occurs early in development,” Experimental Hematology, vol.
+33, no. 12, pp. 1450–1458, 2005.
+[7] F. Ma, Y. Ebihara, K. Umeda et al., “Generation of functional
+erythrocytes from human embryonic stem cell-derived deﬁni-
+tive hematopoiesis,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 105, no. 35, pp.
+13087–13092, 2008.
+[8] S. J. Lu, Q. Feng, J. S. Park et al., “Biologic properties and
+enucleation of red blood cells from human embryonic stem
+cells,” Blood, vol. 112, no. 12, pp. 4475–4484, 2008.
+[9] H. Lapillonne, L. Kobari, C. Mazurier et al., “Red blood
+cell generation from human induced pluripotent stem cells:
+perspectives for transfusion medicine,” Haematologica, vol. 95,
+no. 10, pp. 1651–1659, 2010.
+[10] K. D. Choi, J. Yu, K. Smuga-Otto et al., “Hematopoietic
+and endothelial diﬀerentiation of human induced pluripotent
+stem cells,” Stem Cells, vol. 27, no. 3, pp. 559–567, 2009.
+[11] C. Lengerke, M. Grauer, N. I. Niebuhr et al., “Hematopoietic
+development from human induced pluripotent stem cells,”
+Annals of the New York Academy of Sciences, vol. 1176, pp. 219–
+227, 2009.
+[12] Q. Feng, S. J. Lu, I. Klimanskaya et al., “Hemangioblastic
+derivatives from human induced pluripotent stem cells exhibit
+limited expansion and early senescence,” Stem Cells, vol. 28,
+no. 4, pp. 704–712, 2010.
+[13] J Dias, M Gumenyuk, H Kang et al., “Generation of red blood
+cells from human induced pluripotent stem cells,” Stem Cells
+and Development, vol. 20, no. 9, pp. 1639–1647, 2011.
+[14] P. Rollini, E. F. V. Hull, S. Kaiser, U. Kapp, and S. Leyvraz,
+“Phenotypic and functional analysis of human fetal liver
+hematopoietic stem cells in culture,” Stem Cells and Develop-
+ment, vol. 16, no. 2, pp. 281–295, 2007.
+[15] W. G. Wood, J. B. Clegg, and D. J. Weatherall, “Developmental
+biology of human hemoglobins,” Progress in Hematology, vol.
+10, pp. 43–90, 1977.
+[16] C. Doucet, I. Ernou, Y. Zhang et al., “Platelet lysates promote
+mesenchymal stem cell expansion: a safety substitute for
+animal serum in cell-based therapy applications,” Journal of
+Cellular Physiology, vol. 205, no. 2, pp. 228–236, 2005.
+[17] L. Kobari, F. Pﬂumio, M. C. Giarratana et al., “In vitro and in
+vivo evidence for the long-term multilineage (myeloid, B, NK,
+and T) reconstitution capacity of ex vivo expanded human
+CD34+ cord blood cells,” Experimental Hematology, vol. 28,
+no. 12, pp. 1470–1480, 2000.
+[18] K. J. Livak and T. D. Schmittgen, “Analysis of relative gene
+expression data using real-time quantitative PCR and the 2-
+ΔΔCT method,” Methods, vol. 25, no. 4, pp. 402–408, 2001.
+[19] G. Migliaccio, A. R. Migliaccio, and J. W. Adamson, “In
+vitro diﬀerentiation of human granulocyte/macrophage and
+erythroid progenitors: comparative analysis of the inﬂuence
+of recombinant human erythropoietin, G-CSF, GM-CSF, and
+IL-3 in serum-supplemented and serum-deprived cultures,”
+Blood, vol. 72, no. 1, pp. 248–256, 1988.
+[20] E. Fibach, D. Manor, A. Oppenheim, and E. A. Rachmilewitz,
+“Proliferation and maturation of human erythroid progeni-
+tors in liquid culture,” Blood, vol. 73, no. 1, pp. 100–103, 1989.
+[21] G. Migliaccio, R. Di Pietro, V. Di Giacomo et al., “In Vitro
+mass production of human erythroid cells from the blood
+10 Stem Cells International
+of normal donors and of thalassemic patients,” Blood Cells,
+Molecules, and Diseases, vol. 28, no. 2, pp. 169–180, 2002.
+[22] K. Miharada, T. Hiroyama, K. Sudo, T. Nagasawa, and Y. Naka-
+mura, “Eﬃcient enucleation of erythroblasts diﬀerentiated in
+vitro from hematopoietic stem and progenitor cells,” Nature
+Biotechnology, vol. 24, no. 10, pp. 1255–1256, 2006.
+[23] M. O. Muench, J. Cupp, J. Polakoﬀ, and M. G. Roncarolo,
+“Expression of CD33, CD38, and HLA-DR on CD34+ human
+fetal liver progenitors with a high proliferative potential,”
+Blood, vol. 83, no. 11, pp. 3170–3181, 1994.
+[24] S. F. A. Weekx, D. R. Van Bockstaele, J. Plum et al.,
+“CD34++CD38− and CD34+CD38+ human hematopoietic
+progenitors from fetal liver, cord blood, and adult bone mar-
+row respond diﬀerently to hematopoietic cytokines depending
+on the ontogenic source,” Experimental Hematology, vol. 26,
+no. 11, pp. 1034–1042, 1998.
+[25] P. Rollini, S. Kaiser, E. Faes-Van’T Hull, U. Kapp, and S.
+Leyvraz, “Long-term expansion of transplantable human fetal
+liver hematopoietic stem cells,” Blood, vol. 103, no. 3, pp.
+1166–1170, 2004.
+[26] S. Nava, M. Westgren, M. Jaksch et al., “Characterization of
+cells in the developing human liver,” Diﬀerentiation, vol. 73,
+no. 5, pp. 249–260, 2005.
+[27] G. Lucarelli, T. Izzi, and A. Porcellini, “Fetal liver transplan-
+tation in 2 patients with acute leukaemia after total body
+irradiation,” Scandinavian Journal of Haematology, vol. 28, no.
+1, pp. 65–71, 1982.
+[28] R. P. Gale, “Fetal liver transplantation in aplastic anemia and
+leukemia,” Thymus, vol. 10, no. 1-2, pp. 89–94, 1987.
+[29] C. Royo, J. L. Touraine, P. Veyron, and A. Aitouche, “Survey of
+experimental data on fetal liver transplantation,” Thymus, vol.
+10, no. 1-2, pp. 5–12, 1987.
+[30] M. J. Weiss, C. Yu, and S. H. Orkin, “Erythroid-cell-speciﬁc
+properties of transcription factor GATA-1 revealed by phe-
+notypic rescue of a gene-targeted cell line,” Molecular and
+Cellular Biology, vol. 17, no. 3, pp. 1642–1651, 1997.
+[31] A. P. Tsang, J. E. Visvader, C. A. Turner et al., “FOG, a
+multitype zinc ﬁnger protein, acts as a cofactor for tran-
+scription factor GATA-1 in erythroid and megakaryocytic
+diﬀerentiation,” Cell, vol. 90, no. 1, pp. 109–119, 1997.
+[32] T. Nosaka, T. Kawashima, K. Misawa, K. Ikuta, A. L. F.
+Mui, and T. Kitamura, “STAT5 as a molecular regulator of
+proliferation, diﬀerentiation and apoptosis in hematopoietic
+cells,” EMBO Journal, vol. 18, no. 17, pp. 4754–4765, 1999.
+[33] A. T. J. Wierenga, E. Vellenga, and J. J. Schuringa, “Down-
+regulation of GATA1 uncouples STAT5-induced erythroid
+diﬀerentiation from stem/progenitor cell proliferation,” Blood,
+vol. 115, no. 22, pp. 4367–4376, 2010.
+[34] W. J. Bakker, M. Bl´azquez-Domingo, A. Kolbus et al., “FoxO3a
+regulates erythroid diﬀerentiation and induces BTG1, an
+activator of protein arginine methyl transferase 1,” Journal of
+Cell Biology, vol. 164, no. 2, pp. 175–184, 2004.
+[35] L. Garc¸on, C. Lacout, F. Svinartchouk et al., “Gﬁ-1B plays
+a critical role in terminal diﬀerentiation of normal and
+transformed erythroid progenitor cells,” Blood, vol. 105, no.
+4, pp. 1448–1455, 2005.
+[36] Z. Yi, O. Cohen-Barak, N. Hagiwara et al., “Sox6 directly
+silences epsilon globin expression in deﬁnitive erythro-
+poiesis.,” PLoS Genetics, vol. 2, no. 2, article e14, 2006.
+[37] D. A. Williams, H. Xu, and J. A. Cancelas, “Children are not
+little adults: just ask their hematopoietic stem cells,” Journal of
+Clinical Investigation, vol. 116, no. 10, pp. 2593–2596, 2006.
+[38] P. M. Lansdorp, W. Dragowska, and H. Mayani, “Ontogeny-
+related changes in proliferative potential of human
+hematopoietic cells,” Journal of Experimental Medicine,
+vol. 178, no. 3, pp. 787–791, 1993.
+[39] S. Huang, P. Law, D. Young, and A. D. Ho, “Candidate
+hematopoietic stem cells from fetal tissues, umbilical cord
+blood vs. adult bone marrow and mobilized peripheral blood,”
+Experimental Hematology, vol. 26, no. 12, pp. 1162–1171,
+1998.
+[40] K. Kim, A. Doi, B. Wen et al., “Epigenetic memory in induced
+pluripotent stem cells,” Nature, vol. 467, no. 7313, pp. 285–
+290, 2010.
+

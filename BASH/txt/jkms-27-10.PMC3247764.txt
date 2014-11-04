@@ -1,0 +1,605 @@
+© 2012 The Korean Academy of Medical Sciences.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0)
+which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+pISSN 1011-8934
+eISSN 1598-6357
+Real-Time Nucleic Acid Sequence-Based Amplification to Predict
+the Clinical Outcome of Invasive Aspergillosis
+Monitoring the response to therapy for invasive aspergillosis (IA) is essential for the
+management of patients with hematologic diseases. We evaluated the correlation between
+the outcome of real-time nucleic acid sequence-based amplification (RTi-NASBA) for
+Aspergillus 18S rRNA and the clinical outcome of IA. A total of 157 serum samples from
+29 patients with IA were tested for RTi-NASBA. The treatment response and mortality were
+compared with the NASBA outcome (whether the NASBA value was converted to negative
+or not) at 12 weeks after the start of antifungal therapy. At 12 weeks, there was a
+moderate correlation between the treatment failure and persistently positive NASBA
+(κ = 0.482; P = 0.019). Deaths attributable to IA were more prevalent in patients without
+negative conversion of NASBA than in those with negative conversion (50% vs 5%;
+P = 0.013). Significant factors of treatment failure at 12 weeks were the status of
+hematologic disease (nonremission; P = 0.041) and the NASBA outcome (failure of
+negative conversion; P = 0.024). Survival was significantly better in patients with negative
+conversion of NASBA than those with persistently positive values (P = 0.036). This study
+suggests that the serial monitoring of RTi-NASBA could be useful for prediction of the
+clinical outcome in hematologic patients with IA.
+Key Words:  Nucleic Acid Sequence-Based Amplification; Aspergillosis; Treatment
+Outcome
+Si-Hyun Kim1
+, Chulmin Park2
+,
+Eun-Young Kwon2
+, Na-Young Shin2
+,
+Jae-Cheol Kwon1
+, Sun Hee Park1
+,
+Su-Mi Choi1
+, Dong-Gun Lee1
+,
+Jung-Hyun Choi1
+, and Jin-Hong Yoo1
+1
+Division of Infectious Diseases, Department of
+Internal Medicine and 2
+Clinical Research Institutes
+of Medical Science, The Catholic University of Korea
+College of Medicine, Seoul, Korea
+Received: 13 June 2011
+Accepted: 7 November 2011
+Address for Correspondence:
+Jin-Hong Yoo, MD
+Division of Infectious Diseases, Department of Internal Medicine,
+Bucheon St. Mary’s Hospital, 327 Sosa-ro, Wonmi-gu, Bucheon
+420-717, Korea
+Tel: +82.32-340-7014, Fax: +82.32-340-2669
+E-mail: jhyoo@catholic.ac.kr
+This study was supported by a grant of the Korea Healthcare
+Technology R&D Project, Ministry of Health & Welfare, Republic
+of Korea (A080696).
+http://dx.doi.org/10.3346/jkms.2012.27.1.10 • J Korean Med Sci 2012; 27: 10-15
+ORIGINAL ARTICLE
+Infectious Diseases, Microbiology & Parasitology
+INTRODUCTION
+Aspergillus is the most common filamentous fungal pathogen
+in febrile neutropenic patients with hematologic diseases or in
+recipients of hematopoietic stem cell transplantation (HSCT)
+(1, 2). In these patients, invasive aspergillosis (IA) has contrib-
+uted to high morbidity and mortality rates despite current avail-
+ability of new antifungal agents (3, 4).
+  Diagnostic techniques, based on detection of either the anti-
+gen (e.g. serum galactomannan by enzyme immunosorbent as-
+say [GM-EIA] and (1→3)-β-D-glucan assay) or the nucleic acid
+(e.g. PCR), could be used for early detection of the Aspergillus
+species. However, false-negative results of GM-EIA have been
+reported in patients with exposure to a mold-active antifungal
+agent (5, 6). It has also been demonstrated that high-resolution
+computed tomography also plays a limited role, particularly
+during the early period of antifungal therapy(7,8).Therefore,we
+need another proper surrogate marker to monitor the therapeu-
+tic response and to predict the clinical outcome of IA.
+  Nucleic acid sequence-based amplification (NASBA) was de-
+veloped as a diagnostic method to detect target mRNA in an iso-
+thermal amplification process. Unlike PCR to detect DNA, the
+detection of mRNA means the presence of viable fungal organ-
+isms and highly-expressed genes can be used to assess the via-
+bility of the infecting fungal organisms following antifungal ther-
+apy (9). Also, an isothermal process could have less chance of
+contamination than the PCR process using thermal cycling. We
+have devised real-time NASBA (RTi-NASBA) using molecular
+beacon and applied this technique for the diagnosis of IA in pa-
+tients with febrile neutropenia (10-12). Recently, we have tried
+a new paradigm of RTi-NASBA on the platform of the LightCy-
+cler 480 system (13). However, there has been little knowledge
+about the practical usefulness of NASBA for evaluation of the
+treatment response to antifungal therapy in patients suffering
+from IA.
+  In this study, we investigated the role of RTi-NASBA for Asper-
+gillus spp. as a predictor of the treatment response and clinical
+outcome of IA in patients with hematologic disease.
+MATERIALS AND METHODS
+Patients
+BetweenOctober2008andAugust2009,weretrospectivelyiden-
+tified the consecutive patients suspected of IA at the Catholic
+BoneMarrowTransplantationCenter,Seoul,Korea.Allepisodes
+of possible, probable, or proven IA were included, as defined by
+Kim S-H, et al.  •  RTi-NASBA and Clinical Outcome of IA
+http://jkms.org   11http://dx.doi.org/10.3346/jkms.2012.27.1.10
+the revised definitions of the invasive fungal disease published
+by the European Organization for Research and Treatment of
+Cancer/Invasive Fungal Infections Cooperative Group and the
+National Institute of Allergy and Infectious Diseases Mycoses
+StudyGroupConsensusGroup(14).Finally,weenrolledthepa-
+tients with at least 3 serial, available serum specimens to moni-
+tor the results of RTi-NASBA for the Aspergillus spp. during the
+period at risk for IA. Serum samples were usually obtained at 3
+to 7-day intervals and stored at -70°C immediately after the col-
+lections. Patients under 15 yr of age were excluded.
+  Patients with prolonged neutropenia (absolute neutrophil
+countof < 500/μLfor > 10days)receivedantimicrobialprophy-
+laxis(ciprofloxacin[500mg/day,p.o.]+fluconazole[100mg/day,
+p.o.]oritraconazoleoralsolution[5mg/kg/day]).Allpatientswith
+neutropenia or other risk factors for IA were routinely screened
+twice weekly for GM-EIA (Platelia Aspergillus, Bio-Rad, Marnes-
+la-Cocquette, France). GM-EIA value of ≥ 0.5 was regarded as
+positive. The empirical antibiotic therapy was administered to
+the neutropenic patients at the onset of fever and then modified
+promptly according to the Infectious Diseases Society of Amer-
+ica guidelines (15). The antifungal therapy was initiated empiri-
+cally in patients presenting with persistent neutropenic fever af-
+ter 5 days of antibiotic therapy or with any symptoms, signs, ra-
+diographic or laboratory evidence of IA. We reviewed the medi-
+cal records and collected the following data: demographic data,
+underlying disease, symptoms and signs related to IA, radio-
+graphic and laboratory findings, and administration of antifun-
+gal therapy.
+Performance of NASBA
+We performed quantitative RTi-NASBA targeting a highly con-
+served region of Aspergillus 18S rRNA (verified by clinically rel-
+evant Aspergillus spp. [A. fumigatus, A. flavus, A. niger, and A.
+terreus]) in serum samples as described in previous studies (10,
+11). The sequence of Asp 1.2 (including the T7-promoter se-
+quence; underlined) was 5´-AATTCTAATACGACTCACTATAG­
+GGGAGCAAAGGCCTGCTTTGAACA-3´, and that of Asp 2.1
+was: 5´-GCCGCGGTAATTCCAGCTCCAATA-3´. The sequence
+of molecular beacon was 5´-FAM-CGATCGGGTCCGCCTCAC­
+CGCGAGTACTGCGATCG-DABCYL-3´. NASBA was primarily
+performed using the Nuclisense Basic Kit (BioMérieux Korea,
+Seoul, Korea) and monitored in real-time with the LightCycler
+480 system (Roche, Mannheim, Germany). The cut-off value of
+NASBA was determined at 1.571 times the mean of thenegative
+controlvaluesasdescribedpreviously(13).Thetime to positivity
+(TTP) was defined as the time at which the target and internal
+controlamplificationcurvespassedthecut-offvalues.RNAcop-
+ies of Aspergillus spp. were calculated from the following regres-
+sion equation (16):
+  TTP = -2.2415 × Ln(copies) + 61.534
+Outcome definitions
+The study patients were divided into 2 groups based on the
+NASBA outcome, namely “NASBA success” and “NASBA fail-
+ure”. The NASBA outcome was determined as one of the follow-
+ing four patterns: overall negative, maintenance of negative con-
+version, rebounding after transient negative, and persistently
+positive. Of these four, the first and the second patterns were
+defined as “NASBA success”, while the third and the fourth pat-
+terns were assigned as “NASBA failure”. The treatment response
+and mortality were assessed at 12 weeks after the start of sys-
+temic antifungal therapy. The treatment response was catego-
+rized into 4 groups according to clinical, radiological, and my-
+cological criteria as follows: complete, partial, stable response,
+and progression of fungal disease (17). Among these categories,
+the complete and partial responses were defined as “treatment
+success” and the other two as “treatment failure”. Death during
+the study period was considered as “failure”, regardless of attri-
+bution. Death from an apparent primary cause unrelated to IA
+was excluded from the mortality rate attributable to IA. The fol-
+low-up duration was calculated from the start date of systemic
+antifungal therapy to the date of the last follow-up or until death
+from any cause.
+Statistical analysis
+CategoricalvariableswerecomparedusingtheFisher’sexacttest.
+ThecorrelationbetweentheNASBAoutcomeandthetreatment
+response was measured using the kappa coefficient (κ). The sta-
+tistical concordance was interpreted as follows: κ ≤ 0.2 was con-
+sidered as slight, 0.2 < κ ≤ 0.4 as fair, 0.4 < κ ≤ 0.6 as moderate,
+0.6 < κ ≤ 0.8assubstantialandκ > 0.8asalmostperfect(18).Cox
+regression analysis was performed to assess the predictive value
+of NASBA for treatment failure at 12 weeks. The cumulative sur-
+vival was estimated by the Kaplan-Meier method and the log-
+ranktestwasusedtocomparethedifferencebetweentheNASBA
+successandfailuregroups.Thetwo-sidedP valuesof < 0.05were
+considered statistically significant.
+Ethics statement
+This study was approved by the institutional review board of
+Yeouido St. Mary’s Hospital, the Catholic University of Korea
+(SC10SISI0012). Informed consent was exempted by the board
+due to the retrospective design.
+RESULTS
+Characteristics of the study population
+Of41patientswithsuspectedIA,29patientswerefinallyenrolled.
+The demographic characteristics and clinical features of the en-
+rolled patients are summarized in Table 1. Aspergillus spp. (2 A.
+fumigatus and 1 A. flavus) were isolated from lung tissue or spu-
+tum in only 3 patients. GM-EIA was positive at least once in 21
+Kim S-H, et al.  •  RTi-NASBA and Clinical Outcome of IA
+12   http://jkms.org http://dx.doi.org/10.3346/jkms.2012.27.1.10
+patients. The first-line antifungal agent consisted of amphoteri-
+cin B deoxycholate (n = 22), intravenous itraconazole (n = 5), or
+liposomalamphotericinB(n = 2).Themediandurationofintra-
+venous and total antifungal therapy was 20 days (range, 3-102)
+and 77 days (range, 19-214), respectively. The median follow-up
+duration was 145 days (range, 29-225).
+NASBA
+A total of 157 serum samples were collected from 29 patients.
+The median number of tested samples per patient was 5 (range,
+4-9). The overall positivity of NASBA was 27% (42/157). Of 29 pa-
+tients, 23 (79%) had at least one positive result of NASBA. Thir-
+teen patients (45%) had at least 2 positive results of NASBA and
+the median frequency of the positive NASBA was 2 (range, 1-4)
+per patient. The Aspergillus RNA titers ranged from 1 to 59,541
+copies/mL. The median peak value of NASBA was higher in the
+NASBA failure group (2,303 copies/mL [range, 7-45,959]) than
+in the NASBA success group (91 copies/mL [range, 1-59,541];
+P = 0.093). The median duration of persistently positive NASBA
+was 10 days (range, 1-37) in the NASBA failure group and 7 days
+(range,2-23)intheNASBAsuccessgroup,respectively(P = 0.548).
+NASBA and clinical outcome
+The NASBA outcome was as follows: overall negative (n = 6),
+maintenance of negative conversion (n = 15), rebounding after
+transient negative (n = 3), and persistently positive (n = 5). As
+the final outcome based on the NASBA results, NASBA success
+and NASBA failure were 21 and 8, respectively.
+  Table2showsthetreatmentresponseandtheclinicaloutcome
+at 12 weeks according to the NASBA outcome. A moderate cor-
+relation was found between the NASBA outcome and the treat-
+ment response (κ = 0.482; positive predictive value, 63%; nega-
+tive predictive value, 86%; P = 0.019). Treatment failure was sig-
+nificantly more prevalent in the NASBA failure group than in the
+NASBA success group (63% [5/8] vs 14% [3/21]; odds ratio [OR],
+10.0; 95% confidence interval [CI], 1.523-65.679). All 8 patients
+Table 1. Demographic and clinical characteristics of 29 patients with invasive asper-
+gillosis
+Characteristics No. (%) of patients
+Age, yr, median (range) 49 (15-79)
+Male sex 15 (52)
+Underlying hematologic disease
+Diagnosis
+Acute myeloid leukemia
+Acute lymphocytic leukemia
+Myelodysplastic syndrome
+Severe aplastic anemia
+Others*
+Treatment
+Chemotherapy
+Hematopoietic stem cell transplantation
+Conservative treatment
+Status, complete remission
+15 (52)
+5 (17)
+3 (10)
+3 (10)
+3 (10)
+18 (62)
+5 (17)
+6 (21)
+17 (59)
+Invasive aspergillosis
+Risk factor
+Neutropenia
+Graft-versus-host disease
+Glucocorticoid use
+Uncontrolled leukemia
+Category
+Proven
+Probable
+Possible
+Organ
+Pulmonary
+Extrapulmonary
+21 (72)
+3 (10)
+3 (10)
+2 (7)
+2 (7)
+21 (72)
+6 (21)
+24 (83)
+5 (17)
+Duration of neutropenia, days, median (range) 30 (9-141)
+Total number of NASBA tests per patient, median (range) 5 (4-9)
+Mortality at 12 weeks 8 (28)
+*Included multiple myeloma (n = 2) and chronic lymphocytic leukemia (n = 1). NASBA,
+nucleic acid sequence-based amplification.
+Table 2. Treatment responses at 12 weeks according to the nucleic acid sequence-
+based amplification outcome
+No. (%) of patients
+NASBA success
+(n = 21)
+NASBA failure
+(n = 8)
+Success
+Complete response
+Partial response
+18 (86)
+10
+8
+3 (37)
+2
+1
+Failure
+Stable response
+Progression
+Death
+3 (14)
+-
+-
+3
+5 (63)
+-
+-
+5
+NASBA, nucleic acid sequence-based amplification.
+Table 3. Clinical characteristics and causes of death of 8 patients who died within 12 weeks
+No.
+NASBA
+outcome
+Sex
+Age
+(yr)
+Hematologic disease Invasive aspergillosis Antifungal therapy
+Cause of death
+Dx Tx Category Organ First-line Second-line
+1 Success M 38 AML HSCT Probable Pulmonary cAMB Voriconazole Acute GVHD
+2 Success F 62 ALL CTx Probable Pulmonary cAMB Voriconazole Massive hemoptysis
+3 Success M 38 SAA Conservative Probable Pulmonary Itraconazole Voriconazole Progression of IA
+4 Failure M 39 AML CTx Probable Pulmonary cAMB LAMB Uncontrolled leukemia
+5 Failure F 48 SAA Conservative Probable Extrapulmonary cAMB Voriconazole Progression of IA
+6 Failure M 79 CLL CTx Probable Pulmonary cAMB LAMB Progression of IA
+7 Failure M 28 AML CTx Probable Pulmonary cAMB Caspofungin Progression of IA
+8 Failure M 50 ALL CTx Probable Pulmonary cAMB Voriconazole Progression of IA
+NASBA, nucleic acid sequence-based amplification; M, male; AML, acute myeloid leukemia; HSCT, hematopoietic stem cell transplantation; cAMB, amphotericin B deoxycho-
+late; GVHD, graft-versus-host disease; F, female, ALL, acute lymphocytic leukemia; CTx, chemotherapy; SAA, severe aplastic anemia; IA, invasive aspergillosis; LAMB, liposomal
+amphotericin B; CLL, chronic lymphocytic leukemia; IA, invasive aspergillosis.
+Kim S-H, et al.  •  RTi-NASBA and Clinical Outcome of IA
+http://jkms.org   13http://dx.doi.org/10.3346/jkms.2012.27.1.10
+who showed treatment failure had died within 12 weeks (Table
+3).ThecausesofdeathincludedprogressionofIA(n = 5),refrac-
+tory acute graft-versus-host disease (GVHD) (n = 1), massive
+hemoptysis related to invasive pulmonary aspergillosis (n = 1),
+anduncontrolledleukemia(n = 1).Amongthese,refractoryacute
+GVHD, massive hemoptysis, and uncontrolled leukemia were
+excluded from the cause of death attributed to IA. The mortality
+rate attributable to IA was significantly higher in the NASBA fail-
+ure group than in the NASBA success group (50% [4/8] vs 5%
+[1/21]; OR, 20.0; 95% CI, 1.743-229.492; κ = 0.512).
+  In the Cox regression analysis, significant predictors of the
+treatment failure at 12 weeks were the status of hematologic dis-
+ease (i.e. non-remission) and the NASBA outcome (i.e. NASBA
+failure) (Table 4). The median survival duration was 152 days
+(95%CI,111-167)intheNASBAsuccessgroupand69days(95%
+CI, 41-144) in the NASBA failure group, respectively. The surviv-
+al rate of patients in the NASBA success group was significantly
+higher than that in the NASBA failure group (Fig. 1).
+DISCUSSION
+In this study, we investigated whether the serial monitoring of
+RTi-NASBA could predict the treatment response and clinical
+outcome of IA in patients with hematologic diseases. There is a
+lack of the sensitivity of culture for Aspergillus spp. from clinical
+specimens (19). If Aspergillus is isolated from infected tissue, the
+measurementoffungalburdenintheinfectedtissueiscriticalin
+the evaluation of the therapeutic response. As a reference meth-
+od, thequantitativecultureusingthecolonyformingunit(CFU)
+countinghasbeenutilizedforvariousorganismsincludingsuch
+fungalpathogensasCandidaspp.andCryptococcusneoformans.
+However, repeated sampling of the infected tissue by invasive
+Table 4. Cox regression analysis for the prediction of treatment failure at 12 weeks
+Characteristics Hazard ratio (95% CI) P
+Age
+≤ 60 yr old
+> 60 yr old
+1.00
+2.385 (0.477-11.934) 0.290
+Sex
+Female
+Male
+1.00
+3.568 (0.718-17.736) 0.120
+Treatment of hematologic disease
+Chemotherapy
+Hematopoietic stem cell transplantation
+Conservative treatment
+1.00
+0.766 (0.148-3.961)
+0.567 (0.051-6.265)
+0.751
+0.643
+Status of hematologic disease
+Complete remission
+Nonremission
+1.00
+5.349 (1.074-26.646) 0.041
+Organ of invasive aspergillosis
+Pulmonary
+Extrapulmonary
+1.00
+0.035 (0.000-57.069) 0.374
+NASBA outcome
+Success
+Failure
+1.00
+5.235 (1.246-21.999) 0.024
+NASBA, nucleic acid sequence-based amplification.
+Fig. 1. Cumulative survival of the patients according to the nucleic acid sequence-
+based amplification (NASBA) outcome.
+Cumulativesurvival(%)
+Time (weeks)
+Log-rank test:
+chi-square = 4.412
+P value = 0.036
+	 0	 7	 14	 21	 29	 36
+100
+80
+60
+40
+20
+0
+NASBA failure
+NASBA success
+Censored
+procedure may not be feasible in immunocompromised pa-
+tients. Furthermore, CFU counting may not accurately estimate
+the burden of filamentous fungi, such as Aspergillus spp., be-
+cause of their characteristic growth patterns (20). Several inves-
+tigatorshaveattemptedtomeasurethefungalburdenusingnon-
+culture-based methods for Aspergillus spp. It has been shown
+that GM-EIA, (1→3)-β-D-glucan, quantitative PCR, and NASBA
+were available alternatives to the quantitative culture (21-24).
+Recently, the kinetics of GM-EIA has been reported as a predic-
+tive tool either for assessing the prognosis or for the surrogate
+marker for the treatment endpoint of IA (25-27). There has been
+a report showing that the tendency for persistently positive PCR
+was related to a poor prognosis of IA (28). The marker-guided
+approach could have several advantages, as follows: 1) proper
+modification of the antifungal therapy at the appropriate time,
+2) determination of the optimal duration of the antifungal ther-
+apy, 3) minimization of the antifungal drug use and reduction
+of both the toxicity and the cost related to antifungal therapy.
+  Nucleic acid-based amplification assays, including PCR and
+NASBA, require numerous precautions to minimize false-posi-
+tiveresultsduetopreviouslyamplifiedproductsorenvironmen-
+tal presence of fungal spores or DNA (29). To date, most studies
+using nucleic acid-detection tests have been focused primarily
+onstandardizationandvalidationoftheaccurateandearlydiag-
+nosis of IA (10, 11, 30). In this study, the patients without nega-
+tive conversion of Aspergillus mRNA, even at the end of the clin-
+icalcourse,showedatendencyforhigherpeakvaluesofNASBA.
+The duration of the persistently positive NASBA was longer in
+these patients, although the differences were not statistically sig-
+nificant.TherewasasignificantassociationbetweentheNASBA
+and the clinical outcome at 12 weeks, not at 6 weeks (data not
+shown). The reason for this difference was possibly that the ad-
+ministration of antifungal agents with known increased activity
+on Aspergillusspp.,suchasvoriconazole,wasdelayedassalvage
+Kim S-H, et al.  •  RTi-NASBA and Clinical Outcome of IA
+14   http://jkms.org http://dx.doi.org/10.3346/jkms.2012.27.1.10
+therapy in most patients. This is attributed to the limitation of
+the national health insurance system of Korea. Ultimately, supe-
+rior survival in the NASBA success group implied a significant
+impact of IA on mortality of immunocompromised patients.
+  Our study had several limitations. We investigated a relatively
+smallnumberofpatients,andthesamplingintervalsforNASBA
+were not uniform because data was retrospectively collected.
+ThisstudyincludedpossiblecasesofIAthatcouldimpactonthe
+results. Nevertheless, to the best of our knowledge, this is the
+first report showing that patients with the persistently positive
+NASBA at the end of the clinical course were significantly asso-
+ciated with both treatment failure and death attributable to IA.
+We consider that our findings have to be complemented by the
+well-designed future studies performed on a larger scale.
+  In conclusion, the serial monitoring of RTi-NASBA correlated
+well with the clinical outcome of IA in patients with hematolog-
+ic diseases during the antifungal treatment. It is suggested that
+the RTi-NASBA can be used as a useful marker to predict the
+treatment response and clinical outcome of IA.
+REFERENCES
+1.	Marr KA, Carter RA, Crippa F, Wald A, Corey L. Epidemiology and out-
+come of mould infections in hematopoietic stem cell transplant recipi-
+ents. Clin Infect Dis 2002; 34: 909-17.
+2.	Yoo JH, Lee DG, Choi SM, Choi JH, Park YH, Kim YJ, Kim HJ, Lee S, Kim
+DW, Lee JW, Min WS, Shin WS, Kim CC. Infectious complications and
+outcomes after allogeneic hematopoietic stem cell transplantation in Ko-
+rea. Bone Marrow Transplant 2004; 34: 497-504.
+3.	Slobbe L, Polinder S, Doorduijn JK, Lugtenburg PJ, el Barzouhi A, Stey-
+erberg EW, Rijnders BJ. Outcome and medical costs of patients with in-
+vasive aspergillosis and acute myelogenous leukemia-myelodysplastic
+syndrome treated with intensive chemotherapy: an observational study.
+Clin Infect Dis 2008; 47: 1507-12.
+4.	Maschmeyer G, Haas A, Cornely OA. Invasive aspergillosis: epidemiol-
+ogy,diagnosisandmanagementinimmunocompromisedpatients.Drugs
+2007; 67: 1567-601.
+5.	WheatLJ,WalshTJ.Diagnosis of invasive aspergillosis by galactomannan
+antigenemia detection using an enzyme immunoassay. Eur J Clin Micro-
+biol Infect Dis 2008; 27: 245-51.
+6.	Marr KA, Laverdiere M, Gugel A, Leisenring W. Antifungal therapy de-
+creases sensitivity of the Aspergillus galactomannan enzyme immunoas-
+say. Clin Infect Dis 2005; 40: 1762-9.
+7.	Caillot D, Couaillier JF, Bernard A, Casasnovas O, Denning DW, Man-
+none L, Lopez J, Couillault G, Piard F, Vagner O, Guy H. Increasing vol-
+ume and changing characteristics of invasive pulmonary aspergillosis
+on sequential thoracic computed tomography scans in patients with neu-
+tropenia. J Clin Oncol 2001; 19: 253-9.
+8.	Brodoefel H, Vogel M, Hebart H, Einsele H, Vonthein R, Claussen C,
+HorgerM. Long-term CT follow-up in 40 non-HIV immunocompromised
+patients with invasive pulmonary aspergillosis: kinetics of CT morphol-
+ogy and correlation with clinical findings and outcome. AJR Am J Roent-
+genol 2006; 187: 404-13.
+9.	Perlin DS, Zhao Y. Molecular diagnostic platforms for detecting Asper-
+gillus. Med Mycol 2009; 47: S223-32.
+10.	Yoo JH, Choi JH, Choi SM, Lee DG, Shin WS, Min WS, Kim CC.Applica-
+tion of nucleic acid sequence-based amplification for diagnosis of and
+monitoring the clinical course of invasive aspergillosis in patients with
+hematologic diseases. Clin Infect Dis 2005; 40: 392-8.
+11.	Yoo JH, Choi SM, Lee DG, Park SH, Choi JH, Kwon EY, Shin WS. Com-
+parison of the real-time nucleic acid sequence-based amplification (RTi-
+NASBA) with conventional NASBA, and galactomannan assay for the
+diagnosis of invasive aspergillosis. J Korean Med Sci 2007; 22: 672-6.
+12.	Yoo JH, Choi SM, Choi JH, Kwon EY, Park C, Shin WS. Construction of
+internal control for the quantitative assay of Aspergillus fumigatus using
+real-time nucleic acid sequence-based amplification. Diagn Microbiol
+Infect Dis 2008; 60: 121-4.
+13.	Park C, Kwon EY, Shin NY, Choi SM, Kim SH, Park SH, Lee DG, Choi JH,
+Yoo JH. Evaluation of nucleic acid sequence based amplification using
+fluorescence resonance energy transfer (FRET-NASBA) in quantitative
+detection of Aspergillus 18S rRNA. Med Mycol 2011; 49: 73-9.
+14.	De Pauw B, Walsh TJ, Donnelly JP, Stevens DA, Edwards JE, Calandra T,
+Pappas PG, Maertens J, Lortholary O, Kauffman CA, Denning DW, Pat-
+tersonTF,MaschmeyerG,BilleJ,DismukesWE,HerbrechtR,HopeWW,
+KibblerCC,KullbergBJ,MarrKA,MuñozP,OddsFC,PerfectJR,Restrepo
+A, Ruhnke M, Segal BH, Sobel JD, Sorrell TC, Viscoli C, Wingard JR,
+Zaoutis T, Bennett JE; European Organization for Research and Treat-
+ment of Cancer/Invasive Fungal Infections Cooperative Group; the Na-
+tional Institute of Allergy and Infectious Diseases Mycoses Study Group
+(EORTC/MSG) Consensus Group. Revised definitions of invasive fungal
+disease from the European Organization for Research and Treatment of
+Cancer/Invasive Fungal Infections Cooperative Group and the National
+Institute of Allergy and Infectious Diseases Mycoses Study Group (EORTC/
+MSG) Consensus Group. Clin Infect Dis 2008; 46: 1813-21.
+15.	Hughes WT, Armstrong D, Bodey GP, Bow EJ, Brown AE, Calandra T,
+Feld R, Pizzo PA, Rolston KV, Shenep JL, Young LS. 2002 guidelines for
+the use of antimicrobial agents in neutropenic patients with cancer. Clin
+Infect Dis 2002; 34: 730-51.
+16.	Patterson SS, Casper ET, Garcia-Rubio L, Smith MC, Paul JH 3rd. In-
+creased precision of microbial RNA quantification using NASBA with an
+internal control. J Microbiol Methods 2005; 60: 343-52.
+17.	Segal BH, Herbrecht R, Stevens DA, Ostrosky-Zeichner L, Sobel J, Viscoli
+C, Walsh TJ, Maertens J, Patterson TF, Perfect JR, Dupont B, Wingard JR,
+Calandra T, Kauffman CA, Graybill JR, Baden LR, Pappas PG, Bennett
+JE, Kontoyiannis DP, Cordonnier C, Viviani MA, Bille J, Almyroudis NG,
+Wheat LJ, Graninger W, Bow EJ, Holland SM, Kullberg BJ, Dismukes WE,
+De Pauw BE. Defining responses to therapy and study outcomes in clini-
+cal trials of invasive fungal diseases: Mycoses Study Group and European
+Organization for Research and Treatment of Cancer consensus criteria.
+Clin Infect Dis 2008; 47: 674-83.
+18.	Chmura Kraemer H, Periyakoil VS, Noda A. Kappa coefficients in medi-
+cal research. Stat Med 2002; 21: 2109-29.
+19.	Segal BH. Aspergillosis. N Engl J Med 2009; 360: 1870-84.
+20.	Latgé JP. Aspergillus fumigatus and aspergillosis. Clin Microbiol Rev 1999;
+12: 310-50.
+21.	Wiederhold NP, Najvar LK, Vallor AC, Kirkpatrick WR, Bocanegra R,
+Molina D, Olivo M, Graybill JR, Patterson TF. Assessment of serum (1->3)-
+beta-D-glucan concentration as a measure of disease burden in a murine
+Kim S-H, et al.  •  RTi-NASBA and Clinical Outcome of IA
+http://jkms.org   15http://dx.doi.org/10.3346/jkms.2012.27.1.10
+model of invasive pulmonary aspergillosis. Antimicrob Agents Chemother
+2008; 52: 1176-8.
+22.	Vallor AC, Kirkpatrick WR, Najvar LK, Bocanegra R, Kinney MC, Fother-
+gill AW, Herrera ML, Wickes BL, Graybill JR, Patterson TF.Assessment of
+Aspergillus fumigatus burden in pulmonary tissue of guinea pigs by quan-
+titative PCR, galactomannan enzyme immunoassay, and quantitative
+culture. Antimicrob Agents Chemother 2008; 52: 2593-8.
+23.	Park SH, Choi SM, Lee DG, Choi JH, Kim SH, Kwon JC, Yoo JH, Kim HJ,
+Lee S, Eom KS, Min WS. Serum galactomannan strongly correlates with
+outcome of invasive aspergillosis in acute leukaemia patients. Mycoses
+2011; 54: 523-30.
+24.	Yoo JH, Lee DG, Choi SM, Shin WS. Evaluation of nucleic acid sequence-
+based amplification (NASBA) for diagnosis and monitoring of invasive
+aspergillosis: a preliminary report. Infect Chemother 2003; 35: 99-106.
+25.	Maertens J, Buvé K, Theunissen K, Meersseman W, Verbeken E, Verhoef
+G,VanEldereJ,LagrouK. Galactomannan serves as a surrogate endpoint
+for outcome of pulmonary invasive aspergillosis in neutropenic hema-
+tology patients. Cancer 2009; 115: 355-62.
+26.	Koo S, Bryar JM, Baden LR, Marty FM. Prognostic features of galacto-
+mannan antigenemia in galactomannan-positive invasive aspergillosis.
+J Clin Microbiol 2010; 48: 1255-60.
+27.	Woods G, Miceli MH, Grazziutti ML, Zhao W, Barlogie B, Anaissie E.
+Serum Aspergillus galactomannan antigen values strongly correlate with
+outcome of invasive aspergillosis: a study of 56 patients with hematolog-
+ic cancer. Cancer 2007; 110: 830-4.
+28.	Hummel M, Spiess B, Cornely OA, Dittmer M, Mörz H, Buchheidt D.
+Aspergillus PCR testing: results from a prospective PCR study within the
+AmBiLoad trial. Eur J Haematol 2010; 85: 164-9.
+29.	Bretagne S. Primary diagnostic approaches of invasive aspergillosis:
+molecular testing. Med Mycol 2011; 49: S48-53.
+30.	White PL, Bretagne S, Klingspor L, Melchers WJ, McCulloch E, Schulz B,
+Finnstrom N, Mengoli C, Barnes RA, Donnelly JP, Loeffler J; European
+Aspergillus PCR Initiative. Aspergillus PCR: one step closer to standard-
+ization. J Clin Microbiol 2010; 48: 1231-40.
+

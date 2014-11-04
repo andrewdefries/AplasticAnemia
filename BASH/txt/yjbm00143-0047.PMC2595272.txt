@@ -1,0 +1,804 @@
+THE YALE JOURNAL OF BIOLOGY AND MEDICINE 49, 149-164 (1976)
+The Principles of Clinical Decision Making:
+An Introduction to Decision Analysis
+JEROME P. KASSIRER1
+Clinical Decision Making Group, Department ofMedicine, Tufts University School
+of Medicine and the Medical Service, New England Medical Center Hospital,
+Boston, Massachusetts 02111
+Received October 7, 1975
+INTRODUCTION
+The ability to make the rational decisions that lead to optimum therapeutic out-
+comes is one of the cardinal characteristics of an outstanding clinician. Nonetheless,
+most of the energy expended in the education of medical students and house officers
+is directed into teaching a huge body of facts and methods for gathering and inter-
+preting data; little or no attention is given to the principles that underlie clinical deci-
+sion making. In fact, the principles of decision making are often obscured by the sub-
+stitution of established protocols; that is, standard methods or rules of procedure for
+a given clinical situation. For example: Operate for suspected appendicitis, give digi-
+talis for cardiac failure, or carry out renal arteriography for hypertension. The ap-
+plication of protocols has become so widespread that for many diseases students
+eagerly commit to memory a "treatment of choice." We are often chagrined when
+students or house officers proposed to give the usual therapeutic dose of digitalis to
+patients with myxedema or chronic pulmonary disease or when they recommend
+pulmonary arteriography in a patient with clear-cut evidence of pulmonary
+embolism. But should we be surprised? They are only following the rules that we have
+laid out for them, not going back to first principles.
+In recent years a number of methods have been developed to complement the deci-
+sion-making capabilities of the student and physician. One ofthese, decision analysis,
+found its earliest application in fields widely diverse from medicine such as military
+planning, economics, and marketing (1-3). Increasingly, this technique has filtered
+into the medical literature describing methods for dealing with clinical problems such
+as cancer (4), acute renal failure (5), pleural effusion (6), renovascular hypertension
+(7,8), appendicitis, and pulmonary embolism (9). Despite the potential usefulness of
+this explicit approach to the unstructured decision making that characterizes most
+clinical problems, decision analysis has not yet gained a foothold either in the cur-
+riculum or at the bedside. In part, lack of familiarity with the methods employed and
+with terms such as "decision trees," "chance nodes," "utilities," and "expected
+value" may account for the sluggish acceptance. This paper, an elementary introduc-
+tion to the principles of decision analysis, will describe the method and some of the
+simple calculations involved, illustrate its use in the analysis of a complex clinical
+problem, and consider various aspects of its application in the practice and teaching
+of clinical medicine.
+'Address reprint requests to: Dr. Kassirer at 171 Harrison Avenue, Boston, Mass. 02111.
+149
+Copyright © 1976 by Academic Press, Inc.
+All rights of reproduction in any form reserved.
+JEROME P. KASSIRER
+THE ELEMENTS OF A DECISION
+Choosing between two or more possible courses of action requires that the choices
+are clearly identified and that a method is available to assess the overall value of the
+outcome of each choice. Two elements critically influence the decision-making
+process. First, our decisions usually must be made with some degree of uncertainty
+about the future. Second, the various possible outcomes of our decisions have
+different values to us.
+Suppose we are invited for an ocean sail, but to reach the coast requires a 2-hr
+drive through heavy traffic; suppose also that on the morning of the outing we ob-
+serve many ominous nimbus clouds in the sky. In this case, our decision will be
+influenced by the likelihood, orprobability, of rain. We shall assume that, if we could
+be assured that it will not rain, we would venture forth, whereas, if we were certain
+that it will rain, we would not. In this example there is some uncertainty about the
+prospect of rain, and we must make an assessment about its probability. To make a
+logical decision we must also be able to make a subjective assessment ofthe value, or
+utility, or each possible outcome. If we decide to drive to the coast and weather con-
+ditions are favorable, the outcome will consist ofgood sailing (very high utility), but if
+heavy rains occur the outcome will consist of wasted driving effort (very low utility).
+On the other hand, if we decide not to take the drive and the weather is poor, the out-
+come will consist of avoiding the tedious drive and using the time at home construc-
+tively (moderately high utility). But if we stay at home and the weather remains ex-
+cellent, the outcome is a loss of the pleasurable experience of sailing (low utility).
+Notice that each of these outcomes is quite different qualitatively, yet the decision
+maker must be able to state his preferences about the various outcomes and compare
+their values on a common scale.
+The discipline of decision analysis encompasses all of these factors; it involves lay-
+ing out the options and possible outcomes in explicit detail using a "decision tree,"
+assessing the probabilities and values of each outcome, and selecting the "best"
+choice.
+THE COMPLEXITIES OF A CLINICAL PROBLEM
+Many of the elements of clinical decision making can be illustrated by considering
+the process a skilled physician might utilize in thinking about how to deal with a
+specific patient. Suppose a patient was encountered who had had a splenectomy a
+month earlier and now showed clinical findings suggestive, but not diagnostic, of a
+subphrenic abscess. The physician might consider many factors before deciding
+whether or not to operate. How likely is it that an abscess is present? Could the
+clinical findings be explained by a medically treatable disorder, for example,
+pancreatitis? If the patient is subjected to surgery, will a surgical or anesthetic com-
+plication occur, and how serious will such an event be? If surgery is carried out, will
+the surgeon be able to deal successfully with the abscess? How serious will it be if the
+lesion is not adequately excised or drained? What are the consequences of failing to
+operate if the patient has a surgically correctable lesion? Would a surgical lesion re-
+solve under medical therapy? If so, how often would this occur and how often would
+complications occur? How serious would these complications be?
+Though these questions and perhaps others should be considered in dealing with a
+clinical problem such as the one described, the integration of all this diverse informa-
+tion into a reasoned decision is not a simple matter. The integrative process is usually
+carried out in a tacit fashion, largely because most physicians do not have command
+of an explicit method for therapeutic decision making. Such an explicit decision-
+making method will be described here.
+150
+DECISION ANALYSIS
+HELP THE QUARTERBACK
+Before going on in greater depth into the principles of medical decision making, a
+simple example of the use of decision analysis will be shown for the reader unfamiliar
+with this technique: Though the example to be shown is not directly analogous to the
+problems encountered in clinical medicine, it does illustrate how probabilities and
+values can be expressed explicitly and how these elements can be incorporated into
+the decision-making process. Assume the following conditions:
+The quarterback's team has possession of the ball on the 18-yard line of his op-
+ponent and with 1 minute left in the game his team trails by four points. It is the
+fourth down, with 5 yards to go for a first down.
+Analysis. The choices are to pass, kick a field goal, or attempt a running play.
+Before the quarterback can decide which choice to make, however, he must know
+what the outcomes of each choice might be. A decision tree representing the choices
+and possible outcomes is shown in Fig. 1. At the square node, the choice is in the
+hands of the decision maker (the quarterback); at the circular nodes the outcome is
+dictated by chance. Next, the quarterback must assess the likelihood of each out-
+come. The probabilities he selects for each outcome are shown in Fig. I. These
+probabilities are based not only on objective historical data (for example, the average
+yardage gained by his running backs, the success of his pass receivers, and the ac-
+curacy of his field goal kicker), but they are also tailored for the actual conditions of
+the game at that moment. Injury to his offensive line, experience with the defense
+earlier in the game, the condition of the field, psychological pressures, and many
+other factors will influence the likelihood of each of the possible outcomes and will
+make it necessary to make a subjective adjustment of some or all of the probabilities.
+Even when the quarterback is assured that the probabilities represent his best
+CHOICES OUTCOMES a PROBABILITIES
+TOUCHDOWN .10
+COMPLETE I St DOWN .50
+.40 | SHORTOF 1st DOWN .40
+INCOMPLETE
+.48
+.06
+RECOVERY .50
+FUMBLE FROM CENTER
+.03 I TURN-OVER .50
+THROWN FOR LOSS
+.03
+GOOD
+ATTEMPT FIELD GOAL .90
+NOT GOOD
+.10
+TOUCHDOWN
+.02
+1st DOWN
+.15
+RUN SHORTOF 1st DOWN
+.78
+RECOVERY .50
+FUMBLE
+.03 TURN-OVER .50
+LOSS
+.02
+FIG. 1. Decision tree for the football example described in the text. At the square node, the choice is in
+the hands of the decision maker (the quarterback), and at the circular nodes the outcome is dictated by
+chance. The probabilities of each outcome, as estimated by the quarterback, are shown on each branch.
+151
+JEROME P. KASSIRER
+TABLE 1
+Utilities
+Outcomes (units)
+Touchdown 1000
+First down 500
+Field goal 20
+Short offirst down 0
+Incomplete pass 0
+Fumble with recovery 0
+Loss 0
+Fumble with turnover -50
+Intercepted pass -100
+judgment, he is not yet in a position to make a decision. Even though the probability
+of a field goal is 0.9, for example, its value is limited because it generates only 3 points
+and fails to win the game; on the other hand, the probability that a pass will lead to a
+touchdown is low, but the value of this outcome is high. It should be apparent from
+these remarks that the relative worth of each of the alternate courses of action is a
+function of both the probability of the outcome and the value, or utility, of the out-
+come. Thus, in order to obtain some index of the worth of each outcome it is
+necessary to develop an assessment of the utility of the outcome. In this case let us
+set up an arbitrary scale of relative units. On this scale, let us assume that a touch-
+down has the value of 1000 units, a field goal 20 units, and an intercepted pass -100
+units. The utilities of the remaining outcomes and the relative value scale of all the
+possible outcomes are shown in Table 1.
+CHOICES OUTCOMES a PROBABILITIES
+3 TOUCHDOWN .10
+COMPLETE - 1st DOWN .50
+.40 SHORT OF 1st DOWN .40
+INCOMPLETE
+.48
+N.TRCFPTION
+.06
+'~5RECOVERY .50
+FUMBLE FROM CENTERRE
+.03 TURN-OVER .50
+THROWN FOR LOSS
+.03
+(~7~) GOOD
+ATTEMPT FIELD A .90
+NOT GOOD
+.10
+TOUCHDOWN
+.02
+1st DOWN
+.15
+RUN SHORT OF 1st DOWN
+.78
+5 RECOVERY .50
+FUMBLE .
+.03 TURN-OVER .50
+LOSS
+UTILITIES
+(1000)
+(500)
+(0)
+(0)
+(-100)
+(0)
+(-50)
+(0)
+(20)
+(0)
+(1000)
+(500)
+(0)
+(0)
+(-50)
+(0)
+.02
+FIG. 2. Solution of the decision tree for the football example described in the text. The expected value
+of each node is shown in the accompanying oval. The expected value of the option to pass (133.2) exceeds
+that of running or attempting a field goal and the quarterback elects to pass.
+152
+PAV,
+DECISION ANALYSIS
+Having assigned both probabilities and utilities to each of the outcomes, the
+quarterback is now in a position to calculate the value of each outcome (Fig. 2).
+Starting at the terminal branches, the value of an outcome (for example, the top
+branch, "touchdown") is calculated by multiplying the probability of the outcome
+(0.1) and the utility (1000 units). When the values of the three terminal branches of
+the upper node (following "complete") are calculated, their sum (350 units)
+represents the expected value of that branch. Similar calculations are made from the
+end branches to the branches closest to the decision node. Then, after the expected
+value of all three choices have been calculated, the "best" choice is the one with the
+highest expected value. In the example shown in Figs. 1 and 2 the expected value of
+passing of 133.2 units exceeds that of the other options and signifies that the best
+choice is to pass.
+Assuming the quarterback has made his analysis of this play in the detail described
+here, he is in an excellent position after the game to explain, and if necessary to
+defend, his decision. Any disagreements about the decision can be isolated and
+identified with reasonable precision because the decision-making process was explicit
+not only in the facts involved but also in the process by which the choice was made.
+Disagreements might involve the structure of the problem (i.e., the choices available)
+or the assigned values for the probabilities and utilities of each outcome. The value of
+this explicit approach in teaching the principles of decision making to the fledgling
+quarterback should be evident.
+CLINICAL DECISION MAKING
+The principal decisions made by physicians involve either the performance of diag-
+nostic tests or the administration of a therapeutic procedure or agent. Such decisions
+involving both tests and treatments have features closely analogous to those in the
+football example described above: The physician must make a choice between treat-
+ing and not treating; between one treatment and another or many others; between a
+test and a treatment; or between many tests and many different treatments. Un-
+certainty is also an important aspect of clinical medicine. The physician frequently
+must make therapeutic decisions in the absence of a proven diagnosis. Whether or
+not to operate for suspected ischemic colitis and whether or not to give a prolonged
+course of intravenous antibiotics for suspected endocarditis are two examples. Fi-
+nally, both tests and treatments have a limited number of outcomes. These outcomes
+represent either a benefit or a cost (risk) to the patient and both a probability and
+utility can be assigned to each outcome.
+The Costs and Benefits ofTests and Treatments
+Assessment of the value of tests and treatments is a central aspect of the explicit
+decision-making process. Tests have more or less value depending on how much they
+advance the state of diagnostic knowledge for the patient in question. Tests with a
+relatively high frequency of false-positive and false-negative results (such as lung
+scans for pulmonary emboli) have less information content than tests with a low fre-
+quency of false-positives and -negatives (such as pulmonary and renal arteriography).
+Methods for combining data concerning the suspected diagnosis, the results of tests,
+and the errors inherent in test analysis will not be considered here but can be found
+elsewhere (5,7,10-15). The cost of the test must also be included in assessing its
+value. Cost may be assessed in terms of monetary expense, discomfort induced, or
+risk of death, or it may be represented in some uniform utility unit which combines
+all of these potential costs. Selection of tests based on a balancing of the benefits and
+153
+JEROME P. KASSIRER
+costs of the various tests available accounts for many of the familiar sequences in a
+diagnostic evaluation. In evaluation of a pulmonary lesion, for example, a typical se-
+quence may be tomography and sputum cytology (very low cost, limited diagnostic
+value), followed by bronchoscopy (low cost, moderate diagnostic value), and finally
+lung biopsy (high cost, high value).
+Treatments may also have value for the patient, but they, too, exact certain costs.
+Treatment may improve or cure the patient and it may induce a variety of complica-
+tions. The benefit of the treatment can be measured in terms of alleviation of suffer-
+ing or reduction in mortality or, as described above for tests, the benefit can be
+represented in a general utility unit that includes both morbidity and mortality
+evaluations. Similarly, the complications induced by treatment such as serious drug
+reactions, metabolic disturbances, postoperative wound infections, and death are the
+costs of therapy. These costs are paid not only by treated patients who have the
+disease for which therapy is prescribed but also by those patients who are thought to
+have the disease but in reality are either normal or are suffering from some other
+disorder not benefited by the treatment employed.
+In order to determine the expected value of the outcome of administering a treat-
+ment it is necessary to assess several factors: (i) the probability of the various com-
+plications of therapy, (ii) the gravity (utility) of each of the complications, (iii) the
+probability of the various therapeutic outcomes, and (iv) the utility of each of the
+responses to therapy. To use a concrete example to illustrate alternative courses of
+action and possible outcomes: If a physician is deciding how to treat a patient in
+whom the diagnosis of mycoplasma pneumonia is highly likely, the problem might be
+expressed in the following fashion. Therapeutic choices include erythromycin,
+tetracycline, and no therapy. With erythromycin the patient may be cured, may
+improve, or may not change. In addition, erythromycin may induce nausea and
+vomiting, a drug rash, or a fatal blood dyscrasia. There is some probability and a
+certain utility of each of these outcomes. Similar considerations hold for tetracycline
+and, with the exception of drug-related results and complications, for no therapy.
+Assessment ofProbabilities
+Clearly, the technique described here requires much greater precision in the
+assignment ofprobabilities than that which usually characterizes the daily practice of
+medicine. We often speak of outcomes that are infrequent, unusual, uncommon, or
+rare but, for each of these somewhat qualitative likelihood assessments, one indi-
+vidual may set the probability at 1 in 10, another at 1 in 100, and another at 1 in 1000!
+The same reasoning holds for the equally vague adjectives typical, common,
+frequent, and usual.
+Empirical clinical studies are the basis of our determinations of the values and the
+risks of both tests and treatments and from these studies it is possible to derive
+reasonably accurate assessments of the probabilities of outcomes. An intravenous
+pyelogram, for example, is complicated by a risk of death of 1 in 40,000 and a risk of
+serious morbidity (anaphylaxis, arrhythmias, vascular collapse) of 1 in 14,000 (16).
+Chloramphenicol cures 95 in 100 patients with typhoid fever (17), but the risk of
+death from aplastic anemia is 1 in 30,000 (18).
+Common sense dictates that such statistical data culled from the medical litera-
+ture cannot and should not be applied to all patients. The risk of liver biopsy, for
+example, is considerably increased in the face of a disturbance in the coagulation
+mechanism. Similarly, the risk is increased if the biopsy is carried out by a novice or
+if adequate nursing supervision is not available in the several hours following the
+154
+DECISION ANALYSIS
+procedure. Many factors such as the age of the patient, the hematologic status, the
+presence of coronary artery disease, and the history of drug sensitivity reactions call
+for an adjustment or tailoring of the probabilities involved for the specific cohort. In
+many instances data adjusted to various cohorts in various clinical situations have
+been collected in clinical studies, and it is possible to use accurate cohort-adjusted
+probabilities from these studies in explicit analysis of clinical decisions.
+Objective measures of probability are not always available, however, sometimes
+because a certain type of clinical problem has not been studied adequately or because
+a test or treatment has not yet been widely utilized. In situations such as these, it is
+still possible to carry out decision analysis, deriving the probability values from sub-
+jective estimates. If, for example, the risk of nephrolithotomy in a pregnant woman
+with recurrent acute pyelonephritis cannot be found by search of either the gyneco-
+logic or the nephrologic literature, probabilities derived from a consensus of
+experienced gynecologists and nephrologists could be used when deciding whether or
+not to operate. Experience with decision analysis in a hospital setting confirms the
+clinical usefulness of such subjective assessments.
+Assessment of Utilities
+The assessment of utilities is more complex than the assignment of probabilities,
+chiefly because utilities are indices of value, and judgments concerning value must
+necessarily be subjective in character. A large variety of outcomes results from the
+various tests and treatments available to clinicians. On the positive side these out-
+comes include cure of a disease, alleviation of suffering, elimination or reduction of
+monetary expenditure, establishment of a diagnosis, and many others. On the nega-
+tive side are outcomes such as physical and emotional disability, prolongation of hos-
+pitalization, pain, and death. In any given clinical situation several of these outcomes
+can be anticipated as a consequence of one or more of the decisions to test or treat.
+For this reason it is important to be able to compare the utilities of a number of out-
+comes with widely differing characteristics; for example, it is necessary to compare
+the potential positive value of alleviation of pain with the potential negative value of
+complications of a drug or surgical procedure that might be utilized to relieve the
+pain.
+When all of the outcomes can be given a utility measured in a single unit (such as
+monetary cost) we can use so-called unidimensional utilities; they are readily ordered
+and compared. But medical outcomes are usually multifaceted; since outcomes such
+as pain, drug complications, and death are measured in different units, comparison
+and ordering of these facets requires that a common and consistent numerical utility
+unit be developed to express all of them. Such utilities are called multidimensional. If
+restoration of normal health were given a utility value of 100 units and if death
+following a prolonged painful illness were given a utility value of 0 units, a dollar ex-
+penditure of $5000 might be assigned 20 or 30 units, an anaphylactic reaction to a
+drug might be assigned 10 units, and improvement of health to the point where the in-
+dividual could return to work on a part-time basis might be assigned 60 or 65 units,
+etc. Methods for assessing multidimensional utilities such as these in a consistent
+fashion are available but are too complex to be considered here in any greater detail
+(1, 19-21).
+Though the assessment of probabilities is exclusively the responsibility of the phy-
+sician, the assessment of utilities must be done in cooperation with the patient and
+the family. Since different individuals assess the value of outcomes differently, it is
+critical when assigning utilities to "debrief" the patient in order to use his or her sub-
+155
+JEROME P. KASSIRER
+jective judgments of values rather than those of the physician. There is a wide range
+of attitudes among patients toward the costs of tests and treatments. One 45-year-
+old patient may prefer to take antihypertensive medications for an indefinite period
+to the risks and discomforts involved in a diagnostic evaluation and surgical correc-
+tion of hypertension that may be of renovascular origin. Another patient belonging to
+the same cohort with respect to age, cardiovascular status, and other features may
+prefer the risks of the diagnostic and operative maneuvers to the prolonged need for
+drug therapy.
+In instances in which decision analysis is used for a class of patients rather than to
+solve the problem of an individual patient, it will be necessary to include in the assess-
+ment of utilities some measure of the value to society. Decisions regarding the alloca-
+tion of scarce health resources often must take such considerations into account.
+Whether to allocate funds to programs for the patient with chronic renal failure or to
+programs for research into the causes of coronary artery disease are examples of de-
+cisions in this class that require utility assessments adjusted for the needs of society
+rather than for that of the individual.
+APPLICATION OF DECISION ANALYSIS TO A CLINICAL PROBLEM
+In an earlier section, the complexities involved in deciding whether or not to
+operate on a patient suspected of having a subphrenic abscess were outlined briefly.
+In this section decision analysis is used to solve a problem of such a patient actually
+encountered at the Yale-New Haven Hospital in late 1974.2 The example selected
+for this analysis involving a decision whether or not to treat does not, like many
+medical decisions, include an additional decision on whether or not to administer a
+test. This therapeutic problem is convenient for our purpose since the principles can
+be illustrated without undue complexity.
+Two decisions whether or not to operate will be considered; the first on December
+8, when the diagnosis of subphrenic abscess was not very likely and the patient was
+only moderately ill; and the second on December 24, when the diagnosis was more
+certain but the patient had become seriously ill.
+Decision I
+(a) Initial clinical course (up to December 8). A 24-year-old woman had both
+kidneys removed in February, 1972, for bilateral hypernephromas. After a stormy
+clinical course on dialysis complicated by pericarditis and severe neuropathy, she
+received a kidney transplant from a cadaver donor in October, 1974. Early in
+November, 1974, a splenectomy was carried out to correct leukopenia and
+thrombocytopenia that had impeded the continuance of immunosuppressive therapy.
+Late in November she was successfully treated with cephalosporin for Klebsiella
+sepsis and left lower lobe pneumonia. On December 3, 1974, she was readmitted to
+the hospital with fever (104.20 F), nausea, vomiting, and diarrhea and was found to
+have rales in the left base but no abdominal findings. Over the next several days, the
+symptoms intensified and on December 8 she had severe left upper quadrant ab-
+dominal pain radiating to the left shoulder, generalized abdominal tenderness,
+diminished bowel sounds, splinting of the left chest, and poor movement of the left
+diaphragm. The white count was 8900. The diagnosis of subdiaphragmatic abscess
+was considered at this time, and the possibility of surgery was first raised. The deci-
+sion tree in Fig. 3 is a representation of this decision.
+2This paper is based on a presentation at Medical Grand Rounds at the Yale-New Haven Hospital in
+February, 1975.
+156
+DECISION ANALYSIS 157
+CHOICES OUTCOMES & PROBABILITIES UTILITIES
+8 LESION REPAIRED .90 (95)
+NO SURGICAL SPONT. .25 (95)
+NOT .10 SERIOUS .20 (65)
+REPAIRED COMP.
+DEATH .55 (0)
+NO S. C 0LESION REPAIRED .90 (65)
+NO-SURG. CORR. SERIOUS SURG SPONT. C25 (65)
+LESION .30 COP 221 RSLTN
+NOT 10 SERIOUS .20 (25)
+(@ ~~~~~~~~~~~~~~REPAIREDCOMP.
+SURGERY DET 5 (O)
+DEATH .25 (0)
+SPNO SURGECOMP. .50 (95)
+NON-SURG. CORR. SERIOUS SURG. COMP. .25 (65)
+LESION .70
+J ~~~~~ ~ ~~ ~~~DEATH.25 (O)
+SPONT. RESOLUTION .25 (100)
+SURG. CORR. (l,SERIOUS COMP. .20 (60)
+) LESION .30.
+NO SURGERY DEATH .55 (0)
+NON-SURG. CORR. (100)
+LESION .70
+FIG. 3. Decision tree for a patient suspected of having a subphrenic abscess (December 8). Details of
+the patient's course are described in the text. The consequences of operating and not operating are shown,
+along with the probability and utility of each outcome. As in the other figures, the expected value of each
+node is shown in the accompanying oval. At this time the "best" decision is not to operate, since the ex-
+pected value of no surgery exceeds that of surgery.
+(b) Summary of the decision-making process. The choices (Fig. 3, square node)
+available to those responsible for the patient were either to operate or not to operate,
+and the consequences of both choices can be described explicitly. On December 8
+there was considerable uncertainty about the diagnosis of subphrenic abscess. If sur-
+gery were carried out (upper branch), a surgically correctable abscess may or may
+not be present. Following the branches in the figure across from left to right, a series
+of possible outcomes is represented: Whether the lesion is present or not, the patient
+may suffer a complication of surgery and the complication may or may not be
+serious. If a surgically correctable lesion is found, it may or may not be possible to
+fully evacuate the abscess. If the abscess can be evacuated, the outcome should be
+excellent; however, if it cannot be fully removed, the lesion may resolve with medical
+therapy or may lead to sepsis and death.
+The outcomes of medical therapy are represented in Fig. 3 in a similar fashion. If
+surgery is not carried out, the patient will presumably recover if a nonsurgical lesion
+(for example, acute pancreatitis) is the cause of the illness (lowest branch). If surgery
+is not carried out and the patient actually has a surgically correctable lesion, the out-
+come would be nearly the same as the lesion described above that was not entirely
+removed surgically: There would be some chance of spontaneous resolution and some
+chance of a serious outcome.
+(c) Assessment of probabilities. We shall assume that on December 8 the
+probability of a surgically accessible lesion was 0.3 and that of a nonsurgically ac-
+cessible lesion was 0.7. Stated in other terms, we have estimated that 30% of patients
+JEROME P. KASSIRER
+TABLE 2
+Utilities
+Outcomes (units)
+No surgery, spontaneous resolution of lesion 100
+Surgery, no complication, lesion repaired 95
+Surgery, no surgical complication, lesion not repaired
+surgically, serious complication oflesion 65
+Surgery, serious surgical complication, lesion repaired 65
+Surgery, serious surgical complication, lesion
+not repaired but resolved spontaneously 65
+No surgery, surgically correctable lesion,
+serious complication oflesion 60
+Surgery, serious surgical complication, lesion
+not repaired, serious complication oflesion 25
+Death 0
+with a clinical picture comparable to that shown by this patient on this date would
+have a subphrenic abscess and 70% would not (Fig. 3).
+Some of the probabilities required for the analysis of this problem were found in
+clinical studies of patients with subphrenic abscess (23-27). The other probabilities
+utilized here were estimates of an experienced abdominal surgeon (28). The mortality
+rate in operated patients averages 25% (range 16-43%) and in nonoperated patients
+ranges between 43 and 85% (23-26); a value of 55% was used for this latter group.
+Serious complications (fistulas, abscess rupture, sepsis, cardiovascular complica-
+tions) occur in another 25% of the operated patients and in approximately 20% of the
+nonoperated patients (28). In approximately 10% of the patients the abscess is not
+adequately drained in the initial operative approach (28). The mortality rate in this
+group of patients is 55% (23). The probabilities utilized in the decision tree in Fig. 3
+for December 8 are derived from these data.
+(d) Assessment of utilities. The utilities used in these analyses (Table 2) were
+derived by the author; the patient was not available when this analysis was carried
+out. In the nonmedical example illustrated earlier, both positive and negative utilities
+were used to assess the value of outcomes. In this clinical example only positive
+utilities will be used in order to demonstrate that either scale is applicable when solv-
+ing complex decisions in this fashion. The best outcome, i.e., spontaneous resolution
+of either a surgically correctable lesion or a nonsurgical lesion was assigned 100
+units. The worst outcome, i.e., death, was assigned 0 units. A toll of 5 units was
+exacted for the discomfort and expense of surgery whether or not a surgically ac-
+cessible lesion was present. A toll of 30 units was paid for a serious surgical complica-
+tion assuming that such a complication would entail discomfort, prolongation of hos-
+pitalization, loss of income, and psychological consequences. Finally, a toll of40 units
+was paid for serious complications of a surgically correctable lesion in the patient not
+subjected to surgery.
+(e) Calculations and results. As shown in Fig. 3, on December 8 the expected
+value for surgery is 62.5 units and that of no surgery is 81.1 units. Since the expected
+value of no surgery exceeds the expected value of surgery, the best decision on that
+date is to treat the patient medically.
+Decision 2
+(a) Later clinical course (December 8 to December 24). On December 8 it was
+decided to treat the patient with nasogastric suction, fluids, and antibiotics rather
+158
+DECISION ANALYSIS
+than explore the left flank. Over the next several days, the patient improved but
+within a week the same symptoms recurred. On December 15 an ultrasound study
+gave suggestive evidence of a collection of fluid near the tail of the pancreas and a
+gallium scan showed increased uptake in the area of the splenic flexure. Again the
+patient improved on a regimen consisting of nasogastric suction, fluid therapy, and
+antibiotics, but on December 24 all of the previous symptoms recurred, the white
+count was found to be 12,600 with a shift to the left and a space was identified
+between the stomach and the diaphragm on an abdominal plain film. The patient ap-
+peared acutely and chronically ill; her blood pressure was 70/50 mm Hg. Again a
+subdiaphragmatic abscess was suspected and the possibility of surgery was raised.
+The decision of December 24 is also considered in detail below.
+(b) Summary of the decision-making process. As shown in the decision tree in
+Fig. 4, both the choices available (surgery vs no surgery) and the possible outcomes
+on December 24 are the same as those described earlier.
+(c) Assessment ofprobabilities. By December 24, the new data available from the
+evolving clinical course, the change in white cell count, and the results of echography,
+scan, and plain film markedly increased the probability of a surgically accessible le-
+sion. We shall assume that this a priori probability is 0.95, and thus the a priori
+probability of a nonsurgically correctable lesion is 0.05. Many of the probabilities
+utilized in the decision tree in Fig. 4 for December 24 were not found in a review of
+published cases because data on nonoperative resolution of the abscess and complica-
+tions were not available for a cohort of patients whose illness was complicated by
+hypotension and sepsis. For this date, the probability of a serious complication of sur-
+gery was estimated to have increased from 0.25 to 0.50 and the probability of death
+CHOICES OUTCOMES a PROBABILITIES UTILITIES
+LESION REPAIRED .90 (95)
+SURG.CORR. RNOUSURGICAL SPONT. .10 (65)
+COMP. 10 11.5 RESOLUTION
+NOT .10 \iSERIOUS .20 (65)
+REPAIRED COMP.
+DEATH .70 (0)
+O S 0LESION REPAIRED .90 (65)
+NONSURG. CORR. SERIOUS SURG SPONT. .10 (65)
+LESION .95 CM..0RSLTO
+NT .10 ,SERIOUS .20 (25)
+i) ~~~~~~~~~~~~~REPAIREDCOMP.
+SURGERY DEATH .70 (O)
+DEATH .40 (0)
+NO SURG. COMP. .10 (95)
+NON- SURGR. SERIOUS SURGCOMP. .50 (65)
+LESION .05
+z ~~~~~ ~ ~~ ~~~DEATH.40 (0)
+<e SPONT. RESOLUTION .10 (lOO)
+( LSURG.C 95R SERIOUS COMP. .20 (60)
+NO SURGERAS DEATH .70 (0)
+NON-SURG. CORR. (100)
+LESION .05
+FIG. 4. Decision tree for the same patient shown in Fig. 3 but for a later date (December 24). At this
+time the probability of a surgically correctable lesion is very high and the "best" decision is to operate (ex-
+pected value of surgery exceeds that of no surgery), even though the risks of serious complications and
+death from surgery have increased.
+159
+JEROME P. KASSIRER
+from 0.25 to 0.40. Likewise, the probability of nonoperative resolution of the lesion
+was estimated to have fallen from 0.25 to 0.10, and the probability of death from an
+unoperated surgically correctable lesion was estimated to have increased from 0.55
+to 0.70 by December 24.
+(d) Assessment ofutilities. The utilities employed in the analysis ofthe decision of
+December 24 are the same as those used earlier.
+(e) Calculations and results. On December 24, as shown in Fig. 4, the risk of sur-
+gery has increased remarkably because of the deterioration in the patient's clinical
+state. Nonetheless, the expected value of surgery at that time (38.9 units) exceeds
+that of no surgery (25.9 units) and the surgical approach is warranted despite the
+very high risk. One of the chief reasons why the surgical approach is favored stems
+from the striking increase in the probability of a surgical accessible lesion, from 30%
+on December 8 to 95% on December 24.
+It is of considerable interest to compare the final expected values for the decision
+on December 8 and December 24 to the scale of utilities in Table 2. The derived ex-
+pected values are a measure of the overall worth of each therapeutic choice; they are
+measured in the same units as the utilities assigned to the individual outcomes
+illustrated on the end branches, and they belong to the same relative value scale. Ac-
+cordingly, the expected value of each choice can be compared to the utility of cure
+and of dying and to the other outcomes. On December 8 the expected value of the
+best choice, i.e., no surgery, was 81.1 units, a value high on the utility scale. On
+December 24, however, the expected value of the best choice, i.e., surgery, was only
+38.9 units, a value greater only than that for death and for multiple serious complica-
+tions. Thus, even the best outcome on this date has serious prognostic implications.
+Some of the advantages of this approach should be evident by studying the two de-
+cision trees shown for this patient. Outcomes, probabilities, and utilities are
+displayed for ready inspection. Comparison is easily carried out between the earlier
+and later decisions. Students observing the decision-making process openly displayed
+can readily understand the principles used and the data that were employed. All in
+all, the technique represents a considerable advance over the obscure decision-
+making processes more often utilized.
+DISCUSSION
+In this paper the principles of decision analysis have been described, and the
+method has been illustrated for a patient suspected of having a subphrenic abscess.
+In carrying out this type of explicit analysis of a clinical problem, a decision tree is
+constructed to include the choices (options) available and the various outcomes of
+each choice. Assignment of a probability and utility (a measure ofworth) of each out-
+come completes the decision tree and a simple arithmetic calculation yields an "ex-
+pected value" for each option. The option with the highest expected value is then
+selected as the best balance between risks and benefits.
+Practical Applications
+In the example cited in detail above, the method was used in its entirety: All major
+outcomes were considered, probabilities and utilities were assigned to all outcomes,
+and a formal calculation of expected value was carried out. Experience with decision
+analysis in a clinical inpatient setting shows that the complete mathematical analysis
+carried out as in the example above is needed for only a small fraction ofthe complex
+clinical problems encountered on a day-to-day basis. Very often construction of the
+decision tree alone forces the physician to do one of the tasks that is often ignored:
+160
+DECISION ANALYSIS
+anticipating the possible outcomes of a given action. Why carry out a renal arterio-
+gram if the result will be of no value in treating the patient; why carry out a liver
+biopsy if there is virtually no expectation that therapy will be altered by the informa-
+tion obtained? Explicit definition of the possible outcomes tends to prevent this com-
+mon trap.
+In the clinical situations in which formal construction of a decision tree appears
+warranted, methods are available for simplifying the tree and its attendant calcula-
+tions. This method involves eliminating (pruning) branches of the tree, making it less
+"bushy." Branches can be pruned only if it is obvious from inspection that the
+probability and utility of the outcome are such that their combination will yield a
+value that will contribute little or not at all to the expected value of the outcome. A
+detailed description of a pruned version of a "bushy" decision tree is presented in de-
+tail elsewhere (7).
+Sensitivity Analysis
+Experienced clinicians appreciate that even the "objective" data from clinical
+studies often represent only an approximation of the probability of a given outcome.
+They are accustomed to discrepancies between two clinical studies: One may show a
+response rate of 60% and another rate of 80%; one may show a 1% rate of serious
+complications of a procedure and another a 5% rate. Such discrepancies as well as
+variations in subjectively assessed probabilities (and utilities) do not abrogate the
+usefulness of decision analysis in clinical medicine. Rather, they enhance the value of
+this technique. Because the decision is laid out explicitly, it is possible to test the im-
+pact of discrepant values on the final decision. This process of testing whether varia-
+tions in probabilities or utilities influence a given decision is known as "sensitivity
+analysis."
+The process can be illustrated nicely by the clinical problem of subphrenic abscess
+considered earlier. On December 8 the expected value of surgery was 62.5 units and
+the expected value of no surgery was 81.1 units; thus no surgery was the "best"
+choice. These expected values were based in part on an operative mortality rate of
+25%. In fact, studies of patients with subphrenic abscesses have reported operative
+mortality rates ranging between 16 and 43% (23-26). If we use each of the values
+bounding this range and recalculate the expected value of surgery (keeping the
+probability of a serious surgical complication constant), the two expected values for
+surgery are 71.0 and 45.8 units for mortality rates of 16 and 43%, respectively. Since
+both of these expected values are lower than the expected value of no surgery, the de-
+cision stands as before: The "best" decision on December 8 is not to operate. Thus,
+the decision was not sensitive (i.e., not changed) throughout the range studied for this
+particular variable, namely the operative mortality rate.
+Similar analysis could be carried out for any of the probabilities or utilities used. If
+the decision proves to be sensitive to one or more of the values substituted, additional
+data gathering or more careful consideration of existing data may be necessary. Un-
+fortunately, sensitivity analysis can be tedious if it becomes necessary to test a large
+number of probabilities or utilities. Computer analysis simplifies this task but is not
+generally available. A new technique of sensitivity analysis that can be applied to
+therapeutic decisions without the aid of a computer has been described elsewhere (9).
+This technique, derived from decision analysis, is applicable in a wide variety of
+medical and surgical settings and has been illustrated for two common clinical prob-
+lems, pulmonary embolism and acute appendicitis. No matter which method is used,
+161
+JEROME P. KASSIRER
+however, sensitivity analysis makes it possible to assess the importance of "soft"
+clinical data on the decision-making process.
+Importance ofthe Outcome in Assessing the Decision
+Decision analysis emphasizes the seldom appreciated phenomenon that outcomes
+predicated on probabilities are dictated by chance alone. Restated in terms of prob-
+lems that physicians face, rational decisions made on the basis of the best data and
+value judgments do not always lead to the best outcomes and, in fact, poor decisions
+sometimes yield excellent outcomes (21). These principles are readily illustrated.
+Suppose a patient without a history of allergy or drug sensitivity is given penicillin for
+pneumococcal pneumonia and has a fatal anaphylactic reaction to the drug. In the
+case of pneumococcal pneumonia, penicillin therapy has been shown to have a high
+expected value: The fatal outcome was an event with a very small statistical likeli-
+hood. Here the decision was excellent, the outcome grave. Suppose, on the other
+hand, a patient with cirrhosis of the liver and impending hepatic coma develops
+massive gastrointestinal hemorrhage. Let us also assume that survival in such a
+patient with surgery is 2% and with medical therapy 10%. An aggressive surgeon
+may decide to operate "in the small likelihood that the lesion can be repaired and the
+life of the patient saved." If he operates and the patient recovers, the outcome is ex-
+cellent. Nonetheless, the decision was not.
+Interpretation of outcomes is important when large numbers of cases are
+analyzed, but to judge the quality of the decision by the outcome in a single case must
+be done with great caution. It follows, therefore, that as long as a decision is made
+properly, an untoward outcome should not be construed as an error in judgment. It
+also follows, however, that good decision makers should achieve better results on the
+average than those who have a predetermined pattern of response for each class of
+clinical problems.
+Problems Yet to be Solved
+It is important to point out that the techniques of decision analysis have been used
+only to a limited extent in a medical environment, and it is too early to assess the
+potential applicability of this method. Certain areas require particular attention,
+further research, and considerable practical clinical experience. One of these areas is
+the assignment of probabilities to outcomes. This process can be enhanced by collect-
+ing large bodies of clinical data concerning the values and risks of tests and treat-
+ments specific to a variety of cohorts. In order to make an accurate estimate of the
+probability of the morbidity and mortality of biliary tract surgery in a given patient,
+clinical studies could be designed to collect data specific to the patient's age, sex,
+weight, and cardiovascular status and to a variety of external factors such as the
+expertise of the surgeon, the abilities of the anesthesiologist, and the availability of
+house staff for adequate postoperative coverage. We have yet to learn how much the
+estimates of probabilities by experienced clinicians deviate from such "hard data"
+and what impact this deviation has on the decision-making process.
+A second area requiring further study is utility assessments. The arbitrary assign-
+ment of numerical values to outcomes such as pain, disability, and death is foreign to
+patients and physicians alike. Though physicians tend to become less uncomfortable
+with such utility assessments as they become experienced with decision analysis, the
+popular appeal of the technique will probably be impeded unless some kind of
+medically compatible multidimensional utility assessment can be developed.
+162
+DECISION ANALYSIS 163
+A third area requiring considerable study is the estimation of a priori probabilities
+of medical diagnoses. Although students and physicians seem to be able to make such
+estimates readily, the factors influencing such judgments have not been
+characterized. In one nonmedical study of subjective probability assessments, a large
+number of factors were found that importantly influenced the judgments (29). A
+comparable study in medicine has not yet been carried out.
+Finally, some method might be devised for comparing the judgments of one group
+of physicians using conventional methods and another comparable group using deci-
+sion analysis. Such an experiment is difficult to design but is probably feasible.
+Although these various problems appear formidable, many or perhaps all are sub-
+ject to scientific study and none is obviously insoluble. Given the anticipated
+widespread application of decision analysis in the daily practice of medicine and in
+the education of future physicians, it is highly desirable for the informed physician to
+be familiar with the potential values and the limitations of this technique.
+ACKNOWLEDGMENT
+The author wishes to thank Richard J. Kassirer for his help in formulating the example shown in Figs. 1
+and 2.
+REFERENCES
+1. Raiffa, H., "Decision Analysis: Introductory Lectures on Choices Under Uncertainty." Addison-
+Wesley, Reading, Mass., 1968.
+2. Hammond, J. S., Better decisions with preference theory. Harvard Bus. Rev. 45, 123 (1967).
+3. Brown, R. V., Do managers find decision theory useful? Harvard Bus. Rev. 48,78 (1970).
+4. Henschke, U. K., and Flehinger, B. J., Decision theory in cancer therapy. Cancer 20, 1819 (1967).
+5. Gorry, G. A., Kassirer, J. P., Essig, A., and Schwartz, W. B., Decision analysis as the basis for com-
+puter-aided management of acute renal failure. Amer. J. Med. 55,473 (1973).
+6. Ginsberg, A. H., and Offensend, F. L., An application of decision theory to a medical diagnosis-treat-
+ment problem. IEEE Transactions on Systems Science and Cybernetics, Vol. SSC-4, No. 3, Sep-
+tember, 1968.
+7. Schwartz, W. B., Gorry, G. A., Kassirer, J. P. and Essig, A., Decision analysis and clinical judgment.
+Amer. J. Med. 55,459 (1973).
+8. McNeil, B. J., Varady, P. D;, Burrows, B. A., and Adelstein, S. J., Value of case finding in hyperten-
+sive renovascular disease. N. Engl. J. Med. 293, 221 (1975).
+9. Pauker, S. G., and Kassirer, J. P., Therapeutic decision making: A cost-benefit analysis. N. Engi. J.
+Med. 293,229 (1975).
+10. Nugent, C. A., Warner, H. R., Dunn, J. T., and Tyler, F. H., Probability theory in the diagnosis of
+Cushing's syndrome. J. Clin. Endocrinol. 24, 621 (1964).
+11. Gorry, G. A., and Barnett, G. O., Sequential diagnosis by computer. J. Amer. Med. Ass. 205, 849
+(1968).
+12. Gorry, G. A., Strategies for computer-aided diagnosis. Math. Biosci. 2, 293 (1968).
+13. McNeil, B. J. Keeler, E. and Adelstein, S. J., Primer on certain elements of medical decision making.
+N. Engi. J. Med. 293, 211 (1975).
+14. Fagan, T. J., Nomogram for Bayes' theorem. N. Engl. J. Med. 293,257 (1975).
+15. Oddie, T. H., Computer diagnosis from tests ofthyroid function. J. Clin. Endocrinol. 32, 167 (1971).
+16. Ansell, G., Adverse reactions to contrast agents. Invest. Radiol. 5, 374 (1970).
+17. Woodward, T. E., and Smadel, J. E. Management of typhoid fever and its complications. Ann. Intern.
+Med. 60, 144 (1964).
+18. Weinstein, L. "Antibiotics IV, The Pharmacological Basis of Therapeutics." (L. S. Goodman and
+A. Gilman, Eds.) p. 1291. Macmillan, New York, 1970.
+19. Keeney, R., Utility functions for multiattributed consequences. Manage. Sci. 18,276 (1972).
+20. Raiffa, H., Preferences for multiattributed alternatives. Rand Corp. RM-5868-DOT/RC April, 1969.
+21. North, D., A tutorial introduction to decision theory. IEEE Transactions on System Science and
+Cybernetics, Vol. SSC-4, No. 3, p. 200, September, 1968.
+164 JEROME P. KASSIRER
+22. Barnoon, S. and Wolf, H., "Measuring the Effectiveness of Medical Decisions." Thomas, Springfield,
+III., 1972.
+23. DeCosse, J. J., Poulin, T. L., Fox, P. S., and Condon, R. E., Subphrenic abscess. Surg. Gynecol.
+Obstet. 138,841 (1974).
+24. Bonfils Roberts, E. A., and Nealon, T. F., Subphrenic abscess: Comparison between operative and an-
+tibiotic management. Ann. Surg. 180, 209 (1974).
+25. Surakiatchanukul, S., and Ram, M. D., Current patterns of subphrenic abscess. Amer. J. Surg. 125,
+718 (1973).
+26. Sherman, N. J. Davis, J. R. and Jesseph, J. E., Subphrenic abscess. A continuing haz4fd. Amer. J.
+Surg. 117, 117 (1969).
+27. Halasz, N. A., Subphrenic abscess. Myths and facts. J. Amer. Med. Ass. 214,724 (1970).
+28. Binder, S., personal communication.
+29. Tversky, A., and Kahneman, D., Judgment under uncertainty: Heuristics and biases. Science 185,
+1124(1974).
+

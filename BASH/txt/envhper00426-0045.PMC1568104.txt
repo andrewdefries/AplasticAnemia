@@ -1,0 +1,717 @@
+Environmental Health Perspectives
+Vol. 82, pp. 43-49, 1989
+Differences in the Pathways for Metabolism
+of Benzene in Rats and Mice Simulated by a
+Physiological Model
+by Michele A. Medinsky,* Patrick J. Sabourin,* Rogene F.
+Henderson,* George Lucier,t and Linda S. Birnbaumt
+Studies conducted by the National Toxicology Program on the chronic toxicity ofbenzene indicated that
+B6C3F1 mice were more sensitive to the carcinogenic effects ofbenzene than were F344 rats. A physiologi-
+cal model was developed to describe the uptake and metabolism of benzene in rats and mice. Our objective
+was to determine if differences in toxic effects could be explained by differences in pathways for benzene
+metabolism or by differences in total uptake ofbenzene. Compartments incorporated into the model included
+liver, fat, a poorly perfused tissue group, a richly perfused tissue group, an alveofar or lung compartment
+and blood. Metabolism ofbenzene was assumed to take place only in the liver and to proceed by four major
+competing pathways. These included formation ofhydroquinone conjugates (HQC), formation ofphenyl con-
+jugates (PHC), ring-breakage and formation ofmuconic acid (MUC), and conjugation with glutathione with
+subsequent mercapturic acid (PMA) formation. Values for parameters such as alveolar ventilation, cardiac
+output, organ volumes, blood flow, partition coefficients, and metabolic rate constants were taken from the
+literature.
+Model simulations confirmed that during and after 6-hr inhalation exposures mice metabolized more benzene
+on a mmole per kilogram body weight basis than did rats. After oral exposure, rats metabolized more ben-
+zene than mice at doses above 50 mg/kg because ofthe more rapid absorption and exhalation ofbenzene by
+mice. Model simulations for PHC and PMA, generally considered to be detoxification metabolites, were similar
+in shape and dose-response to those for total metabolism. However, simulations for the metabolites represen-
+tative ofthe putative toxication pathways, HQC and MUC, indicated that after both oral and inhalation ex-
+posures mice would produce more of these metabolites than rats at all concentrations. This was due to the
+greater rates of metabolism to these metabolites for mice compared to rats. Increased metabolism of ben-
+zene through the HQC and MUC pathways in mice is consistent with the observed susceptibility ofthis spe-
+cies to benzene toxicity.
+Introduction
+Benzene is an important and widely used industrial sol-
+vent (1). Epidemiology studies have shown an increase of
+leukemias and aplastic anemia in workers exposed to ben-
+zene (2). To estimate the potential carcinogenic effects of
+benzene, the National Toxicology Program (NTP) orally
+exposed F344/N rats and B6C3F1 mice to benzene in corn
+oil for 2 years (3). Mice were identified in these studies
+as the more sensitive species. An increased incidence of
+*Inhalation Toxicology Research Institute, Lovelace Biomedical and
+Environmental Research Institute, P.O. Box 5890, Albuquerque, NM
+87185.
+tNational Institute of Environmental Health Sciences, P.O. Box
+12233, Research Triangle Park, NC 27709.
+Address reprint requests to M. A. Medinsky, Inhalation Toxicology
+Research Institute, Lovelace Biomedical and Environmental Research
+Institute, P.O. Box 5890, Albuquerque, NM 87185.
+lymphomas, lung tumors, and glandular tumors was
+noted.
+It is generally recognized that metabolism of benzene
+is necessary for the expression of toxicity. What is not
+known, however, is the ultimate toxic metabolite or com-
+bination of metabolites. Figure 1 is a simplified scheme
+for the metabolism ofbenzene. The metabolites outlined
+in the scheme were based on the work of Sabourin et al.
+(4-6) and Bechtold et al. (7) who studied the metabolism
+ofbenzene in F344 rats and B6C3F1 mice after oral or in-
+halation exposure. Included in this scheme are two puta-
+tive toxic metabolites, benzoquinone and muconaldehyde.
+The pathways for the formation of these reactive metabo-
+lites suggest that levels ofthe stable metabolites, hydro-
+quinone conjugates and muconic acid, could be used as
+markers for the formation of benzoquinone and
+muconaldehyde. For example, a species with a high ca-
+pacity for formation ofhydroquinone conjugates might be
+MEDINSKY ET AL.
+assumed to produce more benzoquinone compared to a
+species with a low capacity for formation ofhydroquinone
+conjugates. The two other pathways in Figure 1 repre-
+sent pathways leading to formation of two important
+groups of detoxification metabolites, the phenyl and mer-
+capturic acid conjugates.
+Toxicokinetic models can be used to offer insights into
+the mechanisms that produce toxic effects and to explain
+the differences noted in the toxic effects between species.
+Models can also be used for extrapolation. Typical ex-
+trapolations include those from animal studies to human
+exposures, from a single to continuous exposure, and
+from high to low concentrations.
+The objectives of our study were to develop a physio-
+logical model to simulate the metabolism of benzene af-
+ter oral or inhalation exposure and to compare results of
+model simulations conducted for rats and mice. We
+wanted to determine if differences in toxic effects seen
+in rats and mice could be explained by differences in path-
+ways for metabolism or by differences in total metabo-
+lism.
+Benzene Physiological Model
+Structure
+The physiological model constructed to describe the
+metabolism ofbenzene, the differential equations driving
+the model, and experimental data used to derive model
+parameters have been described elsewhere (8,9). This
+model is an adaption ofthat proposed by Ramsey and An-
+derson (10). A diagram of the model is presented in Fig-
+ure 2 and the parameters incorporated into the model to
+describe disposition ofbenzene by rats and mice are pre-
+sented in Table 1. As indicated in Table 1, the physiolog-
+ical parameters such as cardiac output, alveolar ventila-
+tion, blood flow to organs, organ volumes, body weight,
+and the chemical parameters such as blood/air and tis-
+BENZENE
+MUCONIC ACID
+Vmax
+B3ENZOOUINONE BENZENE
+L.. .BENZOQUINONE; OXIDE Vmax, muc
+[f ~ ~~~r \\r--Km,mucHYDOQNl \ | MUCONALDEHYDE
+HYDROOUINOL PHENOL:l max, pma
+~~ ~ L.~~..
+-l Km, pma
+Vmax,hqc Vmax. phc
+Km, hqc Km, phc
+HYDROQUINN E JMOJPHENYL PHENYL
+CONJUGATES CONJUGATES MRACTUIDS
+FIGURE 1. Scheme for metabolism of benzene. Biochemical rate con-
+stants are outlined in Table 1. This scheme for metabolism of ben-
+zene takes place in the liver compartment described in Fig. 2. (C])
+Represent metabolites of benzene that were measured and used in
+model simulations; (LI) represent intermediate metabolites that were
+not incorporated into the model.
+FIGURE 2. Physiological model of benzene metabolism. Metabolism of
+benzene was presumed to take place in the liver compartment. Path-
+ways for benzene metabolism incorporated into the model are shown
+in Fig. 1.
+sue/blood partition coefficients for benzene were taken
+from the literature. Values for gastrointestinal-liver
+transport and the metabolic rate constants were adjusted
+until results from model simulations compared favorably
+to data determined by Sabourin et al. (5,9). Methods for
+these determinations have been described previously (8).
+In this model benzene can be inhaled or ingested. In-
+haled benzene will be absorbed into the blood in propor-
+tion to the benzene blood/air partition coefficient pre-
+sented in Table 1. Once in the blood, benzene will be
+transported to other organs in proportion to blood flow
+to that organ (or group of tissues) and the benzene tis-
+sue/blood partition coefficient. Ingested benzene is as-
+sumed to be translocated from the gastrointestinal tract
+to the liver by a first order process.
+Tissue compartments included in the model were a)
+liver, the only organ where metabolism ofbenzene takes
+place; b) group ofpoorly perfused tissues including mus-
+cle and skin, c) a group of richly perfused tissues includ-
+ing bone marrow, kidney, and intestines; and d) a fat com-
+partment. The poorly perfused tissues are important
+because of the large body mass they represent, the
+rapidly perfused tissues because of the large blood flow
+to these tissues, and the fat compartment because of its
+large partition coefficient. Large tissue mass, high blood
+flow, and increased solubility will each result in signifi-
+cant amounts of benzene being distributed to that com-
+partment. However, the kinetics of distribution will be
+different for each compartment.
+Any benzene that does not partition into any of the
+above compartments will return to the lungs through the
+venous circulation. Depending on the alveolar concentra-
+tion of benzene, benzene in the venous blood can parti-
+tion into the alveolar space and be exhaled. During a
+prolonged inhalation exposure, an equilibrium can be es-
+tablished between the alveolar concentration and venous
+concentrations ofbenzene. However, there are situations
+in which there will be a net efflux of benzene from the
+blood into the alveolar space, such as after an oral ex-
+posure or after the end ofan inhalation exposure. This is
+because the concentration of benzene in the alveolar
+44
+BENZENE PHYSIOLOGICAL MODEL
+Table 1. Parameters used in the physiological simulation model for benzene metabolism in F344 rats and B6C3F, mice.
+Value
+Parameter Rats Mice
+Physiological
+Aveolar ventilation, L/hr kga 32.4 55.3
+Cardiac output, L/hr -
+kgb 19.4 34.8
+Gastrointestinal transfer, fraction/hr 0.25 3.0
+Body weight, kg 0.288 0.030
+Blood flow (fraction of cardiac output)b
+To liver 0.25 0.25
+To fat 0.09 0.09
+To poorly perfused tissuesc 0.15 0.15
+To richly perfused tissuesd 0.51 0.51
+Organ volumes (fraction of body weight)'
+Blood 0.056 0.056
+Liver 0.03 0.03
+Fat 0.11 0.11
+Poorly perfused tissues 0.74 0.74
+Richly perfused tissues 0.06 0.06
+Chemical
+Molecular weight, g/mole 78.2 78.2
+Partition coefficientsf
+Liver/blood 1.0 1.0
+Fat/blood 28.0 28.0
+Poorly perfused tissues/blood 0.6 0.6
+Richly perfused/blood 1.0 1.0
+Blood/air 18.0 18.0
+Biochemical parametersg
+Vmax,, mole/hr* kg 122 200
+Kin, Jmole/L 40 1.0
+Vmax, phc, jimole/hr kg 174 333
+Ki, phc, Amole/L 5 3.0
+Vmax pmc, ,Amole/hr * kg 104 90
+Ki, pmc, umole/L 15 4.0
+V.ax, hqc, Hmole/hg * kg 1.7 27
+Ki, hqc, Mmole/L 0.5 0.1
+Vmax, mucI jAmole/hr kg 3.5 12
+Km, muc,Mmole/L 0.5 0.1
+aExperimentally determined (9).
+bData from Ramsey and Andersen (10).
+cIncludes muscle, skin and bone.
+dIncludes kidneys, brain, heart, spleen, intestines, bone marrow, etc.
+'Data from Dutcher et al. (11) and Birnbaum et al. (12).
+'Data from Thomas (13).
+gRefer to Fig. 1
+space will be lower than the concentration of benzene in
+the blood for both oral and inhalation exposure.
+In the model, metabolism ofbenzene occurs only in the
+liver. Michaelis-Menten kinetics are used to model the
+formation of the benzene metabolites outlined in Figure
+1. Both the total amount ofbenzene metabolized and the
+total amounts of the individual metabolites formed are
+tracked in this model. Initially benzene is metabolized to
+benzene oxide, which is further metabolized by one of
+four pathways. The first metabolite is formed by rear-
+rangement of the benzene oxide to phenol followed by
+conjugation of phenol to phenyl sulfate or phenyl
+glucuronide. Thus, for the purposes ofmodel simulations,
+the total amounts of phenyl sulfate and phenyl
+glucuronide were combined and expressed as total phenyl
+conjugates. A second pathway for benzene oxide metab-
+olism consisted of reaction with glutathione and subse-
+quent modification of the mercapturic acids. This path-
+way was represented by combining the total amounts of
+prephenyl mercapturic acid and phenyl mercapturic acid.
+The third pathway for benzene metabolism involved rear-
+rangement of benzene oxide to phenol, oxidation to
+hydroquinone, and conjugation to hydroquinone
+glucuronide or sulfate. For this pathway total amounts
+of hydroquinone glucuronide and hydroquinone sulfate
+formed were combined. The fourth pathway was metab-
+olism of benzene oxide to muconic acid presumably
+through a muconaldehyde intermediate. Although ben-
+zene could be metabolized to other metabolites such as
+catechol or trihydroxybenzene, only very low levels of
+these metabolites were found in animal studies (4-6) and
+thus pathways for formation of these metabolites were
+not included in our model.
+Benzene Physiological Model
+Simulations
+Using the parameters in Table 1 and the model struc-
+ture described in Figure 2 (8), we conducted simulations
+of uptake ofbenzene by rats and mice over a range oforal
+45
+MEDINSKY ET AL.
+or inhalation exposures. The total amount of benzene
+metabolized as well as the formation ofindividual metabo-
+lites was simulated over a 48-hr period. Results ofmodel
+simulations for total benzene metabolized after exposure
+of rats and mice to a range of concentrations are pre-
+sented in Figure 3. The oral simulations represent metab-
+olism ofbenzene following a single bolus gavage with var-
+ious doses of benzene. The inhalation exposures
+represent metabolism ofbenzene during and after a sin-
+gle 6-hr inhalation exposure. To facilitate comparisons be-
+tween rats and mice, model simulations were expressed
+as Mmole benzene metabolized per kilogram body weight.
+Thus, all comparisons described are in terms of relative
+amounts.
+Simulations demonstrated that for mice, formation of
+more benzene metabolites could be achieved by inhala-
+tion exposure over a 6-hr period as compared to oral ex-
+posures. For rats, similar amounts of benzene were
+metabolized after inhalation exposure or oral administra-
+tion. It is apparent that for any given inhaled benzene
+concentration, mice will metabolize more benzene as com-
+pared to rats (Fig. 3). Total metabolism ofbenzene in rats
+and mice is similar for oral exposures up to 50 mg ben-
+zene/kg. Above that, rats metabolize more benzene than
+do mice.
+Similar pictures are presented for the phenyl con-
+jugates as indicated in Figure 4 and the phenyl mercap-
+turic acids in Figure 5. Model simulations indicated that
+mice produce more of these metabolites after inhalation
+exposure compared to rats on a per kilogram body weight
+basis. Except for very low oral doses, rats produce more
+ofthese metabolites as compared to mice when expressed
+on a per kilogram body weight basis.
+In looking at the hydroquinone conjugates (Fig. 6) and
+muconic acid (Fig. 7), markers for toxic metabolites, the
+simulations are very different than those seen for the
+detoxification metabolites or for total metabolism. In the
+case ofthe hydroquinone metabolites, mice produced far
+greater amounts ofthese metabolites after all inhalation
+or oral exposures compared to rats. For example,
+1 0OOr
+800-
+a
+w
+I
+z
+E
+QL
+600-
+400-
+200-
+IRATI
+MICE-O, AT1RAT-0
+.s
+.MICE-I
+LA'Rnn1 ...
+1 I-IJ 10
+1 boo
+1300
+250
+200 .J
+0
+150 o
+cm
+100 E
+50
+0uuu
+ELmoIes METABOLITES/kg
+FIGURE 3. Total metabolism of benzene in rats and mice compared af-
+ter oral administration (0) or a single 6-hr inhalation exposure (1).
+Lines represent results of model simulations for rats and mice.
+a
+-I
+.4
+z
+E
+1300
+200 j .
+01
+0I
+Jw
+4m
+-.o0%%
+100
+.Lmoles PHENYLGLUC AND PHENYL SO4 /kg
+FIGURE 4. Phenyl conjugates excreted by rats and mice compared af-
+ter oral administration (0) or a single 6-hr inhalation exposure (1).
+Lines represent results of model simulations for rats and mice.
+1000 ' 300
+800 / 7
+t;L , < ; / MicelJ
+0 /002003200
+-J m
+1 000 , ' /00
+z
+_~~-RtlN
+EL400- E
+800 /|Rt0
+Mice- Rat-. - Mice-I 1
+0 0 / - 10
+0 0
+0 100 200 300
+Mmoles MERCAPTURIC ACIDS/kg
+FIGURE 5. Phenyl mercapturic acids excreted by rats and mice com-
+pared after oral administration (0) or a single 6-hr inhalation exposure
+(1). Lines represent results of model simulations for rats and mice.
+1000 I 300
+Rat-II
+800 JRat-0
+a ~~~~~~~~/Mice-0 Mice-I
+Lu 200
+I ccI / ~~~~~~~~0
+oL400
+I /
+0 100 200 300
+/imoles HO GLUC and HO SO04/kg
+FIGURE 6. Hydroquinone conjugates excreted by rats and mice com-
+pared after oral administration (0) or a single 6-hr inhalation exposure
+(I). Lines represent results of model simulations for rats and mice.
+46
+u ;uu I uuu
+BENZENE PHYSIOLOGICAL MODEL
+a /
+/ -210
+I
+~~~~~~0
+E~~~~~~~~~~~~~~~~CL
+-~~//100
+E
+01. ~~~~~~~~~~0
+0 40 80 120 140
+pLmoles METABOLITES/kg
+FIGURE 7. Muconic acid excreted by rats and mice compared after oral
+administration (0) or a single 6-hr inhalation exposure (1). Lines
+represent results of model simulations for rats and mice.
+amounts of hydroquinone conjugates produced by rats at
+300 mg/kg oral exposures were similar to levels produced
+by mice after only 12 mg/kg exposure. Since hydroqui-
+none is considered to be a marker for benzoquinone, one
+ofthe putative toxic metabolites, these model simulations
+are consistent with the observed differences in toxicity
+between rats and mice orally exposed to benzene.
+Larger amounts ofmuconic acid, a marker for the puta-
+tive toxic metabolite muconaldehyde, were'also seen in
+mice after oral or inhalation exposure compared to rats.
+After oral administration these results are not as dra-
+matic as those seen for hydroquinone. Considering that
+after oral exposure rats metabolize more total benzene
+compared to mice when expressed on a *mole per kilo-
+gram body weight basis, the larger amounts of muconic
+acid for mice indicated that a greater portion ofbenzene
+metabolism is through the muconic acid pathway in mice.
+Discussion and Extrapolation
+The major results of model simulations were that me-
+tabolism to hydroquine conjugates and muconic acid rep-
+resent significant metabolic pathways in mice. In con-
+trast, rats metabolize benzene primarily to the phenyl
+conjugates and the phenyl mercapturic acids. This
+differential metabolism of benzene by rats and mice is
+consistent with the increased susceptibility to the toxic
+effects ofbenzene exhibited by mice compared to rats as
+noted in chronic oral toxicity studies conducted by the
+National Toxicology Program (3). Increased formation of
+hydroquinone conjugates and muconic acid may be an in-
+dication that increased concentrations of either benzo-
+quinone, unconjugated hydroquinone, muconaldehyde, or
+a combination ofthese metabolites are present in the tar-
+get tissues of mice compared to rats.
+Currently, the model structure presented here does not
+enable us to predict the concentration of these uncon-
+jugated and reactive metabolites in tissues such as the
+target cells of the bone marrow. We are simulating only
+the formation ofthe end products ofbenzene metabolism,
+the water soluble urinary metabolites. As such we have
+assumed for purposes of simplification that metabolism
+of benzene occurs only in the liver. This may or may not
+be true. It is likely that the target organs such as bone
+marrow are capable of metabolism ofbenzene, phenol, or
+hydroquinone. Thus, distribution ofthese compounds to
+tissues such as bone marrow is an important process to
+consider in the formation of physiological models in the
+future.
+One ofthe most useful features ofa physiological model
+is insight into the factors that are critical in the uptake
+and metabolism ofa chemical. For example, the rate con-
+stants for metabolism of benzene by rats and mice are
+very different. As indicated in Table 1, the maximum
+rates for metabolism of benzene oxide to the hydroquin-
+one conjugates and muconic acid are higher for mice com-
+pared to rats. These higher maximum rates result in for-
+mation of more of these metabolites.
+The rate constants for benzene metabolism in Table 1
+can be divided into two groups. The first group includes
+metabolites with a small apparent K., hydroquinone, and
+muconic acid. The second group includes metabolites with
+a large apparent Ki, the phenyl conjugates, and mercap-
+turic acids. Km is defined in Michaelis-Menten kinetics as
+the concentration ofthe substrate at which the reaction
+velocity is half-maximal. In addition, the detoxification
+metabolites have larger Vmax than do the toxification
+metabolites. This suggests that metabolism to hydroquin-
+one and muconic acid are low-capacity, high-affinity path-
+ways while metabolism to phenyl conjugates and mercap-
+turic acids follows a higher capacity, lower affinity
+enzyme system.
+The implication of the relationshlip between these
+parameters can be seen in Figures 8A and 8B. These
+figures compare total metabolism and the formation ofin-
+dividual metabolites by mice as a function of 6-hr inhala-
+tion exposure to various concentrations ofbenzene. Above
+approximately 75 ppm the phenyl conjugates are the pre-
+dominant metabolites produced. Equal amounts of the
+hydroquinone conjugates and the mercapturic acids are
+formed. Muconic acid is produced in the smallest quan-
+tity. However, for concentrations below 200 ppm, the ef-
+fect of the differences in the Km values of the pathways
+is apparent (Figure 8B). At concentrations below approx-
+imately 35 ppm, the hydroquinone conjugates are
+produced in the highest quantity. Above that concentra-
+tion the production ofthe phenyl conjugates exceeds that
+ofthe hydroquinone conjugates, which increases in a non-
+linear manner. Similarly, at concentrations below approx-
+imately 75 ppm, muconic acid is produced in greater
+amounts than the mercapturic acids. Above 75 ppm, for-
+mation of mercapturic acids exceeds that ofmuconic acid.
+Figure 8B suggests that the proportion of total metab-
+olism due to individual metabolites at high concentrations
+(e.g., above 200 ppm) is not predictive of metabolism at
+lower concentrations. Since the putative toxic metabo-
+lites are preferentially produced at low concentrations,
+this means that linear extrapolation ofmetabolite profiles
+from high concentrations to low concentrations will un-
+derestimate the contribution of the putative toxic
+metabolites to total metabolism. Iftoxicity is proportional
+to the flux of benzene through the putative toxication
+47
+MEDINSKY ET AL.
+a
+wN
+0
+4
+I-w
+E
+2000 A
+1500 -
+/~~~~~~~--nY spn Co4.20
+1 000
+/Mercapturic Acids
+/1 / /Hydroquinone Conjugates
+1:1- Muconic Acid
+0 SI I I I I I I I Inl
+%^ % -_ -__
+u 200 400 600 l
+INHALED CONCENTRATION (ppm)
+CM
+0
+wN
+0
+m4
+I-
+wEU
+4)
+0
+E
+800 1000
+3
+z>
+U a
+NO
+z CO
+m (P
+*a'
+_3 W
+E
+N
+- w
+0
+m
+4
+I-
+uJ
+1000r
+A
+50mg/kg
+800 _
+Ka
+Rrnn L
+40
+20
+0 0.5
+0 /
+0 3 6 9 12
+HOURS AFTER GAVAGE
+50 100 150
+INHALED CONCENTRATION (ppm)
+FIGURE 8. Comparison ofbenzene metabolites produced by mice after
+inhalation of benzene for 6 hr. Lines indicate model simulations for
+total metabolism or individual groups for concentrations up to 1000
+ppm benzene (A) or 200 ppm benzene (B).
+pathways ofmuconaldehyde and benzoquinone formation,
+and if there is no threshold in the concentration of
+metabolites required to elicit a toxic response, then lin-
+ear extrapolation of toxic effects obtained at high doses
+may underestimate the risk at low exposures.
+The physiological model can also be used to gain in-
+sights into differences in the uptake of a chemical as
+related to different exposure routes. For example, after
+oral exposure rats metabolize more benzene than do mice,
+yet after inhalation exposure mice metabolize more ben-
+zene at all exposure concentrations (Fig. 1). In both cases
+the identical Vmax and Km for overall metabolism ofben-
+zene are used for inhalation or oral exposure, although
+different metabolic parameters are used for rats and
+mice. In the model simulations, the differences in uptake
+between rats and mice were due to the differences in the
+gastrointestinal translocation rate constants for these
+species (Table 1). This is demonstrated in Figure 9A in
+which the total metabolism of benzene by mice is simu-
+lated following oral exposure to 50 mg benzene/kg. In
+these simulations, the gastrointestinal-liver translocation
+rate constant was varied from 4 hr-' to 0.5 hr-'. The simu-
+lations demonstrate that decreasing the rate constant for
+gastrointestinal transport ofbenzene increased the total
+time over which benzene was transported to the liver.
+This slower delivery ofthe same total amount ofbenzene
+ultimately results in more benzene being metabolized.
+Any benzene that is not metabolized will be exhaled (9).
+a0
+-
+X 3-
+XZ
+i O
+Lu
+N >-
+z o
+cocm m
+-J
+0
+B
+Ka
+4
+0.5
+HOURS AFTER GAVAGE
+FIGURE 9. Effect of variations in the gastrointestinal transfer rate con-
+stant (Ka) on cumulative total metabolism (A) ofbenzene by mice af-
+ter oral exposure to 50 mg benzene/kg body weight or on the exha-
+lation of unmetabolized benzene (B).
+Figure 9B demonstrates the effect of alterations in the
+gastrointestinal translocation rate constant on the
+amount of benzene exhaled. As the rate constant in-
+creased, the total amount ofbenzene exhaled increased.
+Thus, benzene that is not metabolized by the liver can
+partition into the blood. As this blood passes through the
+lungs the benzene will be exhaled proportional to the
+blood/air partition coefficient. Model simulations are con-
+sistent with the observations of Sabourin et al. (9) who
+demonstrated that with increasing oral exposure an in-
+creasing fraction ofthe benzene was exhaled unmetabo-
+lized.
+In contrast, the uptake or metabolism ofbenzene after
+inhalation exposure is the result of the differences in Vm.
+and Km between species (Fig. 10). Although the rate of
+alveolar ventilation of mice is approximately twice that
+ofrats, suggesting that the mice will inhale more benzene
+than will rats; they will also exhale more benzene. Metab-
+olism of benzene is related to the concentrations in the
+arterial blood going to the liver. For any given air con-
+48
+vv
+BENZENE PHYSIOLOGICAL MODEL 49
+2000
+300 ppm - 6hr.
+a
+N
+1600 -
+o 8%esm/Mouse Ventilation
+0 a
+abo ism/Rat Ventilation
+LU
+z
+800 taboism/Mouse Ventilation
+zite tJI==- /Rat Ventilation
+0
+E
+0 3 6 9 12
+HOURS AFTER START OF EXPOSURE
+FIGURE 10. Effect of alveolar ventilation on metabolism of benzene.
+Lines are results of model simulations of cumulative total metabo-
+lism during and after a 6-hr exposure to 300 ppm benzene. Parameters
+used in the simulations are indicated in Table 1.
+centration, the concentration of benzene in the blood is
+directly related to the blood:air partition coefficient,
+which is identical for rats and mice. Thus, as demon-
+strated in Figure 10, simulation of an inhalation exposure
+with rat ventilation parameters and mouse nietabolic rate
+constants results in a total amount of benzene metabo-
+lized that is similar to results with both mouse ventila-
+tion and metabolism parameters. Simulations with mouse
+ventilation-rat metabolism and rat ventilation-rat metab-
+olism produce comparable results.
+In summary, a physiological model has been used to de-
+scribe the uptake and metabolism of benzene. Model
+simulations as well as the experimental data of other in-
+vestigators (4-7,9) indicate that metabolism of benzene
+in mice favors the pathways leading to the putative toxic
+metabolites, benzoquinone and muconaldehyde, whereas
+metabolism ofbenzene in rats is primarily through detox-
+ification pathways. These predictions are consistent with
+the observed increased sensitivity ofmice to the toxic ef-
+fects of benzene compared to rats.
+Research was conducted under U.S. Department of Energy (DOE)
+Contract DE-AC04-76EV01013 through an Interagency Agreement
+(222-ES-20092) with the National Institute of Environmental Health
+Sciences. The facilities used for this research were fully accredited by
+the American Association for Accreditation of Laboratory Animal Care.
+The authors acknowledge the excellent technical assistance ofGretchen
+Wells and the helpful suggestions ofa number of our colleagues at the
+LITRI and the NIEHS.
+REFERENCES
+1. Kalf, G. F. Recent advances in the metabolism and toxicity ofben-
+zene. CRC Crit. Rev. in Toxicol. 18: 141-159 (1987).
+2. Aksoy, M., and Erdem, S. Follow-up study on the development of
+leukemia in 44 pancytopenic patients with chronic exposure to ben-
+zene. Blood 52: 285-292 (1978).
+3. Huff, J. E. Toxicology and Carcinogenesis Studies of Benzene (CAS
+No. 71-43-2) in F344/N Rats and B6C3Fj Mice (Gavage Studies).
+Technical Report No. 289. National Tbxicology Program, DHHS,
+Research Triangle Park, NC, 1986.
+4. Sabourin, P. J., Bechtold, W. E., and Henderson, R. F. A high pres-
+sure liquid chromatographic method for the separation and quan-
+titation ofwater-soluble radiolabeled benzene metabolites. Anal.
+Biochem. 170: 316-327 (1988).
+5. Sabourin, P. J., Bechtold, W. E., Griffith, W. C., Birnbaum, L. S.,
+Lucier, G., and Henderson, R. F. Effect ofexposure concentration,
+exposure rate, and route ofadministration on metabolism ofben-
+zene by F344 rats and B6C3F1 mice. Toxicol. Appl. Pharmacol.,
+submitted.
+6. Sabourin, P. J., Bechtold, W. E., Birnbaum, L. S., Lucier, G., and
+Henderson, R. F. Diffeience in the metabolism of inhaled 3H-
+benzene by F344/N rats and B6C3F1 mice. Toxicol. Appl. Phar-
+macol. 94: 128-140 (1988).
+7. Bechtold, W. E., Sabourin, P. J., and Henderson, R. F. A reverse
+isotope dilution method for determining benzene and metabolites
+in tissues. J. Anal. Toxicol. 12: 176-179 (1988).
+8. Medinsky, M. A., Sabourin, P. J., Lucier, G., Birnbaum, L. S., and
+Henderson, R. F. A physiological model for simulation ofbenzene
+metabolism by rats and mice. Toxicol. Appl. Pharmacol., sub-
+mitted.
+9. Sabourin, P. J., Chen, B. T., Lucier, G., Birnbaum, L. S., Fisher, E.,
+and Henderson, R. F. Effect ofdose on the absorption and excre-
+tion of '4C-benzene administered orally or by inhalation in rats and
+mice. Toxicol. Appl. Pharmacol. 87: 325-336 (1987).
+10. Ramsey, J. C., and Anderson, M. E. A physiologically based
+description ofthe inhalation pharmacokinetics of styrene monomer
+in rats and humans. Toxicol. Appl. Pharmacol. 73: 159-175 (1984).
+11. Dutcher, J. S., Medinsky, M. A., Bond, J. A., Cheng, Y. S., Snipes,
+M. B., Henderson, R. F., and Birnbaum, L. S. Effect ofvapor con-
+centration on the disposition of inhaled 2,3-dichloropropene in
+Fischer-344 rats. Fundam. Appl. Toxicol. 5: 997-1005 (1985).
+12. Birnbaum, L. S., Decad, G. M., and Matthews, H. B. Disposition
+and excretion of 2,3,7, 8-tetrachlorodibenzofuran in the rat. Tox-
+icol. Appl. Pharmacol. 55: 342-352 (1980).
+13. Thomas, R. D. Drinking Water and Health, Vol. 6. National
+Academy Press, Washington, DC, 1986.
+

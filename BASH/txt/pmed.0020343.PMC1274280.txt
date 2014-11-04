@@ -1,0 +1,930 @@
+Prolonged Activation of Virus-Specific CD8þ
+T Cells after Acute B19 Infection
+Adiba Isa1[*
+, Victoria Kasprowicz2,3[
+, Oscar Norbeck1
+, Andrew Loughry3
+, Katie Jeffery4
+, Kristina Broliden1
+,
+Paul Klenerman3
+, Thomas Tolfvenstam1,5
+, Paul Bowness2,6
+1 Institution for Medicine, Infectious Disease Unit, Center for Molecular Medicine, Karolinska Institutet, Karolinska University Hospital, Stockholm, Sweden, 2 MRC Human
+Immunology Unit, Weatherall Institute of Molecular Medicine, Oxford, United Kingdom, 3 Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine,
+Oxford University, Oxford, United Kingdom, 4 Department of Virology, John Radcliffe Hospital, Oxford, United Kingdom, 5 Division of Clinical Virology, Karolinska Institutet,
+Karolinska University Hospital, Stockholm, Sweden, 6 Nuffield Orthopaedic Centre NHS Trust, Oxford, United Kingdom
+Competing Interests: PK is on the
+Editorial Board of PLoS Medicine.
+Author Contributions: PK, TT, and
+PB designed the study. AI, VK, ON,
+and AL performed the experimental
+work. AI and VK analyzed the data.
+KJ and KB enrolled patients. AI, VK,
+PK, TT, and PB contributed to writing
+the paper.
+Academic Editor: Paul Moss,
+University of Birmingham, United
+Kingdom
+Citation: Isa A, Kasprowicz V,
+Norbeck O, Loughry A, Jeffery K, et al
+(2005) Prolonged activation of virus-
+specific CD8þ
+T cells after acute B19
+infection. PLoS Med 2(12): e343.
+Received: April 18, 2005
+Accepted: August 17, 2005
+Published: November 1, 2005
+DOI:
+10.1371/journal.pmed.0020343
+Copyright: Ó 2005 Isa et al. This is
+an open-access article distributed
+under the terms of the Creative
+Commons Attribution License, which
+permits unrestricted use,
+distribution, and reproduction in any
+medium, provided the original
+author and source are credited.
+Abbreviations: B19, human
+parvovirus B19; CMV,
+cytomegalovirus; CTL, cytotoxic T
+lymphocyte; EBV, Epstein–Barr virus;
+HCV, hepatitis C virus; HLA, human
+leukocyte antigen; IFNc, interferon-c;
+PBMC, peripheral blood
+mononuclear cell
+*To whom correspondence should
+be addressed. E-mail: adiba.isa@
+cmm.ki.se
+[These authors contributed equally
+to this work.
+A B S T R A C T
+Background
+Human parvovirus B19 (B19) is a ubiquitous and clinically significant pathogen, causing
+erythema infectiosum, arthropathy, transient aplastic crisis, and intrauterine fetal death. The
+phenotype of CD8þ
+T cells in acute B19 infection has not been studied previously.
+Methods and Findings
+The number and phenotype of B19-specific CD8þ
+T cell responses during and after acute
+adult infection was studied using HLA–peptide multimeric complexes. Surprisingly, these
+responses increased in magnitude over the first year post-infection despite resolution of clinical
+symptoms and control of viraemia, with T cell populations specific for individual epitopes
+comprising up to 4% of CD8þ
+T cells. B19-specific T cells developed and maintained an
+activated CD38þ
+phenotype, with strong expression of perforin and CD57 and downregulation
+of CD28 and CD27. These cells possessed strong effector function and intact proliferative
+capacity. Individuals tested many years after infection exhibited lower frequencies of B19-
+specific cytotoxic T lymphocytes, typically 0.05%–0.5% of CD8þ
+T cells, which were perforin,
+CD38, and CCR7 low.
+Conclusion
+This is the first example to our knowledge of an ‘‘acute’’ human viral infection inducing a
+persistent activated CD8þ
+T cell response. The likely explanation—analogous to that for
+cytomegalovirus infection—is that this persistent response is due to low-level antigen
+exposure. CD8þ
+T cells may contribute to the long-term control of this significant pathogen and
+should be considered during vaccine development.
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431280
+Open access, freely available online PLoSMEDICINE
+Introduction
+Human parvovirus B19 (B19) is a ubiquitous, single-stranded
+DNA virus. The 5.6-kb genome codes for only three major
+proteins, the two overlapping capsid proteins VP1 and VP2
+and the non-structural protein NS1. B19 targets immature
+erythroid cells in the bone marrow after respiratory trans-
+mission. Common manifestations of the infection are the
+benign febrile illness erythema infectiosum followed by an
+acute arthropathy (in approximately 5% of children and up to
+50% of adult infections) that spontaneously resolves within 3
+wk. Some adult patients who develop chronic arthritis can fulﬁl
+the diagnostic criteria of rheumatoid arthritis [1,2]. Other
+severe manifestations include transient aplastic crisis in
+individuals with increased red cell turnover, and chronic
+anaemia in immunocompromised patients. Furthermore,
+infection during pregnancy is a major cause of fetal death.
+Clinical resolution of acute infection is associated with the
+emergence of antiviral IgG, which is maintained lifelong [3].
+However, although antibodies are of importance, evidence for
+an important role for cellular immune responses in the control
+of B19 infection is also emerging. In some individuals with
+apparently intact antibody responses, virus replication con-
+tinues long term [4]. Readily detectable CD8þ
+T cell responses
+in three asymptomatic seropositive individuals have also been
+observed [5]. CD8þ
+T cells play an essential role in the control of
+viral infections by direct killing of virus-infected cells and
+through cytokine secretion. After a primary viral infection,
+naı¨ve antigen-speciﬁc T cells expand clonally and undergo
+several differentiation stages, followed by a contraction phase
+mediated by apoptosis. Expression of the chemokine receptor
+CCR7 on memory T cells has been used to divide this
+population into central and effector memory subsets. CCR7þ
+‘‘central’’ memory lymphocytes mostly home to secondary
+lymphoid organs and have a high proliferative capacity in
+response to antigen re-encounter. CCR7À
+‘‘effector’’ memory
+cells home to non-lymphoid organs and are capable of rapid
+effector function [6]. Peptide–major histocompatibility com-
+plex multimers can be used to further quantify and phenotype
+T cells bearing T cell receptors of appropriate peptide/human
+leukocyte antigen (HLA) speciﬁcity [7,8]. Amongst ‘‘effector’’
+memory populations, a spectrum of phenotypes exists, as
+assessed by surface expression of markers such as CD27, CD28,
+and CD57, and intracellular expression of perforin. Amongst
+the viral infections studied, cytomegalovirus (CMV) is associ-
+ated with the emergence of the largest long-term memory
+populations with the most ‘‘mature’’ phenotype, CD27/CD28
+low, CD57 high, and often perforin positive [9]. The factors that
+ultimately determine the phenotype and function of these
+populations of lymphocytes are not fully understood, but
+continued exposure to antigen is thought to be important.
+Persistent infections such as hepatitis C virus (HCV), Epstein–
+Barr virus (EBV), and HIV also show antiviral populations that
+are ‘‘effector’’ (CD62L or CCR7 low), but show lower levels of
+maturation than CMV-speciﬁc responses [7].
+Its small stable genome and clear seroconversion illness
+make B19 an ideal viral infection in which to study the
+evolution of antigen-speciﬁc T cells longitudinally. Most other
+signiﬁcant viruses in humans are either highly variable (HCV
+and HIV) or have extremely large genomes (EBV and CMV). In
+our previous analyses, we observed a surprisingly robust
+response to B19 in three individuals with an asymptomatic
+seropositive state [5]. We aimed in this study to deﬁne the
+origins of such responses and track a range of antiviral
+populations during and after acute disease.
+Methods
+Study Participants
+Eleven previously healthy immunocompetent adults pre-
+senting to their general practitioner with symptoms of fever,
+arthralgia, fatigue, and rash were prospectively identiﬁed (B19
+IgM-positive) at the Departments of Clinical Virology at the
+Oxford Radcliffe Hospitals, Oxford, United Kingdom, and
+Karolinska University Hospital, Stockholm, Sweden. The two
+Table 1. Data on Individuals Acutely and Remotely Infected with B19
+Patienta
+Age Sex HLA Symptoms Symptom Duration (Weeks) B19 DNA in Serumb
+A1 A2 B1 B2 C1 C2
+S1 51 F 1 2 27 44 1 7 Headache, arthralgia, myalgia, fatigue 4 4.5 þ; 7.5 À
+S2 35 F 2 3 15 40 3 3 Arthralgia, fever, exanthem 4–5 2.5 þ; 4.5 À
+S3 40 F 1 68 8 8 7 7 Exanthem, arthralgia 4–5 7 þ; 10 À
+S4 40 F 1 2 8 15 7 9 Arthralgia, fever, exanthem 4–5 8.5 þ; 12 À
+S5 41 F 1 11 8 8 7 7 Exanthem, fatigue, arthralgia 3–5 4.5 þ
+O1 42 F 3 24 40 40 3 3 Exanthem, short-lived arthritis 4 2 þ; 12 À
+O2 28 F 2 24 35 57 4 6 Exanthem, arthralgia, tiredness 4 2 þ
+O3 40 F 1 24 57 35 4 6 Exanthem, definite arthritis 5 2 þ; 20 À
+O4 43 F 2 1 39 56 1 7 Exanthem, short-lived arthritis 1 2 þ
+O5 38 F 1 2 8 51 7 15 Arthralgia 1 4 À
+O6 39 F 1 24 8 18 7 12 Short-lived arthritis 6 8 À
+OR1 41 M 2 26 35 62 NA NA None — —
+OR2 43 M 2 29 44 44 NA NA None — —
+OR3 24 F 2 40 14 4 6 None — —
+OR4 31 M 24 31 35 35 3 8 None — —
+OR5 39 F 1 2 7 57 1 6 None — —
+a
+S1–S5 are acutely infected patients from the Stockholm cohort, O1–O6 are acutely infected patients from the Oxford cohort, and OR1–OR5 are remotely infected individuals (from Oxford).
+b
+B19 DNA in serum detected at time periods after initial infection (in months). Months shown are last positive and first negative PCR test. No B19 DNA could be amplified in the remotely infected cohort.
+NA, not analysed.
+DOI: 10.1371/journal.pmed.0020343.t001
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431281
+Prolonged Activated CD8 Response to B19
+cohorts were ascertained and studied independently. Clinical
+details of the patients are shown in Table 1. The timing of
+blood samples is given from onset of symptoms for both
+cohorts. B19 DNA in serum was detected by nested PCR
+amplifying 284 bp in the NS1 gene with a sensitivity of 103
+DNA
+copies/ml (Table 1) [5]. In addition, ﬁve healthy B19 IgG-
+positive, B19 IgM/DNA-negative healthy laboratory volunteers
+were studied as a ‘‘remotely infected’’ cohort. One gave a
+history of acute rash and arthritis 10 y previously; the
+remainder had no history suggestive of B19 infection and
+were likely infected in childhood. No interferon-c (IFNc)– or
+B19-speciﬁc T cells were detected in B19 IgG/IgM/DNA-
+negative healthy controls (data not shown). Peripheral blood
+mononuclear cells (PBMCs) were separated from heparinized
+blood samples within 8 h of sampling, by gradient centrifuga-
+tion on Ficoll-Paque (Amersham Biosciences, Uppsala, Swe-
+den) or Lymphoprep (Fresenius Kabi Norge, Halden, Norway).
+DNA was extracted from PBMCs using a QIAamp DNA Mini kit
+(VWR International, Stockholm, Sweden) or PURGENE DNA
+puriﬁcation kit (Gentra Systems, Minneapolis, Minnesota,
+United States). B19 IgM and IgG were tested using a
+commercial EIA (Biotrin International, Dublin, Ireland).
+Ethical approval for the study was obtained from the local
+ethical committee at Huddinge University Hospital, Karolin-
+ska Institutet, Stockholm, Sweden, and from the Oxfordshire
+Clinical Research Ethics Committee (CO2.113), Oxford,
+United Kingdom, and informed patient consent was obtained.
+HLA Tissue Typing
+HLA class I genotyping was performed using multiplex PCR
+on DNA extracted from PBMCs (ABC SSP Unitray, Dynal
+Biotech, Oslo, Norway).
+Generation of HLA–Peptide Multimeric Complexes
+HLA–B19 peptide multimeric complexes were constructed
+as previously described [10] and are listed in Table 2. Brieﬂy,
+recombinant b2 microglobulin and HLA heavy chain (modi-
+ﬁed by deletion of the transmembrane–cytosolic tail and
+addition of a BirA enzymatic biotinylation site) were expressed
+in BL21pLysS Escherichia coli. The resulting inclusion bodies
+were puriﬁed and solubilized in urea, and refolded by limiting
+dilution. Peptides were purchased (Biopeptide, San Diego,
+California, United States) or synthesized by F-moc chemistry
+and were of greater than 95% purity. The refolded complex
+was then concentrated, buffer exchanged, biotinylated with
+BirA enzyme, and puriﬁed by fast protein liquid chromatog-
+raphy. HLA class I peptide complexes were stored at À80 8C.
+Before staining, the monomers were tetramerized with
+phycoerythrin or Alexa 647–labeled streptavidin (Molecular
+Probes, Eugene, Oregon, United States) at a molar ratio of 1:4.
+In addition, a Pro5 Pentamer containing the HLA-B*40
+TEADVQQWL peptide conjugated to allophycocyanin was
+purchased (ProImmune, Oxford, United Kingdom). Speciﬁcity
+of the MHC monomers was conﬁrmed using T cell lines
+established in vitro. When tested against non-HLA-matched
+cytotoxic T lymphocyte (CTL) lines, no population was
+detected (,0.02%; data not shown).
+FACS Analysis
+Cryopreserved PBMCs were thawed and washed twice with
+RPMI-1640 supplemented with 10% fetal calf serum, L-
+glutamine, penicillin, streptomycin, and Hepes buffer at pH
+7.5. In preliminary experiments, freshly isolated PBMCs were
+stained in parallel with the same results. PBMCs (2.53105
+cells)
+were stained with the respective major histocompatibility
+complex multimer and incubated for 20–30 min at 37 8C. After
+two washes with PBE (2 mM EDTA and 0.05% BSA, in PBS [pH
+7.4]), cells were co-stained with the appropriate monoclonal
+antibodies for 15 min on ice, and ﬁxed in 1%–2% form-
+aldehyde. Monoclonal antibodies used were directly conju-
+gated and purchased ( Becton-Dickinson, Stockholm, Sweden).
+Four-colour FACS was performed using ﬂuorochrome-
+coupled anti-human CD3-, CD8-, CD27-, CD28-, CD38-,
+CD45RA-, CD45RO-, CD57-, CD62L-, CCR7-, and perforin-
+speciﬁc antibodies. For perforin staining, the cells were
+permeabilized for 15 min using permeabilizing solution
+(Becton Dickinson, Palo Alto, California, United States) before
+staining with perforin monoclonal antibody. Cell acquisition
+was performed with a four-colour FACS by using a FACSCa-
+libur with CellQuest software (Becton Dickinson).
+T Cell Lines and Functional Assays
+PBMCs were pulsed with 50 lM of the respective epitope and
+cultured at 23106
+cells/ml in 24-well plates for 12–18 d. At day
+three, 10 units/ml of IL-2 was added. Half of the medium was
+replaced each third day with fresh medium containing 10 units/
+ml of IL-2.
+Ex Vivo IFNc ELISpots
+IFNc ELISpots were performed as described previously [11].
+Brieﬂy 2.5 3 105
+PBMCs were stimulated in triplicates with
+Table 2. HLA Restriction and Peptide Sequence of B19 Epitope
+Multimers Used
+HLA
+Restriction
+Amino Acid
+Position Starta
+Epitope
+Sequence
+Multimer
+Abbreviation
+HLA-A*0201 B19 NS1 276 LLHTDFEQVb
+A2 LLH
+HLA-A*0201 B19 NS1 613 GLCPHCINVb
+A2 GLC
+HLA-A*24 B19 NS1 572 FYTPLADQF A24 FYT
+HLA-B*08 B19 VP2 546 TAKSRVHPLb
+B8 TAK
+HLA-B*35 B19 NS1 536 FPGINADAL B35 FPG
+HLA-B*40 B19 NS1 456 TEADVQQWLb
+B40 TEA
+a
+The number of the first amino acid in the protein according to sequence described by Shade et al. [37].
+b
+Epitope identified by Norbeck et al. [12].
+DOI: 10.1371/journal.pmed.0020343.t002
+Figure 1. B19-Specific CD8þ
+T Cells Persist at High Levels for Many Months after Acute Infection
+(A) Representative A24 FYT tetramer staining of individual O3\9s PBMCs. Plots are gated on live CD8þ
+lymphocytes stained directly ex vivo. Percentages
+shown are those of tetramer-positive CD8þ
+T cells. Time points indicated refer to the number of months after first symptoms reported. Symptoms in this
+individual lasted 5 wk.
+(B) Frequency of B19-specific responses over time for six acutely infected individuals in the Oxford cohort (O1–O5) and five remotely infected individuals
+(OR1–OR5). In one case, two epitopes were studied.
+(C) Frequency of B19-specific responses over time for five acutely infected individuals in the Stockholm cohort (S1–S5). In two cases, two epitopes were
+studied.
+DOI: 10.1371/journal.pmed.0020343.g001
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431282
+Prolonged Activated CD8 Response to B19
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431283
+Prolonged Activated CD8 Response to B19
+peptide pools/PHA (Sigma, St. Louis, Missouri, United States).
+Synthetic peptides, 15-mer, overlapping by ten amino acids
+spanning the entire B19 protein sequence were used in pools of
+ten at a ﬁnal concentration of 10 lM. IFNc responses were
+conﬁrmed using individual peptides, with optimal epitopes
+and HLA restriction identiﬁed by synthesis of truncated
+peptides, prepulsing, and extensive washing of HLA-matched
+and -mismatched target cells, and synthesis of HLA–peptide
+multimeric complexes [12]. Using these techniques we con-
+ﬁrmed previous epitopes in two independent cohorts, and
+identiﬁed two new epitopes shown in Table 2, the nonamer
+FYT restricted by HLA-A*24 and FPG restricted by HLA-B*35.
+The latter is in addition to the HLA-B*35 epitope described
+previously [5].
+Intracellular Cytokine Staining
+Short-term stimulation of PBMCs was carried out using
+either peptide pools or individual peptides as previously
+described [13]. Epitope HLA restriction required the pre-
+pulsing of matched and mismatched PBMCs (from B19
+seronegative individuals) with peptide at 20 lM for 1 h at
+37 8C. Cells were washed and added to CTLs at a 10:1 ratio for
+1 h before the addition of Brefeldin A.
+Chromium Release Assay
+CTLs were set up as described above. The cytolysis was
+performed by killing of chromium-labelled targets as de-
+scribed previously by Nixon et. al. [14] using LBL721.220
+transfected with HLA-A*0201 as target cells.
+Results
+B19-Specific CD8þ
+T cells Expand and Persist at High
+Frequency Following Resolution of Acute Symptomatic
+Infection
+Eleven adults with acute B19 infection (ﬁve in Stockholm
+cohort and six in Oxford cohort) and ﬁve remotely infected
+seropositive individuals were studied. The clinical details,
+symptom duration, and HLA types are shown in Table 1.
+Surprisingly, in both cohorts (studied independently) the
+frequency of B19-speciﬁc (multimer-positive) CD8þ
+T cells in
+peripheral blood samples continued to increase for many
+months following symptom resolution. Figure 1A shows
+representative staining from patient O3. The frequency of
+A24 FYT tetramer-staining CD8þ
+T cells increases up to 15 mo
+after symptom presentation. Patient O3 presented with rash
+and arthritis; however, symptoms resolved within 5 wk and
+clinical examination was entirely normal at the time of the
+second and subsequent venesections. Figure 1B and 1C show
+the levels of multimer-positive CD8þ
+T cells for the Oxford and
+Stockholm cohorts of acutely infected individuals over time.
+Only one sample was obtained for patient O6; all other
+individuals were studied 2–7 times. All acutely infected
+individuals showed B19-speciﬁc CD8þ
+T cell percentages
+ranging from 0.09% to 4.5% total CD8þ
+T cells. The levels
+rose for at least the ﬁrst 4 mo and frequently persisted for 12–
+32 mo after symptom onset. The frequencies at 22 mo (or
+nearest time point) were signiﬁcantly greater than at ﬁrst
+sampling (Willcoxon rank sum test, p¼0.0020), and than those
+observed for remotely infected seropositive individuals (Figure
+1B; Mann–WhitneyU test, p ¼ 0.0022).
+B19 DNA could be detected by nested PCR in serum for
+different time periods (see Table 1). No B19 DNA could be
+ampliﬁed from individuals in the remotely infected group.
+IgG levels rose quickly and were maintained at a stable level
+in patients studied (data not shown).
+B19-Specific CD8þ
+T Cells Remain Activated Following
+Resolution of Acute Symptomatic Infection
+In order to understand the origins and potential pathogenic
+role of virus-speciﬁc CD8þ
+T cells during and after acute
+infection, we studied the activation phenotype of these cells ex
+vivo. Figure 2 shows examples of T cell phenotypic marker
+expression at early and late sample time points for three
+different patients using three different B19 peptide–HLA
+multimers. Figure 2A shows that HLA-B*40 TEA pentamer-
+positive CD8þ
+T cells from individual S2 are largely perforin
+positive and CD62L negative, and that these changes become
+more pronounced from the early (4 mo) to late (21 mo) time
+points. Figure 3 shows sequential phenotypic data for all of the
+acutely and remotely infected Oxford cohort. The upper left
+panel shows that all acutely infected patients showed increases
+in perforin expression on their B19-speciﬁc T cells over the
+ﬁrst year following symptom development. By contrast, the
+seropositive remotely infected individuals showed low levels of
+perforin expression on tetramer-positive cells. These differ-
+ences were statistically signiﬁcant (Mann–Whitney U test, p ¼
+0.0079). Figure 4 shows sequential data from two individuals,
+S1 and S2, of the Stockholm cohort, each studied with two
+different HLA–peptide multimers at ﬁve or six time points
+after acute presentation.
+CD62L expression was found to be low at all time points in
+the acutely infected cohort as well as in the remotely infected
+cohort (see Figure 2A, lower panels; Figure 4, bottom panels;
+data not shown). Figure 3 also shows that, for the Oxford
+acutely infected cohort, CCR7 expression was low and fell over
+the study period. B19-speciﬁc CD8þ
+T cells from four of the ﬁve
+remotely infected individuals had low CCR7 expression (see
+Figure 3, bottom right panel).
+Figure 2B (upper panels) shows the frequency of CD27
+expression on A24 FYT tetramer-positive T cells for patient
+O3. Figure 3 (upper right panel) shows the data from all of the
+Oxford cohort. CD27 was downregulated over time in acutely
+infected individuals. Three of the remotely infected individ-
+uals had high levels of CD27 expression on their tetramer-
+positive populations, while two had slightly lower levels, with
+only approximately 50% of tetramer-positive cells expressing
+CD27. B19-speciﬁc T cells from the acutely infected individuals
+also showed downregulation of the CD28 marker over time.
+This is shown for individual O3 in Figure 2B (bottom panels).
+Two months after symptom onset, 86% of multimer-positive
+cells expressed CD28, while at 20 mo only 4% of multimer-
+Figure 2. Representative Ex Vivo Phenotyping of B19-Specific CD8þ
+T Cell Populations over Time
+Percentages shown are the frequency of marker-positive cells amongst multimer-positive cells (plots gated on live CD8þ
+lymphocytes ex vivo).
+(A) Patient S2 B40 TEA pentamer staining at 4 mo (left) and 21 mo (right), showing perforin and CD62L levels.
+(B) Patient O3 A24 FYT tetramer staining at 2 mo (left) and 20 mo (right), showing CD27 and CD28 staining.
+(C) Patient O5 A2 GLC tetramer staining at 4 mo (left) and 18 mo (right), showing CD38 and CD57 staining.
+DOI: 10.1371/journal.pmed.0020343.g002
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431284
+Prolonged Activated CD8 Response to B19
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431285
+Prolonged Activated CD8 Response to B19
+positive cells expressd CD28. Figure 3 (middle right panel)
+shows a similar pattern of CD28 downregulation over time for
+multimer-positive cells from the Oxford acutely infected
+cohort. Similar results were seen for the Stockholm cohort
+(data not shown). By contrast, B19-speciﬁc CD8þ
+T cells from
+remotely infected individuals were predominately CD28þ
+. The
+T cells 20 mo post-infection in acutely infected individuals
+expressed signiﬁcantly lower CD28 than in the remotely
+infected cohort (Mann–Whitney U test, p ¼ 0.015).
+Persistent CD38 Expression Following B19 Infection
+Suggests Ongoing Low-Level Antigenic Stimulation
+All acutely infected individuals maintained high levels of
+CD38 expression for more than 10 mo after symptom onset,
+Figure 3. Acutely infected individuals Maintain Activated Mature Effector Cells after Resolution of Acute Infection
+Remotely infected individuals show a less mature/activated phenotype but express only low levels of CCR7 and CD62L (Oxford cohort). The y-axis show
+the frequency of marker-positive cells amongst tetramer-positive CD8þ
+cells, while the x-axis show the number of months after symptom onset. Data
+are shown in perforin, CD38, CD57, CD27, CD28, and CCR7: data are derived from six acutely infected individuals in the Oxford cohort (O1–O3, O5, and
+O6; insufficient cells available for O4) and five remotely infected individuals (OR1–OR5).
+DOI: 10.1371/journal.pmed.0020343.g003
+Figure 4. Longitudinal Phenotype Analysis of B19-Specific CD8þ
+T Cell Responses in Acutely Infected Individuals in Stockholm Cohort
+(A) Blood from patient S1 was stained with the two tetramers A2 LLH and A2 GLC.
+(B) Blood from patient S2 was stained with tetramers A2 GLC and the Pro5 B40 TEA pentamer. The top panels show the frequency of tetramer-positive
+cells over time for the two different responses in each individual (data equivalent to those in Figure 1C). The subsequent panels show the frequency of
+B19-specific CD8þ
+cells positive for perforin, CD38, CD57, and CD62L in both patients.
+DOI: 10.1371/journal.pmed.0020343.g004
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431286
+Prolonged Activated CD8 Response to B19
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431287
+Prolonged Activated CD8 Response to B19
+as shown for the Oxford cohort in Figures 2C and 3 and for
+two individuals of the Stockholm cohort in Figure 3.
+Strikingly, for one patient, O3, there was a dramatic fall in
+CD38 expression at 27 mo compared to the 20-mo time point.
+Figure 4 shows the sequential CD38 expression of multimer-
+positive T cells of two speciﬁcities for Stockholm patients S1
+and S2. S1 shows ﬂuctuations over a period of over 32 mo; S2
+shows a gradual decline in CD38 expression from high levels
+over a comparable period.
+CD57 expression levels increased over time in almost all
+acutely infected individuals. This is shown for one Oxford
+individual in Figure 2C, for the Oxford acutely infected cohort
+in Figure 3 (bottom left panel), and for two of the Stockholm
+cohort in Figure 4. Thus, for individual S2 (Figure 4) a high
+level of CD57 expression was maintained at 30 mo, the last time
+point tested. By contrast, Figure 3 (bottom left panel) shows
+that remotely infected individuals have low levels of CD57
+expression on their B19-speciﬁc CD8þ
+T cells. T cells 20 mo
+post-infection in acutely infected individuals expressed sig-
+niﬁcantly higher CD57 than in the remotely infected cohort
+(Mann–Whitney U test, p ¼ 0.0043).
+Differing Patterns of CD45 Isoform Expression Follow
+Acute B19 Infection
+CD45 isoform expression showed variation between indi-
+viduals. Most acutely infected patients from the Stockholm and
+Oxford cohorts expressed high levels of CD45RO within a few
+months of symptom onset, with variable downregulation over
+time (data not shown). In the remotely infected cohort, three
+individuals expressed high levels of CD45RO on tetramer-
+positive cells. Two of these individuals, however, had only just
+over 50% of their tetramer-positive cells expressing CD45O
+(data not shown). CD45RA was downregulated in some patients
+in the Oxford cohort, whereas in the Stockholm cohort the
+B19-speciﬁc CD8þ
+cells during the entire study period
+generally expressed high frequency of CD45RA (data not
+shown).
+B19-Specific CD8þ
+T Cells Have Efficient Effector Function
+Figure 5A shows that PBMCs from patient O1 at the 2-mo
+time point are capable of immediate IFNc release on
+stimulation with the FYTPLADQF peptide. The number of
+IFNc-releasing T cells corresponds to approximately 0.3% of
+CD8 T cells (since at this time point, 40% of PBMCs were
+CD8þ
+). At this time point, 1.6% of CD8þ
+cells were stained with
+the A24 FYT tetramer (Figure 5A, right panel). Thus, the
+numbers of cells capable of immediate IFNc secretion were
+approximately 5-fold lower than the numbers of tetramer-
+staining cells. Figure 5B shows that B40-restricted TEA-speciﬁc
+T cells from patient S2 (at 30 mo) were able to proliferate
+rapidly in vitro on stimulation with peptide. After 12 d, 90% of
+surviving CD8þ
+T cells were B40 TEA-speciﬁc. B19-speciﬁc T
+cell lines were capable of rapid IFNc production, as assessed by
+intracellular cytokine release assay (data not shown).
+Lastly, we studied the function of B19-speciﬁc CD8þ
+T cells
+from remotely infected individuals (who in all cases had no
+symptoms attributable to possible B19 infection for at least 5
+y). Figure 5C shows that these cells were capable of direct ex
+vivo IFNc release on 18 h culture with GLCPHCINV or
+TEADVQQWL peptides. A T cell line derived by culture of
+OR1 PBMCs with peptide in vitro was capable of HLA-A*0201-
+restricted B19-peptide-speciﬁc cytolysis (Figure 5D).
+Discussion
+In this study we observed, to our knowledge for the ﬁrst time,
+a striking pattern of evolving, long-lived CD8 immune
+responses against B19 in 11 adults with primary B19 infection.
+Although the symptoms of this virus are generally short-lived
+and the virus is not classically regarded as persistent, the
+immune responses showed a sustained activated state many
+months after initial infection. This pattern was observed in a
+range of patients in two different clinical centres and appears
+to represent a new and distinct style of host–virus relationship.
+This is the ﬁrst example to our knowledge of an ‘‘acute’’ human
+viral infection inducing persistent activated CD8 T cell
+responses.
+The CD8þ
+T cell responses tracked here were mapped using a
+comprehensive screening system facilitated by the compact
+and stable viral genome of B19. The virus has only one NS gene,
+which appears to be the major target of CD8þ
+T cell responses
+during acute disease, with a range of epitopes identiﬁed [5,12].
+HLA-A2-restricted epitopes were commonly targeted, but,
+interestingly, no clear-cut dominance of one over the other was
+consistently seen, in contrast to infections such as CMV and
+HIV [15,16]. CTL responses to HLA-A2 and non-HLA-A2
+epitopes showed similar kinetics, frequencies, and phenotypes.
+Thus, future studies might reasonably track deﬁned epitopes,
+rather than requiring individual mapping, as is the case in, for
+example, HCV [17–19].
+We used, to our knowledge for the ﬁrst time, HLA–peptide
+multimeric complexes to detect CD8þ
+T cell responses during
+acute B19 infection. Surprisingly, these continued to increase
+in magnitude at later time points, long after resolution of acute
+symptoms. In some cases, these responses reached high levels in
+blood, and were sustained over many months. Even responses
+of lower frequency appeared to show this delayed expansion.
+This differs to responses to almost all other human viruses
+studied in such detail. Responses to HIV and HCV are strong in
+acute infection, but typically decline as virus is controlled [20].
+EBV-speciﬁc responses to latent antigens may increase over
+time [21]. Few data exist on acute CMV infection in
+immunocompetent humans, but in murine infection, a
+phenomenon of ‘‘memory inﬂation’’ is seen for some but not
+all epitopes [22–24]. Here, responses showed gradual accumu-
+lation over time after a short acute response and a lag period of
+about 8–10 wk after acute infection. The current study did not
+have the resolution to determine whether B19-speciﬁc
+responses were biphasic in this manner, although in the mouse
+such phenomena may differ substantially between different
+virus preparations, doses, and experimental settings.
+The B19-speciﬁc T cell populations underwent contraction
+1.5–2 y after acute infection. The kinetics of this contraction
+were not deﬁned in this study, but ‘‘remotely infected’’
+individuals, who had no recent history of infection, and in
+some cases may have been primarily infected as long ago as 30 y
+previously, showed smaller populations of B19-speciﬁc T cell
+populations . However, as we have noted previously, B19-
+speciﬁc CTLs are readily detectable—often much larger than
+equivalent responses to viruses such as inﬂuenza and com-
+parable to some EBV-speciﬁc responses [5]. A single individual
+who had a documented B19 infection 10 y previously showed
+populations of a size and phenotype (see below) similar to the
+other remotely infected persons.
+In addition to a sustained and prolonged expansion of
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431288
+Prolonged Activated CD8 Response to B19
+Figure 5. B19-Specific CD8þ
+T Cells Secrete IFNc Ex Vivo, Proliferate, and Show Cytolytic Function In Vitro
+(A) Left panel shows that PBMCs from acutely infected patient O1 secrete IFNc ex vivo after 18 h of FYTPLADQF peptide stimulation. Negative control
+(zero spots) and two peptide-stimulated wells from an ELISpot plate are shown. Numbers represent IFNc-secreting cells per 250,000 PBMCs. Right panel
+shows A24 FYT tetramer staining of PBMCs at same time point, displaying the number of tetramer-positive cells expressed as a percentage of CD8þ
+T
+cells.
+(B) Tetramer staining of patient S2\9s PBMCs ex vivo (left) and after short-term TEADVQQWL peptide stimulation in vitro (right).
+(C) Ex vivo IFNc ELISpot results for remotely infected individual OR3. Mean and standard deviations of triplicates are shown. Cells were stimulated for 18
+h with no peptide, GLCPHCINV, or TEADVQQWL.
+(D) 51
+Cr release assay using HLA-A2-restricted GLCPHCINV-specific CTLs from individual OR1. PBMCs were stimulated for 14 d with GLCPHCINV peptide
+and cytolysis was tested against HLA-A*0201-transfected LBL.721.220 target cells at various effector-to-target-cell (E:T) ratios.
+DOI: 10.1371/journal.pmed.0020343.g005
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431289
+Prolonged Activated CD8 Response to B19
+antiviral responses, we also observed continued maturation of
+B19-speciﬁc CD8þ
+T cells in the cohorts of acutely infected
+individuals studied. This expansion was consistent across a
+range of markers, all of which have been linked to the evolution
+of antiviral ‘‘effector’’ memory cells against persistent virus
+infections. Consistent with these data is the ﬁnding of
+sustained CD8 effector function of the Swedish cohort over
+time, as evidenced by IFNc production in response to viral
+peptides [12]. Antiviral T cell responses to CMV have been
+extensively studied and are typically regarded as exhibiting a
+‘‘mature’’ phenotype associated with loss of expression of co-
+stimulatory molecules CD27 and CD28, sustained loss of lymph
+node homing markers CD62L and CCR7, and generally
+positive expression of intracellular perforin [7,25–27]. A
+particular feature of these cells is sustained expression of
+CD57, which is considered to be a marker of terminally
+differentiated cells [20]. Although there are substantial differ-
+ences between individuals, many groups report re-expression
+of CD45RA on such highly differentiated cells [28–31]. All of
+these features were clearly reproduced in the B19-speciﬁc
+responses tracked in the months following acute infection.
+Interestingly, the gradual evolution of responses from a CD28þ
+to CD28À
+status, in concert with changes in other markers,
+could be clearly tracked over time. These phenotypic changes
+have not been extensively investigated in human CMV, but in
+murine CMV, CD28 loss does appear to occur relatively early,
+and to be subsequently maintained in the immunodominant
+populations [32].
+It is generally considered likely, although not proven, that
+such marker evolution represents a maturation pathway,
+driven by restimulation in vivo with antigen. The nature or
+duration of the encounter, coupled with the survival of
+antigen-speciﬁc cells, may lead to the typical appearances of
+T cells speciﬁc for different persistent virus infections [7,25].
+The ﬁndings that not only are the cells phenotypically mature
+but also strongly activated in vivo (CD38þ
+), is consistent with
+continuous encounter with antigen over the post-infection
+period. This period of restimulation appears to be sustained,
+but, unlike in CMV, appears to wane over time, perhaps after
+1.5–2 y. Eventual disappearance of antigen would be consistent
+with the relatively less differentiated phenotype seen in
+remotely infected individuals. Nevertheless, although such
+populations are smaller in size, less activated, and less mature,
+they retain a CD62L-low phenotype. Murine T cell populations
+that exist in the absence of antigen typically show slow
+reversion to a CD62L-high state [33], even in the case of CMV
+[32]. Thus antigenic drive may be reduced but would appear to
+be still sufﬁcient to maintain an ‘‘effector’’ memory T cell
+population.
+The striking features of the T cell responses to B19 infection
+indicate persistence of antigen long after the resolution of
+acute infection. The status of the virus in the post-acute period
+is not fully understood. Direct nucleic acid analysis has
+revealed loss of detection in blood after 3 wk in infected
+volunteers [3], although this may be prolonged in some cases
+[4]. Nested PCR analysis in our study revealed the presence of
+B19 DNA in blood at early time points during acute infection,
+but such assays were negative at time points 6–12 mo after
+infection, when T cell populations remained activated. It is
+possible that B19 persists, in the blood and other sites
+including bone marrow, joints, or skin. Detection of B19
+DNA in the bone marrow of asymptomatic remotely infected
+volunteers has been reported [3]. The ﬁnding of parvovirus in
+skin remains restricted to a single study of a speciﬁc genotype
+distinct from the genotype 1 strains found in our study
+participants [34]. Low-level, contained replication at a tissue
+site for weeks or months after infection does seem like the most
+likely explanation for the immune responses seen, and more
+sensitive quantitative PCR assays are being validated to address
+this question. It is also possible that viral antigen is retained, for
+example, on follicular dendritic cells, following the extremely
+high burden seen acutely. Alternatively subgenomic particles
+may be generated in the post-acute period, in the absence of
+full viral replication. Parvovirus is not thought to establish true
+latency or integrate into the host genome, so the mechanism
+behind this low-level persistence remains to be explored.
+The relationship between joint or bone marrow pathology
+and the T cell responses seen is not clear. Indeed, since the most
+active CD8þ
+T cell responses were seen at stages where joint
+symptoms had resolved, these T cell responses are unlikely to
+be directly involved. It remains an open and interesting
+question, however, whether these or perhaps CD4þ
+T cells are
+involved in the prolonged inﬂammatory arthritis seen in a
+proportion of cases. A previous study did identify an HLA
+association with B19-induced arthritis syndrome, suggesting a
+signiﬁcant role for cellular immune responses [1]. All our
+patients presented—as is common in adults—with joint
+symptoms, and in principle an acutely infected but asympto-
+matic group would provide an ideal comparison to address
+such a question. It is also possible that the CTL responses seen
+might be involved in immune-mediated pathology in the bone
+marrow. Although the virus itself may lead to direct death of
+the critical progenitor cells, in other settings vigorous T cell
+responses can also contribute importantly to marrow sup-
+pression through lytic and non-lytic pathways [35].
+In summary, this is the ﬁrst demonstration to our knowledge
+of a virus not thought to cause true or classical persistent
+infection leading to a persistent activated CD8þ
+T cell
+response. Responses of this quantity and quality (i.e., CD27
+and CD28 low and CD57 and perforin high) have only
+previously been seen for infection with CMV, a virus known
+to establish persistent infection. Our data suggest that B19
+persists in some form after acute infection, and provokes
+sustained activated CD8þ
+T cell responses, which might
+ultimately play a role in viral clearance. Deﬁning the role of
+CTLs in this setting will be of value not only in expanding
+further our understanding of the role of T cells in acute and
+persistent viral infections but also in vaccine design and in
+immunotherapy, as has been applied to treatment of EBV and
+CMV infections in immunosuppressed individuals. B19 is a
+small virus and attracts relatively little attention from
+clinicians and immunologists [36], but clearly attracts a great
+deal of attention from the immune system. Now that progress
+has been made in the deﬁnition of the kinetics and antigenic
+targets of these immune responses, further studies in speciﬁc
+clinical settings where the virus remains a signiﬁcant problem
+could readily redress this balance.
+Acknowledgments
+This study was ﬁnancially supported by the Medical Research Council
+UK, the Tobias Foundation, the Swedish Cancer Foundation, and the
+speciﬁc Programme for Research and Technological Development
+‘‘Quality of Life and Management of Living Resources, Human
+Parvovirus Infection: Towards Improved Understanding Diagnosis
+and Therapy’’ (QLK2-CT-2001–00877) of the Swedish Medical
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431290
+Prolonged Activated CD8 Response to B19
+Research Council, the Wellcome Trust, and the Commission of the
+European Communities. However, the study does not necessarily
+reﬂect the views of these funders and in no way anticipates the
+European Commission’s future policy in this area. We are also
+grateful to Mr. Tim Rostron for assistance with tissue typing. We
+would also like to thank the patients and volunteers who donated
+blood for the study. The funders had no role in study design, data
+collection and analysis, decision to publish, or preparation of the
+manuscript. &
+References
+1. Gendi NS, Gibson K, Wordsworth BP (1996) Effect of HLA type and
+hypocomplementaemia on the expression of parvovirus arthritis: one year
+follow up of an outbreak. Ann Rheum Dis 55: 63–65.
+2. van Elsacker-Niele AM, Kroes AC (1999) Human parvovirus B19: Relevance
+in internal medicine. Neth J Med 54: 221–230.
+3. Heegaard ED, Brown KE (2002) Human parvovirus B19. Clin Microbiol Rev
+15: 485–505.
+4. Lundqvist A, Tolfvenstam T, Bostic J, Soderlund M, Broliden K (1999)
+Clinical and laboratory ﬁndings in immunocompetent patients with
+persistent parvovirus B19 DNA in bone marrow. Scand J Infect Dis 31:
+11–16.
+5. Tolfvenstam T, Oxenius A, Price DA, Shacklett BL, Spiegel HM, et al. (2001)
+Direct ex vivo measurement of CD8(þ) T-lymphocyte responses to human
+parvovirus B19. J Virol 75: 540–543.
+6. Sallusto F, Lenig D, Forster R, Lipp M, Lanzavecchia A (1999) Two subsets
+of memory T lymphocytes with distinct homing potentials and effector
+functions. Nature 401: 708–712.
+7. Appay V, Dunbar PR, Callan M, Klenerman P, Gillespie GM, et al. (2002)
+Memory CD8þ T cells vary in differentiation phenotype in different
+persistent virus infections. Nat Med 8: 379–385.
+8. Altman JD, Moss PA, Goulder PJ, Barouch DH, McHeyzer-Williams MG, et
+al. (1996) Phenotypic analysis of antigen-speciﬁc T lymphocytes. Science
+274: 94–96.
+9. Kern F, Khatamzas E, Surel I, Frommel C, Reinke P, et al. (1999)
+Distribution of human CMV-speciﬁc memory T cells among the CD8pos.
+subsets deﬁned by CD57, CD27, and CD45 isoforms. Eur J Immunol 29:
+2908–2915.
+10. Ogg GS, McMichael AJ (1998) HLA-peptide tetrameric complexes. Curr
+Opin Immunol 10: 393–396.
+11. Lalvani A, Brookes R, Hambleton S, Britton WJ, Hill AV, et al. (1997) Rapid
+effector function in CD8þ memory T cells. J Exp Med 186: 859–865.
+12. Norbeck O, Isa A, Pohlmann C, Broliden K, Kasprowicz V, et al. (2005)
+Sustained CD8þ T-cell responses induced after acute parvovirus B19
+infection in humans. J Virol 79: 12117–12121.
+13. Klenerman P, Phillips RE, Rinaldo CR, Wahl LM, Ogg G, et al. (1996)
+Cytotoxic T lymphocytes and viral turnover in HIV type 1 infection. Proc
+Natl Acad Sci U S A 93: 15323–15328.
+14. Nixon DF, Townsend AR, Elvin JG, Rizza CR, Gallwey J, et al. (1988) HIV-1
+gag-speciﬁc cytotoxic T lymphocytes deﬁned with recombinant vaccinia
+virus and synthetic peptides. Nature 336: 484–487.
+15. Goulder PJ, Sewell AK, Lalloo DG, Price DA, Whelan JA, et al. (1997)
+Patterns of immunodominance in HIV-1-speciﬁc cytotoxic T lymphocyte
+responses in two human histocompatibility leukocyte antigens (HLA)-
+identical siblings with HLA-A*0201 are inﬂuenced by epitope mutation. J
+Exp Med 185: 1423–1433.
+16. Jin X, Demoitie MA, Donahoe SM, Ogg GS, Bonhoeffer S, et al. (2000) High
+frequency of cytomegalovirus-speciﬁc cytotoxic T-effector cells in HLA-
+A*0201-positive subjects during multiple viral coinfections. J Infect Dis
+181: 165–175.
+17. Lauer GM, Barnes E, Lucas M, Timm J, Ouchi K, et al. (2004) High
+resolution analysis of cellular immune responses in resolved and persistent
+hepatitis C virus infection. Gastroenterology 127: 924–936.
+18. Lauer GM, Nguyen TN, Day CL, Robbins GK, Flynn T, et al. (2002) Human
+immunodeﬁciency virus type 1-hepatitis C virus coinfection: Intraindivid-
+ual comparison of cellular immune responses against two persistent
+viruses. J Virol 76: 2817–2826.
+19. Day CL, Seth NP, Lucas M, Appel H, Gauthier L, et al. (2003) Ex vivo
+analysis of human memory CD4 T cells speciﬁc for hepatitis C virus using
+MHC class II tetramers. J Clin Invest 112: 831–842.
+20. Lechner F, Wong DK, Dunbar PR, Chapman R, Chung RT, et al. (2000)
+Analysis of successful immune responses in persons infected with hepatitis
+C virus. J Exp Med 191: 1499–1512.
+21. Callan MF, Tan L, Annels N, Ogg GS, Wilson JD, et al. (1998) Direct
+visualization of antigen-speciﬁc CD8þ T cells during the primary immune
+response to Epstein-Barr virus In vivo. J Exp Med 187: 1395–1402.
+22. Karrer U, Wagner M, Sierro S, Oxenius A, Hengel H, et al. (2004) Expansion
+of protective CD8þ T-cell responses driven by recombinant cytomegalo-
+viruses. J Virol 78: 2255–2264.
+23. Karrer U, Sierro S, Wagner M, Oxenius A, Hengel H, et al. (2003) Memory
+inﬂation: Continuous accumulation of antiviral CD8þ T cells over time. J
+Immunol 170: 2022–2029.
+24. Holtappels R, Pahl-Seibert MF, Thomas D, Reddehase MJ (2000) Enrich-
+ment of immediate-early 1 (m123/pp89) peptide-speciﬁc CD8 T cells in a
+pulmonary CD62L(lo) memory-effector cell pool during latent murine
+cytomegalovirus infection of the lungs. J Virol 74: 11495–11503.
+25. van Lier RA, ten Berge IJ, Gamadia LE (2003) Human CD8(þ) T-cell
+differentiation in response to viruses. Nat Rev Immunol 3: 931–939.
+26. Zhang D, Shankar P, Xu Z, Harnisch B, Chen G, et al. (2003) Most antiviral
+CD8 T cells during chronic viral infection do not express high levels of
+perforin and are not directly cytotoxic. Blood 101: 226–235.
+27. Moss P, Khan N (2004) CD8(þ) T-cell immunity to cytomegalovirus. Hum
+Immunol 65: 456–464.
+28. Gillespie GM, Wills MR, Appay V, O’Callaghan C, Murphy M, et al. (2000)
+Functional heterogeneity and high frequencies of cytomegalovirus-speciﬁc
+CD8(þ) T lymphocytes in healthy seropositive donors. J Virol 74: 8140–8150.
+29. Geginat J, Lanzavecchia A, Sallusto F (2003) Proliferation and differ-
+entiation potential of human CD8þ memory T-cell subsets in response to
+antigen or homeostatic cytokines. Blood 101: 4260–4266.
+30. Marchant A, Appay V, Van Der Sande M, Dulphy N, Liesnard C, et al. (2003)
+Mature CD8(þ) T lymphocyte response to viral infection during fetal life. J
+Clin Invest 111: 1747–1755.
+31. Mizobuchi T, Yasufuku K, Zheng Y, Haque MA, Heidler KM, et al. (2003)
+Differential expression of Smad7 transcripts identiﬁes the
+CD4þCD45RChigh regulatory T cells that mediate type V collagen-induced
+tolerance to lung allografts. J Immunol 171: 1140–1147.
+32. Sierro S, Rothkopf R, Klenerman P (2005) Evolution of diverse antiviral
+CD8(þ) T cell populations after murine cytomegalovirus infection. Eur J
+Immunol 35: 1113–1123.
+33. Barber DL, Wherry EJ, Ahmed R (2003) Cutting edge: Rapid in vivo killing
+by memory CD8 T cells. J Immunol 171: 27–31.
+34. Hokynar K, Soderlund-Venermo M, Pesonen M, Ranki A, Kiviluoto O, et al.
+(2002) A new parvovirus genotype persistent in human skin. Virology 302:
+224–228.
+35. Binder D, Fehr J, Hengartner H, Zinkernagel RM (1997) Virus-induced
+transient bone marrow aplasia: Major role of interferon-alpha/beta during
+acute infection with the noncytopathic lymphocytic choriomeningitis virus.
+J Exp Med 185: 517–530.
+36. Riddell SR, Greenberg PD (1997) T cell therapy of human CMV and EBV
+infection in immunocompromised hosts. Rev Med Virol 7: 181–192.
+37. Shade RO, Blundell MC, Cotmore SF, Tattersall P, Astell CR (1986)
+Nucleotide sequence and genome organization of human parvovirus B19
+isolated from the serum of a child during aplastic crisis. J Virol 58: 921–936.
+Patient Summary
+Background Parvovirus B19 is a small virus that is very common. Usually
+it causes mild symptoms of fever and a typical ‘‘slapped cheek’’ rash on
+the face, which may then spread; in around one in 20 children, and one
+in two adults it can also cause joint pain. Other, more serious
+complications occur in people whose red cells do not last as long as
+usual, for example, people with sickle cell disease; these people can get a
+severe aplastic anemia—the bone marrow stops making blood
+completely for a time. The virus can also cause fetal death if a woman
+contracts it while pregnant.
+Why Was This Study Done? It is not clear how the body’s defenses—
+immune system—work to clear this virus. There is some evidence that in
+some people the virus might continue to divide in the body for a long
+time after the first infection. The authors wanted to study one part of the
+immune system—T cells—in people who had just recently been infected
+with the virus and compare the findings with people who had had the
+infection a long time previously.
+What Did the Researchers Do and Find? They compared findings from
+two groups of people: 11 who had recently had the infection (six from
+Oxford and five from Stockholm) and five who had had the virus many
+years previously. They found that over the year following the infection,
+one particular type of T cell continued to increase in numbers and
+responsiveness to the B19 virus, despite the fact that the patients’ clinical
+symptoms had gotten better.
+What Do These Findings Mean? It seems the virus remained in the
+patients’ bodies for a considerable time after they appeared to have
+recovered, and the virus continued to stimulate T cells to respond to it.
+These results may be useful in designing a strategy to develop a vaccine
+for this virus.
+Where Can I Get More Information Online? The Health Protection
+Agency in the United Kingdom has a Web page of information on
+parvovirus:
+http://www.hpa.org.uk/infections/topics_az/parvovirus/gen_info.htm
+MedlinePlus also has links to further information:
+http://www.nlm.nih.gov/medlineplus/ency/article/000977.htm
+PLoS Medicine | www.plosmedicine.org December 2005 | Volume 2 | Issue 12 | e3431291
+Prolonged Activated CD8 Response to B19
+

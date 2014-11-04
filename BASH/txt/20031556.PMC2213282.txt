@@ -1,0 +1,1052 @@
+TheJournalofExperimentalMedicine
+J. Exp. Med. © The Rockefeller University Press • 0022-1007/2004/10/871/12 $8.00
+Volume 200, Number 7, October 4, 2004 871–882
+http://www.jem.org/cgi/doi/10.1084/jem.20031556
+871
+GATA-2 Plays Two Functionally Distinct Roles during
+the Ontogeny of Hematopoietic Stem Cells
+Kam-Wing Ling,1,2 Katrin Ottersbach,1 Jan Piet van Hamburg,2
+Aneta Oziemlak,1 Fong-Ying Tsai,4 Stuart H. Orkin,4
+Rob Ploemacher,3 Rudi W. Hendriks,2 and Elaine Dzierzak1
+1Department of Cell Biology and Genetics, 2Department of Immunology, and 3Department of Hematology,
+Erasmus University Medical Center, 3000 DR Rotterdam, Netherlands
+4Division of Hematology/Oncology, Children’s Hospital and Dana Farber Cancer Institute, Howard Hughes
+Medical Institute, Harvard Medical School, Boston, MA 02115
+Abstract
+GATA-2 is an essential transcription factor in the hematopoietic system that is expressed in
+hematopoietic stem cells (HSCs) and progenitors. Complete deficiency of GATA-2 in the
+mouse leads to severe anemia and embryonic lethality. The role of GATA-2 and dosage effects
+of this transcription factor in HSC development within the embryo and adult are largely unex-
+plored. Here we examined the effects of GATA-2 gene dosage on the generation and expansion
+of HSCs in several hematopoietic sites throughout mouse development. We show that a haploid
+dose of GATA-2 severely reduces production and expansion of HSCs specifically in the aorta-
+gonad-mesonephros region (which autonomously generates the first HSCs), whereas quantitative
+reduction of HSCs is minimal or unchanged in yolk sac, fetal liver, and adult bone marrow.
+However, HSCs in all these ontogenically distinct anatomical sites are qualitatively defective in
+serial or competitive transplantation assays. Also, cytotoxic drug-induced regeneration studies
+show a clear GATA-2 dose–related proliferation defect in adult bone marrow. Thus, GATA-2
+plays at least two functionally distinct roles during ontogeny of HSCs: the production and ex-
+pansion of HSCs in the aorta-gonad-mesonephros and the proliferation of HSCs in the adult
+bone marrow.
+Key words: GATA-2 • hematopoietic stem cells • AGM • haploinsufﬁciency • gene dosage
+Introduction
+Hematopoietic stem cells (HSCs) at the foundation of the
+adult hematopoietic differentiation hierarchy have the ability
+to self-renew and produce all the distinct blood cell lineages
+(1, 2). HSCs capable of complete long-term hematopoietic
+repopulation of irradiated adult recipients are first generated
+in the aorta-gonads-mesonephros (AGM) region at mid–
+embryonic day (E)10.5 (3, 4) and localize to the dorsal aorta,
+vitelline, and umbilical arteries (5). Subsequently, at mid/late
+E11, HSC activity is also found in the yolk sac (YS) and fetal
+liver (FL). HSC activity increases significantly in E11 AGM
+and E12 YS when they are cultured as whole tissue explants
+for 3 d (3, 6). Although the spatial and temporal appearance
+of HSCs during development has been described and quanti-
+tated, the molecular mechanisms underlying HSC genera-
+tion, expansion, and maintenance are not well explored.
+One molecule important during hematopoietic ontogeny is
+GATA-2, a member of the GATA family of zinc finger
+transcription factors (7, 8). RT-PCR analysis shows high
+expression of GATA-2 in adult hematopoietic progenitor
+cells and HSCs (9, 10). Furthermore, immunohistochemistry,
+in situ hybridization, and transgenic analyses show GATA-2
+expression as early as E8 in the para-aortic splanchnopleura
+(precursor tissue to AGM) and subsequently in the AGM
+(11, 12). In the E11.5 AGM, GATA-2 is expressed in the
+aortic endothelium and neighboring mesenchymal cells,
+which are both considered putative hemogenic cell popula-
+tions. Embryos lacking GATA-2 are anemic, have moder-
+ately reduced numbers of primitive erythroid cells and he-
+Address correspondence to Elaine Dzierzak, Eramus University Medical
+Center, P.O. Box 1738, 3000 DR Rotterdam, Netherlands. Phone: 31-
+10-408-7172; Fax: 31-10-408-9468; email: e.dzierzak@eramusmc.nl
+Abbreviations used in this paper: AGM, aorta-gonads-mesonephros; CFU-GM,
+colony-forming unit–granulocyte macrophage; CFU-S11, colony-forming
+unit–spleen; E, embryonic day; ER, estrogen receptor; ES, embryonic
+stem; FL, fetal liver; 5-FU, 5-fluorouracil; GFP, green fluorescent protein;
+HSC, hematopoietic stem cell; LSK, LinϪSca-1ϩc-kitϩ; YS, yolk sac.
+Role of GATA-2 in Hematopoietic Stem Cells872
+matopoietic progenitor cells (13), and die at E10.5, the
+time of HSC induction and expansion. Due to this lethal-
+ity, the role of GATA-2 has been examined mainly by in
+vitro colony-forming assays of cells from early embryonic
+tissues and hematopoietic cultures of GATA-2Ϫ/Ϫ embry-
+onic stem (ES) cells. In both cases, hematopoietic progeni-
+tor numbers are severely reduced. Further studies in chi-
+meric mice produced with GATA-2Ϫ/Ϫ ES cells show no
+contribution of the mutant cells to any hematopoietic tis-
+sues. Together, these data indicate that GATA-2 is crucial
+for the maintenance, proliferation, and/or survival of im-
+mature hematopoietic progenitors (13).
+The function of GATA-2 had also been studied through
+enforced overexpression achieved by retroviral transduc-
+tion or transfection of genes encoding either a wild-type
+GATA-2 or an inducible GATA-2–estrogen receptor (ER)
+fusion protein (12, 14–19). Irrespective of these attempts, a
+simple conclusion on the function of GATA-2 in the
+HSCs or progenitor cells is difficult. On one hand, expres-
+sion of the inducible form of GATA-2–ER fusion protein
+in the multipotent hematopoietic progenitor cell line FDCP
+promotes differentiation (17). On the other hand, constitu-
+tive expression of GATA-2 in murine BM cells blocked
+progenitor-derived colony formation (14). The opposing
+results may be due to the cell types chosen for these exper-
+iments. However, it is also suggested that the biochemical
+behavior of the artificially generated GATA-2–ER fusion
+protein may not be the same as the wild-type unmodified
+GATA-2 protein (18). Thus, the most relevant data on
+GATA-2 dose effects on hematopoiesis may be best ob-
+tained within the physiological context of the whole or-
+ganism wherein GATA-2 is expressed under the endoge-
+nous regulatory machinery in the appropriate cell types.
+The study of transcription factor dose and function at the
+earliest stages of hematopoietic development is of particular
+interest for an understanding of HSC generation. Studies on
+the runx1 transcription factor have shown that a haploid
+dose results in changes in HSC induction, expansion, and
+distribution in the midgestation mouse embryo (20). More-
+over, haploinsufficiency of human Runx1 (AML-1) results
+in thromobocytopenia and a propensity to develop myeloid
+leukemia (21). Recently, a correlation between a reduction
+in GATA-2 expression and aplastic anemia (22) has been
+demonstrated. Hence, to further understand the role of
+GATA-2 in the ontogeny of HSCs we examined the effects
+of GATA-2 haploinsufficiency on induction and expansion
+of HSCs during development by in vivo hematopoietic
+transplantation assays and phenotypic analysis of compound
+transgenic embryos (GATA-2ϩ/Ϫ–Ly-6A GFP) (23).
+Here we present data showing that the numbers of he-
+matopoietic progenitors in GATA-2ϩ/Ϫ embryos are re-
+duced. More importantly, we observe a dramatic quantita-
+tive reduction in HSC activity specifically in GATA-2ϩ/Ϫ
+AGMs and a further reduction in the serial repopulating
+ability of these HSCs. In contrast, GATA-2ϩ/Ϫ HSC num-
+bers appear quantitatively normal in the adult BM but are
+qualitatively defective in the setting of competitive trans-
+plantation. In addition, GATA-2ϩ/Ϫ HSCs exhibit a delay
+in regeneration of the hematopoietic system after cytotoxic
+drug challenge, suggesting that GATA-2 levels play a role
+in HSC proliferation. Thus, GATA-2 plays functionally
+distinct roles in the production of HSCs in the AGM re-
+gion and the proliferation of HSCs throughout ontogeny.
+Materials and Methods
+GATA-2 Mutant Mice and Embryos. GATA-2 mutant mice
+(13) were backcrossed onto the C57BL/6 background for over
+10 generations and were housed in the Erasmus Medical Center
+Animal unit according to the institution guidelines with food and
+water provided ad libitum. The day of vaginal plug discovery
+from overnight matings (GATA-2ϩ/Ϫ male ϫ C57BL/6 GATA-
+2ϩ/ϩ or GATA-2ϩ/Ϫ female) was counted as day 0. Pregnant
+dams were killed and embryos isolated from the uterus as de-
+scribed previously (24). Embryos (E10–E11) were staged by
+counting somite pairs (25). Genotyping was performed by
+PCR as described previously (13). Compound transgenic em-
+bryos were obtained by mating Ly-6A GFP hemizygous (23) and
+GATA-2ϩ/Ϫ mice.
+Dissection, Explant Culture, Cell Preparation, and In Vivo Trans-
+plantation. Dissections, tissue explants, and cell preparation were
+performed as described previously (24). Recipient mice (C57BL/6
+or [129Sv ϫ C57BL/6] F1 females, 8–16 wk old) received a split
+dose of 1,000 rad (for colony-forming unit–spleen [CFU-S11]),
+900 rad (for HSCs), or 640 rad (for competitive repopulation as-
+say) at a 3-h interval from a 137Cs source on the day of donor cell
+injection. Cells were injected i.v. into the tail veins. Except for
+CFU-S, serial, and competitive transplantation assays, 2 ϫ 105 fe-
+male spleen cells from the recipient strain were coinjected to pro-
+vide short-term survival. Secondary transplantations were per-
+formed with 3 ϫ 106 BM cells from the primary recipients. Cell
+dose for competitive repopulation assays was 3 ϫ 105–3 ϫ 107.
+Injected animals were provided with 0.16% Neomycin (Sigma-
+Aldrich)-supplemented water. For CFU-S11, recipients were killed
+at 11 d posttransplantation by cervical dislocation, spleens iso-
+lated, and microscopic colonies scored after fixing with Teley-
+nesnicki’s solution overnight.
+Semiquantitative PCR for Donor Contribution. Blood, tissue, or
+specific cell lineage DNA (100 ng) was used for semiquantitative
+PCR to detect the donor HSC contribution to the recipient. For
+male-derived donor cells, YMT-specific PCR (350-bp product)
+was used together with myogenin-specific PCR (250 bp) for
+DNA normalization. The detection of GATA-2 mutant–derived
+donor cells was performed with GATA-2/NEO (950 bp) and
+GATA-2 wild-type (600 bp) PCR. Primers and PCR conditions
+were as previously described (4, 13).
+Cell Sorting and Flow Cytometry Analysis. FACS was per-
+formed on a FACS Vantage SE (Becton Dickinson) (23), and
+flow cytometric analyses were performed on a FACSCalibur dual
+laser instrument (Becton Dickinson) with CellQuest software
+(BD Bioscience). Staining of embryonic tissue cell suspensions
+was performed in PBS supplemented with 10% FCS, and 2 ␮g/
+ml 7AAD (Molecular Probes) was added for dead cell exclusion.
+Staining of adult HSCs was performed in PBS supplemented with
+0.5% BSA. Biotin-conjugated anti–Gr-1 (ER-MP20) was a gift
+from Dr. P.J.M. Leenen (Erasmus MC, Rotterdam, The Nether-
+lands). All other antibodies were obtained from BD Biosciences
+including APC-conjugated anti–c-kit (clone 2B8), PE-conju-
+gated anti–Sca-1 (clone D7), PerCP-Cy5.5–conjugated anti-
+CD8a (clone 53–6.7), anti-B220 (clone RA3-6B2), anti-CD19
+Ling et al.873
+(1D3), anti-CD11b (anti–Mac-1, clone M1/70), and biotin-con-
+jugated anti-CD3 (145-2C11), anti-CD4 (H129.19), Ly-76 (TER-
+119), anti-IgM (II/41), and anti-NK1.1 (PK136). A secondary
+step was sometimes performed with streptavidin-conjugated
+PerCP-Cy5.5 (BD Biosciences).
+Immunohistochemistry. Embryos were fixed for 30 min with
+2% paraformaldehyde/PBS at 4ЊC and equilibrated in 20% su-
+crose/PBS overnight at 4ЊC. They were immersed in Tissue Tek,
+quick frozen on dry ice, and stored at Ϫ80ЊC until ready for use.
+Serial cryosections (10 ␮m) were treated in 100% cold acetone
+for 10 min, washed three times with PBS (0.05% Tween),
+blocked with 0.5% BSA and 50% vol/vol Avidin D block solu-
+tion (Vector Laboratories) for 15 min, washed three times,
+blocked with Biotin blocking solution (Vector Laboratories) for
+15 min, and washed three times. Subsequently, sections were in-
+cubated with a biotin-conjugated anti-CD34 (clone RAM34;
+BD Biosciences) diluted 1:50 in 1% BSA/0.05% Tween/PBS at
+room temperature for 1 h, washed three times, incubated with
+the detection reagent Streptavidin-Cy5 (Rockland) diluted 1:500
+in 1% BSA/0.05% Tween/PBS at room temperature for 30 min,
+washed three times, dehydrated in ethanol (from 70 to 100%),
+and mounted with vectashield (Vector Laboratories).
+Confocal images were taken of every tenth section starting
+caudally at the point where the urogenital ridges first appeared up
+to the rostral bifurcation of the dorsal aorta.
+5-Fluorouracil Treatment. GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ mice
+(9–10 wk old) were i.v. injected with 150 mg 5-fluorouracil
+(5-FU; Sigma-Aldrich) per 10 g body weight. Treated mice were
+then killed at 4, 8, 12, and 16 d posttreatment, and BM cells were
+isolated and analyzed by flow cytometry and in vitro culture assay.
+Progenitor Colony Assay. BM cells were plated in triplicates
+from 2 ϫ 104 to 5 ϫ 105 cells per plate in methylcellulose medium
+(Methocult GF M3434; StemCell Technologies Inc.) supple-
+mented with stem cell factor (SCF), IL-3, IL-6, and Epo. All cul-
+tures were incubated at 37ЊC in a humidified chamber under 5%
+CO2. Colony-forming unit–granulocyte macrophage (CFU-GM)
+were scored with an inverted microscope at day 7 of the culture.
+Results
+GATA-2ϩ/Ϫ AGM and YS Explants Contain Fewer CFU-
+S11. To investigate if GATA-2 gene dosage affects the
+production of hematopoietic progenitors during develop-
+ment, colony-forming unit spleen activity was assayed at
+11 d postinjection (CFU-S11) so as to measure the more
+immature erythro-myeloid progenitors. AGM, YS, and FL
+were isolated from GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ embryos
+at E10.5–E12, explant cultured, and cells transplanted into
+irradiated adult recipients (Fig. 1). At all time points tested,
+CFU-S11 activity was detected both in GATA-2ϩ/ϩ and
+GATA-2ϩ/Ϫ AGM, YS, and FL explants (Fig. 2). As ex-
+pected from previous data (3), high numbers of E10.5
+CFU-S11 are first detected in the GATA-2ϩ/ϩ AGM ex-
+plants, they increase at E11, and thereafter decline in num-
+ber. In GATA-2ϩ/Ϫ AGM and YS explants, CFU-S11
+were reduced by three- to ninefold and one- to fourfold,
+respectively, compared with wild-type tissues. In contrast,
+CFU-S11 activity in GATA-2ϩ/Ϫ FL explants was normal.
+No reductions in FL CFU-S11 numbers were observed at
+any time. Therefore, GATA-2 gene dosage affects the
+generation and/or proliferation of immature hematopoi-
+etic progenitor cells in the YS and AGM of the midgesta-
+tion embryo.
+HSC Activity Is Severely Reduced in the GATA-2ϩ/Ϫ
+AGMs. To investigate if GATA-2 dose also affects mid-
+gestation HSC development, we performed the most strin-
+gent functional HSC test: the long-term, high level, multi-
+lineage repopulation of irradiated adult mouse recipients.
+E11 and E12 GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ AGM, YS,
+and FL cells were transplanted directly into irradiated
+adult recipients (Fig. 1). Engraftment by GATA-2ϩ/ϩ and
+GATA-2ϩ/Ϫ cells was assayed by semiquantitative PCR
+of the male Y chromosome–specific marker Ymt and the
+GATA-2/NEO mutant allele (respectively) in recipient pe-
+ripheral blood DNA at 4 mo posttransplantation. Only
+those recipients showing Ͼ10% engraftment with donor-
+marked cells were considered positive for high level repop-
+ulation. PCR results of one representative experiment are
+shown in Fig. 3. Briefly, each recipient received one-third
+of the cells obtained from an individually prepared E12 tis-
+sue (0.33 tissue equivalents). At 4 mo postinjection, prog-
+eny of transplanted GATA-2ϩ/ϩ AGM cells were found in
+the peripheral blood of five out of eight recipients (Ymt
+Figure 1. Strategy for studying HSCs and hematopoietic progenitor
+cells in GATA-2 mutant embryonic tissues. GATA-2ϩ/ϩ, GATA-2ϩ/Ϫ,
+and GATA-2Ϫ/Ϫ AGM regions, YS, and FL were harvested from midgesta-
+tion mouse embryos. In some cases (left) they were then cultured for 3 d
+as whole tissue explants before preparation of single cell suspensions and
+injection into irradiated adult recipients to assay for CFU-S11 or HSCs. In
+some cases (right), single cell suspensions were prepared directly from
+freshly isolated tissues and injected into irradiated adult recipients for
+HSC activity.
+Role of GATA-2 in Hematopoietic Stem Cells874
+PCR). In contrast, reduced HSC activity was found in E12
+GATA-2ϩ/Ϫ AGMs. Only one out of six recipients was
+highly engrafted (GATA-2 mutant and Ymt PCR). Simi-
+larly, recipients transplanted with YS cells revealed some
+reduction of HSC activity in GATA-2ϩ/Ϫ embryos. How-
+ever, no reduction in HSC activity was found in GATA-
+2ϩ/Ϫ FLs. Further analysis of recipients repopulated with
+GATA-2ϩ/Ϫ cells revealed high level multilineage engraft-
+ment within all hematopoietic tissues (blood, thymus, LNs,
+BM, and spleen) and subsets tested (splenic T and B lym-
+phocytes, erythroid and myeloid cells) (not depicted).
+The cumulative results of all transplantation experiments
+are shown in Table I and reveal that at both E11 and E12,
+HSC activity is severely reduced in GATA-2ϩ/Ϫ AGMs.
+The percentage of recipients repopulated with E11 GATA-
+2ϩ/Ϫ AGM cells is only 6%, whereas 25% of recipients are
+repopulated with E11 GATA-2ϩ/ϩ AGM cells. This repre-
+sents a greater than fourfold decrease in HSC activity in
+E11 GATA-2ϩ/Ϫ AGMs. Furthermore, at E12 GATA-2ϩ/Ϫ
+AGMs are ninefold reduced in HSC activity compared
+with GATA-2ϩ/ϩ AGMs. Reductions in the HSC activity
+of GATA-2ϩ/Ϫ YS and FL tissues are less severe and stage
+dependent. The percentage of mice repopulated by E11
+GATA-2ϩ/Ϫ YS (23%) is comparable to that of GATA-2ϩ/ϩ
+YS (28%), and the FL at this stage contains only limited
+HSC activity. However, at E12 slight reductions in HSC
+Figure 2. CFU-S11 activity in GATA-2 mutant tissue explants. CFU-S11 were assayed from AGM, YS, and FL explants (E10.5–E12.0) after 3 d of culture.
+Each point represents the average CFU-S11 number per embryo tissue equivalent Ϯ SEM detected in the corresponding tissue and genotype. 3–14 inde-
+pendent experiments were performed with 0.2–4.5 tissue equivalents injected per recipient. ϩ/ϩ, GATA-2ϩ/ϩ; ϩ/Ϫ, GATA-2ϩ/Ϫ. The total number
+of injected AGM explants: E10.5 ϩ/ϩ ϭ 6, E11.0 ϩ/ϩ ϭ 21, E11.5 ϩ/ϩ ϭ 14, E12.0 ϩ/ϩ ϭ 12, E10.5 ϩ/Ϫ ϭ 7, E11 ϩ/Ϫ ϭ 22, E11.5 ϩ/Ϫ ϭ 12,
+E12.0 ϩ/Ϫ ϭ 12; YS explants E10.5 ϩ/ϩ ϭ 8, E11.0 ϩ/ϩ ϭ 8, E11.5 ϩ/ϩ ϭ 11, E12.0 ϩ/ϩ ϭ 10.75, E10.5 ϩ/Ϫ ϭ 8, E11.0 ϩ/Ϫ ϭ 11.5, E11.5
+ϩ/Ϫ ϭ 15.5, E12.0 ϩ/Ϫ ϭ 9.5; FL explants E11.0 ϩ/ϩ ϭ 17, E11.5 ϩ/ϩ ϭ 18, E12.0 ϩ/ϩ ϭ 8.7, E11.0 ϩ/Ϫ ϭ 23, E11.5 ϩ/Ϫ ϭ 19.5,
+E12.0 ϩ/Ϫ ϭ 8. Embryonic tissues from E10.5 ranged from 36 to 40 somite pairs (sp), E11.0 ranged from 41–47 sp, E11.5 contain Ͼ48 sp and E12
+contained Ͼ60 sp. *Significant difference in the CFU-S11 number between GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ tissue explants: AGM E11.0, P Ͻ 0.001;
+E11.5, P Ͻ 0.01; E12.0, P Ͻ 0.05; YS E11.5, P Ͻ 0.001; E12, P Ͻ 0.05. Note that fewer CFU-S11 are detected in both the GATA-2ϩ/Ϫ AGM and YS
+explants in comparison to the GATA-2ϩ/ϩ explants, whereas the FL CFU-S11 numbers are unaffected.
+Figure 3. Detection of donor hematopoietic cell contribu-
+tion in transplantation recipients by peripheral blood DNA
+PCR analysis. A representative PCR analysis for donor cell
+contribution to the peripheral blood of transplantation recipients.
+DNA was isolated from the corresponding recipients (at Ͼ4
+mo posttransplantation) of GATA-2ϩ/ϩ, GATA-2ϩ/Ϫ, and
+GATA-2Ϫ/Ϫ AGM, YS, and FL. Lanes 1–8 and 9–14 are
+blood DNA samples isolated from recipients receiving cells
+from E12 GATA-2ϩ/ϩ and ϩ/Ϫ tissues, respectively. Each sample
+was analyzed with primers specific for Y chromosome (ymt),
+and GATA-2 (GATA-2/NEO for targeted allele). DNA samples
+were normalized by PCR with two endogenous gene controls
+(myo, myogenin; GATA-2, wild-type allele). Control DNA: 0,
+1, 10, and 100% represents percentage of the male GATA-2ϩ/Ϫ
+DNA mixed with female DNA. Only when the donor
+marker-specific PCR product was Ͼ10%, compared with con-
+trols, was the recipient considered to be positive.
+Ling et al.875
+activity are observed for both GATA-2ϩ/Ϫ YS and FL (1.6-
+and 1.3-fold, respectively) compared with GATA-2ϩ/ϩ tis-
+sues. Thus, two copies of the GATA-2 gene are required
+for the normal generation, expansion, and/or survival of
+HSCs in the AGM region.
+Ex Vivo Expansion and Maintenance of AGM HSC Activity
+Is Sensitive to GATA-2 Dose. Since it was shown previ-
+ously that HSC activity generated in the AGM can be am-
+plified (either by induction or proliferation) when whole
+tissues are cultured for 3 d (3), we examined the effects of
+GATA-2 gene dosage on HSCs in such explant cultures of
+AGM, YS, and FL from GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ
+embryos. Tissues (E10.5–E12) were dissected, cultured as
+explants for 3 d, made into a single cell suspension, and in-
+jected into irradiated adult recipients (Fig. 1). Repopula-
+tion was measured at 4 mo posttransplantation, and only
+those recipients showing Ͼ10% donor cell multilineage he-
+matopoietic repopulation (measured in several hematopoi-
+etic tissues and lineages) were considered positive. The re-
+sults are summarized in Table II.
+Compared with the results of the direct transplantation
+experiments (Table I), GATA-2ϩ/Ϫ AGM explants were
+even more severely reduced in the HSC activity. At E10.5,
+only 8% of recipients receiving GATA-2ϩ/Ϫ AGM cells
+were repopulated, representing an eightfold decrease in
+HSC activity from GATA-2ϩ/ϩ AGM cells. The GATA-
+2ϩ/Ϫ cell contribution to the various hematopoietic organs
+(thymus, spleen, LN, and BM) and purified cell lineages (B
+and T lymphocytes, myeloid and erythroid) was tested and
+found to be multipotent, thus demonstrating that GATA-
+2ϩ/Ϫ AGMs do generate functional HSCs, albeit at much
+reduced levels. At later developmental time points (E11,
+E11.5, and E12), HSC activity, although increasing in
+GATA-2ϩ/ϩ AGM explants, is completely absent from
+GATA-2ϩ/Ϫ AGM explants. As seen in the GATA-2ϩ/ϩ
+AGM explants, HSC generation and expansion occurs from
+Table I. HSC Activity in GATA-2 Mutant Embryonic Tissues
+AGM YS FL
+Stage ϩ/ϩ ϩ/Ϫ ϩ/ϩ ϩ/Ϫ ϩ/ϩ ϩ/Ϫ
+E11.0 1a/4b (25)c 1/16 (6) 2/7 (28) 4/17 (23) 0/6 (0) 1/19 (5)
+E12.0 11/16 (69) 1/13 (8) 11/15 (73) 6/13 (46) 19/19 (100) 11/14 (78)
+2ЊE12.0 6/6 (100) 0/3 (0) 6/6 (100) 4/9 (44) 6/6 (100) 4/9 (44)
+E11 and E12 AGM, YS, and FL tissues were made into a single cell suspension and injected into irradiated adult recipients. Each result represents athe
+number of recipient mice showing donor cells in peripheral blood (DNA) at Ͼ4 mo posttransplantation, bthe total number of mice transplanted, and
+cthe percentage of repopulated recipients. Only when the donor cells represented Ͼ10% was the recipient considered to be positive. Three and two
+independent experiments, respectively, were performed for E11 (41–47 somite pairs) and E12 tissues (Ͼ60 somite pairs). 1 and 0.33 tissue equivalents
+transplanted for E11.0 and E12.0, respectively. 2ЊE12, secondary transplantation with 3 ϫ 106 BM cells isolated from high level repopulated primary
+recipients that received cells from E12 tissues (two independent experiments). ϩ/ϩ, GATA-2ϩ/ϩ; ϩ/Ϫ, GATA-2ϩ/Ϫ.
+Table II. HSC Activity in GATA-2 Mutant Tissues after Explant Culture
+AGM explants YS explants FL explants
+Stage ϩ/ϩ ϩ/Ϫ ϩ/ϩ ϩ/Ϫ ϩ/ϩ ϩ/Ϫ
+E10.5 2a/3b (66)c 1/12 (8) 0/3 (0) 0/11 (0) ND 0/2 (0)
+E11.0 1/2 (50) 0/4 (0) 1/4 (25) 1/5 (20) 0/3 (0) 0/5 (0)
+E11.5 11/12 (50) 0/27 (0) 7/25 (28) 7/29 (24) 6/25 (24) 3/28 (11)
+E12.0 7/12 (58) 0/13 (0) 4/16 (25) 2/14 (14) 11/12 (92) 10/19 (53)
+ϩ/ϩ ϩ/Ϫ Ϫ/Ϫ ϩ/ϩ ϩ/Ϫ Ϫ/Ϫ ϩ/ϩ ϩ/Ϫ
+E10.0 0/7 (0) 0/8 (0) 0/3 (0) 0/7 (0) 0/8 (0) 0/3 (0) ND ND
+E10 to E12 AGM, YS, and FL explants were cultured for 3 d, made into a single cell suspension, and injected into irradiated adult recipients. Each
+result represents athe number of recipient mice showing donor cells in the peripheral blood (DNA) isolated at Ͼ4 mo posttransplantation, bthe total
+number of mice transplanted, and cthe percentage of repopulated recipients. ND, transplantation not performed. Only when donor contribution was
+Ͼ10% was the recipient considered to be positive. Two to four independent experiments performed for each stage and tissue type. For E10, one to
+five tissue explant equivalents were transplanted per recipient. 1 tissue explant equivalent was transplanted per recipient for E10.5 and 0.33 tissue
+explant equivalents for E11.0, E11.5, and E12.0. ϩ/ϩ, GATA-2ϩ/ϩ and ϩ/Ϫ, GATA-2ϩ/Ϫ. E10, 31–35 somite pairs (sp); E10.5, 36–40 sp; E11.0,
+41–47 sp; E11.5 Ͼ 48 sp; E12.0 Ͼ 60 sp.
+Role of GATA-2 in Hematopoietic Stem Cells876
+E10.5 to E11.5, with HSC numbers maintained thereafter
+(E12). Thus, the severely reduced HSC activity in GATA-
+2ϩ/Ϫ AGM explants can be attributed to reduced HSC ex-
+pansion, survival, and/or homing in the irradiated recipient.
+The HSC activity of GATA-2ϩ/Ϫ YS and FL explants
+was also reduced in comparison to the GATA-2ϩ/ϩ ex-
+plants. However, this reduction was only slight compared
+with the AGM. At the first appearance of HSCs in the YS
+on E11, GATA-2ϩ/Ϫ YS HSC activity begins to decrease
+and by E12 is decreased by 1.8-fold from GATA-2ϩ/ϩ YS.
+The decrease in YS explant HSC activity at E12 corre-
+sponds with that seen in the directly transplanted YS, sug-
+gesting that the expansion but not the maintenance of YS
+HSC activity is sensitive to GATA-2 dose.
+Similarly, we observed slight reductions in the HSC ac-
+tivity of GATA-2ϩ/Ϫ FL explants. At the first appearance
+of HSCs in FL explants on E11.5, HSC activity is reduced
+from 24% of recipients repopulated with GATA-2ϩ/ϩ cells
+to 11% repopulated with GATA-2ϩ/Ϫ cells, representing a
+2.2-fold decrease in HSC activity. At E12, GATA-2ϩ/Ϫ FL
+explants show a 1.7-fold decrease in HSC activity. The
+changes in FL HSC activity with time are most likely re-
+lated to the numbers of incoming HSCs from the AGM
+and YS. Thus, these findings suggest GATA-2 dose affects
+the expansion but not the survival of HSCs in the FL.
+The Onset of HSC Activity in GATA-2ϩ/Ϫ Embryos Is
+Normal. Previously, we reported CFU-S11 and HSC defi-
+ciencies in embryos with a haploid dose of the runx1 tran-
+scription factor (20). The spatial distribution of HSC activ-
+ity was altered and an unexpected early appearance of HSC
+activity was found in runx1ϩ/Ϫ AGM and YS. To examine
+if there was also a premature appearance of HSC activity in
+GATA-2 mutant embryos, AGM and YS explants from
+early E10 (31–35 somite pairs) GATA-2ϩ/ϩ, GATA-2ϩ/Ϫ,
+and GATA-2Ϫ/Ϫ embryos were isolated, cultured for 3 d,
+and cells were transplanted into irradiated adult recipients.
+As shown in Table II, although high tissue equivalents (up
+to five) of cells from GATA-2 mutant (ϩ/Ϫ and Ϫ/Ϫ)
+AGM and YS explants were injected, HSC activity was not
+detected in any of the recipients. Also, GATA-2ϩ/Ϫ E10.5
+YS and E10.5 and E11 FL explants showed no HSC activ-
+ity. However, HSC activity initiates normally in GATA-
+2ϩ/Ϫ AGM explants at E10.5 at the same stage as in the
+GATA-2ϩ/ϩ AGM. HSCs also appear at normal time
+points in GATA-2ϩ/Ϫ YS and FL explants (E11 and E11.5,
+respectively). Therefore, we conclude that HSC induction
+initiates on schedule and that there is no early onset of
+HSC activity in GATA-2ϩ/Ϫ AGM, YS, or FL.
+Serial Transplantation Potential of Midgestation HSCs Is Se-
+verely Reduced. HSC self-renewal can be tested by serial
+transplantation of HSCs from primary to secondary recipi-
+ents. Since we found that GATA-2ϩ/Ϫ AGM HSCs are se-
+verely reduced in their expansion, we examined whether
+GATA-2ϩ/Ϫ embryo-derived HSCs are as potent in their
+serial repopulation ability as wild-type HSCs. Whole BM
+cells from primary recipient mice showing high donor con-
+tribution from transplanted E12 GATA-2ϩ/ϩ or GATA-
+2ϩ/Ϫ AGM, YS, and FL cells were injected into irradiated
+secondary adult recipients. Consistent with previous pub-
+lished results, GATA-2ϩ/ϩ AGM-, YS-, and FL-derived
+HSCs can successfully reconstitute secondary recipients;
+100% of secondary recipients were repopulated with HSCs
+from primary recipients of these midgestation tissues (Table
+I). In contrast, HSCs from a primary GATA-2ϩ/Ϫ AGM
+recipient failed to repopulate any of the secondary recipi-
+ents analyzed (0%; zero out of three). Reduced HSC activ-
+ity was also observed in the secondary recipients receiving
+BM cells from GATA-2ϩ/Ϫ YS and FL primary recipients
+(44% compared with 100% recipient repopulation with
+GATA-2ϩ/ϩ primary BM cells). These results demonstrate
+that GATA-2 dose affects HSC serial repopulation ability
+and suggests a defect in HSC self-renewal.
+GATA-2ϩ/Ϫ BM HSCs Are at a Competitive Disadvan-
+tage. The decreased serial repopulation ability of embryo-
+derived HSCs prompted us to investigate if adult BM HSCs
+are also affected by a reduction in GATA-2 dose. Initially,
+we injected limiting doses of GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ
+BM cells into lethally irradiated adult recipients but found
+Figure 4. Competitive transplantation of GATA-
+2ϩ/ϩ and GATA-2ϩ/Ϫ BM in sublethally irradiated
+adult recipients. Varying concentrations (3 ϫ
+105–3 ϫ 107) of GATA-2ϩ/ϩ or GATA-2ϩ/Ϫ BM
+cells were transplanted into sublethally irradiated
+GATA-2ϩ/ϩ or GATA-2ϩ/Ϫ recipients to test for
+HSC competition in repopulation. The y axis
+shows the percentage of recipient animals engrafted
+with Ͼ10% donor cells in hematopoietic tissues.
+Engraftment results are shown in gray striped bars
+for GATA-2ϩ/ϩ donor cells transplanted into
+GATA-2ϩ/ϩ recipients, in gray bars for GATA-2ϩ/Ϫ
+donor cells transplanted into GATA-2ϩ/ϩ recipients,
+and in white bars for GATA-2ϩ/ϩ donor cells
+transplanted into GATA-2ϩ/Ϫ. The results show
+that GATA-2ϩ/ϩ HSCs out-compete GATA-2ϩ/Ϫ
+HSCs.
+Ling et al.877
+no quantitative differences in repopulation. Hence, we per-
+formed reciprocal competitive transplantations in which dif-
+ferent concentrations of unmanipulated GATA-2ϩ/ϩ and
+GATA-2ϩ/Ϫ BM cells were injected into sublethally irradi-
+ated GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ adult recipients.
+When 3 ϫ 105 whole GATA-2ϩ/ϩ BM cells were trans-
+planted into GATA-2ϩ/ϩ adult recipients, long-term high
+level donor contribution was found in two out of five
+(40%) recipients, whereas GATA-2ϩ/Ϫ cells at this dose
+provided no repopulation (zero out of five recipients; 0%)
+(Fig. 4). Only at a 10-fold higher cell dose were the
+GATA-2ϩ/Ϫ cells able to repopulate four out of seven
+(57%) recipients. A dose of 3 ϫ 106 GATA-2ϩ/ϩ cells re-
+populated almost all recipients (six out of seven; 86%),
+whereas 3 ϫ 107 GATA-2ϩ/Ϫ cells were required for re-
+population of all recipients (five out of five; 100%). To fur-
+ther examine the competitive abilities of GATA-2ϩ/Ϫ cells,
+GATA-2ϩ/ϩ cells were injected into sublethally irradiated
+GATA-2ϩ/Ϫ recipients. Only 3 ϫ 105 (or fewer) wild-type
+cells were required to fully out-compete all the GATA-2ϩ/Ϫ
+HSCs in the recipients. Thus, GATA-2ϩ/ϩ HSCs compete
+more effectively against GATA-2ϩ/ϩ HSCs than do
+GATA-2ϩ/Ϫ HSCs, demonstrating that GATA-2ϩ/Ϫ adult
+BM contains fewer HSCs or that these HSCs are qualita-
+tively less potent.
+GATA-2 Dose Affects the Number of Phenotypically Defined
+HSCs in the Embryo But Not the Adult. Our in vivo trans-
+plantation results clearly show that GATA-2ϩ/Ϫ HSC ac-
+tivity is affected throughout development. To more specif-
+ically investigate the cell types that are affected in the
+GATA-2ϩ/Ϫ mice, we crossed the GATA-2 mutant allele
+into Ly-6A GFP transgenic mice, in which HSCs can be
+detected by the expression of the green fluorescent protein
+(GFP) reporter under the transcriptional control of Ly-6A
+regulatory sequences (26). Ly-6A encodes the Sca-1 surface
+glycoprotein that is expressed on HSCs. Previously, we
+have shown that all AGM, FL, and adult BM HSCs express
+the Ly-6A GFP transgene and that GFP expression is
+highly restricted in the AGM region to a few aortic endo-
+thelial cells and hematopoietic clusters (23, 27).
+To determine whether GATA-2 dose affects these cells,
+we examined transverse sections through the E11 dorsal
+aorta from compound transgenics (Ly-6A GFP–GATA-
+2ϩ/ϩ and Ly-6A GFP–GATA-2ϩ/Ϫ). As shown in repre-
+sentative sections in Fig. 5 A, GFP-positive cells are de-
+creased in number in the GATA-2ϩ/Ϫ aorta compared
+with the GATA-2ϩ/ϩ aorta. Quantitations were performed
+by counting GFP-positive and CD34-positive cells in 37
+aorta sections from each genotype (CD34 immunostaining
+of endothelial cells provided a normalization control). GFP-
+positive cells were present but decreased by a factor of 10
+or more in the GATA-2ϩ/Ϫ aortas. Hence, GATA-2 hap-
+loinsufficiency leads to a significant decrease in HSCs and/
+or HSC precursors in the AGM.
+Flow cytometric analyses were performed to verify these
+results and to examine if the phenotypic HSC content of
+the other hematopoietic tissues was also changed. As shown
+in Fig. 5 B, in such compound transgenic embryos a sixfold
+decrease in GFP-positive cells in the E11 GATA-2ϩ/Ϫ
+aorta was found compared with GATA-2ϩ/ϩ aorta. E11
+GATA-2ϩ/Ϫ YS showed a 1.9-fold decrease in GFP-posi-
+tive cells. However, no decrease was found in E11 GATA-
+Figure 5. Phenotypic analysis of HSCs in
+GATA-2ϩ/Ϫ embryos and adults. GATA-2–Ly-6A
+GFP compound transgenic embryos were gener-
+ated by timed pluggings. (A) Representative trans-
+verse sections through the E11 dorsal aorta of a
+GATA-2ϩ/ϩ–Ly-6A GFP embryo (45 somite pairs;
+top) and a GATA-2ϩ/Ϫ–Ly-6A GFP embryo (43
+somite pairs; bottom). Sections were taken from
+the caudal end of the AGM, at the height of the
+hindgut, and stained with anti-CD34 antibody. In
+total, four embryos were analyzed (2 embryos and a
+total of 37 sections from each genotype) and cells
+counted in the aortic endothelium throughout the
+levels containing the gonads and mesonephroi.
+CD34ϩ endothelial cells served as a control for sec-
+tion quality and normalization. Red fluorescence
+(CD34) and green fluorescence (GFP). The per-
+centage of GFPϩ/CD34ϩ endothelial cells Ϯ SEM
+is shown on the bottom left and is significantly re-
+duced in the GATA-2ϩ/Ϫ embryos; P Ͻ 0.05.
+Flow cytometric analysis of phenotypically defined
+HSCs was performed on (B) embryonic hemato-
+poietic tissues and (C) adult BM. Expression of the
+Ly-6A GFP HSC marker was analyzed on E11
+aorta, YS, and FL cells. Adult BM cells were ana-
+lyzed for the percentage of cells in the LinϪ fraction
+that are Sca-1ϩc-kitϩ. Percentages of GFPϩ cells in
+the embryonic tissue and Sca-1ϩc-kitϩ cells enclosed
+in each gate are shown.
+Role of GATA-2 in Hematopoietic Stem Cells878
+2ϩ/Ϫ FL. Similarly, no difference in the percentages of
+HSCs as defined by the LinϪSca-1ϩc-kitϩ (LSK) pheno-
+type was found when GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ adult
+BM was analyzed (Fig. 5 C). Together, these phenotypic
+data support the transplantation data in showing that HSCs
+are quantitatively decreased in the AGM but that HSCs in-
+crease to normal numbers in the FL and adult BM.
+Cytotoxic Drug Treatment Reveals a Proliferation Defect in
+GATA-2ϩ/Ϫ BM HSCs. To test if the qualitative defect
+in GATA-2ϩ/Ϫ HSCs is related to proliferation, GATA-
+2ϩ/ϩ and GATA-2ϩ/Ϫ mice were treated with the cyto-
+toxic drug 5-FU (28). At 0, 4, 8, 12, and 16 d after treat-
+ment, BM cells were tested in in vitro assays and analyzed
+by flow cytometry for evidence of hematopoietic regenera-
+tion. As shown in Fig. 6 A, both GATA-2ϩ/ϩ and GATA-
+2ϩ/Ϫ mice showed similar reductions in total BM cell num-
+ber at 4 d post 5-FU. Total BM cell numbers increased to
+starting numbers by 16 d post–5-FU. No significant differ-
+ences were observed between the number of total GATA-
+2ϩ/ϩ and GATA-2ϩ/Ϫ BM cells at any time point. In addi-
+tion, no defect in hematopoietic differentiation was
+observed in GATA-2ϩ/Ϫ BM cells, as flow cytometric
+analysis showed the presence of all three lineages, lym-
+phoid, myeloid, and erythroid at similar levels in GATA-
+2ϩ/ϩ and GATA-2ϩ/Ϫ BM (not depicted).
+To investigate whether specific immature hematopoietic
+progenitors were affected in 5-FU–treated GATA-2ϩ/Ϫ mice,
+we performed in vitro colony assays for CFU-GM. As
+shown in Fig. 6, B and C, the starting frequency and number
+of CFU-GM were the same in GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ
+BM. At 4 d post 5-FU treatment, frequency and number of
+CFU-GM reached a similar low point in both GATA-2ϩ/ϩ
+and GATA-2ϩ/Ϫ BM. However, at 12 d after 5-FU treat-
+ment, CFU-GM frequency and number in GATA-2ϩ/ϩ
+BM reached higher or the same levels as the untreated BM,
+whereas the GATA-2ϩ/Ϫ BM CFU-GM frequency and
+number remained low (P Ͻ 0.008 and 0.002, respectively).
+Only at day 16 after 5-FU treatment did GATA-2ϩ/Ϫ CFU-
+GM frequency and number reach the same levels as in un-
+treated BM. Thus, the 4 d delay in the regeneration of
+CFU-GM in GATA-2ϩ/Ϫ BM suggests a GATA-2 dose–
+related proliferation defect acting within these progenitors.
+Alternatively, a GATA-2 dose–related proliferation defect
+acts within HSCs and only secondarily influences CFU-GM.
+To test this, we analyzed the regeneration of HSCs. We
+performed flow cytometric analysis for LSK BM cells at 0, 4,
+8, 12, and 16 d post–5-FU treatment. In both GATA-2ϩ/ϩ
+and GATA-2ϩ/Ϫ BM, HSC percentages and absolute num-
+bers were similarly reduced at 4 d post–5-FU treatment (Fig.
+6, D and E). Both GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ BM HSC
+percentages and numbers began recovering at day 8 post–5-
+FU, when they surpassed the initial percentages and num-
+bers. However, GATA-2ϩ/Ϫ BM HSC numbers remained
+significantly lower than in GATA-2ϩ/ϩ BM at both day 8
+Figure 6. Hematopoietic regeneration after 5-FU treat-
+ment. The temporal regeneration of the hematopoietic
+system within the BM compartment of GATA-2ϩ/ϩ and
+GATA-2ϩ/Ϫ mice was examined at days 0, 4, 8, 12, and 16
+after 5-FU injection for (A) total BM cell numbers, (B) the
+frequency of CFU-GM in 104 BM cells, and (C) the total
+number of CFU-GM in the BM (two tibias plus two femurs).
+The regeneration of BM HSCs was examined by quantifi-
+cation of the Sca-1ϩ and c-kitϩ cells within the linϪ popu-
+lation by flow cytometry. (D) Percentage and (E) absolute
+number of LSK BM cells was examined at days 0, 4, 8, 12,
+and 16 after 5-FU injection. GATA-2ϩ/ϩ samples are rep-
+resented by ᭹, and GATA-2ϩ/Ϫ samples are represented
+by ᭺. Two complete time course experiments were per-
+formed. Each point represents an average of two to three
+animals with SEM. *Significant difference between the
+GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ. (B) CFU-GM frequency
+day 12, P Ͻ 0.008. (C) CFU-GM numbers day 12, P Ͻ
+0.002. (E) LSK cell number day 8 and 12, P Ͻ 0.04.
+Ling et al.879
+and 12 post–5-FU treatment (p Ͻ 0.04). Furthermore,
+whereas GATA-2ϩ/ϩ HSC numbers peaked at day 12 post-
+treatment and declined thereafter, GATA-2ϩ/Ϫ HSC num-
+bers increased slowly up to day 16 post–5-FU treatment.
+The finding that HSC expansion in 5-FU–treated GATA-
+2ϩ/Ϫ mice is delayed by at least 4 d strongly suggests a
+GATA-2 dose–dependent proliferation defect in HSCs.
+Discussion
+The data presented here show for the first time that a full
+dose of GATA-2 is required during embryonic and adult
+stages for quantitatively and qualitatively normal HSC ac-
+tivity in vivo. Although HSCs are most likely not produced
+in GATA-2Ϫ/Ϫ embryos, the effects of GATA-2 haplo-
+insufficiency had been largely unexplored because such
+GATA-2ϩ/Ϫ animals grow normally and present an overtly
+normal adult hematologic profile. Here we have shown
+that with only half the dose of GATA-2, HSC numbers are
+severely and specifically reduced in the AGM region,
+where the first induction and expansion of HSCs is occur-
+ring during midgestation. Moreover, AGM HSC quality is
+compromised. Thereafter, in the other tissues harboring
+HSCs, quantitative deficiencies in GATA-2ϩ/Ϫ HSCs ap-
+pear to be compensated through normal (albeit delayed)
+expansion of HSCs, but qualitative deficiencies are retained
+through to adulthood. Therefore, given that only a few
+HSCs out of the whole cohort of HSCs are actively con-
+tributing to the hematopoietic system at any one time (29,
+30) and that GATA-2ϩ/Ϫ cells are not defective in differen-
+tiation, no general hematologic defects would be expected
+in haploinsufficient adults. Only through stringent in vivo
+transplantations or cytotoxic stress are HSC functional de-
+fects observable. The results of these experiments strongly
+suggest an essential role for GATA-2 in the induction and
+expansion of the first HSCs in the AGM and an additional,
+distinctive role for GATA-2 in the proliferation of HSCs.
+HSC Quantitative Processes Are Altered in GATA-2ϩ/Ϫ
+Mice. In in vivo transplantation experiments we show
+quantitatively reduced HSC activity in GATA-2ϩ/Ϫ em-
+bryos. The four- to ninefold decrease in HSC activity in
+E11/E12 GATA-2ϩ/Ϫ AGMs compared with GATA-2ϩ/ϩ
+AGMs is the consequence of fewer HSCs, as aorta sections
+and flow cytometric analysis show a sixfold decrease in
+phenotypically defined HSCs. Hence, GATA-2ϩ/Ϫ AGMs
+can neither expand nor maintain HSCs compared with
+GATA-2ϩ/ϩ AGMs. In contrast, HSCs are expanded and
+maintained in E11/E12 GATA-2ϩ/Ϫ YS (at a slightly de-
+creased number), with the fold decrease in phenotypically
+defined HSCs in the YS corresponding closely to the fold
+decrease in HSC activity. Considering the fact that HSCs
+are first detected in the AGM region and then in the YS
+and FL, the reduced HSC content of the GATA-2ϩ/Ϫ YS
+and FL may well be a secondary effect of the reduction in
+the GATA-2ϩ/Ϫ AGM region.
+Our in vivo analyses for hematopoietic progenitor cells
+in the AGM region and the YS show that CFU-S11 are also
+GATA-2 dose dependent. These data are consistent with
+previous in vitro studies on GATA-2Ϫ/Ϫ YS and ES cells
+(13, 31), showing much reduced hematopoietic progenitor
+activity. The reduced CFU-S11 activity in GATA-2ϩ/Ϫ
+AGMs and YSs could further be a consequence of the re-
+duced HSC activity we detected in these tissues. However,
+the source of cells providing the CFU-S11 activity in the
+embryo is not clear. Whereas in the adult, hematopoietic
+progenitor cells are derived from HSCs, in the preE10.5
+AGM region and the YS they may be derived from he-
+mangioblasts and/or hemogenic endothelium rather than
+via a HSC ancestor. Hence, GATA-2 may act directly on
+the in vivo generation, survival, and/or expansion of the
+hematopoietic progenitor cells, HSCs, and/or their direct
+precursors in the AGM and YS.
+The YS as a Compensatory Generator of HSCs Independent
+of GATA-2 Dose. For over three decades, the origins of
+adult HSCs have been a focus of research. The view that
+the mammalian YS is able to provide hematopoietic cells
+that migrate and colonize the FL and then the BM during
+the neonatal/adult stages has been altered by the finding
+that the first fully functional adult HSCs are autonomously
+generated in the AGM region. Shortly thereafter, the YS
+contains HSCs, but due to the experimental constraints of
+mammalian embryos, it is difficult to definitively demon-
+strate whether these HSCs are AGM derived or autono-
+mously generated in the YS. Recent data suggest that in-
+deed YS can autonomously generate and expand HSCs (6)
+and putative pre-HSCs (32). Since we observe a dramatic
+reduction of HSCs in GATA-2ϩ/Ϫ AGMs but only a slight
+reduction of HSCs in GATA-2ϩ/Ϫ YSs, our transplantation
+data support the notion of YS HSC generation potential
+(albeit in a GATA-2ϩ/Ϫ embryo). However, since HSCs
+are still generated in the GATA-2ϩ/Ϫ AGM 1 d earlier than
+in the YS, it remains possible that YS HSCs are AGM
+derived. Interestingly, the reduced HSC activity in the
+GATA-2ϩ/Ϫ YS can be expanded to a magnitude compa-
+rable to that of the GATA-2ϩ/ϩ YS in explant cultures,
+suggesting that at least some of the reduced activity in the
+GATA-2ϩ/Ϫ YS is a secondary effect of the reduction of
+HSCs in the AGM. Furthermore, GATA-2ϩ/Ϫ HSC num-
+bers are compensated to normal levels in the adult, possibly
+due to HSC generation and expansion in the YS and the
+further expansion in the FL and BM. Notwithstanding,
+these data imply that the underlying molecular mechanisms
+in which the AGM generates, maintains, and expands
+HSCs are different from that of the YS. The AGM region
+is exquisitely sensitive to the level of the GATA-2 dose,
+whereas the YS is much less sensitive. Hence, the HSC de-
+fects in GATA-2ϩ/Ϫ AGMs do not result in severe anemia
+in adults since GATA-2ϩ/Ϫ YS can generate and/or ex-
+pand sufficient HSCs irrespective of the haploinsufficiency.
+HSC Qualitative Processes Are Altered in GATA-2ϩ/Ϫ
+Mice. The results of adult BM competitive transplantation
+experiments clearly demonstrate a qualitative difference be-
+tween the GATA-2ϩ/ϩ and GATA-2ϩ/Ϫ HSCs. The high
+percentage of GATA-2ϩ/Ϫ mice engrafted with GATA-
+Role of GATA-2 in Hematopoietic Stem Cells880
+2ϩ/ϩ cells, even at low donor cell numbers, demonstrate
+that GATA-2ϩ/ϩ BM HSCs have a proliferative advantage
+over the GATA-2ϩ/Ϫ BM HSCs. In the reciprocal trans-
+plantation in which GATA-2ϩ/Ϫ BM cells were trans-
+planted into GATA-2ϩ/ϩ recipients, high numbers of cells
+were needed to obtain a high percentage of donor-engrafted
+recipient mice and thus imply that: (a) the number of
+HSCs in GATA-2ϩ/Ϫ BM is quantitatively reduced; (b) the
+GATA-2ϩ/Ϫ HSCs have a lower proliferative advantage
+over the GATA-2ϩ/ϩ HSCs; and/or (c) the homing effi-
+ciency is lower for GATA-2ϩ/Ϫ–derived HSCs. The fact
+that no significant difference in the percentage or absolute
+number of LSK BM cells was found between GATA-2ϩ/Ϫ
+and wild-type BM indicates that the decreased HSC activ-
+ity is not due to a quantitative decrease in GATA-2ϩ/Ϫ BM
+HSCs. However, the delayed expansion of HSCs in the
+5-FU recovery experiments does strongly suggest that the
+major GATA-2 dose-dependent defect is in HSC prolifera-
+tion. Although homing of HSCs is not required in this
+experimental scenario, we cannot exclude an additional
+GATA-2 dose–dependent defect in homing.
+How Does GATA-2 Dose Affect the Quantitative and Qual-
+itative Development of HSCs? We propose here that the
+GATA-2 dose effects we observe in the AGM act at the
+level of the hemogenic cells that differentiate into HSCs.
+Normally, a full dose of GATA-2 is required for the gener-
+ation, maintenance, and/or expansion of these precursor
+cells. In the haploinsufficient AGM region, these he-
+mogenic cells fail to differentiate, survive, and/or divide.
+However, owing to the stochastic nature of gene expres-
+sion, some hemogenic cells still achieve a threshold level of
+GATA-2 protein, and therefore, the target genes (which
+are needed for the differentiation, survival and/or division
+of the precursor cells) can be activated at some low fre-
+quency in the E10.5 AGM. The outcome of GATA-2
+haploinsufficiency is then a small production of HSCs fol-
+lowed by an overall reduction in the absolute number of
+AGM HSCs that we can detect functionally in our trans-
+plantation assay and phenotypically in immunostained sec-
+tions and flow cytometry analysis.
+Recent GATA-2 expression data in the AGM support
+the notion of a role for GATA-2 in hemogenic precursors.
+Transgenic embryos with a GFP marker under the control
+of GATA-2 transcriptional regulatory sequences show high
+levels of GATA-2 expression in CD45Ϫ AGM cells with
+hemogenic potential and a significant decrease in the per-
+centage of CD45ϩ cells in GATA-2ϩ/Ϫ E11.5 AGMs (12).
+Moreover, during midgestation, at the time of the first in-
+duction of HSCs, GATA-2 is expressed in the endothelial
+cells lining the dorsal aorta and some underlying mesenchy-
+mal cells. Hence, high GATA-2 expression in hemogenic
+cells of the AGM suggests that GATA-2 is acting on the
+cells just immediately preceding the induction of HSCs.
+Since GATA-2 is a transcription factor, its target genes
+within hemogenic AGM cells are of particular interest. Sev-
+eral markers of AGM HSCs and aortic hemogenic cells
+have been recently described: the Ly-6A (Sca-1) cell surface
+glycoprotein (23, 33) and Runx-1 transcription factor (27).
+These molecules are overlapping with GATA-2 in their ex-
+pression patterns in hemogenic cells of the dorsal aorta.
+Targeted mutation of these genes results in qualitative and/
+or quantitative defects in HSCs. Whereas Ly-6AϪ/Ϫ em-
+bryos thrive into adulthood with no or little effect on HSC
+generation in the embryo, functional analyses of HSCs de-
+rived from Ly-6AϪ/Ϫ mutant BM show defects in their self-
+renewal ability (34), similar to our findings in GATA-2ϩ/Ϫ
+BM. In contrast, runx-1Ϫ/Ϫ embryos are completely devoid
+of HSCs and exhibit FL anemia leading to lethality at E12
+(35–37). Moreover, runx-1 haploinsufficiency leads to a
+premature extinction of AGM HSCs (20). Hence, the Ly-
+6A and runx-1 genes could be targets of GATA-2 or, alter-
+natively, contribute to the activation of the same pathways
+for HSC self-renewal and/or HSC generation. At present,
+although many GATA consensus-binding sites appear in
+the sequences surrounding these genes, there is no in vivo
+data showing that any of these sites are functional.
+Nonetheless, two bona fide target genes of GATA-2
+have been proposed. These are SCL/tal-1, an essential early
+hematopoietic transcription factor and E4bp4, a transcrip-
+tion factor implicated in cell survival. In vivo studies show
+that GATA-2 forms a multiprotein complex with Fli-1 and
+Elf-1 that binds the SCL enhancer and activates the expres-
+sion in HSCs, endothelial cells, and their bipotent progeni-
+tor, the hemangioblast (38). However, in vivo mutation
+analysis on the HSC-specific GATA sites within the SCL
+locus affects SCL expression not only in the AGM but also
+in YS and FL (38). Therefore, it is unlikely that the selec-
+tive defect in the GATA-2ϩ/Ϫ AGM HSCs can be attrib-
+uted to defective SCL expression. Chromatin immunopre-
+cipitation studies on BaF3 cell line stimulated with IL-3
+show that GATA-2 binds to a sequence downstream of the
+transcriptional start site of E4bp4 and is necessary for tran-
+scriptional activation of this gene (39). Considering that IL-3
+is a survival factor for HSCs, it is plausible that GATA-2 is
+involved in the activation of this pathway.
+In conclusion, GATA-2 dosage is important in regula-
+tion of HSC production and expansion. Haploinsufficiency
+of GATA-2 results in quantitative decreases in HSCs in the
+AGM and qualitative defects in HSCs in both the embry-
+onic-derived and adult BM HSCs. The pivotal importance
+of GATA-2 in these processes within HSCs now awaits the
+identification of the relevant target genes and the functional
+cascades that GATA-2 activates, most likely in concert
+with other factors in multiprotein complexes.
+The authors thank all the members of the laboratory for assistance
+in embryo dissection and transplantation and for helpful discussions,
+especially Drs. Kirsty Harvey, Catherine Robin, and Marian
+Peeters. We also thank the Experimental Dieren Centrum, espe-
+cially Yasmine Allen, for upkeep of transgenic mice and transplant
+recipients.
+This work was supported by the National Institutes of Health (RO1
+DK51077), Dutch Cancer Society (2001-2442 and 2002-2699), and
+Association of International Cancer Research (02-243). S.H. Orkin is
+an Investigator of the Howard Hughes Medical Institute.
+Ling et al.881
+Submitted: 9 September 2003
+Accepted: 9 August 2004
+References
+1. Spangrude, G.J., L. Smith, N. Uchida, K. Ikuta, S. Heimfeld,
+J. Friedman, and I.L. Weissman. 1991. Mouse hematopoietic
+stem cells. Blood. 78:1395–1402.
+2. Lemischka, I.R. 1991. Clonal, in vivo behavior of the totipo-
+tent hematopoietic stem cell. Semin. Immunol. 3:349–355.
+3. Medvinsky, A., and E. Dzierzak. 1996. Definitive hemato-
+poiesis is autonomously initiated by the AGM region. Cell.
+86:897–906.
+4. Muller, A.M., A. Medvinsky, J. Strouboulis, F. Grosveld, and
+E. Dzierzak. 1994. Development of hematopoietic stem cell
+activity in the mouse embryo. Immunity. 1:291–301.
+5. de Bruijn, M.F., N.A. Speck, M.C. Peeters, and E. Dzierzak.
+2000. Definitive hematopoietic stem cells first develop within
+the major arterial regions of the mouse embryo. EMBO J. 19:
+2465–2474.
+6. Kumaravelu, P., L. Hook, A.M. Morrison, J. Ure, S. Zhao,
+S. Zuyev, J. Ansell, and A. Medvinsky. 2002. Quantitative
+developmental anatomy of definitive haematopoietic stem
+cells/long-term repopulating units (HSC/RUs): role of the
+aorta-gonad-mesonephros (AGM) region and the yolk sac in
+colonisation of the mouse embryonic liver. Development. 129:
+4891–4899.
+7. Ko, L.J., and J.D. Engel. 1993. DNA-binding specificities of
+the GATA transcription factor family. Mol. Cell. Biol. 13:
+4011–4022.
+8. Merika, M., and S.H. Orkin. 1993. DNA-binding specificity
+of GATA family transcription factors. Mol. Cell. Biol. 13:
+3999–4010.
+9. Orlic, D., S. Anderson, L.G. Biesecker, B.P. Sorrentino, and
+D.M. Bodine. 1995. Pluripotent hematopoietic stem cells con-
+tain high levels of mRNA for c-kit, GATA-2, p45 NF-E2,
+and c-myb and low levels or no mRNA for c-fms and the re-
+ceptors for granulocyte colony-stimulating factor and interleu-
+kins 5 and 7. Proc. Natl. Acad. Sci. USA. 92:4601–4605.
+10. Minegishi, N., J. Ohta, N. Suwabe, H. Nakauchi, H. Ishi-
+hara, N. Hayashi, and M. Yamamoto. 1998. Alternative pro-
+moters regulate transcription of the mouse GATA-2 gene. J.
+Biol. Chem. 273:3625–3634.
+11. Minegishi, N., J. Ohta, H. Yamagiwa, N. Suzuki, S. Kawa-
+uchi, Y. Zhou, S. Takahashi, N. Hayashi, J.D. Engel, and M.
+Yamamoto. 1999. The mouse GATA-2 gene is expressed in
+the para-aortic splanchnopleura and aorta-gonads and meso-
+nephros region. Blood. 93:4196–4207.
+12. Minegishi, N., N. Suzuki, T. Yokomizo, X. Pan, T. Fuji-
+moto, S. Takahashi, T. Hara, A. Miyajima, S.I. Nishikawa,
+and M. Yamamoto. 2003. Expression and domain-specific
+function of GATA-2 during differentiation of the hemato-
+poietic precursor cells in midgestation mouse embryos. Blood.
+102:896–905.
+13. Tsai, F.Y., G. Keller, F.C. Kuo, M. Weiss, J. Chen, M.
+Rosenblatt, F.W. Alt, and S.H. Orkin. 1994. An early hae-
+matopoietic defect in mice lacking the transcription factor
+GATA-2. Nature. 371:221–226.
+14. Persons, D.A., J.A. Allay, E.R. Allay, R.A. Ashmun, D. Or-
+lic, S.M. Jane, J.M. Cunningham, and A.W. Nienhuis. 1999.
+Enforced expression of the GATA-2 transcription factor
+blocks normal hematopoiesis. Blood. 93:488–499.
+15. Ezoe, S., I. Matsumura, S. Nakata, K. Gale, K. Ishihara, N.
+Minegishi, T. Machii, T. Kitamura, M. Yamamoto, T. En-
+ver, and Y. Kanakura. 2002. GATA-2/estrogen receptor chi-
+mera regulates cytokine-dependent growth of hematopoietic
+cells through accumulation of p21(WAF1) and p27(Kip1)
+proteins. Blood. 100:3512–3520.
+16. Briegel, K., K.C. Lim, C. Plank, H. Beug, J.D. Engel, and
+M. Zenke. 1993. Ectopic expression of a conditional GATA-
+2/estrogen receptor chimera arrests erythroid differentiation
+in a hormone-dependent manner. Genes Dev. 7:1097–1109.
+17. Heyworth, C., K. Gale, M. Dexter, G. May, and T. Enver.
+1999. A GATA-2/estrogen receptor chimera functions as a
+ligand-dependent negative regulator of self-renewal. Genes
+Dev. 13:1847–1860.
+18. Kitajima, K., M. Masuhara, T. Era, T. Enver, and T. Na-
+kano. 2002. GATA-2 and GATA-2/ER display opposing ac-
+tivities in the development and differentiation of blood pro-
+genitors. EMBO J. 21:3060–3069.
+19. Ikonomi, P., C.E. Rivera, M. Riordan, G. Washington,
+A.N. Schechter, and C.T. Noguchi. 2000. Overexpression of
+GATA-2 inhibits erythroid and promotes megakaryocyte dif-
+ferentiation. Exp. Hematol. 28:1423–1431.
+20. Cai, Z., M. de Bruijn, X. Ma, B. Dortland, T. Luteijn, R.J.
+Downing, and E. Dzierzak. 2000. Haploinsufficiency of AML1
+affects the temporal and spatial generation of hematopoietic
+stem cells in the mouse embryo. Immunity. 13:423–431.
+21. Song, W.J., M.G. Sullivan, R.D. Legare, S. Hutchings, X.
+Tan, D. Kufrin, J. Ratajczak, I.C. Resende, C. Haworth, R.
+Hock, et al. 1999. Haploinsufficiency of CBFA2 causes fa-
+milial thrombocytopenia with propensity to develop acute
+myelogenous leukaemia. Nat. Genet. 23:166–175.
+22. Fujimaki, S., H. Harigae, T. Sugawara, N. Takasawa, T.
+Sasaki, and M. Kaku. 2001. Decreased expression of tran-
+scription factor GATA-2 in haematopoietic stem cells in pa-
+tients with aplastic anaemia. Br. J. Haematol. 113:52–57.
+23. de Bruijn, M.F., X. Ma, C. Robin, K. Ottersbach, M.J.
+Sanchez, and E. Dzierzak. 2002. Hematopoietic stem cells
+localize to the endothelial cell layer in the midgestation
+mouse aorta. Immunity. 16:673–683.
+24. Dzierzak, E., and M. de Bruijn. 2002. Isolation and analysis
+of hematopoetic stem cells from mouse embryos. In Methods
+in Molecular Medicine: Hematopoietic Stem Cell Protocols.
+C. Klug and C. Jordan, editors. The Humana Press Inc., To-
+towa, NJ. 1–14.
+25. Kaufman, M.H. 1992. The Atlas of Mouse Development.
+Academic Press, Limited, London.
+26. Ma, X., K.W. Ling, and E. Dzierzak. 2001. Cloning of the
+Ly-6A (Sca-1) gene locus and identification of a 3Ј distal frag-
+ment responsible for high-level gamma-interferon-induced
+expression in vitro. Br. J. Haematol. 114:724–730.
+27. North, T.E., M.F. de Bruijn, T. Stacy, L. Talebian, E. Lind,
+C. Robin, M. Binder, E. Dzierzak, and N.A. Speck. 2002.
+Runx1 expression marks long-term repopulating hematopoi-
+etic stem cells in the midgestation mouse embryo. Immunity.
+16:661–672.
+28. Van Zant, G. 1984. Studies of hematopoietic stem cells
+spared by 5-fluorouracil. J. Exp. Med. 159:679–690.
+29. Jordan, C.T., and I.R. Lemischka. 1990. Clonal and systemic
+analysis of long-term hematopoiesis in the mouse. Genes Dev.
+4:220–232.
+30. Keller, G., and R. Snodgrass. 1990. Life span of multipotential
+hematopoietic stem cells in vivo. J. Exp. Med. 171:1407–1418.
+31. Tsai, F.Y., and S.H. Orkin. 1997. Transcription factor GATA-2
+is required for proliferation/survival of early hematopoietic
+Role of GATA-2 in Hematopoietic Stem Cells882
+cells and mast cell formation, but not for erythroid and my-
+eloid terminal differentiation. Blood. 89:3636–3643.
+32. Yoder, M.C., K. Hiatt, P. Dutt, P. Mukherjee, D.M. Bo-
+dine, and D. Orlic. 1997. Characterization of definitive lym-
+phohematopoietic stem cells in the day 9 murine yolk sac.
+Immunity. 7:335–344.
+33. Hanson, P., V. Mathews, S.H. Marrus, and T.A. Graubert.
+2003. Enhanced green fluorescent protein targeted to the
+Sca-1 (Ly-6A) locus in transgenic mice results in efficient
+marking of hematopoietic stem cells in vivo. Exp. Hematol.
+31:159–167.
+34. Ito, C.Y., C.Y. Li, A. Bernstein, J.E. Dick, and W.L. Stan-
+ford. 2003. Hematopoietic stem cell and progenitor defects
+in Sca-1/Ly-6A-null mice. Blood. 101:517–523.
+35. Okuda, T., J. van Deursen, S.W. Hiebert, G. Grosveld, and
+J.R. Downing. 1996. AML1, the target of multiple chromo-
+somal translocations in human leukemia, is essential for nor-
+mal fetal liver hematopoiesis. Cell. 84:321–330.
+36. Sasaki, K., H. Yagi, R.T. Bronson, K. Tominaga, T. Matsu-
+nashi, K. Deguchi, Y. Tani, T. Kishimoto, and T. Komori.
+1996. Absence of fetal liver hematopoiesis in mice deficient
+in transcriptional coactivator core binding factor beta. Proc.
+Natl. Acad. Sci. USA. 93:12359–12363.
+37. Wang, Q., T. Stacy, M. Binder, M. Marin-Padilla, A.H.
+Sharpe, and N.A. Speck. 1996. Disruption of the Cbfa2 gene
+causes necrosis and hemorrhaging in the central nervous sys-
+tem and blocks definitive hematopoiesis. Proc. Natl. Acad. Sci.
+USA. 93:3444–3449.
+38. Gottgens, B., A. Nastos, S. Kinston, S. Piltz, E.C. Delabesse,
+M. Stanley, M.J. Sanchez, A. Ciau-Uitz, R. Patient, and
+A.R. Green. 2002. Establishing the transcriptional programme
+for blood: the SCL stem cell enhancer is regulated by a mul-
+tiprotein complex containing Ets and GATA factors. EMBO
+J. 21:3039–3050.
+39. Yu, Y.L., Y.J. Chiang, and J.J. Yen. 2002. GATA factors are
+essential for transcription of the survival gene E4bp4 and the
+viability response of interleukin-3 in Ba/F3 hematopoietic
+cells. J. Biol. Chem. 277:27144–27153.
+

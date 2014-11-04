@@ -1,0 +1,1325 @@
+Hindawi Publishing Corporation
+Journal of Biomedicine and Biotechnology
+Volume 2006, Article ID 70414, Pages 1–13
+DOI 10.1155/JBB/2006/70414
+Mini-Review Article
+Screening Pesticides for Neuropathogenicity
+John D. Doherty
+Health Eﬀects Division (7509C), Oﬃce of Pesticide Programs, United States Environmental Protection Agency,
+1200 Pennsylvania Avenue NW, Washington DC 20460, USA
+Received 1 December 2005; Revised 18 May 2006; Accepted 30 May 2006
+Pesticides are routinely screened in studies that follow speciﬁc guidelines for possible neuropathogenicity in laboratory animals.
+These tests will detect chemicals that are by themselves strong inducers of neuropathogenesis if the tested strain is susceptible
+relative to the time of administration and methodology of assessment. Organophosphate induced delayed neuropathy (OPIDN)
+is the only known human neurodegenerative disease associated with pesticides and the existing study guidelines with hens are a
+standard for predicting the potential for organophosphates to cause OPIDN. Although recent data have led to the suggestion that
+pesticides may be risk factors for Parkinsonism syndrome, there are no speciﬁc protocols to evaluate this syndrome in the existing
+study guidelines. Ideally additional animal models for human neurodegenerative diseases need to be developed and incorporated
+into the guidelines to further assure the public that limited exposure to pesticides is not a risk factor for neurodegenerative diseases.
+Copyright © 2006 John D. Doherty. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+INTRODUCTION
+In the early 1980s, there was an unfortunate human situ-
+ation in which drug abusers developed Parkinsonism syn-
+drome [1] following exposure to 1-methyl-4-phenyl-1,2,3,6-
+tetrahydropyridine (MPTP, see Figure 1) that is a by-product
+in an attempt to chemically synthesize heroin. Although ear-
+lier researchers sought links between manganese exposure
+and Parkinsonism [2], the MPTP incident greatly increased
+the interest in correlating environmental exposure to con-
+taminants and human neurodegenerative diseases. Human
+exposure to pesticides is essentially unavoidable in modern
+life both in the developed nations and more increasingly in
+the developing ones. Worldwide pesticide sales and usage in
+both 2000 and 2001 were in excess of ﬁve billion pounds. In
+the United States alone there were about 1.2 billion pounds
+of pesticides used including insecticides, herbicides, fungi-
+cides, rodenticides, but not including wood preservatives,
+special biocides, and chlorine/hydrochlorides [3]. Human
+exposure to pesticides depends upon many factors and of-
+ten agricultural workers have the highest rates of exposure
+as they apply pesticides to crops. Spray drift and migra-
+tion of the pesticides to potable water as well as residues
+in food stuﬀs and residues resulting from home and gar-
+den applications are also very signiﬁcant sources of expo-
+sure. Many insecticides are neurotoxic by design with tar-
+gets being acetylcholinesterase (organophosphates and car-
+bamates), the Na+ conductance channel (DDT, pyrethrins,
+and pyrethroids), the acetylcholine receptor (nicotinics), the
+GABA receptor (emamectin), Ca++ channels (ryanodine),
+and some agents such as rotenone that aﬀects mitochondrial
+function and also may aﬀect the nervous system. If a poi-
+soned individual recovers from the initial toxicity following
+a single dose of anticholinesterase inhibitors (with the excep-
+tion of some organophosphates) or agents that act on trans-
+mitter receptors, and when the chemical is rapidly metabo-
+lized and excreted, there is usually no established patholog-
+ical or neurodegenerative change although there are many
+anecdotal reports of persistent subtle eﬀects (see reference
+[4]). The trauma of the acute poisoning incident may have
+some psychological eﬀects that may not actually be related
+to the neuropharmacology of the agent. The consequences
+of chronic exposure to pesticides, whether they are designed
+to act on the nervous system as are insecticides or are her-
+bicides designed to be speciﬁc for plants, may be causing
+eﬀects in humans through their known or yet to be dis-
+covered eﬀects in the nervous system. Over the past decade
+there has been a growing body of literature that suggests
+pesticides as being risk factors either for possibly initiat-
+ing or facilitating the progression of neurodegenerative dis-
+eases (eg, see Table 1). Theoretically humans may have the
+initiation of the diseases triggered by exposure to a pes-
+ticide or a pesticide in combination with other environ-
+mental contaminants. In some cases, it is possible that in-
+dividuals with a genetic predisposition for a neurodegen-
+erative disease may be at an increased risk to exposure to
+2 Journal of Biomedicine and Biotechnology
+CH3
+O P
+O
+O
+O
+H3C
+CH3
+Tri-ortho-cresyl phosphate
+S
+P
+O
+O
+CH3
+Cl
+Cl
+Br
+Leptophos
+H3C
+CH3
+N
+H
+P
+O
+F
+H
+N
+H3C
+CH3
+Mipafox
+(a) Chemicals associated with OPIDN
+S 
+S
+H
+N
+N
+H
+S
+S  Mn 
+Maneb
+H3C O
+H3C
+O
+O
+H
+O H
+O
+O
+CH2
+CH3
+Rotenone
+N CH3
+MPTP
+H3C
+Cl 
+N+
+N+ CH3
+Cl 
+Paraquat
+(b) Chemicals proposed to be associated with Parkinson’s syndrome
+Figure 1: Chemical structures.
+pesticides that might initiate the disease. In other cases where
+the initiating event in either normal or genetically suscep-
+tible persons is caused by a spontaneous event or another
+chemical exposure, the progression following its initiation
+may be facilitated to various degrees by exposure to pesti-
+cides.
+The potential toxicity of pesticides is evaluated in lab-
+oratory animals prior to registration and updated in the
+reregistration process in a series of required or condition-
+ally required studies that follow speciﬁc guidelines [5].
+Partly as a consequence of the discovery that MPTP caused
+a neurodegenerative disease as well as the interest in the
+possibility that there is increased susceptibility associated
+with prenatal and neonatal exposures, there has been in-
+creased testing as a part of the registration/reregistration pro-
+cess to attempt to determine the potential eﬀects of pesti-
+cides on the nervous system. As a result, a series of spe-
+cial neurotoxicity study guidelines were developed in the
+early 1990s. These guidelines for special neurotoxicity test-
+ing together with other more general study guidelines that
+also assess for eﬀects on the nervous system are listed in
+Table 2.
+OVERALL GOAL OF THE STUDY GUIDELINES
+AND RISK ASSESSMENT
+In classical terms, the goal of the study guidelines is to char-
+acterize the toxicity of the pesticide and to identify the most
+sensitive endpoint in the most sensitive species. Once this
+endpoint is selected from the pesticide’s toxicity database
+including the required studies following the guidelines in
+Table 2, nonguideline studies that are either conducted at the
+registrant’s own initiative or as recommended by the USEPA
+as well as studies from the open literature, a risk assess-
+ment is performed. Traditionally the risk assessment is based
+on the no observable adverse eﬀect level (NOAEL) for this
+endpoint coupled with available or estimated exposure data.
+The NOAEL is adjusted by uncertainty factors to further as-
+sure the safety of the chemical to humans. First, a factor of
+10 X for intraspecies variation based on the assumption that
+within species some individuals may be 10 times more sen-
+sitive than the tested group is employed. Another 10 X fac-
+tor for interspecies variation based on the assumption that
+humans may be 10 times more sensitive than the most sensi-
+tive laboratory animal species is also employed. Another 10 X
+John D. Doherty 3
+Table 1: Selected examples of human neurodegenerative and other neurological diseases both demonstrated and possibly attributed to
+pesticides.
+Disease Pesticide (reference) Association with humans Guidelines for assessment
+Organophosphate-
+induced delayed
+neuropathy (OPIDN)
+Organophosphates
+cholinesterase inhibitors.
+(8-review)
+Strong. Actual association
+demonstrated
+Yes—hen studies
+Parkinson’s disease
+Paraquat [20–25], maneb
+[26, 27], rotenone [28–30],
+organochlorines [31–34],
+also [35]
+Not ﬁrmly established but
+circumstantial evidence
+No
+Alzheimer’s disease
+No speciﬁc pesticide—
+agricultural workers [36, 37]
+One case study—association
+not proven.
+Epidemiological study with 68
+cases—no association
+concluded
+No learning and
+memory not assessed in
+older animals
+Amyotrophic lateral
+sclerosis
+2-4-dichlorophenoxy-acetic
+acid [38, 39]
+Report of increased relative
+risk among employees in
+manufacturing.
+Agricultural workers have
+higher rates
+No speciﬁc test but
+several tests would
+detect neurological and
+muscular degeneration
+Autism No speciﬁc pesticide
+[22]
+Suggestion that impaired
+metabolism of pesticides may
+be associated with increased
+incidence of autism
+No, but certain
+patterns
+in the DNT study may
+be an indicator
+Psychiatric disorders
+Organophosphates
+[40–42]
+Authors claim of positive
+association in epidemiological
+studies and EEG changes in
+humans and monkeys
+No
+factor may be applied if it is determined that the database is
+incomplete or there is no NOAEL for the most sensitive end-
+point. When there is an evidence of developmental toxicity
+in fetuses or neonatal animals at lower doses than parental or
+adult toxicity, an additional FQPA (Food Quality Protection
+Act) 10 X (reducible to 3 X or 1 X depending upon the cir-
+cumstances) safety factor is applied to assure the protection
+of fetuses, newborns, and children. It should be noted that
+the application of the uncertainty factors is to the NOAEL
+and the lowest observable adverse eﬀect level (LOAEL) is al-
+ways higher than the NOAEL. Thus, a total uncertainty fac-
+tor of 100 applied to an NOAEL is in reality a factor of 300
+from a dose where there is an eﬀect when the LOAEL is a
+dose three times higher than the NOAEL. In order to elimi-
+nate or compensate for some of the limitations of the NOAEL
+and LOAEL approaches, statistical methods have been devel-
+oped to determine a benchmark dose (BMD) that accounts
+for gaps in dose spacing or account for a study not showing
+an NOAEL [6]. The uncertainty factors as described above
+(except for not having an NOAEL) are applied to the BMD.
+A risk assessment for a chemical with an NOAEL based
+on liver toxicity at the LOAEL that has evidence of neu-
+ropathogenicity in laboratory animals at higher doses than
+at the LOAEL will be protective against the neuropathogen-
+esis although neuropathogenicity was not the basis for the
+selection of the NOAEL. The protective nature of both the
+NOAEL and BMD approaches to risk assessment assumes
+that most other potential target organs in humans will only
+be aﬀected at higher doses than the most sensitive endpoint
+in laboratory animals. If humans are especially susceptible to
+neuropathogenesis resulting from exposure to a certain pes-
+ticide, the endpoint based on animal studies may underesti-
+mate the risk to humans. However, the minimum 100 X un-
+certainty factor plus any additional factors would only in rare
+cases not be protective against such neuropathogenesis in hu-
+mans having extreme sensitivity to the chemical. To date, al-
+though this may be debatable by some, there is no known
+neuropathological condition caused or facilitated by pesti-
+cides that should not be protected against by the current ap-
+proach to risk assessment as outlined above provided that the
+pesticide does not interact with other environmental con-
+taminants, drugs, or naturally occurring chemicals to ren-
+der neuropathogenicity. The principle of selecting the most
+sensitive endpoint in the most sensitive test animal species
+and using either the NOAEL or BMD and applying uncer-
+tainty factors to drive down exposure is still the basis for risk
+4 Journal of Biomedicine and Biotechnology
+Table2:Listofguidelinestudiesbothgeneralandespeciallydesignedtoassessforneurotoxicity.
+GuidelineStudytitleWhenrequiredSpecies[1]ProtocoltimingNonpathology[2]Histopathology
+Generaltoxicityassessment
+870.1100
+870.1200
+870.1300
+Acuteoral,dermal,and
+inhalationtoxicity
+Forallchemicals
+(inhalationnotrequiredfor
+some)
+Ratorrabbit
+Acutedosetoyoungadults
+andobservationsfor14
+days
+Clinicalsigns,body
+weightandmortality
+Grossnecropsyonly
+870.3100
+870.3150
+Subchronicoral,
+dermal,andinhalation
+dosing
+FormostchemicalsRatordog
+90daysdosingstarting
+withyoungadult
+Clinicalsigns,body
+weightand
+hematology,clinical
+chemistryand
+urinalysisand
+mortality
+Generallyhematoxylinand
+eosin
+870.3700PrenataldevelopmentalFormostchemicalsRatorrabbit
+Gestationdays6–16for
+ratsand6–18forrabbits
+Clinicalsigns,body
+weight,uterinedata
+andpupdataand
+mortality
+Grossdissectionforvisceral
+andskeletalassessmentofthe
+pups
+870.3800Reproductive
+Forchemicalswithfood
+usesandchronicexposure
+Rat
+Continuousfrom
+prematingthrough
+gestation,lactationand
+adultsfortwogenerations
+Reproductive
+performance,clinical
+signs,bodyweightand
+mortality,pupgrowth
+anddevelopment
+Necropsyandhistopathologyof
+thereproductiveorgans
+870.4100
+870.4200
+870.4300
+Chronicdosingand
+carcinogenicity
+Forchemicalswithfood
+usesorwherechronic
+exposureisexpected
+Rat,dog,
+andmouse
+6monthsfordogs,18
+monthsofmoreformice
+and24monthsforrats
+Clinicalsignsand
+mortality
+Generallythesameasfor
+subchronic
+Specialstudiesfororganophosphate-induceddelayedneuropathy
+870.6100
+Acutedelayed
+neurotoxicityfor
+OPIDN
+AllorganophosphateAChE
+inhibitorsHen
+(8–14
+monthsof
+age)
+Singlelimitdoseof2gm/kg
+ornearlethaldose
+(ie,LD50).Atropinecan
+beusedtopreventdeathby
+AChEinhibition.Must
+have6survivors.Sacriﬁce
+atday21
+Gaitassessment
+neuropathytoxic
+esterase
+acetylcholinesterase
+Wholebodyperfusion.
+Sectionsofmedullaoblongata,
+spinalcord(rostralcervical,
+midthoracic,andlumbosacral),
+andperipheralnerves.
+“Appropriate”myelinandaxon
+speciﬁcstains
+870.6100
+Subchronicdelayed
+neurotoxicityfor
+OPIDN
+FororganophosphateAChE
+inhibitorswhentheacute
+studyisinconclusive
+Limitdoseof1gm/kg.
+Threedoselevelsrequired.
+EstablishNOAELand
+LOAEL
+John D. Doherty 5
+Table2:Continued.
+GuidelineStudytitleWhenrequiredSpecies[1]ProtocoltimingNonpathology[2]Histopathology
+Specialneurotoxicityassessmentsinrats∗
+870.6200a
+Acuteneurotoxicity
+screen
+Conditionallyrequired
+Rat
+Singledosetoyoung
+adultswithassessmentsat
+predosing,optimumtime
+ofeﬀectandatdays7and
+14
+FOBandMotor
+Activityatpretest,
+timetopeakeﬀectand
+days7and14
+Insituperfusionwithﬁxative.
+Paraﬃnembeddingacceptable
+forCNSbutplasticembedding
+requiredforperipheral.GFAP
+immunohistochemistry,
+Bodian’sstainand
+Bielschowsky’ssilvermethods
+recommendedinadditionto
+standardstains
+870.6200b
+Subchronic
+neurotoxicityscreen
+Rat
+Dailydosingwithlive
+assessmentsatpredosing,
+weeks4,8and13but
+histopathologyatweek13
+only
+FOBandMotor
+activityatpretest,4th,
+8thand13thweeks
+870.6300
+Developmental
+neurotoxicity
+Rat
+Gestationandlactational
+exposure.Optionaldirect
+pupgavageexposure.
+Maternalassessments.
+Pupassessmentsbefore
+weaningandatday∼21
+andday∼60
+FOB,motoractivity.
+Learningandmemory.
+Acousticstartle
+response.
+Brainweightand
+morphometric
+870-6500
+Schedule-controlled
+operantbehavior
+Rarelyconductedor
+required.Recommendedfor
+chemicalsshowing
+neurotoxicityinother
+studiesthatwouldbefurther
+characterizedbythisspecial
+test.Testcanbecombined
+withotherguidelinestudies
+Rat
+Open
+Specialoperant
+behavior
+Notspeciﬁed
+870.6850
+Peripheralnerve
+function
+Rat
+Peripheralnerve
+conductionvelocity
+andamplitude
+Notspeciﬁed
+870.6855
+Neurophysiology:
+sensoryevoked
+potentials
+Pigmented
+ratstrain
+Implantationof
+electrodesinbrain
+followedbyvisual,
+auditoryor
+somatosensorystimuli
+evaluated
+Notspeciﬁed
+Mostcommonlyusedspecies.
+Fororganophosphatesandcarbamates,plasmacholinesteraseandRBCandbrainacetylcholinesteraseareperiodicallyassessed.
+∗
+Theguidelinesrecommendratstobetestedbutotherspeciescanbetestedunderspecialcircumstances.
+Copiesavailableathttp://www.epa.gov/pesticides(seeunderScienceandPolicy-TestGuidelines).
+6 Journal of Biomedicine and Biotechnology
+assessment although some may consider this principle out-
+dated. The toxicity database as generated by the required
+studies is intended to be a thorough screening process and
+is not intended to be an in-depth assessment of any organ
+including the nervous system unless special inclusions are
+made. However, when there are justiﬁcations to believe that
+the toxicity for a given chemical is being underestimated by
+the standard set of required toxicity studies, and validated
+methods for additional testing are available, these additional
+studies can be recommended to further characterize the tox-
+icity.
+An inherent problem with the guidelines for neurotoxic-
+ity studies is that the rat, dog, mouse, or rabbit may not pro-
+vide a model for certain types of neurotoxicity that humans
+may be especially sensitive to. No matter how much testing
+is done in animals, such toxicity will not be detected prior
+to exposure to humans. The case of aplastic anemia is one
+example of there not being an animal model for prediction
+of a particular type of toxicity. It is estimated that one per-
+son in 30–40,000 is susceptible to the aplastic anemia caused
+by the antibiotic chloramphenicol [7]. There might also be
+cases of unusual human susceptibility to a neuropathogen of
+similar low frequency and there would be no way to detect
+them using the current battery of studies. Unlike the chlo-
+ramphenicol model where the dosage was intentional and
+monitored, exposure to pesticides is much smaller and the
+actual amounts, times, and frequencies of pesticide exposure
+are not known.
+The guidelines (Table 2) for the more general acute
+(870.1100 for oral, 870.1200 for dermal, and 870.1300
+for inhalation), subchronic (870.3100 for rodents and
+870.3150 for nonrodents—usually dogs), prenatal develop-
+ment (870.6300) and reproductive (870.3800) and chronic
+toxicity in rats and dogs (870.4100) and carcinogenicity in
+rats and mice (870.4200 or 870.4300) are nonspeciﬁc in their
+description of methods recommended for evaluation of the
+histopathology of the nervous system. The more obvious
+neurotoxicity would be detected by observation of the be-
+havior of the animals based on daily cage-side evaluations if
+the technical staﬀ is appropriately trained to look for and de-
+tect changes in behavior. The only instructions in the nona-
+cute studies for histopathology preparation apply to all tis-
+sues and are not speciﬁc for nerve tissue: “tissues and organs
+designated for microscopic examination should be ﬁxed in
+10 percent buﬀered formalin or a recognized suitable ﬁxative
+as soon as necropsy is performed and no less than 48 hours
+prior to trimming.” No commentary on the special stains
+to be used is provided. Hematoxylin and eosin are routinely
+used.
+SPECIAL STUDIES FOR ASSESSMENT
+OF NEUROTOXICITY IN RATS
+The studies designed for speciﬁc assessment of potential
+neurotoxicity in rats include the series 870.6200 for acute
+and subchronic screening in adults and 870.6300 for de-
+velopmental neurotoxicity (DNT). The latter study includes
+exposure to pups in utero and during lactation either via
+lactation or by direct gavage exposure to the pups. These
+studies include cage-side observations for the more obvious
+clinical signs and for functional observational battery (FOB)1
+which assess the animal for motor and sensory eﬀects. The
+technical staﬀ making these observations is supposed to be
+especially trained to detect subtle changes in clinical signs
+indicative of neurotoxicity and typically is unaware whether
+the animal was dosed with the test material or otherwise. For
+these studies, the instructions for histopathological evalua-
+tion of the nervous system are more speciﬁc than for the gen-
+eral screening studies. “Tissues should be prepared for histo-
+logical analysis using in situ perfusion and paraﬃn and/or
+plastic embedding procedures. Paraﬃn embedding is accept-
+able for tissues from the central nervous system. Plastic em-
+bedding of tissue samples from the central nervous system is
+encouraged, when feasible. Plastic embedding is required for
+tissue samples from the peripheral nervous system. Subject to
+professional judgment and the type of neuropathological al-
+terations observed, it is recommended that additional meth-
+ods such as Bodian’s and Bielchowsly’s(sic) silver methods,
+and/or glial ﬁbrillary acidic protein (GFAP) immunohisto-
+chemistry be used in conjunction with more standard stains
+to determine the lowest dose level in which neuropathologi-
+cal alterations are observed.”
+In the developmental neurotoxicity study (870.6300),
+pups (11 or 21 day old depending on the length of lactational
+exposure) and adults (about 62 days old) derived from dams
+exposed to the pesticide from day 6 of gestation through
+lactation (at least to day 10 but many laboratories continue
+dosing up to the time of parturition) via lactation or by di-
+rect gavage dosing during the lactation period are examined
+histologically. In addition to histopathology, an abbreviated
+FOB assessment, learning and memory and motor activity
+and acoustic startle responses are all evaluated in the pups
+at about weaning time and again as young (about 60 days)
+adults. Histology of pups is diﬀerent from the 870.6200 stud-
+ies in that the brain is ﬁxed by immersion rather than in situ.
+The guidelines for the neurotoxicity screening studies and
+the developmental neurotoxicity study provide references for
+more detailed instructions for histopathology and behavior
+assessments. The laboratory conducting the study is respon-
+sible for selecting the techniques and stains to be used.
+Positive control studies such as with trimethyl tin or acry-
+lamide for neurohistopathology as well as positive controls
+such as amphetamine and haloperidol for motor activity and
+scopolamine for learning and memory are currently recom-
+mended to assure the susceptibility of the strain and the com-
+petence of the laboratory personnel conducting the study.
+The argument for also considering nonchemical agents to
+evaluate the proﬁciency of a laboratory in the use of a test
+(eg, memory) has been made [8].
+These screening studies should detect alterations of the
+nervous system that occur within the limited time frames of
+testing with respect to the age of the rat when tested provided
+that the relatively pure strains of rat used are susceptible to
+1 The FOB assessment in the series 870.6300 is less detailed than for the
+series 870.6200. In particular, there is no requirement to include grip
+strength or landing foot splay.
+John D. Doherty 7
+any neurotoxicity that could be induced by the chemical.
+Consequently there are limitations with regard to their pre-
+dictive value for the major neurodegenerative diseases which
+are associated with older humans such as Parkinson’s and
+Alzheimer’s. In particular, only young adults are assessed in
+the 870.6200 screening studies and exposure to the rats is
+in utero and up to the ﬁrst three weeks of life in the se-
+ries 870.6300 developmental neurotoxicity study. The rats
+are not kept on the study to determine if the in utero expo-
+sure predisposed them to development of neuropathological
+conditions in the later stages of life or if a challenge by the
+test chemical would be worse if the rats were not exposed in
+utero.
+Three other studies (870.6500, scheduled operant be-
+havior, 870.6850, peripheral nerve function, and 870.6855,
+neurophysiology: sensory evoked potentials) are rarely con-
+ducted but can be used to further characterize indications
+of neurotoxicity suggested in either the general or the spe-
+cial neurotoxicity guideline studies or based on the pesticide’s
+structure and predicted activity relationships.
+There are no guidelines for studies with monkeys which
+may have a similar level of susceptibility to neurotoxicants
+that may produce or facilitate human neuropathogenesis.
+Reasons for this are that studies with monkeys are expensive
+and only limited numbers of animals can be used.
+NONGUIDELINE STUDIES
+Studies from the open literature or studies conducted by the
+pesticide industry that either do not have protocols consis-
+tent with the guidelines or that are conducted to address a
+speciﬁc question are grouped together as nonguideline stud-
+ies. Such nonguideline studies can provide endpoints for risk
+assessment when peer review determines that they are of ac-
+ceptable scientiﬁc merit. It is, however, diﬃcult to request
+that companies conduct special nonguideline studies with-
+out suﬃcient justiﬁcation that the study is validated to ren-
+der data useful for risk assessment purposes.
+A recurring problem with nonguideline studies is that
+they often use routes of test chemical administration not re-
+lated to human exposure scenarios. Intraperitoneal, intra-
+venous, and intramuscular modes of administration may
+be very useful in attempting to determine the mode of ac-
+tion of a chemical. Such data are important in understand-
+ing the possible molecular basis for the neuropathogenesis.
+However, extrapolating data from these routes of administra-
+tion to human exposure by the dietary, dermal, or inhalation
+routes is problematic.
+The use of nonguideline studies with purposeful dosing
+of human volunteers to assist in the risk assessment for pesti-
+cides is done on a case by case basis following both scientiﬁc
+and ethical review. Such studies with human volunteers are
+occasionally conducted with pesticides that may cause tran-
+sitory eﬀects such as cholinesterase inhibition but certainly
+not to see if a neurodegenerative condition results. Epidemi-
+ological studies that attempt to correlate the incidence of cer-
+tain types of diseases with pesticide exposure to humans de-
+rived from surveys of the subjects’ personal history provide
+insight into the possibility that exposure to the pesticide may
+be related to the onset and progression of neuropathogenesis.
+These studies, however, can only suggest a possible relation-
+ship because the subjects are also simultaneously exposed to
+many other chemicals and there is no real way to determine
+the actual extent to which the subjects were exposed to the
+suspect pesticide chemical or if exposure occurred during the
+critical times to aﬀect the onset or progression of the neu-
+ropathological condition.
+STUDY GUIDELINES FOR ASSESSING
+ORGANOPHOSPHATE-INDUCED
+DELAYED NEUROPATHY
+The only established neuropathy in humans associated with
+pesticides is organophosphate-induced delayed neuropathy
+(OPIDN) caused by certain but not all organophosphate in-
+secticides and some other organophosphates not used as in-
+secticides. A recent review on OPIDN provides more detailed
+information on the history and development of this model
+[9]. Documentation that OPIDN aﬀects humans dates back
+to the early part of the last century when a major incident oc-
+curred during the prohibition years in the USA as a result of
+consumption of a Jamaican ginger alcoholic drink that was
+later demonstrated to be contaminated with tolyl phosphate
+esters. It is estimated that some 20,000 persons were aﬀected
+to various degrees with a syndrome that was called Ginger
+jake paralysis or jake leg. The classical work of M. Smith and
+R.D. Lillie [10] of the US Public Health Service in the 1920s
+and 30s demonstrated that the phosphate contaminants were
+responsible for the condition and could reproduce the syn-
+drome in rabbits, dogs, monkeys, and calves. In human ex-
+posure to ginger jake, the condition was described as “the ini-
+tial ﬂaccidity, characterized by muscle weakness in the arms
+and legs giving rise to a clumsy, shuﬄing gait, was replaced
+by spasticity, hypertonicity, hyperreﬂexia, clonus, and abnor-
+mal reﬂexes, indicative of damage to the pyramidal tracts
+and a permanent upper-motor neuron syndrome. In many
+patients, recovery was limited to the arms and hands and
+damage to the lower extremities (foot drop spasticity and
+hyperactive reﬂexes) was permanent, suggesting damage to
+the spinal cord” [4]. Validation that organophosphate insec-
+ticides cause OPIDN in humans comes partly from an inci-
+dent concerning workers manufacturing the insecticide mi-
+pafox following an accident [11]. Domestic animals are also
+susceptible to OPIDN as indicated by the poisoning of water
+buﬀalo in Egypt [12] by the insecticide leptophos. A review
+of the possible association between leptophos with OPIDN in
+humans [13] describes problems in distinguishing between
+leptophos and other contaminants as the cause of OPIDN.
+Considerable research on the structure of organophos-
+phate insecticides that can cause this neuropathy has been
+done [9]. Of the tolyl phosphate contaminants in the ginger
+product, it was later determined that only one, the ortho-
+isomer, was responsible for the toxicity, indicating the highly
+speciﬁc chemical structural nature of the induction of this
+syndrome. Figure 1 presents some of the chemical struc-
+tures of organophosphates that are known to cause OPIDN.
+8 Journal of Biomedicine and Biotechnology
+Research on biochemical approaches has led to the discovery
+that inhibition of “neuropathy target esterase” (NTE) by the
+organophosphates that cause the delayed-type neuropathy
+has provided a basis for screening of new organophosphate
+candidates for development as insecticides [14]. Chemicals
+showing higher levels of inhibition of NTE are reported to
+have a good correlation with development of OPIDN.
+The hen was determined to be a relatively very suscep-
+tible species but the laboratory rat and mouse were not ap-
+preciably susceptible to OPIDN. The hen provides a model
+for assessing the potential for an organophosphate to cause
+neurotoxicity and is used in the acute and repeat dose study
+guidelines (870.6100). It is necessary to use adult domestic
+hens 8–14 months of age since the chick has a lower sensi-
+tivity [15]. In the acute study, a near lethal dose is admin-
+istered usually by gavage and the hen may be protected by
+atropine from the inhibitory eﬀects of the organophosphate
+on acetylcholinesterase. Following dosing, the hens are ob-
+served for their gait characteristics including the ability to
+walk up an incline and after 21 days are sacriﬁced and ex-
+amined histologically. The repeat dose study is conducted
+when there is an evidence of OPIDN in the acute study or
+when there is an evidence of inhibition of NTE. The focus
+of the repeat dose study is to determine the NOAEL and
+LOAEL for OPIDN and it includes control, low, mid, and
+high (maximum 1 gm/kg) doses. The guidelines provide the
+following details for histopathological examination of the
+nervous system. “Tissues should be ﬁxed by whole body per-
+fusion, with a ﬁxative appropriate for the embedding me-
+dia. Sections should include medulla oblongata, spinal cord,
+and peripheral nerves. The spinal cord sections should be
+taken from the rostral cervical, the midthoracic, and the lum-
+bosacral regions. Sections of the proximal regions of both of
+the tibial nerves and their branches should be taken. Sections
+should be stained with appropriate myelin- and axon-speciﬁc
+stains.” The guidelines recommend that TOCP (tri-ortho-
+cresyl phosphate, Figure 1) be used as a positive control to
+assure the susceptibility of the hens. Not all hens are equally
+susceptible to OPIDN [16].
+No new organophosphate insecticides have been intro-
+duced in recent years and either organophosphate insecti-
+cides that were demonstrated to cause OPIDN have been
+phased out or their uses have been greatly restricted. New
+organophosphates, however, may in the future be needed for
+control of certain pests that become resistant to currently
+registered pesticides. OPIDN is not considered to be related
+to another known human neurodegenerative disease. How-
+ever, the OPIDN model may be very useful in studying the
+progressive degeneration of the nervous system following
+initiation of the nerve degeneration that may be applied to
+human neurodegenerative diseases if the underlying mecha-
+nisms of OPIDN can be elucidated and compared with hu-
+man diseases.
+PESTICIDES AND PARKINSONISM SYNDROME
+Parkinson’s disease (PD) is regarded as the second most
+common neurodegenerative disorder in humans and aﬀects
+about 2% of the population over the age of 60 years. Clin-
+ically, PD is a disorder of motor function characterized by
+tremor, slow and decreased movement (bradykinesia), mus-
+cular rigidity, poor balance, and problems in gait [17]. Patho-
+logically, PD patients show loss of dopaminergic neurons
+in the substantia nigra pars compacta and frequently have
+Lewy bodies, eosinophilic intracellular inclusions composed
+of amyloid-like ﬁbers and α-synuclein [18]. PD may have a
+genetic basis for susceptibility for an early onset form but the
+occurrence of the more prevalent late onset form does not
+have an established genetic basis [19]. The latter form may
+result from a multitude of diﬀerent factors including insults
+from xenobiotics and an individual’s inherent sensitivity or
+diﬀerences in the metabolism and pharmacokinetics of the
+xenobiotics. Since the discovery that MPTP [1] could cause
+PD like syndrome, interest in the herbicide paraquat, which
+has some structural similarity to MPTP (Figure 1) led to the
+possibility that this herbicide could be a risk factor in the PD
+syndrome [20–25]. Factors such as exposure from living in
+rural areas, farming, drinking water from wells and exposure
+to agricultural chemicals have been investigated and claimed
+as support for an association between paraquat and increased
+PD. Interest in the herbicide maneb as a possible risk factor
+for PD developed because of its reported eﬀects on dopamine
+whereas it was demonstrated to enhance the eﬀects of the ac-
+tive metabolite of MPTP or MPP+ [26, 27]. Rotenone, a pes-
+ticide that is an inhibitor of mitochondrial Complex I func-
+tion, has also been implicated for being associated with PD
+based partly on work that associates the mode of action of
+MPTP or its principal metabolite MPP+ with an eﬀect on
+mitochondrial Complex I function [28–30].
+Organochlorine insecticides as well as tricyclohexyl and
+triphenyl tin inhibit various ATPases in nerve membranes
+including one enzyme species that also shows a bell-shaped
+curve for activation and then inhibition of activity by Mn++
+and it was earlier suggested [31] that inhibition of ATPases
+might be related to an environmental factor in Parkinson’s
+disease etiology. DDT and dieldrin persist in the body and
+once ingested can remain there indeﬁnitely. Mobilization of
+DDT or dieldrin from fat stores as the body ages to critical ar-
+eas associated with PD might be a factor in its development
+or progression. An association between dieldrin presence and
+PD syndrome [32] was reported based on a small number of
+patients examined. Heptachlor has also been demonstrated
+to aﬀect dopamine function [33] in laboratory animals.
+The association between PD and pesticides is a contro-
+versial issue and the USEPA does not currently consider that
+pesticides are risk factors in this disease. A recent compre-
+hensive review of this issue, supported in part by industry
+but published in a peer reviewed journal, led the authors to
+conclude “that animal and epidemiological data reviewed do
+not provide suﬃcient evidence to support a causal associa-
+tion between pesticide exposure and PD” [43].
+If a pesticide was causing or aﬀecting a PD like syndrome
+in susceptible laboratory animals, the signs of tremor, slow
+and decreased movement, muscular rigidity, problems in gait
+would be expected to be detected in the screening process if
+all of the appropriate studies were requested and conducted.
+John D. Doherty 9
+The available studies for paraquat, maneb, or rotenone do
+not show obvious indications of these signs at least not at
+their LOAELs in the strains tested. The histopathological ef-
+fects would probably not be so obvious within the limited as-
+sessment for histopathology in the current study guidelines
+since the substantia nigra is a relatively small section of the
+brain and would require special assessment to determine if
+there were test chemical induced changes in the dopamine
+dependent cells within it. Chronic exposure for paraquat is
+currently based on “chronic pneumonitis” in dogs with a
+conventional 100 fold uncertainty factor. Maneb is currently
+regulated for chronic exposure based on its eﬀects on the thy-
+roid in rats at the LOAEL plus a 1000 fold uncertainty factor
+including an extra 10 X because of an incomplete database.
+Endpoints for rotenone are currently being reevaluated and
+the reports of its association with PD syndrome being con-
+sidered for future testing but the current LOAEL is not based
+on indications of neuropathogenesis.
+Historically, the rat has limitations as an in vivo model
+for PD and attempts to study the eﬀects of either Mn++ or
+MPTP in this species resulted with some but limited data. A
+detailed review of the development of animal models for PD
+and other neurodegenerative diseases is beyond the scope of
+this review and there are no suitable models for incorpora-
+tion into the guidelines. Reviews of neurotoxicant induced
+models of PD in the rat have been published recently in 2004
+[44] and 2005 [45] and provide comprehensive discussions
+of the many problems associated with trying to develop an
+animal model. A review of the development of animal mod-
+els in mice has also been presented [46] and limitations of
+this species including genetically engineered strains are dis-
+cussed [47]. Factors such as the low susceptibility of rodents
+to PD like syndrome or a narrow or limited vulnerable age
+or the diﬀerences in metabolism and access to the critical
+sites by the critical form of the toxic agents as well as the cu-
+mulative eﬀects and the inﬂuence of combinations of chem-
+icals all contribute to problems in developing animal models
+for predicting a chemical’s potential to be a risk factor for
+PD.
+One important consideration in the development of an-
+imal models for PD concerns the question: what is the goal
+of the model? For example, some models are developed to
+further understand the neurochemical events associated with
+the initiation and progression of the disease in order to de-
+velop therapy. Other models may have the goal of establish-
+ing a basis for risk assessment. One of the criticisms of some
+of the developing models that they do not mimic the dis-
+ease in humans closely enough is not necessarily detrimental
+to the goal of providing data for risk assessment. This is be-
+cause if the model shows an eﬀect suggestive at all of neu-
+ropathogenesis it would be important in the hazard char-
+acterization of the chemical. Thus, genetically manipulated
+mice that spontaneously develop PD like syndrome whether
+it mimics the human condition exactly or not would be an
+important addition to the guidelines. The suspect chemicals
+could be tested in these strains to see if the spontaneous rates
+of the syndrome are increased, occur at an earlier onset time,
+or are worse in the presence of the pesticides.
+In vitro data using rat or other animal tissue preparations
+can be very useful for providing data on mechanisms but not
+always generalize to the in vivo situation. One such exam-
+ple is the eﬀect of paraquat which was suspected as caus-
+ing PD like syndrome based on its structural similarity to
+MPTP/MPP+ that does not have the same aﬃnity for the
+dopamine transporter or cause inhibition of mitochondrial
+complex I in in vitro studies indicating that paraquat has as
+eﬀect on dopamine neurons that is unique from rotenone
+and MPTP [48]. It is still possible that an NTE like model
+such as for predicting OPIDN could be developed based on
+in vitro studies. Limitations associated with in vitro models
+based on animal tissue include that in real life, exposure is
+not just to the single chemical but to complex mixtures, in
+vitro studies do not reﬂect the cumulative eﬀects of the pes-
+ticide or the temporal aspects of the initiation or progression
+of the disease.
+Another animal model for induction of PD involves mice
+and their early exposure and later challenge based on work
+with paraquat and maneb [49]. The mice exposed as fetuses
+during pregnancy were reported to be more susceptible to
+indications of PD when challenged later in life by these pes-
+ticides. This implied that an initial injury predisposed the
+animals to susceptibility in later stages of life. This model is
+based on the “Barker hypothesis” or its expanded form for
+Parkinsonism where it is postulated [50] that early exposure
+to chemicals destroys certain critical cells in the substantia
+nigra to levels below those needed to sustain function asso-
+ciated with advancing age. In these studies, combinations of
+paraquat and maneb were used assessing the mutual inﬂu-
+ence of each. The role of early life environmental risk factors
+in PD has been independently reviewed [51].
+As indicated above, a problem with attempting to assess
+for the eﬀects of pesticides as risk factors of neuropatho-
+genesis by the study guidelines is that some of the literature
+reports associating pesticides with PD imply that combina-
+tions of pesticides or other agents rather than the individual
+pesticides are the risk factors. Extensive justiﬁcation would
+be needed before studies with combinations of xenobiotics
+could be requested to provide data for risk assessment. Es-
+tablishing what combinations of chemicals should be tested,
+how long the tests should run for and what relative doses of
+each chemical to be tested would be a task in itself and inter-
+preting the data with regard to which chemical is really the
+contributing factor would be problematic.
+OTHER NEUROLOGICAL DISORDERS
+Table 1 lists Alzheimer’s disease (the most common neurode-
+generative disease), amyotrophic lateral sclerosis, autism and
+psychiatric disorders as possibly being related to pesticide
+exposure. Tests for learning and memory through the life
+cycle including the later months near study termination in
+chronic or cancer studies might be considered for incorpo-
+ration into the guidelines to attempt to assess for at least
+some aspects of Alzheimer’s disease. Alzheimer’s disease may
+have both genetic and environmental factors [52] and ani-
+mal models of Alzheimer’s disease are being developed [53]
+10 Journal of Biomedicine and Biotechnology
+but their usefulness for evaluating risk associated with pes-
+ticide exposure has not been established. Many factors may
+inﬂuence the progression of Alzheimer’s disease and a very
+recent report indicates that persons with higher levels of ed-
+ucation have faster rates of cognitive decline [54]. Animal
+models of autism are being developed [55] and the endpoints
+of (i) lower sensitivity to pain and higher sensitivity to non-
+painful stimuli, (ii) diminished acoustic prepulse inhibition,
+(iii) locomotor and repetitive/stereotypic-like hyperactivity
+combined with lower exploratory activity, and (iv) decreased
+number of social behaviors and increased latency to social
+behaviors are considered possible indicators of a drugs as-
+sociation with autism based on studies with valproic acid.
+The developmental neurotoxicity study (DNT, 870.6300) can
+assess for some of these parameters but there are no inclu-
+sions in the current guidelines for DNT studies for assessing
+social behaviors. If a pesticide caused neurological or mus-
+cular degeneration, it could possibly aggravate amyotrophic
+lateral sclerosis but would be regulated based on its NOAEL
+to be protective. Although neuropsychiatric disorders may
+not be strictly within the description of neurodegenerative
+disease, there has been a continuous debate over the pos-
+sibility that organophosphate poisoning causes neuropsy-
+chiatric sequella [40]. A review of this topic is beyond the
+scope of this manuscript. Nonguideline studies with mon-
+keys [41] with sarin have been reported to produce long-
+lasting EEG changes that are claimed to conﬁrm an earlier
+observation of changes in the human EEG patterns [42] fol-
+lowing organophosphate exposure. The persons exposed to
+sarin (a potent cholinesterase inhibitor) gas in the Tokyo
+subway incident in the mid 1990s have been assessed peri-
+odically and reports indicate possible neurological eﬀects ei-
+ther related to the gas itself of post traumatic stress disorder
+[56–58].
+OVERALL ASSESSMENT OF NEUROTOXICITY STUDY
+GUIDELINES FOR CHARACTERIZING RISK
+FOR NEUROPATHOGENICITY
+Strength of the neurotoxicity study guidelines. The neurotox-
+icity study guidelines provide a screening procedure that
+should detect pesticides that are strong inducers of neu-
+ropathogenesis in the animal strains and species tested rel-
+ative to the time of administration and ages of the tested
+animals. The guidelines are adaptable and as more and bet-
+ter techniques and models (such as genetically manipulated
+strains) are developed these models can be incorporated into
+the guidelines. Humans would have to be inherently espe-
+cially more sensitive to a neuropathological response to a pes-
+ticide or there would have to be other contributing factors
+from the real world if they were to develop neuropathological
+conditions as a result of the low level of exposure that is set by
+the selection of the most sensitive endpoint in the most sen-
+sitive species as determined by the battery of required studies
+and other available data and the application of uncertainty
+factors to drive down exposure.
+Weaknesses or limitations of the study guidelines. Several
+inherent weaknesses in the study guidelines can be identiﬁed.
+Most of these reﬂect a disparity between the stringent con-
+ditions of laboratory testing and real world exposure. These
+include the following.
+(i) Pesticides are tested individually. Thus, the interaction
+and cumulative eﬀects of the individual pesticide with the
+many other pesticides, xenobiotics, drugs, and natural food-
+stuﬀs are not assessed.
+(ii) Relatively pure strains of standardized laboratory an-
+imals are tested meaning that a neuropathological condition
+will be detected only if that particular strain is sensitive to the
+chemical. The human population is very diverse with varying
+degrees of sensitivity to a given chemical. The standardized
+strains do not have a predisposition to develop neuropatho-
+genesis such that it cannot be assessed if there is a poten-
+tial for the pesticide to accelerate the progression of a neu-
+ropathological condition once started.
+(iii) Healthy young animals on diets optimized for their
+health would be the least susceptible to a toxic insult are used
+for testing. There is a wide variation in diet and disparity in
+ages and in the level of health that makes humans possibly
+more susceptible.
+(iv) Temporal conditions are not fully evaluated such as
+early in utero and fetal exposure aﬀecting the animal to be
+more sensitive to an insult by the chemical in the later phases
+of its life.
+(v) Neuropathogenesis may result from the destruction
+of only a very small structure of the brain (ie, the pars com-
+pacta of the substantia nigra) and such changes in structure
+may be missed in routine histopathological assessment of the
+brain. This is an important concept since the laboratory an-
+imal may have a higher tolerance to destruction of the brain
+area than the human and the animal may not show clinical
+signs until there is a major destruction but the human may
+show clinical signs after only minimal or moderate destruc-
+tion.
+(vi) Laboratory animals are not the same as humans. De-
+tection of neuropathogenesis in animals does not mean that
+the human will develop the same lesion. Conversely, failure
+of animals to develop a neuropathological condition does not
+mean that the human will.
+All of the factors above for weaknesses or limitations ap-
+ply in to the study guidelines in general such as for assessing
+for cancer and developmental toxicity and these limitations
+are well recognized. In essence, studies conducted following
+the guidelines, as imperfect as they may be, plus other avail-
+able data are what risk assessments are based on. Epidemio-
+logical data come later.
+SUMMARY
+Pesticides are individually tested in a series of studies with
+established guidelines with laboratory animals to determine
+if they have the potential for neuropathogenicity. Thus, the
+neuropathological eﬀects of chemicals that are strong induc-
+ers of neuropathogenesis in the species of animals tested and
+if tested at the critical susceptible times will be detected in
+the battery of studies required for registration and reregis-
+tration. Additional testing in animals can be conducted based
+John D. Doherty 11
+on suggestions of neuropathogenesis from existing studies or
+based on structure activity relationships to further charac-
+terize a neuropathological condition possibly associated with
+the pesticide. Currently, the endpoints determined by the
+completed battery of required and other studies and the use
+of uncertainty factors in risk assessment are designed to pro-
+vide a reasonable protection against possible neuropathogen-
+esis of pesticides to humans. If humans are uniquely suscep-
+tible or the timing for test chemical administration in the
+animal studies is not appropriate, or if the pesticide must
+interact with other chemicals, potential eﬀects in humans
+could be missed but the inclusion of the uncertainty factors
+is designed to protect against such possibilities by driving
+down exposure. The discovery that humans are susceptible to
+OPIDN resulted from accidental exposure to an organophos-
+phate led to the development of the hen model for OPIDN
+testing which is the only model for neuropathy that is pur-
+posefully assessed for in routine screening studies. Had this
+accident not happened, there might be an occasional incident
+of persons developing the OPIDN syndrome today without
+knowing its cause. The OPIDN model is unlike the major
+human neurodegenerative diseases since OPIDN starts soon
+after exposure while Parkinson’s and Alzheimer’s may require
+long intervals between exposures and onset or they may re-
+quire a natural onset before pesticides can facilitate their pro-
+gression. Therefore, the possibility that pesticide exposures
+can be risk factors for neurodegenerative diseases needs to
+be considered in epidemiological models, whether alone or
+in combination with other factors. Development of animal
+models to more completely assess for possible relationships
+between pesticide exposure and neurodegeneration in hu-
+mans need to be developed and validated to render data use-
+ful for risk assessment. Animal models with strains genet-
+ically engineered to be susceptible to known human neu-
+rodegenerative diseases may eventually be developed and val-
+idated and be important additions to the guidelines for neu-
+rotoxicity assessment.
+ACKNOWLEDGMENTS
+This manuscript reﬂects the perspective of the author and
+does not imply policy of the US Environmental Protection
+Agency. The author greatly appreciates the editorial com-
+ments and stimulating discussion provided by Dr Louis
+Scarano.
+REFERENCES
+[1] Langston JW. The etiology of Parkinson’s disease with empha-
+sis on the MPTP story. Neurology. 1996;47(6 suppl 3):S153–
+S160.
+[2] Chu N-S, Huang C-C, Calne DB. Manganese. In: Spencer PS,
+Schaumburg HH, Ludolph AC, eds. Experimental and Clin-
+ical Neurotoxicology. 2nd ed. New York, NY: Oxford Press;
+2000:752–755.
+[3] Kiely T, Donaldson D, Grube A. Pesticide Industry Sales and
+Usage: 2000 and 2001 Market Estimates. 2004. Published by
+Biological and Economic Analysis Division, Oﬃce of Pesti-
+cide Programs Oﬃce of Prevention, Pesticides and Toxic Sub-
+stances, U.S. Environmental Protection Agency, Washington,
+DC 20460.
+[4] Ecobichon DJ. Toxic eﬀects of pesticides. In: Klassen CD, ed.
+Casarett and Doull’s Toxicology: The Basic Science of Poisons.
+5th ed. New York, NY: McGraw Hill; 1996:643–689.
+[5] EPA. 1998. OPPTS Harmonized Test Guidelines Series 870
+Health Eﬀects. United States Environmental Protection Agen-
+cy, Oﬃce of Prevention, Pesticides and Toxic Substances,
+Washington, DC. 20460. http://www.epa.gov/pesticides (See
+under Science and Policy- Test Guidelines).
+[6] EPA. 2002. A Review of the reference dose and reference con-
+centration processes. Risk Assessment Forum Report dated
+December 2002.
+[7] Shu XO, Linet MS, Gao RN, et al. Chloramphenicol use and
+childhood leukaemia in Shanghai. Lancet. 1987;2(8565):934–
+937.
+[8] Maurissen JP, Marable BR. Neurotoxicity test validation, posi-
+tive controls and proﬁciency: are chemicals necessary? Neuro-
+toxicology and Teratology. 2005;27(4):545–551.
+[9] Abou-Donia MB. Organophosphorus ester-induced chronic
+neurotoxicity. Archives of Environmental Health. 2003;58(8):
+484–497.
+[10] Smith MI, Lillie RD. The histopathology of triorthocresyl
+phosphate poisoning. The etiology of so-called ginger paral-
+ysis (third report). Archives of Neurology and Psychiatry. 1931;
+26:976–992.
+[11] Bidstrup PL, Bonnell JA, Beckett AG. Paralysis following poi-
+soning by a new organic phosphorus insecticide (mipafox); re-
+port on two cases. British Medical Journal. 1953;1(4819):1068–
+1072.
+[12] Abou-Donia MB. Organophosphorus ester-induced delayed
+neurotoxicity. Annual Review of Pharmacology and Toxicology.
+1981;21:511–548.
+[13] Xintaris C, Burg JR, Tanaka S, et al. Occupational exposure to
+leptophos and other chemicals. 1978. Washington, DC,
+DHEW (NIOSH) Publication no.: 78-136. US Government
+Printing Oﬃce.
+[14] Johnson MK. Delayed neurotoxicity tests of organophospho-
+rus esters: a proposed protocol integrating neuropathy target
+esterase (NTE) assays with behavior and histopathology tests
+to obtain more information more quickly from fewer animals.
+In: Proceedings of the International Congress on Environmen-
+tal Hazards of Agrochemicals in Developing Countries. Vol 1;
+1983; Alexandria, Egypt. 474–493.
+[15] Johnson MK, Barnes JM. Age and the sensitivity of chicks to
+the delayed neurotoxic eﬀects on some organophosphorus
+compounds. Biochemical Pharmacology. 1970;19(12):3045–
+3047.
+[16] De Oliveira GH, Moreira V, Goes SPR. Organophosphate in-
+duced delayed neuropathy in genetically dissimilar chickens:
+studies with tri-ortho-cresyl phosphate (TOCP) and trichlor-
+fon. Toxicology Letters. 2002;136(2):143–150.
+[17] Parkinson’s Disease Foundation. 2004. Symptoms, http://
+www.pdf.org/AboutPD/symptoms.cfm
+[18] Dawson TM, Dawson VL. Molecular pathways of neurodegen-
+eration in Parkinson’s disease. Science. 2003;302(5646):819–
+822.
+[19] Tanner CM, Ottman R, Goldman SM, et al. Parkinson disease
+in twins: an etiologic study. Journal of the American Medical
+Association. 1999;281(4):341–346.
+[20] Cory-Slechta DA, Thiruchelvam M, Barlow BK, Richﬁeld
+EK. Developmental pesticide models of the Parkinson disease
+12 Journal of Biomedicine and Biotechnology
+phenotype. Environmental Health Perspectives. 2005;113(9):
+1263–1270.
+[21] Liou HH, Tsai MC, Chen CJ, et al. Environmental risk factors
+and Parkinson’s disease: a case-control study in Taiwan. Neu-
+rology. 1997;48(6):1583–1588.
+[22] Woodward G. Autism and Parkinson’s disease. Medical Hy-
+potheses. 2001;56(2):246–249.
+[23] Baldi I, Lebailly P, Mohammed-Brahim B, Letenneur L, Dar-
+tigues J-F, Brochard P. Neurodegenerative diseases and expo-
+sure to pesticides in the elderly. American Journal of Epidemi-
+ology. 2003;157(5):409–414.
+[24] Barlow BK, Richﬁeld EK, Cory-Slechta DA, Thiruchelvam M.
+A fetal risk factor for Parkinson’s disease. Developmental Neu-
+roscience. 2004;26(1):11–23.
+[25] Firestone JA, Smith-Weller T, Franklin G, Swanson P,
+Longstreth WT Jr, Checkoway H. Pesticides and risk of Parkin-
+son disease: a population-based case-control study. Archives of
+Neurology. 2005;62(1):91–95.
+[26] Takahashi RN, Rogerio R, Zanin M. Maneb enhances MPTP
+neurotoxicity in mice. Research Communications in Chemical
+Pathology and Pharmacology. 1989;66(1):167–170.
+[27] Walters TL, Irwin I, Delfani K, Langston JW, Janson AM. Di-
+ethyldithiocarbamate causes nigral cell loss and dopamine de-
+pletion with nontoxic doses of MPTP. Experimental Neurology.
+1999;156(1):62–70.
+[28] Sherer TB, Kim J-H, Betarbet R, Greenamyre JT. Subcuta-
+neous rotenone exposure causes highly selective dopaminergic
+degeneration and α-synuclein aggregation. Experimental Neu-
+rology. 2003;179(1):9–16.
+[29] Betarbet R, Sherer TB, MacKenzie G, Garcia-Osuna M, Panov
+AV, Greenamyre JT. Chronic systemic pesticide exposure re-
+produces features of Parkinson’s disease. Nature Neuroscience.
+2000;3(12):1301–1306.
+[30] Sherer TB, Betarbet R, Stout AK, et al. An in vitro model of
+Parkinson’s disease: linking mitochondrial impairment to al-
+tered α-synuclein metabolism and oxidative damage. Journal
+of Neuroscience. 2002;22(16):7006–7015.
+[31] Doherty JD, Salem N Jr, Lauter CJ, Trams EG. Mn2+
+-
+stimulated ATPase in rat brain. Neurochemical Research. 1983;
+8(4):493–500.
+[32] Fleming L, Mann JB, Bean J, Briggle T, Sanchez-Ramos JR.
+Parkinson’s disease and brain levels of organochlorine pesti-
+cides. Annals of Neurology. 1994;36(1):100–103.
+[33] Miller GW, Kirby ML, Levey AI, Bloomquist JR. Heptachlor
+alters expression and function of dopamine transporters. Neu-
+roToxicology. 1999;20(4):631–637.
+[34] Corrigan FM, Wienburg CL, Shore RF, Daniel SE, Mann D.
+Organochlorine insecticides in substantia nigra in Parkinson’s
+disease. Journal of Toxicology and Environmental Health - Part
+A. 2000;59(4):229–234.
+[35] Di Monte DA. The environment and Parkinson’s disease: is
+the nigrostriatal system preferentially targeted by neurotoxins?
+Lancet Neurology. 2003;2(9):531–538.
+[36] Cannas A, Costa B, Tacconi P, Pinna L, Fiaschi A. Dementia of
+Alzheimer type (DAT) in a man chronically exposed to pesti-
+cides. Acta Neurologica. 1992;14(3):220–223.
+[37] Gauthier E, Fortier I, Courchesne F, Pepin P, Mortimer J, Gau-
+vreau D. Environmental pesticide exposure as a risk factor for
+Alzheimer’s disease: a case-control study. Environmental Re-
+search. 2001;86(1):37–45.
+[38] Burns CJ, Beard KK, Cartmill JB. Mortality in chemical
+workers potentially exposed to 2,4-dichlorophenoxyacetic acid
+(2,4-D) 1945-94: an update. Occupational and Environmental
+Medicine. 2001;58(1):24–30.
+[39] McGuire V, Longstreth WT Jr, Nelson LM, et al. Occupational
+exposures and amyotrophic lateral sclerosis: a population-
+based case-control study. American Journal of Epidemiology.
+1997;145(12):1076–1088.
+[40] Jamal GA, Hansen S, Julu POO. Low level exposures to
+organophosphorus esters may cause neurotoxicity. Toxicology.
+2002;181-182:23–33.
+[41] Van Helden HPM, Vanwersch RAP, Kuijpers WC, Trap HC,
+Philippens IHC, Benschop HP. Low levels of sarin aﬀect the
+EEG in marmoset monkeys: a pilot study. Journal of Applied
+Toxicology. 2004;24(6):475–483.
+[42] Duﬀy FH, Burchﬁel JL, Bartels PH, Gaon M, Sim VM.
+Long-term eﬀects of an organophosphate upon the human
+electroencephalogram. Toxicology and Applied Pharmacology.
+1979;47(1):161–176.
+[43] Li AA, Mink PJ, McIntosh LJ, Teta MJ, Finley B. Evaluation
+of epidemiologic and animal data associating pesticides with
+Parkinson’s disease. Journal of Occupational and Environmen-
+tal Medicine. 2005;47(10):1059–1087.
+[44] Uversky VN. Neurotoxicant-induced animal models of
+Parkinson’s disease: understanding the role of rotenone,
+maneb and paraquat in neurodegeneration. Cell and Tissue Re-
+search. 2004;318(1):225–241.
+[45] Bov´e J, Prou D, Perier C, Przedborski S. Toxin-induced models
+of Parkinson’s disease. NeuroRx. 2005;2(3):484–494.
+[46] Fleming SM, Fernagut P-O, Chesselet M-F. Genetic mouse
+models of Parkinsonism: strengths and limitations. NeuroRx.
+2005;2(3):495–503.
+[47] Chesselet M-F. Animal models of neurological disorders (an
+editorial). NeuroRx. 2005;2(3):395.
+[48] Richardson JR, Quan Y, Sherer TB, Greenamyre JT, Miller
+GW. Paraquat neurotoxicity is distinct from that of MPTP and
+rotenone. Toxicological Sciences. 2005;88(1):193–201.
+[49] Thiruchelvam M, Richﬁeld EK, Goodman BM, Baggs RB,
+Cory-Slechta DA. Developmental exposure to the pesticides
+paraquat and maneb and the Parkinson’s disease phenotype.
+NeuroToxicology. 2002;23(4-5):621–633.
+[50] Landrigan PJ, Sonawane B, Butler RN, Trasande L, Callan
+R, Droller D. Early environmental origins of neurodegener-
+ative disease in later life. Environmental Health Perspectives.
+2005;113(9):1230–1233.
+[51] Logroscino G. The role of early life environmental risk fac-
+tors in Parkinson disease: what is the evidence? Environmental
+Health Perspectives. 2005;113(9):1234–1238.
+[52] Gatz M, Reynolds CA, Fratiglioni L, et al. Role of genes and en-
+vironments for explaining Alzheimer disease. Archives of Gen-
+eral Psychiatry. 2006;63(2):168–174.
+[53] Spires TL, Hyman BT. Transgenic models of Alzheimer’s dis-
+ease: learning from animals. NeuroRx. 2005;2(3):423–437.
+[54] Scarmeas N, Albert SM, Manly JJ, Stern Y. Education and rates
+of cognitive decline in incident Alzheimer’s disease. Journal of
+Neurology, Neurosurgery and Psychiatry. 2006;77(3):308–316.
+[55] Schneider T, Przewlocki R. Behavioral alterations in rats pre-
+natally exposed to valproic acid: animal model of autism. Neu-
+ropsychopharmacology. 2005;30(1):80–89.
+[56] Miyaki K, Nishiwaki Y, Maekawa K, et al. Eﬀects of sarin on
+the nervous system of subway workers seven years after the
+John D. Doherty 13
+Tokyo subway sarin attack. Journal of Occupational Health.
+2005;47(4):299–304.
+[57] Kawada T, Katsumata M, Suzuki H, et al. Insomnia as a sequela
+of sarin toxicity several years after exposure in Tokyo subway
+trains. Perceptual and Motor Skills. 2005;100(3 II):1121–1126.
+[58] Ohtani T, Iwanami A, Kasai K, et al. Post-traumatic stress
+disorder symptoms in victims of Tokyo subway attack: a 5-
+year follow-up study. Psychiatry and Clinical Neurosciences.
+2004;58(6):624–629.
+

@@ -1,0 +1,1704 @@
+Hindawi Publishing Corporation
+Journal of Biomedicine and Biotechnology
+Volume 2011, Article ID 214143, 15 pages
+doi:10.1155/2011/214143
+Review Article
+Myelodysplastic Syndrome and Histone Deacetylase Inhibitors:
+“To Be or Not to Be Acetylated”?
+Sebastian Stintzing,1 Ralf Kemmerling,2 Tobias Kiesslich,3 Beate Alinger,2
+Matthias Ocker,4 and Daniel Neureiter2
+1
+Medical Department III, Klinikum Grosshadern, Ludwig Maximilians University of Munich, Marchioninistraße 15,
+81377 Munich, Germany
+2 Institute of Pathology, Paracelsus Medical University/Salzburger Landeskliniken (SALK), M¨ullner Hauptstrasse 48,
+5020 Salzburg, Austria
+3
+Department of Internal Medicine I, Paracelsus Medical University/Salzburger Landeskliniken (SALK), M¨ullner Hauptstrasse 48,
+5020 Salzburg, Austria
+4
+Philipps University of Marburg, Baldingerstrasse, 35032 Marburg, Germany
+Correspondence should be addressed to Daniel Neureiter, d.neureiter@salk.at
+Received 13 July 2010; Accepted 3 March 2011
+Academic Editor: Patrick Matthias
+Copyright © 2011 Sebastian Stintzing et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Myelodysplastic syndrome (MDS) represents a heterogeneous group of diseases with clonal proliferation, bone marrow failure
+and increasing risk of transformation into an acute myeloid leukaemia. Structured guidelines are developed for selective therapy
+based on prognostic subgroups, age, and performance status. Although many driving forces of disease phenotype and biology are
+described, the complete and possibly interacting pathogenetic pathways still remain unclear. Epigenetic investigations of cancer
+and haematologic diseases like MDS give new insights into the pathogenesis of this complex disease. Modiﬁcations of DNA or
+histones via methylation or acetylation lead to gene silencing and altered physiology relevant for MDS. First clinical trials give
+evidence that patients with MDS could beneﬁt from epigenetic treatment with, for example, DNA methyl transferase inhibitors
+(DNMTi) or histone deacetylase inhibitors (HDACi). Nevertheless, many issues of HDACi remain incompletely understood and
+pose clinical and translational challenges. In this paper, major aspects of MDS, MDS-associated epigenetics and the potential use
+of HDACi are discussed.
+1. Introduction
+Myelodysplastic syndromes (MDS) represent a heteroge-
+neous spectrum of haematopoietic disorders ranging from
+ineffective haematopoiesis with cytopenia to progressive
+haematopoiesis with transition to acute myeloid leukaemia
+showing morphological and functional abnormalities of
+haematopoietic cells [1–3].
+Due to diﬃculties in diagnosis and classiﬁcation, epide-
+miological analyses report diﬀerent incidence rates [4]. Nev-
+ertheless, it has been observed that intensive cancer therapeu-
+tic regimes lead to higher incidence rates of secondary forms
+of MDS [5]. As reviewed by Corey et al. [6] and Bernas-
+coni [7], pathogenetic concepts favoured (i) chromosomal
+alterations and (ii) gain- and loss-of-function of proto-
+oncogenes and suppressor genes as well as (iii) disturbance
+of mitochondrial energy pathway and associated apoptosis.
+Although good progress was done to develop well-deﬁned
+step-by-step pathogenetic models such as in colorectal cancer
+[8–11], the heterogeneous morphological spectrum and
+diﬀerent clinical course of MDS remains poorly understood.
+Therefore, diﬀerent subgroups of MDS with their char-
+acteristic cytogenetic, molecular, and immunological ab-
+normalities were deﬁned by international prognostic scoring
+systems such as the FAB (French American British) and the
+WHO classiﬁcation to help to adequately stratify therapeutic
+regimens [1, 3, 12]. As described, the primary goal of
+treatment is haematological improvement in cases with
+2 Journal of Biomedicine and Biotechnology
+low-risk MDS and targeting the underlying disease in cases
+with high-risk MDS [13]. Recently, experimental and clinical
+investigations revealed that epigenetic processes could play
+a key role in MDS and could be innovative targets for
+therapeutic approaches [14–18].
+We therefore want to give a comprehensive survey of
+MDS in the frame of epigenetics with focuses on clinical,
+pathogenic, and therapeutic issues.
+2. A Survey of Myelodysplastic Syndrome (MDS)
+2.1. A Short Introduction to the Deﬁnition, Classiﬁcation (with
+Prognostic Groups), Epidemiology, and Aetiology. According
+to the WHO, the myelodysplastic syndrome (MDS) is de-
+ﬁned as a heterogeneous disease group with cytopenia due to
+ineﬀective haematopoiesis and with dysplastic morphologi-
+cal changes in one or more of the myeloid cell lineages and
+associated risk to progression into acute myeloid leukaemia
+[1–3].
+Based on “characteristic” dysplastic features of haemato-
+poietic cells (in the bone marrow as well as in the peripheral
+blood) [19–21] ﬁve “speciﬁc” subgroups of the MDS were
+distinguished [1, 22], which could be more sophistically sub-
+classiﬁed by integrating speciﬁc cytogenetic investigations
+such as MDS with deletion of chromosome 5q done by the
+WHO in 2008 (as reviewed in detail [2, 3, 22]). Established
+MDS prognostic groups of low, intermediate I and II as well
+as of high risk (like the international prognostic scoring sys-
+tem (IPSS)) could identify the individual life risk and could
+be helpful for therapeutic decisions implementing blast
+count (according to the WHO classiﬁcation), the number of
+cytopenias and cytogenetic ﬁndings [12] as well as parameter
+of red blood cell transfusion [23]. Interestingly, molecular
+alterations that are linked to speciﬁc signalling pathways of
+MDS like signalling and diﬀerentiation, cell cycle regulations,
+apoptosis, and translation are not integrated into the existing
+scoring system until now reﬂecting the morphological and
+molecular heterogeneity of this haematological entity [13, 22,
+23].
+MDS could be observed primarily de novo or after radi-
+ation or chemotherapy (especially in patients treated with
+alkylating agents or topoisomerase II inhibitors) as so-called
+secondary or therapy-associated form of MDS [5, 24–27].
+Epidemiological data indicate that especially primary forms
+of MDS increase with the age of patients [28]: several authors
+reported an overall incidence rate of MDS ranging between
+3.5 to 12.6 per 100,000 population per annum [29–31].
+Ageing of the population in the Western world [32–34]
+and the extensive use of chemo- and radiotherapy for the
+treatment of malignant tumours [4, 24, 28, 35] will increase
+the incidence of MDS. Therefore, MDS becomes an impor-
+tant sociomedical issue, as epidemiological investigations
+revealed an age-speciﬁc increase of incidence between the age
+group of below 70 and above 70 years from 4.9 to 22.8 [36],
+1.6 to 15.0 [30], or 15.0 to 49.0 [31], comparable to our own
+investigations [35].
+As discussed above, the linkage between chemothera-
+py/radiotherapy and therapy-associated MDS is well known.
+Yet, knowledge about the aetiology of the large majority
+of de novo MDS is not fully conclusive, since some of the
+postulated risk factors for MDS (such as hair dyes, alcohol,
+and viral disease) showed only a weak or no association
+with MDS compared to accepted risk factors like solvents,
+cigarette smoking, and radiation [4, 37]. The inheritance of
+susceptibility genes is still unclear. Two commonly deleted
+segments, 5q31 and 7q22, were identiﬁed by cytogenetic
+analysis, which contains tumour-suppressor genes, and are
+therefore critical regions to MDS development, which could
+be inherited (germline) or induced by antitumour-therapy
+(somatic) as reviewed in [38, 39]. Finally, a small percentage
+of MDS in adults and in children is associated with genetic
+disorders such as Fanconi anaemia, Bloom syndrome,
+Diamond-Blackfan syndrome as well as Down syndrome,
+Shwachman-Diamond syndrome, and neuroﬁbromatosis
+[6].
+2.2. Pathogenetic Insights. As reviewed in detail by Corey
+et al. [6], Bernasconi [7] and Nimer [18] common and
+distinct pathways are involved in the pathogenesis of MDS,
+which could be summarized by (i) chromosomal/genetic
+alterations and molecular defects, (ii) disturbance of the
+microenvironment, and (iii) deregulation of apoptosis as
+discussed in detail below (see also Figure 1).
+2.2.1. The Stem Cell Genetic Defect. Cytogenetic investiga-
+tions revealed a broad range of defects which are linked to
+speciﬁc biological, clinical, and therapeutic features of MDS
+as reviewed in detail elsewhere [7]. Overall, chromosomal
+abnormalities could be detected in about 40–60% of primary
+and in about 70–90% of secondary forms of MDS ranging
+from balanced/unbalanced chromosomal rearrangements to
+speciﬁc chromosomal abnormalities such as Del(5q), −7,
+Del(7q), +8, Del(20q), −Y, 17p rearrangements, 11q23
+translocations as well as complex karyotypes (≥3 defects) [7,
+10, 39]. Compared to AML, more deletions and numerical
+defects than translocations were observed in MDS, which
+go along with nonclonal defects indicating a diﬀerent
+pathogenesis in MDS compared to AML [40, 41]. The role
+of these chromosomal abnormalities for MDS still remains
+unclear, since “typical” class I and II mutations in the
+leukemic transformation of AML are missing in MDS [7,
+10, 39], normal and abnormal karyotypes are observed side-
+by-side in bone marrow of patients with MDS and, ﬁnally,
+chromosomal aberrations are found more often in late than
+early stages of MDS [42].
+Looking on molecular defects in MDS, multiple genes
+are aﬀected such as CDKN2B, EVI1, IRF1, NRAS, TP53,
+FLT3, and MLL (in decreasing incidence according to [10])
+by mutations, deletions, ectopic expression, or promoter
+methylation which could inﬂuence the expression of tumour
+suppressor genes, if genetic or epigenetic alterations of the
+other allele occurred as postulated by Knudson’s hypothesis
+[43].
+Based on the knowledge that the described genetic defect
+in MDS could be both somatic and/or germline-associated
+[44–46], the genetic heterogeneity of MDS demand for
+Journal of Biomedicine and Biotechnology 3
+Normal
+stem cell
+Apoptosis
+Diﬀerentiation
+Dysplastic hemopoiesis
+Peripheral cytopenias Peripheral cytopenias
+No expansion of blasts
+Apoptosis
+Diﬀerentiation
+Proliferation
+Dysplastic hemopoiesis
+Expansion of blasts
+Malignancy
+AML
+Late stage
+MDS
+Early stage
+MDS
+Insult:
+chemicals
+radiation
+(age)
+1st alteration:
+cell cycle
+transcription
+2nd alteration:
+hypermethylation
+tumor suppressors
+oncoproteins
+GSH-JNK pathway
+Diﬀerentiation arrest
+Neoangiogenesis
+Cytokine milieu
+Increased apoptosis
+Leukemic transformation
+5q deletion
+MAPK signalling
+Immune dysregulation
+FLT3 mutation
+Epigenetic events
+Tel/PDGFRB fusion
+Iron overload
+Cytopenias
+GSH-analogues
+RA, Vit-D
+Arsenicals
+Thalidomide, anti-VEGF
+Anti-TNF-α
+Chemotherapy, allogeneic SCT
+Lenalidomide
+MAPK inhibitors
+Antithymocyte globulin, cyclosporine
+Farnesyltransferase inhibitors
+DMTi, HDACi
+Imatinib mesylate
+Chelation therapy
+Erythropoiesis stimulation
+Thrombopoietic growth factors
+GCSF
+Aﬀected
+pathways and genes
+Drug
+strategies
+Disease progression
+Figure 1: Pathophysiological mechanisms involved in MDS and points of action for possible therapy approaches. Abbreviations: AML:
+acute myeloid leukaemia; GCSF: granulocyte colony-stimulating factor; GSH: glutathione; MAPK: mitogen-activated protein kinase; MDS:
+myelodysplastic syndrome; PDGFR: platelet-derived growth factor receptor; RA: retinoic acid; SCT: stem cell transplantation; TNF: tumour
+necrosis factor; VEGF: vascular-endothelial growth factor.
+cytogenetic analysis in each individual case to evaluate the
+risk of heredity and of disease-progression as well as to
+develop better therapeutic options [47].
+2.2.2. The Role of the Microenvironment. It was shown that
+abnormalities of the bone marrow microenvironment play
+a role in the pathogenesis of MDS by abnormal expression
+levels of cytokines such as interleukin 1β, interleukin 6,
+and tumour necrosis factor (TNF)-α [48, 49]. In detail,
+there is evidence that an enhanced TNF-α expression
+induced resistance of MDS cells to the proapoptotic eﬀects
+of TNF-α leading to proliferation and progression [50].
+Additionally, deregulation of proangiogenesis factors (like
+vascular endothelial growth factor (VEGF)) promotes an
+enhanced self-renewal and cytokine elaboration [51]. In
+contrast to the ﬁndings on VEGF, the expression of matrix
+metalloproteinases (MMP) (especially MMP2 and MMP9)
+in monocytes correlated with an increased apoptotic rate and
+longer overall survival in MDS patients [52].
+2.2.3. Apoptosis Deregulation. Deregulation of apoptotic
+processes is mainly observed in early stages of MDS,
+whereas a deregulation of proliferation is found in advanced
+MDS. This is supported by the investigation of apoptosis-
+associated markers (ligands and receptors) as reviewed by
+Bernasconi [7]. In low-risk MDS, an upregulation of Apo 2.7,
+TRAIL, FAS/CD95, p38, TNFR1, CFLARs and Erk1/2 and
+downregulation of bcl-2, TNFR2, CFLARL, NF-κB, and AKT
+were found, whereas in high-risk MDS a diametric expres-
+sion pattern was observed. Apoptosis can be inﬂuenced
+diﬀerentially by cytogenetic defects and by cytokine disar-
+rangement of the stromal cell compartments. For instance,
+MDS associated with aneuplodies (such as three copies of
+chromosome 8) presents a signiﬁcantly higher percentage
+of apoptotic CD34+ cells. Furthermore, MDS cells with
+isolated deletion of chromosome 5q showed a G0/G1 arrest
+through the antiproliferative eﬀect of lenalidomide by the
+adjustment of growth and diﬀerentiation signals inside the
+bone marrow environment [41]. Finally, extrinsic apoptotic
+pathways could be deregulated by uncontrolled upregulation
+of apoptosis-associated proteins like FAS/CD95, TNFα, or
+TRAIL ligands [53].
+2.2.4. Molecular Signals for MDS Progression towards AML.
+What are the essential molecular signals promoting MDS
+towards AML? Experimental ﬁndings investigating apoptotic
+deregulation suggest a continuous switch from predominant
+proapoptotic to a more proproliferative status of MDS
+cells [6, 7]. Transcriptional pathways essentially involved in
+this process are the RELA/NFKB1 and the PI3KC2A/AKT1
+signal transduction axis [54, 55]. In short, proinﬂammatory
+cytokines (such as TNFα, TRAIL, and FAS/CD95) activate
+the CHUK/IKBKB complex with consecutive release and
+nuclear translocation of RELA and NFKB1 along with
+activation of genes being associated with cell growth, diﬀer-
+entiation, inﬂammation, and apoptosis [7].
+In summary, our knowledge of (i) these speciﬁc molec-
+ular abnormalities in the haematopoietic cells in MDS as
+well as of (ii) immune deregulation and of (iii) abnormal
+bone marrow environment in MDS is sophisticated [8–11]
+(see also Figure 1) and could not explain the heterogeneous
+4 Journal of Biomedicine and Biotechnology
+morphological and clinical presentation of this complex dis-
+ease. Additionally, mouse models of MDS currently available
+are not suited to reﬂect all of the features of MDS [56–
+58]. Taken together, the diﬀerentiation as well as prolifera-
+tion/survival is impaired in MDS with potency to progres-
+sion to AML due to an unknown second hit event [18].
+2.3. Therapeutic Approaches. Standardised therapeutic strat-
+iﬁcations were established depending on the prognostic
+subgroups and with respect to age and performance status of
+the patients (see also Table 1). The therapeutic aims are: (i)
+a haematological improvement in low-risk and (ii) altering
+natural disease course in high-risk MDS disease subgroups.
+Additional information on clinical and molecular features
+(as mentioned above) will lead to a tailored, individualised
+decision management for therapy in future (see Figure 1).
+Until now, internationally approved drugs to treat
+patients with MDS are erythropoietin, darbepoeitin, leno-
+grastim (G-CSF), 5-azacytidine, decitabine, anti-thymocyte
+globulin, cyclosporine, lenalidomide, deferasirox, and defer-
+oxamine [13].
+In short, the mechanistic aspects of these currently
+available treatment options are explained.
+(i) In the “best supportive care” setting erythropoietin,
+darbepoeitin and lenograstim (G-CSF) act as classical
+hematopoietic growth factors stimulating normal
+residual hematopoiesis, whereby additional eﬀects
+of these drugs such as inducing diﬀerentiation of
+dysplastic hematopoiesis via blocking of apoptosis
+are discussed [61, 62].
+(ii) The chelation therapy with deferasirox and deferox-
+amine has the intention to reduce the transfusional
+iron overload associated with organ dysfunction due
+to chronic anaemia in MDS by mobilization of organ
+iron deposit and increased secretion of urinary iron
+[63, 64].
+(iii) Anti-thymocyte globulin, cyclosporine, and lenalido-
+mide have similar immune modulatory proper-
+ties interacting with deregulated lymphocytes (such
+as CD4/CD8 ratio or T-cell receptor repertoire)
+observed in MDS. Additionally, anti-thymocyte glob-
+ulin and lenalidomide target changes in bone marrow
+microenvironment in MDS through antiangiogenic
+and antiproliferative capacities via modifying inte-
+grin and chemokine networks. Especially, lenalido-
+mide has the property for direct clonal suppression
+of myelodysplastic clones with isolated deletion of
+chromosome 5q [40, 41, 65, 66].
+(iv) The transcriptional modifying therapy contains the
+two hypomethylating agents 5-azacytidine and
+decitabine. These two drugs are analogues of the
+pyramidine nucleoside cytidine and are integrated
+into RNA (5-azacytidine) or DNA (both), inducing
+progressive loss of methylation by covalently bind-
+ing to DNA methyltransferases which are critical
+components of the epigenetic network inside normal
+and uncontrolled proliferation and diﬀerentiation
+[15, 67].
+This heterogeneous list of drugs mirrors the diﬀerent
+pharmacological approaches according to the stages and
+pathomechanisms of MDS. The development of new stan-
+dardised guidelines for treatment of MDS as done by the
+National Comprehensive Cancer Network (NCCC) is there-
+fore urgently needed (to view the most recent and complete
+version of the guidelines, see also http://www.nccn.org/)
+integrating ongoing response ﬁndings of clinical trials (e.g.
+based on epigenetic approaches [14, 16, 18, 68]).
+2.3.1. Lower Risk MDS. According to the NCCC practical
+guidelines for patients with low-risk MDS, a supportive care
+for symptomatic anaemia and thrombocytopenia is manda-
+tory to additional therapy depending on detectable genetic
+abnormalities. In cases of del(5q) and other cytogenetic
+abnormalities, treatment with lenalidomide is indicated. In
+case of no response and all other remaining cases, the deci-
+sion of treatment with azacytidine, decitabine, antithymo-
+cytes globulin, cyclosporine, or again lenalidomide depends
+on the serum erythropoietin levels (<>500mU/mL) as
+described in detail on the NCCC homepage. Additionally, the
+iron overload should be reduced by the use of iron chelators
+to reduce the risk of cardiac dysfunction.
+2.3.2. Higher Risk MDS. According to the NCCC practical
+guidelines for patients with high-risk MDS, the intensity of
+treatment depends on the performance status of the patient
+and eligibility for allogenic haematopoietic stem cell trans-
+plantation (HSTT). Since the majority of patients with high-
+risk MDS are relatively old (>70 yr), most of these patients
+are not possible candidate for high intensity induction
+chemotherapy and consecutive allogeneic HSTT and there-
+fore receive azacytidine (preferred)/decitabine. The experi-
+ence with allogeneic HSTT are disillusioning, since the
+response rate of allogeneic HSTT is generally low in com-
+parison to de novo AML [69, 70]. Newer decision pathways
+for allogeneic HSTT as well as new induction regimes (such
+as reduced intensity conditioning) are in development to
+improve this high-intensity therapy [13].
+Additionally, new therapies with heterogeneous phar-
+macological approaches for MDS are currently developed
+and investigated in ongoing clinical trials targeting selec-
+tive pathways within the pathogenesis of MDS showing
+encouraging results and oﬀering durable beneﬁt to patients
+with MDS. These new drugs could be sorted according the
+targeted mechanism [68, 71, 72]: (i) interaction with survival
+signals such as antiangiogenesis, receptor tyrosine kinase
+inhibitors, protein kinase C inhibitors, matrix metallopro-
+tease inhibitors, and farnesyl transferase inhibitors and (ii)
+interaction with genetic integrity such as immunoconjugate
+and P-glycoprotein antagonists.
+Additionally, an alternative, potential, and promising ap-
+proach could consist in the application of agents aﬀecting
+epigenetic pathomechanisms, including histone deacety-
+lase inhibitors (HDACi) such as vorinostat (SAHA), val-
+proic acid, entinostat (MS275/SDX275), or panobinostat
+Journal of Biomedicine and Biotechnology 5
+Table 1: Therapeutic strategies in MDS depending of risk stratifying (adapted from [59, 60]).
+Low-risk MDS High-risk MDS
+Survival 3–10 years <1.5 years
+Risk of AML transformation Low rate High rate
+WHO entities
+RA, RARS, RCUD, RCMD, MDS-U, MDS
+del(5q)
+RAEB (−1, −2)
+IPSS Score (see [12]) Low, Int-1 (score 0-1.0) Int-2, high (score ≥ 1.5)
+Approved and applied drugs/therapies
+Growth factors: Erythropoietin, G-CSF Decitabine, 5-azacitidine
+Immune therapy: steroids, cyclosporin,
+antithymocyte globulin
+Investigational
+Lenalidomide: 5q31 Intensive chemotherapy
+Decitabine, 5-azacitidine
+(Younger, karyotype diploid), allogeneic
+stem cell transplantation
+Iron chelation Iron chelation
+Translocation (5;12) or 5q23 Translocation (5;12) or 5q23
+variant (PDGFR-B): Imatinib variant (PDGFR-B): Imatinib
+Future therapeutic perspectives Combination with speciﬁc HDAC-Inhibitors
+Abbrevations. AML: acute myeloid leukaemia; G-CSF: granulocyte-colony-stimulating factor; IPSS: International Prognostic Scoring System; MDS-U: MDS
+unclassiﬁable; MDS del(5q): MDS associated with isolated deletion of chromosome 5q; PDGFR-B: platelet-derived growth factor receptor B; RA: refractory
+anemia; RAEB: RA with excess blasts; RARS: RA with ring sideroblasts; RCMD: refractory cytopenia with multilineage dysplasia; RCUD: refractory cytopenia
+with unilinease dysplasia.
+(LBH589). This class of agents (as discussed in detail below)
+are very interesting in the treatment of MDS, since HDACis
+reveal pleiotropic eﬀects on cell cycle, diﬀerentiation, and
+apoptosis [73, 74] which are linked and deregulated in MDS.
+3. Cancer, Epigenetics, and HDACi
+3.1. Cancer and Epigenetic: A Short Overview. Carcinogenesis
+is characterised by diﬀerent sequential or parallel genet-
+ic/epigenetic hits with a gain- and/or a loss-of-function that
+leads to “hallmarks of cancer” such as proliferation, apop-
+tosis, tissue remodelling, metastasis, and neoangiogenesis, as
+described in detail by Hanahan and Weinberg in an outstand-
+ing review [75]. In recent years, the importance of epigenetic
+alterations in carcinogenesis processes is emphasised and
+lead to the development of novel therapeutic approaches.
+At a glance, epigenetic mechanisms include DNA methy-
+lation of cytosine residues inside CpG islands often found
+within transcriptional promoter regions in the DNA and var-
+ious histone modiﬁcations leading to altered gene expression
+[76–78] (see also Figure 2).
+3.2. The Role of Histone Modiﬁcations. Basic histone proteins
+H2a, H2b, H3, and H4 build an octamer, called nucleosome
+packing the DNA by coiling into the nucleus [79]. These
+histone complexes are posttranslationally modiﬁed by dif-
+ferent levels of methylation, acetylation, phosphorylation,
+or ubiquitinylation in order to coordinate the regulation
+of gene transcription—a process referred to as “histone
+coding” [80]. These acyl modiﬁcations of histone proteins
+are exerted by two groups of highly conserved enzymes called
+histone acetyl transferases (HAT) and histone deacetylases
+(HDAC). HAT transfer acetyl groups to ε-amino groups
+of lysine residues in all four histone proteins leading to
+an “open” conformation of chromatin allowing subsequent
+binding of transcription factors, whereas the typical result of
+deacetylation by HDACs is condensed chromatin associated
+with transcriptional repression [81]. Interestingly, only 2 to
+10 percent of all genes are regulated by this mechanism as
+demonstrated using gene arrays emphasizing the role of this
+“histone code” [74, 82, 83]. However, this data displayed
+the change in global gene expression, and these studies did
+not investigate single histone acetylation status or functional
+analysis of histone deacetylation.
+Until now more than 30 diﬀerent HATs have been de-
+scribed and have been divided into two main classes with
+diﬀerent cellular distribution. Whereas A-type HATs are
+found in the nucleus and have a transcriptional role, B-type
+HATs are located in the cytoplasma [84, 85]. On the other
+side, at least 18 diﬀerent HDACs have been published and are
+categorised into four major groups based on their sequence
+homology to their respective yeast HDACs [73, 86]: Class I—
+HDACs (Rpd3-like) with the zinc-dependent isotypes HDAC
+1, 2, 3, and 8 are located in the nucleus and act as tran-
+scriptional corepressors. Class II—HDACs (Had1-like) with
+HDAC 4, 5, 6, 7, 9, and 10 are located in nucleus and cyto-
+plasma and show also a transcriptional corepressor function
+but also mediate a variety of cytoplasmic nonhistone protein
+modiﬁcations [87]. Class III—HDACs (sirtuins) with SIRT1
+to 7 are associated with regulation of cell proliferation and
+cell cycle control. Additionally, HDAC11 represents a sepa-
+rate class (class IV) of HDACs, since HDAC11 is structurally
+related to both, class I and II HDACs [88].
+This subtype of epigenetic mechanisms of histone modi-
+ﬁcation is centrally involved in the regulation of diﬀerentia-
+tion, proliferation, and tissue maintenance during embryo-
+genesis [89, 90]. In contrast, deregulated epigenetic action
+of HDACs is observed in various types of human tumours
+6 Journal of Biomedicine and Biotechnology
+O O O
+O
+O
+OOO
+O O O
+O
+O
+OOO
+DNA CpG
+methylation
+Histone
+acetylation
+Chromatin
+compaction
+Transcriptional
+activity
+DNMT
+HDAC HDACi
+HMTHP1
+DNA CpG
+methylation
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+CpG
+Histone
+acetylation
+Chromatin
+compaction
+Transcriptional
+activity
+DNA
+Histone H1
+Histone complex
+Acetyl group, histone-bound
+Unmethylated CpG sequence
+Methylated CpG sequence
+Heterochromatin protein 1
+Epigenetic silencing by
+HDAC-mediated histone
+modifcation
+(e.g., at tumor suppressor genes)
+Core histone
+complex
+Figure 2: Overview of transcriptional regulation by epigenetic mechanisms involving DNA methylation and histone acetylation. Abbrevia-
+tions: DNMT: DNA methyl transferase; HDAC(i): histone deacetylase (inhibitor); HMT: histone methyltransferase; HP1: heterochromatin
+protein 1.
+such as gastric (HDAC1), breast (HDAC1, HDAC6), or colon
+carcinoma (HDAC3) [91–94]. Additionally, histone modi-
+ﬁcations are essentially involved in haematological diseases
+such as leukaemias as reviewed by Issa [16]. For that reason,
+the inhibition of HDACs generally seems to be a promising
+and novel approach in the treatment of human cancer.
+3.3. Molecular Classes and Mechanisms of HDACi. Many
+chemical substances have been developed to inhibit HDACs
+in vitro and in vivo which could be divided in hydroxamic
+acid derivates, cyclic tretapeptides, benzamides, and short-
+chain fatty acids as listed in Table 2. Some of them are tested
+in clinical trials [81, 95], whereas until now only superoylan-
+ilide hydroxamic acid (SAHA) has received approval by the
+FDA for the treatment of cutaneous T-cell lymphoma [96].
+In general, the eﬀects of such HDACi are pleiotropic
+with induction of diﬀerentiation, growth arrest, and/or
+apoptosis of tumour cells [97, 98]. To evaluate the possible
+role of HDACi in MDS, it is necessary to look into the
+molecular mechanism of HDAC inhibition. Although the
+exact mechanisms of anticancer eﬀect by HDACi are under
+debate, HDACi have both speciﬁc and unspeciﬁc eﬀects
+[74, 81, 99]. With the exception of HDAC6 inhibitors, all
+HDACi induce a G1/S-phase cell cycle arrest associated with
+an increased expression of the endogenous cyclin-dependent
+kinase inhibitor p21cip1/waf1 [100, 101]. This action can be
+both p53-dependent and -independent as shown by our own
+experiments [102, 103]. For all other eﬀects observed for
+HDACi such as upregulation of the death receptor pathway
+(extrinsic (TRAIL-mediated) and intrinsic (mitochondrial-
+related)), induction of reactive oxygen species, and alteration
+of chaperone function (part of the cellular stress response) or
+NF-κB pathway (modulator of the inﬂammatory pathway),
+it is diﬃcult to deﬁne if the eﬀects of HDACi are directly
+triggered by transcriptional regulation that is mediated by
+hyperacetylation [87, 104]. Newer investigations revealed
+that acetylation and deacetylation represent an ubiquitous
+regulation mechanism for cellular networking such as RNA
+splicing, DNA damage repair, cell cycle control, nuclear
+transport, actin remodelling, ribosome, and chaperone func-
+tion that is summarised as “acetylome” [105–108]. Addi-
+tionally, HDACis inﬂuence posttranscriptional pre-mRNA
+Journal of Biomedicine and Biotechnology 7
+Table 2: Selected HDAC inhibitors: structural class, compound, isotype selectivity, and study phase—an overview (according to Batty et al.
+[14] and Schneider-Stock and Ocker [81]).
+Structural HDAC inhibitor (synonyms, abbreviation, supplier) Class selectivity Study phase
+Hydroxamic acids
+m-carboxycinnamic acid bis-hydroxamide (CBHA)
+Oxamﬂatin
+Belinostat (PXD-101, Curagen Corp/TopoTarget A/S) I, IIa, IIb, IV II
+Pyroxamide I
+Scriptaid
+Superoylamilide hydroxamic acid (SAHA, Vorinostat) I, IIa, IIb, IV FDA approval (CTCL)
+Trichostatin A (TSA) I, II
+Panobinostat (LBH-589; Novartis AG) I, IIa, IIb, IV II
+Cyclic tretapeptides
+Apicidin I, II
+Romidepsin (FK-228, FR-901228; Gloucester Pharmaceuticals Inc) I, II II
+Trapoxin-histone acetylase (TPX-HA) analog (CHAP)
+Trapoxin
+Benzamides
+Tacedinaline (CI-994; Pﬁzer Inc)
+Entinostat SNDX-275 (MS-275; Syndax Pharmaceuticals Inc) I, II II
+Short-chain fatty acids
+Butyrate I, IIa I
+Valproic acid I, IIa I
+processing and proteasomal and nonproteosomal pathways
+with heterogenous and diﬀerent eﬀect on ubiquitination
+[109], so that it is impossible to deﬁne a general mode of
+action for HDACi [87].
+3.4. Clinical Application and Experience of HDACi. The ma-
+jority of chemically designed HDACi is under intensive clin-
+ical investigation for treatment of haematological diseases
+such as acute or chronic leukaemias, lymphomas, and MDS
+[110, 111]. Currently, only the pan-deacetylase inhibitor
+SAHA has been approved by the FDA for treatment of cuta-
+neous T-cell lymphoma (CTCL) [96]. Until now, the overall
+response reached up to 30%, but long-term surveillance is
+still missing. From a pharmacokinetic view most of HDACi
+used in clinical phase I studies have short half-life in plasma
+(2–8 hrs, except for MS-275 with 80 h [112]), followed by
+hepatic metabolism and intestinal excretion [113–118]. The
+major adverse toxicities of HDACi include fatigue, som-
+nolence, confusion, diarrhoea, myelosuppression, and QT
+prolongation, thus limiting therapeutic applications [113–
+118]. Additionally, two questions regarding the use of HDACi
+are still unanswered. (i) It is currently unclear whether
+more speciﬁc HDAC class I & II inhibitors (like MS-275) or
+pan-deacetylase inhibitors (like SAHA or panobinostat) are
+more eﬃcient in tumour reduction. (ii) Furthermore, is the
+acetylation of histone H3 in peripheral blood mononuclear
+cells a tool for biomarker HDAC inhibitor eﬃciency [113]?
+Various studies could not conﬁrm a correlation of peripheral
+H3 acetylation and tumour treatment responses [110, 111].
+Acetylation of peripheral H3 as well as expression of p21
+in peripheral blood cells have been considered as potential
+biomarkers but were shown to possess only a poor corre-
+lation with the cognate expression pattern inside a (solid)
+tumour and with the overall response to the treatment.
+Additionally, an assay of HDAC enzymatic activity in intact
+cells on the basis of a cell-permeate substrate with ﬂuorescent
+read-out was evaluated in two phase I trials, whereby the
+reliability of this test is not clear [116, 119]. For that,
+adequate biomarkers for monitoring tumour target eﬀects of
+HDACi are still missing.
+4. MDS, Epigenetics, and HDACi
+It is still under debate how much epigenetics inﬂuences
+initiation and the clinical course of MDS. As mentioned
+above, experimental data suggest that especially DNA methy-
+lation plays an important role in the disrupted haematopoei-
+sis [16]. In the progression of MDS, associated tumour
+suppressor genes are increasingly methylated, leading to
+resistance to classical cytotoxic chemotherapy [67]. For
+instance, methylation frequency of the tumour suppressor
+genes p15, CDH-1, DAP-Kinases, and SOCS-1 was detected
+in 89%, 48%, 28%, and 62% of patients with MDS, chronic
+myelomonocytic leukaemia, and high-risk AML, respectively
+[120]. Additionally, a genomics-based methylation assay of
+CD34+ cells of normal control patients and patients with
+MDS or AML revealed that more than 700 unique genes
+in CD34+ cells of MDS patients showed hypermethylation
+compared to normal controls [121, 122]. Recently, mutations
+of polycomb-associated gene ASXL1 which regulates histone
+modiﬁcations is described in MDS and chronic myelomono-
+cytic leukaemia [123]. Nevertheless, “hard” data on the
+acetylation status in MDS are missing or are particularly
+published in circumstance of clinical trials of HDACi or
+in combination with DNA methyl transferase inhibitors
+(DNMTi), described below in detail.
+4.1. Clinical Trials Phase I/II. In 2001, the HDAC inhibitor
+valproic acid (VA) in combination with all-trans retinoic acid
+(ATRA) was shown to induce diﬀerentiation in malignant
+8 Journal of Biomedicine and Biotechnology
+Table 3: Clinical trials of HDACi in MDS and AML (adapted and extended from [15, 17]; see also current and ongoing clinical trials at
+http://www.clinicaltrials.gov/).
+Author (year) HDACi substance Phase Schedule
+Patient
+number
+Diagnosis: patient
+number
+Responses
+(i) overall [%]
+(ii) details
+Toxicity
+Gore et al.
+(2001) [127]
+Phenylbutyrate I
+i.v.,
+125–500 mg/kg/day
+7/28 days
+continuous infusion
+27
+MDS: n = 11,
+AML: n = 16
+8 [30%]
+4 HI, 4 decline of
+PB blasts
+CNS toxicity,
+hypocalcemia,
+nausea/vomiting
+Gore et al.
+(2002) [128]
+Phenylbutyrate I
+i.v., 375 mg/kg/day
+7/14 or 21/28 days
+cont. infusion
+23
+MDS: n = 9, AML:
+n = 14
+2 [9%]
+2 HI (21/28
+schedule)
+CNS toxicity, skin
+reaction,
+hypo-calcemia
+Zhou et al.
+(2002) [129]
+Phenylbutyrate +
+ATRA
+I
+i.v.,
+200–400 mg/kg/day
+25 days
+5 AML M3: n = 5
+1 [20%]
+1 RT-PCR neg. CR
+Transient CNS
+depression
+Odenike et al.
+(2006) [130]
+Depsipeptide II
+i.v.,
+18 mg/m2
+/dayday 1,
+8 and 15 every 28
+days
+18 AML: n = 18
+2 [11%]
+2 BM- blast
+clearance (t(8;21)
+and t(4;21))
+Nausea, vomiting,
+fatigue
+Byrd et al.
+(2005) [131]
+Depsipeptide I
+i.v., 13 mg/m2
+day 1,
+8, 15 every 28 days
+10 AML: n = 10
+Transient declines
+in PB and BM
+blasts
+Fatigue, vomiting,
+nausea, tumor lysis
+syndrome,
+diarrhea
+Giles et al.
+(2006) [132]
+LBH589 I
+i.v., 4.8–14 mg/m2
+,
+days 1–7 every 21
+days
+14
+AML: n = 13,
+MDS: n = 1
+8 [57%]
+8 patients transient
+decline in PB blasts
+QT-prolongation,
+nausea, vomiting,
+hypokalemia
+Garcia-Manero
+et al. (2005)
+[133]
+Vorinostat (SAHA) I
+Oral, 100–300 mg
+2-3 ×/day, 14/21
+days
+35
+AML: n = 31,
+MDS: n = 3, CML:
+n = 1
+9 [25%]
+1CR, 2CRp, 1PR, 5
+complete marrow
+responses
+Nausea, vomiting,
+diarrhea,
+neutropenia,
+typhlitis, fatigue
+Gojo et al.
+(2007) [134]
+MS-275 I
+Oral, 4–10 mg/m2
+,
+1 ×week for 2 or 4
+weeks
+38 AML: n = 38
+7 [18%]
+7 HI, transient
+decline in PB and
+BM blasts
+CNS toxicity,
+infections, fatigue,
+nausea, vomiting
+Abbreviations. AML: acute myeloid leukaemia; ATRA: All-trans-Retinoic-Acid; BM: bone marrow CML: chronic myelogenous leukaemia; CNS: central
+nervous system; CR: complete remission; CRp: complete response with incomplete platelet recovery; HDACi: histone deacetylase inhibitors; HI: haematologic
+improvement; MDS: myelodysplastic syndrome; PB: peripheral blood; PR: partial response.
+myeloid cells [124, 125] inducing the setup of diﬀerent pilot
+studies of heterogeneous combination of these two drugs
+[17]. The response rate within these clinical trials reﬂects the
+morphological subtypes of MDS with overall response rates
+of 8%, 11%, 22%, and 50% in the line with MDS subgroups
+ranging from IPSS low-risk, intermediate-I, intermediate-
+II, to high-risk MDS, respectively. Interestingly, most of
+the responses were observed in the group with low-risk
+karyotypes [126].
+In subsequent years, several clinical trials with other
+HDACi were started for therapy of MDS (as listed in
+Table 3). Most of these clinical trials with HDACi are in
+phase I indicating the preliminary experience with these
+drugs in MDS. Speciﬁc or pan-HDACi were phenylbutyrate
+(partially in combination all-trans retinoic acid), depsipep-
+tide (romidepsin), LBH589 (panobinostat), SAHA (Vorino-
+stat), and MS275/SDX275 (entinostat) in descending order
+according to the frequency of use. As these trials were
+conducted in a Phase I setting, the overall patient number
+is low and the primary endpoints were toxicity and safety;
+response rates, ranging from 9 to 57%, were only secondary
+endpoints here.
+An interesting aspect is the type of “biomarkers” which
+are used during these trials to describe the eﬀects of HDACi
+on deacetylation [15, 17]: in the trials with valproic acid in
+combination with ATRA, the acetylation status of histone H3
+and H4 in blood mononuclear cells as well as of the HDAC
+protein were determined. While missing other possibilities
+of suﬃciently monitoring the bioactivity of HDACi, clinical
+eﬀects such as transfusion requirements, white blood cell
+count, or percentage of immature cells (in the peripheral
+blood or bone marrow) were additionally used.
+In summary, single agent clinical trials of HDACi have
+shown a good safety proﬁle in patients with MDS, although
+the response rates observed so far are lower than for DNMT
+inhibitors, which is attributable to the predominant Phase I
+trial design conducted so far.
+Journal of Biomedicine and Biotechnology 9
+4.2. Combination Therapy. Experimental data could demon-
+strate that DNA methylation interacts with histone deacety-
+lase activity indicating the recursive complexity of epige-
+netics [135, 136]. Therefore, it was expected that HDACi
+and DNMTi would show synergistic eﬀects [67, 137]. This
+synergistic eﬀects could be explained by the known crosstalk
+between DNA methylation and histone modiﬁcations: (i)
+HDACs are activated by DNMT and by methylcytosine-
+binding proteins potentiating the gene silencing eﬀect
+[76, 138], (ii) hypermethylated genes are resistant to re-
+expression by treatment with HDACis [139], and addition-
+ally (iii) DNMTi increases histone methylation and acetyla-
+tion (such as H3K4) thus activating gene transcription [140].
+Nevertheless, more detailed mechanisms of the synergistic
+eﬀects of HDACi and DNMTi remain to be investigated.
+Our own experience with the DNMTi Zebularine and SAHA
+conﬁrmed the synergy on apoptosis, proliferation inhibition,
+and diﬀerentiation in a pancreatic cancer model [141].
+Therefore, analysis of sequential application of DNMTi and
+HDACi were performed in vitro and in vivo identifying
+that primary application of demethylating agent (low dose)
+following by an HDAC inhibitor show the best re-expression
+levels of hypermethylated genes [137, 142], which is in line
+with the concept of DNA methylation via the so-called
+de novo DNA methyltransferases during DNA replication
+[103].
+Interestingly, combination therapy of MDS using DNMTi
+and HDACi is already ongoing (as listed in Table 4) using the
+combination of decitabine or azazytidine as DNMTi and VA
+(in one study in combination with ATRA) or phenylbutyrate
+as HDACi. The overall response rates are optimistic up to
+54%, whereas complete response was observed in up to
+22%. Nevertheless, the patient numbers of these clinical trials
+are small due to the Phase I/II setting and are therefore
+not powered for determining response rates. No unexpected
+toxicity proﬁles were seen. Speciﬁc details of these studies
+were in detail: the study of Gore et al. showed that reversed
+methylation during the ﬁrst cycle of therapy correlates with
+therapy response. Interestingly, this was more often accom-
+panied by induction of acetylation of histone H3 and H4
+following administration of the DNMTi rather than of the
+HDACi [143]. Such convincing data could not be obtained
+using the HDAC inhibitor VA. In the study of Garcia-Manero
+et al., global methylation and p15 promotor methylation did
+not diﬀer between responders and nonresponders. Looking
+at HDACi eﬀects, histone acetylation did not increase until
+application of highest dose level of VA, whereas the HDACi
+target p21WAF1/CIP1
+increased during therapy [144]. Clinical
+beneﬁt was observed in the trial of Blum et al. independently
+of whether with or without VA, conﬁrming that this agent is
+not a potent HDACi [145]. Finally, the data of the study of
+Soriano et al. corroborated the ﬁndings of the other studies
+with VA that global mutation as well as induction of p21
+and p14 mRNA did not correlate with therapy response
+[146].
+In summary, the combination of HDACi with DNMTi
+as well as other combinations (including diﬀerent cytotox-
+ics, targeted therapies and radiation therapy as reviewed
+from Batty et al. [14]) still remains an interesting ﬁeld for
+experimental investigations as well as for larger randomised
+trials based on available preclinical data in order to detect the
+best synergy of these agents.
+5. Conclusion and Outlook
+The heterogeneous nature of MDS demands diﬀerential
+therapy strategies, which reﬂects on the one hand prognostic
+subgroups, age, and performance status of the patients with
+MDS and on the other hand the associated pathogenesis
+pathways (see Figure 1 and Table 1). Until now, detailed
+insights into the pathogenesis of MDS have not been
+published. Yet, the factors driving progression as well their
+mechanism of interaction are still unclear. New insights came
+from the ﬁeld of epigenetics, which admittedly leads to more
+complexity, too. First clinical trials give evidence that patients
+with MDS could beneﬁt from epigenetic treatment with
+DNA methylation inhibitors and HDACi [14]. Nevertheless,
+many issues of HDACi remains completely unknown and
+pose clinical and translational challenges [74].
+(i) As HDACi have been approved in the treatment of
+CTCL by the FDA, the mechanism of their selectivity
+is speculative postulating preferential induction of
+apoptosis in vitro [148], expression of HDAC2 in
+aggressive CTCL [149] as well as modulation of gene
+expression in vivo [150]. For that, further detailed
+molecular investigations of HDACi treated CTCL are
+urgently needed to better understand the molecular
+mechanisms of the reported excellent clinical results
+in CTCL and to confer these ﬁndings to other
+tumorous diseases like MDS.
+(ii) As histone H3 and H4 acetylation are not correlated
+with clinical response [110, 111], surrogate markers
+have to be identiﬁed for therapy prognosis, control-
+ling and terminating related to the patient and MDS-
+related disease stage.
+(iii) An additional task is to clarify speciﬁc pharmaco-
+logical aspects of HDACi such as potency, isotype
+selectivity, application, and toxicity proﬁle as well
+as mechanisms of resistance. These ﬁndings could
+support the decision on which HDACi are suitable for
+which MDS subgroups [151–154].
+(iv) Finally, the sequential application strategy of HDACi
+with DNMTi or other cytotoxic drugs should be
+determined to optimize the additive or synergistic
+eﬀects in the treatment of MDS [14].
+For that, we are at the beginning of establishing a HDAC-
+inhibitor strategy in the complexity of therapeutic manage-
+ment of MDS.
+Conﬂict of Interests
+Matthias Ocker is a member of the scientiﬁc advisory board
+for panobinostat by Novartis Pharma GmbH. All other
+authors have no conﬂict of interest regarding this paper.
+10 Journal of Biomedicine and Biotechnology
+Table4:ClinicaltrialsofcombinationregimenwithDNMTiandHDACi(adaptedandextendedfrom[15,17];seealsocurrentandongoingclinicaltrialsathttp://www.clinicaltrials.gov/).
+Author(year)SchedulePatient
+number
+Diagnosis:patient
+number
+Responsen[%]Toxicity
+DNMTiHDACiOverallCRCRpPROthers
+Garcia-Maneroet
+al.(2006)[144]
+DAC15mg/m2
+days1–10+
+VAorally20,35,
+50mg/kg(days1–10)
+54
+AML:n=48
+MDS:n=6
+12(22%)10(19%)2(3%)CNStoxicity
+Sorianoetal.
+(2007)[146]
+AZA75mg/m2
+day
+1–7+
+VAorally50,62,5
+and75mg/kg(days
+1–7)+ATRA
+45mg/m2
+/day(days
+3–7)
+53
+AML:n=49
+MDS:n=4
+22(41%)12(22%)3(5%)
+7(13%)BM
+responses
+CNStoxicity
+Maslaketal.
+(2007)[147]
+AZA75mg/m2
+days1–7+
+PB200mg/kgfor5
+daysafterAZA
+10
+AML:n=8MDS:
+n=2
+3(30%)3(30%)
+CNStoxicity,fever,
+nausea,fatigue
+Blumetal.(2007)
+[145]
+DAC20mg/m2
+days1–10+
+VAescalatingdoses
+(days5–21)15,20or
+25mg/kg
+11AML:n=116(54%)2(18%)2(18%)2(18%)CRi
+CNStoxicity,
+myelosuppression,
+infection,myeloid
+diﬀerentiation
+syndrome
+Goreetal.(2006)
+[143]
+AZA50mg/m2
+days1–14,1–10or
+1–5;75mg/m2
+days1–5;
+25mg/m2
+day
+1–14+
+PB375mg/kg/dayfor
+7daysafterAZA
+32
+AML:n=18
+MDS:n=13
+CMML:n=1
+11(38%)4(14%)1(3%)6(21%)HI
+CNStoxicity,mild
+nausea,injection
+sidereactions,
+asthenia,
+myelosuppression
+Abbreviations.AML:acutemyeloidleukaemia;ATRA:all-trans-Retinoic-Acid;AZA:azazytidine;CMML:chronicmyelomonocyticleukaemia;CNS:centralnervoussystem;CR:completeremission;CRi:complete
+responseswithincompletebloodcountrecovery;CRp:completeresponsewithincompleteplateletrecovery;DAC:decitabine;DNMTi:DNAmethyltransferaseinhibitors;HDACi:histonedeacetylaseinhibitors;
+HI:haematologicimprovement;MDS:myelodysplasticsyndrome;PB:phenylbutyrate;VA:valproicacid.
+Journal of Biomedicine and Biotechnology 11
+Acknowledgments
+The authors would like to apologise to colleagues whose
+primary references could not be cited in this paper due to
+space limitations. B. Alinger and this study were supported
+by the research fund of the Paracelsus Medical University
+Salzburg (Grant no. 07/06/033). Additionally, T. Kiesslich
+was supported by the Jubil¨aumsfonds der ¨Osterreichischen
+Nationalbank (OeNB, Grant no. 12677) and the research
+fund of the Paracelsus Medical University Salzburg (Grant
+no. 08/07/037). This work is dedicated to the 60th birthday
+of Prof. Dr. O. Dietze (Director of the Institute of Pathology,
+Paracelsus Medical University/SALK, Salzburg, Austria).
+References
+[1] J. M. Bennett, D. Catovsky, M. T. Daniel et al., “Proposals for
+the classiﬁcation of the myelodysplastic syndromes,” British
+Journal of Haematology, vol. 51, no. 2, pp. 189–199, 1982.
+[2] M. Cazzola and L. Malcovati, “Myelodysplastic syndromes—
+coping with ineﬀective hematopoiesis,” New England Journal
+of Medicine, vol. 352, no. 6, pp. 536–538, 2005.
+[3] J. W. Vardiman, J. Thiele, D. A. Arber et al., “The 2008
+revision of the World Health Organization (WHO) classiﬁ-
+cation of myeloid neoplasms and acute leukemia: rationale
+and important changes,” Blood, vol. 114, no. 5, pp. 937–951,
+2009.
+[4] S. S. Strom, V. V´elez-Bravo, and E. H. Estey, “Epidemiology
+of myelodysplastic syndromes,” Seminars in Hematology, vol.
+45, no. 1, pp. 8–13, 2008.
+[5] G. Leone, L. Mele, A. Pulsoni, F. Equitani, and L. Pagano,
+“The incidence of secondary leukemias,” Haematologica, vol.
+84, no. 10, pp. 937–945, 1999.
+[6] S. J. Corey, M. D. Minden, D. L. Barber, H. Kantarjian, J. C.
+Y. Wang, and A. D. Schimmer, “Myelodysplastic syndromes:
+the complexity of stem-cell diseases,” Nature Reviews Cancer,
+vol. 7, no. 2, pp. 118–129, 2007.
+[7] P. Bernasconi, “Molecular pathways in myelodysplastic syn-
+dromes and acute myeloid leukemia: relationships and
+distinctions—a review,” British Journal of Haematology, vol.
+142, no. 5, pp. 695–708, 2008.
+[8] W. H. Raskind, N. Tirumali, R. Jacobson et al., “Evidence
+for a multistep pathogenesis of a myelodysplastic syndrome,”
+Blood, vol. 63, no. 6, pp. 1318–1323, 1984.
+[9] C. Rosenfeld and A. List, “A hypothesis for the pathogenesis
+of myelodysplastic syndromes: implications for new thera-
+pies,” Leukemia, vol. 14, no. 1, pp. 2–8, 2000.
+[10] H. Hirai, “Molecular mechanisms of myelodysplastic syn-
+drome,” Japanese Journal of Clinical Oncology, vol. 33, no. 4,
+pp. 153–160, 2003.
+[11] F. Nolte and W. K. Hofmann, “Myelodysplastic syndromes:
+molecular pathogenesis and genomic changes,” Annals of
+Hematology, vol. 87, no. 10, pp. 777–795, 2008.
+[12] P. Greenberg, C. Cox, M. M. LeBeau et al., “International
+scoring system for evaluating prognosis in myelodysplastic
+syndromes,” Blood, vol. 89, no. 6, pp. 2079–2088, 1997.
+[13] P. L. Greenberg, “Current therapeutic approaches for patients
+with myelodysplastic syndromes,” British Journal of Haema-
+tology, vol. 150, no. 2, pp. 131–143, 2010.
+[14] N. Batty, G. G. Malouf, and J. P. J. Issa, “Histone deacetylase
+inhibitors as anti-neoplastic agents,” Cancer Letters, vol. 280,
+no. 2, pp. 192–200, 2009.
+[15] E. A. Griﬃths and S. D. Gore, “DNA methyltransferase and
+histone deacetylase inhibitors in the treatment of myelodys-
+plastic syndromes,” Seminars in Hematology, vol. 45, no. 1,
+pp. 23–30, 2008.
+[16] J. P. Issa, “Epigenetic changes in the myelodysplastic syn-
+drome,” Hematology/Oncology Clinics of North America, vol.
+24, no. 2, pp. 317–330, 2010.
+[17] A. Kuendgen and M. L¨ubbert, “Current status of epigenetic
+treatment in myelodysplastic syndromes,” Annals of Hema-
+tology, vol. 87, no. 8, pp. 601–611, 2008.
+[18] S. D. Nimer, “Myelodysplastic syndromes,” Blood, vol. 111,
+no. 10, pp. 4841–4851, 2008.
+[19] T. Vallesp´ı, M. Imbert, C. Mecucci, C. Preudhomme, and
+P. Fenaux, “Diagnosis, classiﬁcation, and cytogenetics of
+myelodysplastic syndromes,” Haematologica, vol. 83, no. 3,
+pp. 258–275, 1998.
+[20] M. L. Heaney and D. W. Golde, “Myelodysplasia,” New Eng-
+land Journal of Medicine, vol. 340, no. 21, pp. 1649–1660,
+1999.
+[21] A. Schmitt-Graeﬀ, D. Mattern, H. K¨ohler, J. Hezel, and M.
+L¨ubbert, “Myelodysplastic syndromes: aspects of hemato-
+pathologic diagnosis,” Pathologe, vol. 21, no. 1, pp. 1–15,
+2000.
+[22] D. P. Steensma, “The changing classiﬁcationof myelodysplas-
+tic syndromes: what’s in a name?” Hematology—American
+Society of Hematology. Education Program, pp. 645–655, 2009.
+[23] L. Malcovati, U. Germing, A. Kuendgen et al., “Time-
+dependent prognostic scoring system for predicting survival
+and leukemic evolution in myelodysplastic syndromes,”
+Journal of Clinical Oncology, vol. 25, no. 23, pp. 3503–3510,
+2007.
+[24] G. J. Mufti, “Pathobiology, classiﬁcation, and diagnosis
+of myelodysplastic syndrome,” Best Practice and Research:
+Clinical Haematology, vol. 17, no. 4, pp. 543–557, 2004.
+[25] J. Pedersen-Bjergaard, M. K. Andersen, and D. H. Chris-
+tiansen, “Therapy-related acute myeloid leukemia and
+myelodysplasia after high-dose chemotherapy and autolo-
+gous stem cell transplantation,” Blood, vol. 95, no. 11, pp.
+3273–3279, 2000.
+[26] F. J. Giles and H. P. Koeﬄer, “Secondary myelodysplastic
+syndromes and leukemias,” Current Opinion in Hematology,
+vol. 1, no. 4, pp. 256–260, 1994.
+[27] J. Pedersen-Bjergaard, M. K. Andersen, D. H. Chris-
+tiansen, and C. Nerlov, “Genetic pathways in therapy-related
+myelodysplasia and acute myeloid leukemia,” Blood, vol. 99,
+no. 6, pp. 1909–1912, 2002.
+[28] C. Aul, U. Germing, N. Gattermann, and H. Minning,
+“Increasing incidence of myelodysplastic syndromes: real or
+ﬁctitious?” Leukemia Research, vol. 22, no. 1, pp. 93–100,
+1998.
+[29] C. Aul, N. Gattermann, and W. Schneider, “Age-related inci-
+dence and other epidemiological aspects of myelodysplastic
+syndromes,” British Journal of Haematology, vol. 82, no. 2, pp.
+358–367, 1992.
+[30] A. Radlund, T. Thiede, S. Hansen, M. Carlsson, and L.
+Engquist, “Incidence of myelodysplastic syndromes in a
+Swedish population,” European Journal of Haematology, vol.
+54, no. 3, pp. 153–156, 1995.
+[31] P. J. Williamson, A. R. Kruger, P. I. Reynolds, T. J. Hamblin,
+and D. G. Oscier, “Establishing the incidence of myelodys-
+plastic syndrome,” British Journal of Haematology, vol. 87, no.
+4, pp. 743–745, 1994.
+[32] N. Casadevall, P. Durieux, S. Dubois et al., “Health, eco-
+nomic, and quality-of-life eﬀects of erythropoietin and
+12 Journal of Biomedicine and Biotechnology
+granulocyte colony-stimulating factor for the treatment of
+myelodysplastic syndromes: a randomized, controlled trial,”
+Blood, vol. 104, no. 2, pp. 321–327, 2004.
+[33] T. F. Goss, A. Szende, C. Schaefer et al., “Cost eﬀectiveness
+of lenalidomide in the treatment of transfusion-dependent
+myelodysplastic syndromes in the United States,” Cancer
+Control, vol. 13, supplement, pp. 17–25, 2006.
+[34] P. L. Greenberg, L. E. Cosler, S. A. Ferro, and G. H. Lyman,
+“The costs of drugs used to treat myelodysplastic syndromes
+following national comprehensive cancer network guide-
+lines,” Journal of the National Comprehensive Cancer Network,
+vol. 6, no. 9, pp. 942–953, 2008.
+[35] R. Kemmerling, D. Neureiter, V. Faber et al., “Incidence and
+other aspects of myelodysplastic syndrome in the Austrian
+federal state Salzburg,” Pathology Research and Practice, vol.
+203, no. 5, pp. 392–392, 2007.
+[36] C. Aul, D. T. Bowen, and Y. Yoshida, “Pathogenesis, etiology
+and epidemiology of myelodysplastic syndromes,” Haemato-
+logica, vol. 83, no. 1, pp. 71–86, 1998.
+[37] A. Raza, “Hypothesis: myelodysplastic syndromes may have
+a viral etiology,” International Journal of Hematology, vol. 68,
+no. 3, pp. 245–256, 1998.
+[38] P. Mhawech and A. Saleem, “Myelodysplastic syndrome:
+review of the cytogenetic and molecular data,” Critical
+Reviews in Oncology/Hematology, vol. 40, no. 3, pp. 229–238,
+2001.
+[39] H. J. Olney and M. M. Le Beau, “The cytogenetics of mye-
+lodysplastic syndromes,” Best Practice and Research: Clinical
+Haematology, vol. 14, no. 3, pp. 479–495, 2001.
+[40] A. List, S. Kurtin, D. J. Roe et al., “Eﬃcacy of lenalidomide
+in myelodysplastic syndromes,” New England Journal of
+Medicine, vol. 352, no. 6, pp. 549–557, 2005.
+[41] A. List, G. Dewald, J. Bennett et al., “Lenalidomide in the
+myelodysplastic syndrome with chromosome 5q deletion,”
+New England Journal of Medicine, vol. 355, no. 14, pp. 1456–
+1465, 2006.
+[42] C. L. O’Keefe, R. Tiu, L. P. Gondek et al., “High-resolution
+genomic arrays facilitate detection of novel cryptic chromo-
+somal lesions in myelodysplastic syndromes,” Experimental
+Hematology, vol. 35, no. 2, pp. 240–251, 2007.
+[43] A. G. Knudson, “Hereditary cancer: two hits revisited,”
+Journal of Cancer Research and Clinical Oncology, vol. 122,
+no. 3, pp. 135–140, 1996.
+[44] H. Harada, Y. Harada, H. Tanaka, A. Kimura, and T. Inaba,
+“Implications of somatic mutations in the AML1 gene
+in radiation-associated and therapy-related myelodysplastic
+syndrome/acute myeloid leukemia,” Blood, vol. 101, no. 2, pp.
+673–680, 2003.
+[45] P. Ganly, L. C. Walker, and C. M. Morris, “Familial mutations
+of the transcription factor RUNX1 (AML1, CBFA2) predis-
+pose to acute myeloid leukemia,” Leukemia and Lymphoma,
+vol. 45, no. 1, pp. 1–10, 2004.
+[46] W. J. Song, M. G. Sullivan, R. D. Legare et al., “Haploin-
+suﬃciency of CBFA2 causes familial thrombocytopenia with
+propensity to develop acute myelogenous leukaemia,” Nature
+Genetics, vol. 23, no. 2, pp. 166–175, 1999.
+[47] J. Pedersen-Bjergaard, D. H. Christiansen, F. Desta, and M.
+K. Andersen, “Alternative genetic pathways and cooperating
+genetic abnormalities in the pathogenesis of therapy-related
+myelodysplasia and acute myeloid leukemia,” Leukemia, vol.
+20, no. 11, pp. 1943–1949, 2006.
+[48] G. B. Tennant, V. Walsh, L. N. Truran, P. Edwards, K. I.
+Mills, and A. K. Burnett, “Abnormalities of adherent layers
+grown from bone marrow of patients with myelodysplasia,”
+British Journal of Haematology, vol. 111, no. 3, pp. 853–862,
+2000.
+[49] E. Flores-Figueroa, G. Guti´errez-Esp´ındola, J. J. Montesinos,
+R. M. Arana-Trejo, and H. Mayani, “In vitro characterization
+of hematopoietic microenvironment cells from patients with
+myelodysplastic syndrome,” Leukemia Research, vol. 26, no.
+7, pp. 677–686, 2002.
+[50] D. L. Stirewalt, A. J. Mhyre, M. Marcondes et al., “Tumour
+necrosis factor-induced gene expression in human marrow
+stroma: clues to the pathophysiology of MDS?” British
+Journal of Haematology, vol. 140, no. 4, pp. 444–453, 2008.
+[51] W. T. Bellamy, L. Richter, D. Sirjani et al., “Vascular endothe-
+lial cell growth factor is an autocrine promoter of abnormal
+localized immature myeloid precursors and leukemia pro-
+genitor formation in myelodysplastic syndromes,” Blood, vol.
+97, no. 5, pp. 1427–1434, 2001.
+[52] E. Travaglino, C. Benatti, L. Malcovati et al., “Biological and
+clinical relevance of matrix metalloproteinases 2 and 9 in
+acute myeloid leukaemias and myelodysplastic syndromes,”
+European Journal of Haematology, vol. 80, no. 3, pp. 216–226,
+2008.
+[53] D. Campioni, P. Secchiero, F. Corallini et al., “Evidence for
+a role of TNF-related apoptosis-inducing ligand (TRAIL) in
+the anemia of myelodysplastic syndromes,” American Journal
+of Pathology, vol. 166, no. 2, pp. 557–563, 2005.
+[54] T. Braun, G. Carvalho, A. Coquelle et al., “NF-κB constitutes
+a potential therapeutic target in high-risk myelodysplastic
+syndrome,” Blood, vol. 107, no. 3, pp. 1156–1165, 2006.
+[55] D. M. B. Kerbauy, V. Lesnikov, N. Abbasi, S. Seal, B. Scott,
+and H. Joachim Deeg, “NF-κB and FLIP in arsenic triox-
+ide (ATO)-induced apoptosis in myelodysplastic syndromes
+(MDSs),” Blood, vol. 106, no. 12, pp. 3917–3925, 2005.
+[56] S. Buonamici, D. Li, Y. Chi et al., “EVI1 induces myelodys-
+plastic syndrome in mice,” Journal of Clinical Investigation,
+vol. 114, no. 5, pp. 713–719, 2004.
+[57] Y. W. Lin, C. Slape, Z. Zhang, and P. D. Aplan, “NUP98-
+HOXD13 transgenic mice develop a highly penetrant,
+severe myelodysplastic syndrome that progresses to acute
+leukemia,” Blood, vol. 106, no. 1, pp. 287–295, 2005.
+[58] S. Grisendi, R. Bernardi, M. Rossi et al., “Role of nucleophos-
+min in embryonic development and tumorigenesis,” Nature,
+vol. 437, no. 7055, pp. 147–153, 2005.
+[59] M. A. Sekeres, “Treatment of MDS: something old, some-
+thing new, something borrowed,” Hematology—American
+Society of Hematology. Education Program, pp. 656–663, 2009.
+[60] H. Kantarjian, S. O’Brien, J. Cortes et al., “Therapeutic
+advances in leukemia and myelodysplastic syndrome over the
+past 40 years,” Cancer, vol. 113, no. 7, pp. 1933–1952, 2008.
+[61] E. Hellstr¨om-Lindberg and L. Malcovati, “Supportive care
+and use of hematopoietic growth factors in myelodysplastic
+syndromes,” Seminars in Hematology, vol. 45, no. 1, pp. 14–
+22, 2008.
+[62] R. Tehranchi, B. Fadeel, A. M. Forsblom et al., “Granulocyte
+colony-stimulating factor inhibits spontaneous cytochrome c
+release and mitochondria-dependent apoptosis of myelodys-
+plastic syndrome hematopoietic progenitors,” Blood, vol. 101,
+no. 3, pp. 1080–1086, 2003.
+[63] M. Takatoku, T. Uchiyama, S. Okamoto et al., “Retrospective
+nationwide survey of Japanese patients with transfusion-
+dependent MDS and aplastic anemia highlights the negative
+impact of iron overload on morbidity/mortality,” European
+Journal of Haematology, vol. 78, no. 6, pp. 487–494, 2007.
+[64] G. Metzgeroth, D. Dinter, B. Schultheis et al., “Deferasirox
+in MDS patients with transfusion-caused iron overload—
+Journal of Biomedicine and Biotechnology 13
+a phase-II study,” Annals of Hematology, vol. 88, no. 4, pp.
+301–310, 2009.
+[65] E. M. Sloand, L. Mainwaring, M. Fuhrer et al., “Preferential
+suppression of trisomy 8 compared with normal hematopoi-
+etic cell growth by autologous lymphocytes in patients with
+trisomy 8 myelodysplastic syndrome,” Blood, vol. 106, no. 3,
+pp. 841–851, 2005.
+[66] C. Selleri, J. P. Maciejewski, L. Catalano et al., “Eﬀects of
+cyclosporine on hematopoietic and immune functions in
+patients with hypoplastic myelodysplasia: in vitro and in vivo
+studies,” Cancer, vol. 95, no. 9, pp. 1911–1922, 2002.
+[67] O. Galm, J. G. Herman, and S. B. Baylin, “The fundamental
+role of epigenetics in hematopoietic malignancies,” Blood
+Reviews, vol. 20, no. 1, pp. 1–13, 2006.
+[68] K. Anargyrou, T. P. Vassilakopoulos, M. K. Angelopoulou,
+and E. Terpos, “Incorporating novel agents in the treatment
+of myelodysplastic syndromes,” Leukemia Research, vol. 34,
+no. 1, pp. 6–17, 2010.
+[69] E. Estey, “Acute myeloid leukemia and myelodysplastic
+syndromes in older patients,” Journal of Clinical Oncology,
+vol. 25, no. 14, pp. 1908–1915, 2007.
+[70] E. H. Estey, P. F. Thall, J. E. Cortes et al., “Comparison of
+idarubicin + ara-C-, ﬂudarabine + ara-C-, and topotecan
++ ara-C-based regimens in treatment of newly diagnosed
+acute myeloid leukemia, refractory anemia with excess blasts
+in transformation, or refractory anemia with excess blasts,”
+Blood, vol. 98, no. 13, pp. 3575–3583, 2001.
+[71] G. Mufti, A. F. List, S. D. Gore, and A. Y. Ho, “Myelodysplastic
+syndrome,” Hematology —American Society of Hematology.
+Education Program, pp. 176–199, 2003.
+[72] S. Faderl and H. M. Kantarjian, “Novel therapies for
+myelodysplastic syndromes,” Cancer, vol. 101, no. 2, pp. 226–
+241, 2004.
+[73] A. J. M. De Ruijter, A. H. Van Gennip, H. N. Caron, S. Kemp,
+and A. B. P. Van Kuilenburg, “Histone deacetylases (HDACs):
+characterization of the classical HDAC family,” Biochemical
+Journal, vol. 370, no. 3, pp. 737–749, 2003.
+[74] W. S. Xu, R. B. Parmigiani, and P. A. Marks, “Histone
+deacetylase inhibitors: molecular mechanisms of action,”
+Oncogene, vol. 26, no. 37, pp. 5541–5552, 2007.
+[75] D. Hanahan and R. A. Weinberg, “The hallmarks of cancer,”
+Cell, vol. 100, no. 1, pp. 57–70, 2000.
+[76] J. G. Herman and S. B. Baylin, “Gene silencing in cancer in
+association with promoter hypermethylation,” New England
+Journal of Medicine, vol. 349, no. 21, pp. 2042–2054, 2003.
+[77] M. Esteller, “Molecular origins of cancer: epigenetics in
+cancer,” New England Journal of Medicine, vol. 358, no. 11,
+pp. 1148–1159, 2008.
+[78] P. A. Jones and S. B. Baylin, “The fundamental role of
+epigenetic events in cancer,” Nature Reviews Genetics, vol. 3,
+no. 6, pp. 415–428, 2002.
+[79] H. Santos-Rosa and C. Caldas, “Chromatin modiﬁer
+enzymes, the histone code and cancer,” European Journal of
+Cancer, vol. 41, no. 16, pp. 2381–2402, 2005.
+[80] X. De La Cruz, S. Lois, S. S´anchez-Molina, and M. A.
+Mart´ınez-Balb´as, “Do protein motifs read the histone code?”
+BioEssays, vol. 27, no. 2, pp. 164–175, 2005.
+[81] R. Schneider-Stock and M. Ocker, “Epigenetic therapy in
+cancer: molecular background and clinical development of
+histone deacetylase and DNA methyltransferase inhibitors,”
+The Investigational Drugs Journal, vol. 10, no. 8, pp. 557–561,
+2007.
+[82] K. Daly and S. P. Shirazi-Beechey, “Microarray analysis of
+butyrate regulated genes in colonic epithelial cells,” DNA and
+Cell Biology, vol. 25, no. 1, pp. 49–62, 2006.
+[83] S. G. Gray, C. N. Qian, K. Furge, X. Guo, and B. T. Teh,
+“Microarray proﬁling of the eﬀects of histone deacetylase
+inhibitors on gene expression in cancer cell lines,” Interna-
+tional Journal of Oncology, vol. 24, no. 4, pp. 773–795, 2004.
+[84] S. Y. Roth, J. M. Denu, and C. D. Allis, “Histone acetyltrans-
+ferases,” Annual Review of Biochemistry, vol. 70, pp. 81–120,
+2001.
+[85] R. Marmorstein and S. Y. Roth, “Histone acetyltransferases:
+function, structure, and catalysis,” Current Opinion in Genet-
+ics and Development, vol. 11, no. 2, pp. 155–161, 2001.
+[86] O. Witt, H. E. Deubzer, T. Milde, and I. Oehme, “HDAC
+family: what are the cancer relevant targets?” Cancer Letters,
+vol. 277, no. 1, pp. 8–21, 2009.
+[87] M. Ocker, “Deacetylase inhibitors—focus on non-histone
+targets and eﬀects,” World Journal of Biological Chemistry, vol.
+1, no. 5, pp. 55–61, 2010.
+[88] L. Gao, M. A. Cueto, F. Asselbergs, and P. Atadja, “Cloning
+and functional characterization of HDAC11, a novel member
+of the human histone deacetylase family,” Journal of Biological
+Chemistry, vol. 277, no. 28, pp. 25748–25755, 2002.
+[89] G. P. Delcuve, M. Rastegar, and J. R. Davie, “Epigenetic
+control,” Journal of Cellular Physiology, vol. 219, no. 2, pp.
+243–250, 2009.
+[90] M. Spivakov and A. G. Fisher, “Epigenetic signatures of stem-
+cell identity,” Nature Reviews Genetics, vol. 8, no. 4, pp. 263–
+271, 2007.
+[91] J. H. Choi, H. J. Kwon, B. I. Yoon et al., “Expression proﬁle
+of histone deacetylase 1 in gastric cancer tissues,” Japanese
+Journal of Cancer Research, vol. 92, no. 12, pp. 1300–1304,
+2001.
+[92] Z. Zhang, H. Yamashita, T. Toyama et al., “Quantitation
+of HDAC1 mRNA expression in invasive carcinoma of the
+breast,” Breast Cancer Research and Treatment, vol. 94, no. 1,
+pp. 11–16, 2005.
+[93] A. J. Wilson, D. S. Byun, N. Popova et al., “Histone deacety-
+lase 3 (HDAC3) and other class I HDACs regulate colon
+cell maturation and p21 expression and are deregulated in
+human colon cancer,” Journal of Biological Chemistry, vol.
+281, no. 19, pp. 13548–13558, 2006.
+[94] Z. Zhang, H. Yamashita, T. Toyama et al., “HDAC6 expres-
+sion is correlated with better survival in breast cancer,”
+Clinical Cancer Research, vol. 10, no. 20, pp. 6962–6968, 2004.
+[95] P. A. Marks and W. S. Xu, “Histone deacetylase inhibitors:
+potential in cancer therapy,” Journal of Cellular Biochemistry,
+vol. 107, no. 4, pp. 600–608, 2009.
+[96] P. A. Marks and R. Breslow, “Dimethyl sulfoxide to vorino-
+stat: development of this histone deacetylase inhibitor as an
+anticancer drug,” Nature Biotechnology, vol. 25, no. 1, pp. 84–
+90, 2007.
+[97] P. A. Marks, R. A. Rifkind, V. M. Richon, R. Breslow, T. Miller,
+and W. K. Kelly, “Histone deacetylases and cancer: causes and
+therapies,” Nature Reviews Cancer, vol. 1, no. 3, pp. 194–202,
+2001.
+[98] S. Minucci and P. G. Pelicci, “Histone deacetylase inhibitors
+and the promise of epigenetic (and more) treatments for
+cancer,” Nature Reviews Cancer, vol. 6, no. 1, pp. 38–51, 2006.
+[99] M. Ocker and R. Schneider-Stock, “Histone deacetylase
+inhibitors: signalling towards p21,” International Journal of
+Biochemistry and Cell Biology, vol. 39, no. 7-8, pp. 1367–1374,
+2007.
+14 Journal of Biomedicine and Biotechnology
+[100] V. M. Richon, T. W. Sandhoﬀ, R. A. Rifkind, and P. A. Marks,
+“Histone deacetylase inhibitor selectively induces p21WAF1
+expressjon and gene-associated histone acetylation,” Proceed-
+ings of the National Academy of Sciences of the United States of
+America, vol. 97, no. 18, pp. 10014–10019, 2000.
+[101] C. Y. Gui, L. Ngo, W. S. Xu, V. M. Richon, and P. A. Marks,
+“Histone deacetylase (HDAC) inhibitor activation of p21
+involves changes in promoter-associated proteins, including
+HDAC1,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 101, no. 5, pp. 1241–1246,
+2004.
+[102] P. Di Fazio, R. Schneider-Stock, D. Neureiter et al., “The
+pan-deacetylase inhibitor panobinostat inhibits growth of
+hepatocellular carcinoma models by alternative pathways of
+apoptosis,” Cellular Oncology, vol. 32, no. 4, pp. 285–300,
+2010.
+[103] S. Zopf, D. Neureiter, S. Bouralexis et al., “Diﬀerential
+response of p53 and p21 on HDAC inhibitor-mediated
+apoptosis in HCT116 colon cancer cells in vitro and in vivo,”
+International Journal of Oncology, vol. 31, no. 6, pp. 1391–
+1402, 2007.
+[104] R. W. Johnstone and J. D. Licht, “Histone deacetylase
+inhibitors in cancer therapy: is transcription the primary
+target?” Cancer Cell, vol. 4, no. 1, pp. 13–18, 2003.
+[105] K. L. Norris, J. Y. Lee, and T. P. Yao, “Acetylation goes global:
+the emergence of acetylation biology,” Science Signaling, vol.
+2, no. 97, p. e76, 2009.
+[106] K. T. Smith and J. L. Workman, “Introducing the acetylome,”
+Nature Biotechnology, vol. 27, no. 10, pp. 917–919, 2009.
+[107] C. Choudhary, C. Kumar, F. Gnad et al., “Lysine acetylation
+targets protein complexes and co-regulates major cellular
+functions,” Science, vol. 325, no. 5942, pp. 834–840, 2009.
+[108] S. C. Kim, R. Sprung, Y. Chen et al., “Substrate and functional
+diversity of lysine acetylation revealed by a proteomics
+survey,” Molecular Cell, vol. 23, no. 4, pp. 607–618, 2006.
+[109] K. Sadoul, C. Boyault, M. Pabion, and S. Khochbin,
+“Regulation of protein turnover by acetyltransferases and
+deacetylases,” Biochimie, vol. 90, no. 2, pp. 306–312, 2008.
+[110] H. M. Prince, M. J. Bishton, and S. J. Harrison, “Clinical
+studies of histone deacetylase inhibitors,” Clinical Cancer
+Research, vol. 15, no. 12, pp. 3958–3969, 2009.
+[111] A. A. Lane and B. A. Chabner, “Histone deacetylase inhibitors
+in cancer therapy,” Journal of Clinical Oncology, vol. 27, no.
+32, pp. 5459–5468, 2009.
+[112] Q. C. Ryan, D. Headlee, M. Acharya et al., “Phase I and
+pharmacokinetic study of MS-275, a histone deacetylase
+inhibitor, in patients with advanced and refractory solid
+tumors or lymphoma,” Journal of Clinical Oncology, vol. 23,
+no. 17, pp. 3912–3922, 2005.
+[113] W. K. Kelly, O. A. O’Connor, L. M. Krug et al., “Phase I
+study of an oral histone deacetylase inhibitor, suberoylanilide
+hydroxamic acid, in patients with advanced cancer,” Journal
+of Clinical Oncology, vol. 23, no. 17, pp. 3923–3931, 2005.
+[114] E. H. Rubin, N. G. B. Agrawal, E. J. Friedman et al., “A study
+to determine the eﬀects of food and multiple dosing on the
+pharmacokinetics of vorinostat given orally to patients with
+advanced cancer,” Clinical Cancer Research, vol. 12, no. 23,
+pp. 7039–7045, 2006.
+[115] V. Sandor, S. Bakke, R. W. Robey et al., “Phase I trial of
+the histone deacetylase inhibitor, depsipeptide (FR901228,
+NSC 630176), in patients with refractory neoplasms,”Clinical
+Cancer Research, vol. 8, no. 3, pp. 718–728, 2002.
+[116] G. Garcia-Manero, S. Assouline, J. Cortes et al., “Phase 1
+study of the oral isotype speciﬁc histone deacetylase inhibitor
+MGCD0103 in leukemia,” Blood, vol. 112, no. 4, pp. 981–989,
+2008.
+[117] G. Garcia-Manero, H. Yang, C. Bueso-Ramos et al., “Phase
+1 study of the histone deacetylase inhibitor vorinostat
+(suberoylanilide hydroxamic acid [SAHA]) in patients with
+advanced leukemias and myelodysplastic syndromes,” Blood,
+vol. 111, no. 3, pp. 1060–1066, 2008.
+[118] E. Lech-Maranda, E. Robak, A. Korycka, and T. Robak, “Dep-
+sipeptide (FK228) as a novel histone deacetylase inhibitor:
+mechanism of action and anticancer activity,” Mini-Reviews
+in Medicinal Chemistry, vol. 7, no. 10, pp. 1062–1069, 2007.
+[119] T. Jenuwein and C. D. Allis, “Translating the histone code,”
+Science, vol. 293, no. 5532, pp. 1074–1080, 2001.
+[120] T. E. Fandy, J. G. Herman, P. Kerns et al., “Early epigenetic
+changes and DNA damage do not predict clinical response
+in an overlapping schedule of 5-azacytidine and entinostat in
+patients with myeloid malignancies,” Blood, vol. 114, no. 13,
+pp. 2764–2773, 2009.
+[121] M. E. Figueroa, L. Skrabanek, Y. Li et al., “MDS and sec-
+ondary AML display unique patterns and abundance of
+aberrant DNA methylation,” Blood, vol. 114, no. 16, pp.
+3448–3458, 2009.
+[122] M. E. Figueroa, A. Melnick, and J. M. Greally, “Genome-wide
+determination of DNA methylation by Hpa II tiny fragment
+enrichment by ligation-mediated PCR (HELP) for the study
+of acute leukemias,” Methods in Molecular Biology, vol. 538,
+pp. 395–407, 2009.
+[123] V. Gelsi-Boyer, V. Trouplin, J. Ad´ela¨ıde et al., “Mutations
+of polycomb-associated gene ASXL1 in myelodysplastic
+syndromes and chronic myelomonocytic leukaemia,” British
+Journal of Haematology, vol. 145, no. 6, pp. 788–800, 2009.
+[124] M. G¨ottlicher, S. Minucci, P. Zhu et al., “Valproic acid deﬁnes
+a novel class of HDAC inhibitors inducing diﬀerentiation of
+transformed cells,” EMBO Journal, vol. 20, no. 24, pp. 6969–
+6978, 2002.
+[125] C. J. Phiel, F. Zhang, E. Y. Huang, M. G. Guenther, M. A.
+Lazar, and P. S. Klein, “Histone deacetylase is a direct target of
+valproic acid, a potent anticonvulsant, mood stabilizer, and
+teratogen,” Journal of Biological Chemistry, vol. 276, no. 39,
+pp. 36734–36741, 2001.
+[126] A. Kuendgen, C. Strupp, M. Aivado et al., “Treatment of
+myelodysplastic syndromes with valproic acid alone or in
+combination with all-trans retinoic acid,” Blood, vol. 104, no.
+5, pp. 1266–1269, 2004.
+[127] S. D. Gore, L. J. Weng, S. Zhai et al., “Impact of the
+putative diﬀerentiating agent sodium phenylbutyrate on
+myelodysplastic syndromes and acute myeloid leukemia,”
+Clinical Cancer Research, vol. 7, no. 8, pp. 2330–2339, 2001.
+[128] S. D. Gore, L. J. Weng, W. D. Figg et al., “Impact of
+prolonged infusions of the putative diﬀerentiating agent
+sodium phenylbutyrate on myelodysplastic syndromes and
+acute myeloid leukemia,” Clinical Cancer Research, vol. 8, no.
+4, pp. 963–970, 2002.
+[129] D.-C. Zhou, S. H. Kim, W. Ding, C. Schultz, R. P. Warrell
+Jr., and R. E. Gallagher, “Frequent mutations in the ligand-
+binding domain of PML-RARα after multiple relapses of
+acute promyelocytic leukemia: analysis for functional rela-
+tionship to response to all-trans retinoic acid and histone
+deacetylase inhibitors in vitro and in vivo,” Blood, vol. 99, no.
+4, pp. 1356–1363, 2002.
+[130] O. M. Odenike, S. Alkan, D. Sher et al., “The histone
+deacetylase inhibitor (HDI) depsipeptide has diﬀerential
+activity in core binding factor AML,” Blood, vol. 108, no. 11,
+p. 553A, 2006.
+Journal of Biomedicine and Biotechnology 15
+[131] J. C. Byrd, G. Marcucci, M. R. Parthun et al., “A phase 1 and
+pharmacodynamic study of depsipeptide (FK228) in chronic
+lymphocytic leukemia and acute myeloid leukemia,” Blood,
+vol. 105, no. 3, pp. 959–967, 2005.
+[132] F. Giles, T. Fischer, J. Cortes et al., “A phase I study of intra-
+venous LBH589, a novel cinnamic hydroxamic acid analogue
+histone deacetylase inhibitor, in patients with refractory
+hematologic malignancies,” Clinical Cancer Research, vol. 12,
+no. 15, pp. 4628–4635, 2006.
+[133] G. Garcia-Manero, H. Yang, B. Sanchez-Gonzalez et al.,
+“Final results of a phase I study of the histone deacety-
+lase inhibitor vorinostat (suberoyanilide hydroxamic acid,
+SAHA), in patients with leukemia and myelodysplastic
+syndrome,” Blood, vol. 106, no. 11, p. 785A, 2005.
+[134] I. Gojo, A. Jiemjit, J. B. Trepel et al., “Phase 1 and pharma-
+cologic study of MS-275, a histone deacetylase inhibitor, in
+adults with refractory and relapsed acute leukemias,” Blood,
+vol. 109, no. 7, pp. 2781–2790, 2007.
+[135] F. Fuks, W. A. Burgers, A. Brehm, L. Hughes-Davies, and T.
+Kouzarides, “DNA methyltransferase Dnmt1 associates with
+histone deacetylase activity,” Nature Genetics, vol. 24, no. 1,
+pp. 88–91, 2000.
+[136] M. R. Rountree, K. E. Bachman, and S. B. Baylin, “DNMT1
+binds HDAC2 and a new co-repressor, DMAP1, to form a
+complex at replication foci,” Nature Genetics, vol. 25, no. 3,
+pp. 269–277, 2000.
+[137] E. E. Cameron, K. E. Bachman, S. My¨oh¨anen, J. G. Herman,
+and S. B. Baylin, “Synergy of demethylation and histone
+deacetylase inhibition in the re-expression of genes silenced
+in cancer,” Nature Genetics, vol. 21, no. 1, pp. 103–107, 1999.
+[138] L. K. Jones and V. Saha, “Chromatin modiﬁcation, leukaemia
+and implications for therapy,” British Journal of Haematology,
+vol. 118, no. 3, pp. 714–727, 2002.
+[139] J. A. Fahrner, S. Eguchi, J. G. Herman, and S. B. Baylin,
+“Dependence of histone modiﬁcations and gene expression
+on DNA hypermethylation in cancer,” Cancer Research, vol.
+62, no. 24, pp. 7213–7218, 2002.
+[140] C. T. Nguyen, D. J. Weisenberger, M. Velicescu et al., “Histone
+H3-lysine 9 methylation is associated with aberrant gene
+silencing in cancer cells and is rapidly reversed by 5-aza-2 -
+deoxycytidine,” Cancer Research, vol. 62, no. 22, pp. 6456–
+6461, 2002.
+[141] D. Neureiter, S. Zopf, T. Leu et al., “Apoptosis, proliferation
+and diﬀerentiation patterns are inﬂuenced by Zebularine and
+SAHA in pancreatic cancer models,” Scandinavian Journal of
+Gastroenterology, vol. 42, no. 1, pp. 103–116, 2007.
+[142] H. Suzuki, E. Gabrielson, W. Chen et al., “A genomic
+screen for genes upregulated by demethylation and histone
+deacetylase inhibition in human colorectal cancer,” Nature
+Genetics, vol. 31, no. 2, pp. 141–149, 2002.
+[143] S. D. Gore, S. Baylin, E. Sugar et al., “Combined DNA
+methyltransferase and histone deacetylase inhibition in the
+treatment of myeloid neoplasms,” Cancer Research, vol. 66,
+no. 12, pp. 6361–6369, 2006.
+[144] G. Garcia-Manero, H. M. Kantarjian, B. Sanchez-Gonzalez
+et al., “Phase 1/2 study of the combination of 5-aza-2 -
+deoxycytidine with valproic acid in patients with leukemia,”
+Blood, vol. 108, no. 10, pp. 3271–3279, 2006.
+[145] W. Blum, R. B. Klisovic, B. Hackanson et al., “Phase I study
+of decitabine alone or in combination with valproic acid in
+acute myeloid leukemia,” Journal of Clinical Oncology, vol. 25,
+no. 25, pp. 3884–3891, 2007.
+[146] A. O. Soriano, H. Yang, S. Faderl et al., “Safety and clinical
+activity of the combination of 5-azacytidine, valproic acid,
+and all-trans retinoic acid in acute myeloid leukemia and
+myelodysplastic syndrome,” Blood, vol. 110, no. 7, pp. 2302–
+2308, 2007.
+[147] P. Maslak, S. Chanel, L. H. Camacho et al., “Pilot study
+of combination transcriptional modulation therapy with
+sodium phenylbutyrate and 5-azacytidine in patients with
+acute myeloid leukemia or myelodysplastic syndrome,”
+Leukemia, vol. 20, no. 2, pp. 212–217, 2006.
+[148] C. Zhang, V. Richon, X. Ni, R. Talpur, and M. Duvic, “Selec-
+tive induction of apoptosis by histone deacetylase inhibitor
+SAHA in cutaneous T-cell lymphoma cells: relevance to
+mechanism of therapeutic action,” Journal of Investigative
+Dermatology, vol. 125, no. 5, pp. 1045–1052, 2005.
+[149] L. Marquard, L. M. Gjerdrum, I. J. Christensen, P. B. Jensen,
+M. Sehested, and E. Ralfkiaer, “Prognostic signiﬁcance of the
+therapeutic targets histone deacetylase 1, 2, 6 and acetylated
+histone H4 in cutaneous T-cell lymphoma,” Histopathology,
+vol. 53, no. 3, pp. 267–277, 2008.
+[150] L. Ellis, Y. Pan, G. K. Smyth et al., “Histone deacetylase
+inhibitor panobinostat induces clinical responses with asso-
+ciated alterations in gene expression proﬁles in cutaneous T-
+cell lymphoma,” Clinical Cancer Research, vol. 14, no. 14, pp.
+4500–4510, 2008.
+[151] R. K. Lindemann, A. Newbold, K. F. Whitecross et al.,
+“Analysis of the apoptotic and therapeutic activities of
+histone deacetylase inhibitors by using a mouse model of
+B cell lymphoma,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 104, no. 19, pp.
+8071–8076, 2007.
+[152] M. T. Epping, L. Wang, J. A. Plumb et al., “A functional
+genetic screen identiﬁes retinoic acid signaling as a target
+of histone deacetylase inhibitors,” Proceedings of the National
+Academy of Sciences of the United States of America, vol. 104,
+no. 45, pp. 17777–17782, 2007.
+[153] W. Fiskus, R. Rao, P. Fernandez et al., “Molecular and
+biologic characterization and drug sensitivity of pan-histone
+deacetylase inhibitor resistant acute myeloid leukemia cells,”
+Blood, vol. 112, no. 7, pp. 2896–2905, 2008.
+[154] V. R. Fantin, A. Loboda, C. P. Paweletz et al., “Consti-
+tutive activation of signal transducers and activators of
+transcription predicts vorinostat resistance in cutaneous T-
+cell lymphoma,” Cancer Research, vol. 68, no. 10, pp. 3785–
+3794, 2008.
+

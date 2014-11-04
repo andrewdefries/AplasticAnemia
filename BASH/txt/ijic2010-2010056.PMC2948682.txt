@@ -1,0 +1,1226 @@
+This article is published in a peer reviewed section of the International Journal of Integrated Care 1
+International Journal of Integrated Care – ISSN 1568-4156
+Volume 10, 27 September 2010
+URL:http://www.ijic.org
+URN:NBN:NL:UI:10-1-100969
+Publisher: Igitur, Utrecht Publishing & Archiving Services
+Copyright:
+Research and Theory
+Evaluation of UK Integrated Care Pilots: research protocol
+Tom Ling, Director, Evaluation and Audit, RAND Europe, Westbrook Centre, Westbrook Centre, Milton Road, Cambridge CB4
+1YG, UK
+Martin Bardsley, Head of Research, Nuffield Trust, 59 New Cavendish Street, London W1G 7LP, UK
+John Adams, Senior Statistician, RAND Health, 1776 Main Street, Santa Monica, CA 90401-3208, USA
+Richard Lewis, Partner, Ernst and Young LLP, 1 More London Place, London SE1 2AF, UK
+Martin Roland, Professor of Health Services Research, Institute of Public Health, Forvie Site, Robinson Way, Cambridge CB2
+0SR, UK
+Correspondence to: Martin Roland, Professor of Health Services Research, Institute of Public Health, Forvie Site, Robinson
+Way, Cambridge CB2 0SR, UK, Phone: +44 1223 330329, Fax: +44 1223 762515, E-mail: mr108@cam.ac.uk
+Abstract
+Background: In response to concerns that the needs of the aging population for well-integrated care were increasing, the English National
+Health Service (NHS) appointed 16 Integrated Care Pilots following a national competition. The pilots have a range of aims including
+development of new organisational structures to support integration, changes in staff roles, reducing unscheduled emergency hospital
+admissions, reduced length of hospital stay, increasing patient satisfaction, and reducing cost. This paper describes the evaluation of the
+initiative which has been commissioned.
+Study design and data collection methods: A mixed methods approach has been adopted including interviews with staff and patients,
+non-participant observation of meetings, structured written feedback from sites, questionnaires to patients and staff, and analysis of rou-
+tinely collected hospital utilisation data for patients/service users. The qualitative analysis aims to identify the approaches taken to integra-
+tion by the sites, the benefits which result, the context in which benefits have resulted, and the mechanisms by which they occur.
+Methods of analysis: The quantitative analysis adopts a ‘difference in differences’ approach comparing health care utilisation before
+and after the intervention with risk-matched controls. The qualitative data analysis adopts a ‘theory of change’ approach in which we
+triangulate data from the quantitative analysis with qualitative data in order to describe causal effects (what happens when an independent
+variable changes) and causal mechanisms (what connects causes to their effects). An economic analysis will identify what incremental
+resources are required to make integration succeed and how they can be combined efficiently to produce better outcomes for patients.
+Conclusion: This evaluation will produce a portfolio of evidence aimed at strengthening the evidence base for integrated care, and in par-
+ticular identifying the context in which interventions are likely to be effective. These data will support a series of evaluation judgements
+aimed at reducing uncertainties about the role of integrated care in improving the efficient and effective delivery of healthcare.
+Keywords
+integrated care, evaluation, protocol
+This article is published in a peer reviewed section of the International Journal of Integrated Care  2
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+Background
+There are growing numbers of people with chronic con-
+ditions with a particularly rapid rise in the number with
+multiple care needs. The complex needs of people with
+multiple chronic conditions require the development of
+delivery systems that bring together a range of profes-
+sionals and skills from both the cure and care sectors
+to meet those needs. Despite this, service delivery has
+developed in ways that have tended to fragment care,
+both within and between sectors, through for example
+structural and financial barriers dividing providers at the
+primary/secondary care and at the health and social
+care interface; distinct organizational and professional
+cultures; and differences in terms of governance and
+accountability [1].
+A substantial number of evaluations have been carried
+out of interventions designed to improve the integra-
+tion or coordination of care. A systematic review based
+on 21 reviews and 85 primary studies [2] showed that
+many of these initiatives were effective in improv-
+ing care, though many fewer resulted in a reduction
+in healthcare costs (Table 1). One of the conclusions
+of this and other reviews is that the effectiveness of
+attempts to provide better integrated care is highly
+dependent on the context in which the intervention
+takes place. Interventions cannot be seen separated
+from the context in which they are introduced, and this
+has been an important guiding principle in the evalua-
+tion described in this paper.
+In response to concerns that the needs of the aging
+population for well-integrated care were increasing,
+the UK Department of Health for England announced
+in 2008 that a number of ‘Integrated Care Pilots’ would
+be established. Healthcare purchasers and provid-
+ers were invited to submit proposals for innovative
+approaches to providing better integrated care [3].
+There was no specification as to the form that such
+integration should take, or client groups who should
+receive the intervention. There were over 100 appli-
+cations, and after a two-stage selection process, the
+Department of Health selected 16 pilots. The locali-
+ties of selected pilots and the main focus of each are
+described in Annex 1.
+Table 1. Summary of the evidence on the effectiveness of interventions to improve coordination in health care, from Powell Davies et al. [2]
+Main focus of intervention Proportion (%)
+of studies with
+positive outcome
+for health
+Proportion (%) of
+studies with positive
+outcome for health/
+social care service
+user satisfaction
+Proportion
+(%) of studies
+with positive
+outcome for cost
+saving
+Changed relationships between service providers
+Structured relationships between service providers
+including co-location, case management, multi-disciplinary
+teams or assigning health/social care service users to a
+particular PHC provider (33 studies)
+19/29 (65.5%) 8/12 (66.7%) 2/12 (16.7%)
+Coordination of clinical activities
+Using structured arrangements for coordinating service
+provision between providers, including joint consultations,
+shared assessments and priority access to another clinical
+service (37 studies)
+19/31 (61.3%) 4/12 (33.3%) 3/15 (20%)
+Improving communication between service providers
+Interventions designed to improve communication between
+service providers, e.g. case conferences (56 studies)
+26/47 (55.3%) 12/22 (54.5%) 2/21 (14.3%)
+Support for clinicians
+Interventions include support or supervision for clinicians,
+training (joint or relating to collaboration), and reminder
+systems (33 studies)
+16/28 (57.1%) 8/14 (57.1%) 1/12 (8.3%)
+Information systems to support co-ordination
+Using information systems to support the coordination of
+care, including care plans; decision support, proformas;
+health/social care service user held or shared records;
+shared information or communication systems; and a
+register of health/social care service users (47 studies)
+23/38 (60.5%) 7/19 (36.8%) 2/13 (15.4%)
+Support for health/social care service users
+Interventions include education, reminders and assistance
+in accessing care (19 studies)
+6/17 (35.3%) 3/6 (50.0%) 1/7 (14.3%)
+All studies 36/65 (55.4%) 14/31 (45.2%) 5/28 (17.9%)
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 3
+A team from RAND Europe, Ernst and Young LLP and
+the University of Cambridge were appointed to carry
+out a three-year evaluation that was augmented by
+the inclusion in the evaluation of experts from the Nuf-
+field Trust. The evaluation aims to answer the following
+questions:
+What approaches to integration have been••
+employed by the pilots?
+What approaches to integration work well and in••
+what contexts?
+Who benefits from integration, in what ways, and••
+with what consequences for equity?
+What resources are required to make integration••
+succeed and how can these be efficiently used?
+In delivering integrated care in the English National••
+Health Service, what policies and practices are:
+most likely to deliver the intended outcome, most
+capable of being implemented and most accept-
+able to patients, users, clinicians, managers and
+the wider public.
+A mixed methods approach was adopted includ-
+ing interviews with staff and patients, non-participant
+observation of meetings, structured written feedback
+from sites, questionnaires to service users and staff,
+and analysis of routinely collected hospital utilisation
+data for patients/users who had been recruited into the
+pilots.
+Analytical framework
+Our approach to understanding the context in which
+integration takes place is based on two classifica-
+tions relating to structure and function. At the start of
+the evaluation these classifications were deliberately
+general to avoid focusing too early on very specific
+approaches to integrated care. We wanted to accom-
+modate the fact that that the pilots themselves were
+still refining their approaches.
+a) Structure
+Integration can be seen as occurring at three levels
+[4, 5]
+•• Micro-level integration activities. These promote
+integration among individual practitioners within
+a single organisation (e.g. between doctors and
+nurses in a primary care practice setting).
+•• Meso-level integration activities. These promote
+integration among practitioners working in different
+organisations (e.g. between GPs and specialists).
+This might include co-location of services, which
+could occur with or without macro-level activities,
+such as pooled budgets.
+•• Macro-level integration activities. These promote
+integration designed to facilitate organisation-to-
+organisation working, e.g. across different sectors.
+These may include policy agreements and finan-
+cial arrangements. Examples of these are pooled
+budgets or joint budget holding between health and
+social care services, employment of care staff in a
+single organisation, or structural changes to facili-
+tate work across two or more organisations.
+b) Function
+Integration can be classified [6] in terms of
+•• Organisational integration, where organisations
+are brought together by mergers or by structural
+change.
+•• Service integration, where different clinical services
+or support/back-office functions are integrated.
+•• Clinical integration, where the focus is on care for a
+particular condition.
+This classification will guide our analysis of the data,
+and our testing of the various hypotheses which arose
+during the course of the study. These included hypothe-
+ses that integrated care would lead to the development
+of new organisational structures to support integration,
+changes in staff roles, increased staff job satisfaction,
+fewer unscheduled emergency hospital admissions,
+reduced length of hospital stay, increased patient sat-
+isfaction, and reduced cost.
+It should be noted that the evaluation was designed and
+funded prior to the appointment of the integrated care
+pilots, so these hypotheses were developed during the
+first six months of the evaluation as a result of detailed
+interaction with the sites. This unusual research design
+allowed for the evaluation to be tailored to the aims of
+the sites which were not known at the time the evalua-
+tion team was appointed.
+Research methods
+Principles guiding the evaluation
+The evaluation described here adopts the approach
+of the ‘embedded evaluator’. The evaluation activi-
+ties form a distinct strand within the Integrated Care
+Pilot programme, helping to co-produce the successful
+delivery of the programme, rather than a completely
+separate study focused solely on contributing to the
+scientific understanding of integrated care. However,
+it is equally important that the evaluation contributes
+to scientific understanding and that it generates valid
+and independent evidence to support decision-making
+in the future. The approach combines systematically
+collecting and synthesizing evidence from across all
+the pilots together with a deeper investigation of a
+smaller number of pilots in order to gain more detailed
+This article is published in a peer reviewed section of the International Journal of Integrated Care  4
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+understanding of the structures, processes, costs and
+outcomes of integration.
+Integrated Care Pilots use a variety of integrating activ-
+ities (ranging from influencing, creating incentives,
+sharing information, creating new information systems
+and so forth) and have a variety of objectives (including
+improving the effectiveness and efficiency of services,
+enhancing patient reported outcomes and delivering
+measurable health improvements. In this context, the
+research approach is multi-method in order to under-
+stand both the activities pursued and the outcomes
+achieved. The evaluation is based on six approaches
+to data collection and analysis:
+Systematic qualitative data collection from all sites1.	
+(through a ‘Living Document’ which is a semi-struc-
+tured document completed regularly by each pilot
+site).
+In-depth case studies of six sites (‘Deep Dives’)2.	
+including interviews with staff and patients/service
+users and non-participant observation of meetings
+[see Section Systematic qualitative data collection
+from all sites (the ‘Living Document’) for more on
+why we decided to use case studies].
+Difference in differences analysis of data on hos-3.	
+pital utilization comparing patients/service users
+enrolled in pilots with control data.
+Data from patient questionnaires.4.	
+Data from staff questionnaires.5.	
+Analysis of costs (combining data from qualitative6.	
+case studies and quantitative data on service uti-
+lization).
+Evaluation involves a number of activities leading to an
+exercise of judgement [7, 8]. In evaluating the complex
+set of activities which broadly sit under the heading of
+‘Integrated Care Pilots’ we also seek to arrive at judge-
+ments which are seen to be legitimate by the stakehold-
+ers involved [9]. This requirement for legitimacy is one
+of the many ways in which ‘pure’ research is distinct
+from evaluation. This legitimacy potentially involves
+five steps (similar to those identified by Scriven [10]):
+Understand from those delivering the pilots and1.	
+from those funding the initiative the criteria they
+consider to be applicable.
+Agree the standards and intended outcomes that2.	
+are applicable.
+Gather data relating to these standards and out-3.	
+comes.
+Assess the contribution made by the agency/4.	
+activity in achieving these standards and outcomes.
+Form a performance audit judgement.5.	
+These steps protect the evaluators from the accusa-
+tion of being arbitrary or otherwise non-rational, but
+an important part of the logic of the evaluation is to
+develop a set of hypotheses based on the ‘theory of
+change’ offered up by the pilots themselves. Implicitly
+or explicitly, many evaluations of complex interventions
+use a ‘theory of change’ approach. These evaluations
+aim not only to understand the contribution made by a
+programme or activity to achieving outcomes, but also
+to interrogate evidence and communicate findings to
+support both learning and accountability. Our approach
+takes as its starting point the argument of Weiss [11,
+p. 66–67] that: “The concept of grounding evaluation
+in theories of change takes for granted that social pro-
+grammes are based on explicit or implicit theories about
+how and why the programme will work…The evalua-
+tion should surface those theories and lay them out in
+as fine detail as possible, identifying all the assump-
+tions and sub-assumptions built into the programme.
+The evaluators then construct methods for data collec-
+tion and analysis to track the unfolding assumptions.
+The aim is to examine the extent to which programme
+theories hold…the evaluation should show which of
+the assumptions underlying the programme are best
+supported by the evidence.”
+In this sense, ‘theories of change’ is a guiding approach
+rather than a methodology, and its successful delivery
+requires harnessing a range of methodologies, such
+as those outlined elsewhere in this paper. Our ‘theo-
+ries of change’ approach has five precepts. First the
+approach requires us to not only look at the outcomes
+of the programme but to pay equal attention to pro-
+cesses. This contrasts with more classical evalua-
+tion approaches which tend to look at outcomes first
+and then to look for evidence to support attribution.
+Secondly, the approach requires a more ‘embedded’
+evaluator where the evaluator works closely with policy
+makers, practitioners and end users to understand and
+elaborate a sometimes changing theory of change.
+Without losing their independence, successful evalu-
+ators will understand the world of the policy makers,
+practitioners and service users, including an under-
+standing of what motivates their behaviour. Thirdly, the
+approach requires an ability to reconstruct and rep-
+resent the sequence of events connecting actions to
+each other and how these contributed to the outcomes
+identified, reconstructing at least the sequence of
+events and statistical co-variations, but preferably also
+identifying the causal mechanisms at work. Fourthly,
+the approach is sensitive to the possibility that during
+the life of a programme or intervention, initial theories
+of change may alter in response to learning or to exog-
+enous events and that the evaluation needs to capture
+these changing understandings and actions. Fifthly, it
+will also be sensitive to the fact that different and poten-
+tially conflicting theories of change might be simultane-
+ously pursued within any one programme. Collectively,
+these precepts describe an interest not only in causal
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 5
+effects (what happens when an independent variable
+changes) but also causal mechanisms (what connects
+causes to their effects); not only what officials say they
+do but what the evidence shows they do; and not only
+what contribution stories practitioners tell themselves
+and others but also what really contributes to benefit.
+Therefore, theory building and testing is an important
+part of the approach taken but it does not start with a
+priori theoretical claims or assumptions.
+Systematic qualitative data collection
+from all sites (the ‘Living Document’)
+The Living Document involves semi-structured data
+collection from all Integrated Care Pilots at approxi-
+mately six-monthly intervals during the evaluation.
+A lead person is designated in each site to collate
+responses in the Living Document, but in most cases,
+this individual draws on a variety of sources in collating
+responses, and there is an expectation that the views
+of a wide range of stakeholders will be represented in
+the completion of the document. The data collected
+in the Living Document are organised into a series of
+broad questions:
+Development of the pilot and background informa-••
+tion. Questions identifying the background, purpose
+and background setting of the pilot.
+Who is doing what? Identifying the main people••
+and organisations involved, and their roles in imple-
+menting the pilot.
+Processes—identifying the intended processes,••
+and processes which have been implemented so
+far.
+Outputs and outcomes achieved so far.••
+Progress to date. A description of progress to date,••
+an assessment of progress against plan, and an
+outline of what has facilitated/prevented progress.
+Sustainability. Assessment of how arrangements to••
+promote sustainability are progressing.
+Attribution of changes to specific initiatives relating••
+to the pilot. An assessment of how much difference
+is really being made by the pilot itself, in the context
+of other health policy initiatives which are taking
+place concurrently.
+Resource implications of the pilot. Without attempt-••
+ing to provide a precise monetary value to the out-
+comes of the pilot, an assessment of the costs of
+the pilot, and whether benefits might have been
+achieved more easily in other ways.
+After each round of data collection, data from the Liv-
+ing Document are analysed, and feedback is given
+in two ways. First, limited feedback is given to each
+site, including the opportunity to specify where more
+detailed information is needed in future rounds of
+Living Document completion. Second, the overall
+themes emerging from the Living Document are analy-
+sed, and these are fed back in a single document to all
+sites after each round of data collection. This analysis
+also contributes to ‘learning events’ (conferences and
+teleconferences to address different issues of rele-
+vance to pilots) which are being run by the Department
+of Health throughout the pilot period, and subsequent
+rounds of the Living Document are adapted in light of
+feedback from the sites.
+In-depth case studies of six sites
+(‘Deep Dives’)
+We selected a range of types of pilots for in-depth case
+study to reflect the range of approaches in the pilots
+and then select a sample from these reflecting the need
+for variety and site’s ability to support a more detailed
+evaluation. For the depth case studies in six sites, we
+will structure the evaluation using an approach that
+combines logic modeling with process mapping of the
+patient journey. These methods will complement each
+other in creating a full picture of the integration path-
+ways. Logic models [12] provide a brief summary of
+the key elements of an intervention (or programme, or
+project) and organize inputs, processes, outputs and
+outcomes systematically. They facilitate a focus on the
+causal links in the chain connecting the allocation of
+resources to the intended outcomes. As such, they are
+well suited to supporting an understanding the ‘theory
+of change’ underpinning the activity and simultane-
+ously identifying the sorts of data that might support or
+weaken that theory [11].
+This approach will provide both a way to describe and
+communicate the different interventions but also to
+provide a basis for what, causally, is happening. It will
+provide the framework for understanding how the inputs
+of a pilot are related to its outcomes and impacts. They
+are especially helpful in developing a shared under-
+standing of a process between stakeholders and serve
+as a reference point for stakeholders in the initiative
+or programme. Process mapping the service user
+experience, by contrast, involves understanding the
+motivations, experiences and outcomes of the various
+interactions between the service user and the (inte-
+grated) service [13].
+Using these case studies, we will address the following
+questions:
+Whatapproachestointegrationhavebeenemployed••
+by the pilots? This will provide a richer description
+of models than is possible in the overall national
+evaluation by exploring experiences, motivations,
+relationships, processes and costs in more detail.
+This article is published in a peer reviewed section of the International Journal of Integrated Care  6
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+conditions (see Annex 2), and length of stay. We
+derived the list of ambulatory sensitive conditions from
+AHRQ [14] and Purdy et al. [15].
+Information will be available for the individuals enrolled
+in any intervention, and also for the whole populations
+of general practices which are participating in the Inte-
+grated Care Pilot. The data will be at person level but
+anonymised so that the research team cannot identify
+sensitive personal information or individual identities.
+The NHS Information Centre for Health and Social
+Care will act a trusted third party to handle any confi-
+dential information and create the anonymised linked
+fields for use by the research team.
+One of the key challenges in undertaking analyses of
+changes in hospital use for complex interventions is
+that individuals may be selected for an intervention
+because they have a high use of health services. The
+problem is that any subsequent fall in utilisation in this
+group may simply be due to regression to the mean—
+that is people reverting to a normal level of use irre-
+spective of the intervention. One way round this is to
+use an approach that allows us to standardise for dif-
+ferences in the risk of future admissions.
+First, we will assess the impact of the intervention on
+individuals enrolled in the Integrated Care Pilots. Infor-
+mation on the prior patterns of diagnoses and hospital
+utilisation will be used to stratify cases according to the
+risk of admission. The actual level of utilisation before
+and after the agreed starting point in each pilot will be
+compared. In this way we will be able to track levels of
+hospital use for cohorts of people for 2–3 years before
+they became part of the pilot. We will then test for sub-
+sequent change and compare results by risk strata.
+In addition, we will undertake a more sophisticated
+analysis to create a matched ‘control group’ con-
+structed by identifying individuals within national data.
+These control cases will be matched on a number of
+variables including risk of admission (or other hospital
+use); major diseases recorded; history of hospital use;
+and characteristics of the area of residence, such as
+levels of deprivation. Matching will be conducted using
+propensity scoring techniques [16] and prognostic
+scoring techniques [17]. Trends in hospital use within
+the groups of selected control cases will then be used
+as a test of observed differences in those enrolled in
+the Integrated Care Pilots.
+Second, we will quantify the effect of the interventions
+on wider groups of patients (e.g. practice populations)
+by matching utilization data to that from to similar prac-
+tice populations in national HES datasets. The popula-
+tion level analysis will assess whether the intervention
+might not only have an impact on individual patients
+but also upon the wider population.
+What approaches to integration work well and in••
+what contexts? This will generate data linking puta-
+tive causes to observed effects i.e. understanding
+causal mechanisms.
+Who benefits from integration and in what ways••
+(what definitions are there of ‘success’)? This will
+identify how benefits are distributed and with what
+implications for equality.
+What resources are required to make integration••
+succeed and how can these be efficiently used?
+This will identify the descriptive categories of costs,
+establishing their dimensions, estimating overall
+costs, and suggesting how generalisable these
+findings might be. The Living Document will help
+identify what types of costs become apparent at
+various stages of development of a project.
+How the development of integrated care is facilitated••
+or impeded by other current policies, e.g. payment
+by results, practice-based commissioning etc.
+From these analyses, we aim to identify what policies
+and practices are most suitable (i.e. fit for purpose and
+likely to deliver the intended outcome); most feasible
+(i.e. capable of being implemented given the existing
+architecture of delivery and accountability); and most
+acceptable (i.e. likely to generate the support of the
+people who use services, clinicians and other profes-
+sionals, managers and the wider public).
+There will be three key data collection methods: semi-
+structured interviews with professionals and patients/
+service users, documentary analysis, non-participant
+observation of meetings. The qualitative data collec-
+tion in the Deep Dive sites will also be used to collect
+data for the economic analysis (see below).
+Interviews with staff will concentrate on the experience
+of delivering care, interactions with other professional
+groups and organizations within the Integrated Care
+Pilot, and understanding of implications for the wider
+care system. Interviews with patients and users will
+focus on the patient/user journey and experience and
+its relationship to changes in the Integrated Care Pilots.
+Service utilisation
+In analysing data on service utilisation, we will focus
+principally on hospital admissions as a key variable,
+as many of the sites have a focus on reducing such
+admissions.
+Data will be taken from Hospital Episode Statistics
+(HES), both for outpatient referrals, accident and
+emergency attendances and inpatient stays. These will
+enable analyses of changes in a number of measures
+of hospital use including overall rates of emergency
+admissions, admissions for ‘ambulatory sensitive’
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 7
+both observed differences between intervention and
+control groups as well controlling for unobserved but
+fixed person characteristics.
+The aim of identifying risk-matched controls and using
+propensity score analysis is to allow so far as possible
+for unmeasured patient and system effects and there-
+fore to increase our ability to draw conclusions about
+likely cause and effect from what inevitably remains
+observational data.
+Questionnaires for service users
+We are conducting two surveys to assess the experi-
+ence of service users in 11 of the 16 pilots. The survey
+is being administered in autumn/winter 2009 and will
+be repeated on the same sample of service users in
+autumn 2010. The questionnaire was developed using
+the intended outcomes identified by pilot sites in their
+applications to join the scheme. This identified a num-
+ber of domains which were common to most pilots and
+were therefore included in the questionnaire. These
+were:
+Communication with primary care doctors and••
+nurses.
+Organisation and coordination of care.••
+Care planning.••
+Assessment of care from social services.••
+Arrangements following discharge from hospital.••
+Frequency of certain critical events (notes unavail-••
+able, test duplicated, wrong medication or wrong
+dose of medication prescribed, no follow-up
+arrangements after hospital discharge).
+In addition, a question on service usage was included
+to contribute to the analysis of health service costs
+(see below). The questionnaire is available from the
+authors.
+In selecting items to represent these domains, we
+drew questions were possible from existing validated
+instruments. In particular we drew a substantial num-
+ber of questions from the English National GP patient
+survey which is currently sent annually to 5.5 million
+randomly sampled patients (www.gp-patient.co.uk).
+By matching the socio-demographic and health ques-
+tions to this survey also, we will be able to conduct a
+difference in differences analysis with individual con-
+trol patients drawn from responders to the national
+survey.
+For five pilot sites it was not appropriate to collect
+patient information using this questionnaire because
+of the nature of the intervention and/or the population
+group targeted by the intervention (for example, some
+pilots were focusing on end of life care). These sites
+are excluded from this part of the evaluation.
+Both of these approaches to analysis are required as
+there might be an impact of the interventions on indi-
+viduals (e.g. a reduction in admissions) which could not
+be demonstrated in the wider population. This might be
+because resources were simply redistributed between
+groups at equal risk of admission, or because the num-
+bers enrolled in the pilots were too small to show an
+effect on the wider population.
+Sample size calculations suggest that few of the Inte-
+grated Care Pilot sites will enroll sufficient numbers for
+data from individual sites to be analysed. We therefore
+intend to pool data from sites which have similar aims
+and are providing broadly comparable interventions.
+It is not possible to say which sites will provide data
+that can be pooled, as all sites are still developing their
+interventions. However, it looks likely, for example, that
+several sites will be using a form of case management
+of high-risk patients with the aim of reducing hospital
+admission, and we will be able to pool data from such
+sites. Data will also be analysed on primary and social
+care utilisation (from patient questionnaires). However,
+these data are being collected primarily for the eco-
+nomic analysis, as none of the sites has reduction in
+primary care utilisation as their main goal.
+Our analysis strategy is built around a generalized
+difference-of-differences regression approach at the
+person level. Regression models appropriate for each
+of the outcome measures (e.g. emergency admis-
+sions) will be developed. These may be Poisson mod-
+els, negative binomial models, or gamma models as
+required by the form of the measure. Each individual
+will contribute one or more time periods to the data-
+set in both the pre- and post-intervention periods.
+Non-intervention controls will come from routinely col-
+lected national data. These models will use covariates
+including basic demographics and historical utilization
+to control for potential differences between the inter-
+vention and control cases. Person level random effects
+will also be included in the models to adjust standard
+errors for the repeated measures within person.
+In addition to the traditional covariate adjustment in
+the difference-of-differences model we will use pro-
+pensity score based methods. In a combined dataset
+of intervention cases and non-intervention controls a
+propensity score model will be fitted that uses avail-
+able covariates to predict intervention vs. control sta-
+tus. The predicted treatment status probabilities can
+be used to match intervention and control cases.
+We may also use the propensity scores to produce
+analysis weights which can be combined with cova-
+riate adjustment to support ‘doubly robust’ estimation
+of intervention effects [18]. Doubly robust estimation
+combined with difference-of-differences modeling will
+provide intervention effect estimates that control for
+This article is published in a peer reviewed section of the International Journal of Integrated Care  8
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+Care Pilots. This will provide a sense of how much
+the approach might cost if it were implemented else-
+where. An important part of this will be through data
+collection in the Deep Dive sites where we will use the
+logic model, process maps, key informant interviews,
+and documentary evidence to produce estimates of
+the costs of providing integrated care. This will enable
+us to identify the categories of cost and the scale of
+resources required to deliver different models of inte-
+gration. We aim to produce a clear understanding of
+the main categories of cost (staff by grade, equipment,
+building, travel etc.), the likely range of costs within
+each category, and subsequently estimate best, worst
+and most likely case scenarios.
+We will also distinguish between ‘set-up’ costs and ‘run-
+ning costs’, although in a fluid, adaptive and improving
+system it may be difficult to draw this distinction. For
+both of these we need to distinguish between the costs
+associated with participating in the DH programme
+(including, for example, participation in events, report-
+ing, contributing to the national evaluation) and the
+costs solely required to deliver the integrated care pro-
+gramme. We also aim to gather data through time that
+can show how costs have altered in response to actual
+service delivery or in order to overcome changing
+circumstances etc. We propose only to look at costs
+internal to the health and social care system (including
+private sector partners) but we will be aware that costs
+could potentially be externalised onto service users
+and carers and we will ask service users and staff to
+comment on their sense of the types and magnitudes
+of these costs.
+Across the Integrated Care Pilots where we are col-
+lecting quantitative data on hospital utilisation, data on
+hospital admissions and length of stay will be costed
+using standard NHS costs, and included in the con-
+trolled difference in differences analysis described in
+above.
+Conclusion
+Selecting evaluation frameworks always involves a
+degree of compromise to meet conflicting demands
+within a finite budget. We have opted to balance the
+collection of data from across all the pilots with more
+detailed data from six Deep Dive sites. We have also
+opted to focus the evaluation on what the pilots them-
+selves told us they were seeking to achieve. The ben-
+efit of this is that we will be in a position to provide
+an evaluation which is grounded firmly in what the
+pilots are seeking to do. This increases the chances
+that findings will be acceptable and used. However,
+it also means that some theoretical propositions will
+be under-explored and that attention may be directed
+Questionnaires are being sent to up to 500 service
+users in each site. Where the site has identified more
+that 500 service users by autumn 2009, a random
+sample of 500 will be taken. Where fewer than 500
+service users have been identified by March 2010, the
+questionnaire is sent to them all. Where a site is enroll-
+ing patients/service users sequentially during autumn
+2009/spring 2010, all patients receive a questionnaire
+until 500 have been enrolled. Those individuals who
+receive a questionnaire in autumn 2009/spring 2010
+will receive a second questionnaire in autumn 2010.
+For all service users, the site identifies the start data
+of any intervention, so that we can determine whether
+questionnaires returned have been completed before
+or after the start of the intervention.
+Questionnaires for health and social
+care staff
+We are conducting two cross-sectional staff surveys
+within the 16 pilot sites, involving health and social
+care staff (including community nurses, GPs and
+social workers), in spring 2010, and repeated in spring
+2011. The staff questionnaire has substantial sections
+for free text to allow staff to describe their experience
+of the pilot in more detail, and these sections will be
+transcribed for qualitative analysis. The questionnaire
+includes sections on:
+Job changes since the introduction of the Integrated••
+Care Pilot.
+Perceived changes to the care that patients/service••
+users receive.
+Changes in communication within and between••
+employing organisations.
+Changes in team working.••
+Communication with other health and social care••
+staff.
+Job satisfaction, ability to deliver high quality care.••
+For the staff survey the targeted sample size is 50
+staff from each site. The first are staffs who are closely
+involved in the development of the pilot (e.g. employed
+by the pilot). There are expected to be between 5 and
+15 of these per site. The additional 35–45 will be sent
+to stratified random samples of practitioners whose
+work might be altered by the pilot—e.g. GPs, commu-
+nity nurses, social workers.
+Economic analysis
+There are two approaches to the economic evalua-
+tion. The first is to estimate costs in order to provide
+decision-makers in the health and social care systems
+with a basis for understanding the categories and
+potential range of costs associated with the Integrated
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 9
+evidence base for integrated care, and in particular
+identifying the context in which interventions are likely
+to be effective. These data will support a series of eval-
+uation judgements but it is important to recognise that
+they cannot be arrived at by simple aggregation of data
+[20]. Rather, the process locates the new data within
+the existing body of research and forms judgements
+about what is added and how compelling this addi-
+tional evidence is, thus reducing uncertainties about
+the role of integrated care in improving the efficient and
+effective delivery of healthcare.
+Acknowledgements
+The study was funded by the Department of Health
+and is being carried out by RAND Europe and Ernst
+and Young. The views expressed are those of the
+authors and not of the Department of Health and does
+not constitute any form of assurance, legal opinion or
+advice. RAND Europe and Ernst and Young shall have
+no liability to any third party in respect to the contents
+of this article.
+Reviewers
+Guus Schrijvers, Prof. Dr., Julius Centre for Patient
+Oriented Research, The University Medical Centre
+Utrecht, The Netherlands
+Nick Goodwin, PhD, Senior Fellow, Policy Director-
+ate, King’s Fund, London, UK
+Ingrid Mur, Dr. (Associate Professor), Department of
+Health Organisation, Policy and Economics (H.O.P.E.),
+Faculty of Health Sciences, University of Maastricht,
+The Netherlands
+more towards intended outcomes than unintended
+outcomes. However, we are satisfied that this risk is
+managed by independent data collection (for example
+on service utilisation, service user surveys and staff
+surveys) and by the iterative way of working with those
+responsible for running each project.
+In planning to assess the evidence produced by this
+evaluation, we have been influenced by the principles
+of realistic evaluation [19] in which the mechanism
+(the intervention) acts in context to produce the out-
+come. If there is a single lesson from previous evalu-
+ations of attempts to integrate or coordinate care, it
+is that the context in which an intervention is intro-
+duced is crucially important to its success or failure.
+So, in this evaluation, we have committed substan-
+tial resources to the qualitative evaluation, knowing
+that these analyses will be critical to interpreting the
+results of quantitative analyses. Our approach is to
+understand not only the ‘dose, frequency and effect’
+but to identify the way pilots learn, respond and
+evolve and to take into account the expectations and
+motivations of staff and patients to understand how
+complex and evolving projects might have lessons for
+others seeking to do related things in different con-
+texts. Policy makers, professionals, managers, car-
+ers and patients are all part of an emergent process.
+We do not expect to measure precisely all effects but
+we do expect to understand the likely scope of ben-
+efits and the scale of efforts required, to contribute
+to the analysis of health service interventions and
+so reduce decision-makers’ uncertainties about inte-
+grated care.
+This evaluation will produce a portfolio of evidence
+including interviews, surveys, cost estimations and
+service utilisation data aimed at strengthening the
+References
+1. Glasby J, Dickinson H, Peck E. Partnership working in health and social care. Health and Social Care in the Community
+2006;14(5):373–4.
+2. Powell Davies G, Williams AM, Larsen K, Perkins D, Roland M, Harris M. Coordinating primary health care: an analysis of
+the outcomes of a systematic review. Medical Journal of Australia 2008;188(8 Suppl):S65–8.
+3. Department of Health, UK. Integrated Care Programme: prospectus for potential pilots, 2008. [webpage on the internet]
+[cited August 31, 2010]. Available from: http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/docu-
+ments/digitalasset/dh_089370.pdf.
+4. Grone O, Garcia-Barbero M. Integrated care: a position paper of the WHO European office for integrated health care services.
+International Journal of Integrated Care [serial online] 2001 Jun 1; 1. Available from: http://www.ijic.org/. URN:NBN:NL:UI:10-
+1-100270.
+5. Epping-Jordan JE, Pruitt SD, Bengoa R, Wagner EH. Improving the quality of health care for chronic conditions. Quality and
+Safety in Health Care 2004;13:299–305.
+6. Fulop N, Mowlem A, Edwards N. Building integrated care: lessons from the UK and elsewhere. London: The NHS Confed-
+eration. 2005. [webpage on the internet] [cited August 31, 2010]. Available from: http://www.nhsconfed.org/Publications/
+Documents/Building%20integrated%20care.pdf.
+This article is published in a peer reviewed section of the International Journal of Integrated Care  10
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+7. Schwandt TA. The relevance of practical knowledge traditions to evaluation practice. In: Smith NL, Brandon PR, editors.
+Fundamental issues in evaluation. New York: Guildford Press; 2008. p. 29–40.
+8. Ling T, Villalba L. The performance audit handbook. Cambridge: RAND Europe Cambridge; 2009.
+9. Hurteau M, Houle S, Mongiat S. How legitimate and justified are judgements in programme evaluation? Evaluation
+2009;15(3):307–19.
+10. Scriven M. The logic of evaluation. Inverness CA: Edge Press; 1980.
+11. Weiss CH. Nothing as practical as a good theory: exploring theory based evaluation for comprehensive community initia-
+tives for children and families. In: Connell J, Kubisch AC, Schorr LB, Weiss CH, editors. New approaches to evaluating
+community initiatives: concepts, methods and contexts. Washington DC: The Aspen Institute; 1995. p. 65–92.
+12. W.K. Kellogg Foundation. W.K. Kellogg Foundation Logic Model Development Guide. 2001. [webpage on the internet]
+[cited August 31, 2010]. Available from: http://www.wkkf.org/knowledge-center/resources/2010/Logic-Model-Development-
+Guide.aspx.
+13. Audit Scotland. The map to success. 2000. [webpage on the internet] [cited August 31, 2010]. Available from: www.audit-
+scotland.gov.uk/docs/local/2000/nr_010201_process_mapping.pdf.
+14. Agency for Healthcare Quality and Research. AHRQ Quality Indicators—Guide to prevention quality indicators: hospital
+admission for ambulatory care sensitive conditions. October 2001, Version 3.1 (March 12, 2007). Department of Health and
+Human Services. [webpage on the internet] [cited August 31, 2010]. Available from: http://www.qualityindicators.ahrq.gov.
+15. Purdy S, Griffin T, Salisbury C, Sharp D. Ambulatory care sensitive conditions: terminology and disease coding need to be
+more specific to aid policy makers and clinicians. Public Health 2009;123(2):169–73.
+16. Rosenbaum PR, Rubin DB. The central role of the propensity score in observational studies for causal effects. Biometrica
+1983;70(1):41–55.
+17. Hansen BB. The prognostic analogue of the propensity score. Biometrica 2008;95:481–8.
+18. Bang H, Robins JM. Double robust estimation in missing data and causal inference models. Biometrics 2005;61(4):962–
+73.
+19. Pawson R, Tilley. Realistic evaluation. London: Sage; 1998.
+20. Ling T. What counts as “sufficient evidence” and a “compelling argument” in evaluation? In: Rieper O, Leeuw F, Ling T, edi-
+tors. The evidence book: concepts, generation and use of evidence. Washington: Transaction Publishing; 2009. p. 53–65.
+[Comparative Policy Evaluation, vol 15].
+Annex 1
+Summary of focus of individual Integrated Care Pilot sites
+Pilot Main focus (some sites have other objectives also)
+Bournemouth and Poole Structured support for people with dementia in the community
+Cambridge Support for end of life care in the community; reduction in unnecessary admissions to hospital
+Church View Medical Practice Improved support for people with long-term conditions at risk of admission to hospital
+Cumbria Improved support for people with long-term conditions at risk of admission to hospital
+Durham Dales Providing integrated primary and secondary care service for acutely ill people, improved
+community services, moving specialist services into the community, identification of people at
+risk of fuel poverty
+Northamptonshire Integrated
+Care Partnership (NENE)
+Improved support for people with long-term conditions at risk of admission to hospital
+Newquay Structured support for people with dementia in the community
+Norfolk Improved support for people with long-term conditions at risk of admission to hospital
+North Tyneside Screening of patients at risk of falls: assessment by multi-disciplinary team
+Northumbria Improved support for people with COPD with a history of admissions to hospital
+North Cornwall Mental health care
+Principia Partners in Health Improved support for people with long-term conditions at risk of admission to hospital. Second
+stream has specific focus on people with COPD
+Tameside and Glossop Structured programme of identification and management of people at risk of cardio-vascular
+disease (CVD). Second stream of work for people with established CVD
+Torbay Improved discharge planning. Support for GPs from community geriatrician. Improved support
+for people in the community with dementia, COPD and congestive cardiac failure. Falls
+prevention programme
+Tower Hamlets Structured care for people with diabetes
+Wakefield Integrated Substance Misuse
+Service
+Implementation of ‘dashboard’ routinely feeding back performance data for services providing
+care for people with substance misuse
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 11
+Annex 2
+List of ‘ambulatory care sensitive conditions’ (ACSCs) and associated ICD-10 codes (derived from AHRQ [14] and
+Purdy et al. [15]). These are admissions for diagnoses that in principle may be preventable by good quality primary
+care
+Ambulatory care sensitive condition ICD-10 code Definition
+Alcohol-related disease F10 Mental and behavioural disorders due to use of alcohol
+Angina I20 Angina pectoris
+Angina I240 Coronary thrombosis not resulting in myocardial infarction
+Angina I248 Other forms of acute ischemic heart disease
+Angina I249 Acute ischemic heart disease, unspecified
+Angina I25 Chronic ischemic heart disease
+Angina R072 Precordial pain
+Asthma J45 Asthma
+Asthma J46 Status asthmaticus
+Atrial fibrillation and flutter I471 Supra-ventricular tachycardia
+Atrial fibrillation and flutter I479 Paroxysmal tachycardia, unspecified
+Atrial fibrillation and flutter I495 Sick sinus syndrome
+Atrial fibrillation and flutter I498 Other specified cardiac arrhythmias
+Atrial fibrillation and flutter I499 Cardiac arrhythmia, unspecified
+Atrial fibrillation and flutter R000 Tachycardia, unspecified
+Atrial fibrillation and flutter R002 Palpitations
+Atrial fibrillation and flutter R008 Other and unspecified abnormalities of heart beat
+Cellulitis I891 Lymphangitis
+Cellulitis L010 Impetigo [any organism] [any site]
+Cellulitis L011 Impetiginization of other dermatoses
+Cellulitis L020 Cutaneous abscess, furuncle, and carbuncle of face
+Cellulitis L021 Cutaneous abscess, furuncle, and carbuncle of neck
+Cellulitis L022 Cutaneous abscess, furuncle, and carbuncle of trunk
+Cellulitis L023 Cutaneous abscess, furuncle, and carbuncle of buttock
+Cellulitis L024 Cutaneous abscess, furuncle, and carbuncle of limb
+Cellulitis L028 Cutaneous abscess, furuncle, and carbuncle of other sites
+Cellulitis L029 Cutaneous abscess, furuncle, and carbuncle, unspecified
+Cellulitis L03 Cellulitis
+Cellulitis L04 Acute lymphadenitis
+Cellulitis L080 Pyoderma
+Cellulitis L088 Other specified local infections of skin and subcutaneous tissue
+Cellulitis L089 Local infection of skin and subcutaneous tissue, unspecified
+Cellulitis L88 Pyoderma gangrenosum
+Cellulitis L980 Pyogenic granuloma
+Congestive heart failure I110 Hypertensive heart disease with (congestive) heart failure
+Congestive heart failure I130 Hypertensive heart and renal disease with (congestive) heart failure
+Congestive heart failure I132 Hypertensive heart and renal disease with both (congestive) heart failure and
+renal failure
+Congestive heart failure I255 Ischemic cardiomyopathy
+Congestive heart failure I50 Heart failure
+Congestive heart failure J81 Pulmonary edema
+Constipation K590 Constipation
+Convulsions and Epilepsy G253 Myoclonus
+Convulsions and Epilepsy G40 Epilepsy
+Convulsions and Epilepsy G41 Status epilepticus
+Convulsions and Epilepsy R56 Convulsions, not elsewhere classified
+COPD J40 Bronchitis, not specified as acute or chronic
+COPD J41 Simple and mucopurulent chronic bronchitis
+COPD J42 Unspecified chronic bronchitis
+COPD J43 Emphysema
+COPD J44 Other chronic obstructive pulmonary disease
+COPD J47 Bronchiectasis
+COPD J20 Acute bronchitis
+Dehydration and gastroenteritis A020 Salmonella gastroenteritis
+Dehydration and gastroenteritis A04 Other bacterial intestinal infections
+Dehydration and gastroenteritis A059 Bacterial food-borne intoxication, unspecified
+Dehydration and gastroenteritis A072 Cryptosporidiosis
+Dehydration and gastroenteritis A080 Rotaviral enteritis
+This article is published in a peer reviewed section of the International Journal of Integrated Care  12
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+Ambulatory care sensitive condition ICD-10 code Definition
+Dehydration and gastroenteritis A081 Acute gastroenteropathy due to Norwalk agent
+Dehydration and gastroenteritis A082 Adenoviral enteritis
+Dehydration and gastroenteritis A083 Other viral enteritis
+Dehydration and gastroenteritis A084 Viral intestinal infection, unspecified
+Dehydration and gastroenteritis A085 Other specified intestinal infections
+Dehydration and gastroenteritis A09 Diarrhea and gastroenteritis of presumed infectious origin
+Dehydration and gastroenteritis E86 Volume depletion
+Dehydration and gastroenteritis K520 Gastroenteritis and colitis due to radiation
+Dehydration and gastroenteritis K521 Toxic gastroenteritis and colitis
+Dehydration and gastroenteritis K522 Allergic and dietetic gastroenteritis and colitis
+Dehydration and gastroenteritis K528 Other specified non-infective gastroenteritis and colitis
+Dehydration and gastroenteritis K529 Non-infective gastroenteritis and colitis, unspecified
+Dementia F00 Dementia in Alzheimer’s disease
+Dementia F01 Vascular dementia
+Dementia F02 Dementia in other diseases classified elsewhere
+Dementia F03 Unclassified dementia
+Dementia R54 Senility
+Dental conditions A690 Necrotizing ulcerative stomatitis
+Dental conditions K02 Dental caries
+Dental conditions K03 Other diseases of hard tissues of teeth
+Dental conditions K04 Diseases of pulp and periapical tissues
+Dental conditions K05 Gingivitis and periodontal diseases
+Dental conditions K06 Other disorders of gingiva and edentulous alveolar ridge
+Dental conditions K08 Other disorders of teeth and supporting structures
+Dental conditions K098 Other cysts of oral region, not elsewhere classified
+Dental conditions K099 Cyst of oral region, unspecified
+Dental conditions K12 Stomatitis and related lesions
+Dental conditions K13 Other diseases of lip and oral mucosa
+Diabetes complications E100 Insulin-dependent diabetes mellitus with coma
+Diabetes complications E101 Insulin-dependent diabetes mellitus with ketoacidosis
+Diabetes complications E102 Insulin-dependent diabetes mellitus with renal complications
+Diabetes complications E103 Insulin-dependent diabetes mellitus with ophthalmic comps
+Diabetes complications E104 Insulin-dependent diabetes mellitus with neurological comps
+Diabetes complications E105 Insulin-dependent diabetes mellitus with periph circ comps
+Diabetes complications E106 Insulin-dependent diabetes mellitus with other spec comps
+Diabetes complications E107 Insulin-dependent diabetes mellitus with multiple comps
+Diabetes complications E108 Insulin-dependent diabetes mellitus with unspec comps
+Diabetes complications E110 Non-insulin-dependent diabetes mellitus with coma
+Diabetes complications E111 Non-insulin-dependent diabetes mellitus with ketoacidosis
+Diabetes complications E112 Non-insulin-dependent diabetes mellitus with renal comps
+Diabetes complications E113 Non-insulin-dependent diabetes mellitus with ophthalm comps
+Diabetes complications E114 Non-insulin-dependent diabetes mellitus with neuro comps
+Diabetes complications E115 Non-insulin-dependent diabetes mellitus with periph circ comp
+Diabetes complications E116 Non-insulin-dependent diabetes mellitus with other spec comp
+Diabetes complications E117 Non-insulin-dependent diabetes mellitus with multiple comps
+Diabetes complications E118 Non-insulin-dependent diabetes mellitus with unspec comps
+Diabetes complications E120 Malnutrition-related diabetes mellitus with coma
+Diabetes complications E121 Malnutrition-related diabetes mellitus with ketoacidosis
+Diabetes complications E122 Malnutrition-related diabetes mellitus with renal comps
+Diabetes complications E128 Malnutrition-related diabetes mellitus with unspec comps
+Diabetes complications E130 Other specified diabetes mellitus with coma
+Diabetes complications E131 Other specified diabetes mellitus with ketoacidosis
+Diabetes complications E132 Other specified diabetes mellitus with renal complications
+Diabetes complications E133 Other specified diabetes mellitus with ophthalmic comps
+Diabetes complications E134 Other specified diabetes mellitus with neurological comps
+Diabetes complications E135 Other specified diabetes mellitus with periph circ comps
+Diabetes complications E136 Other specified diabetes mellitus with other spec comps
+Diabetes complications E137 Other specified diabetes mellitus with multiple comps
+Diabetes complications E138 Other specified diabetes mellitus with unspecified comps
+Diabetes complications E140 Unspecified diabetes mellitus with coma
+Diabetes complications E141 Unspecified diabetes mellitus with ketoacidosis
+Diabetes complications E142 Unspecified diabetes mellitus with renal complications
+Diabetes complications E143 Unspecified diabetes mellitus with ophthalmic complications
+Annex 2 (Continued)
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 13
+Ambulatory care sensitive condition ICD-10 code Definition
+Diabetes complications E144 Unspecified diabetes mellitus with neurological comps
+Diabetes complications E145 Unspecified diabetes mellitus with periph circulatory comps
+Diabetes complications E146 Unspecified diabetes mellitus with other specified comps
+Diabetes complications E147 Unspecified diabetes mellitus with multiple complications
+Diabetes complications E148 Unspecified diabetes mellitus with unspecified complications
+Dyspepsia and other stomach function
+disorders
+K21 Gastroesophageal reflux disease
+Dyspepsia and other stomach function
+disorders
+K30 Dyspepsia
+Ear, nose and throat infections H66 Suppurative and unspecified otitis media
+Ear, nose and throat infections H67 Otitis media in diseases classified elsewhere
+Ear, nose and throat infections J02 Acute pharyngitis
+Ear, nose and throat infections J03 Acute tonsillitis
+Ear, nose and throat infections J040 Acute laryngitis
+Ear, nose and throat infections J06 Acute upper respiratory infections of multiple and unspecified sites
+Ear, nose and throat infections J312 Chronic pharyngitis
+Fractured proximal femur S720 Fracture of neck of femur
+Fractured proximal femur S721 Pertrochanteric fracture
+Fractured proximal femur S722 Subtrochanteric fracture
+Gangrene R02 Gangrene, not elsewhere classified
+Hypertension I10 Essential (primary) hypertension
+Hypertension I119 Hypertensive heart disease without (congestive) heart failure
+Hypertension I129 Hypertensive renal disease without renal failure
+Hypertension I139 Hypertensive heart and renal disease, unspecified
+Hypokalaemia E876 Hypokalemia
+Influenza and pneumonia A481 Legionnaires’ disease
+Influenza and pneumonia A70 Chlamydia psittaci infection
+Influenza and pneumonia J10 Influenza due to identified influenza virus
+Influenza and pneumonia J11 Influenza, virus not identified
+Influenza and pneumonia J120 Adenoviral pneumonia
+Influenza and pneumonia J121 Respiratory syncytial virus pneumonia
+Influenza and pneumonia J122 Parainfluenza virus pneumonia
+Influenza and pneumonia J128 Other viral pneumonia
+Influenza and pneumonia J129 Viral pneumonia, unspecified
+Influenza and pneumonia J13 Pneumonia due to Streptococcus pneumoniae
+Influenza and pneumonia J14 Pneumonia due to Hemophilus influenzae
+Influenza and pneumonia J153 Pneumonia due to streptococcus, group B
+Influenza and pneumonia J154 Pneumonia due to other streptococci
+Influenza and pneumonia J157 Pneumonia due to Mycoplasma pneumoniae
+Influenza and pneumonia J159 Bacterial pneumonia, unspecified
+Influenza and pneumonia J160 Chlamydial pneumonia
+Influenza and pneumonia J168 Pneumonia due to other specified infectious organisms
+Influenza and pneumonia J18 Pneumonia, organism unspecified
+Iron-deficiency anaemia D460 Refractory anemia without sideroblasts, so stated
+Iron-deficiency anaemia D461 Refractory anemia with sideroblasts
+Iron-deficiency anaemia D463 Refractory anemia with excess of blasts with transformation
+Iron-deficiency anaemia D464 Refractory anemia, unspecified
+Iron-deficiency anaemia D501 Sideropenic dysphagia
+Iron-deficiency anaemia D508 Other iron deficiency anemias
+Iron-deficiency anaemia D509 Iron deficiency anemia, unspecified
+Iron-deficiency anaemia D510 Vitamin B12 deficiency anemia due to intrinsic factor deficiency
+Iron-deficiency anaemia D511 Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with
+proteinuria
+Iron-deficiency anaemia D512 Transcobalamin II deficiency
+Iron-deficiency anaemia D513 Other dietary vitamin B12 deficiency anemia
+Iron-deficiency anaemia D518 Other vitamin B12 deficiency anemias
+Iron-deficiency anaemia D520 Dietary folate deficiency anemia
+Iron-deficiency anaemia D521 Drug-induced folate deficiency anemia
+Iron-deficiency anaemia D528 Other folate deficiency anemias
+Iron-deficiency anaemia D529 Folate deficiency anemia, unspecified
+Iron-deficiency anaemia D531 Other megaloblastic anemias, not elsewhere classified
+Iron-deficiency anaemia D571 Sickle-cell anemia without crisis
+Iron-deficiency anaemia D580 Hereditary spherocytosis
+Iron-deficiency anaemia D581 Hereditary elliptocytosis
+Annex 2 (Continued)
+This article is published in a peer reviewed section of the International Journal of Integrated Care  14
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+Ambulatory care sensitive condition ICD-10 code Definition
+Iron-deficiency anaemia D590 Drug-induced autoimmune hemolytic anemia
+Iron-deficiency anaemia D591 Other autoimmune hemolytic anemias
+Iron-deficiency anaemia D592 Drug-induced non-autoimmune hemolytic anemia
+Iron-deficiency anaemia D599 Acquired hemolytic anemia, unspecified
+Iron-deficiency anaemia D601 Transient acquired pure red cell aplasia
+Iron-deficiency anaemia D608 Other acquired pure red cell aplasias
+Iron-deficiency anaemia D609 Acquired pure red cell aplasia, unspecified
+Iron-deficiency anaemia D610 Constitutional aplastic anemia
+Iron-deficiency anaemia D611 Drug-induced aplastic anemia
+Iron-deficiency anaemia D640 Hereditary sideroblastic anemia
+Iron-deficiency anaemia D641 Secondary sideroblastic anemia due to disease
+Iron-deficiency anaemia D642 Secondary sideroblastic anemia due to drugs and toxins
+Iron-deficiency anaemia D643 Other sideroblastic anemias
+Iron-deficiency anaemia D644 Congenital dyserythropoietic anemia
+Iron-deficiency anaemia D648 Other specified anemias
+Migraine/acute headache G43 Migraine
+Migraine/acute headache G440 Cluster headache syndrome
+Migraine/acute headache G441 Vascular headache, not elsewhere classified
+Migraine/acute headache G443 Chronic posttraumatic headache
+Migraine/acute headache G444 Drug-induced headache, not elsewhere classified
+Migraine/acute headache G448 Other specified headache syndromes
+Migraine/acute headache R51 Headache
+Nutritional deficiency E40 Kwashiorkor
+Nutritional deficiency E41 Nutritional marasmus
+Nutritional deficiency E42 Marasmic kwashiorkor
+Nutritional deficiency E43 Unspecified severe protein-energy malnutrition
+Nutritional deficiency E550 Rickets, active
+Nutritional deficiency E643 Sequelae of rickets
+Other vaccine-preventable diseases A35 Other tetanus
+Other vaccine-preventable diseases A36 Diphtheria
+Other vaccine-preventable diseases A37 Whooping cough
+Other vaccine-preventable diseases A80 Acute poliomyelitis
+Other vaccine-preventable diseases B05 Measles
+Other vaccine-preventable diseases B06 Rubella [German measles]
+Other vaccine-preventable diseases B161 Acute hepatitis B with delta-agent (coinfection) without hepatic coma
+Other vaccine-preventable diseases B169 Acute hepatitis B without delta-agent and without hepatic coma
+Other vaccine-preventable diseases B180 Chronic viral hepatitis B with delta-agent
+Other vaccine-preventable diseases B181 Chronic viral hepatitis B without delta-agent
+Other vaccine-preventable diseases B26 Mumps
+Other vaccine-preventable diseases G000 Hemophilus meningitis
+Other vaccine-preventable diseases M014 Rubella arthritis
+Pelvic inflammatory disease N70 Salpingitis and oophoritis
+Pelvic inflammatory disease N73 Other female pelvic inflammatory diseases
+Pelvic inflammatory disease N74 Female pelvic inflammatory disorders in diseases classified elsewhere
+Perforated appendix K350 Acute appendicitis with generalized peritonitis
+Perforated appendix K351 Acute appendicitis with peritoneal abscess
+Perforated/bleeding ulcer K20 Esophagitis
+Perforated/bleeding ulcer K210 Gastroesophageal reflux disease with esophagitis
+Perforated/bleeding ulcer K219 Gastroesophageal reflux disease without esophagitis
+Perforated/bleeding ulcer K221 Ulcer of esophagus
+Perforated/bleeding ulcer K226 Gastroesophageal laceration-hemorrhage syndrome
+Perforated/bleeding ulcer K250 Acute with hemorrhage
+Perforated/bleeding ulcer K251 Acute with perforation
+Perforated/bleeding ulcer K252 Acute with both hemorrhage and perforation
+Perforated/bleeding ulcer K254 Chronic or unspecified with hemorrhage
+Perforated/bleeding ulcer K255 Chronic or unspecified with perforation
+Perforated/bleeding ulcer K256 Chronic or unspecified with both hemorrhage and perforation
+Perforated/bleeding ulcer K260 Acute with hemorrhage
+Perforated/bleeding ulcer K261 Acute with perforation
+Perforated/bleeding ulcer K262 Acute with both hemorrhage and perforation
+Perforated/bleeding ulcer K264 Chronic or unspecified with hemorrhage
+Perforated/bleeding ulcer K265 Chronic or unspecified with perforation
+Perforated/bleeding ulcer K266 Chronic or unspecified with both hemorrhage and perforation
+Perforated/bleeding ulcer K270 Acute with hemorrhage
+Annex 2 (Continued)
+International Journal of Integrated Care – Vol. 10, 27 September 2010 – ISSN 1568-4156 – http://www.ijic.org/
+This article is published in a peer reviewed section of the International Journal of Integrated Care 15
+Ambulatory care sensitive condition ICD-10 code Definition
+Perforated/bleeding ulcer K271 Acute with perforation
+Perforated/bleeding ulcer K272 Acute with both hemorrhage and perforation
+Perforated/bleeding ulcer K274 Chronic or unspecified with hemorrhage
+Perforated/bleeding ulcer K275 Chronic or unspecified with perforation
+Perforated/bleeding ulcer K276 Chronic or unspecified with both hemorrhage and perforation
+Perforated/bleeding ulcer K280 Acute with hemorrhage
+Perforated/bleeding ulcer K281 Acute with perforation
+Perforated/bleeding ulcer K282 Acute with both hemorrhage and perforation
+Perforated/bleeding ulcer K284 Chronic or unspecified with hemorrhage
+Perforated/bleeding ulcer K285 Chronic or unspecified with perforation
+Perforated/bleeding ulcer K286 Chronic or unspecified with both hemorrhage and perforation
+Perforated/bleeding ulcer K920 Hematemesis
+Perforated/bleeding ulcer K921 Melena
+Perforated/bleeding ulcer K922 Gastrointestinal hemorrhage, unspecified
+Peripheral vascular disease I73 Other peripheral vascular diseases
+Tuberculosis A15 Respiratory tuberculosis, bacteriologically and histologically confirmed
+Tuberculosis A16 Respiratory tuberculosis, not confirmed bacteriologically or histologically
+Tuberculosis A17 Tuberculosis of nervous system
+Tuberculosis A18 Tuberculosis of other organs
+Tuberculosis A19 Miliary tuberculosis
+Urinary infection N10 Acute tubulo-interstitial nephritis
+Urinary infection N11 Chronic tubulo-interstitial nephritis
+Urinary infection N12 Tubulo-interstitial nephritis, not specified as acute or chronic
+Urinary infection N136 Pyonephrosis
+Urinary infection N151 Renal and perinephric abscess
+Urinary infection N159 Renal tubulo-interstitial disease, unspecified
+Urinary infection N30 Cystitis
+Urinary infection N390 Urinary tract infection, site not specified
+The above table contains all conditions and codes listed in Purdy et al. (2009) tables 3 and 4 except the following:
+‘Failure to thrive’ and ‘low birth weight’ are excluded as they are purely paediatric conditions.••
+‘Angina’ codes R073, R074, Z034, Z035 are generic chest pain codes which are unlikely to indicate ischaemic••
+heart disease.
+E139 and E149 not included in ‘diabetes complications’ as both codes specify ‘...without complications’.••
+Mental health admissions (with the exception of ‘dementia’) are excludes as they are not relevant to the evalua-••
+tion sites that are collecting admission data. The excluded conditions are ‘deliberate self-harm’, ‘neuroses’ and
+‘schizophrenia’. ‘Dementia’ is relevant to two pilot sites, and so is retained.
+‘Stroke’ is excluded because of the substantial change seen in the admission criteria for stroke over the study••
+period.
+O15 is excluded from ‘convulsions and epilepsy’ as the condition—eclampsia (a specific disorder of pregnancy)—••
+is unrelated, except for the common symptom of fits.
+There are also some additional codes included:••
+I129, I139, I132 and A082 are introduced by the process of converting the AHRQ codes from ICD-9CM to••
+ICD-10.
+All cystitis codes (N30) are included in ‘urinary tract infection’, supplementing N300, N308 and N309.••
+

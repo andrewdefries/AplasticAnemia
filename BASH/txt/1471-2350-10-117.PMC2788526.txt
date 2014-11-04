@@ -1,0 +1,989 @@
+BioMed Central
+Page 1 of 10
+(page number not for citation purposes)
+BMC Medical Genetics
+Open AccessResearch article
+Genetic variation in the NBS1, MRE11, RAD50 and BLM genes and
+susceptibility to non-Hodgkin lymphoma
+Johanna M Schuetz1, Amy C MacArthur2, Stephen Leach1, Agnes S Lai2,
+Richard P Gallagher2, Joseph M Connors3, Randy D Gascoyne4,
+John J Spinelli2,6 and Angela R Brooks-Wilson*1,5
+Address: 1Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC, Canada, 2Cancer Control Research, BC Cancer
+Agency, Vancouver, BC, Canada, 3Division of Medical Oncology, BC Cancer Agency, Vancouver, BC, Canada, 4Pathology, British Columbia Cancer
+Agency, Vancouver, BC, Canada, 5Department of Biomedical Physiology and Kinesiology, Simon Fraser University, Burnaby, BC, Canada and
+6School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada
+Email: Johanna M Schuetz - jschuetz@bcgsc.ca; Amy C MacArthur - amacarthur@bccrc.ca; Stephen Leach - sleach@bcgsc.ca;
+Agnes S Lai - alai@bccrc.ca; Richard P Gallagher - rgallagher@bccrc.ca; Joseph M Connors - JConnors@bccancer.bc.ca;
+Randy D Gascoyne - rgascoyn@bccancer.bc.ca; John J Spinelli - jspinelli@bccrc.ca; Angela R Brooks-Wilson* - abrooks-wilson@bcgsc.ca
+* Corresponding author
+Abstract
+Background: Translocations are hallmarks of non-Hodgkin lymphoma (NHL) genomes. Because
+lymphoid cell development processes require the creation and repair of double stranded breaks, it
+is not surprising that disruption of this type of DNA repair can cause cancer. The members of the
+MRE11-RAD50-NBS1 (MRN) complex and BLM have central roles in maintenance of DNA integrity.
+Severe mutations in any of these genes cause genetic disorders, some of which are characterized
+by increased risk of lymphoma.
+Methods: We surveyed the genetic variation in these genes in constitutional DNA of NHL
+patients by means of gene re-sequencing, then conducted genetic association tests for susceptibility
+to NHL in a population-based collection of 797 NHL cases and 793 controls.
+Results: 114 SNPs were discovered in our sequenced samples, 61% of which were novel and not
+previously reported in dbSNP. Although four variants, two in RAD50 and two in NBS1, showed
+association results suggestive of an effect on NHL, they were not significant after correction for
+multiple tests.
+Conclusion: These results suggest an influence of RAD50 and NBS1 on susceptibility to diffuse
+large B-cell lymphoma and marginal zone lymphoma. Larger association and functional studies could
+confirm such a role.
+Background
+Non-Hodgkin lymphoma (NHL) is a heterogeneous
+group of hematological malignancies that in aggregate
+constitutes the 5th highest cause of cancer mortality in the
+United States [1] and Canada [2]. NHL subtypes vary in
+presentation, survival expectation, morbidity and
+responses to treatment. Chromosomal translocations are
+so characteristic of NHL that many genes now known to
+Published: 16 November 2009
+BMC Medical Genetics 2009, 10:117 doi:10.1186/1471-2350-10-117
+Received: 16 June 2009
+Accepted: 16 November 2009
+This article is available from: http://www.biomedcentral.com/1471-2350/10/117
+© 2009 Schuetz et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 2 of 10
+(page number not for citation purposes)
+be important in the development of cancer, such as BCL2
+[3], were originally discovered due to their position at
+recurrent translocation breakpoints in NHL tumours.
+During development and differentiation, the DNA of B-
+and T-cells is subject to double stranded breaks necessary
+for the rearrangement of immunoglobulin genes. Genes
+functioning in double-stranded break repair are involved
+in successfully controlling and repairing these breaks, thus
+protecting the genome from molecular events that could
+lead to cancer. This study examined four genes with key
+roles in maintaining genome stability: the MRN complex,
+MRE11, RAD50 and NBS1, and the Bloom syndrome gene
+(BLM). We have previously shown association with NHL
+of a genetic variant in H2AX, which encodes a histone
+involved in signalling the presence of double stranded
+breaks [4]. The MRN complex forms foci at sites of double
+stranded breaks induced by ionizing radiation or immu-
+noglobulin rearrangements during B- and T-cell develop-
+ment, sensing DNA damage and initiating DNA repair [5-
+7].
+The chromosome instability syndromes (reviewed in [8])
+form a group of rare autosomal recessive diseases charac-
+terized by an increased risk of cancer. This group includes
+ataxia-telangiectasia (AT, OMIM 208900), Nijmegen
+breakage syndrome (NBS, OMIM 251260), Bloom syn-
+drome (OMIM 210900) and Fanconi anemia (OMIM
+227650). NBS includes an increased risk of lymphoid
+malignancies [9], particularly B-cell lymphoma [10,11].
+Some patients with an NBS-like phenotype have muta-
+tions in RAD50 [12]. Hypomorphic mutations in MRE11
+result in an AT-like disorder (AT-LD). NBS and AT-LD
+share many features, including immunodeficiency and
+genome instability caused by failure of timely activation
+of cell cycle checkpoint pathways [13-16].
+Mutations in NBS1 cause aplastic anemia and acute lym-
+phoblastic leukemia [17,18]. RAD50 variants have also
+been associated with an increased risk of sporadic [12],
+but not necessarily familial breast cancer [19,20]. MRE11
+inactivation has been identified in colorectal cancer cell
+lines and primary tumours [21], suggesting that inactiva-
+tion of the MRN complex could be a frequent event in
+cancers.
+Bloom syndrome is also marked by a predisposition to
+cancer, particularly lymphoma and leukemia in young
+patients [22]. Although homozygous loss of Blm in mice
+leads to embryonic lethality, heterozygotes show
+increased risk of neoplasia, with augmented T-cell
+tumourigenesis [23]. This haploinsufficiency is supported
+by the increased risk of cancer in BLM heterozygotes of
+Ashkenazi Jewish descent [24], although there is some
+controversy regarding this finding [25]. This illustrates
+BLM's role in response to DNA damage [26], particularly
+during DNA replication stress [27].
+While both Nbs1 [28] and Mre11 [29] null mutants are
+inviable in vertebrates, the hypermorphic Rad50S muta-
+tion causes hematopoietic stem cell failure so that mice
+that do not die of lymphoma die of bone marrow attrition
+[30], highlighting the delicate balance the MRN complex
+exerts on cell survival. This is illustrated by the dosage sen-
+sitivity to this mutation and the bidirectional phenotypic
+rescue in Rad50S/S Atm-/- mice [31], leading the authors to
+speculate that while mutations that cause gross chromo-
+somal instability would have a wide array of outcomes,
+less severe mutations would primarily affect tissues devel-
+oped from a limited number of precursor stem cells. Since
+the hematopoietic system is such a system, this reinforces
+the need to look for variants in genes already known to be
+associated with severe genetic disorders, with the rationale
+that varying degrees of mutation severity affect the spec-
+trum of possible effects.
+To systematically investigate the role of NBS1, MRE11,
+RAD50 and BLM in susceptibility to NHL, we carried out
+re-sequencing of these four genes to establish the spec-
+trum of genetic variation in NHL cases, and genotyped
+797 NHL cases and 793 controls. Just as total inactivation
+of a gene and attenuation of its activity lead to different
+phenotypes in mice, we expected that subtle variation in
+DNA repair genes could be pertinent to NHL risk in the
+general population, while complete inactivation of these
+genes leads to rare and severe syndromes.
+Methods
+Study population
+The methodology has been described previously [32,33].
+Informed consent was obtained as approved by the joint
+University of British Columbia/British Columbia Cancer
+Agency Research Ethics Board. All HIV-negative NHL cases
+diagnosed in British Columbia from March 2000 to Feb-
+ruary 2004, residing in the Greater Vancouver Regional
+District and greater Victoria (Capital Regional District),
+aged 20 to 79 were invited to participate. Cases were
+reviewed and coded using the World Health Organization
+classification by an experienced lymphoma pathologist
+(RDG). Population controls were identified from the Cli-
+ent Registry of the British Columbia Ministry of Health
+and were frequency matched to cases by sex, age, and area
+of residence in a 1:1 ratio. 828 cases and 848 controls
+completed at least part of a study questionnaire; however,
+only those subjects with DNA available were used in this
+study. Table 1 summarizes the characteristics of the 797
+cases and 793 controls available for analysis.
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 3 of 10
+(page number not for citation purposes)
+DNA extraction and sequencing
+Genomic DNA was extracted from whole blood (in 10%
+of cases from a mouthwash or saliva sample) using the
+PureGene DNA isolation kit (Gentra Systems) following
+manufacturer's instructions. DNA was then quantified
+using PicoGreen (Molecular Probes) in a Victor2 fluores-
+cence plate reader (Perkin-Elmer).
+The genomic sequences for all genes were downloaded
+from the UCSC genome browser [34]. All coding and
+non-coding exons were sequenced, as well as 1000 base
+pairs upstream of transcription start. Conserved non-cod-
+ing sequence regions (CNS regions) were identified using
+the VISTA genome browser [35]. The six most highly con-
+served CNS regions with at least 100 base pairs of at least
+70% identity with the mouse and rat homolog were also
+sequenced.
+Primers were selected for all amplicons using Primer3
+[36]. The -21M13F (TGTAAAACGACGGCCAGT) forward
+or M13R (CAGGAAACAGCTATGAC) extensions were
+added to the 5' ends of the forward and reverse PCR prim-
+ers, respectively, to allow uniform sequencing conditions.
+PCR and sequencing reactions were carried out as previ-
+ously described [37]. Primers and conditions used in PCR
+reactions are listed in Additional file 1. The quality of
+sequencing reads was assessed using Phred [38,39],
+potential variants identified by Polyphred version 5 [40]
+and all sequences assembled with reference sequences
+using Phrap [41] and viewed in Consed version 12 [42].
+Haplotypes of variants with minor allele frequency (MAF)
+>5% in the sequence data were inferred using PHASE
+v2.1.1 [43,44]. Four tagSNPs were selected for each gene
+using TagSNP, version 1.1 [45]. Three additional SNPs of
+potential functional relevance in NBS1 were also tested.
+Genotyping
+TaqMan® was used for all genotyping. Assays were
+designed using the Assays-by-Design service (Applied Bio-
+systems). Primers and probes used are listed in Additional
+file 2. 10 ng of each sample was aliquoted in 384-well
+plates and the DNA dried down at room temperature.
+TaqMan reactions were carried out in 5 uL volumes as per
+the manufacturer's protocols. Fluorescence data was
+obtained in the ABI PRISM 7900 HT, after 10 min at
+95°C, followed by 40 cycles of 92°C for 15 s and 60°C for
+1 min. The SDS2.2 software (Applied Biosystems) was
+used to assign genotypes to individual samples.
+Statistical Analyses
+Statistical analyses were carried out as described previ-
+ously [32]. Briefly, all controls were tested for deviation
+from Hardy-Weinberg equilibrium. Odds ratios (OR) and
+95% confidence intervals were estimated using logistic
+regression. These analyses were conducted using SPSS ver-
+sion 15, with adjustment for sex, age group (categories:
+20-49, 50-59, 60-69, 70+), residence (Vancouver or Victo-
+ria), and for ethnicity (Caucasian, Asian, South Asian,
+Mixed, Unknown/Refused) when all cases and all controls
+were analyzed together. Heterozygotes and rare homozy-
+gotes were combined for analysis when the number of
+rare homozygotes was less than five. Tests were not per-
+formed when the sum of the number of heterozygotes and
+rare homozygotes was less than five for cases or controls.
+Tests for trend were conducted when there were at least
+five samples in each genotype category for both cases and
+controls. Multiple testing correction was carried out by the
+false discovery rate (FDR) method [46]. Because we tested
+Table 1: Characteristics of the Study Population.
+Cases (%) Controls (%)
+Gender
+Male 463 (58%) 423 (53%)
+Female 334 (42%) 370 (47%)
+Age group (years)
+20-49 150 (19%) 208 (26%)
+50-59 194 (24%) 169 (21%)
+60-69 214 (27%) 206 (26%)
+70+ 239 (30%) 210 (26%)
+Ethnicity
+Caucasian 625 (78%) 613 (77%)
+Asian 80 (10%) 90 (11%)
+South Asian 29 (4%) 37 (5%)
+Mixed/Other 36 (5%) 34 (4%)
+Unknown/Refused 27 (3%) 19 (2%)
+Pathology
+B-cell lymphomas
+DLBCL 210 (26%) -
+FL1 138 (17%) -
+FL2/FL3 78 (10%) -
+MZL/MALT 92 (12%) -
+MCL 47 (6%) -
+SLL/CLL 43 (5%) -
+LPL 42 (5%) -
+MISC BCL 71 (9%) -
+T-cell lymphomas
+MF 40 (5%) -
+PTCL 29 (4%) -
+MISC TCL 7 (1%) -
+Total 797 (100%) 793 (100%)
+DLBCL = Diffuse Large B-Cell Lymphoma, FL = Follicular Lymphoma,
+FL1 = Follicular Lymphoma grade 1, FL2 = Follicular Lymphoma grade
+2, FL3 = Follicular Lymphoma grade 3, MZ/MALT = Marginal Zone
+lymphoma/Mucosa-Associated Lymphoma Tissue lymphoma, MCL =
+Mantle Cell lymphoma, SLL = Small Lymphocytic Lymphoma, LPL =
+Lymphoplasmacytic Lymphoma, Misc. B-cell = Miscellaneous B-cell
+lymphoma, MF = Mycosis Fungoides, PTCL = Peripheral T-Cell
+Lymphoma, Misc. T-cell = Miscellaneous T-cell lymphoma.
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 4 of 10
+(page number not for citation purposes)
+nineteen markers, the p-value of the most significant
+marker must be below the threshold of 0.0026 to be con-
+sidered significant. The haplotypes inferred were analyzed
+as categorical variables and assessed for risk effect using R
+version 2.1.1 [47]. Haplotypes with frequency <4.5% were
+combined into a "rare" category.
+Results
+Re-sequencing for variant discovery
+We sequenced DNA samples from 87 NHL cases to survey
+the germline genetic variation in the NBS1, MRE11,
+RAD50 and BLM genes in NHL patients in our popula-
+tion. By using recent methods [48] the number of unseen
+variants using data from deep sequencing projects (such
+as ENCODE [49]) can be estimated. Using such methods,
+the sequencing of 174 chromosomes in our population is
+expected to have revealed 99.99% of SNPs with a MAF of
+1% or more, and 76% of SNPs with a MAF of 0.5% or
+more. Samples were derived from 74 cases with B-cell
+NHL and 13 with T-cell NHL (see Additional file 3). The
+number of amplicons bi-directionally sequenced for each
+gene is shown in Table 2. In total, 63 amplicons were
+used. On average, 91.6% of sample-amplicon combina-
+tions produced good quality reads in both directions, and
+96.6% of sample-amplicon combinations produced good
+quality reads in at least one direction.
+Re-sequencing revealed 114 variants (Additional file 4):
+12 small deletions or insertions (10.5%), 73 (64%) tran-
+sitions and 29 (25.4%) transversions. Twenty-nine vari-
+ants (25.4%) were in coding regions, with 17 (58.6%)
+non-synonymous mutations, 4 of which were ranked as
+"probably" or "possibly damaging" by PolyPhen [50].
+Only one of these, BLM_X13_(2603)_C/T, was observed
+more than once, with a MAF of 5.6%. Fifty-five (48%) var-
+iants were "singletons", meaning the minor allele was
+only observed once in this data set of 87 samples, or 174
+chromosomes. Forty-one (36%) variants were "com-
+mon", with MAF of at least 5%. 59% of variants were pre-
+viously described in dbSNP (build 128) [51]; their rs
+numbers are included in Additional file 4. Of the com-
+mon polymorphisms (MAF ≥5%), 14% were novel.
+Overall, sequence variation was found at 34 of 12,352
+nucleotides in coding regions (or 8 of 3,805 nucleotides
+in RAD50, 13 of 2,265 nucleotides in NBS1, 2 of 2,127
+nucleotides in MRE11, and 11 of 4,155 nucleotides in
+BLM) and at 95 of 17,257 nucleotides in non-coding
+regions (or 21 of 5,226 nucleotides in RAD50, 32 of 3,777
+nucleotides in NBS1, 20 of 3,872 nucleotides in MRE11,
+and 22 of 4,382 nucleotides in BLM). The Ka/Ks value for
+these four genes together is 0.6 (or 0.56 for RAD50, 0.75
+for NBS1, 0.50 for MRE11, and 0.54 for BLM), indicating
+moderate negative selection.
+Linkage Disequilibrium (LD) calculations were per-
+formed in sequence data using Haploview v4.0 [52]; sin-
+gletons were excluded from these calculations. r2 values
+for pairwise combinations of SNPs in each gene are shown
+in Additional files 5, 6, 7 &8.
+Genotyping
+Haplotypes were inferred using the 41 variants that were
+observed more than once in the sequence data, using
+PHASE v2.1.1 [43,44]. The number of haplotypes inferred
+for each gene is indicated in Table 2. Haplotype tagging
+SNPs (tagSNPs) were selected using TagSNP version 1.1
+[45]. Nineteen variants were chosen for genotyping and
+are indicated in bold in Additional file 4.
+The 19 tagSNPs were genotyped in 797 cases and 793 con-
+trols, with an average genotype call rate of 97.6%. Their
+respective MAFs, as calculated using all 1590 samples, are
+in Additional file 2. The concordance of genotypes (in the
+87 samples that were sequenced) between the independ-
+ent methods of sequencing and TaqMan genotyping was
+complete; no discrepancies were found. As a quality assur-
+ance measure, we also genotyped the 19 SNPs in DNA
+samples from five three-generation CEPH families (pur-
+chased from Coriell Cell Repositories, NJ, USA) and con-
+Table 2: Gene statistics summary. For NBS1, 7 SNPs were genotyped - 4 chosen as tagSNPs and 3 chosen for functional interest.
+Amplicons
+(bp sequenced)
+Missing
+reads
+Missing in
+both
+directions
+SNPs found by
+re-sequencing
+Coding (non-
+synonymous)
+Single
+tons
+SNPs MAF
+> 5%
+Haplotypes tagSNPs
+genotyped
+SNPs
+genotyped
+NBS1 26 (6042) 6.4% 1.8% 36 8 (6) 14
+(39%)
+14 (38.9%) 21 4 7
+RAD50 34 (9031) 6.4% 2.6% 28 8 (4) 17
+(61%)
+8 (28.6%) 9 4 4
+MRE11 28 (5999) 12.3% 5.9% 20 2 (1) 11
+(55%)
+7 (35%) 17 4 4
+BLM 31 (8537) 25.4% 12.1% 30 11 (6) 13
+(43%)
+12 (41.4%) 26 4 4
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 5 of 10
+(page number not for citation purposes)
+firmed that the alleles segregated according to Mendelian
+inheritance.
+NHL association tests
+We compared all European ancestry controls against all
+European ancestry NHL cases, all B-cell NHL, all T-cell
+NHL and major subtypes individually. One of the vari-
+ants, MRE11_5UP_(-1456)_C/T, was excluded from anal-
+ysis due to deviation from Hardy-Weinberg equilibrium
+in controls. Results for the two most common subtypes -
+diffuse large B-cell lymphoma (DLBCL) and follicular
+lymphoma (FL) - and results suggestive of association
+with Marginal Zone lymphoma/Mucosa-Associated Lym-
+phoid Tissue (MZ/MALT) are shown in Table 3; see Addi-
+tional file 9 for all results. RAD50_IVS22(+24)_A/G
+showed a possible association with DLBCL that was
+strong enough to influence the overall NHL analysis (p-
+trend of 0.022 for DLBCL). Another example is
+RAD50_IVS7(-38)_C/T in MZL, with an OR of 3.39 (95%
+CI: 1.48-7.75, p = 0.004).
+Analyses for all NHL were performed separately for the
+Asian and South Asian cases (see Additional file 10).
+NBS1_3UTR_(+273)_G/A (rs1063053) gave an OR of 5.3
+(95% CI = 1.023 - 27.579, p = 0.004) in samples of South
+Asian ethnicity.
+Combined analyses of all samples from all ethnicities
+were also performed, adjusting for ethnicity in the model
+(data not shown); some SNPs (usually the same as in the
+European ancestry only analysis) again showed results
+suggestive of association but failed to reach p < 0.05 upon
+correction for multiple testing. The ethnic diversity of our
+study population could mask a real signal and so we
+focused on the European subpopulation.
+The haplotypes inferred from individual SNP genotypes
+were also tested for association with NHL using R version
+2.1.1 (data not shown). No haplotype was more signifi-
+cantly associated with NHL than the individual SNPs
+forming that haplotype.
+Discussion
+RAD50, NBS1, MRE11 and BLM were re-sequenced in 87
+NHL cases to characterize the variation in these genes in
+NHL cases in our population. All genes had similar num-
+bers of variants and similar nucleotide diversity, albeit
+slightly greater for NBS1 (Table 2). All four genes showed
+evidence of negative selection, as indicated by a Ka/Ks
+value of less than one (0.56 for all four genes combined),
+which we would expect for genes involved in such a con-
+served and critical process as DNA repair. The most varia-
+ble gene, NBS1, also showed the lowest conservation.
+Two SNPs in RAD50 were suggestive of association with
+specific NHL subtypes (Table 3). RAD50_IVS7(-38)_C/T
+was suggestive of association with MZ/MALT (p = 0.004).
+The low frequency of this allele (MAF 2.6%), and the low
+incidence of MZL/MALT (12% of our cases) make it diffi-
+cult to conclusively implicate this marker in a single study.
+Interestingly, MZL lymphomas usually develop in tissue
+subjected to chronic antigenic stimulation, for example
+gastric MALT lymphoma which arises as a result of chronic
+Helicobacter pylori infection. Such tissue, with persistent
+and accelerated cell lymphoid cell proliferation, may be
+uniquely susceptible to neoplastic transformation associ-
+ated with faulty DNA repair. Our results may serve to
+highlight specific mechanistic hypotheses for further test-
+ing in other association studies, or for in vitro functional
+studies. Mechanisms of tumourigenesis, and the basis for
+NHL susceptibility, may differ between NHL subtypes.
+Observations such as ours, if replicable, will help us
+understand the basis for the diversity of NHL types.
+We did not find that variants in NBS1 conferred an
+increased risk of lymphoma, as in most other studies [53-
+57], although there remain some contradictory positive
+reports [58-61]. In contrast, non-synonymous mutations
+in NBS1 have been shown to be associated with acute
+lymphoblastic leukemia in German [17] and Polish [62]
+children. A study by Rollinson et al [63] of haplotypic var-
+iation in NHL found no increased risk associated with
+haplotypes of NBS1 and RAD50; however, they observed
+the variant rs601341 in MRE11 to have a protective effect
+on FL and a protective effect of an MRE11 haplotype on
+DLBCL. We did not sequence the part of intron 18 where
+rs601341 is located and so did not explicitly test this SNP.
+The difference between our results and those of Rollinson
+et al. could be the result of a SNP-specific effect, and/or the
+different populations studied.
+Although there have been other studies of susceptibility to
+NHL looking at the genes addressed in this study, most
+have relied on the genotyping of rare variants discovered
+in studies of the rare recessive syndromes discussed above.
+Genotyping was generally done using single-strand con-
+formation polymorphisms [17,53,54,56,58,61,62] or by
+TaqMan [63]. One study [63] used public databases to
+collect the information on the SNPs in the regions of
+interest. However, sequencing of germline DNA of
+patients with sporadic lymphoma to systematically iden-
+tify genetic variants had not been previously done. Our
+systematic characterization of these genes provides valua-
+ble information on the variation found in these genes in
+individuals with NHL. Previous systematic investigations
+of another double-stranded break repair gene, ATM, by
+our group did not reveal any association between com-
+mon variants in ATM and NHL or its subtypes [32]. In
+contrast, a common SNP in the promoter region of H2AX
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 6 of 10
+(page number not for citation purposes)
+Table 3: Regression analysis in European samples for all SNPs in selected subtypes.
+Controls DLBCL FL MZ/MALT
+SNP N N OR (95% CI) p value N OR (95% CI) p value N OR (95% CI) p value
+RAD50_IVS4(+19
+)G/A
+G/G 384 100 1 0.896 107 1 0.474 43 1 -
+G/A 187 53 1.05 (0.72 - 1.54) 0.799 55 1.08 (0.74 - 1.58) 0.677 19 1.01 (0.57 - 1.80) 0.975
+A/A 27 7 0.96 (0.40 - 2.30) 0.935 10 1.31 (0.61 - 2.81) 0.492 3 1.03 (0.29 - 3.61) 0.966
+G/A & A/A 214 22 1.01 (0.58 - 1.76) 0.967
+RAD50_IVS7(-
+38)C/T
+C/C 568 153 1 - 166 1 - 58 1 -
+C/T 34 9 1.01 (0.47 - 2.17) 0.983 6 0.63 (0.26 - 1.53) 0.304 8 3.02 (1.28 - 7.14) 0.012
+T/T 1 0 0.00 (0.00 -) 1.000 1 3.41 (0.21 - 56.13) 0.391 1 24.77 (1.43 - 427.94) 0.027
+C/T & T/T 35 9 0.97 (0.45 - 2.08) 0.941 7 0.71 (0.31 - 1.64) 9 3.39 (1.48 - 7.75) 0.004
+RAD50_IVS22(+2
+4)A/G
+A/A 546 137 1 - 150 1 - 59 1 -
+A/G 54 25 1.77 (1.05 - 2.96) 0.031 24 1.61 (0.96 - 2.71) 0.073 7 1.30 (0.55 - 3.04) 0.550
+G/G 1 1 4.54 (0.26 - 78.43) 0.298 0 0.00 (0.00 -) 1.000 0 0.00 (0.00 -) 1.000
+A/G & G/G 55 26 1.81 (1.09 - 3.01) 0.022 24 1.59 (0.94 - 2.67) 0.081 7 1.29 (0.55 - 3.02) 0.560
+RAD50_IVS22(+6
+2)A/G
+A/A 601 161 - - 174 - - 67 - -
+A/G 2 2 - - 0 - - 0 - -
+G/G 0 0 - - 0 - - 0 - -
+NBS1_5(-905)T/C
+T/T 266 76 1 0.465 87 1 0.847 28 1 0.816
+T/C 267 72 0.95 (0.66 - 1.37) 0.769 63 0.75 (0.51 - 1.08) 0.119 43 1.12 (0.65 - 1.93) 0.678
+C/C 64 14 0.77 (0.41 - 1.46) 0.423 24 1.20 (0.70 - 2.06) 0.498 7 1.02 (0.42 - 2.48) 0.964
+NBS1_5UTR_(-
+352)_del(AGTA)
+AGTA/AGTA 524 138 1 - 137 1 - 60 1 -
+AGTA/- 58 16 1.06 (0.59 - 1.92) 0.839 18 1.08 (0.61 - 1.92) 0.785 2 0.30 (0.07 - 1.29) 0.105
+-/- 2 0 0.00 (0.00 -) 0.999 3 5.57 (0.90 - 34.52) 0.065 0 0.00 (0.00 -) 0.999
+AGTA/- & -/- 60 16 1.03 (0.57 - 1.85) 0.929 21 1.23 (0.71 - 2.11) 0.461 2 - -
+NBS1_IVS3(+208)
+G/A
+G/G 241 66 1 0.672 84 1 0.466 26 1 0.818
+G/A 277 76 1.00 (0.68 - 1.45) 0.977 63 0.67 (0.46 - 0.97) 0.033 30 0.97 (0.56 - 1.71) 0.935
+A/A 78 19 0.86 (0.48 - 1.52) 0.596 27 1.04 (0.62 - 1.72) 0.892 10 1.14 (0.52 - 2.51) 0.744
+NBS1_3UTR(+27
+3)G/A
+G/G 268 78 1 0.256 90 1 0.509 26 1 0.807
+G/A 263 73 0.97 (0.68 - 1.40) 0.885 54 0.65 (0.44 - 0.95) 0.026 33 1.28 (0.74 - 2.23) 0.381
+A/A 63 11 0.60 (0.24 - 1.19) 0.142 24 1.12 (0.66 - 1.91) 0.669 6 0.89 (0.35 - 2.29) 0.813
+NBS1_X2_(102)_
+G/A
+G/G 266 75 1 0.521 87 1 0.935 28 1 0.698
+G/A 272 72 0.95 (0.66 - 1.37) 0.782 62 0.72 (0.50 - 1.04) 0.082 33 1.15 (0.67 - 1.97) 0.615
+A/A 59 13 0.79 (0.41 - 1.53) 0.486 24 1.31 (0.76 - 2.25) 0.326 7 1.09 (0.45 - 2.67) 0.849
+NBS1_X5_(553)_
+G/C
+G/G 255 76 1 0.306 84 1 0.786 28 1 0.938
+G/C 270 72 0.90 (0.62 - 1.30) 0.572 62 0.73 (0.50 - 1.06) 0.098 33 1.12 (0.65 - 1.92) 0.688
+C/C 57 12 0.70 (0.36 - 1.39) 0.310 22 1.22 (0.70 - 2.13) 0.486 6 0.92 (0.36 - 2.36) 0.857
+NBS1_X13_(2016
+)_A/G
+A/A 247 74 1 0.204 83 1 0.634 27 1 0.897
+A/G 265 70 0.89 (0.61 - 1.30) 0.549 59 0.69 (0.47 - 1.01) 0.055 33 1.13 (0.65 - 1.95) 0.671
+G/G 55 10 0.61 (0.29 - 1.26) 0.180 21 1.20 (0.68 - 2.12) 0.537 6 0.94 (0.36 - 2.43) 0.902
+MRE11_5(-
+1703)A/G
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 7 of 10
+(page number not for citation purposes)
+showed a protective effect on NHL and on FL in particular
+[4].
+Limitations of our study include the histological heteroge-
+neity of NHL, which is composed of many subtypes, many
+of which are rare. Identification of genetic susceptibility
+factors that differ between subtypes will be limited by the
+lack of availability of adequate sample numbers for less
+common subtypes. The clinical diversity of NHL enabled
+us to make the strongest conclusions only for DLBCL and
+FL. Our sample is also ethnically heterogeneous, and so
+has reduced power to detect genetic factors that are
+present only in specific ethnic groups. Future replication
+of results in the context of large international consortia,
+such as the InterLymph Consortium [64], will help to
+overcome such limitations.
+Conclusion
+While the genes in this study were not significantly associ-
+ated with NHL independently, it is possible that they
+could modify NHL risk in combination with other vari-
+ants. Larger studies would be required to detect such gene-
+gene interactions. Our observation of possible associa-
+tions of SNPs in RAD50 with DLBCL and MZ/MALT lym-
+A/A 261 76 1 0.431 81 1 0.725 25 1 0.100
+A/G 267 60 0.91 (0.63 - 1.32) 0.629 69 0.84 (0.58 - 1.21) 0.341 29 1.20 (0.68 - 2.13) 0.527
+G/G 66 15 0.79 (0.42 - 1.47) 0.457 22 1.03 (0.59 - 1.78) 0.919 13 1.95 (0.93 - 4.10) 0.076
+MRE11_5(-
+1456)C/T
+C/C 582 153 1 - 165 1 - 67 - -
+C/T 21 9 1.76 (0.78 - 3.96) 0.173 9 1.38 (0.61 - 3.09) 0.441 1 - -
+T/T 1 1 4.32 (0.26 - 72.48) 0.309 0 0.00 (0.00 -) 0.100 0 - -
+C/T & T/T 22 10 1.87 (0.86 - 4.08) 0.115 9 1.34 (0.60 - 2.99) 0.481
+MRE11_IVS2(+28)
+G/A
+G/G 189 51 1 0.751 54 1 0.967 17 1 0.144
+G/A 277 81 1.07 (0.72 - 1.59) 0.753 85 1.10 (0.75 - 1.63) 0.623 32 1.42 (0.75 - 2.66) 0.279
+A/A 124 30 0.90 (0.54 - 1.49) 0.675 34 0.99 (0.61 - 1.61) 0.959 18 1.69 (0.83 - 3.46) 0.150
+MRE11_IVS9(-
+60)A/T
+T/T 270 82 1 0.419 77 1 0.866 27 1 0.625
+T/A 255 61 0.75 (0.51 - 1.09) 0.130 79 1.15 (0.80 - 1.66) 0.453 29 1.19 (0.68 - 2.11) 0.542
+A/A 70 20 0.96 (0.55 - 1.68) 0.877 17 0.82 (0.45 - 1.47) 0.498 9 1.14 (0.51 - 2.58) 0.752
+BLM_IVS7(+388)
+C/T
+C/C 517 140 1 - 148 1 - 62 1 -
+C/T 78 22 1.04 (0.62 - 1.73) 0.891 24 1.03 (0.63 - 1.70) 0.908 6 0.62 (0.26 - 1.49) 0.284
+T/T 3 0 0.00 (0.00 -) 0.999 1 0.96 (0.10 - 9.65) 0.970 0 0.00 (0.00 -) 0.999
+C/T & T/T 81 22 1.01 (0.60 - 1.68) 0.978 25 1.03 (0.623- 1.68) 0.915 6 0.59 (0.25 - 1.43) 0.244
+BLM_IVS7(+798)i
+ns(T)
+T/T 528 145 1 - 156 1 - 62 1 -
+T/- 69 17 0.89 (0.51 - 1.57) 0.689 17 0.90 (0.51 - 1.58) 0.702 5 0.71 (0.27 - 1.84) 0.474
+-/- 4 0 0.00 (0.00 -) 0.999 1 1.09 (0.12 - 10.39) 0.939 0 0.00 (0.00 -) 0.999
+T/- & -/- 73 17 0.84 (0.48 - 1.47) 0.534 18 0.90 (0.52 - 1.58) 0.722 5 0.67 (0.26 - 1.75) 0.418
+BLM_IVS12(+7)T/
+C
+T/T 316 88 1 0.944 88 1 0.696 33 1 0.609
+T/C 243 58 0.85 (0.58 - 1.23) 0.389 68 0.99 (0.69 - 1.43) 0.975 29 1.18 (0.69 - 2.02) 0.546
+C/C 45 15 1.23 (0.55 - 2.32) 0.533 16 1.21 (0.65 - 2.26) 0.554 5 1.12 (0.41 - 3.07) 0.823
+BLM_IVS21(-
+60)_del(GAA)
+GAA/GAA 237 61 1 0.968 74 1 0.727 37 1 0.026
+GAA/- 283 81 1.09 (0.75 - 1.60) 0.640 75 0.87 (0.60 - 1.26) 0.452 21 0.46(0.26 - 0.82) 0.008
+-/- 76 19 0.94 (0.53 - 1.69) 0.840 24 0.98 (0.58 - 1.68) 0.949 8 0.56 (0.24 - 1.27) 0.162
+OR = Odds Ratio, CI = Confidence Interval, DLBCL = Diffuse Large B-Cell Lymphoma, FL = Follicular Lymphoma, MZ/MALT = Marginal Zone
+lymphoma/Mucosa-Associated Lymphoma Tissue lymphoma.
+If less than 5 samples were in a category, the analysis is not valid and marked by "-". Analyses were not done for subtypes that had fewer than 5
+heterozygotes and minor homozygotes combined. Analysis is adjusted for adjusted for gender, ethnicity, age, and residence.
+p-value for test for trend is shown in italic type.
+p-values less than 0.05 are in bold.
+All results are in Additional file 9.
+Table 3: Regression analysis in European samples for all SNPs in selected subtypes. (Continued)
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 8 of 10
+(page number not for citation purposes)
+phomas may contribute to the refinement of biological
+hypotheses for confirmation in larger association studies
+and functional studies. Mechanisms of tumourigenesis,
+and the basis for NHL susceptibility, probably differ
+between NHL subtypes. Specific observations such as
+these will help us understand the etiological basis for the
+diversity of NHL types.
+Abbreviations Used
+NHL: non-Hodgkin Lymphoma; FL: follicular lymphoma;
+DLBCL: diffuse large B-cell lymphoma; MRN complex:
+MRE11-RAD50-NBS1 complex; SNP: single nucleotide
+polymorphism; NBS: Nijmegen breakage syndrome; AT:
+ataxia-telangiectasia; AT-LD: ataxia-telangiectasia-like dis-
+order; OR: odd's ratio; CI: confidence interval, CNS: con-
+served non-coding sequence, PCR: polymerase chain
+reaction, MZ: marginal zone lymphoma, MALT: mucosa-
+associated lymphoid tissue
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+JMS carried out some experiments, participated in the
+coordination and interpretation of the analysis, and
+drafted the manuscript. AM performed the statistical anal-
+ysis and assisted in interpretation. SL carried out experi-
+ments. AL coordinated sample collection and interpreted
+phenotypes. JC and RDG interpreted the medical rele-
+vance and pathology, respectively. RPG and JJS partici-
+pated in the design of the study and JJS advised on the
+statistical analysis. ABW participated in the study design,
+coordinated the experiments and helped to draft the man-
+uscript. All authors read and approved the manuscript.
+Additional material
+Additional file 1
+PCR primers & conditions. For each exon, the primers and temperatures
+used for each PCR reaction, as well as the product size.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S1.PDF]
+Additional file 2
+Genotyping assays: primers, probes, and minor allele frequencies.
+Primers and probes used in genotyping assays, with genotyped minor allele
+frequencies.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S2.PDF]
+Additional file 3
+Samples sequenced. Composition (gender, age and pathology) of the
+samples used in the re-sequencing phase.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S3.PDF]
+Additional file 4
+SNPs discovered by re-sequencing. Full list of all SNPs found by re-
+sequencing and their properties (chromosomal position, dbSNP number if
+known, flanking sequence, nucleotide/codon/amino acid change, and
+minor allele frequency).
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S4.PDF]
+Additional file 5
+Linkage disequilibrium between SNPs in RAD50. Correlations between
+SNPs in RAD50 as measured by r2 values.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S5.PNG]
+Additional file 6
+Linkage disequilibrium between SNPs in NBS1. Correlations between
+SNPs in NBS1 as measured by r2 values.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S6.PNG]
+Additional file 7
+Linkage disequilibrium between SNPs in MRE11. Correlations between
+SNPs in MRE11 as measured by r2 values.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S7.PNG]
+Additional file 8
+Linkage disequilibrium between SNPs in BLM. Correlations between
+SNPs in BLM as measured by r2 values.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S8.PNG]
+Additional file 9
+Regression analysis in Caucasian samples. Table containing statistical
+analysis results in Caucasian samples, for overall NHL and all subtypes
+examined, with the following sections: Additional file 9a: Regression anal-
+ysis results for RAD50 SNPs in Caucasian samples. Additional file 9b:
+Regression analysis results for NBS1 SNPs in Caucasian samples. Addi-
+tional file 9c: Regression analysis results for MRE11 SNPs in Caucasian
+samples. Additional file 9d: Regression analysis results for BLM SNPs in
+Caucasian samples.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S9.PDF]
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 9 of 10
+(page number not for citation purposes)
+Acknowledgements
+This work was supported by the Canadian Cancer Society through grants
+from the National Cancer Institute of Canada, and by grants from the Cana-
+dian Institutes of Health Research (CIHR). It was initiated with funds from
+the Chan Sisters Foundation and the BC Cancer Foundation. AB-W is a
+Senior Scholar of the Michael Smith Foundation for Health Research
+(MSFHR). JMS was supported by scholarships from MSFHR, the National
+Sciences and Engineering Research Council of Canada, and CIHR. ACM was
+supported by a research unit infrastructure grant from MSFHR. We thank
+all the participants of the study for making this research possible. We thank
+Rozmin Janoo-Gilani, Kuldip Bagga, Agnes Bauzon, Betty Hall, Lina Hsu, Pat
+Ostrow, Lynne Tse, Anthony Tung, Tim Lee and Zenaida Abanto for their
+assistance.
+References
+1. Amercian_Cancer_Society_document_"Non-
+Hodgkin_Lymphoma" 2008 [http://www.cancer.org/docroot/
+LRN/LRN_0.asp?dt=32].
+2. Canadian_Cancer_Statistics 2008 [http://www.cancer.ca].
+3. Tsujimoto Y, Finger LR, Yunis J, Nowell PC, Croce CM: Cloning of
+the chromosome breakpoint of neoplastic B cells with the
+t(14;18) chromosome translocation. Science (New York, NY)
+1984, 226(4678):1097-1099.
+4. Novik KL, Spinelli JJ, Macarthur AC, Shumansky K, Sipahimalani P,
+Leach S, Lai A, Connors JM, Gascoyne RD, Gallagher RP, et al.:
+Genetic variation in H2AFX contributes to risk of non-Hodg-
+kin lymphoma. Cancer Epidemiol Biomarkers Prev 2007,
+16(6):1098-1106.
+5. De la Torre C, Pincheira J, Lopez-Saez JF: Human syndromes with
+genomic instability and multiprotein machines that repair
+DNA double-strand breaks. Histology and histopathology 2003,
+18(1):225-243.
+6. Carney JP, Maser RS, Olivares H, Davis EM, Le Beau M, Yates JR, Hays
+L, Morgan WF, Petrini JH: The hMre11/hRad50 protein complex
+and Nijmegen breakage syndrome: linkage of double-strand
+break repair to the cellular DNA damage response. Cell 1998,
+93(3):477-486.
+7. Hopfner KP, Karcher A, Craig L, Woo TT, Carney JP, Tainer JA:
+Structural biochemistry and interaction architecture of the
+DNA double-strand break repair Mre11 nuclease and Rad50-
+ATPase. Cell 2001, 105(4):473-485.
+8. Thompson LH, Schild D: Recombinational DNA repair and
+human disease. Mutation research 2002, 509(1-2):49-78.
+9. Burgt I van der, Chrzanowska KH, Smeets D, Weemaes C:
+Nijmegen breakage syndrome. Journal of medical genetics 1996,
+33(2):153-156.
+10. Seemanova E, Passarge E, Beneskova D, Houstek J, Kasal P, Sevcikova
+M: Familial microcephaly with normal intelligence, immuno-
+deficiency, and risk for lymphoreticular malignancies: a new
+autosomal recessive disorder. American journal of medical genetics
+1985, 20(4):639-648.
+11. Chrzanowska KH, Kleijer WJ, Krajewska-Walasek M, Bialecka M,
+Gutkowska A, Goryluk-Kozakiewicz B, Michalkiewicz J, Stachowski J,
+Gregorek H, Lyson-Wojciechowska G, et al.: Eleven Polish
+patients with microcephaly, immunodeficiency, and chro-
+mosomal instability: the Nijmegen breakage syndrome.
+American journal of medical genetics 1995, 57(3):462-471.
+12. Heikkinen K, Rapakko K, Karppinen SM, Erkko H, Knuutila S, Lundan
+T, Mannermaa A, Borresen-Dale AL, Borg A, Barkardottir RB, et al.:
+RAD50 and NBS1 are breast cancer susceptibility genes
+associated with genomic instability. Carcinogenesis 2006,
+27(8):1593-1599.
+13. Ranganathan V, Heine WF, Ciccone DN, Rudolph KL, Wu X, Chang
+S, Hai H, Ahearn IM, Livingston DM, Resnick I, et al.: Rescue of a tel-
+omere length defect of Nijmegen breakage syndrome cells
+requires NBS and telomerase catalytic subunit. Curr Biol 2001,
+11(12):962-966.
+14. Tauchi H, Matsuura S, Kobayashi J, Sakamoto S, Komatsu K:
+Nijmegen breakage syndrome gene, NBS1, and molecular
+links to factors for genome stability. Oncogene 2002,
+21(58):8967-8980.
+15. Grenon M, Gilbert C, Lowndes NF: Checkpoint activation in
+response to double-strand breaks requires the Mre11/Rad50/
+Xrs2 complex. Nature cell biology 2001, 3(9):844-847.
+16. Uziel T, Lerenthal Y, Moyal L, Andegeko Y, Mittelman L, Shiloh Y:
+Requirement of the MRN complex for ATM activation by
+DNA damage. The EMBO journal 2003, 22(20):5612-5621.
+17. Varon R, Reis A, Henze G, von Einsiedel HG, Sperling K, Seeger K:
+Mutations in the Nijmegen Breakage Syndrome gene
+(NBS1) in childhood acute lymphoblastic leukemia (ALL).
+Cancer research 2001, 61(9):3570-3572.
+18. Shimada H, Shimizu K, Mimaki S, Sakiyama T, Mori T, Shimasaki N,
+Yokota J, Nakachi K, Ohta T, Ohki M: First case of aplastic ane-
+mia in a Japanese child with a homozygous missense muta-
+tion in the NBS1 gene (I171V) associated with genomic
+instability. Human genetics 2004, 115(5):372-376.
+19. Heikkinen K, Karppinen SM, Soini Y, Makinen M, Winqvist R: Muta-
+tion screening of Mre11 complex genes: indication of RAD50
+involvement in breast and ovarian cancer susceptibility. Jour-
+nal of medical genetics 2003, 40(12):e131.
+20. Tommiska J, Seal S, Renwick A, Barfoot R, Baskcomb L, Jayatilake H,
+Bartkova J, Tallila J, Kaare M, Tamminen A, et al.: Evaluation of
+RAD50 in familial breast cancer predisposition. International
+journal of cancer 2006, 118(11):2911-2916.
+21. Giannini G, Ristori E, Cerignoli F, Rinaldi C, Zani M, Viel A, Ottini L,
+Crescenzi M, Martinotti S, Bignami M, et al.: Human MRE11 is inac-
+tivated in mismatch repair-deficient cancers. EMBO reports
+2002, 3(3):248-254.
+22. German J: Bloom's syndrome. Dermatologic clinics 1995,
+13(1):7-18.
+23. Goss KH, Risinger MA, Kordich JJ, Sanz MM, Straughen JE, Slovek LE,
+Capobianco AJ, German J, Boivin GP, Groden J: Enhanced tumor
+formation in mice heterozygous for Blm mutation. Science
+(New York, NY) 2002, 297(5589):2051-2053.
+24. Gruber SB, Ellis NA, Scott KK, Almog R, Kolachana P, Bonner JD,
+Kirchhoff T, Tomsho LP, Nafa K, Pierce H, et al.: BLM heterozygos-
+ity and the risk of colorectal cancer. Science (New York, NY)
+2002, 297(5589):2013.
+25. Cleary SP, Zhang W, Di Nicola N, Aronson M, Aube J, Steinman A,
+Haddad R, Redston M, Gallinger S, Narod SA, et al.: Heterozygosity
+for the BLM(Ash) mutation and cancer risk. Cancer research
+2003, 63(8):1769-1771.
+26. Wang W: Emergence of a DNA-damage response network
+consisting of Fanconi anaemia and BRCA proteins. Nature
+reviews 2007, 8(10):735-748.
+27. Shimura T, Torres MJ, Martin MM, Rao VA, Pommier Y, Katsura M,
+Miyagawa K, Aladjem MI: Bloom's syndrome helicase and Mus81
+are required to induce transient double-strand DNA breaks
+in response to DNA replication stress. Journal of molecular biol-
+ogy 2008, 375(4):1152-1164.
+28. Dumon-Jones V, Frappart PO, Tong WM, Sajithlal G, Hulla W, Schmid
+G, Herceg Z, Digweed M, Wang ZQ: Nbn heterozygosity renders
+mice susceptible to tumor formation and ionizing radiation-
+induced tumorigenesis. Cancer research 2003, 63(21):7263-7269.
+29. Xiao Y, Weaver DT: Conditional gene targeted deletion by Cre
+recombinase demonstrates the requirement for the double-
+strand break repair Mre11 protein in murine embryonic
+stem cells. Nucleic acids research 1997, 25(15):2985-2991.
+30. Bender CF, Sikes ML, Sullivan R, Huye LE, Le Beau MM, Roth DB, Mir-
+zoeva OK, Oltz EM, Petrini JH: Cancer predisposition and
+hematopoietic failure in Rad50(S/S) mice. Genes & development
+2002, 16(17):2237-2251.
+31. Morales M, Theunissen JW, Kim CF, Kitagawa R, Kastan MB, Petrini
+JH: The Rad50S allele promotes ATM-dependent DNA dam-
+age responses and suppresses ATM deficiency: implications
+Additional file 10
+Regression analysis for overall NHL in Asians and South-East Asian
+samples. Table containing statistical analysis results for overall NHL only.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1471-
+2350-10-117-S10.PDF]
+BMC Medical Genetics 2009, 10:117 http://www.biomedcentral.com/1471-2350/10/117
+Page 10 of 10
+(page number not for citation purposes)
+for the Mre11 complex as a DNA damage sensor. Genes &
+development 2005, 19(24):3043-3054.
+32. Sipahimalani P, Spinelli JJ, MacArthur AC, Lai A, Leach SR, Janoo-Gilani
+RT, Palmquist DL, Connors JM, Gascoyne RD, Gallagher RP, et al.: A
+systematic evaluation of the ataxia telangiectasia mutated
+gene does not show an association with non-Hodgkin lym-
+phoma. International journal of cancer 2007, 121(9):1967-1975.
+33. Spinelli JJ, Ng CH, Weber JP, Connors JM, Gascoyne RD, Lai AS,
+Brooks-Wilson AR, Le ND, Berry BR, Gallagher RP: Organochlo-
+rines and risk of non-Hodgkin lymphoma. International journal of
+cancer 2007, 121(12):2767-2775.
+34. Kent WJ, Sugnet CW, Furey TS, Roskin KM, Pringle TH, Zahler AM,
+Haussler D: The human genome browser at UCSC. Genome
+research 2002, 12(6):996-1006.
+35. Frazer KA, Pachter L, Poliakov A, Rubin EM, Dubchak I: VISTA:
+computational tools for comparative genomics. Nucleic acids
+research 2004:W273-279.
+36. Rozen S, Skaletsky H: Primer3 on the WWW for general users
+and for biologist programmers. Methods in molecular biology
+(Clifton, NJ) 2000, 132:365-386.
+37. Brooks-Wilson AR, Kaurah P, Suriano G, Leach S, Senz J, Grehan N,
+Butterfield YS, Jeyes J, Schinas J, Bacani J, et al.: Germline E-cad-
+herin mutations in hereditary diffuse gastric cancer: assess-
+ment of 42 new families and review of genetic screening
+criteria. Journal of medical genetics 2004, 41(7):508-517.
+38. Ewing B, Hillier L, Wendl MC, Green P: Base-calling of automated
+sequencer traces using phred. I. Accuracy assessment.
+Genome research 1998, 8(3):175-185.
+39. Ewing B, Green P: Base-calling of automated sequencer traces
+using phred. II. Error probabilities. Genome research 1998,
+8(3):186-194.
+40. Stephens M, Sloan JS, Robertson PD, Scheet P, Nickerson DA: Auto-
+mating sequence-based detection and genotyping of SNPs
+from diploid samples. Nature genetics 2006, 38(3):375-381.
+41. Green P: Phrap. 1996 [http://www.phrap.org/phredphrap/
+phrap.html].
+42. Gordon D: Viewing and editing assembled sequences using
+Consed. Current protocols in bioinformatics/editoral board, Andreas D
+Baxevanis [et al] 2003, Chapter 11(Unit11):12.
+43. Stephens M, Donnelly P: A comparison of bayesian methods for
+haplotype reconstruction from population genotype data.
+American journal of human genetics 2003, 73(5):1162-1169.
+44. Stephens M, Smith NJ, Donnelly P: A new statistical method for
+haplotype reconstruction from population data. American jour-
+nal of human genetics 2001, 68(4):978-989.
+45. Stram DO, Haiman CA, Hirschhorn JN, Altshuler D, Kolonel LN,
+Henderson BE, Pike MC: Choosing haplotype-tagging SNPS
+based on unphased genotype data using a preliminary sam-
+ple of unrelated subjects with an example from the Multieth-
+nic Cohort Study. Human heredity 2003, 55(1):27-36.
+46. Benjamini Y, Y H: Controlling the false discovery rate: a practi-
+cal and powerful approach to multiple testing. J R Stat Soc Ser
+B 1995, 57:289-300.
+47. Bates D, Chambers J, Dalgaard P, Falcon S, Gentleman R, Hornik K,
+Iacus S, Ihaka R, Leisch F, Lumley T, et al.: R. 2.1.1 edition. The R
+Foundation for Statistical Computing .
+48. Ionita-Laza I, Lange C, N ML: Estimating the number of unseen
+variants in the human genome. Proceedings of the National Acad-
+emy of Sciences of the United States of America 2009,
+106(13):5008-5013.
+49. Encode 2009 [http://www.hapmap.org/downloads/
+encode1.html.en].
+50. Ramensky V, Bork P, Sunyaev S: Human non-synonymous SNPs:
+server and survey. Nucleic acids research 2002, 30(17):3894-3900.
+51. dbSNP [http://www.ncbi.nlm.nih.gov/projects/SNP/]
+52. Barrett JC, Fry B, Maller J, Daly MJ: Haploview: analysis and visu-
+alization of LD and haplotype maps. Bioinformatics (Oxford, Eng-
+land) 2005, 21(2):263-265.
+53. Cerosaletti KM, Morrison VA, Sabath DE, Willerford DM, Concan-
+non P: Mutations and molecular variants of the NBS1 gene in
+non-Hodgkin lymphoma. Genes, chromosomes & cancer 2002,
+35(3):282-286.
+54. Chrzanowska KH, Piekutowska-Abramczuk D, Popowska E, Glad-
+kowska-Dura M, Maldyk J, Syczewska M, Krajewska-Walasek M,
+Goryluk-Kozakiewicz B, Bubala H, Gadomski A, et al.: Carrier fre-
+quency of mutation 657del5 in the NBS1 gene in a popula-
+tion of Polish pediatric patients with sporadic lymphoid
+malignancies. International journal of cancer 2006,
+118(5):1269-1274.
+55. Rischewski J, Bismarck P, Kabisch H, Janka-Schaub G, Obser T,
+Schneppenheim R: The common deletion 657del5 in the Nibrin
+gene is not a major risk factor for B or T cell non-Hodgkin
+lymphoma in a pediatric population. Leukemia 2000,
+14(8):1528-1529.
+56. Soucek P, Gut I, Trneny M, Skovlund E, Grenaker Alnaes G, Kris-
+tensen T, Borresen-Dale AL, Kristensen VN: Multiplex single-tube
+screening for mutations in the Nijmegen Breakage Syn-
+drome (NBS1) gene in Hodgkin's and non-Hodgkin's lym-
+phoma patients of Slavic origin. Eur J Hum Genet 2003,
+11(5):416-419.
+57. Stanulla M, Stumm M, Dieckvoss BO, Seidemann K, Schemmel V,
+Muller Brechlin A, Schrappe M, Welte K, Reiter A: No evidence for
+a major role of heterozygous deletion 657del5 within the
+NBS1 gene in the pathogenesis of non-Hodgkin's lymphoma
+of childhood and adolescence. British journal of haematology 2000,
+109(1):117-120.
+58. Resnick IB, Kondratenko I, Pashanov E, Maschan AA, Karachunsky A,
+Togoev O, Timakov A, Polyakov A, Tverskaya S, Evgrafov O, et al.:
+657del5 mutation in the gene for Nijmegen breakage syn-
+drome (NBS1) in a cohort of Russian children with lymphoid
+tissue malignancies and controls. Am J Med Genet A 2003,
+120A(2):174-179.
+59. Seemanova E, Hoch J, Herzogova J, Kawaciuk I, Janda J, Kohoutova M,
+Seeman P, Varon R, Sperling K: Mutations in tumor suppressor
+gene NBS1 in adult patients with malignancies. Casopis lekaru
+ceskych 2006, 145(3):201-203.
+60. Seemanova E, Jarolim P, Seeman P, Varon R, Sperling K: Increased
+risk of malignancies in heterozygotes in families of patients
+with Nijmegen breakage syndrome. Casopis lekaru ceskych 2006,
+145(2):138-143.
+61. Steffen J, Varon R, Mosor M, Maneva G, Maurer M, Stumm M, Now-
+akowska D, Rubach M, Kosakowska E, Ruka W, et al.: Increased
+cancer risk of heterozygotes with NBS1 germline mutations
+in Poland. International journal of cancer 2004, 111(1):67-71.
+62. Mosor M, Ziolkowska I, Pernak-Schwarz M, Januszkiewicz-Lewand-
+owska D, Nowak J: Association of the heterozygous germline
+I171V mutation of the NBS1 gene with childhood acute lym-
+phoblastic leukemia. Leukemia 2006, 20(8):1454-1456.
+63. Rollinson S, Kesby H, Morgan GJ: Haplotypic variation in MRE11,
+RAD50 and NBS1 and risk of non-Hodgkin's lymphoma.
+Leukemia & lymphoma 2006, 47(12):2567-2583.
+64. Rothman N, Skibola CF, Wang SS, Morgan G, Lan Q, Smith MT,
+Spinelli JJ, Willett E, De Sanjose S, Cocco P, et al.: Genetic variation
+in TNF and IL10 and risk of non-Hodgkin lymphoma: a
+report from the InterLymph Consortium. The lancet oncology
+2006, 7(1):27-38.
+Pre-publication history
+The pre-publication history for this paper can be accessed
+here:
+http://www.biomedcentral.com/1471-2350/10/117/pre
+pub
+

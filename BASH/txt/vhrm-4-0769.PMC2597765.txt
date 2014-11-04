@@ -1,0 +1,511 @@
+© 2008 Dove Medical Press Limited. All rights reserved
+Vascular Health and Risk Management 2008:4(4) 769–774 769
+R E V I E W
+Characterizing blood microparticles:Technical
+aspects and challenges
+Arun S Shet
+Department of Medicine, St. Johns
+Medical College and Hospital,
+St. Johns National Academy of Health
+Sciences, Bangalore, India
+Correspondence:Arun S Shet
+Department of Medicine, St. Johns
+Medical College and Hospital, St. Johns
+National Academy of Health Sciences,
+Sarjapur Road, Bangalore 560034, India
+Tel +91 80 2206 5352
+Fax +91 80 2553 0737
+Email arunshet@iphcr.res.in
+Abstract: Although long considered to be cellular debris, microparticles (MPs) are more
+recently considered reﬂective of cellular stimulation, activation, and degeneration/apoptosis.
+MPs that arise from the cellular components of blood and the endothelial lining of blood ves-
+sels are referred to as blood MPs and by general consensus are small (р1.5 μm), expose the
+anionic phospholipid (PL) phosphatidylserine (PS) on the outer leaﬂet of their membrane, and
+bear surface membrane antigens reﬂecting their cellular origin. This brief review summarizes
+the different approaches used by several groups to study blood MPs. The aim of this article is
+to review the technical aspects of characterizing the morphological and functional properties
+of blood MPs with emphasis on the preanalytical and analytical variables involved in these
+studies.
+Keywords: microparticles, ﬂow cytometry, techniques
+Introduction
+Cellular microparticles (MPs) are fragments of the plasma membrane that are shed by
+virtually all cell when subject to a number of stress conditions, including cellular activa-
+tion and apoptosis (Beaudoin and Grondin 1991; Zwaal and Schroit 1997; Freyssinet
+et al 1999; Hugel et al 2005). Since the description of “platelet dust” by Wolf (1967),
+numerousstudieshavereportedthepresenceofsubcellularvesiclesincentrifugedplasma.
+Although long considered to be cellular debris, blood MPs are more recently considered
+reﬂective of cellular stimulation, activation, and degeneration/apoptosis (Freyssinet
+2003; Morel et al 2005; Boulanger et al 2006). By general consensus, MPs are small in
+size (Յ1.5 μm), expose the anionic phospholipid (PL) phosphatidylserine (PS) on the
+outer leaﬂet of their membrane, and bear surface membrane antigens reﬂecting their
+cell of origin (Jy et al 2004). MPs that arise from the cellular components of blood and
+the endothelial lining of blood vessels are referred to as blood MPs. Apart from blood
+MPs, plasma contains smaller membrane vesicles (40–100 nm) termed exosomes and
+larger vesicles (Ͼ1.5 μm) termed apoptotic bodies that are derived from blood and
+vascular cells (Heijnen et al 1999; Freyssinet 2003). The aim of this article is to review
+the technical aspects of characterizing the morphological and functional properties of
+blood MPs with emphasis on both preanalytical and analytical variables.
+Membrane phospholipid asymmetry
+and microparticle formation
+All cell type’s spontaneously shed blebs from their plasma membranes in an active
+process that appears to be important for membrane remodeling and antigenic turn-
+over. In resting cells, the negatively charged phospholipids, including PS, are almost
+exclusively present in the inner leaﬂet of the cell membrane (Zwaal and Schroit 1997).
+Among the mechanisms proposed to account for this asymmetry are unidirectional
+enzymatic movement by an aminophospholipid translocase and/or association between
+Vascular Health and Risk Management 2008:4(4)770
+Shet
+the negatively charged phospholipids and elements in the
+cytoplasm, including cytoskeletal elements and their accom-
+panying proteins (Bevers et al 1998). MP release is an integral
+part of the cell membrane remodeling process whereby the
+normal asymmetric distribution of phospholipids between the
+two leaﬂets of the plasma membrane is lost. Calcium entry,
+activation of calpain and scramblase activity are thought
+to be important steps in the loss of lipid asymmetry and
+microparticle formation, but the exact sequence of events is
+not completely understood (Fox et al 1990; Yano et al 1994;
+Dachary-Prigent et al 1995, 1997; Pasquet et al 1996, 1998;
+Bucki et al 1998, 2006; Kunzelmann-Marche et al 2001).
+The possible pathways leading to membrane budding and
+MP release have been recently reviewed (Freyssinet 2003;
+Boulanger et al 2006).
+Membrane shedding by blood cells
+Erythrocytes
+Shedding processes are found in a variety of blood cells
+(Beaudoin and Grondin 1991). Human erythrocytes treated
+with ionophore A23187 in the presence of calcium, respond
+by budding to release MPs. Normal erythrocytes also release
+MPs following ATP depletion, heat treatment (49 °C),
+incubation at pH 5.4 and incubation with diamide (5 mMol/L)
+(Wagner et al 1986). Erythrocyte MPs are also found to be
+elevated in several pathological conditions associated with
+hemolysis (Hugel et al 1999) but are notably elevated in
+sickle cell anemia (Allan et al 1982). Erythrocyte-derived
+MPs are usually identiﬁed by the binding of antibodies to
+glycophorin A (CD235a), a protein uniquely expressed on
+the erythrocyte membrane.
+White blood cells
+These cells have a unique physiological role in inﬂammation,
+immune regulation, and thrombosis. Following exposure to
+various stimuli including lipopolysaccharide and phorbol
+myrisitate, monocytes are observed to vesiculate and release
+MPs (Satta et al 1994; Mesri and Altieri 1999). Monocytes
+express CD14, the lipopolysaccharide receptor strongly on
+their surface while granulocytes express CD14 weakly. Thus,
+monocyte-derived MPs have been identiﬁed by the surface
+expression of CD14. MPs derived from neutrophils have been
+identiﬁed in the blood of normal subjects and in patients with
+meningoccocal sepsis (Nieuwland et al 2000). Typically,
+polymorphonuclear neutrophilic leukocyte-derived MPs are
+identiﬁed using the leukocyte-speciﬁc markers lactoferrin
+or CD66b. Lymphocyte-derived MP have been identiﬁed
+using lymphocyte-speciﬁc markers CD4 and CD8 (Arm-
+strong et al 1988; Aupeix et al 1997; Diamant et al 2002;
+Martin et al 2004).
+Platelets
+Microparticle formation in platelets occurs as a result
+of activation by various stimuli (epinephrine, adenosine
+diphosphate, collagen, thrombin, A23187) (Horstman and
+Ahn 1999) and during storage (Bode et al 1991). Increased
+platelet MP formation has been documented in a variety
+of clinical conditions that are associated with platelet
+activation (Solum 1999). Platelet-derived MPs that express
+surface glycoproteins and antibodies to CD41, CD42, and
+CD61 have been used to detect platelet-derived MPs (Lee
+et al 1996; Combes et al 1997; Diamant et al 2002). CD61
+is less speciﬁc as a platelet marker since this integrin is
+also expressed on blood monocytes and antibodies that
+recognize on the CD61 epitope will identify both platelet-
+and monocyte-derived MPs.
+Endothelial cells
+Endothelial cells undergo injury and vesiculation following
+in vitro exposure to complement, thrombin and a variety of
+agents such as ionophore, lipopolysaccharide, autoantibodies,
+and cytokines (interleukin-1 and tumor necrosis factor-α)
+(Hamilton et al 1990; Combes et al 1999). Elevated endo-
+thelial MPs have been documented in several pathological
+situations including atherosclerosis, sepsis, and diabetes
+mellitus. Several endothelial speciﬁc antibodies have been
+used to detect MPs in these situations including CD31, CD51,
+CD105, CD144, and CD146 (Sabatier et al 2002). Of this
+extensive list, CD144 and CD146 are endothelial-speciﬁc
+markers as they have not yet been found expressed on any
+other blood cell in humans.
+Assays to characterize
+microparticles
+In general, most assays have focused on characterizing
+the antigenic composition of cellular microparticles
+using antibody capture-based ELISA (Aupeix et al 1997;
+Freyssinet et al 1999; Mallat et al 1999) or ﬂow cytometry
+(Combes et al 1997, 1999). Most investigators have elected
+to characterize blood MPs using ﬂow cytometry and the
+technical protocols of some have been reviewed in a recent
+forum (Jy et al 2004). In addition to analyzing MP antigens,
+several investigators have assessed the coagulant function
+of blood microparticles using functional assays (Westerman
+et al 1984; Mallat et al 1999; Berckmans et al 2001; Joop
+et al 2001; Shet et al 2003; Aras et al 2004). These assays
+Vascular Health and Risk Management 2008:4(4) 771
+Characterizing blood microparticles
+either measure acceleration of plasmatic coagulation by MP-
+derived phospholipids or triggering of plasmatic coagulation
+by MP-associated tissue factor. The PF3 assay, in which
+exposure of platelet poor plasma to Russell’s viper venom
+in the presence of calcium causes coagulation, but only in
+the presence of certain phospholipids (supplied by blood
+MPs), has also been used as a functional assay (Hardisty
+and Hutton 1965).
+Preanalytical variables
+The measurement of blood MPs requires careful attention to
+collection and processing of blood samples. While there have
+been some general guidelines regarding preanalytical vari-
+ables that may be important, these have been more consensus-
+driven statements rather than guidelines based on scientiﬁc
+evidence. Furthermore, several aspects of blood collection
+such as venepuncture needle size, use of a tourniquet during
+blood collection, phlebotomy using a vacutainer vs a syringe,
+and the type of anticoagulant used (sodium citrate vs eth-
+ylenediaminetetraacetic acid) could have an impact on the
+measurement of blood MPs. Additionally, sample processing
+following blood collection is extremely variable between
+investigators and could be partially responsible for the
+discrepancies in blood MPs levels reported in the literature.
+While separating the cellular elements of blood from the
+plasma containing MPs, careful attention must be paid to
+centrifugation speed. In our experience, a 2-step centrifuga-
+tion using 1500 × g for 10 minutes and then 13,000 × g for
+10 minutes resulted in platelet-free plasma (when assessed
+by ﬂow cytometry and light microscopy) (Shet et al 2003).
+The second centrifugation step is particularly efﬁcient at
+rendering plasma relatively “platelet free” by eliminating
+small platelets but it is unclear if large bloods MPs are also
+depleted in this process. There are several difﬁculties in sepa-
+rating platelets, microparticles, exosomes, and cellular debris
+as individual components. We have attempted to isolate
+blood MPs from platelet-poor plasma by using a high-speed
+centrifugation step. However, the sample that we work with
+contains exosomes. Isolating blood MPs from exosomes by
+centrifugation is technically challenging and the need for
+such separation is probably dependent on the nature of the
+study being performed.
+Analytical variables
+Flow cytometry
+Flow cytometric analysis of blood MPs appears to be the
+most favored method to characterize blood MPs (Jy et al
+2004). Typically, MPs are identiﬁed as particles with a
+forward angle light scatter (FALS) smaller than an internal
+standard consisting of 1–1.5 μm sized latex particles (Shet
+et al 2003). Most investigators do not use a lower size limit
+but some have arbitrarily chosen 100 nm below which
+particles that are recognized by the instrument are not
+considered MPs (Boulanger et al 2006). Others have used
+platelets as an internal standard and gated particles with a
+FALS value below that of the smallest platelet (Nieuwland
+et al 2000). While the identiﬁcation of MPs on the basis
+of size using FALS tests the limit of sensitivity of ﬂow
+cytometry, some have overcome this problem by adjust-
+ing the parameters of the instrument to detect ﬂuorescent
+intensity (Horstman et al 1994). Flow cytometry can also be
+used to enumerate blood MPs by adding a known number of
+ﬂuorescent or nonﬂuorescent latex particles to the sample
+prior to performing analysis (Combes et al 1997, 1999; Shet
+et al 2003). The number of MPs present in the sample is
+derived by dividing the number of MP events counted by
+the volume of the sample analyzed, ie, (beads counted/beads
+added) × sample volume, and adjusting for the ﬁnal dilu-
+tion of the original blood sample. Alternatively, if the ﬂow
+cytometry instrument delivers the sample to the optics cell
+by screw-driven syringe at a known rate, then the sample
+MP count can theoretically be calculated. This method of
+enumeration is less desirable since it makes assumptions
+regarding the instruments ﬂuidics and has unacceptable
+day-to-day variability (Reverter et al 1996).
+Antibody capture assays
+ELISA-based MP capture assays have been devised and
+tested to simplify and semi-automate the characterization
+of blood MPs. These assays have utilized annexin V as a
+means of capturing phospholipids (Aupeix et al 1997; Mallat
+et al 1999) or antibodies to speciﬁc blood MP membrane
+antigens, eg, αIIbβ3 (Mallat et al 2000), or antibodies to
+nonspeciﬁc blood MP membrane antigens that are shared
+by several cell types eg, antibody 1B5 (Aras et al 2004)
+and have been reviewed elsewhere (Freyssinet et al 1999).
+Such assays have reduced the challenges of analyzing large
+sample numbers.
+Other assays
+In addition to the above techniques, the antigenic char-
+acteristics and the membrane composition of blood MPs
+have been studied using electron microscopy (Heijnen
+et al 1999; Aras et al 2004) (Figure 1 and Figure 2), con-
+focal microscopy (Combes et al 1999), high performance
+liquid chromatography (Weerheim et al 2002), capillary
+Vascular Health and Risk Management 2008:4(4)772
+Shet
+electrophoresis (Xiong et al 2003), and mass spectrometry
+(Jin et al 2005; Miguet et al 2006) with varying degrees of
+success. Assays that measure the pro/anticoagulant functions
+of blood MPs are somewhat under-utilized perhaps in part
+due to the technical challenges in developing standardized
+and reproducible assays.
+Limitations
+Flow cytometry provides useful information about blood
+MPs but there are some limitations associated with this tech-
+nique that are worth considering. The deﬁnition of a blood
+MP using ﬂow cytometry is still an area of great debate.
+In our studies, we used somewhat rigid criteria to deﬁne
+blood MPs in order to preserve speciﬁcity while sacriﬁcing
+sensitivity to a certain extent. Blood MPs were deﬁned as
+particles that were 1. Removable from platelet-free plasma
+by ultracentrifugation; 2. Were small in size (Յ1μm); and 3.
+Labeled with annexin V. While such criteria may be possible
+in certain situations, they are not practical or possible in all
+conditions. For instance, most would agree that blood MPs
+demonstrate surface PS as evidenced by annexin V labeling,
+but clearly not all plasma particles Յ1 μm label with annexin
+V (Shet et al 2003; Boulanger et al 2006). Furthermore, a
+substantial portion of plasma particles Յ1 μm label with
+antibodies to cell surface markers, but not annexin V, which
+suggests that there are PS (−) blood MPs (Shet et al 2003).
+An alternative explanation could be that the exposure of
+PS on the outer aspect of some blood MPs is incomplete
+resulting in absent/reduced annexin V labeling or that some
+MPs contain scramblase activity. Finally, the contribution
+of exosomes and apoptotic bodies to the ﬂow cytometric
+signal obtained cannot be completely ignored. Thus, while
+a consensus ﬂow cytometric deﬁnition of blood MPs would
+have utility, one should be aware of the limitations of such
+deﬁnitions when studying biological processes. Modern
+ﬂow cytometers are equipped with less powerful lasers and
+have a threshold for particle size detection ∼500 nm below
+which sensitivity is unpredictable according to instrument
+manufacturers (Becton Dickenson, San Jose, CA; pers
+comm). Detecting MPs using ﬂuorescence as the primary
+detection parameter has overcome this problem to a certain
+extent, but most investigators do not clearly indicate instru-
+ment setting in their description of the methods. Finally, the
+choice of well-characterized antibodies directed against a
+cell membrane antigen that not shared by other cell lineages
+present in blood is an important prerequisite to characterizing
+the cellular origin of blood MPs. Such antibodies should be
+primarily labeled with a ﬂourophore, as the use of secondary
+antibodies is not recommended.
+Microparticles in health and disease
+The general consensus is that plasma levels of blood MPs
+reﬂect equilibrium between their release and their clearance
+by monocytes-macrophage system. Since clearance of cells
+undergoing apoptosis or injury is extremely efﬁcient, the
+Figure 1 Ultrastructure of blood MPs from a patient with sickle cell anemia using
+electron microscopy.
+Figure 2 Immunogold labeling of blood MPs.Blood MPs obtained by ultracentrifugation
+were incubated with rabbit polyclonal anti-tissue factor antibody (a;6 nm gold),anti-
+CD144 antibody (b;12 nm gold),and anti-CD14 antibody (c;12 nm gold).No labeling
+was observed with control antibodies (d, e, and f).
+Note: Bars = 100 nm.
+Vascular Health and Risk Management 2008:4(4) 773
+Characterizing blood microparticles
+presence of blood MPs is considered an objective in vitro
+parameter that serves as evidence of deleterious cellular
+alterations in vivo. However, very little is published about
+the clearance and fate of blood MPs in any speciﬁc disease
+state leaving one to speculate that their presence reﬂects
+either a defect in recognition of these particles or an over-
+whelming of the clearance mechanism by their sheer number
+(Willekens et al 2005). Experimental evidence both in vitro
+and in vivo has demonstrated that blood MPs are capable of
+inﬂuencing diverse biological function (Zwaal and Schroit
+1997; Barry and FitzGerald 1999; Horstman and Ahn 1999;
+Mesri and Altieri 1999; Freyssinet 2003; Hugel et al 2005;
+Boulanger et al 2006). Blood MPs have been associated with
+several disease processes and while they seem to be useful
+markers there is insufﬁcient evidence to demonstrate that
+this association is causal. Clearly, elevated blood MPs in
+several disease processes result from inﬂammation, cellular
+activation and apoptosis. Such MPs, through their diverse
+biological effects, unequivocally contribute to vascular
+disease and comorbidity and are therefore likely to be very
+important in the disease process.
+Conclusion
+Several studies clearly demonstrate that blood MPs could
+be mediators of disease in some cases, markers of disease
+in other cases, and have prognostic potential, but the patho-
+physiological relevance of blood MPs is still in its infancy.
+Many of the studies mentioned in this review demonstrate that
+detection, phenotypic characterization, and quantiﬁcation of
+blood MPs are interesting and potentially valuable in patients
+that are at risk for vascular events. However, conversion of
+this potential into a reality will necessitate a standardized
+approach to the detection and characterization of blood MP.
+In addition, attention to the preanalytical and analytical
+variables and reﬁnement in the techniques used to assess
+the cellular origin of blood MPs could help shed light on the
+mechanisms of MP release, function, and clearance.
+Acknowledgements
+The author is grateful to Dr Omer Aras, Marcy Krumwiede,
+and Dr James G White for their excellent technical assistance
+and expertise with the electron microscopy studies. The
+author reports no conﬂicts of interest in this work.
+References
+Allan D, Limbrick AR, Thomas P, et al. 1982. Release of spectrin-free
+spicules on reoxygenation of sickled erythrocytes. Nature, 295:612–3.
+Aras O, Shet A, Bach RR, et al. 2004. Induction of microparticle- and cell-
+associated intravascular tissue factor in human endotoxemia. Blood,
+103:4545–53.
+Armstrong MJ, Storch J, Dainiak N. 1988. Structurally distinct plasma
+membrane regions give rise to extracellular membrane vesicles in normal
+and transformed lymphocytes. Biochim Biophys Acta, 946:106–12.
+Aupeix K, Hugel B, Martin T, et al. 1997. The signiﬁcance of shed mem-
+brane particles during programmed cell death in vitro, and in vivo, in
+HIV-1 infection. J Clin Invest, 99:1546–54.
+Barry OP, Fitzgerald GA. 1999. Mechanisms of cellular activation by platelet
+microparticles. Thromb Haemost, 82:794–800.
+Beaudoin AR, Grondin G. 1991. Shedding of vesicular material from the
+cell surface of eukaryotic cells: different cellular phenomena. Biochim
+Biophys Acta, 1071:203–19.
+Berckmans RJ, Neiuwland R, Boing AN, et al. 2001. Cell-derived mic-
+roparticles circulate in healthy humans and support low grade thrombin
+generation. Thromb Haemost, 85:639–46.
+Bevers EM, Comfurius P, Dekkers DW, et al. 1998. Transmembrane
+phospholipid distribution in blood cells: control mechanisms and
+pathophysiological signiﬁcance. Biol Chem, 379:973–86.
+Bode AP, Orton SM, Frye MJ, et al. 1991. Vesiculation of platelets during
+in vitro aging. Blood, 77:887–95.
+Boulanger CM, Amabile N, Tedgui A. 2006. Circulating microparticles:
+a potential prognostic marker for atherosclerotic vascular disease.
+Hypertension, 48:180–6.
+Bucki R, Bachelot-Loza C, Zachowski A, et al. 1998. Calcium induces phos-
+pholipid redistribution and microvesicle release in human erythrocyte
+membranes by independent pathways. Biochemistry, 37:15383–91.
+Bucki R, Pastore JJ, Giraud F, et al. 2006. Involvement of the Na+/H+
+exchanger in membrane phosphatidylserine exposure during human
+platelet activation. Biochim Biophys Acta, 1761:195–204.
+Combes V, Dignat-George F, Mutin M, et al. 1997. A new ﬂow cytometry
+method of platelet-derived microvesicle quantitation in plasma. Thromb
+Haemost, 77:220.
+Combes V, Simon AC, Grau GE, et al. 1999. In vitro generation of endo-
+thelial microparticles and possible prothrombotic activity in patients
+with lupus anticoagulant. J Clin Invest, 104:93–102.
+Dachary-Prigent J, Pasquet JM, Fressinaud E, et al. 1997. Aminophos-
+pholipid exposure, microvesiculation and abnormal protein tyrosine
+phosphorylation in the platelets of a patient with Scott syndrome: a
+study using physiologic agonists and local anaesthetics. Br J Haematol,
+99:959–67.
+Dachary-Prigent J, Pasquet JM, Freyssinet JM, et al. 1995. Calcium involve-
+ment in aminophospholipid exposure and microparticle formation
+during platelet activation: a study using Ca2+-ATPase inhibitors.
+Biochemistry, 34:11625–34.
+Diamant M, Nieuwland R, Pablo RF, et al. 2002. Elevated numbers of
+tissue-factor exposing microparticles correlate with components of
+the metabolic syndrome in uncomplicated type 2 diabetes mellitus.
+Circulation, 106:2442–7.
+Fox JE, Austin CD, Boyles JK, et al. 1990. Role of the membrane skeleton
+in preventing the shedding of procoagulant-rich microvesicles from the
+platelet plasma membrane. J Cell Biol, 111:483–93.
+Freyssinet JM. 2003. Cellular microparticles: what are they bad or good
+for? J Thromb Haemost, 1:1655–62.
+Freyssinet JM, Toti F, Hugel B, et al. 1999. Apoptosis in vascular disease.
+Thromb Haemost, 82:727–35.
+Hamilton KK, Hattori R, Esmon CT, et al. 1990. Complement proteins
+C5b-9 induce vesiculation of the endothelial plasma membrane and
+expose catalytic surface for assembly of the prothrombinase enzyme
+complex. J Biol Chem, 265:3809–14.
+Hardisty RM, Hutton RA. 1965. The kaolin clotting time of platelet-
+rich plasma: A test of platelet factor-3 availability. Br J Haematol,
+11:258–68.
+Heijnen HF, Schiel AE, Fijnheer R, et al. 1999. Activated platelets release
+two types of membrane vesicles: microvesicles by surface shedding
+and exosomes derived from exocytosis of multivesicular bodies and
+alpha-granules. Blood, 94:3791–9.
+Horstman LL, Ahn YS. 1999. Platelet microparticles: a wide-angle
+perspective. Crit Rev Oncol Hematol, 30:111–42.
+Vascular Health and Risk Management 2008:4(4)774
+Shet
+Horstman LL, Jy W, Schultz DR, et al. 1994. Complement-mediated
+fragmentation and lysis of opsonized platelets: ender differences in
+sensitivity. J Lab Clin Med, 123:515–25.
+HugelB,MartinezMC,KunzelmannC,et al.2005.Membranemicroparticles:
+two sides of the coin. Physiology (Bethesda), 20:22–7.
+Hugel B, Socie G, Vu T, et al. 1999. Elevated levels of circulating procoagu-
+lant microparticles in patients with paroxysmal nocturnal hemoglobinuria
+and aplastic anemia. Blood, 93:3451–6.
+Jin M, Drwal G, Bourgeois T, et al. 2005. Distinct proteome features of
+plasma microparticles. Proteomics, 5:1940–52.
+Joop K, Berckmans RJ, Nieuwland R, et al. 2001. Microparticles from
+patients with multiple organ dysfunction syndrome and sepsis sup-
+port coagulation through multiple mechanisms. Thromb Haemost,
+85:810–20.
+Jy W, Horstman LL, Jimenez JJ, et al. 2004. Measuring circulating cell-
+derived microparticles. J Thromb Haemost, 2:1842–3.
+Kunzelmann-Marche C, Freyssinet JM, Martínez MC. 2001. Regulation of
+phosphatidylserine transbilayer redistribution by store-operated Ca2+
+entry: role of actin cytoskeleton. J Biol Chem, 276:5134–9.
+Lee DH, Warkentin TE, Denomme GA, et al. 1996. A diagnostic test for
+heparin-induced thrombocytopenia: detection of platelet microparticles
+using ﬂow cytometry. Br J Haematol, 95:724–31.
+Mallat Z, Benamer H, Hugel B, et al. 2000. Elevated levels of shed mem-
+brane microparticles with procoagulant potential in the peripheral cir-
+culating blood of patients with acute coronary syndromes. Circulation,
+101:841–3.
+Mallat Z, Hugel B, Ohan J, et al. 1999. Shed membrane microparticles with
+procoagulant potential in human atherosclerotic plaques: a role for
+apoptosis in plaque thrombogenicity. Circulation, 99:348–53.
+Martin S, Tesse A, Hugel B, et al. 2004. Shed membrane particles from
+T lymphocytes impair endothelial function and regulate endothelial
+protein expression. Circulation, 109:1653–9.
+Mesri M, Altieri DC. 1999. Leukocyte microparticles stimulate endothelial
+cell cytokine release and tissue factor induction in a JNK1 signaling
+pathway. J Biol Chem, 274:23111–8.
+Miguet L, Pacaud K, Felden C, et al. 2006. Proteomic analysis of malignant
+lymphocyte membrane microparticles using double ionization coverage
+optimization. Proteomics, 6:153–71.
+Morel O, Morel N, Hugel B, et al. 2005. [The signiﬁcance of circulating
+microparticles in physiology, inﬂammatory and thrombotic diseases].
+Rev Med Interne, 26:791–801.
+Nieuwland R, Berckmans RJ, McGregor S, et al. 2000. Cellular origin and
+procoagulant properties of microparticles in meningococcal sepsis.
+Blood, 95:930–5.
+Pasquet JM, Dachary-Prigent J, Nurden AT. 1996. Calcium inﬂux is a
+determining factor of calpain activation and microparticle formation
+in platelets. Eur J Biochem, 239:647–54.
+Pasquet JM, Dachary-Prigent J, Nurden AT. 1998. Microvesicle release
+is associated with extensive protein tyrosine dephosphorylation in
+platelets stimulated by A23187 or a mixture of thrombin and collagen.
+Biochem J, 333:591–9.
+Reverter JC, Beguin S, Kessels H, et al. 1996. Inhibition of platelet-
+mediated, tissue factor-induced thrombin generation by the mouse/
+human chimeric 7E3 antibody. Potential implications for the effect
+of c7E3 Fab treatment on acute thrombosis and “clinical restenosis”.
+J Clin Invest, 98:863–74.
+Sabatier F, Roux V, Anfosso F, et al. 2002. Interaction of endothelial mic-
+roparticles with monocytic cells in vitro induces tissue factor-dependent
+procoagulant activity. Blood, 99:3962–70.
+Satta N, Toti F, Feugeas O, et al. 1994. Monocyte vesiculation is a possible
+mechanism for dissemination of membrane-associated procoagulant
+activities and adhesion molecules after stimulation by lipopolysac-
+charide. J Immunol, 153:3245–55.
+Shet AS, Aras O, Gupta K, et al. 2003. Sickle blood contains tissue factor-
+positive microparticles derived from endothelial cells and monocytes.
+Blood, 102:2678–83.
+Solum NO. 1999. Procoagulant expression in platelets and defects leading
+to clinical disorders. Arterioscler Thromb Vasc Biol, 19:2841–6.
+Wagner GM, Chiu DT, Yee MC, et al. 1986. Red cell vesiculation – a com-
+mon membrane physiologic event. J Lab Clin Med, 108:315–24.
+Weerheim AM, Kolb AM, Sturk A, et al. 2002. Phospholipid composition
+of cell-derived microparticles determined by one-dimensional high-
+performance thin-layer chromatography. Anal Biochem, 302:191–8.
+Westerman MP, Cole ER, Wu K. 1984. The effect of spicules obtained from
+sickle red cells on clotting activity. Br J Haematol, 56:557–62.
+Willekens FL, Werre JM, Kruijt JK, et al. 2005. Liver Kupffer cells rapidly
+remove red blood cell-derived vesicles from the circulation by scavenger
+receptors. Blood, 105:2141–5.
+Wolf P. 1967. The nature and signiﬁcance of platelet products in human
+plasma. Br J Haematol, 13:269–88.
+Xiong G, Aras O, Shet A, et al. 2003. Analysis of individual platelet-derived
+microparticles, comparing ﬂow cytometry and capillary electrophoresis
+with laser-induced ﬂuorescence detection. Analyst, 128:581–8.
+Yano Y, Kambayashi J, Shiba E, et al. 1994. The role of protein phosphory-
+lation and cytoskeletal reorganization in microparticle formation from
+the platelet plasma membrane. Biochem J, 299:303–8.
+Zwaal RF, Schroit AJ. 1997. Pathophysiologic implications of membrane
+phospholipid asymmetry in blood cells. Blood, 89:1121–32.
+

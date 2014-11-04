@@ -1,0 +1,1056 @@
+Open Access
+Available online http://arthritis-research.com/content/10/4/R83
+Page 1 of 12
+(page number not for citation purposes)
+Vol 10 No 4
+Research article
+Human palatine tonsil: a new potential tissue source of
+multipotent mesenchymal progenitor cells
+Sasa Janjanin1,2*, Farida Djouad1*, Rabie M Shanti1,3, Dolores Baksh1, Kiran Gollapudi1,3,
+Drago Prgomet2, Lars Rackwitz1, Arjun S Joshi4 and Rocky S Tuan1
+1Cartilage Biology and Orthopaedics Branch, National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health,
+Department of Health and Human Services, 9000 Rockville Pike, Bethesda, MD 20892, USA
+2Department of Otorhinolaryngology, Head & Neck Surgery, Zagreb Clinical Hospital Center, Zagreb University School of Medicine, Kispaticeva 12,
+10000 Zagreb, Croatia
+3Howard Hughes Medical Institute-National Institutes of Health, Research Scholars Program, 1 Cloister Court, Bethesda, MD 20814-1460, USA
+4Division of Otolaryngology – Head and Neck Surgery, George Washington University, 2150 Pennsylvania Ave. N.W., Washington, DC 20037, USA
+* Contributed equally
+Corresponding author: Rocky S Tuan, tuanr@mail.nih.gov
+Received: 11 Mar 2008 Revisions requested: 15 May 2008 Revisions received: 27 May 2008 Accepted: 28 Jul 2008 Published: 28 Jul 2008
+Arthritis Research & Therapy 2008, 10:R83 (doi:10.1186/ar2459)
+This article is online at: http://arthritis-research.com/content/10/4/R83
+© 2008 Janjanin et al.; licensee BioMed Central Ltd.
+This is an open access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Abstract
+Introduction Mesenchymal progenitor cells (MPCs) are
+multipotent progenitor cells in adult tissues, for example, bone
+marrow (BM). Current challenges of clinical application of BM-
+derived MPCs include donor site morbidity and pain as well as
+low cell yields associated with an age-related decrease in cell
+number and differentiation potential, underscoring the need to
+identify alternative sources of MPCs. Recently, MPC sources
+have diversified; examples include adipose, placenta, umbilicus,
+trabecular bone, cartilage, and synovial tissue. In the present
+work, we report the presence of MPCs in human tonsillar tissue.
+Methods We performed comparative and quantitative analyses
+of BM-MPCs with a subpopulation of adherent cells isolated
+from this lymphoid tissue, termed tonsil-derived MPCs (T-
+MPCs). The expression of surface markers was assessed by
+fluorescent-activated cell sorting analysis. Differentiation
+potential of T-MPCs was analyzed histochemically and by
+reverse transcription-polymerase chain reaction for the
+expression of lineage-related marker genes. The
+immunosuppressive properties of MPCs were determined in
+vitro in mixed lymphocyte reactions.
+Results Surface epitope analysis revealed that T-MPCs were
+negative for CD14, CD31, CD34, and CD45 expression and
+positive for CD29, CD44, CD90, and CD105 expression, a
+characteristic phenotype of BM-MPCs. Similar to BM-MPCs, T-
+MPCs could be induced to undergo adipogenic differentiation
+and, to a lesser extent, osteogenic and chondrogenic
+differentiation. T-MPCs did not express class II major
+histocompatibility (MHC) antigens, and in a similar but less
+pronounced manner compared with BM-MPCs, T-MPCs were
+immunosuppressive, inhibiting the proliferation of T cells
+stimulated by allogeneic T cells or by non-specific mitogenic
+stimuli via an indoleamine 2,3-dioxygenase-dependent
+mechanism.
+Conclusion Human palatine T-MPCs represent a new source of
+progenitor cells, potentially applicable for cell-based therapies.
+Introduction
+Mesenchymal progenitor cells (MPCs), originally discovered in
+bone marrow (BM) stroma, support hematopoiesis and can
+differentiate along multiple mesenchymal lineages, including
+AGN = aggrecan; ALP = alkaline phosphatase; BM = bone marrow; BM-MPC = bone marrow-derived mesenchymal progenitor cell; CFU-F = colony-
+forming unit-fibroblast; COL2 = collagen type II α1; DMEM = Dulbecco's modified Eagle's medium; FBS = fetal bovine serum; FDC = follicular den-
+dritic cell; FITC = fluorescein isothiocyanate; FRC = fibroblastic reticular cell; GAPDH = glyceraldehyde 3-phosphate dehydrogenase; IDO =
+indoleamine 2,3-dioxygenase; IFN-γ = interferon-gamma; IFN-γR = interferon-gamma receptor; LPL = lipoprotein lipase; MHC = major histocompat-
+ibility complex; MLR = mixed lymphocyte reaction; MPC = mesenchymal progenitor cell; NHS = normal human serum; NK = natural killer; OC = oste-
+ocalcin; PBMC = peripheral blood mononuclear cell; PBS = phosphate-buffered saline; PE = phycoerythrin; PF = phosphate-buffered saline + 0.1%
+fetal bovine serum; PHA = phytohemaglutinin; PPARγ = proliferator-activated receptor-gamma; RT-PCR = reverse transcription-polymerase chain
+reaction; T-MPC = tonsil-derived mesenchymal progenitor cell; TNF-α = tumor necrosis factor-alpha.
+Arthritis Research & Therapy Vol 10 No 4 Janjanin et al.
+Page 2 of 12
+(page number not for citation purposes)
+osteoblasts, chondrocytes, adipocytes, and myocytes [1-3].
+Due to their differentiation capacities, MPCs have emerged as
+a promising tool for therapeutic applications in tissue engi-
+neering and cell and gene therapy. Animal studies have shown
+that MPC implantation can repair critical bone fracture in a rat
+model of femoral segmental defect [4] and that, after systemic
+injection, MPCs localize to the site of experimentally induced
+fractures [5]. Pilot clinical studies have demonstrated the fea-
+sibility of allogeneic BM transplantation in the treatment of
+osteogenesis imperfecta. BM-derived MPCs (BM-MPCs)
+engrafted and generated donor-derived osteoblasts that
+improved the clinical signs associated with the disease and
+enhanced total body weight [6]. Besides their multilineage
+potential, MPCs display immunoregulatory properties that
+have prompted consideration of their use in BM transplanta-
+tion. Indeed, a recent study reports the successful use of
+MPCs to treat severe grade IV acute graft-versus-host disease
+in one patient after allogeneic hematopoietic stem cell trans-
+plantation [7]. Although the exact immunosuppressive mecha-
+nisms are unknown, the capacity of MPCs to suppress T-cell
+proliferation stimulated by allogeneic lymphocytes, dendritic
+cells, and phytohemaglutinin (PHA) is well documented [8].
+Mechanisms involving cell contact. [9] as well as soluble fac-
+tors [10,11] have been proposed, particularly the involvement
+of interferon-gamma (IFN-γ) via its induction of indoleamine
+2,3-dioxygenase (IDO), an enzyme involved in the catabolism
+of tryptophan, an essential amino acid required for protein syn-
+thesis and T-cell proliferation [12,13].
+At present, BM is considered the most accessible source of
+adult MPCs. However, BM-MPC derivation has complications,
+including pain, donor site morbidity, and low cell yields upon
+harvest. Furthermore, the number of BM-MPCs and their pro-
+liferation rate and differentiating potential have been shown to
+decrease with donor age. [14]. Given that MPCs undergo a
+decline in their differentiation and expansion capacity with
+physiological aging, identification of potential sources of
+MPCs easily accessible from young donors is currently of main
+interest for cell-based therapy. [15]. The search for alternative
+sources of MPCs is thus of significant value. To date, MPCs
+have been isolated from a number of adult tissues, including
+trabecular bone [16], fat [17,18], synovium. [19,20], skin [21],
+thymus [22], periodontal ligament. [23] as well as prenatal and
+perinatal tissues such as umbilical cord blood. [24], umbilical
+cord [25], and placenta. [26].
+This study explores the possibility of identifying and isolating
+MPCs from human palatine tonsils. Tonsillar epithelium is
+derived from the second pharyngeal pouch (of endodermal ori-
+gin) and during fetal development is invaded by lymphoid tis-
+sue (of mesodermal origin). Therefore, embryologically, tonsils
+could be a source of MPCs. Because of the prevalence of ton-
+sillectomy procedure, tonsils are easily accessible, particularly
+from young donors and, if necessary, tonsillar biopsy can be
+easily obtained without major complications under local
+anesthesia. Our results show that MPCs exist in the stroma of
+palatine tonsils and can be isolated and expanded in culture.
+These tonsil-derived MPCs (T-MPCs) show multipotent differ-
+entiation properties and share similar immunosuppressive
+characteristics as BM-MPCs in mixed lymphocyte reaction
+(MLR). The immunosuppressive activity is significant and
+dose-dependent, though at a lower level than that of BM-
+MPCs. The difference in immuosuppressive activity correlates
+with the level of cell surface IFN-γ receptor (IFN-γR) as well as
+the differential ability of IFN-γ to stimulate IDO activity by T-
+MPCs compared with BM-MPCs.
+Materials and methods
+T-MPC and BM-MPC isolation and culture
+With institutional review board approval (George Washington
+University, Washington, DC, USA), tonsils were obtained after
+informed consent from patients (4 to 15 years old) undergoing
+tonsillectomy as a result of recurrent episodes of acute tonsil-
+litis. The tissue was minced and digested in RPMI medium
+(Gibco-BRL, now part of Invitrogen Corporation, Carlsbad,
+CA, USA) containing 210 U/mL collagenase type I (Invitrogen
+Corporation) and 90 KU/mL DNase (Sigma-Aldrich, St. Louis,
+MO, USA) for 30 minutes at 37°C. Following filtration through
+a wire mesh, the cells were washed twice in 20% normal
+human serum (NHS)-RPMI and once with 10% NHS-RPMI.
+Mononuclear cells were obtained by Ficoll-Paque (Amersham,
+now part of GE Healthcare, Little Chalfont, Buckinghamshire,
+UK) density gradient centrifugation of digested tonsil tissue.
+Cells were plated after 24 to 48 hours in T-150 cm2 tissue cul-
+ture flasks (Corning Incorporated, Corning, NY, USA), and
+non-adherent cells were washed away with expansion medium
+consisting of Dulbecco's modified Eagle's medium (DMEM)
+(Invitrogen Corporation) with 10% fetal bovine serum (FBS)
+from selected lots (HyClone, Logan, UT, USA) and antibiotics
+(50 μg/mL streptomycin and 50 IU/mL penicillin; Invitrogen
+Corporation).
+For BM-MPCs, BM was obtained after informed consent from
+patients (39 to 58 years old) undergoing lower extremity
+reconstructive surgery with institutional review board approval
+(University of Washington, Seattle, WA, USA, and George
+Washington University) and was processed by direct plating
+as described previously. [27]. BM aspirates were plated over-
+night in T-150 cm2 culture flasks in the same expansion
+medium as T-MPCs, and adherent cells were obtained simi-
+larly. Both T-MPCs and BM-MPCs were culture-expanded in
+basal medium at 37°C and 5% CO2 using T-150 Triple Flask
+(Nunc, Roskilde, Denmark), and medium changes were done
+twice weekly.
+Cell proliferation, limiting dilution assays, and colony-
+forming unit-fibroblast assays
+To estimate cell proliferation, cultures of T-MPCs and BM-
+MPCs plated at 1 × 104 cells per square centimeter in 12-well
+plates in basal medium were analyzed on days 3, 4, 7, 10, 12,
+Available online http://arthritis-research.com/content/10/4/R83
+Page 3 of 12
+(page number not for citation purposes)
+and 14, using MTS (methanethiosulfonate) assay according to
+the protocol of the manufacturer (Promega Corporation, Mad-
+ison, WI, USA). T-MPCs plated into six-well plates in serial
+dilutions (1 × 107, 1 × 106, 1 × 105, and 1 × 104 cells per well,
+in triplicate) were cultured in expansion medium for 2 weeks,
+fixed with 10% formalin, and stained with Giemsa (Sigma-
+Aldrich), and colonies of fibroblast-like cells were identified
+and counted based on the methods described by Castro-
+Malaspina and colleagues. [28]. Colony-forming unit-fibroblast
+(CFU-F) potential, the average number of cells required to pro-
+duce one colony, was determined by plating aliquots (1,000
+cells per square centimeter) of T-MPCs in expansion medium
+for 14 days and was analyzed as described previously [29].
+Cell surface epitope profiling
+For immunofluorescence, undifferentiated cells were washed
+twice in phosphate-buffered saline (PBS) (Invitrogen Corpora-
+tion), fixed with 4% paraformaldehyde in PBS (FD NeuroTech-
+nologies, Inc., Ellicott City, MD, USA) for 15 minutes, and then
+permeabilized in a PBS solution containing 300 mM sucrose,
+3 mM MgCl2, and 0.5% (vol/vol) Triton X-100 (Bio-Rad Labo-
+ratories, Inc., Hercules, CA, USA) for 5 minutes at 4°C. Cells
+were stained for cell surface markers (negative markers:
+CD14, CD34, and CD45; positive markers: CD29, CD44, and
+CD105) using specific mouse monoclonal antibodies (all
+obtained from BD Biosciences, San Jose, CA, USA) at 0.5 ng/
+μL for 2 hours. Secondary immunostaining was done with
+Alexa Fluor 488 conjugated goat anti-mouse immunoglobulin
+(diluted at 1:400) (Molecular Probes Inc., now part of Invitro-
+gen Corporation) for 1 hour. Nuclear counterstaining was
+done with 4',6-diamidino-2-phenylindole dihydrochloride
+(DAPI) (Invitrogen Corporation) for 5 minutes at 12 μg/30 mL
+PBS. Immunostained cultures were mounted with Fluoro-
+mount-G (Southern Biotech, Birmingham, AL, USA) and
+observed using confocal laser scanning microscopy (Zeiss
+LSM 510; Carl Zeiss, Jena, Germany). For flow cytometry, T-
+MPCs (>1 × 105 cells) were washed and resuspended in PBS
++ 0.1% FBS (PF) containing saturating concentrations (1:100
+dilution) of the following conjugated mouse IgG1,κ anti-human
+monoclonal antibodies (BD Biosciences): HLA-A, B, C-phyco-
+erythrin (PE) (MHC I), HLA-DR, DP, DQ-fluorescein isothiocy-
+anate (FITC) (MHC II), CD45-FITC, CD14-PE, CD31-PE,
+CD34-PE, CD73-PE, CD90-FITC, CD105-PE as well as IFN-
+γR1-PE (R&D Systems, Inc., Minneapolis, MN, USA) for 1 hour
+at 4°C. Cell suspensions were washed twice and resus-
+pended in PF for analysis on a flow cytometer (FACSCalibur;
+BD Biosciences) using the CellQuest ProTM software (BD
+Biosciences).
+In vitro differentiation
+T-MPCs and BM-MPCs were induced to undergo adipogenic,
+osteogenic, and chondrogenic differentiation as described
+previously. [27]. For adipogenic differentiation, cells were
+seeded into six-well tissue culture plates at a density of
+20,000 cells per square centimeter and treated for 3 weeks
+with adipogenic medium, consisting of DMEM with 10% FBS,
+and supplemented with 0.5 mM 3-isobutyl-1-methylxanthine
+(IBMX), 1 μg/mL insulin, and 1 μM dexamethasone (all from
+Sigma-Aldrich). For osteogenic differentiation, cells were
+seeded into six-well plates (Corning Incorporated) at a density
+of 20,000 cells per square centimeter and treated for 3 weeks
+with osteogenic medium, consisting of DMEM with 10% FBS,
+and supplemented with 10 mM β-glycerolphosphate, 10 nM
+dexamethasone, 50 μg/mL ascorbic acid-2-phosphate, and
+10 nM 1,25 dihydroxyvitamin D3 (Biomol International L.P., Ply-
+mouth Meeting, PA, USA). To induce chondrogenic differenti-
+ation, 96-microwell polypropylene plates (Nunc) were seeded
+with 300,000 cells per well, and cell pellets formed by centrif-
+ugation at 1,100 rpm for 6 minutes. The pellet cultures were
+treated for 3 weeks with chondrogenic medium, consisting of
+high-glucose DMEM supplemented with 100 nM dexametha-
+sone, 50 μg/mL ascorbic acid-2-phosphate, 100 μg/mL
+sodium pyruvate, 40 μg/mL L-proline, 10 ng/mL recombinant
+human transforming growth factor-β3 (R&D Systems, Inc.),
+and 50 mg/mL insulin-transferrin-selenium (ITS)-premix stock
+(BD Biosciences).
+Histology and histochemistry
+Oil red O staining
+Three-week adipogenic cultures of MPCs were rinsed twice
+with PBS, fixed in 4% buffered paraformaldehyde, stained with
+Oil red O (Sigma-Aldrich) for 5 minutes at room temperature,
+and counterstained with Harris-hematoxylin solution (Sigma-
+Aldrich) to visualize lipid droplets.
+Alizarin red S staining
+MPCs cultured for 3 weeks in osteogenic medium were fixed
+with 60% isopropyl alcohol and stained for 3 minutes with 2%
+(wt/vol) Alizarin red S (Rowley Biochemical Inc., Danvers, MA,
+USA) at pH 4.2 to detect mineralization.
+Alcian blue staining
+Chondrogenic cell pellets were fixed in 4% buffered parafor-
+maldehyde, rinsed with PBS, serially dehydrated, paraffin-
+embedded, and sectioned at 10-μm thickness for histological
+staining with Alcian blue (pH 1.0) for sulfated proteoglycans.
+Total RNA isolation and real-time reverse transcription-
+polymerase chain reaction
+Total cellular RNA samples extracted from day 21 monolayer
+and pellet cultures using Trizol Reagent (Invitrogen Corpora-
+tion) were reverse-transcribed using random hexamers. Real-
+time polymerase chain reactions were performed using 10 ng
+of cDNA and SYBR Green mix (Bio-Rad Laboratories, Inc.).
+Gene-specific primers (forward/reverse) were designed
+based on GenBank cDNA sequences and are listed in Table
+1: (a) adipogenesis genes: lipoprotein lipase (LPL) and perox-
+isome proliferator-activated receptor-gamma (PPARγ), (b)
+osteogenesis genes: alkaline phosphatase (ALP) and
+osteocalcin (OC), and (c) chondrogenesis genes: collagen
+Arthritis Research & Therapy Vol 10 No 4 Janjanin et al.
+Page 4 of 12
+(page number not for citation purposes)
+type II α1 (COL2) and aggrecan (AGN). Specific transcript
+levels were normalized by comparison to that of the house-
+keeping gene, glyceraldehyde-3-phosphate dehydrogenase
+(GAPDH). Expression levels were presented as the fold
+increase over that of GAPDH, using the formula 2(ΔCt), where
+ΔCt = Ct of target gene – Ct of GAPDH.
+Primary mixed lymphocyte reaction
+Peripheral blood from healthy human donors was collected
+into heparinized containers (BD Biosciences), and peripheral
+blood mononuclear cells (PBMCs) were isolated by Ficoll-
+Hypaque density gradient centrifugation. Mouse splenocytes
+were isolated in 10 mL of RPMI 1640 medium (Invitrogen Cor-
+poration) as described previously. [30]. Responder human
+PBMCs or splenocytes from CD-1 mice and stimulator human
+PBMCs or splenocytes from A/J mice were resuspended in
+RPMI 1640 medium containing 10% FBS, 2 mM glutamine,
+100 U/mL penicillin and 100 μg/mL streptomycin, 0.1 mM
+non-essential amino acids, 1 mM sodium pyruvate, 20 mM
+HEPES, and 50 μM 2-mercaptoethanol (Invitrogen Corpora-
+tion). Splenocytes were seeded in triplicates at 1 × 105 cells/
+100 μL per well in 96-well round-bottom plates (BD Bio-
+sciences). PHA was used at 5 μg/mL as a positive control
+mitogen to induce T-cell proliferation. MPCs (5 × 104 cells
+unless stated otherwise) were added to obtain a final volume
+of 300 μL. After 3 days of incubation, 1 μCi/well [3H]-thymi-
+dine (GE Healthcare) was added overnight and radioactivity
+incorporation was determined by liquid scintillation counting.
+All experiments were performed in triplicates and repeated at
+least twice.
+Indoleamine 2,3-dioxygenase activity assay
+Cells were stimulated with IFN-γ (100 ng/mL) for 72 hours in
+DMEM supplemented with L-tryptophan (100 μg/mL). In some
+experiments, a neutralizing antibody (anti-IFN-γR1, 1.5 μg/mL;
+R&D Systems, Inc.) was added to the cultures. IDO enzyme
+activity in the culture supernatant was measured spectropho-
+tometrically based on tryptophan-to-kynurenine conversion, as
+described previously. [20].
+Interferon-gamma assay
+IFN-γ in culture supernatants was quantified using a commer-
+cially available enzyme-linked immunosorbent assay kit (R&D
+Systems, Inc.) according to the manufacturer's protocol.
+Statistics
+Data from the proliferation, real-time reverse transcription-
+Table 1
+Reverse transcription-polymerase chain reaction primers for differentiation-specific gene expression analysis
+Genes Primer sequences (5'-3') Position, base pairs Predicted size, base pairs
+Housekeeping gene
+GAPDH Sense: GGACTCATGACCACAGTCCATGCC 619–770 152
+Antisense: TCAGGGATGACCTTGCCCACA
+Bone-specific genes
+ALP Sense: TGGAGCTTCAGAAGCTCAACACCA 379–832 454
+Antisense: ATCTCGTTGTCTGAGTACCAGTCC
+OC Sense: ATGAGAGCCCTCACACTCCTC 19–312 294
+Antisense: GCCGTAGAAGCGCCGATAGGC
+Adipose-specific genes
+LPL Sense: GAGATTTCTCTGTATGGCACC 1,457–1,732 276
+Antisense: CTGCAAATGAGACACTTTCTC
+PPARγ Sense: TGAATGTGAAGCCCATTGAA 1,476–1,636 161
+Antisense: CTGCAGTAGCTGCACGTGTT
+Cartilage-specific genes
+AGN Sense: TGCGGGTCAACAGTGCCTATC 655–836 182
+Antisense: CACGATGCCTTTCACCACGAC
+COL2A1 Sense: GGAAACTTTGCTGCCCAGATG 710–876 167
+Antisense: TCACCAGGTTCACCAGGATTGC
+AGN, aggrecan; ALP, alkaline phosphatase; COL2A1, collagen type II α1; GAPDH, glyceraldehyde 3-phosphate dehydrogenase; LPL,
+lipoprotein lipase; OC, osteocalcin; PPARγ, peroxisome proliferator-activated receptor-gamma.
+Available online http://arthritis-research.com/content/10/4/R83
+Page 5 of 12
+(page number not for citation purposes)
+polymerase chain reaction (RT-PCR), and IDO activity assays
+were analyzed statistically using the Student t test, with statis-
+tical significance set at a P value of less than 0.05.
+Results
+Cell viability, proliferation, and clonogenicity
+The cell yield from each tonsil ranged from 1 to 5 × 109, with
+the majority being non-adherent and likely of hematopoietic
+origin. After multiple buffer washes and subsequent medium
+changes, approximately 0.1% to 1% of the isolated cells were
+found to be adherent. Cell colonies from processed tonsillar
+specimens began to appear approximately 5 to 10 days after
+initial plating. Three different cell morphologies were generally
+observed: (a) fibroblast-like spindle-shaped morphology, (b)
+round morphology and large nuclei (monocytic contamina-
+tion), and (c) very small, epitheloid cells with polygonal mor-
+phology (Figure 1a). After trypsinization at each passage, the
+round cell population remained attached to the flasks, and was
+no longer detected by passage 2, confirmed subsequently by
+negative expression of CD14, a myelomonocytic marker. The
+small epitheloid cells rapidly disappeared from the culture as
+early as passage 1. At later passages, T-MPCs were homoge-
+neously fibroblast-like, with extended cytoplasmic processes.
+Morphologically, these cells were indistinguishable from BM-
+MPCs at similar passage numbers (Figure 1a). In general, T-
+MPCs were somewhat smaller than BM-MPCs, with a cell
+yield of 7 to 10 × 106 cells per 80% confluent Nunc triple flask
+compared with 4 to 8 × 106 BM-MPCs. The proliferation pro-
+files of T-MPCs and BM-MPCs were distinctly different (Figure
+1b). Plated at the same initial cell number, T-MPCs proliferated
+at a faster rate compared with BM-MPCs throughout the assay
+period. The population doubling times for T-MPCs and BM-
+MPCs were calculated to be 37.1 ± 3.4 hours and 58.2 ± 2.3
+hours, respectively. By day 14, T-MPCs and BM-MPCs under-
+went 2.70 ± 0.13 and 1.69 ± 0.06 population doublings,
+respectively. Upon plating at limiting dilution under CFU-F
+assay conditions, the initial isolates of T-MPCs showed a linear
+relationship between colony number and cell number, sug-
+gesting that one T-MPC was limiting for CFU-F. The CFU-F
+frequency in the tonsil digest was determined to be approxi-
+mately 1 in 6,000 cells plated.
+Immunofluorescence and flow cytometric analyses
+T-MPCs and BM-MPCs expressed similar surface epitope
+profiles (that is, positive/negative for the same cell markers).
+Based on immunofluorescence staining, T-MPCs and BM-
+MPCs were both positive for CD29, CD44, and CD105 and
+negative for CD14, CD34, and CD45 (Figure 2a). Similar to
+BM-MPCs, T-MPCs were positive for MHC class I molecules
+and negative for MHC class II molecules in basal culture con-
+ditions (data not shown). Flow cytometric analysis of T-MPCs
+confirmed that T-MPCs were non-hematopoietic cells based
+on their lack of CD45 and unlikely to be of endothelial origin
+(negative for CD31; data not shown). Importantly, T-MPCs
+exhibited a similar cell surface epitope phenotype as BM-
+MPCs, specifically expressing CD105, CD73, and CD90 (Fig-
+ures 2b and 2c). Fluorescence intensities for these markers
+were not statistically different between the two cell popula-
+tions, suggesting a similar level of expression in both cell pop-
+ulations, except for CD90 (P = 0.022), which was higher in T-
+MPCs.
+Multilineage differentiation potential
+Adipogenesis
+Passage 2–5 T-MPCs were treated with adipogenic supple-
+ments, with controls including T-MPCs and BM-MPCs of the
+same passage maintained and cultured in expansion medium,
+and BM-MPCs cultured in adipogenic medium. Morphological
+changes in BM-MPCs and T-MPCs and the formation of cyto-
+Figure 1
+Characteristics of tonsil-derived mesenchymal progenitor cells (T-MPCs)Characteristics of tonsil-derived mesenchymal progenitor cells (T-
+MPCs). (a) Morphology of T-MPCs at initial passage. Two different
+types of cell morphologies are apparent under phase-contrast micros-
+copy: a fibroblast-like spindle-shaped morphology and a round mor-
+phology with large nuclei (monocytic contamination). The morphology
+of passage 2 bone marrow-derived mesenchymal progenitor cells (BM-
+MPCs) and T-MPCs in culture is shown. Cultures were observed at day
+7 and day 14. T-MPCs (A, B); BM-MPCs (C, D). The two cell types dis-
+play similar fibroblastic morphologies. Bars = 20 μm. (b) Proliferation
+kinetics of T-MPCs and BM-MPCs analyzed by MTS (methanethiosul-
+fonate) assay. T-MPCs and BM-MPCs were plated at the same initial
+density (1 × 105 cells per plate). A difference in the proliferation rates of
+T-MPCs and BM-MPCs is observed, with T-MPCs proliferating at a
+faster rate than BM-MPCs throughout the assay period. Values are
+mean ± standard deviation (n = 9).
+Arthritis Research & Therapy Vol 10 No 4 Janjanin et al.
+Page 6 of 12
+(page number not for citation purposes)
+plasmic lipid droplets were noticeable as early as 1 week of
+adipogenic induction, as visualized by Oil red O staining (Fig-
+ure 3a). mRNA expression of LPL and PPARγ was detected
+by quantitative RT-PCR (Table 1) after 21 days of induction
+and revealed a similar expression level of the two markers in T-
+MPCs and BM-MPCs (Figure 3b). Interestingly, expression of
+adipogenic markers was significantly stronger in higher pas-
+sages of T-MPCs (P4 and P5) than in lower passages (P2 and
+P3) (data not shown).
+Osteogenesis
+Upon osteogenic induction, the morphology of both T-MPCs
+and BM-MPCs changed from spindle-shaped to flattened and
+spread. Quantitative RT-PCR analysis showed lower levels of
+OC and ALP mRNA in T-MPCs compared with BM-MPCs
+(Figure 3b). Osteoblastic phenotype was also detected based
+on positive staining for ALP (not shown) and Alizarin red S
+(Figure 3a).
+Chondrogenesis
+The chondrogenic potential of BM-MPCs and T-MPCs was
+evaluated in high-density pellet cultures maintained in serum-
+free chondrogenic medium. After 3 weeks of culture, matrix
+sulfated proteoglycan accumulation in chondrogenic cultures
+was detectable by Alcian blue staining (Figure 3a). Quantita-
+tive RT-PCR analysis revealed a significant increase of AGN
+and COL2 expression in both T-MPCs and BM-MPCs,
+although the increase in COL2 expression was significantly
+lower in T-MPCs pellets compared with BM-MPCs (Figure
+3b).
+Inhibition of proliferation of alloreactive T cells
+The MLR was used to test the immunosuppressive properties
+of T-MPCs and BM-MPCs. Initially, using human PBMCs from
+healthy donors as responding cells and PHA as a mitogen, the
+addition of BM-MPCs and T-MPCs both inhibited the PHA-
+induced proliferative response of PBMCs (Figure 4a). In the
+MLR, BM-MPCs and T-MPCs were also seen to suppress the
+proliferation of responder PBMCs, elicited by allogeneic
+PBMCs (Figure 4a). In parallel, the level of IFNγ, which
+reflected T-cell proliferation, showed a decrease in the MLR
+proportionally in the presence of MPCs isolated from both tis-
+sues, but to a significantly lower extent with T-MPCs, support-
+ing a less potent suppressive activity of these cells (Figure 4b).
+Proliferation suppression by T-MPCs was dose-dependent
+and was partially reversed at a T-MPC-to-responder cell ratio
+of 1:5, suggesting a potent effector mechanism (Figure 4c).
+Indeed, similar to BM-MPCs, T-MPC suppression of T-cell pro-
+liferation was dose-dependent for PHA stimulation as well as
+in an MLR. However, the immunomodulatory activity of T-
+MPCs was significantly less pronounced than that of BM-
+MPCs. The immunosuppressive activities of human BM-MPCs
+and T-MPCs also crossed the species barrier. When CD-1
+murine splenocytes were stimulated with allogeneic A/J splen-
+ocytes, dose-dependent inhibition of the proliferative response
+was seen when xenogeneic human BM-MPCs and T-MPCs
+were added (Figure 4d).
+Figure 2
+Surface epitope profile of tonsil-derived mesenchymal progenitor cells(T-MPCs)Surface epitope profile of tonsil-derived mesenchymal progenitor cells
+(T-MPCs). (a) Immunofluorescence analysis of cell surface epitope pro-
+files of T-MPCs and bone marrow-derived mesenchymal progenitor
+cells (BM-MPCs). T-MPCs are shown in the top two rows of panels,
+and BM-MPCs are shown in the bottom two rows of panels. Epitopes
+were detected using fluorescently labeled secondary antibodies (red).
+Nuclei were stained with DAPI (blue). Both cell populations were nega-
+tive for CD14, CD34, and CD45 and positive for CD29, CD44, and
+CD105. Bars = 20 μm. (b) Flow cytometric analysis of T-MPCs and
+BM-MPCs. CD14, CD34, CD45, CD105, CD73, and CD90 were
+detected by fluorescently conjugated antibodies. The level of expres-
+sion of each epitope is expressed as the mean fluorescence intensity ±
+standard deviation (n = 3). (c) Representative flow cytometry histo-
+gram. Control represents fluorescence due to the isotypic control.
+DAPI, 4',6-diamidino-2-phenylindole dihydrochloride.
+Available online http://arthritis-research.com/content/10/4/R83
+Page 7 of 12
+(page number not for citation purposes)
+Figure 3
+Histological and real-time reverse transcription-polymerase chain reaction analysis of adipogenic, osteogenic, and chondrogenic differentiation oftonsil-derived mesenchymal progenitor cells (T-MPCs)Histological and real-time reverse transcription-polymerase chain reaction analysis of adipogenic, osteogenic, and chondrogenic differentiation of
+tonsil-derived mesenchymal progenitor cells (T-MPCs). (a) Histology. Induced bone marrow-derived mesenchymal progenitor cell (BM-MPC) cul-
+tures are shown in the top panels; induced T-MPC cultures are shown in the bottom panels. In adipogenesis, the formation of lipid droplets is visual-
+ized by staining with Oil red O (bars = 40 μm); in osteogenesis, the matrix mineralization is shown by Alizarin red staining (bars = 40 μm); and in
+chondrogenesis, the accumulation of sulfated glycosaminoglycan-rich matrix is detected by Alcian blue staining (bars = 300 μm). (b) Gene expres-
+sion analysis of adipogenic, osteogenic, and chondrogenic differentiation of T-MPCs in comparison with BM-MPCs. Adipogenesis genes are lipo-
+protein lipase (LPL) and proliferator-activated receptor-gamma (PPARγ), osteogenesis genes are osteocalcin (OC) and alkaline phosphatase (ALP),
+and chondrogenesis genes are aggrecan (AGN) and collagen type II α1 (COL2). Gene expression analysis was done at the beginning of culture
+(d0) and at 3 weeks (d21). Expression levels were normalized on the basis of glyceraldehyde 3-phosphate dehydrogenase (GAPDH) expression,
+and the results are reported as ratios of the marker gene versus GAPDH using the formula 2ΔCT (× 100). Values are mean ± standard deviation (n =
+2). *P < 0.05 versus BM-MPCs.
+Arthritis Research & Therapy Vol 10 No 4 Janjanin et al.
+Page 8 of 12
+(page number not for citation purposes)
+Involvement of interferon-gamma and indoleamine 2,3-
+dioxygenase in MPC-mediated immunosuppression
+MPC immunosuppression was recently shown to require IFN-
+γ (produced by T cells and natural killer [NK] cells) to stimulate
+IDO production by MPCs, which in turn inhibits the prolifera-
+tion of activated T or NK cells. [13]. Also, treatment with neu-
+tralizing anti-IFN-γR antibody completely abrogated the
+immunosuppressive effect of MPCs. Analysis of BM-MPCs
+and T-MPCs showed that both cell types expressed IFN-γR1,
+with a substantially higher level in the former (Figure 5a). Incu-
+bation with IFN-γ resulted in induction of IDO activity in both
+cell populations, with a lower level in T-MPCs (Figure 5b). Fur-
+thermore, the IFN-γ-induced IDO activity was completely sup-
+pressed by neutralizing anti-IFN-γR1 antibody. These findings
+thus strongly suggested that the immunsuppressive activities
+of both BM-MPCs and T-MPCs were mediated via IDO activ-
+ity, with BM-MPCs being more active. This differential inhibi-
+tory ability correlated with a reduced capacity of T-MPCs to
+decrease IFN-γ secretion as well as to induce their IDO activity
+as compared with BM-MPCs (Figure 5b).
+Discussion
+The purpose of this study was twofold: (a) to assess the exist-
+ence of MPCs in human palatine tonsils and to characterize
+their phenotype, and (b) to determine and compare the
+differentiation potential and immunomodulatory activity of
+these cells (T-MPCs) to those of the well-characterized MPCs
+isolated from BM (BM-MPCs). The results showed that human
+palatine tonsils contained a multipotent MPC population. By
+means of standard procedure, T-MPCs can be successfully
+isolated and expanded in vitro. The initial cell population (post
+tonsil digest) was contaminated with non-fibroblastoid tissue
+culture adherent cell types; specifically, monocytes remained
+attached to the polystyrene flasks even after extensive trypsini-
+zation, while epitheloid cells did not survive under the expan-
+sion medium conditions used to grow BM-MPCs. Only the
+fibroblastoid cell population remained after two passages. The
+proliferation profile of T-MPCs in our study was significantly
+different from that of BM-MPCs, with an average population
+doubling time of 37 hours compared with 58 hours for BM-
+MPCs. This discrepancy between T-MPCs and BM-MPCs
+observed in this study is probably in part age-related as it is
+well documented that BM-MPCs from older donors have a
+slower proliferation rate at the initial passage up to cell senes-
+cence [31,32]. Since the BM-MPCs used here are from old
+donors whereas the T-MPCs are derived from children, our
+observation is thus consistent with the previous age-related
+observations, although intrinsic differences between BM-
+MPCs and T-MPCs cannot be ruled out.
+The CD surface epitope profile of T-MPCs was characterized
+by immunofluorescence and flow cytometry. Confocal micros-
+copy revealed that both BM-MPCs and T-MPCs expressed
+CD29, CD44, CD90, and CD105, but hematopoietic surface
+markers, including CD14, CD34, and CD45, were absent.
+Figure 4
+Tonsil-derived mesenchymal progenitor cells (T-MPCs) inhibit alloge-neic as well as phytohemaglutinin (PHA)-induced proliferative responsein a dose-dependent manner regardless of the species of T cellsTonsil-derived mesenchymal progenitor cells (T-MPCs) inhibit alloge-
+neic as well as phytohemaglutinin (PHA)-induced proliferative response
+in a dose-dependent manner regardless of the species of T cells.
+Responding peripheral blood mononuclear cells (PBMCs) (105 cells)
+were incubated for 3 days with either 5 μg/mL PHA or allogeneic stim-
+ulating PBMCs (1 × 105 cells) with or without bone marrow-derived
+mesenchymal progenitor cells (BM-MPCs) or T-MPCs (5 × 104 or vary-
+ing ratios). (a) Cell proliferation based on [3H]-thymidine incorporation.
+BM-MPCs and T-MPCs inhibit the T-cell receptor-independent (PHA)
+and -dependent (allogeneic) T-cell proliferative response. The prolifera-
+tive response (counts per minute per culture) of PHA-induced T-cell
+proliferation was assigned the value of 100%. All values are mean ±
+standard deviation (SD) of triplicates. (b) Interferon-gamma (IFN-γ) lev-
+els determined by enzyme-linked immunosorbent assay. IFN-γ levels in
+supernatants obtained from a 3-day proliferative assay using PBMCs
+stimulated with 5 μg/mL PHA with or without BM-MPCs and T-MPCs
+at the indicated ratios. Values are mean ± SD (n = 3) and *, P < 0.05
+versus BM-MPCs. (c) Dose-dependent inhibitory effect of T-MPCs on
+PHA-induced T-cell proliferation. T-MPCs exhibit a dose-dependent
+inhibition of PHA-induced T-cell proliferation. Results (mean ± SD, n =
+3) are expressed as the percentage of T-cell proliferation obtained in
+the absence of T-MPCs. (d) Dose-dependent inhibitory effect of T-
+MPCs and BM-MPCs on T-cell proliferative response induced by xeno-
+geneic murine splenocytes in a mixed lymphocyte reaction (MLR).
+Results (mean ± SD, n = 3) are expressed as the percentage of the
+responder-stimulator pair response in the absence of MPCs. T-MPCs
+and BM-MPCs inhibit the T-cell proliferative response in a dose-
+dependent manner.
+Available online http://arthritis-research.com/content/10/4/R83
+Page 9 of 12
+(page number not for citation purposes)
+Furthermore, flow cytometric analyses of T-MPCs confirmed
+the non-hematopoietic and non-endothelial nature of T-MPCs,
+based on their lack of expression of CD45 and CD31,
+respectively. Taken together, these findings showed that T-
+MPCs share a similar phenotypic profile with BM-MPCs.
+The multilineage potential of T-MPCs was shown based on
+their ability to differentiate into multiple mesenchymal lineages,
+including fat, bone, and cartilage. Histological analysis clearly
+showed adipocytes containing lipid droplets, matrix accumula-
+tion of sulfated glycosaminoglycans in cell pellets, and areas
+of mineralization in cultures maintained under adipogenic,
+chondrogenic, and osteogenic conditions, respectively. How-
+ever, osteogenically and chondrogenically induced T-MPCs,
+respectively, expressed bone- and cartilage-associated mRNA
+transcript markers at a lower level compared with BM-MPCs.
+A number of groups have assessed the influence of age of
+MPCs donors, both in vitro and in vivo, on their differentiation
+potential. Stenderup and colleagues [33] found no difference
+in osteogenic and adipogenic differentiation capacity between
+MPCs from young and old donors. However, an age-related
+loss of both chondrogenic and osteogenic potential of MPCs
+has also been reported [31,34]. In our study, we did not
+observe age-related greater differentiation potential expected
+for T-MPCs from young donors. We speculate that the lower
+level of expression of particular markers of differentiation could
+be the result of prior in vivo exposure of T-MPCs to high con-
+centrations of inflammatory cytokines, which are characteristi-
+cally present in this type of tissue source [35]. In this study, all
+T-MPCs were obtained from patients undergoing tonsillec-
+tomy as a result of chronic tonsillitis. Chronic bacterial infec-
+tion in the tonsils results in the production of local antibodies,
+a shift of B- and T-cell ratios, and production of large amounts
+of pro-inflammatory cytokines, including tumor necrosis factor-
+alpha (TNF-α). Recently, the addition of TNF-α to human
+MPCs was shown to suppress the osteogenic medium-
+induced morphological change from spindle to cuboidal shape
+and also ALP enhancement. [36]. To address this issue, we
+are currently analyzing the levels of pro-inflammatory cytokine
+in T-MPC culture medium. In support of our theory that expo-
+sure to pro-inflammatory cytokines suppressed the differentia-
+tion capacity of T-MPCs, passage 5 T-MPCs showed
+significantly enhanced differentiation potential for all three lin-
+eages when compared with passage 2 cells of the same
+patients; this characteristic is contrary to what is observed
+with BM-MPCs (that is, reduced differentiation capacity is
+seen with increasing passage number). We speculate that
+increased passaging not only eliminates tissue-plastic adher-
+ent inflammatory cells (monocytes), but also aids in reducing
+pro-inflammatory cytokine production by cells outside their
+original environment that might suppress differentiation.
+Recently, MPCs have been shown to display immunosuppres-
+sive properties both in vitro and in vivo [10,30,37,38]. MPC
+inhibition of T-cell proliferation stimulated by allogeneic T cells
+Figure 5
+Interferon-gamma receptor-1 (IFN-γR1) expression and indoleamine2,3-dioxygenase (IDO) activity in bone marrow-derived mesenchymalprogenitor cells (BM-MPCs) and tonsil-derived mesenchymal progeni-tor cells (T-MPCs)Interferon-gamma receptor-1 (IFN-γR1) expression and indoleamine
+2,3-dioxygenase (IDO) activity in bone marrow-derived mesenchymal
+progenitor cells (BM-MPCs) and tonsil-derived mesenchymal progeni-
+tor cells (T-MPCs). (a) Basal expression level of IFN-γR1. BM-MPCs (n
+= 4) and T-MPCs (n = 5) were analyzed by flow cytometry. (b) IDO
+activity. BM-MPCs (n = 3) and T-MPCs (n = 4) were cultured in the
+absence or presence of IFN-γ (100 ng/mL) for 72 hours. Neutralizing
+anti-IFN-γR1 antibody (1.5 μg/mL) was also tested on cells cultured
+with IFN-γ. IDO activity was assayed as described in Materials and
+methods. No IDO activity was detected in the absence of IFN-γ. The dif-
+ferential induction of IDO activity by T-MPCs and BM-MPCs stimulated
+by IFN-γ is reversed in the presence of neutralizing anti-IFN-γR1 anti-
+body. OD, optical density; PE, phycoerythrin. *, P < 0.05 versus
+control.
+Arthritis Research & Therapy Vol 10 No 4 Janjanin et al.
+Page 10 of 12
+(page number not for citation purposes)
+or non-specific mitogenic stimuli [30,37] affects the expres-
+sion of activation markers, antigen-specific proliferation (both
+for naive and memory T cells), cytotoxic T-lymphocyte
+formation, IFN-γ production by Th1 cells, and interleukin-4 pro-
+duction by Th2 cells. [39,40]. The ability to decrease IFN-γ
+production, characteristic of the potent suppressive effect of
+MPCs on T-cell proliferation, is present but less pronounced
+for T-MPCs compared with BM-MPCs. This finding corrobo-
+rates with the relatively reduced suppression of IFN-γ, a meas-
+ure of the proliferative activity of the T-cell population in the
+assay in the presence of T-MPCs versus BM-MPCs. Interest-
+ingly, it was recently reported that IFN-γ level affects MPC
+function; that is, the dual roles of MPCs as antigen-presenting
+cells or as immune-suppressor cells depend on IFN-γ levels.
+Chan and colleagues [41] showed that the antigen-presenting
+characteristic of MPCs occurs within a narrow window of IFN-
+γ level (10 U/mL), whereas at 100 U/mL of IFN-γ, MPCs are
+immunosuppressive. Though speculative, our observations are
+consistent with the reported low level of IFN-γ (25.6 ± 7.9 IU/
+mL; P < 0.05) produced by tonsillar mononuclear cells com-
+pared with the level recorded in the BM sera (41 ± 23 IU/mL;
+P < 0.001), which could explain, in part, the different immuno-
+suppressive characteristics between BM-MPCs and T-MPCs
+[42-44].
+While the immunosuppressive mechanisms of MPCs remain
+to be clarified, mediation by soluble factors, such as IFN-γ, is
+strongly suggested. First, it was reported that MPCs immuno-
+suppressed peripheral blood CRTH2-CD4+ T cells that pro-
+duce IFN-γ, but did not affect the proliferation of purified
+CRTH2+CD4+ T cells unable to produce IFN-γ [13,45]. Fur-
+thermore, fetal MPCs, normally non-immunosuppressive in an
+MLR, when exposed to IFN-γ for 7 days, inhibit lymphocyte
+proliferation at a magnitude similar to that seen with adult
+MPCs. [38,46,47]. IFN-γ induction of the suppressive effect of
+MPCs on cell proliferation has been suggested to be related
+in part to the enhancement of IDO activity [12,13]. IFN-γ/
+receptor binding leads to subsequent endocytosis and IFN-γ
+nuclear localization sequence (NLS)-guided binding to the
+IFN-γ-activated sequence (GAS) response element in the pro-
+moter region of IFN-γ-activated genes, such as IDO. [48]. This
+pathway involving IFN-γ, IFN-γR, and IDO is supported by a
+study showing complete abrogation of the suppressive poten-
+tial of MPCs and the ability of IFN-γ to stimulate IDO activity
+upon treatment with a neutralizing antibody to IFN-γR. [13].
+Furthermore, the response to IFN-γ is related and proportional
+to the level of its receptor; that is, increased IFN-γR expression
+results in increased IFN-γ signaling and enhanced IDO gene
+activation. [49]. Our findings are thus consistent with these
+reports in that the less pronounced immunosuppressive activ-
+ity of T-MPCs compared with BM-MPCs is associated with a
+significant fourfold lower expression of IFN-γR1. Also, treat-
+ment with neutralizing antibody to IFN-γR1 completely blocked
+the IFN-γ-stimulated IDO activity in BM-MPCs and T-MPCs.
+This study suggests, for the first time, a correlation between
+IFN-γR1 expression level in MPCs from two different tissue
+sources and their immunosuppressive potency.
+The secondary lymphoid organs – lymph nodes, spleen, ton-
+sils, and Peyer's patches – are the sites where immune
+responses against microbes or antigens are initiated. B lym-
+phocytes that continuously recirculate through the blood and
+secondary lymphoid organs to encounter antigens or that
+specifically recognize and respond to antigens located in the
+tonsils become activated and undergo clonal expansion and
+somatic hypermutation, leading to differentiation into memory
+and plasma cells. [50]. The identification of MPCs in tonsils
+raises interesting questions about their immunosuppressive
+functions and their effects on B-cell biology in this lymphoid
+organ. Few studies have addressed the effects of BM-MPCs
+on B-lymphocyte functions. It has been reported that MPCs
+inhibit B-lymphocyte proliferation [51-53] and that this activity
+requires soluble factors [54] such as IFN-γ. [13]. It is notewor-
+thy that B-cell differentiation requires a close association with
+stromal cells [55,56], and MPCs have been recently shown to
+give rise to a fully functional population of B-cell supportive
+fibroblastic reticular cells (FRCs) [57], found associated with
+the follicular dendritic cells (FDCs) within secondary lymphoid
+organs, where they play a key role in the initiation and mainte-
+nance of efficient immune response. FDCs have been sug-
+gested to differentiate from stromal precursors of
+mesenchymal origin upon interaction with lymphotoxin α1β2
+produced by activated B cells. [58]. BM-MPCs have also been
+shown to acquire a complete FRC phenotype in response to a
+combination of TNF-α and lymphotoxin-α1β2 [57]. The impor-
+tance of environmental influences, particularly those related to
+inflammation, on the immunosuppressive properties of MPCs
+has been previously stated. [59]. Indeed, the controversy con-
+cerning modulation of B-cell functions by MPCs may reflect
+the differentiation state of MPCs (that is, into FRCs or FDCs)
+and/or may be the result of microenvironmental signals. Thus,
+MPC effects on the immune system are modulated not only by
+cell-to-cell interactions, but also by environmental factors that
+shape their phenotype and their functions. Accordingly, the
+functional differences between BM-MPCs and T-MPCs, nota-
+bly their immunosuppressive potency, most likely reflect their
+previous environment in situ.
+MPCs appear to bypass immune rejection, thus making them
+attractive candidates for allogeneic transplantation. However,
+in vivo, the behavior of the transplanted MPCs is expected to
+be influenced by their exposure to immune cells and media-
+tors. Another challenging consideration for the clinical use of
+MPCs and notably T-MPCs, which are isolated from tonsil tis-
+sue frequently infected and infused with inflammatory media-
+tors, is to predict how the host tissues will affect the properties
+of the MPCs. Future studies are necessary to better
+understand the impact of the inflammatory microenvironment
+on MPCs for their application in transplantation protocols.
+Available online http://arthritis-research.com/content/10/4/R83
+Page 11 of 12
+(page number not for citation purposes)
+Conclusion
+The issues mentioned above are central to the use of alloge-
+neic MPCs in therapeutic applications. Accordingly, there is
+recent emphasis on the search for alternative sources of
+MPCs. Based on the findings reported here, human palatine
+tonsils could be added as another source of MPCs. More
+importantly, the presence of MPCs in a secondary lymphoid
+organ underscores their potential contribution to a specialized
+microenvironment that supports the initiation and the mainte-
+nance of efficient immune responses.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+SJ and FD performed experimental work, analyzed and pre-
+pared the data and manuscript, and contributed equally to this
+study. RMS, KG, and LR participated in the cell culture work.
+DB helped in flow cytometry analysis. DP procured the pala-
+tine tonsils for the isolation of mesenchymal progenitor cells.
+ASJ helped in the analysis of the data. RST participated in the
+experimental design and data analysis, prepared the manu-
+script, and supervised the project. All authors read and
+approved the final manuscript.
+Acknowledgements
+This work was supported by the National Institute of Arthritis and Musc-
+uloskeletal and Skin Diseases (NIAMS) Intramural Research Program
+(NIH ZO1 AR 41131). SJ is a recipient of a Fulbright Scholarship of the
+US Department of State. We are grateful to Zhi Chen (Lymphocyte Cell
+Biology section, Molecular Immunology and Inflammation Branch,
+NIAMS) and Madhu Ramaswamy and Richard Siegel (Immunoregulation
+group, Autoimmunity Branch, NIAMS) for providing human PBMCs.
+References
+1. Kolf CM, Cho E, Tuan RS: Mesenchymal stromal cells. Biology
+of adult mesenchymal stem cells: regulation of niche, self-
+renewal and differentiation. Arthritis Res Ther 2007, 9:204.
+2. Kuo CK, Li WJ, Mauck RL, Tuan RS: Cartilage tissue engineer-
+ing: its potential and uses. Curr Opin Rheumatol 2006,
+18:64-73.
+3. Pittenger MF, Mackay AM, Beck SC, Jaiswal RK, Douglas R,
+Mosca JD, Moorman MA, Simonetti DW, Craig S, Marshak DR:
+Multilineage potential of adult human mesenchymal stem
+cells. Science 1999, 284:143-147.
+4. Tsuchida H, Hashimoto J, Crawford E, Manske P, Lou J: Engi-
+neered allogeneic mesenchymal stem cells repair femoral
+segmental defect in rats. J Orthop Res 2003, 21:44-53.
+5. Devine SM: Mesenchymal stem cells: will they have a role in
+the clinic? J Cell Biochem Suppl 2002, 38:73-79.
+6. Horwitz EM, Prockop DJ, Fitzpatrick LA, Koo WW, Gordon PL,
+Neel M, Sussman M, Orchard P, Marx JC, Pyeritz RE, Brenner MK:
+Transplantability and therapeutic effects of bone marrow-
+derived mesenchymal cells in children with osteogenesis
+imperfecta. Nat Med 1999, 5:309-313.
+7. Le Blanc K, Rasmusson I, Sundberg B, Gotherstrom C, Hassan M,
+Uzunel M, Ringden O: Treatment of severe acute graft-versus-
+host disease with third party haploidentical mesenchymal
+stem cells. Lancet 2004, 363:1439-1441.
+8. Barry FP, Murphy JM: Mesenchymal stem cells: clinical applica-
+tions and biological characterization. Int J Biochem Cell Biol
+2004, 36:568-584.
+9. Beyth S, Borovsky Z, Mevorach D, Liebergall M, Gazit Z, Aslan H,
+Galun E, Rachmilewitz J: Human mesenchymal stem cells alter
+antigen-presenting cell maturation and induce T-cell
+unresponsiveness. Blood 2005, 105:2214-2219.
+10. Di Nicola M, Carlo-Stella C, Magni M, Milanesi M, Longoni PD,
+Matteucci P, Grisanti S, Gianni AM: Human bone marrow stro-
+mal cells suppress T-lymphocyte proliferation induced by cel-
+lular or nonspecific mitogenic stimuli. Blood 2002,
+99:3838-3843.
+11. Tse WT, Pendleton JD, Beyer WM, Egalka MC, Guinan EC: Sup-
+pression of allogeneic T-cell proliferation by human marrow
+stromal cells: implications in transplantation. Transplantation
+2003, 75:389-397.
+12. Meisel R, Zibert A, Laryea M, Gobel U, Daubener W, Dilloo D:
+Human bone marrow stromal cells inhibit allogeneic T-cell
+responses by indoleamine 2,3-dioxygenase-mediated tryp-
+tophan degradation. Blood 2004, 103:4619-4621.
+13. Krampera M, Cosmi L, Angeli R, Pasini A, Liotta F, Andreini A,
+Santarlasci V, Mazzinghi B, Pizzolo G, Vinante F, Romagnani P,
+Maggi E, Romagnani S, Annunziato F: Role for interferon-gamma
+in the immunomodulatory activity of human bone marrow
+mesenchymal stem cells. Stem Cells 2006, 24:386-398.
+14. D'Ippolito G, Schiller PC, Ricordi C, Roos BA, Howard GA: Age-
+related osteogenic potential of mesenchymal stromal stem
+cells from human vertebral bone marrow. J Bone Miner Res
+1999, 14:1115-1122.
+15. Roobrouck VD, Ulloa-Montoya F, Verfaillie CM: Self-renewal and
+differentiation capacity of young and aged stem cells. Exp Cell
+Res 2008, 314:1937-1944.
+16. Noth U, Osyczka AM, Tuli R, Hickok NJ, Danielson KG, Tuan RS:
+Multilineage mesenchymal differentiation potential of human
+trabecular bone-derived cells. J Orthop Res 2002,
+20:1060-1069.
+17. Zuk PA, Zhu M, Mizuno H, Huang J, Futrell JW, Katz AJ, Benhaim
+P, Lorenz HP, Hedrick MH: Multilineage cells from human adi-
+pose tissue: implications for cell-based therapies. Tissue Eng
+2001, 7:211-228.
+18. Sekiya I, Larson BL, Vuoristo JT, Cui JG, Prockop DJ: Adipogenic
+differentiation of human adult stem cells from bone marrow
+stroma (MSCs). J Bone Miner Res 2004, 19:256-264.
+19. De Bari C, Dell'Accio F, Tylzanowski P, Luyten FP: Multipotent
+mesenchymal stem cells from adult human synovial
+membrane. Arthritis Rheum 2001, 44:1928-1942.
+20. Djouad F, Bony C, Häupl T, Uzé G, Lahlou N, Louis-Plence P,
+Apparailly F, Canovas F, Rème T, Sany J, Jorgensen C, Noël D:
+Transcriptional profiles discriminate bone marrow-derived
+and synovium-derived mesenchymal stem cells. Arthritis Res
+Ther 2005, 7:R1304-1315.
+21. Shih DT, Lee DC, Chen SC, Tsai RY, Huang CT, Tsai CC, Shen
+EY, Chiu WT: Isolation and characterization of neurogenic
+mesenchymal stem cells in human scalp tissue. Stem Cells
+2005, 23:1012-1020.
+22. Rzhaninova AA, Gornostaeva SN, Goldshtein DV: Isolation and
+phenotypical characterization of mesenchymal stem cells
+from human fetal thymus. Bull Exp Biol Med 2005,
+139:134-140.
+23. Ivanovski S, Gronthos S, Shi S, Bartold PM: Stem cells in the per-
+iodontal ligament. Oral Dis 2006, 12:358-363.
+24. Lee OK, Kuo TK, Chen WM, Lee KD, Hsieh SL, Chen TH: Isola-
+tion of multipotent mesenchymal stem cells from umbilical
+cord blood. Blood 2004, 103:1669-1675.
+25. Sarugaser R, Lickorish D, Baksh D, Hosseini MM, Davies JE:
+Human umbilical cord perivascular (HUCPV) cells: a source of
+mesenchymal progenitors. Stem Cells 2005, 23:220-229.
+26. Yen BL, Huang HI, Chien CC, Jui HY, Ko BS, Yao M, Shun CT, Yen
+ML, Lee MC, Chen YC: Isolation of multipotent cells from
+human term placenta. Stem Cells 2005, 23:3-9.
+27. Caterson EJ, Nesti LJ, Danielson KG, Tuan RS: Human marrow-
+derived mesenchymal progenitor cells: isolation, culture
+expansion, and analysis of differentiation. Mol Biotechnol
+2002, 20:245-256.
+28. Castro-Malaspina H, Gay RE, Resnick G, Kapoor N, Meyers P,
+Chiarieri D, McKenzie S, Broxmeyer HE, Moore MA: Characteriza-
+tion of human bone marrow fibroblast colony-forming cells
+(CFU-F) and their progeny. Blood 1980, 56:289-301.
+29. Baksh D, Davies JE, Zandstra PW: Adult human bone marrow-
+derived mesenchymal progenitor cells are capable of adhe-
+sion-independent survival and expansion. Exp Hematol 2003,
+31:723-732.
+Arthritis Research & Therapy Vol 10 No 4 Janjanin et al.
+Page 12 of 12
+(page number not for citation purposes)
+30. Djouad F, Plence P, Bony C, Tropel P, Apparailly F, Sany J, Noel D,
+Jorgensen C: Immunosuppressive effect of mesenchymal
+stem cells favors tumor growth in allogeneic animals. Blood
+2003, 102:3837-3844.
+31. Baxter MA, Wynn RF, Jowitt SN, Wraith JE, Fairbairn LJ, Bellan-
+tuono I: Study of telomere length reveals rapid aging of human
+marrow stromal cells following in vitro expansion. Stem Cells
+2004, 22:675-682.
+32. Mendes SC, Tibbe JM, Veenhof M, Bakker K, Both S, Platenburg
+PP, Oner FC, de Bruijn JD, van Blitterswijk CA: Bone tissue-engi-
+neered implants using human bone marrow stromal cells:
+effect of culture conditions and donor age. Tissue Eng 2002,
+8:911-920.
+33. Stenderup K, Justesen J, Clausen C, Kassem M: Aging is associ-
+ated with decreased maximal life span and accelerated senes-
+cence of bone marrow stromal cells. Bone 2003, 33:919-926.
+34. Zheng H, Martin JA, Duwayri Y, Falcon G, Buckwalter JA: Impact
+of aging on rat bone marrow-derived stem cell
+chondrogenesis. J Gerontol A Biol Sci Med Sci 2007,
+62:136-148.
+35. Passali D, Damiani V, Passali GC, Passali FM, Boccazzi A, Bellussi
+L: Structural and immunological characteristics of chronically
+inflamed adenotonsillar tissue in childhood. Clin Diagn Lab
+Immunol 2004, 11:1154-1157.
+36. Tsukahara S, Ikeda R, Goto S, Yoshida K, Mitsumori R, Sakamoto
+Y, Tajima A, Yokoyama T, Toh S, Furukawa K, Inoue I: Tumour
+necrosis factor alpha-stimulated gene-6 inhibits osteoblastic
+differentiation of human mesenchymal stem cells induced by
+osteogenic differentiation medium and BMP-2. Biochem J
+2006, 398:595-603.
+37. Bartholomew A, Sturgeon C, Siatskas M, Ferrer K, McIntosh K,
+Patil S, Hardy W, Devine S, Ucker D, Deans R, Moseley A, Hoff-
+man R: Mesenchymal stem cells suppress lymphocyte prolifer-
+ation in vitro and prolong skin graft survival in vivo. Exp
+Hematol 2002, 30:42-48.
+38. Le Blanc K: Immunomodulatory effects of fetal and adult mes-
+enchymal stem cells. Cytotherapy 2003, 5:485-489.
+39. Aggarwal S, Pittenger MF: Human mesenchymal stem cells
+modulate allogeneic immune cell responses. Blood 2005,
+105:1815-1822.
+40. Krampera M, Glennie S, Dyson J, Scott D, Laylor R, Simpson E,
+Dazzi F: Bone marrow mesenchymal stem cells inhibit the
+response of naive and memory antigen-specific T cells to their
+cognate peptide. Blood 2003, 101:3722-3729.
+41. Chan JL, Tang KC, Patel AP, Bonilla LM, Pierobon N, Ponzio NM,
+Rameshwar P: Antigen-presenting property of mesenchymal
+stem cells occurs during a narrow window at low levels of
+interferon-gamma. Blood 2006, 107:4817-4824.
+42. Dolhain RJ, ter Haar NT, Hoefakker S, Tak PP, de Ley M, Claassen
+E, Breedveld FC, Miltenburg AM: Increased expression of inter-
+feron (IFN)-gamma together with IFN-gamma receptor in the
+rheumatoid synovial membrane compared with synovium of
+patients with osteoarthritis. Br J Rheumatol 1996, 35:24-32.
+43. Sunaga H, Oh M, Takahashi N, Fujieda S: Infection of Haemo-
+philus parainfluenzae in tonsils is associated with IgA
+nephropathy. Acta Otolaryngol Suppl 2004:15-19.
+44. Zoumbos NC, Gascon P, Djeu JY, Young NS: Interferon is a
+mediator of hematopoietic suppression in aplastic anemia in
+vitro and possibly in vivo. Proc Natl Acad Sci USA 1985,
+82:188-192.
+45. Cosmi L, Annunziato F, Galli MIG, Maggi RME, Nagata K, Romag-
+nani S: CRTH2 is the most reliable marker for the detection of
+circulating human type 2 Th and type 2 T cytotoxic cells in
+health and disease. Eur J Immunol 2000, 30:2972-2979.
+46. Gotherstrom C, Ringden O, Tammik C, Zetterberg E, Westgren M,
+Le Blanc K: Immunologic properties of human fetal mesenchy-
+mal stem cells. Am J Obstet Gynecol 2004, 190:239-245.
+47. Gotherstrom C, Ringden O, Westgren M, Tammik C, Le Blanc K:
+Immunomodulatory effects of human foetal liver-derived mes-
+enchymal stem cells. Bone Marrow Transplant 2003,
+32:265-272.
+48. Ahmed CM, Johnson HM: IFN-gamma and its receptor subunit
+IFNGR1 are recruited to the IFN-gamma-activated sequence
+element at the promoter site of IFN-gamma-activated genes:
+evidence of transactivational activity in IFNGR1. J Immunol
+2006, 177:315-321.
+49. Shirey KA, Jung JY, Maeder GS, Carlin JM: Upregulation of IFN-
+gamma receptor expression by proinflammatory cytokines
+influences IDO activation in epithelial cells. J Interferon
+Cytokine Res 2006, 26:53-62.
+50. Sprent J: Immunological memory. Curr Opin Immunol 1997,
+9:371-379.
+51. Glennie S, Soeiro I, Dyson PJ, Lam EW, Dazzi F: Bone marrow
+mesenchymal stem cells induce division arrest anergy of acti-
+vated T cells. Blood 2005, 105:2821-2827.
+52. Augello A, Tasso R, Negrini SM, Amateis A, Indiveri F, Cancedda
+R, Pennesi G: Bone marrow mesenchymal progenitor cells
+inhibit lymphocyte proliferation by activation of the pro-
+grammed death 1 pathway. Eur J Immunol 2005,
+35:1482-1490.
+53. Deng W, Han Q, Liao L, You S, Deng H, Zhao RC: Effects of all-
+ogeneic bone marrow-derived mesenchymal stem cells on T
+and B lymphocytes from BXSB mice. DNA Cell Biol 2005,
+24:458-463.
+54. Corcione A, Benvenuto F, Ferretti E, Giunti D, Cappiello V, Cazza-
+nti F, Risso M, Gualandi F, Mancardi GL, Pistoia V, Uccelli A:
+Human mesenchymal stem cells modulate B-cell functions.
+Blood 2006, 107:367-372.
+55. Kierney PC, Dorshkind K: B lymphocyte precursors and myeloid
+progenitors survive in diffusion chamber cultures but B cell
+differentiation requires close association with stromal cells.
+Blood 1987, 70:1418-1424.
+56. Kurosaka D, LeBien TW, Pribyl JA: Comparative studies of dif-
+ferent stromal cell microenvironments in support of human B-
+cell development. Exp Hematol 1999, 27:1271-1281.
+57. Ame-Thomas P, Maby-El Hajjami H, Monvoisin C, Jean R, Monnier
+D, Caulet-Maugendre S, Guillaudeux T, Lamy T, Fest T, Tarte K:
+Human mesenchymal stem cells isolated from bone marrow
+and lymphoid organs support tumor B-cell growth: role of
+stromal cells in follicular lymphoma pathogenesis. Blood
+2007, 109:693-702.
+58. Uccelli A, Moretta L, Pistoia V: Immunoregulatory function of
+mesenchymal stem cells. Eur J Immunol 2006, 36:2566-2573.
+59. Djouad F, Fritz V, Apparailly F, Louis-Plence P, Bony C, Sany J, Jor-
+gensen C, Noel D: Reversal of the immunosuppressive proper-
+ties of mesenchymal stem cells by tumor necrosis factor alpha
+in collagen-induced arthritis. Arthritis Rheum 2005,
+52:1595-1603.
+

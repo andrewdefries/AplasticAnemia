@@ -1,0 +1,2704 @@
+Environmental Health Perspectives Sutpplemtents
+101 ('Suppl. 6): 177-200 (1993)
+Benzene Toxicity and Risk Assessment,
+1972-1992: Implications for Future Regulation
+by Dennis J. Paustenbach, Rena D. Bass, and
+Paul Price
+Acute and chronic exposure to benzene vapors poses a number of health hazards to humans. To evaluate the
+probability that a specific degree ofexposure will produce an adverse effect, risk assessment methods must be
+used. This paper reviews much of the published information and evaluates the various risk assessments for
+benzene that have been conducted over the past 20 years. There is sufficient evidence that chronic exposure to
+relatively high concentrations ofbenzene can produce an increased incidence of acute myelogenous leukemia
+(AML). Some studies have indicated that benzene may cause other leukemias, but due to the inconsistency of
+results, the evidence is not conclusive. To predict the leukemogenic risk for humans exposed to much lower
+doses of benzene than those observed in most epidemiology studies, a model must be used. Although several
+models could yield plausible results, to date most risk assessments have used the linear-quadratic or
+conditional logistic models. These appear to be the most appropriate ones for providing the cancer risk for
+airborne concentrations of 1 ppb to 10 ppm, the range most often observed in the community and workplace. Of
+the seven major epidemiology studies that have been conducted, there is a consensus that the Pliofilm cohort
+(rubber workers) is the best one for estimating the cancer potency because it is the only one with good exposure
+and incidence of disease data. The current EPA, OSHA, and ACGIH cancer potency estimates for benzene are
+based largely on this cohort. A retrospective exposure assessment and an analysis ofthe incidence ofdisease in
+these workers were completed in 1991. All of these issues are discussed and the implications evaluated in this
+paper. The range ofbenzene exposures to which Americans are commonly exposed and the current regulatory
+criteria are also presented.
+Introduction
+The health hazards of benzene have been the subject of
+relatively widespread concern at three different times
+during this century. During the 1920s, acute and chronic
+toxicity among workers exposed to high levels was
+reported by numerous researchers and clinicians (1-3).
+During the 1970s, data indicated that benzene posed a
+carcinogenic hazard to workers (4-7). In the 1980s, atten-
+tion focused not only on exposure to petroleum and chemi-
+cal workers but also on the concentrations to which the
+public was exposed. In particular, benzene exposure via
+indoor air, tobacco usage, and self-service gas stations
+were of special interest (8,9). The presence of benzene in
+gasoline and its production during combustion in automotive
+engines will almost certainly be well studied in the 1990s.
+This paper presents a synthesis ofrecentwork involving
+the many important issues that must be incorporated into
+McLauren/Hart Environmental Engineering, ChemRisk Division,
+Alameda, CA 94062.
+Address reprint requests to D. J. Paustenbach, McLaren/Hart
+Environmental Engineering, 1135 Atlantic Avenue, Alameda, CA 94062.
+This manuscript was presented at the International Symposium on the
+Health Effects of Gasoline held 5-8 November 1991 in Miami, FL.
+a health risk assessment of benzene. The various assess-
+ments that have been performed over the past 20 years are
+evaluated and compared. The paper is organized in the
+following manner: a) physical and chemical properties of
+benzene, b) acute and chronic toxicity ofbenzene, c) relevant
+epidemiology studies that address the chronic hazard, d)
+summary of risk assessments that have been performed on
+benzene, e) current ambient exposure to benzene and the
+possible risks, and]) guidelines or regulations.
+Physical and Chemical Properties of
+Benzene
+Benzene is an aromatic hydrocarbon with the molecular
+formula C6H6 and a molecular weight of 78.1 (10). Under
+standard conditions, it is a colorless liquid with an aromatic
+odor. Benzene is volatile (vapor pressure of 100 mm Hg at
+26°C), has a Henry's law constant of 5.5 x 10-3 atm m3/
+mole (11), and is highly flammable. The limits of flam-
+mability in air are 1.5-8.0% by volume and flashpoint of
+- 11.1°C. Benzene is relatively soluble in water (up to 1.8
+g/L at 25°C) and is miscible with a variety of organic
+solvents. Its density, 0.8737 g/mL at 25°C, is lower than
+PAUSTENBACH ET AL.
+that ofwater, so that undissolved benzene floats on top of
+water. The pure liquid freezes at 5.553°C and boils at
+80.10C (12).
+Sources and Uses
+Benzene occurs naturally in petroleum and is formed
+during the combustion of biomass (13,14). Benzene,
+derived from petroleum,], is a major industrial chemical.
+According to Kiefer (15), approximately 1.6 billion gallons
+ofbenzene were produced in the United States in 1990. The
+major uses ofbenzene are as a component of gasoline and
+as a feedstock for the manufacture of synthetic, organic
+chemicals.
+In the past, benzene was used extensively as a solvent
+(2). In the late nineteenth century, benzene facilitated the
+rapid development of the rubber industry because of its
+ability to dissolve rubber and its ease of evaporation
+during the manufacture of formed or coated rubber prod-
+ucts. It played a similar role in the high-speed printing
+processes. Many industries have used benzene as a solvent
+or as a starting material for chemical .syntheses (16). Due
+to toxicity concerns, benzene is infrequently used as an
+industrial solvent (15).
+Fate and Transport
+The majority of benzene lost to the environment is as a
+vapor (17). Benzene in the environment tends to partition
+into the air (18). Once in the air, benzene is photodegraded
+with a half-life ofapproximately 1 week (19). Because it is a
+constituent of gasoline and is slightly soluble in water,
+benzene has often been detected in groundwater as a
+result ofleaking underground storage tanks. The environ-
+mental half-life at low concentrations ofbenzene in soil and
+groundwater under aerobic conditions is approximately 10
+to 20 days (20). Under anaerobic conditions, benzene is
+resistant to degradation and can be present for many
+years (19).
+Occurrence
+Benzene is a ubiquitous airborne contaminant in both
+rural and urban areas. Table 1 presents some concentra-
+tions of benzene typically found in the United States.
+Benzene in ambient urban air is primarily due to auto-
+mobile use. Other sources of benzene such as industrial
+releases play a relatively minor role in determining the
+ambient levels but can influence airborne concentrations in
+areas near a point source (19). For example, the ambient
+concentration ofbenzene in the vicinity ofgas stations has
+been reported to be approximately 0.005 to 0.008 ppm (23).
+Levels as high as 0.1 ppm (21,22) have been reported.
+Concentrations of benzene in the breathing zone of indi-
+viduals pumping gas at self-service stations range from
+about 0.1 to 1 ppm (21,23-26). Benzene has sometimes been
+a groundwater and soil contaminant at hazardous and
+municipal waste sites (27).
+Table 1. Ambient concentrations of airborne benzene.
+Locations Concentrations Reference
+Middle of Pacific Ocean 10 ppt (1)
+Background in urban United States 2-10 ppb (231)
+Automobile interiors 10-20 ppb (26)
+Ambient air in home 7-100 ppb (9)
+Filling gas tank 0.1-1.0 ppm (21,24)
+Toxicology of Benzene
+Thewidespread use ofbenzene as a solvent for nearly 50
+years has encouraged researchers to study its acute and
+chronic effects on animals and humans. Numerous reviews
+have discussed various aspects of benzene toxicology
+(4,28-32). Various scientific bodies including the Interna-
+tional Agency for Research on Cancer (IARC) (13,33), the
+National Academy of Sciences (NAS) (34), the National
+Cancer Institute (NCI) (35), and the National Institute for
+Occupational Safety and Health (NIOSH) (36,37) have
+reviewed the literature published through 1977.
+Acute Toxicity in Animals
+A summary ofthe acute effects ofbenzene in animals is
+presented in Table 2. As shown, the oral LD50 values in the
+rat vary from 3.4 to 5.6 g/kg depending on the age and
+strain (38). The LD50 values are reasonably consistent
+among species (39). Benzene in the rabbit eye is amoderate
+irritant and causes conjunctival irritation and slight, tran-
+sient corneal injury (40). The LC50 ranges from 10,000
+ppm in mice and rats to 53,300 ppm in cats. Adult rats and
+mice are often more resistant to the effects of benzene
+than are young animals (41).
+Acute Toxicity in Humans
+Humans have demonstrated a relatively high tolerance
+for acute exposure to benzene. That is, persons can be
+exposed to concentrations of benzene up to 1000 ppm for
+periods up to 1 hrwithout apparent serious adverse effects
+(42). Early in the century, this characteristic encouraged
+the use of benzene as a commercial solvent. The primary
+acute responses to benzene involve adverse effects on the
+central nervous system (CNS), including dizziness, giddi-
+ness, exhilaration, nausea, vomiting, headache, drowsi-
+ness, staggering, loss of balance, narcosis, coma, and
+death (30,40). Individual case reports of acute benzene
+intoxication have appeared in the literature since the early
+1900s (1-3,43-46). Table 3 presents a summary of pub-
+lished case reports of toxicity associated with various
+airborne concentrations of benzene (47). These reports
+indicate that concentrations ofbenzene up to 1000 ppm are
+tolerable for short periods and that concentrations
+between 500 and 1000 ppm are not self-limiting ifworkers
+are acclimated to the odor. Moreover, for those workers
+particularly resistant to its hematopoietic effects, airborne
+concentrations ofbenzene in the range of200-250 ppm (8-
+hr time-weighted average) may not always cause obvious
+acute or subchronic toxicity. These characteristics help
+explain why so many workers developed significant blood
+dyscrasias and other adverse effects before 1960.
+178
+RISK ASSESSMENT FOR BENZENE
+Table 2. Results of acute toxicity studies in animals exposed to benzene (232).
+Route Species Dose or concentration Results, signs or symptoms Reference
+Oral Rat 3.4 g/kg LD50 (38)
+Rat 5.6 g/kg LD50 (40)
+Rat < 1.0-5g/kg LD50 variation, age, and strain dependent (38)
+Rabbit 150-300 mg/kg (2.5-11.0 pCi) Use of cold and radioactive benzene, no effect; 48.5% exhaled (95)
+unchanged, 51.5% urinary excretion: 18.2-21.2% as phenol
+4.8% as quinol, 4.4% catechol
+Dog 2.00 g/kg Lowest reported lethal dose (233)
+Intrapulmonary Rat 0.25 mL LD1oo, cardiac arrest, death (46)
+instillation
+Eye Rabbit 0.10 mL Irritancy, moderate conjunctival irritant, causes transient (40)
+corneal injury
+SC Mouse 0.088 g/kg No effect (88)
+0.44 g/kg 27% Inhibition of circulatory erythrocytes (88)
+2.20 g/kg 50% Inhibition of circulatory erythrocytes (88)
+2.70 g/kg Found to be a teratogen (88)
+Frog 1.40 g/kg Lethal dose (38)
+Rat 1.15 g/kg Lethal dose (234)
+Mouse 0.468 g/kg LD50 (235)
+Guinea pig 0.527 g/kg Lethal dose (236)
+Inhalation Rat 10,000 ppm (31.9 mg/L)/7 hr LC5() (43)
+13700 ppm (43.7 mg/L) LC.(0 high levels of liver and lung congestion (23Z)
+16,000 ppm (51.0 mg/L)/4 hr LC50 (29)
+Mouse 2,195 ppm (7.0 mg/L) Narcosis (238)
+9,980 ppm (31.8 mg/L) LC50( (239)
+Rabbit 4,000 ppm (12.8 mg/L) Narcosis (240)
+10,000 ppm (31.9 mg/L) Death (240)
+35,000-45,000
+4-71 min Slight anesthesia in 4 min and death in 22-71 min (39)
+3.7 min Light anesthesia, relaxed (39)
+5.0 min Excitation, tremors, running movements (39)
+6.5 min Loss of pupil reflex (39)
+11.4 min Loss of blinking reflex (39)
+12.0 min Pupillary contraction (39)
+15.6 min Involuntary blinking (39)
+Guinea pig 36.2 min Death (38)
+6,270 ppm (20 mg/L)/30 min peak Benzene blood level 3.2 mg/100 mL, 1.7 mg/mi phenol (241)
+Dog 1,5675 ppm (50 mg/L)/30 min peak Benzene blood level 8.0 mg/100 mL, 1.8 mg/m3 phenol (241)
+Cat 45,800 ppm (146 mg/L)
+53,300 ppm (170 mg/L)
+Table 3. Various reported adverse effects in humans after short-term exposure to various concentrations of benzene vapor.
+Benzene concentration, ppm Duration of exposure, hr Effects observed Reference
+25
+50-150
+500
+1,500
+1,500-3,000
+1,550-3,100
+1,570-3,130
+3,000
+3,000
+3,000-4,700
+3,130-4,700
+4,650
+4,700
+6,190-9,300
+6,200-9.300
+7,500
+6,200-9,300
+19,000-20,000
+8
+5
+1
+1
+Several hours
+6
+Several hours
+0.5
+0.5-1
+1
+0.5-1
+0.5
+0.5
+Few hours
+0.5-1
+0.5-1
+Few hours
+Short exposure
+None
+Headache, lassitude, weariness
+Symptoms of illness
+Serious symptoms
+Slight symptoms
+No serious effects
+Slight symptoms
+Endurable
+Dangerous
+Maximum concentrations that can be inhaled for 1 hr
+without serious disturbance
+Maximum concentration for exposures for this period of time
+Listlessness and confusion
+Confusion
+Definite symptoms of poisoning
+Immediate or subsequent death
+Dangerous to life
+Loss of consciousness
+Rapidly fatal
+(43)
+(43)
+(43)
+(43)
+(42)
+(242)
+(44)
+(43I)
+(44)
+(42,238)
+(44)
+(2)
+(1)
+(1)
+(242)
+(42,43,238)
+(2)
+(43,44,62,238)
+179
+PAUSTENBACH ET AL.
+Chronic Toxicity in Animals
+An increased incidence of neoplasms has been found in
+rats and mice exposed to high concentrations of benzene
+by inhalation or ingestion (48-53). The sites with elevated
+tumor rates include the zymbal gland, oral cavity, prepu-
+tial gland, lung, and ovaries. Tbmors of the zymbal gland
+are the most consistent tumor type reported in rodent
+bioassays (48,50,54,55). In some studies with mice, tumors
+ofthe hematopoietic system were found but only in female
+mice after inhalation exposure (49,56) and only in male
+mice after oral dosing (55). The reasons for the differences
+in response between species is not known; however, inter-
+species differences in metabolism and pharmacokinetics of
+benzene via different routes of exposure may be partly
+responsible (30,32,57). Thus far, no animal species tested
+has clearly been demonstrated to develop the same types
+of chronic adverse effects as those seen in humans (acute
+myelogenous leukemia) (52).
+Chronic Toxicity in Humans
+Chronic occupational exposure to benzene has been
+known to cause hematological effects since the nineteenth
+century. Santesson (58) described cases of benzene tox-
+icity in workers fabricating bicycle tires in the late 1800s.
+Many cases of benzene toxicity were reported near the
+turn of the century, and Alice Hamilton warned in her
+landmark paper, "The Growing Menace of Benzene (ben-
+zol) Poisoning in American Industry," (2) that a serious
+problem was at hand. She suggested that many workers
+could die due to benzene-induced anemia ifexposures were
+not better controlled.
+Excessive exposure to benzene results in suppression of
+the production of both red and white blood cells, i.e.,
+pancytopenia (59). More severe cases, which are generally
+associated with a marked decrease in the number of cells
+in the bone marrow, are classified as aplastic anemia. One
+important point is that these are not distinct diseases but
+rather a continuum of changes reflecting the severity of
+bone marrow damage. Among the studies that have dem-
+onstrated this wide range of hematological responses due
+to benzene toxicity are those of Goldwater and his col-
+leagues (60-62), as well as many others (36,63-76).
+Earlywork by Greenburg (1) showed that many persons
+chronically exposed to benzene can tolerate concentrations
+ofabout 100 to 250 ppm for 8 hr/dayformanyyears. Table 4
+presents some ofthe results ofhis studies. The concentra-
+tions in the work areas he studied in which benzene was
+the only solvent present ranged from 0 to more than 4000
+ppm. It is not known whether the values represent time-
+weighted averages, although he stated that the concentra-
+tions given are "representative of general room air and/or
+air at a worker's station" (1). Hematotoxicity, defined as a
+25% decrease in leukocyte count (1), was the most consis-
+tent adverse effect observed and was usually related to the
+concentrations of benzene vapor. In the 1930s-1950s,
+because air sampling methods were rather insensitive and
+dermal exposure was often significant, red and white
+blood counts were monitored as a means of managing the
+employee risk due benzene to exposure (47,77,78). In
+retrospect, the reliance on biological monitoring rather
+than air sampling probably saved many lives because it
+inherently accounted for differences in individual suscep-
+tibility and dermal uptake. Despite a fairly broad aware-
+ness ofbenzene toxicity, Elkins (79) found that exposure to
+concentrations ranging from 200 to 700 ppm over several
+years sometimes occurred, and these resulted in some
+fatalities (cause ofdeath not stated) in the leather process-
+ing industry during the 1940s.
+Leukemia. The thought that exposure to benzene might
+produce certain leukemias and especially acute myelogen-
+ous leukemia (AML) was put forward in the 1950s, but
+clear evidence was lackinguntil the 1970s. AML is a cancer
+in which there is an abnormal proliferation of the myeloid
+stem cells, which are believed to be the common progenitor
+for mature circulating blood cells (i.e., erythrocytes,
+thrombocytes, and leukocytes) (54). This disease is mostly
+observed in adults and has an increasing incidence with
+age, peaking in the sixth or seventh decade (80). There
+have been more than 10 studies of 5 cohorts that have
+shown an association between AML or its variants and
+benzene exposure (70,81-85). Particularly meaningful is
+the finding by several researchers of the progression of
+aplastic anemia in a benzene-exposed individual through a
+preleukemic phase into frank acute leukemia (46,70,86,87).
+Chronic studies of benzene in animals have confirmed
+its hematotoxicity (28,88,89). Although numerous cases of
+leukemia have been attributed to benzene exposure, there
+has been a reluctance by some researchers to identify
+benzene as the causative factor because no animal model
+for benzene-induced leukemia has been well established.
+In addition, it is plausible that benzene produces this effect
+only when other predisposing factors are present.
+Aflatoxin is an example of a chemical that appears to be
+carcinogenic in only a subset of the general population;
+that is, cancer is seen almost exclusively in those persons
+who have been chemically exposed to aflatoxin and have
+had hepatitis (90).
+Other Effects. Benzene has been shown to be embryo/
+fetotoxic in animals, as evidenced by increased incidences
+of resorptions, reduced fetal weights, skeletal variations,
+and altered fetal hematopoiesis (91,92). Because these
+effects only occurred after relatively high doses, benzene
+has not been generally considered a significant develop-
+mental hazard to humans. There is insufficient evidence to
+indicate thatbenzene is teratogenic or overtly embryotoxic
+in animals or humans atvapor concentrations of10 ppm for
+8 hr/day (93).
+There are no data to suggest that benzene produces a
+developmental hazard to humans at most workplace or
+environmental concentrations. Although some epi-
+demiological studies have implicated benzene as a develop-
+mental toxicant in humans, their limitations are too great
+to be conclusive (19). The confounding variables include
+exposure to multiple substances, lack of incidences in
+control populations for the end points ofinterest, problems
+in identifying the exposed populations, and lack of data on
+the degree of exposure.
+180
+RISK ASSESSMENT FOR BENZENE
+Table 4. The incidence of depression of the white blood cell counts in various jobs
+as compared to range of workplace concentration of benzene: workers exposed to benzol.a
+Benzene concentration, ppmh Incidence of
+Process Ventilation Average Minimum Maximum suppression
+Cement mixing' None 110 110 110 2/1
+Slickeringe General room 700 500 890 0/2
+Coating' Local exhaust 500' 180(1 1020(1 1/4
+Mixingc Enclosed process 430(1 410" 450(1 1/3
+Cement mixing' None 150 100 190 0/1
+Insulating wirec None 130 50 210 6/12
+210' 40d' 460(1
+Compound mixing' None 1360 80 2640 1/1
+580(1 220(' 880(1
+Coatingc General local exhaust 130 30 410 1/10
+330d1 130(1 480(1
+Compound mixingc Enclosed process 100 100 100 1/3
+Core painting None 220 110 340 2/5
+Tire making None 150 140 160 1/9
+210 50 340
+Lining Local exhaust 70 50 110 0/0
+90t' 0 350"
+Compound mixing None 340 280 390 0/1
+Cement mixing None 620 310 860 6/9
+Lining Local exhaust 180 20 360 0/5
+400 280 500
+Dry cleaning None 1800 230 4140 2/3
+Coating Local exhaust 90 40 130 1/1
+Cementing None 100 80 120 2/9
+aBased on work conducted in 1925 by Greenburg (1). Suppression was defined as a 25% decrease from normal count.
+bAll measurements of airborne benzene were collected within the workers breathing zone with charcoal tubes during summer months and were
+representative of both general room concentrations and work station concentrations.
+'Workers were exposed to mixed solvents including benzol.
+"1Measurements were taken in the winter months.
+Benzene Metabolism and
+Pharmacokinetics
+The pharmacokinetics ofbenzene have been well studied
+in animals. The elimination rate via exhalation has been
+studied in dogs (94), rabbits (95), mice (96), and rats (97).
+Schrenk et al. (94) exposed dogs to 800 ppm benzene by
+inhalation. It was determined that the degree of elimina-
+tion and the concentration in exhaled air was related to the
+duration ofexposure because ofthe tendency ofbenzene to
+accumulate in body fat. Parke and Williams (95) admin-
+istered [14C]-benzene orally to rabbits and mice and
+recovered approximately 43% of the administered dose as
+unmetabolized benzene in trapped, exhaled air. Andrews
+et al. (96) administered benzene to mice subcutaneously
+and recovered 72% of the dose in the air. Simultaneous
+treatment with both benzene and toluene (96,98) or ben-
+zene and piperonal butoxide (99) increased the excretion of
+unchanged benzene in the breath. Co-administration of
+these chemicals is believed to inhibit benzene metabolism,
+leaving more unchanged benzene available for excretion
+through the lungs.
+Benzene is eliminated via excretion of its metabolites in
+the urine of experimental animals and only a small amount
+is excreted in feces. Exhalation is the major route of
+excretion of unmetabolized benzene (13). A biphasic pat-
+tern of elimination occurs in rats exposed to 500 ppm for 6
+hr, with half-times for expiration of0.7 and 13.1 hr (97). The
+initial half-life (t,12) of 0.7 hr was similar for blood, bone
+marrow, and other organs; the half-life in fat was 1.6 hr
+(97). Such compartmental analyses are significantly less
+useful now that physiologically based pharmacokinetic
+models for benzene have been developed.
+The pharmacokinetics ofbenzene have also been studied
+in humans (98,100-104). Benzene absorbed by any route is
+eliminated by exhalation of unmetabolized benzene from
+the lungs and bymetabolism ofbenzene in the liver and, to
+a lesser extent, by the bone marrow. Metabolites of ben-
+zene are excreted in the urine. The fraction of benzene
+metabolized depends on the route ofexposure and the size
+ofthe dose. The fraction ofbenzene excreted in the expired
+air ranges between 12 and 50% (100,101,105). The respira-
+tory elimination in humans was reported to be triphasic
+(101). The initial compartment has a half-life of about 1 hr,
+similar to the value determined in rats (97). The second,
+slower phase has a half-life of3 hr, and the third has a half-
+life of > 15 hr. No differences in respiratory elimination
+were observed between men and women (Table 5). Gordon
+et al. (106) has reported a biphasic elimination rate where,
+as expected, the second phase was proportional to the
+long-term body burden of benzene.
+Metabolism
+The metabolism ofbenzene has been extensively studied
+in animals and humans (107,108). The major pathways of
+benzene metabolism have probably been identified (Fig. 1).
+Benzene is metabolized to a number of chemicals that are
+181
+PAUSTENBACH ET AL.
+Table 5. Elimination half-lives of benzene in rats and humans.
+Species TIype Media t112, hr Reference
+Rat Biphasic Blood 0.7 (97)
+Bone marrow 0.7
+Fat 1.6
+Human Triphasic 1st compartment 0.9 (101)
+2nd compartment 3
+3rd compartment 15
+excreted in conjugated and nonconjugated forms. Metabo-
+lism occurs primarily in the liver, but in other organs as
+well, including the bone marrow. Irons et al. (109) have
+described the metabolism of benzene in rat bone marrow
+that was perfused in vitro. In these studies, benzene
+metabolites accumulated in the marrowmuch as they do in
+vivo. The rate of benzene metabolism in marrow is much
+lower than in the liver and is likely related to the low level
+of mixed-function oxidase activity in bone marrow. In the
+liver (89), benzene may be converted via a cytochrome
+P450-mediated pathway (110) to benzene oxide, which can
+be transformed by epoxide hydratase to the 1,2-
+dihydrodiol. This step leads to catechol formation (111).
+Benzene oxide can also rearrange nonenzymatically to
+phenol, which is metabolized to hydroquinone (112). There
+is also evidence that the major hydroxylated metabolites of
+benzene can be formed by direct hydroxylation involving
+free radical insertion (113). Quantitatively, the major meta-
+bolic product of benzene is phenol. There are a large
+number of metabolites that are formed including
+glucuronidated and sulfated products. The net effect ofthe
+metabolism of benzene is that the nonpolar benzene mole-
+cule becomes water soluble and excretable in the urine (59).
+The rate of metabolism of benzene in animals and
+humans is similar (allometrically scaled) and produces
+many of the same metabolites. However, significant dif-
+ferences in benzene metabolism among some species have
+been reported. For example, Sabourin et al. (114) and
+Medinsky et al. (57) have reported significant differences
+between benzene metabolism in rats and mice. While rats
+metabolized more benzene (orally administered) on a
+weight basis than mice, mice tended to form greater
+amounts of hydroquinone and benzoquinone (107,114).
+Brodfuehrer et al. (115) has also shown that while metabo-
+lism of '4C-labeled benzene by liver slices and microsomal
+preparation occurred at similar rates in tissues from
+mouse, rat, and man, covalent binding of 14C-relative
+metabolites to microsomal protein differed significantly
+with man > mouse > rat.
+The metabolism of benzene is also dose dependent.
+Medinsky et al. (57) and Sabourin et al. (116) reported that
+metabolism in humans was likely to be dominated by the
+hydroquinone pathway for long-term exposures to con-
+centrations below 10 ppm and by phenyl conjugates at
+concentrations greater than 10 ppm.
+The metabolism of benzene is also affected by co-
+exposure to other aromatic compounds. Purcell et al. (117)
+has demonstrated that co-exposures of benzene and
+toluene result in a noncompetitive inhibition of both com-
+pounds' metabolism in rats. This competition explains the
+observation that co-exposure to toluene protects against
+the hematopoietic effects of benzene in animals (118,119),
+and reduces the amount ofbenzene metabolized in humans
+(120). This finding suggests that when estimating the
+human risk of exposure to benzene in petroleum products
+that contain both chemicals, the approach should attempt
+Muconic
+Acid O
+N | OH
+HO I
+0 A
+PPPhe_yl ? /
+Mempluric
+Phonyl ~~~~Acid BneeGy
+Merapturic Acid OH Baz ke Oxide Benzene Glyc
+O?S-N-cayleyGS-N-A SH
+S-N-cet s SN-AetyL Iy
+col
+,OH
+?
+OH
+Hydroqinoae Phenol Catecol
+OOH OH OH
+Ohk 9 Gh
+m~c
+f
+- I
+i
+I
+-I
+I
+ua
+Muconaldehyde o
+H i N | H
+0
+Trihydroxy Benzene
+S~iaOH
+F
+FIGURE 1. Current undertaking of benzene metabolism (31).
+Baz.osui0
+00/o
+182
+RISK ASSESSMENT FOR BENZENE
+to account for the possible effects ofcoadministration with
+toluene and possibly other substances.
+Physiologically Based Pharmacokinetic
+Models
+In the last decade, our understanding of the role of
+metabolism in the prediction oftoxicity has been improved
+by the development of mathematical models that quan-
+titatively describe the uptake, metabolism, target organ
+concentration, and elimination ofchemicals in animals and
+humans (121-123). Such physiologically based phar-
+macokinetic models (PBPK) models are useful in under-
+standing the effect of route of administration on intemal
+doses, extrapolation between species, and for providing a
+basis for predicting the amount of the toxic metabolites
+formed and their concentration at the target organ.
+Travis et al. (124) have successfully described the phar-
+macokinetics ofbenzene in rats, mice, and humans using a
+PBPK model. Their model is based on five tissue groups,
+including the liver (principal metabolic organ), fat, bone
+marrow, moderately perfused organs (e.g., brain, heart,
+kidney, and viscera) and the muscle. The bone marrowwas
+added as a tissue compartment because it is almost cer-
+tainly the target organ for benzene's toxic effects, and
+because it is a potential site ofmetabolism. In their model,
+benzene was assumed to be eliminated only by exhalation,
+through Michaelis-Menten metabolism in the liver and, to
+a lesser extent, in the bone marrow. Metabolic products of
+benzenewere not included in the model. Model results have
+been successfully fitted to empirical data on inhalation,
+gavage, and intraperitoneal and subcutaneous injection in
+mice, rats, and humans. The model by Tlavis et al. has been
+used to study benzene binding to blood proteins (125), to
+evaluate benzene elimination data from breath monitoring
+in humans (103), to determine the influence of soil on the
+absorption of benzene from the GI tract (126), and to
+evaluate the metabolism of benzene when coadministered
+with toluene (117).
+Medinsky et al. (57) and Bois et al. (127) have separately
+developed PBPK models for benzene and its major metab-
+olites. Medinsky et al. used published values ofphysiologi-
+cal parameters and developed kinetic data by fitting the
+model to data from studies in laboratory animals (27,114).
+The model accounted for phenol, hydroquinone, benzo-
+quinone, muconaldehyde, and other metabolites. These
+models have been used to investigate the differences in
+carcinogenic end points between species and the relation-
+ship between route of metabolism and the administered
+dose.
+The Bois et al. (127) model is based on the same com-
+partments and metabolites but differs from the Medinsky
+et al. (57) model by using a range of values rather than a
+single value for the physiological parameters and kinetic
+rate constants. The values for those model parameters are
+determined by using a Monte-Carlo technique to fit data
+from animal studies (127,128). Spear et al. (129) used these
+models to fit experimental data from three benzene animal
+studies using inhalation (97,116) and gavage (116) to a five-
+compartment model. They concluded that the model did
+not adequately represent experimental outcomes of the
+three studies and that, in general, parameterization of
+PBPK models to obtain fits to experimental data is com-
+plex and problematic (129). The Bois et al. model has also
+been used to interpret the results of the benzene and
+phenol National Cancer Institute (NCI) bioassays (130)
+and the relative significance of short-term exposures to
+benzene (131).
+Hazard Identification
+Disease End Points
+Occupational exposure to benzene as a solvent and as a
+component ofpetroleum products has been reported to be
+associated with a number of different types of cancer
+including leukemias, lung cancer, and Hodgkin's disease
+(Table 6).
+The cancers most clearly associated with workplace
+exposure to benzene are the leukemias. Leukemias are a
+heterogeneous group ofneoplasms arising from the malig-
+nant transformation of hematopoietic cells. Although sev-
+eral agencies have concluded that benzene exposure can
+increase the incidence of all forms of leukemia (13,132-
+134), acute myelogenous leukemia (AML) and related leu-
+kemias (collectively referred to as acute nonlymphocytic
+leukemias) are the primary leukemias associated with
+benzene exposure. Lamm (135) and Wong (85) have indi-
+cated that AML and its variants are the only cancers
+consistently associated with exposure to benzene.
+While AML may have the strongest association with
+benzene exposure, other cancers of the hematopoietic
+system, such as chronic myelogenous leukemia (CML) and
+multiple myeloma (MM) have also been associated with
+benzene exposure (37,81,136). Both MM and CML occur
+Table 6. Carcinogenic end points identified
+in workers exposed to benzene.
+T'ype of cancer
+Leukemia
+Lymphoblastic leukemia
+Acute myeloblastic leukemia
+Lymphosarcoma
+Erythromyelosis
+Erythroleukemia
+Myeloid leukemia
+Acute myeloid leukemia, subacute myeloid
+leukemia, chronic myeloid leukemia,
+lymphatic leukemia, erythroleukemia
+Myeloid leukemia, chronic lymphoid leukemia,
+acute leukemia, erythroleukemia
+IgG myeloma
+Acute leukemia, chronic lymphoid leukemia,
+myeloid leukemia
+Acute myelogenous leukemia
+Lymphatic leukemia, myelgenous leukemia,
+lymphosarcoma
+Myelogenous leukemia
+Acute leukemia, chronic myeloid leukemia,
+chronic lymphatic leukemia
+Malignant lymphoma
+Multiple myeloma
+Lung cancer
+Reference
+(86,195,242,255,267)
+(243)
+(224)
+(244)
+(46,245-248)
+(249,250)
+(140,159,251,266)
+(252)
+(253)
+(254)
+(46)
+(6,83,84,237,257-262)
+(264,265)
+(159,266)
+(75)
+(268)
+(81)
+(84)
+183
+PAUSTENBACH ET AL.
+when there is a proliferation ofcells from the same myeloid
+stem cells as AML. This suggests that all three types of
+leukemia could be caused by changes in the initially com-
+mitted myeloid stem cell. Goldstein (59) has noted that the
+evidence for the association between the benzene and MM
+and CML is not yet conclusive. Rinsky et al. (137) sug-
+gested that MM's association with benzene exposure may
+be hidden by the longer latency period for the disease.
+However, the failure of the most recent update (138) to
+identify additional cases of MM in the Pliofilm cohort
+makes this hypothesis less tenable.
+Latency
+There are numerous case reports oflong delays between
+the cessation of known benzene exposure and the onset of
+acute leukemia (70,138-144). AML has been reported to
+occur as long as 20-30 years after the last exposure to
+benzene (138).
+Development of quantitative estimates of latency is a
+necessary aspect of low-dose extrapolation of epidemiol-
+ogy data. Heretofore, most estimates of latency for ben-
+zene have been based on radiation-induced leukemias
+(145,146). The length ofthe latency has varied from assess-
+ment to assessment, but the best information on latency
+for benzene is probably found in the Pliofilm cohort
+(147,205).
+Genotoxicity
+Benzene has tested negative for mutagenic potential;
+however, positive results in Salmonella typhimurium
+have been reported in the presence ofexogenous metabolic
+activation (148,149,173). Metabolites of benzene have also
+been identified as mutagenic (150).
+There are conflicting data on the ability of benzene to
+form adducts with DNA. Snyder et al. (108) reported DNA
+adducts in bone marrow using a 32P-postlabeling assay
+after repeated, high oral doses (1 mL/kg), while Reddy et
+al. (151) was unable to find benzene-induced DNA adducts
+using similar methodology. Subramangan et al. (152)
+reported that bone marrow is capable of metabolizing
+phenol to polymeric products which can bind tightly to
+DNA. These findings suggest that positive results of the
+radiolabeled binding studies could be due to incomplete
+purification ofDNA. Finally, two benzene metabolites have
+been reported to form DNA adducts after in vivo admin-
+istration (153).
+Benzene has been reported positive for various tests for
+clastogenicity after relatively high (in vivo) doses. Oral
+administration of 220-880 mg/kg benzene in mice caused
+micronuclei formation (154,155). In mice, exposure to 3100
+ppm benzene for 4 hr caused increases in sister chromatid
+exchanges (SCE) and chromosomal aberrations (156).
+Erexson et al. (150) has reported slight but statistically
+significant increases in SCEs and micronuclei in mice
+after a single 6-hr exposure to benzene at concentrations
+as low as 10 ppm. The same investigators reported similar
+small increases in micronuclei in rats after exposure to 1
+ppm. Au et al. (157) reported the induction ofchromosomal
+aberrations in spleen lymphocytes of mice exposed for 6
+weeks to 2 > 40 ppb benzene. The data from the two
+experiments reported in this study do not agree, and the
+more reliable experiment (as judged by the authors) does
+not show a dose response over a 25-fold dose range. The
+animal data indicate that benzene can cause dose-
+dependent clastogenesis in cells ofhematopoietic origin in
+rodents at concentrations as lowas 1 ppm. The relationship
+between this clastogenic response and leukemogenesis in
+these species is unclear because benzene does not produce
+leukemia in either rodent species.
+The incidence of clastogenic effects in humans exposed
+to benzene in the workplace has been examined by several
+investigators. Chromosomal aberrations (CAs) or
+aneuploid cells have been found in circulating lymphocytes
+of workers who exhibited signs of hematotoxicity
+(75,144,158,159). Clear evidence for clastogenicity in
+humans exposed to low levels of benzene is not available.
+Picciano (160) reported increased chromosomal aberra-
+tions in workers believed to be exposed to 2-10 ppm
+benzene for several years. However, a group of female
+workers exposed to up to 40 ppm for up to 20 years did not
+exhibit any increases in CAs or SCEs even in a subgroup
+that had decreased blood counts at the time of testing
+(161). Two other studies of refinery workers and shoe-
+makers (162-164) found no increases in SCEs in workers
+with exposures up to 100 ppm.
+Although these studies are difficult to interpret due to
+possible confounding factors such as smoking, inadequate
+exposure information, and lack of a dose-response rela-
+tionship, itis reasonable to conclude thatbenzene exposure
+at levels sufficient to cause hematotoxicity may produce
+clastogenic effects in human lymphocytes. The likelihood
+that these effects can occur at current occupational expo-
+sure levels has not been established. The relevance of
+clastogenic effects to human leukemia is unclear, although
+such effects are relevant to one of several hypothesized
+mechanisms for benzene leukemogenesis discussed later.
+Mechanisms of Action
+Many studies indicate that benzene mustbe metabolized
+to produce its major toxic effects (31,89,165-168). However,
+the mechanism for benzene toxicity remains unclear. In
+addition, the mechanisms that produce chronic hema-
+topoietic effects, clastogenic effects, and leukemia are not
+necessarily the same (169). Also, uncertainties remain
+regarding which metabolite(s) is (are) responsible for
+specific toxic effects, and it appears there may be complex
+interactions between metabolites contributing to the in
+vivo and in vitro toxicity (170).
+The search for a mechanism for benzene leuke-
+mogenesis is greatly hampered by the absence of an
+animal model for benzene-induced leukemia. Unlike most
+other human carcinogens, where the evidence for an asso-
+ciation between the chemical and cancer has been con-
+firmed in animal studies, no good animal model for
+benzene leukemogenesis has been identified. Cronkite et
+al. (56) reported that benzene could induce myelogenous
+leukemia in the CBA/ca mouse; however, these results
+require additional confirmatory studies.
+184
+RISK ASSESSMENT FOR BENZENE
+In the absence of an animal model, plausible mecha-
+nisms for benzene's leukemogenic and other carcinogenic
+effects have been suggested based on indirect evidence
+such as the reaction of specific benzene metabolites with
+DNA and animal models of the hematopoietic effects of
+benzene metabolites. Perhaps the most widely proposed
+mechanism is that benzene metabolites initiate cancer by
+direct reaction with cellular DNA, creating DNA adducts
+that represent heritable damage to the somatic cell line.
+The trans, trans-muconaldehyde (171), p-benzoquinone
+(31), or even the reaction product of p-benzoquinone and
+glutathione (172) could be the causative agent. As dis-
+cussed earlier, the evidence for significant formation of
+DNA adducts after in vivo administration of benzene is
+equivocal. Cytogenetic effects of benzene resulting in
+chromosomal damage may also play an important role in
+the mechanism of benzene toxicity and leukemogeneses
+(174,175).
+Amajorproblemwith the proposed DNAadduct mecha-
+nism is the failure of phenol to induce cancer in rodents.
+The NCI bioassay ofphenol is negative (176), yet phenol is
+the metabolite through which many of the suggested
+binding metabolites, such as hydroquinone and p-benzo-
+quinone, are formed. Bois et al. (130) concluded that the
+negative phenol bioassay cannot be explained on the basis
+of a first-pass effect as suggested by Casidy and Houston
+(177,178).
+An alternative hypothesis ofbenzene leukemogenesis is
+that the by-products ofmetabolism ofbenzene rather than
+the initial metabolites themselves are responsible for the
+observed toxicity. This hypothesis is based on observa-
+tions that benzene is metabolized by the cytochrome
+P-450TTE1 (179,180) and that further metabolism ofben-
+zene metabolites can involve a variety ofperoxidases (181).
+These enzymes can produce a variety offree radicals and
+activated oxygen species that may contribute to benzene
+toxicity (182). This hypothesis, as well as the literature on
+the oxidative metabolism ofbenzene, has been reviewed by
+Subrahmanyan et al. (183). It is possible that both direct
+and indirect mechanisms may be responsible for the
+myleotoxicity and leukemogenesis of benzene. Cox (170)
+has discussed these and several other proposed mecha-
+nisms in a recent paper (Thble 7).
+The mechanism of benzene's hematotoxicity has been
+investigated in animal models by a number of authors.
+Benzene metabolism has been shown to be necessary to
+produce hematotoxicity. Benzene's erythropoietic effects,
+as measured byinhibition of59Fe uptake, is apparentlythe
+result of a number of metabolites, and the interaction of
+the metabolites has been shown to be signiflcant (88,108).
+In vivo measurements of benzene hematotoxicity have
+been demonstrated to be a function of the toxicity of
+benzene's metabolites on dividing cells (184) and have been
+duplicated by the co-administration ofthe benzene metab-
+olites of hydroquinone and phenol (185).
+Bone marrow toxicity has been shown to depend greatly
+on the timing of the exposure. When phenol and quinol
+were coadministered to mice by a "continuous" dosing
+regimen, bone marrow cellularity decreased initially, with
+gradual recovery beginning at the second week despite
+lable 7. Possible mechanisms for the
+leukemogenisis of benzene (170).
+Hypothesis 1
+Benzene metabolites such as trans, trans-muconic acid or
+p-benzoquinone initiate cancer by reacting with cellular DNA,
+creating DNA adducts that represent hertiable, carcinogenic
+damage to the somatic cell line. The resulting mutated cells fail to
+respond normally to regulatory signals instructing them to
+differentiate instead of proliferating. This hypothesis is the most
+common in the literature.
+Hypothesis 2
+The compensating proliferation of stem cells created by cytotoxic
+effects of benzene metabolites on partially differentiated cells
+increases the likelihood of carcinogenic damage, assuming that stem
+cells are at greater risk of carcinogenic damage while they are
+actively proliferating than while they are in their normal, quiescent
+state.
+Hypothesis 3
+Cytotoxic damage to the stromal microenvironment, including
+stromal macrophages, impairs its ability to regulate stem cell
+proliferation and differentiation. Initiated and/or malignant stem
+cells are allowed to proliferate uncontrollably, whereas normally
+their division would be suppressed or they might be stimulated to
+differentiate into harmless lineages. Thus, according to this theory,
+leukemia is expressed as a result of failure by the stromal
+microenvironment to produce normal regulatory signals telling stem
+cells to differentiate instead of proliferate.
+Hypothesis 4
+Cytotoxic damage to the immune system, including lymphocytes and
+stromal macrophages, allows tumor cells that would normally be
+detected and killed to survive and proliferate instead, leading to a
+variety of carcinogenic end points.
+Hypothesis 5
+Benzene metabolites initiate cancer through their effects on stem
+cell chromosomes. Chromosomal aberrations induced by
+hydroquinone or p-benzoquinone, for example, may activate
+oncogenes (by carrying them to an active site as a result of a
+deletion or translocation) or inactive anti-oncogenes.
+continued treatment (155). When the mice were treated by
+a "discontinuous" regimen, however, bone marrow cel-
+lularity decreased profoundly, with no evidence of recov-
+ery during the treatment period. This apparent paradox,
+in which the lower total dose administered in the discon-
+tinuous protocol was more toxic than the higher dose ofthe
+continuous regimen, supports the view that the toxic
+effects ofbenzene metabolites on the marrow are cell-cycle
+dependent. Supportive evidence for the importance of
+timing on benzene toxicity is also provided by the studies
+of Luke et al. (186,187), who found that a 3-day exposure
+regimen produced more micronucleated polychromatic
+erythrocytes than did 5 days of exposure.
+Benzene has been shown to activate protein kinase C, an
+enzyme playing a pivotal role in signal transduction, which
+is involved in cell transformation and tumor promotion
+(188). A series of studies has shown that benzene affects
+the function of the cellular and hormonal regulators of
+blood formation, in particular, the function of the stromal
+cell (168,189). These effects appear to be due to a selective
+suppression of interleukin 1 (IL-1) released by mac-
+rophages, which, in the case of the benzene-associated
+suppression ofpre-B lymphocytes, results in a reduction of
+IL-1-dependent release ofL-4 bymarrow fibroblasts (190).
+185
+PAUSTENBACH ET AL.
+Epidemiology
+The epidemiology of benzene is best defined by five
+cohorts. Table 8 presents a summary of their relative
+strengths and weaknesses. These studies all showed an
+increase in leukemia in the exposed population, however,
+most of the studies lack accurate estimates of exposure
+and were confounded because persons were exposed to
+several chemicals in addition to benzene.
+Shoe Workers Study
+Aksoy (6) conducted a case study of 34 shoe workers
+who were admitted to the hematology department of
+Istanbul Medical School with a diagnosis of leukemia
+between 1967 and 1975. The total number of shoe workers
+in Istanbul was estimated to be 28,500. Aksoy used data on
+the leukemia mortality in the general population of West-
+ern nations as his control population. He later indicated
+that the leukemia incidence rate of2.5 to 3/100,000 for the
+general population of Turkey, which would normally be
+considered the appropriate control group, was not used in
+the analysis because vital statistics in Turkey could not by
+relied upon to draw scientific conclusions. The greatest
+shortcoming in this study is the very poor knowledge
+about the degree of exposure to benzene and other chemi-
+cals. For example, it must be assumed that workers were
+exposed to a number of different chemicals, including a
+mixture-ofvolatile hydrocarbons, curing agents, and dyes.
+The author indicated that the concentration of benzene
+vapor ranged between 15 and 30 ppm outside working
+hours and between 150 and 210 ppm during working hours,
+with maximum concentrations reaching 210-650 ppm
+when adhesives containing benzene were used.
+Chemical Workers
+Wong (191) conducted a prospective mortality study of a
+group of 4602 male chemical workers from seven plants
+who were occupationally exposed to benzene for at least 6
+months between 1946 and 1976. They were compared to a
+group of3074 male chemical workers from the same plants
+who had no occupational exposure to benzene. The relative
+risk of leukemia could not be determined in the exposed
+group compared to the unexposed group because no deaths
+from leukemia were observed in the internal control popu-
+lation. It should be noted that none ofthe leukemia deaths
+in the exposed exhortwere ofthe acute myelogenous type,
+the cancer that has been most commonly associated with
+benzene exposure in other occupational studies.
+Dow Studies
+Ott et al. (192) studied the mortality of 594 white males
+who were exposed to benzene in three production areas of
+the Dow Chemical Company in Michigan. Benzene con-
+centrations in the chlorobenzene, alkylbenzene, and ethyl
+cellulose areas were based upon industrial hygiene
+monitoring data. Benzene concentrations ranged from 0 to
+937 ppm, although the estimated time-weighted average
+(TWA) benzene concentrations ranged from 0.1 to 35.5
+ppm in the various job categories. A total of three cases
+classified as leukemia was observed from 1940 to 1973
+versus 0.8 expected (based upon incidence data from the
+Third National Cancer Survey).
+Bond et al. (83) conducted a 9-yearfollow-up ofthe Ott et
+al. (192) study and evaluated some additional workers. In
+their analysis, 956 Dow Michigan division employees
+potentially exposed to benzene were studied. Four leuke-
+mia deaths were observed versus 2.1 expected (based upon
+U.S. white male mortality rates), and this increase was not
+statistically significant. However, all four leukemias were
+of the myelogenous type. When the mortality for
+myelogenous leukemia was compared with that which
+would be expected based upon National Cancer Institute
+Surveillance Epidemiology End Results (SEER) data, a
+statistically significant excess was observed (4 observed
+versus 0.9 expected; p = 0.011). Recently, Bond (193) noted
+that a fifth leukemia case occurred in an individual whose
+death certificate was classified to pneumonia in the Ott et
+al. study, and this subject also had AML. This study has
+been considered less-than-optional for understanding ben-
+zene carcinogenicity because exposure to many other
+chemicals occurred. However, it may be useful for defining
+the upper bound of the possible risk.
+Chinese Worker Study
+Yin et al. (84) carried out a retrospective cohort study in
+1982-83 among 28,460 benzene-exposed workers from 233
+factories and 28,257 controlworkers from 83 factories in 12
+large cities in China. All-cause mortality was significantly
+higher among the exposed (265/100,000 person-years)
+than for the controls. The standardized mortality ratios
+Table 8. Relative strengths of available epidemiological studies.a
+Cohort
+Evaluation criteria Aksoy Ott/Bond Wong Rinsky Yin
+Reliable benzene exposure data - -/+ - -/+
+Lack of confounding by other chemicals - - - + +
+Adequate power + - - + +
+Appropriate controls - + + + +
+Data available on individuals in cohort - + + +
+Dose-response relationship observed - - - + +
+Used accepted epidemiological methods - + + + +
+a( +) Indicates that the information is adequate; (+ +) indicates that the information is good; (-) indicates that the information is poor or
+nonexistent.
+186
+RISK ASSESSMENT FOR BENZENE
+(SMR) were evaluated for leukemia (SMR = 5.74), lung
+cancer (SMR = 2.31), primary hepatocarcinoma (SMR =
+1.12), and stomach cancer (SMR = 1.22). Leukemia was
+evaluated for females only. Leukemia occurred among
+some workers with as little as 6 to 10 ppm average expo-
+sure and 50 ppm-years cumulative lifetime exposure.
+Among the 30 leukemia cases identified in the exposed
+cohort, the proportion of subjects with acute lymphocytic
+leukemia was substantially lower and the proportion with
+acute nonlymphocytic leukemia was higher than the gen-
+eral population. The major shortcoming ofthis studyis the
+lack ofreliable exposure data, adequacy ofthe nosological
+methods, and the virtual certainty that exposure to other
+chemicals occurred.
+Ohio Pliofilm Study
+Infante et al. (7) and Rinsky et al. (81,136,137) have
+examined the leukemia mortality experience of a group of
+workers who were exposed to benzene in the manufactur-
+ing ofrubber hydrochloride (Pliofilm) at three facilities in
+two cities in Ohio between 1934 and 1974. This cohort may
+be the most intensely and carefully studied group in the
+history of occupational epidemiology (7,47,77,78,81,135-
+137,194-197). This group, originally described by Infante
+et al. (7), contains approximately 1800 white male workers
+who had been employed in the manufacture of rubber
+hydrochloride for at least 1 day between 1940 and 1975. In
+this cohort, nine cases of leukemia (AML) and four multi-
+ple myeloma cases were observed by Rinsky et al. (136).
+Follow-up studies of the cohort have identified five addi-
+tional cases of leukemia (138).
+Plioflim Cohort. Since this cohort is the one most often
+used to estimate potency, it is important to understand its
+strengths and weaknesses. While other cohorts have
+larger numbers ofworkers or have reported more cases of
+leukemia, no other cohort contains such good information
+on the duties and exposure histories ofthe workers, nor the
+quality of medical surveillance. In addition, exposure to
+other compounds is much less of a problem in this cohort
+than in others. Detailed individual job histories are avail-
+able on all workers, and the manufacturing process
+remained largely unchanged over the 40 years. Relatively
+large amounts ofair sampling data are available to charac-
+terize exposure levels for several time periods.
+Estimates ofExposure. While the information on the
+exposure ofthe rubberworkers is generally far superior to
+other epidemiology studies, there are significant short-
+comings. Most of the exposure of the Pliofilm workers
+apparently occurred during the 1940s, when minimal
+industrial hygiene data were collected. In addition, ben-
+zene exposure for specific individuals is limited to the time
+they spent in Pliofilm production. The work forces at the
+two plants differed in their potential for exposure to
+benzene and other chemicals while performing non-
+Pliofilm tasks. The two Akron plants were part of a large
+industrial tire-building complex, and the St. Mary's plant
+was in a small town in western Ohio.
+Overthe past 9 years, three different methods have been
+used to estimate the likely retrospective exposure ofthese
+workers. In the first method, Rinsky et al. (136) assumed
+that for a givenjob, worker exposure was constant over the
+40 years of operation unless specific data indicated other-
+wise. Thus, for instance, workplace concentrations ofben-
+zene in 1945 were assumed to be the same as in 1966. In the
+second method, Crump and Allen (197) proposed an alter-
+native analysis ofthe industrial hygiene data as described
+in a report for the Occupational Safety and Health Admin-
+istration (OSHA). They developed both an estimate of
+cumulative exposure and peak exposure for each of the
+employees. To estimate exposure for jobs during time
+periods for which no data existed, they used all data for a
+particular job to calculate a percentage of the threshold
+limit valve (TLV) for that time and then applied that
+percentage to earlier periods when no data were available.
+Thus, if the data in the 1960s indicated that the average
+exposure to benzene in a particular department was 15
+ppm or 60% of the prevailing TLV of 25 ppm, then the
+benzene concentration in that same department in 1945
+was assumed to have the same relationship to the prevail-
+ing TLV for 1960 (100 ppm) or 60 ppm. In short, they
+assumed that the workplace concentration during those
+time periods (relative to the TLV) would be similar to those
+periods when it was not measured. Thble 9 shows how the
+benzene TLV changed during the years of Pliofilm man-
+ufacture. Since the Crump andAllen methods were related
+to the TLV, their estimates of worker exposure for the
+early years were much greater than those of Rinsky et al.
+(136).
+Paustenbach et al. (47) conducted the third retro-
+spective exposure assessment of these workers. Their
+estimates attempted to quantitatively account for a)
+uptake due to short-term, high-level exposure to vapors, b)
+uptake due to background concentrations in the manufac-
+turing facility, c) absorption through the skin, d) morbidity
+and mortality data on workers in the Pliofilm process, e)
+the installation ofindustrial hygiene engineering controls,
+f) extraordinarily longworkweeks during the 1940s, andg)
+data indicating that airborne concentrations of benzene
+were underestimated due to inaccurate monitoring devices
+and the lack of adequate field calibration of these devices.
+The Paustenbach et al. (47) analysis suggested that
+Crump and Allen (197) overestimated the exposure of
+workers in some job classifications and underestimated
+Table 9. Recommended occupational exposure limits for benzene
+(81,204).
+Year Guideline Source
+1941 100 ppm (8-hr TWA) U.S. DOL
+1947 50 ppm (8-hr TWA) ACGIH
+1948 35 ppm (8-hr TWA) ACGIH
+1957 25 ppm (8-hr TWA) ACGIH
+1963 25 ppm (ceiling value) ACGIH
+1969 10 ppm (8-hr TWA) ACGIH
+1971 10 ppm (8-hr TWA) OSHA
+1974 25 ppm (ceiling value) OSHA
+1987 1 ppm (8-hr TWA) OSHA
+1989 Proposed 0.1 ppm (8-hr TWA) ACGIH
+Abbreviations: TWA, time-weighted average; U.S. DOL, U.S. Depart-
+ment of Labor; ACGIH, American Conference of Governmental Indus-
+trial Hygienists; OSHA, Occupational Safety and Health Administration.
+187
+PAUSTENBACH ET AL.
+ax
+150*
+;gm100
+= 50-0o
+Neutralizer - St. Marys
+1939 1944 1949 1954 1959 1964 1969 1974
+Year
+Mixer - St. Marys
+Neutralizer - Akron I & II
+1936 1941 1946 1951 1956 1961 1966
+Year
+Mixer - Akron I & II
+1939 1944 1949 1954 1959 1964 1969 1974 1936 1941 1946 1951 1956 1961 1966
+Year Year
+Spreader Operator - St. Marys Spreader Operator - Akron I & II
+u)
+a 200-
+0 150-
+ol 100'
+00
+1939 1944 1949 1954 1959 1964 1969 1974 1936 1941 1946 1951 1956 1961 1966
+Year Year
+FIGURE 2. Estimates of exposure histories for selected Pliofilm work categories (47).
+188
+RISK ASSESSMENT FOR BENZENE
+them for others, and that Rinsky et al. (81,137) almost
+certainly underestimated the exposure of nearly all
+workers. Their analysis concluded thatworker exposure at
+the St. Mary facility was 2- to 3-fold lower (on average)
+than at the two Akron facilities. In addition, short-term,
+high-level exposure to benzene vapors and dermal expo-
+sure was found to make a significant contribution (about
+30%) to the total absorbed dose. One ofthe key findings of
+Paustenbach et al. was that the three facilities probably
+had significantly different airborne concentrations ofben-
+zene; especially during the 1940s and 1950s. Figure 2
+graphically compares the results of the three exposure
+estimation methods for three different job categories at
+the two different manufacturing locations.
+The Paustenbach et al. (47) estimates indicate that the
+highest exposures to benzene occurred during the 1940s in
+the Akron I plant. Before the 1940s, the shorter work week
+and lower production volume probably kept the doses
+relatively low. After the 1940s, the improved engineering
+controls at the St. Mary's and Akron II plants and the
+increasing concerns about the toxicity of benzene (as
+reflected in the decreasing TLVs) apparently brought
+about reductions in the workplace concentrations. During
+this period, St. Maryworkers had greatlyreduced levels of
+exposure due to a reduction in Pliofilm production at
+that site.
+Paustenbach et al. (47) acknowledged that because
+there were virtually no measurements taken during the
+1940s, there is significant uncertainty in their estimates.
+However, they were confident that their estimates are
+more likely to be accurate than prior estimates for several
+reasons. First, they found and used new information not
+considered by the earlier investigators. Second, based on
+what is known about the incidence ofleukemia at the three
+plants (based on the cumulative doses), the correlation of
+disease with the dose predicted by Paustenbach et al. was
+better than using either the Crump and Allen or the
+Rinsky et al. methods (Table 10). Finally, Paustenbach et
+al. take issue with the claim (199) that data on which the
+revised estimates were based had been fully analyzed
+during the earlier OSHA hearing on establishing a per-
+missible exposure limit (PEL). Several key findings in
+Paustenbach et al. were in fact not identified in the OSHA
+regulatory action. Among these are the St. Mary's shut-
+down during the 1940s, the exceedingly long work sched-
+ules, and an attempt to address dermal uptake.
+Petroleum fransportation and Distribution
+Workers Study
+A large epidemiology study of workers exposed to
+petroleum products (containing benzene) has recently
+been completed (85). The study reported a statistically
+nonsignificant excess of AML in land-based distribution
+workers that was not correlated with total hydrocarbon
+exposure. A shortcoming of the study is that it did not
+determine benzene concentrations but only exposure to
+total petroleum hydrocarbons. An estimate of the con-
+centration of benzene vapors could be made with some
+degree of confidence; however, this analysis has yet to be
+conducted.
+Rushton et al. (198) and Schnatter et al. (200) also
+recently reported the results of similar studies of
+petroleum product distribution workers in the United
+Kingdom and Canada. Both reports indicated that AML
+SMRs were slightly elevated; however, the increases were
+not statistically significant.
+Evaluating Benzene's Cancer Dose-
+Response Curve
+It is unlikely that any specific case of environmental
+leukemia can be directly related to exposure to very low
+concentrations ofbenzene (or any chemical), nor is it likely
+that an animal experiment (alone) can describe the rate of
+response at low doses. Consequently, low-dose extrapola-
+tion models must be used to predict the probability of
+disease. The method or model used to estimate the leuke-
+Table 10. Pliofilm leukemias by location, type, and estimated cumulative exposure (138).a
+Cumulative exposure, ppm-yr
+Plant location Year first exposed Type of leukemia Rinsky Crump Paustenbach
+Akron 1 1939 AML-C 474 937 900
+1941 AGL 639 2150 1420
+1942 AML-C 98 306 668
+1942 AML-B 252 324 1120
+1944 AML-G 497 1490 1000
+1945 AML-C 259 251 1050
+1948 AML 1 15 533
+Akron 2 1950 CML 90 65 336
+St. Mary's 1940 Monocytic 50 379 116
+1940 ALL 62 144 291
+1945 Unspecified 7 50 11
+1948 CML 0.1 3 3
+1949 Unspecified 1 7 9
+1950 Myelogenous 10 23 54
+Abbreviations: AML, acute myelogenous leukemia (AML-C, cystic; AML-B, blastocystic; AML-G, granulocytic); CML, chronic myelogenous
+leukemia.
+aWhite male "wetside" employees through 1987.
+189
+PAUSTENBACH ET AL.
+Table 11. Overview of approaches to benzene low-dose extrapolation and potency.
+EPA (145) California (201) Thorsland (146) ACGIH (204)
+Cohort Rinsky et al. (81); Ott et Rinsky (Rat Rinsky (81) Rinsky (80)
+al. (182); Wong et al. (51,53,54,55) and Rinsky
+(191) et al. (81); Ott et al.
+(192); Wong et al. (191)
+Disease end point All leukemias All leukemias Acute myelogenous All leukemias
+leukemia and aplastic
+anemia
+Low-dose extrapolation Linear Linear (95th confidence Linear-quadratic Conditional log logistic
+model limit)
+Risk-specific dose (10-6) 37 ppta 25 ppta 1-10 ppba 100 pptb
+aASsumes exposures of 24 hr/day for a 70-year lifetime.
+bAssumes that persons are exposed for 8-hr/day, 5 days/week, for 30 years.
+mia risks due to exposure to low doses of benzene has a
+significant impact on regulations. Changes in the incidence
+of disease or in the estimates of exposure tend to have
+much smaller effect on the risk estimates than the low-
+dose model selections.
+The impact of model selection is well illustrated by
+comparing the currently published cancer potency esti-
+mates for benzene. The different potencies predict signifi-
+cantly different acceptable concentrations for the same
+risks. These differences are in part due to the choice of
+epidemiology data but are largely a function of the model
+selected. Table 11 presents a summary ofthe assumptions
+used in the various models and the concentration of ben-
+zene, which corresponds to a predicted excess lifetime
+cancer risk of 1 in a million.
+Current Federal policies require that human data be
+used instead of animal data if the human data are suffi-
+ciently robust. The epidemiology study most often used to
+estimate the human risk of exposure to benzene -is the
+rubber workers cohort (7,81,136,137). Many different
+extrapolation models have been applied to these data to
+identify safe levels ofexposure. As shown in Table 11, linear
+models were used by the Environmental Protection
+Agency (EPA) and OSHA in the early 1980s. A modified
+form of the linearized multistage was used by Crump and
+Allen (197) and bythe EPA (145). Thorslund et al. (146) also
+developed a revised estimate in 1988. In 1987, Rinsky et al.
+used a conditional log-logistic model to predict the risk. As
+of1993, none ofthese models has been identified as clearly
+superior to the others.
+Early Regulatory Assessments
+Benzene was one of the first epidemiologically based
+risk assessments conducted by the EPA (133). The Agency
+based its evaluation upon the disease data on the Pliofllm
+rubber workers and the Dow cohorts. Cumulative dose,
+defined simply as the product of concentration and expo-
+sure duration, was the index of exposure. The EPA used a
+linear nonthreshold model to estimate risk. The results,
+based on these studies, indicated that the 95% upper-
+bound estimate of the probability of developing leukemia
+in excess ofbackground rates following a working lifetime
+ofexposure to 1 ppm ofbenzene was 14.9 per 1000 based on
+the rubber worker data and 46.4 per 1000 based on the
+Dow data (133).
+White et al. (82,202) conducted the next assessment of
+benzene. A cumulative dose was again used to predict risk
+based on the Pliofilm and Dow cohorts. In deriving their
+exposure measures, it was assumed that occupational
+exposures were at the TLV concentrations at the time of
+the exposure. In their analysis, workers with fewer than 5
+years of work experience were excluded. A simple one-hit
+model was used to predict the response. For exposure to 1
+ppm, 8 hr/day, for 30 years, they predicted 3-11 excess
+leukemia deaths per 1000 persons (based on the Pliofilm
+cohort) and 3-10 excess leukemia deaths per 1000 persons
+(based on the Dow cohort).
+In 1984, Crump andAllen (197) developed an assessment
+based on the work of Bond, the Pliofilm cohort, and the
+original Dow cohorts (192). They also evaluated a number
+of dosimetrics for predicting risks, including cumulative
+dose, weighted cumulative dose, window dose, and peak
+exposure dose. The cumulative dose is the same exposure
+measure used by EPA in 1979 and by White et al. in 1982
+(82). The weighted cumulative dose gives no weight to
+exposures within the most recent 2.5 years and pro-
+gressively less weight to exposures that occurred over the
+past 7.5 years. The window dose considered exposure in
+the 10-year window defined by 2.5 and 12.5 years in the
+past and the peak exposure dose measured all cumulative
+exposures that exceeded 100 ppm. The time intervals of
+2.5, 7.5, and 12.5 years were selected based on the leukemia
+rates and the time oftheir appearance in persons exposed
+to radiation due to the bombing in Nagasaki and
+Hiroshima.
+Crump and Allen (197) used two mathematical
+approaches, the relative risk and the absolute risk models,
+to evaluate the relationship between leukemia risk and
+exposure. The relative risk model assumes that incremen-
+tal risk due to exposure to benzene will be proportional to
+the background mortality in the group. The absolute risk
+model assumes that the additional risk associated with
+dose is the same for all age groups. A relative risk model
+using cumulative dose and based on the combined rubber
+workers and Dow cohorts predicted 7.5 excess leukemia
+190
+RISK ASSESSMENT FOR BENZENE
+deaths per 1000 workers exposed to 1 ppm for 40 hr/week
+for 30 years. An absolute risk model predicted two excess
+leukemia deaths per 1000 workers for the same dose.
+The authors expressed a preference for the cumulative
+or weighted cumulative exposure approach because of the
+leukemia experience in Japan. They noted "window expo-
+sures allow the risk [of leukemia death associated with
+benzene exposure] to disappear completely after 15 years,
+which appears to be atvariance with the Japanese data [on
+leukemia latency]" (197). The utility of the peak exposure
+dose was examined by the authors in further analysis of
+the Pliofilm cohort. In a separate analysis ofpersons with
+200-plus ppm-year cumulative exposure, workers exposed
+to benzene at levels less than 100 ppm were found to have
+higher relative risks than workers with exposures greater
+than 100 ppm. In light of this finding, this approach was
+not considered credible.
+EPA Assessment
+Over the past 20 years, the EPA has developed quantita-
+tive unit cancer risk estimates for nearly 150 known or
+suspect carcinogens using a single methodology (203).
+However, the standard procedure was not used when the
+agency evaluated benzene (145). Instead, EPA adopted the
+models developed originally by Crump and Allen. EPA
+derived a cancer risk estimate from data obtained in three
+different epidemiologic studies on workers exposed to
+benzene vapors (81,191,192). Using an average derived
+from the application of several models, EPA predicted a
+risk of2.6 x 10-2 for exposure to 1 ppm benzene for a 24 hr/
+day, 70 year-lifetime [equivalent to 0.029 mg/kg/day for
+lifetime exposure]. Using this estimated potency value, the
+air concentration associated with an excess risk of 10-6 was
+40 ppt. Since this estimate was developed, two updates of
+the cohort have been released [Rinsky (136) and Paxton
+(138)]; however, EPA has not yet had an opportunity to
+revise its risk assessment to incorporate the results.
+Rinsky et al.
+Rinsky et al. (136,137) developed an assessment of
+occupational exposure based on a conditional logistic
+model and additional follow-up data on the rubber worker
+cohort. The conditional logistic model differed from the
+assessment of White (82) and Crump and Allen (147) in
+several ways. Specifically, the assessment was based only
+on the rubber worker cohort and used a novel dose-
+response model. In their assessment, Rinsky developed
+detailed estimates of worker exposure that differed from
+the estimates made by Crump and Allen (197). Based on
+the results ofthe analysis, theyrecommended lowering the
+occupational standard for benzene to 0.1 ppm. In 1990, the
+American Conference of Governmental Industrial Hygie-
+nists (ACGIH) TLV committee proposed lowering the
+TLV from 10 to 0.1 ppm (204). They plan to reach a final
+decision on the most appropriate value in 1993 or 1994.
+Thorslund et al.
+A detailed reanalysis of the benzene cancer potency
+factor was performed in 1988 by Thorslund et al. (146,147).
+This reanalysis was based on the rubber workers cohort
+and considered data from the 1981 update of the disease
+incidence. The reanalysis also attempted to estimate
+workers' exposures on an individual basis and did not lump
+workers into dose groups. Finally, Thorsund et al. exam-
+ined rigorously the dose-response relationship in the
+cohort. The objectives of the evaluation were to test
+whether the update ofthe cohort and better use ofexisting
+exposure data would result in a significantly different
+estimate ofpotency and whether the data from the rubber
+worker cohort was best fit by a linear or nonlinear dose-
+response model.
+The effect of the various modifications in the reanalysis
+are presented in Table 12. Two modifications (taken
+together) had a relativelymajor effect on the linear model's
+estimates: use of a more refined latency distribution to
+obtain the exposure weighting function, and use of
+rigorous statistical techniques that relied on individual
+exposure estimates and time-to-tumor data, to estimate
+the transition rate. Thorslund et al. (146) concluded that
+using these more plausible assumptions, the linear model's
+estimate of potency was overestimated by approximately
+one order of magnitude.
+Thorslund et al. (146) also concluded that there was
+significant evidence that the dose-response curve for ben-
+zene and AML was better fit by a nonlinear rather than a
+linear model. They recommended using a quadratic model.
+Thorslund et al. (146) also developed a model which had
+both a linear and a quadratic term. The results of the
+model were dictated by the quadratic term at high
+(occupational) exposure levels and by the linear term at
+low (environmental) exposures. Both of these models
+Table 12. Effect of modifications of EPA's assumption on estimates
+of cancer potency for benzene (146).
+Excess risk at
+1-ppm continuous
+Modification lifetime exposure
+None 2.60 x 10-2
+Model restricted to absolute risk and weighted 1.76 x 10-2
+cumulative dose form; data restricted to Rinsky
+cohort
+Three years of follow-up added 1.71 x 10-2
+Job code errors corrected 1.84 x 10-2
+New weighted cumulative dose form from 3.19 x 10-3
+epidemiological latency data; new statistical method
+for estimating transition rate parameter
+New definition of disease induced by benzene; new 3.48 x 10-'
+estimate of background rates in U.S. population
+Quadratic model 1.43 x 10-4
+Linear-quadratic model 1.00 x 10-
+191
+PAUSTENBACH ET AL.
+resulted in lower estimates of potency than the linear
+model (Table 12).
+Thorslund et al. (146) concluded that the quadratic
+equation is the best one for predicting the leukemia risk
+observed in the Pliofilm cohort. This conclusion was based
+on a) the empirical fit ofthe data to the quadratic equation
+and b) biological evidence that a two-hit mechanism (i.e.,
+two molecules of benzene or its metabolites must interact
+with a cell's DNA to initiate cancer) is more likely than a
+one-hit mechanism. The linear-quadratic model, which is
+based on a conservative assumption about how back-
+ground factors may influence the probability that benzene
+can produce leukemia, was also presented as a reasonable
+maximum upper bound of benzene risk.
+Because the dose-response model used by a regulatory
+agency has significant policy and regulatory implications,
+a conference was convened in Georgetown in 1989 to
+evaluate the reanalysis (147,205). At that workshop, par-
+ticipants considered the linear quadratic model for
+estimating the leukemogenic risks of benzene to be more
+appropriate than the one-hit model. The participants also
+concluded that a constant relative risk model was not
+applicable for benzene-induced acute leukemias because
+the Rinsky cohort does not show a constant relative risk
+for acute leukemias as the cohort ages. Furthermore, they
+concluded that the use of the absolute risk rather than
+relative risk model is consistent with the EPA's policy
+regarding the interpretation of animal data. The George-
+town workshop (205) recommended that the human data
+be fitted to other two-stage models and that a sensitivity
+analysis be performed on models such as the two stage,
+quadratic, and linear-quadratic, as well as the 1985
+EPA model.
+Reanalysis of Rubber Worker and Dow
+Studies
+Austin et al. (206) surveyed the evidence for benzene
+toxicity, examined previous risk estimates, and provided
+an updated risk assessment using the rubber worker and
+Dow cohorts. These authors modeled the number ofexcess
+leukemia deaths associated with various exposure levels.
+Their model was based on the assumption that "the pro-
+portional excess leukemia mortality observed during the
+follow-up period will continue until all cohort members
+have died" (206). Using this risk estimation model and a
+target cumulative exposure of30 ppm-years (1 ppm, for 40
+hr/week for 30 years), 51-83 excess leukemia deaths per
+1000 exposed were predicted based on the Pliofilm cohort
+and 47 excess leukemia deaths per 1000 exposed were
+predicted based on the Dow cohort.
+Brett et al.
+Brett et al. (207) conducted a risk assessment that was
+to a large degree a sensitivity analysis of Rinsky et al.
+(136). They agreed that the rubber worker cohort provided
+the best basis for estimating the risk ofleukemia and that
+no other epidemiology study is as appropriate. They
+showed that the Rinsky model was fairly sensitive to the
+estimates of employee exposure. For example, when the
+exposure estimates developed by Crump and Allen were
+applied to their model, the risks associated with 1-ppm
+(working lifetime) exposures decreased significantly.
+Brett et al.'s reevaluation of the data indicates that past
+assessments may have overestimated the cancer risk by a
+factor of3-24. Based on the data of Rinsky et al. (136) and
+exposure matrices of Crump and Allen (197), a risk esti-
+mate of 7.9 excess leukemia deaths per 1000 workers
+exposed to 10 ppm for 45 years and for those persons
+exposed to 1 ppm for 45 years might have an excess of 0.5
+leukemia deaths per 1000.
+Paxton et al.
+Paxton et al. (138) evaluated the impact of the recent
+update of leukemias in the rubber worker's cohort and the
+new the exposure estimates of Paustenbach et al. (47) on
+the dose-response curves. They found that the update and
+the new exposure estimates gave further support to the
+risk estimates proposed by Brett et al. (207). The study
+also concluded that because no cases of leukemia are
+observed in workers who started employment after 1950,
+the observed increase in leukemia may be the result of a
+threshold response to very high levels that occurred in the
+early years of the manufacturing process.
+Human Exposure
+Dermal Uptake
+Benzene is readily absorbed through the skin of man
+(208,209) and animals (210-212). In general, studies in
+humans suggest a dermal uptake rate in the forearm of0.4
+mg/cm2-hr (209). Paustenbach et al. (47) suggested that
+under certain occupational circumstances, dermal absorp-
+tion can make a signifiecant contribution (about 10-25%) of
+the worker's total uptake.
+In contrast to liquid absorption, the dermal uptake of
+benzene from contaminated soil has been modeled by
+McKone et al. (213) and Burmaster et al. (214). They
+showed that benzene is poorly absorbed from a soil matrix
+and that even under ideal conditions (extensive contact for
+long periods of time), less than 10% of benzene in soil will
+be absorbed by the skin.
+Occupational Exposure
+Occupational exposure to benzene involves airborne
+concentrations that are 100- to 1000-fold greater than
+environment levels. Occupational exposure to benzene has
+decreased greatly over the past 40 years as a result of
+lowering occupational exposure limits like the TLV and by
+discontinuing the use of benzene as a solvent. Currently,
+significant exposure to benzene is limited to the workers in
+the petroleum, coal (coking operations), and synthetic
+organic chemical industries. Under the current OSHA
+PEL, workplace exposures may not exceed 1 ppm. In the
+petroleum industry, 8-hr TWA exposures are generally
+kept below 0.3 ppm (215). Dermal exposure to benzene in
+the petroleum industries is generally controlled under
+192
+RISK ASSESSMENT FOR BENZENE
+OSHA requirements; however, dermal exposure to gas-
+oline and benzene in small workplaces (less than 10
+employees) can be significant due to less stringent indus-
+trial hygiene practices.
+Community Exposure
+Due to the ubiquitous presence of benzene in the
+environment, the general population is exposed daily to
+varying levels of benzene. Iypical sources of exposure
+include cigarette smoking, use of certain consumer prod-
+ucts, inhalation of indoor and outdoor air, pumping gas-
+oline (self-service gas stations), and riding in an
+automobile (8). During the 1980s, EPA performed exten-
+sive investigations (the TEAM studies) of the general
+population's exposure to volatile organic compounds such
+as benzene (8,9,216,217). The TEAM studies found that the
+most important source ofexposure for the general popula-
+tion is mainstream cigarette smoke inhaled by smokers.
+The source accounted for 39% of the total uptake of
+benzene in the U.S. population (9). In addition, environ-
+mental tobacco smoke (ETS) contributes an additional 5%
+of the nation's exposure. The second largest source (20%)
+of nationwide exposure is attributed to various personal
+activities, which include exposures related to automobile
+use. Atmospheric emissions (auto exhaust and industrial
+emissions) account for only about 20% of total exposure
+(Fig. 3).
+A number of sources sometimes considered important,
+such as petroleum refining operations, petrochemical
+manufacturing, oil storage tanks, urban-industrial areas,
+service stations, certain foods, groundwater contamina-
+tion, and underground gasoline leaks, appear to be rela-
+tively unimportant on a nationwide basis (9).
+The TEAM studies finding that smoking is the largest
+source of human uptake of benzene is consistent with
+chemical analyses of cigarette smoke. Loforth et al. (219)
+measured an average of 500 pg ofbenzene produced from
+an individual cigarette. Wester et al. (220) and Wallace and
+Pellizzari (217) also reported that average benzene breath
+levels of smokers are significantly elevated over non-
+smokers.
+Industry (14%)
+l _ _~~~~Pesonal
+AutDs (82%)
+Elevated levels of benzene in indoor air represent an
+additional source of exposure. Wallace et al. (8,9,216,217)
+reported the results of the EPA TEAM studies that
+benzene levels in the home are generally elevated over
+outdoor levels. These elevated concentrations are largely
+due to ETS, use ofpetroleum products, and other sources
+(9,221).
+Although benzene is relatively soluble in water (1.8 g/L at
+25°C), the potential for human exposure through water
+consumption is limited. Benzene's volatility and bio-
+degradability results in low levels in surface water (17,18).
+Levels of benzene in public drinking water supplies are
+nondetectable generally (>0.5 g/L). Benzene can be a
+contaminant in shallow groundwater due to leaking under-
+ground storage tanks, but the number of individuals
+affected by such contamination is small. Under the current
+EPA drinking water standards, benzene levels in public
+water supplies cannot exceed 5 jg/L.
+Benzene has been reported as a low-level component ofa
+large number of foods,(35,222). NCI (35) estimated that
+many Americans currently ingest as much as 250 pLg/day
+from their diet. However, a recent study performed by the
+American Petroleum Institute contradicts these findings.
+The study examined foods that the literature indicated to
+contain significant amounts of benzene. Benzene levels in
+these foods were found to be either very low or nondetect-
+able. Based on these results, the American Petroleum
+Institute (API) concluded that benzene is unlikely to occur
+in food at levels of toxicological significance (201). This
+finding is consistent with analyses of the TEAM studies
+data that concluded that 99% of benzene exposure occurs
+via inhalation (9). Travis (18) also concluded that based on
+the physicochemical properties of benzene, diet was
+unlikely to be a significant source of exposure.
+Although benzene is now rarely used as a bulk solvent
+(15), trace levels of benzene can still occur in certain
+consumer products. Wallace (9) reported that 400 of
+approximately 5000 materials and products tested by the
+National Aeronautics and Space Administration (NASA)
+were found to emit benzene vapors in concentrations rang-
+ing from 0.01 ppm to 140 ppm. These products include
+paints, adhesives, pens, rubber products, carpeting, liquid
+Exposures
+ETS (5%)
+Autos (18%)
+_ llq||..H' tt3N! "l Cigarettes (39%)
+Personal (18%)
+Emissions
+Home (16%) Industry (3%)
+FIGUJRE 3. Benzene emissions versus exposures for the Los Angeles basin (218).
+193
+& Home (3%)
+ric aptot^ r1 sw%-I
+PAUSTENBACH ET AL.
+detergent, furniture wax, and building materials. A survey
+of products containing volatile organics found that a simi-
+lar percentage of products contained low but measurable
+amounts of benzene (223).
+TEAM data have shown that the major sources of
+emission of benzene are not necessarily the most signifi-
+cant sources of human exposure. For example, indoor air
+concentrations of benzene are significantly higher than
+outdoor concentrations (217). Figure 3 presents a com-
+parison of the air concentrations in the Los Angeles area
+and the sources of exposure (218). Autos and industry
+contribute (96%) to the outdoor airborne levels ofbenzene,
+but human uptake of benzene is determined primarily
+(79%) by cigarettes, indoor air, and personal factors.
+Risk Characterization
+Table 13 presents an analysis by Wallace (9) on the
+magnitude of risks offered by exposures to various
+sources ofbenzene. His estimates are based on the cancer
+potency models used currently by EPA (145). For com-
+parison purposes, the risks from acceptable levels of ben-
+zene in public drinking water supplies exposures also has
+been included.
+These estimates of population risks indicate that while
+occupational exposure may involve relatively high airborne
+concentrations ofbenzene, the bulk ofbenzene update and
+risk results from nonoccupational exposures. Smoking is
+the dominant source of benzene exposure and risk. How-
+ever, Wallace estimated that nonsmoking, nonoccupational
+benzene exposures result in some 400 cancer cases per
+year. As Table 11 indicates, estimates ofrisk from benzene
+vary considerably among published risk assessments.
+Using the linear-quadratic model of Thorslund et al. (146)
+for example, results in an estimate of nonsmoking, nonoc-
+cupational risks of less than 10 per year in the United
+States.
+Regulatory Issues
+Occupational Exposure Limits
+Recommendations to limit exposure to benzene in the
+workplace came soon after the hazard posed by benzene
+toxicity was recognized. Serious episodes of benzene tox-
+icity in the rotogravure printing industry in New York
+(224) were in part responsible for the setting of occupa-
+tional standards for benzene, which were recommended by
+the newly formed ACGIH in the late 1930s and early 1940s.
+Table 13. Benzene exposures and theoretical risk in United States.
+Activity Intake (,ug/day) Cases/year
+Smoking (9) 1,800 500
+Passive smoking (9) 50 50
+Outdoors (9) 120 150
+Driving car (9) 40 40
+Filling gas tank (9) 10 5
+Occupational (9) 10,000 10
+Other personal (9) 150 200
+Drinking water at the 10 0.01 (17)
+current MCL (229)
+The ACGIH establishes TLVs that are voluntary guide-
+lines and do not carry the force of law; however, many
+industries have historically attempted to comply with
+them.
+Table 9 shows how benzene standards changed over
+time. In 1971 the OSHA standard was reduced to 10 ppm
+and by 1974, when OSHA and the National Institute of
+Occupational Safety and Health (NIOSH) suggested addi-
+tional regulations, the 10 ppm TWA standard was comple-
+mented with a 25-ppm ceiling value (36). In 1976, OSHA
+and NIOSH reached the conclusion that benzene was a
+leukemogen and that a 10-ppm standard was not sufficient
+to protect workers (207). In 1977, OSHA first proposed
+lowering the occupational benzene standard from 10 ppm
+to 1 ppm on the basis of its qualitative assessment of the
+leukemia risk. Their permanent standard was not, how-
+ever, supported by the U.S. Supreme Court on the basis
+that OSHA had not demonstrated that a significant risk
+existed at the previous 10-ppm standard (149). In 1987,
+OSHAset the standard at 1 ppmfor an 8-hrday(TWA) and
+5 ppm for 15 min (134). NIOSH (132) recommended that
+the occupational exposure standard for benzene be
+revised to a 10-hr TWA of 0.1 ppm with a 15-min ceiling
+value of 1 ppm.
+In 1991, the ACGIH proposed that benzene be listed on
+the Chemical Substances TLV Notice of Intended
+Changes of 1990-1991 at 0.1 ppm as a TWA with a skin
+notation and designation as a Al carcinogen (confirmed
+human) (204). The recommended TLV of 0.1 ppm is less
+than the concentration associated with genetic damage in
+animals (150) and is less than the concentrations associ-
+ated with genetic damage in human beings (161). Because
+calculations show that the dermal absorption of benzene
+can contribute substantially to the total absorbed benzene
+dose (208,209), the skin designation was retained.
+This proposed reduction is under considerable debate.
+Paxton et al. (138) has shown that the original carcinogenic
+risk assessment (137) considered by ACGIH likely over-
+estimates carcinogenic risks. Currently, Infante and oth-
+ers question this conclusion and believe the 0.1-ppm value
+is necessary to provide adequate protection.
+Air Toxics Regulations
+The EPA has regulated industrial emissions of benzene
+under the Clean Air Act's provision for the National Emis-
+sion Standard for Hazardous Air Pollutants (NESHAP) in
+1981 and again in 1988 and 1989. These regulations have
+focused on the petroleum, chemical, and steel industries
+(225-227).
+Under the revised Clean Air Act of 1990, emissions of
+benzene and other toxins from industrial sources will be
+controlled using technology-based standards. In addition,
+the maximum concentration ofbenzene in gasoline will be
+limited to 1% by volume. In addition to the direct regula-
+tion of benzene emissions, regulations that control hydro-
+carbon emissions also have reduced the amount ofbenzene
+emitted by stationary sources.
+194
+RISK ASSESSMENT FOR BENZENE 195
+Drinking Water
+In 1985, the EPA Office of Drinking Water proposed
+setting the maximum contaminant level (MCL) for ben-
+zene in drinking water at 0.005 mg/L (228). This standard
+was promulgated in 1987 (229). Because of benzene's
+known carcinogenicity, EPA's Office of Drinking Water
+has set the maximum contaminant level goal (MCLG) for
+benzene in drinkingwater at 0 (229). The MCLG cannot be
+enforced. The Office of Drinking Water used the EPA
+estimates of benzene's carcinogenic potency to estimate
+the benzene concentrations in drinking water that corres-
+pond to carcinogenic risks of 10-4, 10-5, and 10-6. The
+concentrations were 68, 6.8, and .068 ,ug/L, respectively
+(229). In the 1980s, the National Research Council (NRC)
+(230) derived a short-term seven-day standard of12.6 mg/
+L for benzene in drinking waters using the data of Wolf
+et al. (40).
+Conclusion
+Although several hundred papers have been written
+over the past 50 years about the health hazards posed by
+benzene, we are not yet able to precisely identify the
+cancer potency factor for humans. There are several rea-
+sons for this: first, insufficient time has passed to allow a
+complete determination of long-term effects in the key
+occupational cohorts; second, we are not certainwhich low-
+dose extrapolation model is likelyto give the most accurate
+estimate of risk. As has been noted in the assessment of
+many carcinogens, the estimates generated by currently
+accepted dose-response models are generally the max-
+imum plausible ones and the actual risk at low doses may
+be zero. A third problem is the absence ofan animal model
+of benzene leukemogenesis, which prevents the direct
+investigation ofthe mechanism for benzene's carcinogenic
+effects in humans.
+Fortunately, more and better information is being devel-
+oped on the metabolism ofbenzene in humans and animals,
+and it is hoped that PBPK models will allow us to quan-
+titatively understand the likely human health hazard at
+low doses. Information on metabolism and indirect infor-
+mation on the likely mechanism of action, coupled with
+better estimates ofexposure for the cohorts being studied,
+would be able to provide more accurate estimates of the
+cancer risk at doses to which the general population is
+being exposed currently. Until then, it is likely that the
+EPA and other agencies will choose to regulate benzene in
+ambient air based on the incidence data from the rubber
+worker's cohort, the most recent exposure estimates for
+that group, and models that are considered most appropri-
+ate for benzene and/or for leukemia.
+Thanks are given to Carol Gillis, Peter Beatty, Peter Craig, and
+Richard Russell for their review of the paper.
+REFERENCES
+1. Greenburg, L. Benzol poisoning as an industrial hazard VI. Inten-
+sive study of selected industries with respect to factory conditions
+and pollution of the atmosphere by benzol. Public Health Rep. 41:
+1516-1539 (1926).
+2. Hamilton, A. Industrial Poisons in the United States. MacMillan,
+New York, 1929.
+3. Hamilton, A. Benzene (benzol) poisoning: general review. Arch.
+Pathol. 11: 601-637 (1931).
+4. Goldstein, B. D. Hepatotoxicity in humans. J. Toxicol. Environ.
+Health (suppl.) 2: 69-105 (1977).
+5. Vigliani, E. C. Leukemia associated with benzene. Ann. N.Y. Acad.
+Sci. 271: 143-151 (1976).
+6. Aksoy, M. Different types of malignancies due to occupational
+exposure to benzene: a review of recent observations in Tbrkey.
+Environ. Res. 23: 181-190 (1980).
+7. Infante, P. F., Rinsky, R. A., Waggoner, L. R., and Young, R. J.
+Leukemia in benzene workers. Lancet ii: 76-78 (1977).
+8. Wallace, L. Major sources of exposure to benzene and other volatile
+organic chemicals. Risk Anal. 10(1): 59-64 (1988).
+9. Wallace, L. A. Major sources of benzene exposure. Environ. Health
+Perspect. 82: 165-169 (1989).
+10. Weast, R. C., Lide, D. R., Astle, M. J., and Beyer, W. H. Handbook
+of Chemistry and Physics, 70th ed. CRC Press, Boca Raton, FL,
+1965.
+11. Mackay, D., and Leinonen, P. J. Rate of evaporation of low-solubility
+contaminants from water bodies to atmosphere. Environ. Sci. Tech-
+nol. 9: 1178-1180 (1975).
+12. Ayers, G.W., and Muder, R.E. Benzene. In: Kirk-Othmer
+Encyclopedia ofChemical Technology, Vol.3 (A. Stanton, Ed.), John
+Wiley and Sons, Philadelphia, 1964, pp. 367-401.
+13. IARC. Evaluation of the Carcinogenic Risk of Chemicals to
+Humans, Vol. 29. Benzene. International Agency for Research on
+Cancer, Lyon, 1982.
+14. Greenberg, J. P., and Zimmerman, P. Nonmethane hydrocarbons in
+the remote tropics continental and marine atmospheres. J. Geophys.
+Rev. 89: 4767-4778 (1984).
+15. Kiefer, D. M. Costs up, demand slack: pain for chemical firms. Chem.
+Eng. News 68: 26-28 (1990).
+16. Grayson, M., Othmer, D., Overburger, C., et al. Benzene. In: Kirk-
+Othmer Encyclopedia ofChemical Technology Abriged Version, Vol.
+24, John Wiley and Sons, New York, 1985, pp. 101-162.
+17. U.S. EPA. Benzene: Occurrence in Drinking Water, Food, and Air.
+Science and Technology Branch, Office of Drinking Water, EPA
+Contract No. 68-01-6388. U.S. Environmental Protection Agency,
+Washington, DC, 1983.
+18. Travis, C. C., and Arms, A. D. Bioconcentration of organics in beef,
+milk, and vegetation. Environ. Sci. Technol. 22(3): 271-274 (1988).
+19. ATSDR. Toxicological Profile for Benzene. Agency for Toxic Sub-
+stances and Disease Registry, U.S. Public Health Service, Atlanta,
+GA, 1988.
+20. Howard, P. H. Handbook ofEnvironmental Fate and Exposure Data
+for Organic Chemicals, Vol. 2. Solvents, Lewis Publishers, Chelsea,
+MI, 1990.
+21. PACE. A Study of Exposure to Motor Gasoline Hydrocarbon
+Vapours at Service Stations: Phase III-Winter Study. Report No.
+89-3, Petroleum Association for Conservation of the Canadian
+Environment, Ottawa, Canada, 1989.
+22. Kearney, C. A., and Dunham, D. B. Gasoline vapor exposures at a
+high volume service station. Am. Ind. Hyg. Assoc. J. 47(8): 535-539
+(1986).
+23. Clayton Environmental Consultants. Gasoline Vapor Exposure
+Assessment for the American Petroleum Institute (API). Clayton
+Project No. 31774.00, Detroit, MI, July 2, 1991.
+24. PACE. A Study of Exposure to Motor Gasoline Hydrocarbon
+Vapours at Service Stations: Phase II - Summer Study. Report No.
+87-5, Petroleum Association for Conservation of the Canadian
+Environment, Ottawa, Canada, 1987.
+25. NESCAUM. Evaluation of the Health Effects from Exposure to
+Gasoline and Gasoline Vapors. Final Report, Northeast Studies for
+Coordinated Air Use Management, August, 1989.
+26. Luken, R. H., and Miller, S. G. The benefits and cost ofbenzene. Vol.
+31, No. 12: 1254-1259, 1981.
+27. Reinhard, M., Goodman, N. L., and Barker, J. F. Occurrence and
+distribution of organic chemicals in two landfill leachate plumes.
+Environ. Sci. Technol. 18: 953-961 (1984).
+196 PAUSTENBACH ET AL.
+28. Snyder, R., and Kocsis, J. J. Current concepts of chronic benzene
+toxicity. CRC Crit. Rev: Toxicol. 8: 265-288 (1975).
+29. Snyder, R., Lee, E. W., Kocsis, J. J., and Witmer, C. M. Bone marriow
+depressant and leukogenic actions of benzene. Life Sci. 21: 1709-
+1722 (1977).
+30. Marcus, W. L. Chemical of curirient interest -Benzene. Toxicol. Ind.
+Health 3(1): 205-266 (1987).
+31. Kalf, G. F. Recent advances in the metabolism and toxicity of
+benzene. CRC Crit. Rev. Toxicol. 18(2): 141-159 (1987).
+82. Yardley-Jones, A., Anderson, D., and Parke, D. V. The toxicity of
+benzene and its metabolism and molecular pathology in human riisk
+assessment. Br. J. Ind. Med. 48: 437-444 (1991).
+33. IARC. Some Anti-thyroid and Related Substances, Nitrofurans and
+Industrial Chemicals. IARC Monographs on the Evaluation of the
+Carcinogenic Risk of Chemicals to Humans, Vol. 7. International
+Agency for Research on Canceir, Lyon, 1974.
+34. National Academy of Sciences. Health Effects of Benzene: A Review.
+Committee on Toxicology, Assembly of Life Sciences. National Acad-
+emy Priess, Washington, DC, 1976.
+35. NCI. On Occurrence, Metabolism, and Toxicity, including Reported
+Carcinogenicity of Benzene - Summary Report. National Cancer
+Institute, Bethesda, MD, 1977.
+36. NIOSH. Criteria for a Recommended Standcard ... Occupational
+Exposure to Benzene, HEW Publication no. (NIOSH) 74-137,
+PB-246 700. National Institute for Occupational Safety and Health,
+Washington, DC, 1974.
+37. NIOSH. Revised Recommendation for a Occupational Exposure
+Standard for Benzene. National Institute for Occupational Safety
+and Health, Washington, DC, 1977.
+38. Kimura, E. T., Ebert, D. H., and Dodge, P. W. Toxicol. Appl. Phar-
+macol. 19: 699 (1971).
+39. Carpenter, C. P., Shaffer, C. B., Weil, C. S., and Smyth, H. F. J. The
+inhalation 1,3-butadiene: a comparison ofits narcotic effect with that
+of benzene, toluene, and styrene, and a note on the elimination of
+styrene by the human subject. Ind. Hyg. Toxicol. 26: 69-78 (1944).
+40. Wolf, M. A., Rowe, V. K., McCollistei- D. D., Hollingsworth, R. L., and
+Oyen, F. Toxicological studies of certain alkylated benzene and
+benzene. Arch. Ind. Health 14: 387-398 (1956).
+41. Manyashin, Y. C., Savchenkov, M. F., and Sidney, G. Benzene toxicity
+for animals of various ages. Farmakol. Toksikol. 31(2): 250-253
+(1968).
+42. Bloomfield, C. D. Studies of health hazards in industry. Chemical
+hazards: benzol vapor. Ind. Health Month. 11: 62-64 (1951).
+43. Gerarde, H. W. The aromatic hydrocarbons. In: Industrial Hygiene
+and Toxicology, Vol. 2 (F. A. Patty, Ed.), John Wiley and Sons, New
+York, 1963, p. 555.
+44. Browning, E. Toxicity of Industrial Organic Solvents: Summaries of
+Published Work. Report No. 80, Committee on the Toxicity of
+Industrial Solvents, Medical Research Council, Industrial Health
+Research Board, London, 1937.
+45. Sappington, C. 0. Occupational morbidity and mortality. In: Essen-
+tials of Industrial Health. J. B. Lippincott, Philadelphia, 1950, p.555.
+46. Girard, R., and Revol, L. La frequence d'une exposition benzenique
+au cours hemopathies graves. Nouv. Rec. Fr. Hematol. 10: 477-484
+(1970).
+47. Paustenbach, D. J., Price, P. S., Ollison, W., Jernigan, J. D., Bass, R.
+D., Blank, C., and Peterson, H. D. A Reevaluation of benzene
+exposure for the Pliofilm (rubberworker) cohort (1936-1976). J.
+Environ. Toxicol. Health. 36: 177-231 (1992).
+48. Maltoni, C., and Scarnato, C. First experimental demonstration of
+carcinogenic effects of benzene, Long-ter m bioassays on
+Sprague-Dawley rats by oral administration. Med. Lav. 70: 352-
+357 (1979).
+49. Snyder, C. A., Goldstein, B. D., and Sellakumai- A. R. The inhalation
+toxicology of benzene: Incidence of hematopoietic neoplasms and
+hepatotoxicity in AKR/J and C57BL/6J mice. Toxicol. Appl. Phar-
+macol. 54: 323-331 (1980).
+50. Maltoni, C., Conti, B., and Cotti, G. Benzene: a multipotential car-
+cinogen, results of long-term bioassays performed at the Bologna
+Institute of Oncology. Am. J. Ind. Med. 4: 589-630 (1983).
+51. Maltoni, C., Cotti, G.,Valgirnigli, L., and Mandrioli, A. Zymbal gland
+carcinomas in rats following exposure to benzene by inhalation. Am.
+J. Ind. Med. 3: 11-16 (1982).
+52. Goldstein, B. D., Snyder, C. A., Laskin, S. O., Brombeig, I., Albert, R.
+E., and Nelson, N. Mvelogenous leukemia in rodents inhaling ben-
+zene. Toxicol. Lett. 13: 169-173 (1982).
+53. NTP. Toxicology and Carcinogenesis Studies of Benzene (CAS No.
+71-43-2) in F344/N Rats and B6C3F Mice (Gavage Studies). Techni-
+cal Report Series 289, National Toxicology Program, Thiangle Park,
+NC, 1986.
+54. Snyder, C. A., Goldstein, B. D., Sellakumar, A. R., and Albert, R. E.
+Evidence of the hematoxicity and tumorigenesis in rats exposed to
+100 ppm benzene. Am. J. Ind. Med. 5: 429-434 (1984).
+55. NTP. ToxicologyT and Carcinogenesis Studies of Benzene (CAS No.
+71-43-2) in F344/n Rats and B6C3F1 Mice. NIH Pub. No. 84-2545,
+National Toxicology Program, Research Thiangle Park, NC, 1986.
+56. Cronkite, E. P., Bullis, J. E., Inoue, T., and Drew, R. T. Benzene
+inhalation produces leukemia in mice. Toxicol. Appl. Pharmacol. 75:
+358-361 (1984).
+57. Medinsky, M. A., Sabourin, P. J., Lucier, G., Birnbaum, L. S., and
+Henderson, R. F. A toxicokinetic model for simulation of benzene
+metabolism. Exp. Pathol. 37: 150-154 (1989).
+58. Santesson, C. G. Chronic poisoning with coal tar benzene; four
+deaths, clinical and pathological-anatomical observation of several
+colleges and illustration animal experiments [in Geiman]. Arch.
+Hyg. (Munchen) 31: 336-376 (1887).
+59. Goldstein, B. D. Benzene toxicity. Occup. Med. State Art Rev. 3(3):
+541-554 (1988).
+60. Greenburg, L., Mayers, M. R., Goldwater, L., and Smith, A. R.
+Benzene (benzol) poisoning in the rotogravure printing industry in
+New York City. J. Ind. Hyg. Toxicol. 23: 395-420 (1939).
+61. Goldwater, L. J. Disturbances in the blood following exposure to
+benzol. J. Lab. Clin. Med. 26: 957-973 (1941).
+62. Goldwater, L. J., and Tewksbury, M. P. Recovery following exposure
+to benzene (benzol). J. Ind. Hyg. 23: 217-231 (1941).
+63. Wilson, R. Benzene poisoning in industry. J. Lab. Clin. Med. 27:
+1517-1521 (1942).
+64. Savilahti, M. More than 100 cases of benzene intoxication in a shoe
+factory: observations on hematological symptoms and course of the
+process in one year [in German]. Arch. Gewerbepathol. Gewerbehyg.
+15: 147-157 (1956).
+65. Pagnotto, L. D., Elkins, H. B., Brugsch, G., and Walkley, J. E.
+Industrial benzene exposure from petroleum naphtha: Rubber Coat-
+ing Industry. Am. Ind. Hyg. Assoc. J. 22: 217-245 (1961).
+66. Saita, G., and Vigliani, E. C. The action of benzene in inducing
+leukemia. Med. Lav. 53: 581-586 (1962).
+67. Tough, I. M., and Court-Brown, W. M. Chromosome aberrations and
+exposure to ambient benzene. Lancet i: 684 (1965).
+68. Hernberg, S., Savilahti, M., Ahlman, K., and Asp, S. Prognostic
+aspects of benzene poisoning. Br. J. Ind. Med. 23: 204-209 (1966).
+69. Aksoy, M., Dincol, K., Akgun, T., Erdem, S., and Dincol, G. Hema-
+tological effects of chronic benzene poisoning in 217 workers. Br. J.
+Ind. Med. 28: 296-302 (1971).
+70. Aksoy, M., Dincol, K., Erdem, S., and Dincol, G. Acute leukemia due
+to chronic exposure to benzene. Am. J. Ind. Med. 52: 160-166 (1972).
+71. Aksoy, M., and Erdem, S. Follow-up study on the mortality and the
+development of leukemia in 44 pancytopenic patients with chronic
+exposure to benzene. Blood 52: 285-292 (1978).
+72. Forni, A., Pacifico, E., and Limonta, A. Chromosome studies in
+workers exposed to benzene or toluene or both. Arch. Environ.
+Health 22: 373-354 (1971).
+73. Guberan, E., and Kocher, P. Pronostic lointain de l'intoxication
+benzolique chronique: controle d'une population 10 ans apres
+l'exposition. Schweiz. Med. Wochenschr. 101: 1789-1790 (1971).
+74. Chang, I. W. Study on the threshold limit value ofbenzene and early
+diagnosis ofbenzene poisoning. J. Cath. Med. Coll. 23: 429-43 (1972).
+75. Vigliani, E. C., and Forni, A. Benzene and leukemia. Environ. Res.
+11: 122-127 (1976).
+76. Wolman, S. R. Cytologic and cytogenetic effects of benzene. Toxicol.
+Environ. Health. (suppl.) 2: 63-68 (1977).
+77. Kipen, H. M., Cody, R. P., Crump, K. S., Allen, B. C., and Goldstein, B.
+D. Hematologic effects of benzene: a thirty-five year longitudinal
+study of rubber workers. Toxicol. Ind. Health 4: 411-430 (1988).
+78. Kipen, H. M., Cody, R. P., and Goldstein, B. D. Use of longitudinal
+analysis ofperipheral blood counts to validate historical reconstruction
+of benzene exposure. Environ. Health Perspect. 82: 199-206 (1989).
+RISK ASSESSMENT FOR BENZENE 197
+79. Elkins, H. B. The Chemistrv of Industrial Toxicology. John Wiley
+and Sons, New York, 1950.
+80. Wiernik, P. H. Acute leukemias. In: Cancer Principles and Practice
+of Oncology, Vol. 2, 3rd ed. (V. T. Devita, S. Hellman, and S. A.
+Rosenberg, Eds.), J. B. Lippincott Company, 1989, pp. 1809-1835.
+81. Rinsky, R. A., Young, R. J., and Smith, A. B. Leukemia in benzene
+workers. Am. J. Ind. Med. 2: 217-245 (1981).
+82. White, M. C., Infante, P. F., and Chu, K. C. A quantitative estimate of
+leukemia mortality associated with occupational exposure to ben-
+zene. Risk Anal. 4: 9-13 (1982).
+83. Bond, G. G., McLaren, E. A., Baldwin, C., and Cook, R. R. An update
+ofmortality among chemical workers exposed to benzene. Br. J. Ind.
+Med. 43: 685-691 (1986).
+84.Yin,S.N.,Li,G.L.,Tain,F.D.,Fu,Z.I.,Jin,C.,Chen,Y.J.,Luo,S.J.,
+Ye, P. Z., Zhang, J. Z., Wand, G. C., Zhang, X. C., Wu, H. N., and
+Zhong. Q. C. Leukemia in benzene workers: a rietrospective cohort
+study: I. General results. Br. J. Ind. Med. 44: 124-128 (1987).
+85. Wong, O., Harris, F., and Smith, T. J. Health effects of gasoline
+exposure. II. Mortality patterns of distribution workers in the
+United States. Environ. Health Perspect. 101(Suppl. 6) 63-76 (1993).
+86. Tareetf E. M., Kontchalovskaya, N. M., and Zorina, L. A. Benzene
+leukemias. Acta Unio Int. Cancrum 19: 751-755 (1963).
+87. Mallein, M. L., Byron, P. A., Fiere, D., and Girard, R. Cryptoleucose
+aigue ou "anemie refractaire" benzinique (Deux nouveaux cas). Arch.
+Mal. Prof. 32: 577-579 (1971).
+88. Lee, S. D., Kocsis, J. J., and Snyder, R. Acute effect of benzene on
+59Fe incorporation into circulating erythrocytes. Toxicol. Appl. Phar-
+macol. 27: 431-436 (1973).
+89. Sammett, D., Lee, E. W., Kocsis, J. J., and Snydei- R. Partial
+hepatectomy reduces both metabolism and toxicity of benzene. J.
+Toxicol. Environ. Health 5: 785 (1979).
+90. Wessel, J. The cancer hazard posed by aflatoxin. Regul. Toxicol.
+Pharmacol., in press 1993.
+91. Murray, F. J., John, J. A., Rampy, L. W., Kuna, R. A., and Schwetz, B.
+A. Embryotoxicity of inhaled benzene in mice and riabbits. Am. Ind.
+Hyg. Assoc. 40: 933-998 (1979).
+92. Nawrot, P. S., and Staples, R. E. Embyro-fetal toxicity and
+teratogenicity of benzene and toluene in the mouse. Teratology 19:
+41A (1979).
+93. Schwetz, B. A. A rieview of the development toxicity of benzene. Adcv
+Mod. Environ. Toxicol. 4: 17-21 (1983).
+94. Schrenk, H. H., Yant, W. P., Pearce, S. J., Patty, F. A., and Sayers, R.
+R. Absorption, distribution atnd elimination of benzene by body
+tissues and fluids of dogs exposed to benzene vapor. J. Ind. Hyg.
+Toxicol. 23: 20-34 (1941).
+95. Parke, D. V., and Williams, R. T. Studies in detoxication: the metabo-
+lism of benzene containing 14C benzene. Biochemistry 54: 231-238
+(1953).
+96. Andrews, L. S., Lee, E. W., Witmer, C. M., Kocsis, J. J., and Snyder,
+R. R. Effects of toluene on the metabolism, disposition and
+hemopoietic toxicity of H-benzene. Biochem. Pharmacol. 26: 293-
+300 (1977).
+97. Rickert, D. E., Baker, T. S., Bus, I. S., Barrow,C. S., and Irons, R. D.
+Benzene disposition in the rat after exposure by inhalation. Toxicol.
+Appl. Pharmacol. 49: 417-423 (1979).
+98. Sato, A., and Nakajima, T. Dose-dependent metabolic interaction
+between benzene and toluene in vivo and in vitro. Toxicol. Appl.
+Pharmacol. 48: 249-256 (1979).
+99. Timbrell, J. A., and Mitchell, J. R. Toxicity-related changes in
+benzene metabolism in I'o. Xenobiotica 7: 415-423 (1977).
+100. Srbova, J., Teisinger; J., and Skramovsky, S. Absorption and elimina-
+tion of inhaled benzene in man. Arch. Ind. Hyg. Occup. Med. 2: 1-8
+(1950).
+101. Norniyama, K., and Nomiyama, H. Respiratory elimination of
+organic solvents in man. Benzene, toluene, n-hexane, tri-
+chloroeythlene, acetone, ethyl acetate, and ethyl alcohol. Int. Arch.
+Arbeitsmed. 32: 85-91 (1974).
+102. Money, C. D., and Gray, C. N. Exhaled breath analysis as a measure
+ofworkplace exposure to benzene ppm. Ann. Occup. Hyg. 33(2): 257-
+262 (1989).
+103. Travis, C. C., Craig, P. H., and Bowers, J. C. Characterization of
+human exposure to ambient levels of benzene using pulmonary
+wash-out (lata. Atmos. Environ. 25a(8): 1643-1647 (1991).
+104. Brugone, F., Perbellini, L., Faccini, G.B., Pasini, F., Maranelli, G.,
+Romeo, L., Govvi, M., and Zedde, A. Breath and blood levels of
+benzene, toluene, cumene and styrene in nonoccupational exposure.
+Int. Arch. Occup. Environ. Health 61: 303-311 (1989).
+105. Teisingei- J., Bergerova-Fiserova, V., and Kudrna, J. The metabolism
+of benzene in man. Pracov. Lek. 4: 175-188 (1952).
+106. Gordon, S. M., Wallace, L. P., and Pellizzari, E. D. Human breath
+measurements in a clean-air chamber to determine half-lives for
+volatile organic compounds. Atmos. Environ. 22: 2165-2170 (1988).
+107. Henderson, R. F., Sabourin, P. J., Bechtold, W. E., Griffith, W. C.,
+Medinsky, M. A., Birnbaum, L. S., and Luciei- G. W. The effect of
+dose, dose riate, route of administration, and species on tissue ancd
+blood levels ofbenzene metabolites. Environ. Health Perspect. 82: 9-
+17 (1989).
+108. Snydei, R., Dimitriadis, E., Guy, R., Hu, P., Coopei- K., Bauei- H.,
+Witz, G., and Goldstein, B.D. Studies on the mechanism of benzene
+toxicity. Environ. Health Perspect. 82: 31-35 (1989).
+109. Irons, R. D., Dent, J. G., Baker, T. S., and Rickert, D. E. Benzene is
+metabolized and covalently bound in bone marrow in situ. Chem.-
+Biol. Interact. 30: 241-245 (1980).
+110. Gonasun, L. M., Witmer, C. M., Koscis, J. J., and Snyder, R. Benzene
+metabolism in mouse liver microsomes. Toxicol. Appl. Phar macol. 26:
+399-406 (1973).
+111. Jerina, D., Daly, J., Witkop, B., Zaltzman-Nirenberg, P., and
+Undenfriend, S. Role ofthe arene oxide-oxepin system in the metab-
+olism ofaromatic substrates io ititro conversion ofbenzene oxide to a
+premercapturic acid and dihydrodial. Arch. Biochem. Biophys. 128:
+176-183 (1968).
+112. Thnek, A., Platts, K.L., Przybylski, M., and Oesch, F. Multi-step
+activation of benzene, effects of superoxide dismutase on covalent
+binding to microsomal macromolecules, and identification of gluta-
+thione conjugates using high pressure liquid chromatography and field
+desorption mass spectrometry. Chem.-Biol. Interact. 33: 1-17 (1980).
+113. Hanzlik, R. P., Hogberg, K., and Judson, C. Microsomal hydroxylgla-
+tion of specifically deuterated monosubstituted benzenes, evidence
+for direct aromatic hydrolation. Biochemistry 23: 3048-3055 (1984).
+114. Sabourin, P. J., Bechtold, W. E., Birnbaum, L. S., Lucier, G., and
+Henderson, R. F. Differences in the metabolism and disposition of
+inhaled [3H]benzene by F344/N rats and B6C3F1 mice. Toxicol.
+Appl. Pharmacol. 94: 128-140 (1988).
+115. Brodfuehrer, J. I., Chapman, D. E., Wilke, T. J., and Powis, G.
+Comparative studies ofthe in vitro metabolism and covalent binding
+of "C benzene by liver slices and microsomal firaction of mouse, rat,
+and human. Drug Metab. Dispos. 18: 20-27 (1990).
+116. Sabourin, P. J., Chen, B. T., Luciei- G., Birnbaum, L. S., Fisher, E.,
+and Henderson, R. F. Effect of dose on the absorption and excretion
+of ["C]benzene administered orally or by inhalation in rats and mice.
+Toxicol. Appl. Pharmacol. 87: 1-12 (1987).
+117. Purcell, K. J., Cason, G. H., and Gargas, M. L. In vivo metabolic
+interactions ofbenzene and toluene. Toxicol. Lett. 52: 141-152 (1990).
+118. Ikeda, M., Ohtsuji, H., and Imamura, T. In vivo suppression of
+benzene and styrene oxidation by coadministered toluene in the riats
+and effects of phenobarbital. Xenobiotica 2: 101-106 (1972).
+119. Gad-El-Karim, M. M., Harper, B. L., and Legator, M. S. Modification
+of the clastogenetic effects of benzene in mice with toluene, phe-
+nobarbital, 3-methylcholanthrene, Aroclor 1254 and SKF 525A.
+Mutat. Res. 135(3): 225-243 (1984).
+120. Inoue, O., Seiji, K., Watanabe, T., Kasahara, M., Nakatsuka, H.,
+Songnian, Y., Li, G., Cai, S., Jin, C., and Ikeda, M. Mutual metabolic
+suppression between benzene and toluene in man. Occup. Environ.
+Health 60: 15-20 (1988).
+121. Ramsey, J. C., and Andersen, M. A physiologically based description
+of the inhalation pharmacokinetics of styrene in riats and humans.
+Toxicol. Appl. Pharmacol. 73: 159-175 (1984).
+122. Andersen, M. E., Clewell, H. J. III, Gargas, M. L., Smith, F. P., and
+Reitz, R. H. Physiologically-based pharmacokinetics and the risk
+assessment process for methylene chloride. Toxicol. Appl. Phar-
+macol. 87: 185-205 (1987).
+123. Paustenbach, D. J., Clewell, H. J., III, Gargas, M. L., and Andersen,
+M. E. A Physiologically-based pharmacokinetic model for inhaled
+carbon tetrachloride. Toxicol. Appl. Pharmacol. 96: 191-211 (1988).
+124. Travis, C. C., Quillen, J. L., and Arms, A. D. Pharmacokinetics of
+benzene. Toxicol. Appl. Pharm. 102: 400-420 (1990).
+198 PAUSTENBACH ET AL.
+125. Travis, C. C., and Bowers, J. Protein binding of benzene under
+ambient exposure conditions. Toxicol. Ind. Health 5(6): 1017-1024
+(1989).
+126. Travis, C. C., and Bowers, J. Altered pharmacokinetics of soil-
+absorbed benzene administered orally in the rat. Bull. Environ.
+Contam. Toxicol. 45: 197-207 (1990).
+127. Bois, F. Y., Woodruff, T. J., and Spear, R. C. Comparison of three
+physiologically-based pharmacokinetic models of benzene disposi-
+tion. Toxicol. Appl. Pharmacol. 110: 79-88 (1991).
+128. Bois, F. Y., Woodruff, T. J., Parker, J. D., Auslander, D. M., Selvin, S.,
+Spear, R. C., and Smith, M. T. Parameterization of physiological
+pharmacokinetic and multistage cancer models: the case ofbenzene in
+Fisher-344 rats. Presented at the Society for Risk Analysis Annual
+Meeting, October 29-November 1, 1989, San Francisco, CA, 1989.
+129. Spear, R. C., Bois, F. Y., Woodruff, T., Auslander, D., Parker, J., and
+Selvin, S. Modeling benzene pharmacokinetics across three sets of
+animal data: Parametric sensitivity and risk implications. Risk Anal.
+11(4): 641-654 (1991).
+130. Bois, F. Y., Smith, M. T., and Spear, R. C. Mechanisms of benzene
+carcinogenesis: Application of a physiological model of benzene
+pharmacokinetics and metabolism. Toxicol. Lett. 56: 283-298
+(1991a).
+131. Bois, F. Y., and Paxman, D. G. An Analysis ofExposure Rate Effects
+for Benzene Using a Physiologically Based Pharmacokinetic Model.
+Lawrence Berkeley Laboratory, University of California, Berkeley,
+CA, 1991.
+132. NIOSH. Recommendations for Occupational Safety and Health
+Standards, September 1986. MMWR 35(1S): 1-33.
+133. U.S. EPA. Carcinogen Assessment Group's Final Report on Popula-
+tion Risk to Ambient Benzene Exposures. EPA-450/5-80-004, U.S.
+Environmental Protection Agency, Office of Air Quality and Plan-
+ning Standards, Research Triangle Park, NC, 1979.
+134. OSHA. Occupational exposure to benzene; final rule. Fed. Reg. 52:
+34460-34578 (1987).
+135. Lamm, H. S., Walters, A. S., Wilson, R., Byrd, D. M., and Grunwald,
+H. Consistencies and inconsistencies underlying the quantitative
+assessment of leukemia risk from benzene exposure. Environ.
+Health Perspect. 82: 289-297 (1989).
+136. Rinsky, R. A., Smith, A. B., Homung, R., Filloon, T. G., Young, R. J.,
+Okun, A. H., and Landrigan, P. J. Benzene and leukemia: An
+epidemiologic risk assessment. N. Engl. J. Med. 316: 1044-1050
+(1987).
+137. Rinsky, R. A., Smith, A. B., Hornung, R., Filloon, R. G., Young, R. J.,
+Okun, H. A., and Landrigan, P. J. Benzene and Leukemia: An
+Epidemiologic Risk Assessment. National Institute for Occupational
+Safety and Health, Cincinnati, OH, 1986.
+138. Paxton, M. B., Chinchilli, V. M., Brett, S. M., and Rodricks, J. V. An
+update in the benzen (Pliofilm) cohort. Risk Anal., submitted 1993.
+139. DeGowin, R. L. Benzene exposure and aplastic anemia followed by
+leukemia 15 years later. J. Am. Med. Assoc. 185: 748-751 (1963).
+140. Ludwig, V. H., and Werthemann, A. Benzol-myelopathien. Schweiz.
+Med. Wochenschr. 92: 378-38 (1962).
+141. Robustelli Della Cuna, G., Favino, A., Biscaldi, G. P., and Pollini, G.
+Transformazione in leucemia acute di un caso di mielopatia involutiva
+benzolica. Haematologia 57: 65-89 (1972).
+142. Saita, G., and Vigliani, E. C. The action of benzene in inducing
+leukemia. Med. Lav. 53: 581-86 (1962).
+143. Sellyei, M., and Kelemen, E. Chromosome study in a case of gran-
+ulocytic leukemia with "pelgerisation" seven years after benzene
+pancytopenia. Eur. J. Cancer 7: 83-85 (1971).
+144. Vigliani, E. C., and Saita, G. Benzene and leukemia. N. Engl. J. Med.
+172: 872-876 (1964).
+145. U.S. EPA. Interim Quantitative Cancer Unit Risk Estimates Due to
+Inhalation of Benzene. Prepared for the Office of Air Quality
+Planning and Standards by Carcinogen Assessment Group.
+EPA-600/X-85-022, U.S. Environmental Protection Agency, 1985.
+116. Thorslund, T. W., Hegner, R. E., Anver, M. R., and Voytek, P. R.
+Quantitative Reevaluation ofthe Human Leukemia Risk Associated
+with Inhalation Exposure to Benzene. Submitted to the American
+Petroleum Institute by Clement Associates, Fairfax, VA, 1988.
+147. Voytek, P. E., and Thorslund, T. W. Benzene risk assessment: Status
+of quantifying the leukemogenic risk associated with the low dose
+inhalation of benzene. Risk Anal. 11(3): 355-357 (1991).
+148. Glatt, H., Padykula, R., Berchtold, G. A., Ludewig, G., Platt, K. L.,
+Klein, J., and Oesch, F. Multiple activation pathways of benzene
+leading to products with varying genotoxic characteristics. Environ.
+Health Perspect. 82: 81-89 (1989).
+149. ATSDR. Toxicological Profile for Benzene. Agency for Toxic Sub-
+stances and Disease Registry, U.S. Public Health Service, Atlanta,
+GA, 1989.
+150. Erexson, G. L., Wilmer, J. L., Steinhagen, W. H., and Kligerman, A.
+D. Induction of cytogenetic damage in rodents after short-term
+inhalation of benzene. Environ. Mutagen. 8: 29-40 (1986).
+151. Reddy, M. V., Blackburn, G. R., Schreiner, C. A., Mechlman, M. A.,
+and Mackerer, C. R. 32P analysis of DNA adducts in tissues of
+benzene-treated rats. Environ. Health Perspect. 82: 252-257 (1989).
+152. Subrahmanyan, V. V., Ross, D., Eastmond, D. A., and Smith, M. T.
+Potential role of free radicals in benzene-induced myelotoxicity and
+leukemia. Free Rad. Biol. Med. 11, in press 1993.
+153. Hedli, C. C., Snyder, R., and Witmer, C. M. Bone marrow DNA
+adducts and bone marrow cellularity following treatment with ben-
+zene metabolites. Adv. Exp. Biol. Med. 283: 745-748 (1990).
+154. Gad-El-Karim, M. M., Sadagopa Ramanujam, V. M., and Legator, M.
+S. Correlation between the induction of micronuclei in bone marrow
+by benzene exposure and the excretion of metabolites in urine of
+CD-1 mice. Toxicol. Appl. Pharmacol. 85: 464-477 (1986).
+155. Thnek, A., Hogstedt, B., and Olofsson, T. Mechanisms of benzene
+toxicity: Effects of benzene and benzene metabolites on bone mar-
+row cellularity, number ofgranulopoietic stem cells and frequency of
+micronuclei in mice. Chem.-Biol. Interact. 39: 129-138 (1982).
+156. Tice, R. R., Costa, D. L., and Drew, R. T. Cytogenetic effects of
+inhaled benzene in murine bone marrow: Induction of sister chro-
+matide exchanges, chromosomal aberrations and cellular prolifera-
+tion inhibition in DBA/2 mice. Proc. Natl. Acad. Sci. U.S.A. 77(4):
+2148-2152 (1980).
+157. Au, W. W., Ramanujam, V. M. S., Ward, J. B., Jr., and Legator, M. S.
+Chromosome aberrations in lymphocytes of mice after sub-acute
+low-level inhalation exposure to benzene. Mutat. Res. 260: 219-224
+(1991).
+158. Pollini, G., and Colombi, R. Lymphocyte chromosome damage in
+benzene blood dyscrasia. Med. Lav. 55: 641-654 (1964).
+159. Vigliani, E.C., and Forni, A. Benzene and leukemia. Environ. Res. 11:
+122-127 (1976).
+160. Picciano, D. Cytogenetic study of workers exposed to benzene.
+Environ. Res. 19: 33-38 (1979).
+161. Watanabe, T., Endo, A., Kato, Y., Shina, S. Cytogenetics and
+cytokinetics of cultured lymphocytes from benzene-exposed
+workers. Int. Arch. Occup. Environ. Health 46(1): 31-42 (1980).
+162. Yardley-Jones, A., Anderson, D., Jenkinson, P. C., Lovell, D. P.,
+Blowers, S. D., and Davis, M. J. Genotoxic effects in peripheral blood
+and urine or workers exposed to low level benzene. Br. J. Ind. Med.
+45: 694-700 (1988).
+163. Yardley-Jones, A., Anderson, D., Lovell, D. P., and Jenkinson, P. C.
+Analysis of Chromosomal aberrations in workers exposed to low
+level benzene. Br. J. Ind. Med. 47: 48-51 (1990).
+164. Seiji, K., Jin, C., and Watanabe, T. Sister chromatid exchanges in
+peripheral lymphocytes of workers exposed to benzene, tri-
+chloroethylene or tetrachloroethylene. Int. Arch. Occup. Environ.
+Health 62: 171-176 (1990).
+165. Longacre, S., Kocsis, J., and Snyder, R. Influence of strain dif-
+ferences in mice on the metabolism and toxicity of benzene. Toxicol.
+Appl. Pharmacol. 60: 398-409 (1981a).
+166. Sawahata, T., Rickert, D. E., and Greenlee, W. F. Metabolism of
+benzene and its metabolites in bone marrow. In: Toxicology of the
+Blood and Bone Marrow (R. D. Irons, Ed.), Raven Press, New York,
+1985, pp. 141-148.
+167. Gad-El-Karim, M., Sadagopa Ramanujam, V. M., Ahmed, A. A., and
+Legator, M. S. Benzene myeloclastogenicity: a function ofits metab-
+olism. Am. J. Ind. Med. 7: 475-484 (1985).
+168. Gaido, K. W., and Wierda, D. Suppression of bone marrow stromal
+cell function by benzene and hydroquinone is ameliorated by indom-
+ethacin. Toxicol. Appl. Pharmacol. 89: 378-390 (1987).
+169. Goldstein, B. D. Introduction: Occam's razor is dull. Environ. Health
+Perspect. 82: 3-6 (1989).
+170. Cox, L. A. Biological basis ofchemical carcinogenesis: insights from
+benzene. Risk Anal. 11(3): 453-481 (1991).
+RISK ASSESSMENT FOR BENZENE 199
+171. Witz, G., Rao, G. S., and Goldstein, B. D. Short-term toxicity oftrans,
+trans-mucondialdehyde. Toxicol. Appl. Pharmacol. 80: 511-516
+(1985).
+172. Monks, T. J., Hanzlik, R. P., Cohen, G. M., Ross, R., and Graham, D. G.
+Quinone chemistry and toxicity. Toxicol. Appl. Pharmacol. 112(1):
+2-16.
+173. Forni, A. M., Cappellini, A., Pacifio, E., Viglian, E. C. Chromosomal
+changes and their evolution in subjects with past exposures to
+benzene. Arch. Environ. Health 23: 285-394 (1971).
+174. Dean, B. J. Genetic toxicology of benzene, toluene, xylenes and
+phenols. Mutat. Res. 47: 75-97 (1978).
+175. Irons, R. D. Quinones as toxic metabolites of benzene. J. Toxicol.
+Environ. Health 16: 673-678 (1985).
+176. NCI. Bioassay of Phenol for Possible Carcinogenicity. Report No.
+PB 8021 7946, National Cancer Institute, Bethesda, MD, 1980.
+177. Cassidy, M. K., and Houston, J. B. In vivo assessment ofextrahepatic
+conjugative metabolism in first pass effects using the model com-
+pound phenol. J. Pharm. Pharmacol. 32: 57-59 (1980).
+178. Cassidy, M. K, and Houston, J. B. In vivo capacity of hepatic and
+extrahepatic enzymes to conjugate phenol. Drug Metab. Dispos. 12:
+619-624 (1984).
+179. Johansson, I., and Ingelman-Sundberg, M. Hydroxyl radical-
+medicated cytochrome P-450-dependent metabolic activation ofben-
+zene in microsomes and reconstituted systems from rabbit liver. J.
+Biol. Chem. 258: 7311-7316 (1983).
+180. Chepiga, T. A., Yang, C. S., and Snyder, R. Benzene metabolism by
+two purified reconstituted hepatic mixed function oxidase systems.
+In: Fourth International Symposium, Thcson, AZ, January 14-17,
+1990. Plenum Publishing, New York, in press.
+181. Smith, M. T., Yager, J. W., Steinmetz, K. L., and Eastmond, D. A.
+Peroxidase-dependent metabolism ofbenzene's phenolic metabolites
+and its potential role in benzene toxicity and carcinogenicity.
+Environ. Health Perspect. 82: 23-29 (1989).
+182. Crawford, D. R., and Greenberger, J. S. Active oxygen transforms
+murine myeloid progenitor cells in vitro. Int. J. Cancer 49: 744-749
+(1991).
+183. Subrahanyan, V. V., McGirr, L. G., and O'Brien, P. J. Peroxidase/
+hydrogen peroxide- or bone marrow homogenate/hydrogen
+peroxide-mediated activation of phenol and binding to protein.
+Xenobiotica 20: 1369-1378 (1990).
+184. Irons, R. D. Studies on the mechanisms of chernically induced
+leukemiallymphoma. CIIT Activities 8(1): 1-8 (1988).
+185. Eastmond, D. A., Smith, M. T., and Irons, R. D. An interaction of
+benzene metabolites reproduces the myelotoxicity observed with
+benzene exposure. Toxicol. Appl. Pharmacol. 91: 85-95 (1987).
+186. Luke, C. A., Tice, R. R., and Drew, R. T. The effect of exposure
+regimen and duration of benzene-induced bone marrow damage in
+mice I. Sex comparison, in DBA/2 mice. Mutat. Res. 203: 251-271
+(1988).
+187. Luke, C. A., Tice, R. R., and Drew, R. T. The effect of exposure
+regimen and duration on benzene-induced bone marrow damage in
+mice. II. Strain comparisons involving B6C3F1, C57B1/6 and DBA/2
+male mice. Mutat. Res. 203: 273-295 (1988).
+188. DaSilva, C., Fan, X., and Castaga, M. Benzene-mediated protein
+kinase C activation. Environ. Health Perspect. 82: 91-95 (1989).
+189. Gaido, K. W., and Weirda, D. Modulation of stromal cell function in
+DBA/2J and B6C3F1 mice exposed to benzene or phenol. Toxicol.
+Appl. Pharmacol. 81: 469-475 (1985).
+190. King, A. G., Landreth, K. S, and Wierda, D. Hydroquinone inhibits
+bone marrow pre-B cell maturation in vitro. Mol. Pharmacol. 32:
+807-812 (1988).
+191. Wong, 0. An industrywide mortality study of chemical workers
+occupationally exposed to benzene. II. Dose-response analyses. Br.
+J. Ind. Med. 44: 382-395 (1987).
+192. Ott, M. G., Townsend, J. C., Fishbeck, W. A., and Langner, R. A.
+Mortality among individuals occupationally exposed to benzene.
+Arch. Environ. Health 33: 3-10 (1978).
+193. Bond, G. Survey of Various Concentrations of Benzene Measured
+during Various Chemical Manufacturing Operations between 1944-
+1965. Dow Chemical Company, Midland, MI, 1991.
+194. Infante, P. F., and White, W. C. Benzene: epidemiologic observations
+ofleukemia cell type and adverse health effects associated with low-
+level exposure. Environ. Health Perspect. 52: 75-82 (1983).
+195. Tabershaw, I. R., and Lamm, S. H. Benzene and leukemia (letter).
+Lancet ii: 867-868 (1977).
+196. Rinsky, R. A. Benzene and leukemia: an epidemiologic risk assess-
+ment. Environ. Health Perspect. 82: 189-191 (1989).
+197. Crump, K. C., and Allen, B. C. Quantitative Estimates ofthe Risk of
+Leukemia from Occupational Exposure to Benzene. Prepared for the
+Occupational Safety and Health Administration, Washington, DC,
+May, 1984.
+198. Rushton, L. A 39-year follow-up ofthe UK oil refinery and distribu-
+tion centre studies: results for kidney cancer and leukemia. Environ.
+Health Perspect. 101(Suppl. 6): 77-84 (1993).
+199. Infante, P. F. Benzene and leukemia: the 0.1-ppm ACGTH proposed
+threshold limit value for benzene. Appl. Environ. Hyg. 7(4): 253-262
+(1992).
+200. Schnatter, A. R., Katz, A. M., Nicolich, M. J., and Theriault. A
+retrospective mortality study among Canadian petroleum distribu-
+tion workers. Environ. Health Perspect. 101(Suppl. 6): 85-99 (1993).
+201. API. Analysis of Foods for Benzene- Health and Environmental
+Sciences Report. Prepared by the William P. Rose National Food
+Laboratory Inc. for the American Petroleum Institute, Washington,
+DC, January, 1992.
+202. White, M. C., Infante, P. F., and Walker, B. Occupational exposure to
+benzene: a review ofcarcinogenic and related health effects following
+the U.S. Supreme Court decision. Am. J. Ind. Med. 1: 233-243 (1980).
+203. Anderson, E. L. Quantitative approaches in use to assess cancer
+risk. Risk Anal. 3: 277-295 (1983).
+204. American Conference of Governmental Industrial Hygienists.
+Notice ofintended changes for benzene. Appl. Occup. Environ. Hyg.
+5(7): 453-463 (1991).
+205. Summary of the Workshop on the Evaluation of Empirical and
+Biologically-based Dose Response Models for Inhaled Benzene
+Induced Leukemia. Leavey Conference Center, Georgetown Univer-
+sity, Washington, DC, January 23-24, 1989. Prepared for The
+American Petroleum Institute, Washington, DC, February, 1989.
+206. Austin, H., Delzell, E., and Cole, P. Benzene and leukemia: a review of
+the literature and a risk assessment. Am. J. Epidemiol. 127:419-439
+(1988).
+207. Brett, S. M., Rodricks, J. V., and Chinchilli, V. M. Review and update
+of leukemia risk potentially associate with occupational exposure to
+benzene. Environ. Health Perspect. 82: 267-281 (1989).
+208. Blank, I. H., and McAuliffe, D. J. Penetration of benzene through
+human skin. J. Invest. Dermatol. 85: 522-526 (1985).
+209. Hanke, J., Dutkiewicz, T., and Piotrowski, J. The absorption of
+benzene through the skin in man. Med. Pract. 12: 413-426 (1961).
+210. Lazarew, N. V., Brussilowakaja, A. J., Lavroff, I. N., and Lifachitz, F.
+B. On the perrneability of the skin to benzin and benzene. Arch.
+Hyg. Bakteriol. 106: 112-122 (1931).
+211. Maibach, H. I., and Anjo, D. M. Percutaneous penetration ofbenzene
+and benzene contained in solvents used in the rubber industry. Arch.
+Environ. Health 36: 256-260 (1981).
+212. Franz, T. J. Percutaneous absorption ofbenzene. In: Applied Toxicol-
+ogy ofPetroleum Hydrocarbons (MacFarland, H. N., Holdsworth, C.
+E., MacGregor, R. W. J. A., Call, R. W., and Kane, M. L., Eds.),
+Princeton Scientific Publishers, Princeton, NJ, 1984, pp. 61-70.
+213. McKone, T. E. Dermal uptake of organic chemicals from a soil
+matrix. Risk Anal. 10: 407-419 (1990).
+214. Burmaster, D. E., and Maxwell, N. I. Time- and loading-dependence
+in the McKone Model for dermal uptake oforganic chemicals from a
+soil matrix. Risk Anal. 11(3): 491-497 (1991).
+215. OSHA. Docket H-059. Benzene. Technical Data Center, Occupa-
+tional Safety and Health Administration, Washington, DC, 1977.
+216. Wallace, L. A., Pellizzari, E. D., Hartwell, T. D., Sparacino, C. M.,
+Sheldon, L. S., and Zelon, H. Personal exposures, indoor-outdoor
+relationships, and breath levels of toxic air pollutants measured for
+355 persons in New Jersey. Atmos. Environ. 19: 1651-1661 (1984).
+217. Wallace, L. A., and Pellizzari, E. D. Personal air exposures and
+breath concentrations ofbenzene and othervolatile hydrocarbons for
+smokers and nonsmokers. Toxicol. Lett. 35: 113-116 (1986).
+218. U.S. EPA. Presentation at CASAC Review. Office of Research and
+Development, U.S. Environmental Protection Agency, Washington,
+DC, 1988.
+219. Lofroth, G., Burton, R. M., Forehand, L., Hammond, S. K., Seila, R.
+L., Zweidinger, R. B., and Lewtas, J. Characterization of Environ-
+mental Tobacco Smoke. Environ. Sci. Technol. 23: 610-614 (1989).
+200 PAUSTENBACH ET AL.
+220. Wester, R. C., Mailbach, H. I., Gruenke, L. D., and Craig, J. C.
+Benzene levels in arnbient air and breath of smokers and non-
+smokers in urban and pristine environments. J. Toxicol. Environ.
+Health 18: 567-573 (1986).
+221. Young, R. J., Rinsky, R. A., and Infante, P. F. Benzene in consumer
+products. Science 199: 248 (1978).
+222. Drill, S., and Thomas, R. Environmental Sources of Benzene Expo-
+sure: Source Contribution Factors. EPA 570/9-79-004, Prepared by
+Mitre Corporation for the U.S. Environmental Protection Agency,
+Washington, DC, 1979.
+223. Stack, T. M., Steele, D. H., Remmers, J., and Hammerstrom, K.
+Consumer products as potential sources of indoor air pollution.
+Presented at the Industrial Hygiene Conference on Measuring,
+Understanding, and Predicting Exposures in the 21st Century,
+Westin Peachtree Plaza, Atlanta, GA, November 18-21, 1991.
+224. Mallory, T. B., Gall, E. A., and Brickley, W. J. Chronic exposure to
+benzene (benzol) III: Thepathologic results. J. Ind. Hyg. 21: 355-377
+(1939).
+225.40 CFR Part 61. U.S. Environmental Protection Agency. National
+Emission Standards for Hazardous Air Pollutants; Benzene Emis-
+sions from Maleic Anhydride Plants, Ethylbenzene/Styrene Plants,
+Benzene Storage Vessels, Benzene Equipment Leaks, and Coke By-
+Product Recovery Plants; Proposed Rules. 53(145), 1988.
+226.40 CFR Part 61. U.S. Environmental Protection Agency. National
+Emission Standards for Hazardous Air Pollutants; Benzene Emis-
+sions from Chemical Manufacturing process Vents, Industnal Sol-
+vent Use, Benzene Waste Operations, Benzene Transfer Operations,
+and Gasoline Marketing System; Proposed Rules. 54(177), 1989.
+227.40 CFR Part 61. U.S. Environmental Protection Agency. National
+Emission Standards for Hazardous Air Pollutants; Benzene Emis-
+sions from Maleic Anhydride Plants, Ethylbenzene/Styrene Plants,
+Benzene Storage Vessels, Benzene Equipment Leaks, and Coke By-
+Product Recovery Plants; Rules and Regulations. 54(177), 1989.
+228.49 FR 24330. U.S. Environmental Protection Agency. National
+Primary Drinking Water Regulations; Volatile Synthetic Organic
+Chemicals; Proposed Rulemaking, 1984.
+229. 52 FR 25690. U.S. Environmental Protection Agency. National
+Primary Drinking Water Regulations-Synthetic Organic Chemi-
+cals; Monitoring for Unregulated Contaminants; Final Rule, 1987.
+230. National Research Council. Drinking Water and Health, Vol. 3.
+National Academy Press, Washington, DC, 1980, pp. 261-262.
+231. U.S. EPA. National AmbientVolatile Organic Compounds Data Base
+Update. EPA 600/3-88/OlOa, Washington, DC, 1988.
+232. Patty's Industrial Hygiene and Toxicology, Vol. 2B (G. D. Clayton
+and F. F. Clayton, Eds.). Toxicology, 3rd ed. John Wiley and Sons,
+New York, 1981, 3263.
+233. Abderhalden's Handbook Biol. Arbeitsmethod. 4: 349 (1935).
+234. Keplinger, M. L., Lanier, G. E., and Deichmann, W. R. Effects of
+environmental temperature on the acute toxicity of a number of
+compounds in rats. Toxicol. Appl. Pharmacol. 1: 156 (1959).
+235. Patty's Industrial Hygiene and Toxicology, Vol. 2B. Toxicology, 3rd
+ed. John Wiley and Sons, New York, 1981.
+236. Patty's Industrial Hygiene and Toxicology, Vol. 2B. Toxicology, 3rd
+ed. John Wiley and Sons, New York, 1981.
+237. Harper, C., Drew, R. T., and Fouts, J. R. Species differences in
+benzene hydroxylaaon to phenol by pulmonary and hepatic micro-
+somes. Drug Metab. Dispos. 3: 381-388 (1975).
+238. Von Oettingen, W. F. Public Health Bulletin No. 225. U.S. Public
+Health Service, Washington, DC, 1940.
+239. Svirbely, J. L., Dunn, R. C., and Von Oettingen, W. F. J. Ind. Hyg.
+Toxicol. 25: 366 (1943).
+240. Leong, B. K. Experimental benzene intoxication. J. Toxicol. Environ.
+Health (suppl.) 2: 45 (1977).
+241. Peronnet, M. J. Pharmacol. Chem. 21: 503 (1935).
+242. Hamilton, A. Industrial Toxicology. Harper and Bros, New York,
+1934, pp. 156-165.
+243. Delore, P., and Borgomano, C. Leucemie aigue au cours de l'intoxication
+benzenique. Sur l'origine toxique de cenaines leucemies aigues et leurs
+relations avec les anemies graves. J. Med. Lyon 9: 227-233 (1928).
+244. Bousser, J. R., Neude, R., and Fabre, A. Un cas all homeopathic
+benzolique tres relardee un type de lymposarcome. Bull. Mem. Soc.
+Med. Hop. Paris 63: 1100 (1947).
+245. Galavotti, B., and Troisi, F. M. Erythroleukemia myelosis in benzene
+poisoning. Br. J. Ind. Med. 7: 79-81 (1950).
+246. Digulielmo, G., and Iannaccone, A. Inhibition ofmitosis and regres-
+sive changes of erythroblasts in acute erythropathy caused by
+occupational benzene poisoning. Arch. Haematol. 19:144-147 (1958).
+247. Rozman, C., Woessner, S., and Saez-Serrania, J. Acute erythromyelo-
+sis after benzene poisoning. Acta. Haematol. 40: 234-237 (1968).
+248. Forni, A., and Moreo, L. Cytogenetic studies in a case of benzene
+leukaemia. Eur. J. Cancer 3: 251-255 (1967).
+249. Appuhn, E., and Goldeck, H. Fruh-und spatschaden der blutbidung
+durch benzol und seine homologen. Arch. Gewerbepathol. Gewer-
+behyg. 15: 399-428 (1957).
+250. Kohli, P., Brunner, H. E., and Siegenthaler, W. Erythtroleukamie
+nach chronischer benzolintoxikation. Unterschung der ferro-und
+erythrocytenkinetik mitradioactivem eisen und chrom. Scheiz. Med.
+Wochenschr. 97: 368-373 (1967).
+251. DeGowin, R. L. Benzene exposure and aplastic anemia followed by
+leukemia 15 years later. J. Am. Med. Assoc. 185: 748-751 (1963).
+252. Browning, E. Toxicity and Metabolism of Industrial Solvents.
+Elsevier, New York, 1965.
+253. Goguel, A., Cavigneaux, A., and Bernard, J. Benzene leukemias. Bull.
+Inst. Natl. Sante Rech. Med. 22: 421-441 (1967).
+254. Torres, A., Giralt, M., and Raichs, A. Coexistencia de antecedents
+benzolicas cronicos 4 plasrnocitoma multiple presentation de dos
+coses. Sangre 15: 275-279 (1970).
+255. Ishimaru, T., Okadu, H., Tomiyasu, T., Tsuchimoto, T., Hoshino, T.,
+and Ichimaru, M. Occupational factors in the epidemiology ofleuke-
+mia in Hiroshima and Nagasaki. Am. J. Epidemiol. 93: 157-165
+(1971).
+256. Emile-Weil, M.P. La leucimie post-benzolique. Bull. Mem. Soc. Med.
+Hop. Paris 47: 193-198 (1932).
+257. Oldfelt, C. O., and Knutson, D. Chronic benzene poisoning. Acta.
+Med. Scand. (suppl.) 206: 331-342 (1948).
+258. Curletto, R., and Ciconali, M. Hematological disorders in benzene
+poisoning. Med. Lav. 53: 505-546 (1962).
+259. Inceman, S., and Tangun, Y. Impaired platelet-collagen reaction in a
+case ofacute myeloblastic leukemia due to chronic benzene intoxica-
+tion. Thrk. Tip. Cemiy. Mecm. 35: 417-424 (1969).
+260. Kinoshita, Y, Terada, H., and Saito, H. A case of myelogenous
+leukemia. I. Jpn. Haematol. Soc. 85-96 (1965).
+261. Tzanck, A., Dreyfus, A., and Jais, M. Hemopathie post-benzolique et
+leucoblastose medullaire. Sangre 11: 550-557 (1937).
+262. Zini, C., and Alessandri, M. Anomalia leucocitaria pseudo-
+pelgeriana in un caso di emopatia benzolica con leucosi acuta termi-
+nale. Haematologica 52: 258-266.
+263. Gallinelli, R. Acute paramyeloblastic leukosis due to chronic benzene
+poisoning in a student mosaicist. Med. Lav. 57: 257-261 (1966).
+264. McMichael, A. J., Spiritasa, R., Kupper, L. L., and Gamble, J. F.
+Solvent exposures and leukemia among rubber workers: an epi-
+demiological study. J. Occup. Med. 17: 234 (1975).
+265. Monson, R. R., and Nakano, E. K. Mortality among rubber workers.
+Am. I. Epidemiol. 103: 284-297 (1976).
+266. Arp, E. W., Wolf, R H., and Checkoway, H. Lymphocytic leukemia and
+exposures to benzene and other solvents in industry. J. Ind. Med. 25:
+598-602 (1983).
+267. Zenz, C. Benzene: Attempts to establish a lower exposure standard
+in the United States: a review. Scand. J. Work Environ. Health 4:
+103-113 (1978).
+268. Vianna, N. J., and Polan, A. Lymphomas and occupational benzene
+exposure. Lancet i: 1394-1395 (1979).
+

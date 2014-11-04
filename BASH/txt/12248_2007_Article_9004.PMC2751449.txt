@@ -1,0 +1,728 @@
+Review Article
+Themed Issue: Bioinformatics and Computational Advances in the Pharmaceutical Sciences
+Guest Editor: Murali Ramanathan
+Informatic Tools and Approaches in Postmarketing Pharmacovigilance
+Used by FDA
+Joyce Weaver,1,2
+Mary Willy,1
+and Mark Avigan1
+Received 24 September 2007; accepted 21 November 2007; published online 25 January 2008
+Abstract. The safety proﬁle of newly approved drugs and therapeutic biologics is less well developed by
+pre-marketing clinical testing than is the efﬁcacy proﬁle. The full safety proﬁle of an approved product is
+established during years of clinical use. For nearly 40 years, the FDA has relied on the voluntary
+reporting of adverse events by healthcare practitioners and patients to help establish the safety of
+marketed products. Epidemiologic studies, including case series, secular trends, case-control and cohort
+studies, are used to supplement the investigation of a safety signal. Ideally, active surveillance systems
+would supplement the identiﬁcation and exploration of safety signals. The FDA has implemented a
+number of initiatives to help identify safety problems with drugs and continues to evaluate their efforts.
+KEY WORD: postmarketing product surveillance.
+POSTMARKETING PRODUCT SURVEILLANCE
+The Food and Drug Administration (FDA) is responsible
+for making sure marketed drugs and biologics are both
+efﬁcacious and safe. At the time of FDA approval of drugs
+and therapeutic biologics, there is an imbalance in what is
+known about the efﬁcacy and safety of the products. The
+efﬁcacy data are robust; efﬁcacy is well established by the
+randomized clinical trial data submitted to support the new
+drug application (NDA) or biologic licensing application
+(BLA). Less is known about the safety of newly approved
+drugs because clinical trials are not powered to detect rare
+drug-induced adverse events. Little is known about the safety
+of the products in a diverse (in age, ethnicity, gender, and co-
+morbidities) population because the clinical trial subjects often
+do not reﬂect the more diverse patient population in which the
+products will be used after approval. Often narrow indications
+are studied in clinical trials, but the reasons for use broaden
+when the product is introduced into clinical practice. The
+clinical studies are short in duration, and do not reﬂect chronic
+use that may occur in clinical practice. The full safety proﬁle of
+the drug emerges over a period of years of use in clinical
+practice as the drug is used in a wider and more diverse patient
+population than occurred in pre-marketing clinical trials. The
+full safety proﬁle of an approved product is established during
+years of clinical use as healthcare practitioners and patients
+report their adverse experiences with the product and as the
+product is studied in epidemiologic studies.
+FDA’S ADVERSE EVENT REPORTING SYSTEM
+(AERS)
+The reports of adverse events that occur in clinical
+practice are voluntarily reported by healthcare practitioners
+and patients to the pharmaceutical manufacturers or directly
+to the FDA. These case reports are placed into a computer-
+ized safety database at the FDA, the Adverse Event
+Reporting System (AERS), a database that contains sponta-
+neously reported cases. AERS, a computerized database
+which began nearly 40 years ago, is a database containing
+over 3 million case reports. With the spontaneously reported
+cases that are stored within the AERS database, the FDA
+gathers safety data relatively inexpensively to allow the
+detection of events not seen in clinical trials (1). Exploration
+of the cases stored within AERS is especially useful for
+detecting rare events associated with a drug product (2).
+Because a healthcare practitioner is more likely to suspect
+that an event is attributable to drug exposure if the event
+occurs fairly quickly after drug exposure, events with short
+latency following drug exposure are more likely to be
+reported to the FDA and therefore stored within AERS.
+Because AERS comprises spontaneously reported case
+reports, it has important limitations as a tool in detecting and
+exploring drug safety problems. The database contains duplicate
+reports because more than one person may report the same
+event. Although duplicate reports may be submitted for some
+events, a bigger problem with AERS is extensive underreport-
+ing, the true extent of which is not known (1). Because busy
+healthcare practitioners are submitting the bulk of the reports
+35 1530-9932/08/0100-0035/0 # 2007 American Association of Pharmaceutical Scientists
+The AAPS Journal, Vol. 10, No. 1, March 2008 (# 2007)
+DOI: 10.1208/s12248-007-9004-5
+1
+Ofﬁce of Surveillance and Epidemiology, Center for Drug Evalua-
+tion and Research, Food and Drug Administration, 10903 New
+Hampshire Ave., Silver Spring, MD 20903-0002, USA.
+2
+To whom correspondence should be addressed. (e-mail: joyce.
+weaver@fda.hhs.gov)
+contained within AERS, the quality of the reports is variable;
+the reports often lack data critical for the evaluation of the
+event.
+The cases submitted to AERS may be viewed as
+reﬂecting adverse effects relating to real-world use of the
+products in clinical practice. The patient population may be
+more inclusive than the patient population the product was
+tested on in clinical trials. The patients may include a more
+diverse patient population in terms of age, gender, ethnicity,
+and medical histories. The product may be used for wider
+indications than studied, and the use of medication may be
+chronic. Because the patients who use the product may have
+complex medical histories, the AERS cases tend to be
+complicated. The complicated nature of the postmarketing
+cases poses signiﬁcant challenges to FDA scientists in
+attributing the adverse events to exposure to a particular
+drug product.
+The actual number of adverse events occurring in people
+who receive a drug product and the number of patients who
+have been exposed to a drug product in the population are
+not known, and so incidence rates cannot be calculated from
+AERS data for drug-induced adverse events. Furthermore, it
+can be difﬁcult to attribute causality for events to drug
+exposure if the adverse event occurs frequently in the
+population in the absence of drug exposure. For example,
+myocardial infarction may be difﬁcult to attribute to drug
+exposure using AERS data alone, because myocardial
+infarction is a common event in the general population and
+therefore may not be reported.
+USING AERS TO DISCOVER AND EXPLORE SAFETY
+ISSUES
+Safety evaluators, most of whom are clinical pharmacists,
+perform the frontline postmarketing safety surveillance for
+approved drugs and therapeutic biologic products. The main
+mission of the safety evaluators is to identify and monitor
+safety signals for the products. The adverse event case reports
+are entered into the AERS database, and each report of an
+unexpected event (that is, an event not described in the
+product labeling) with a serious outcome (for example, death,
+hospitalization, or disability) is triaged to a safety evaluator.
+Select other reports are sent to the safety evaluators as well,
+including some reports that are sent on an expedited basis to
+the FDA as a result of increased surveillance on an issue of
+special concern for the product. The reports are sent to a
+virtual inbox for each safety evaluator. In 2006, more than
+218,000 such reports were forwarded to the FDA safety
+evaluators (3). The safety evaluators monitor the AERS
+inbox on a daily basis reading the serious, unexpected reports
+that have been submitted for the drug products.
+Although the safety evaluator’s AERS inbox is a primary
+source of postmarketing safety data, the safety evaluators
+receive postmarketing safety data from other sources as well.
+For each drug product, the safety evaluators receive manda-
+tory periodic safety reports prepared by the product’s
+manufacturer. The periodic safety reports summarize all the
+case reports submitted to the manufacturer for a product.
+Safety issues can be raised other ways as well; for example,
+the published medical literature or safety data in a New Drug
+Application might raise a safety question. A safety question
+can be raised through an inquiry to the FDA from a clinician,
+patient, or a member of Congress.
+Data mining can help in detecting safety signals. The
+FDA uses data mining to screen the AERS database using a
+Bayesian protocol for the presence of disproportionately
+large adverse event–drug product pairs; that is, the database
+is screened to detect the presence of an unexpectedly high
+number of reports of a given adverse event for a drug
+product. The FDA uses the empirical Bayes multi-item
+gamma Poisson shrinker (MGPS) data mining protocol.
+MGPS incorporates numerous stratiﬁcation steps to minimize
+false positive signals. Details on the MGPS algorithm used by
+the FDA have been published elsewhere (4).
+The presence of an unexpectedly high number of reports
+for a given event for a drug product does not mean
+necessarily that the drug product causes the event, nor does
+the absence of a data mining safety signal mean there is not a
+safety problem. The data must be evaluated to determine
+whether or not the disproportionately high adverse event–
+drug product pair represents a true safety signal for the drug
+product (5). The biases present in the AERS database are
+still present when the database is “mined” for disproportion-
+ately high adverse event–drug product pairs, and these biases
+must be considered when evaluating the data. Data mining
+information from screening the AERS database generate
+hypotheses that are examined to determine the validity of the
+potential safety signal and to determine the need for
+additional analyses.
+After a safety question is raised, the safety evaluator has
+a number of options to pursue the safety issue. These options
+include screening and analyzing AERS cases, requesting and
+analyzing additional clinical details from patients and health-
+care practitioners who reported cases of interest, analyzing
+data mining information, and evaluating similar cases
+reported in the medical literature. Often, the ﬁrst step in
+pursuing a safety issue is searching AERS for case reports
+that may speak to the safety issue. Safety evaluators search
+the AERS database using the medical terminology Med-
+DRA, the Medical Dictionary for Regulatory Activities.
+MedDRA is an international hierarchical medical terminolo-
+gy that is used to code events within AERS. The safety
+evaluator searches AERS using the MedDRA hierarchy of
+terms (i.e., preferred terms, higher level terms, high level
+group terms, or system organ class terms) to broaden or
+narrow the search (6).
+When safety evaluators gather cases from AERS, they
+usually ﬁnd a range of cases in terms of information quality,
+including cases with a very complete description and documen-
+tation, and cases with very little supporting clinical information.
+Ideally, at least some case reports contain complete information
+including a complete description of the event, what product the
+reporter thinks caused the event, other products the patient was
+taking, patient characteristics, medical conditions, risk factors,
+documentation of the diagnosis, information on whether the
+event abated when the product was discontinued (dechallenge),
+and information on whether the event recurred if the product
+was reintroduced (rechallenge).
+The safety evaluator examines the case reports to
+determine if there are other factors that may explain the
+event, or if, indeed, the drug product is the likely cause. For
+any individual case report, it is rarely possible to know
+36 Weaver, Willy and Avigan
+whether the event was caused by the drug product. Never-
+theless, the safety evaluator assesses the strength of the
+evidence for causality, looking for the temporal relationship
+between the use of the drug and the event, drug–disease
+interactions, other drugs the patient was taking that may have
+contributed to the event, and supportive clinical and labora-
+tory ﬁndings. Additionally, the safety evaluator examines
+cases for dechallenge and rechallenge information, the
+biologic plausibility of the event, and known drug class
+effects. The safety evaluator may examine pre-marketing
+data to see if the event was observed in clinical testing.
+Safety evaluators examine the case reports in AERS for
+commonalities in an adverse event reported for a drug
+product. The safety evaluator looks at the cases together for
+the ages of the patients, the sex of the patients, the time to
+onset of the adverse event, whether there is a dose–response
+relationship, and whether there are risk factors that may
+make patients more likely to experience the event.
+How well does a spontaneous reporting system like
+AERS handle safety issues? For rare, easily diagnosed events
+with short latency following drug exposure, AERS is an
+efﬁcient database to examine drug-induced adverse events
+(2). For events confounded by the indication for use, for
+events that occur frequently in patients not exposed to the
+drug product, and for events that are not easily diagnosed,
+AERS is not an efﬁcient database to examine the drug-
+induced adverse events. The impact of these factors on the
+capability of AERS to discover and explore safety signals can
+be illustrated by examining several drug-related safety issues
+that the FDA has confronted.
+Terfenadine (Seldane) was approved in 1985 for the
+relief of symptoms associated with seasonal allergic rhinitis
+and ﬁnally was withdrawn from the market in 1998 because of
+its role in causing cardiac arrhythmias, notably QT prolonga-
+tion and torsade de pointes. The reporting of QT prolonga-
+tion to the FDA for terfenadine followed an atypical pattern.
+The FDA usually receives the most adverse event reports for
+a drug within the ﬁrst few years of marketing (7). The reports
+for QT prolongation with terfenadine did not follow this
+pattern, with the most reports of QT prolongation received in
+1992, seven years after the drug’s approval. It appears that
+there was a delay on the part of attending physicians in the
+recognition of the role of terfenadine in producing arrhyth-
+mias. The ﬁrst step in reporting a safety issue is diagnosis of
+the medical event. This was not accomplished easily in the
+case of terfenadine-induced arrhythmias because patients
+taking terfenadine generally were not being monitored with
+EKGs. Even when a rhythm abnormality became clinically
+apparent, the diagnosis of the speciﬁc arrhythmia was still
+difﬁcult. In fact, AERS contains reports of syncope for
+terfenadine that probably were cases of torsade de pointes.
+Finally, after the arrhythmia is diagnosed, to be reported to
+the FDA as a drug-related adverse event, the physician must
+have a suspicion that the event was secondary to exposure to
+a drug. In this case, the diagnosis of the arrhythmia and
+attribution to terfenadine were problematic. Because of these
+factors, this signal was slow to appear in AERS data.
+Salmeterol (Serevent) was approved in 1994 for the
+maintenance treatment of asthma. Early in the marketing of
+salmeterol the FDA received postmarketing reports of
+asthma exacerbation with use of the product. It is expected
+that some asthma patients will experience exacerbation of
+asthma, even while on therapy. The cases reported for
+salmeterol were confounded by the indication for the use of
+the product; that is, the patient received the drug for asthma,
+and so it is difﬁcult to determine whether the asthma
+exacerbation was caused by salmeterol, or was an expected
+manifestation of the patient’s underlying disease. The ques-
+tion to be answered in evaluating the reports is whether there
+is something being experienced by the patients using salme-
+terol that is out of line with what is expected, not only with
+the drug, but with the underlying disease. The essential
+question is whether there is a differential rate of exacerba-
+tions of asthma that is attributable to the drug. By the nature
+of the uncontrolled data within AERS, the AERS database
+cannot answer this question; AERS cannot establish the
+comparative frequency of an adverse event. Because AERS
+could not answer the safety question, a large safety study was
+undertaken to explore the safety issue. Although the study
+did not answer the safety question fully, the study was
+stopped when an interim analysis showed signiﬁcant increases
+in respiratory-related and asthma-related deaths and com-
+bined asthma-related deaths or life-threatening experiences in
+the group receiving salmeterol (8).
+Valdecoxib (Bextra) is a COX-2 selective NSAID that
+was approved in 2001 and was ﬁrst marketed in early 2002.
+Early in marketing the FDA received a number of cases of
+Stevens–Johnson syndrome and toxic epidermal necrolysis
+temporally related to the use of this product. This information
+was quickly incorporated into the labeling for the product.
+What were the characteristics of this issue that lent it to
+be explored via AERS? This is the type of issue that AERS
+handles very well. First, the serious skin events are rare,
+easily diagnosed events, with short latency from the time the
+drug was started; secondly, because Stevens–Johnson syn-
+drome is well recognized as a drug-induced event, the
+practitioners attributed the reactions to valdecoxib; thirdly,
+the practitioners reported the events to the manufacturer and
+to the FDA. Finally, although FDA scientists seldom make
+comparisons of reporting rates between products, because of
+the similarity between the drugs in indication for use, time on
+the market, and year of introduction to the market, it was
+reasonable to compare the reporting rates for this event for
+valdecoxib and other drugs in the class at a similar point in
+marketing. This comparison showed that the reporting rate
+for Stevens–Johnson syndrome/toxic epidermal necrolysis for
+valdecoxib was 8–9 times that of celecoxib and approximately
+25 times that of rofecoxib and the background rate (9). Based
+on these data, FDA scientists concluded that these events
+occurred more frequently with valdecoxib compared to other
+products in the drug class.
+A second safety issue with valdecoxib is an example of
+an issue that is not a good issue to study in AERS. Valdecoxib
+is associated with thromboembolic events (TEE), fairly
+common events even in patients not exposed to valdecoxib.
+Because of the high background rate of TEE, it is difﬁcult to
+explore this using AERS data.
+For both the salmeterol asthma case study in which the
+cases are confounded by indication and the TEE valdecoxib
+case study where there is a high background rate of the event
+in the general population, AERS is of limited use in exploring
+the safety issue.
+37Informatic Tools and Approaches in Postmarketing Pharmacovigilance
+EPIDEMIOLOGIC STUDIES
+Passive surveillance is helpful in identifying a possible
+adverse event and drug association, but as described above,
+there are a number of limitations. Underreporting is known
+to be a common problem with passive surveillance (7).
+Reporting also varies over time and may be affected by
+secular trends (7). There can be differences in the diagnostic
+terminology used. And ﬁnally, the analysis of passive
+surveillance data can not yield an incidence rate.
+Rates obtained from passive surveillance are often
+referred to as reporting rates and usually reﬂect the number
+of cases reported divided by the number of patient exposures.
+As discussed the numerator will be an underestimate of the
+true number of cases, although media attention can lead to an
+increase in reported cases. The estimated denominator is also
+difﬁcult to obtain, since the number of patients truly exposed
+and for how long is not easily determined.
+Often reporting rates will be compared to background
+rates and possibly to the reporting rates with similar drugs to
+determine if there is a safety signal. Background rates in the
+population or in a special population (like pediatrics) might
+be used for the comparison, but are often difﬁcult to obtain.
+Comparisons to other drugs must be done with care since the
+reporting for each drug is inﬂuenced by the length of time on
+the market, the level of manufacturer diligence to identify
+cases, and whether one drug has had differential media
+attention related to the event of interest. Factors that are
+considered when analyzing reporting rates are the magnitude
+of the differences, whether the ﬁndings are consistent when
+looking at less severe forms of the event, and whether
+information from the clinical trial studies and literature
+reports support the ﬁndings.
+As part of the investigation of a safety signal, there are
+times when epidemiologic studies can provide useful infor-
+mation. The types of studies that might be used postmarket-
+ing include case series, secular trends, case-control and cohort
+studies (10–12). Case series are generally a description of a
+group of patients experiencing similar adverse events or drug
+exposure with no control group for comparison. The study of
+secular trends in certain outcomes can be linked to the use of
+certain drugs in some deﬁned population to help with the
+initial exploration of a hypothesis. Since the secular trend
+data are not linked to individual patients, positive ﬁndings
+must be conﬁrmed with more systematic studies. Case-control
+studies compare identiﬁed cases with a deﬁned outcome to a
+group of controls without the outcome; exposure to drugs can
+be compared between each group. Case-control studies are
+useful for rare diseases and when there is interest in multiple
+causes for a given outcome. Cohort studies study deﬁned
+populations over time to look for outcomes of interest.
+Cohort studies generally compare people exposed to a drug
+to those who are not exposed. Cohort studies beneﬁt from
+reduced recall bias (accuracy of the recalled information)
+since information is generally collected prospectively. But
+cohort studies usually require large numbers of people and
+can take an extended period to complete.
+Many epidemiologic studies require large numbers of
+patients to provide sufﬁcient statistical “power” for the
+analysis to be worthwhile (13,14). The populations used for
+pharmacoepidemiologic studies should ideally be able to link
+medical, pharmacy and demographic information to allow a
+complete analysis. A number of different resources are
+available that link relevant information, some of the infor-
+mation being available electronically (through insurance
+claims) and other information requiring some manual review
+of medical records (such as details about the sequence of
+events, other risk factors). These databases have the advan-
+tage of providing detailed information on patients for long
+periods of time, to allow for retrospective cohort and case-
+control studies. There are always concerns, though, about the
+generalizability of these data to other populations.
+ACTIVE SURVEILLANCE AND OTHER ENHANCED
+REPORTING SYSTEMS
+Active surveillance is a pharmacoepidemiologic tool that
+has received attention as a drug safety tool. Active surveil-
+lance can be deﬁned as the regular periodic collection of case
+reports from health care data systems. The process of active
+surveillance may be used to identify a new drug safety signal
+or to validate drug safety signals identiﬁed through passive
+surveillance. Active surveillance can be structured in a
+number of different ways. When a new drug is marketed, an
+active surveillance program might be established to monitor
+prospectively for safety signals that were too rare to appear in
+the typical clinical trial or, in some cases, to look for events
+that were hinted at in the clinical trials, but that did not have
+sufﬁcient statistical power to deﬁnitively identify; this type of
+surveillance is drug-based. Certain settings like emergency
+departments (ED) can be used to look to see what drug-
+related events are presenting to ED (15). Anaphylaxis is a
+good example of a critical event that would be seen in the ED
+and might be related to a drug. Lastly, monitoring certain
+diseases (or outcomes) might be initiated to determine if
+there are any drug related events. For example, registries for
+liver failure or aplastic anemia might collect information on
+drug exposure to determine if there are unusual numbers of a
+certain event in patients receiving a certain drug.
+Although many would like to see the development of
+active surveillance systems there are several challenges that
+make their development difﬁcult. First, an effective program
+requires the receipt of timely information that has been
+validated and comes from both in- and out- patient data
+sources. Additionally, an effective system should represent a
+large population. As healthcare systems become more
+automated these components should become more readily
+available making an effective system possible. Most would
+agree, though, that the perfect system is not currently in
+place.
+Although there is no perfect example of a current active
+surveillance system, there are examples of programs that
+have components of an active surveillance system: National
+Electronic Injury Surveillance System-All Injury Program
+(NEISS-AIP), Natalizumab and Progressive Multifocal Leu-
+koencephalopathy (PML), and NIH sponsored Drug Induced
+Liver Injury Network (DILIN). These systems make efforts
+to collect information prospectively as an active surveillance
+system might do, but for the most part lack efﬁcient
+procedures to provide timely data and might better be
+referred to as enhanced surveillance systems.
+38 Weaver, Willy and Avigan
+ENHANCED SURVEILLANCE BASED ON CERTAIN
+SETTINGS
+National Electronic Injury Surveillance System-All Injury
+Program (NEISS-AIP)
+The US Consumer Product Safety Commission (CPSC),
+the Centers for Disease Control and Prevention (CDC) and
+the Food and Drug Administration (FDA) have funded a
+nationally representative study of medication-related adverse
+events presenting to Emergency Department. The program
+collects data from a sample of EDs. Trained abstractors
+review ED medical records to identify patients diagnosed
+with a condition that is linked to a drug. This data source can
+be used to identify new safety signals or can also provide
+information about the public health impact of know adverse
+events. A recent summary of this program’s active surveil-
+lance ﬁndings for 2004 and 2005 showed that allergic
+reactions were the most common adverse event treated in
+EDs followed by unintentional overdoses (15).
+ENHANCED SURVEILLANCE BASED
+ON TREATMENT WITH A SPECIFIC DRUG(S)
+AND INDICATION
+Natalizumab and Progressive Multifocal
+Leukoencephalopathy (PML)
+In November 2004 natalizumab (Tysabri) was approved
+by FDA for the treatment of relapsing forms of multiple
+sclerosis (MS). Identiﬁcation of an association between
+natazulimab with PML emanated from two postmarketing
+clinical studies to determine the safety and efﬁcacy of this
+agent in patients with relapsing-remitting forms of the disease
+that were being performed by the manufacturer at the time of
+approval. In February 2005 the FDA received a report from
+the manufacturer of Tysabri of one conﬁrmed fatal case and
+another suspected case of PML (later conﬁrmed) in enrolled
+patients who had received Tysabri, each for over two years, in
+addition to treatment with IFN β-1a. This led to the
+immediate suspension of marketing at the end of February,
+2005 to permit an in-depth evaluation of the risk and beneﬁt
+of this product for the treatment of relapsing MS. Subse-
+quently, evaluation of another patient who died in a trial for
+the treatment of Crohn’s disease conﬁrmed a third case of
+PML. With a known denominator of approximately 3,000
+patients who received the drug during clinical trials to treat
+MS or Crohn’s disease it was possible to estimate a rate of
+PML in patients who received natazilumab of approximately
+1/1,000 (16,17). Because of the small number of PML cases it
+was not possible to deﬁnitively determine the relative
+contribution to risk by concomitant treatment with IFN β-1a
+or other immunosuppressive drugs.
+The discovery of an initial PML signal in ongoing
+postmarketing clinical protocols of inception cohorts who
+have initiated treatment in pre-approval phase III studies was
+efﬁcient and promptly reported to FDA. It highlights the
+utility that such a surveillance strategy has in the early
+detection of a safety signal, especially when treatment related
+risk for an AE may be dependent on time of treatment, total
+drug exposure or patient related susceptibility factors which
+may change over time. Inception cohort studies which track a
+pre-approval study population chronically exposed to a drug
+after approval can play a crucial role in the identiﬁcation of
+risk that appears after a latent period of drug exposure. In
+addition, the opportunity to study risk is enhanced if
+treatment is given by specialized health care providers
+located in medical centers with a capacity to perform
+comprehensive patient follow-up, clinical assessment and
+meticulous record keeping.
+In June 2006 FDA approved an application for resumed
+marketing of natazilumab with a special restricted distribution
+program linked to a Risk Management Plan called the
+TOUCH Prescribing Program which has been designed to
+minimized the risk, death and disability due to natalizumab-
+associated PML and promote informed risk beneﬁt decisions
+for MS patients regarding this agent (18). Among the
+elements of this program is registration of all patients,
+prescribers, natazulimab infusion centers and their associated
+pharmacies. In addition, a plan has been developed to
+monitor, evaluate and measure risk factors associated with
+cases PML and other serious opportunistic infections and
+regularly report these to FDA. The TOUCH Prescribing
+Program is designed to provide a highly effective registry for
+PML which is based on drug exposure and relies on a highly
+specialized health care environment.
+ENHANCED SURVEILLANCE BASED ON SPECIFIC
+TOXICITIES/CLINICAL OUTCOMES
+NIH Sponsored Drug Induced Liver Injury Network
+(DILIN)
+Although drug-induced liver injury (DILI) is a rare
+clinical event, it is the most common cause of acute liver
+failure in the US. Idiosyncratic forms of DILI, which are not
+predictable, have been linked to only a subset of therapeutic
+products, and occur only in susceptible individuals. Both
+mechanisms of liver injury and factors of individual suscepti-
+bility are poorly understood. Unfortunately, in some instances
+DILI has presented a barrier in drug development. Moreover,
+it has been a leading cause of medication withdrawal or lack of
+approval by FDA. To characterize cases and develop a better
+understanding of the epidemiology and pathogenesis of this
+problem a number of studies or registries have been initiated in
+the US and Europe. The NIH has funded a consortium of 5 US
+medical centers to perform retrospective and prospective
+studies of patients identiﬁed at these centers with this condition
+(19). The DILIN prospective study seeks patients with
+suspected DILI not caused by acetaminophen that has
+occurred within 6 months of enrollment. Referred patients
+with clinical case material are extensively evaluated and
+thorough differential diagnoses and expert causality assess-
+ments are performed. Biological specimens for each patient
+including serum, urine, lymphocytes and DNA are routinely
+collected for future studies. Since 2004, over 200 patients have
+been enrolled in the prospective study (20). So far, the leading
+drug class associated with identiﬁed and referred cases of
+idiosyncratic DILI are antimicrobials. Although identiﬁcation
+and inferences of risk associated with drugs identiﬁed by this
+study may be subject to a number of biases, DILIN has a
+potential to develop into a useful disease based active
+39Informatic Tools and Approaches in Postmarketing Pharmacovigilance
+surveillance system for an important category of drug related
+adverse events in the U.S.
+OTHER SAFETY EFFORTS
+Pooled Analysis or Meta-analysis of Randomized Clinical
+Trial Safety Datasets
+Causal attribution to drug exposure for adverse events
+with high background rates in the same patient population is
+often difﬁcult to determine. One approach to addressing this
+problem is the analysis of randomized clinical datasets. After
+FDA approval of a new molecular entity based on review of
+pre-marketing studies, manufacturers often continue to
+perform randomized clinical trials, comparing the agent with
+placebo or active comparators. Often this is done in order to
+study other indications of use, drug effects in different patient
+populations, new dosaging protocols, etc. Because individual
+clinical trials are usually not sufﬁciently powered to detect
+and measure risk surrounding safety events which are either
+rare or superimposed on high background rates in the treated
+populations, a portfolio of randomized studies performed
+before or after initial marketing can be an invaluable resource
+to identify and assess these types of drug-related events.
+Pooled or trial based meta-analyses of the randomized clinical
+trial safety datasets to measure imbalances of these events
+may be especially useful. Although there are important
+limitations to consider in the analysis and interpretation of
+such measurements, a recent example illustrates the value of
+this approach for safety signal detection.
+In the case of antidepressants (including SSRIs), review
+of integrated clinical trial (ICT) data from short-term studies
+in children and adolescents with major depressive disorder
+and other psychiatric disorders uncovered an increased risk of
+suicidal thinking and behavior (suicidality). Pooled analyses
+of 4 to 16 week placebo-controlled trials of 9 drugs (24 trials
+involving more than 4,400 patients) showed an increased risk
+for suicidal thinking or behavior in these age groups during
+the ﬁrst few months of treatment (21). The average risk of
+such events in pediatric patients receiving antidepressants was
+4%, twice the placebo associated risk of 2% (21). A similar
+analysis revealed that this risk extends to young adults ages
+18 to 24 during initial treatment, generally during the ﬁrst one
+or two months of treatment (22).
+Important issues can surface in the interpretation of
+postmarketing randomized clinical studies. Establishing
+whether relative risk measures derived from a meta-analysis
+of clinical trials or individual studies reﬂects actual drug-
+related risk can be challenging. In assessing study outcomes
+one must consider multiple factors including consistency of
+endpoints and measurements of other known risk factors for
+the event of interest. In addition, it may be important to
+determine whether active comparator groups are sufﬁciently
+characterized to draw comparative conclusions with regards
+to risk. Finally, the studies should be sufﬁciently powered and
+employ reliable methods of adverse event ascertainment,
+classiﬁcation and reporting. In the presence of meta-analyses
+and analyses of clinical studies with disparate results, careful
+attention must be given to such parameters in order to draw
+conclusions about the relative contribution of each set of
+results to an overall assessment of a safety signal and/or
+quantitative measurement of risk. This will be especially
+important as more cumulatively acquired postmarketing
+safety data from randomized clinical trials are made available
+for scrutiny by academic experts and the FDA.
+Regular Safety Reviews of New Molecular Entities (NMEs)
+Beyond awareness of the datasets and analytic tools that
+form the foundations of effective pharmacovigilance, it is
+critical to reinforce standard review processes to achieve
+consistent and comprehensive safety evaluations of drugs.
+One recent initiative that is being developed by the Ofﬁce of
+Surveillance and Epidemiology and the Ofﬁce of New Drugs
+for this purpose is a pilot program to systematically evaluate
+the safety proﬁles of NMEs on a regularly scheduled basis (23).
+Postmarketing evaluations of NMEs will incorporate review of
+multiple streams of data including AERS, data mining analysis,
+epidemiologic datasets, postmarketing clinical trial informa-
+tion, and Periodic Safety Update Reports (PSURs) or U.S.
+Periodic Reports, to identify potential safety concerns early in
+the product life cycle which require in-depth evaluations.
+CONCLUSIONS
+The identiﬁcation of safety signals after drugs have been
+approved for marketing is a complex process that requires
+extensive resources. Efforts continue at the FDA to improve
+the efﬁcacy and effectiveness of its drug safety program so
+that safety problems are identiﬁed and in a timely fashion.
+Ongoing enhancements in postmarketing studies and increas-
+ing access to multiple streams of data pose many new
+challenges in the timely and accurate detection and assess-
+ment of drug safety.
+REFERENCES
+1. A. P. Fletcher. Spontaneous adverse drug reaction reporting vs
+event monitoring: a comparison. J. R. Soc. Med. 84(6):341–344
+(1991).
+2. V. Pinkston, and E. J. Swain. Management of adverse drug
+reaction and adverse event data through collection storage and
+retrieval. In M. D. B Stephens, and P. A. Routledge (eds.),
+Detection of New Adverse Drug Reactions: Macmillan Refer-
+ences LTD., London, UK, 1999, pp. 282.
+3. FDA Ofﬁce of Surveillance and Epidemiology, unpublished
+data, 2006.
+4. A. Szarfman, S. G. Machado, and R. T. O’Neill. Use of screening
+algorithms and computer systems to efﬁciently signal higher-
+than-expected combinations of drugs and events in the US
+FDA’s spontaneous reports database. Drug. Saf. 25(6):381–392
+(2002).
+5. M. Hauben, and X. Zhou. Quantitative methods in pharmacovi-
+gilance: focus on signal detection. Drug. Saf. 26(3):159–186 (2003).
+6. MSSO website. URL http://www.meddramsso.com/MSSOWeb/
+index.htm.
+7. S. R. Ahmad. Spontaneous reporting in the United States. In
+B. L. Strom (ed.), Pharmacoepidemiology: Wiley and Sons, West
+Sussex, England, 2005, pp. 136–159.
+8. H. S. Nelson, S. T. Weiss, E. R. Bleecker, S. W. Yancey, and P. M.
+Dorinsky. SMART Study Group. The Salmeterol Multicenter
+Asthma Research Trial: a comparison of usual pharmacotherapy
+for asthma or usual pharmacotherapy plus salmeterol. Chest. 129
+(1):15–26 (2006).
+9. L. La Grenade, L. Lee, J. Weaver, R. Bonnel, C. Karwoski, L.
+Governale, and A. Brinker. Comparison of reporting of
+40 Weaver, Willy and Avigan
+Stevens–Johnson syndrome and toxic epidermal necrolysis in
+association with selective COX-2 inhibitors. Drug. Saf. 28
+(10):917–924 (2005).
+10. B. L. Strom. Study designs available for pharmacopeidemiology
+studies. In B. L. Strom (ed.), Pharmacoepidemiology: Wiley and
+Sons, West Sussex, England, 2005, pp. 17–28.
+11. L. Gordis. Epidemiology, W.B. Saunders Company, Philadelphia,
+1996.
+12. K. J. RothmanS. Greenland. Modern epidemiology, 2nd ed,
+Lippincott-Raven, Philadelphia, PA, 1998.
+13. B. L. Strom. Study overview of automated databases in
+pharmacoepidemiology. In B. L. Strom (ed.), Pharmaco-
+epidemiology: Wiley and Sons, West Sussex, England, 2005,
+pp. 219–222.
+14. S. Hennessy. Use of health care databases in pharmacoepidemi-
+ology. Basic Clin. Pharmacol. Toxicol. 98:311–313 (2006).
+15. D. S. Budnitz, D. A. Pollcok, K. N. Weidenbach, A. B.
+Mendelsohn, T. J. Schroeder, and J. L. Annest. National
+surveillance of emergency department visits for outpatient
+adverse drug events. JAMA 296:1858–1866 (2006).
+16. Natalizumab Advisory Committee, March 2006: http://www.fda.
+gov/ohrms/dockets/ac/06/slides/2006-4208S1-Slide-Index.htm, last
+accessed July 9, 2007.
+17. T. A. Yousry, M. Habil, E. O. Major, C. Ryschkewitsch, G.
+Fajhle, S. Fiscer, J. Hou, B. Curfman, K. Miszkiel, N. Mueller-
+Lenke, E. Sanches, F. Barkhof, E. Radue, H. R. Jager, and D. B.
+Clifford. Evaluation of patients treated with Natalizumab for
+progressive multifocal leukoencephalopathy. N. Engl. J. Med.
+354:924–933 (2006).
+18. Natalizumab information: http://www.fda.gov/cder/drug/infopage/
+natalizumab/default.htm, last accessed August 10, 2007.
+19. J. H. Hoofnagle. Drug-induced liver injury network (DILIN).
+Hepatology 40:773, 2004 (2004).
+20. N. Chalasani, R. Fontana, P. B. Watkins, H. L. Bonkovsky, T.
+Davern, J. Serrano, and J. Rochan. Drug-induced liver injury
+network (DILIN) prospective study initial results. Am. J. Gastro-
+enterol. 101:S168, 2006 (2006).
+21. T. A. Hammad, T. Laughren, and J. Racoosin. Suicidality in
+pediatric patients treated with antidepressant drugs. Arch. Gen.
+Psychiatry 63:332–339 (2006).
+22. Anti-depressant December 2006 advisory committee http://www.
+fda.gov/ohrms/dockets/ac/06/slides/2006-4272s1-00-index.htm;
+last accessed July 9, 2007.
+23. Future of Drug Safety; FDA’s Speciﬁc Safety Initiatives; upgrading
+methods of beneﬁt and risk analysis and risk management: www.fda.
+gov/oc/reports/iom013007.html, page 37, last accessed July 9, 2009.
+41Informatic Tools and Approaches in Postmarketing Pharmacovigilance
+

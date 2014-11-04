@@ -1,0 +1,683 @@
+Hindawi Publishing Corporation
+Journal of Transplantation
+Volume 2012, Article ID 342701, 7 pages
+doi:10.1155/2012/342701
+Clinical Study
+Estimation of Abbreviated Cyclosporine A Area under the
+Concentration-Time Curve in Allogenic Stem Cell
+Transplantation after Oral Administration
+Hanene ELjebari,1 Nadia Ben Fradj,1 Issam Salouage,1, 2 Emna Gaies,1, 2 Sameh Trabelsi,1, 2
+Nadia Jebabli,1 Mohamed Lakhal,1, 2 Tarek Ben Othman,2, 3 and Anis Kouz1
+1 Laboratoire de Pharmacologie Clinique, Centre National de Pharmacovigilance, 9 Avenue Dr. Zouhe¨ır Essaﬁ, Tunis 1006, Tunisia
+2 Facult´e de M´edecine de Tunis, 15 Rue Djebel Lakhdar La Rabta, Tunis 1007, Tunisia
+3 Centre National de Greﬀe de Moelle Osseuse, Rue Djebel Lakhdar La Rabta, Tunis 1007, Tunisia
+Correspondence should be addressed to Hanene ELjebari, eljebarihanene@yahoo.fr
+Received 18 May 2011; Accepted 22 August 2011
+Academic Editor: Andreas Zuckermann
+Copyright © 2012 Hanene ELjebari et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Measurements of Cyclosporine (CsA) systemic exposure permit its dose adjustment in allogenic stem cell transplantation recipients
+to prevent graft-versus-host disease. CsA LSSs were developed and validated from 60 ASCT patients via multiple linear regressions.
+All whole-blood samples were analyzed by ﬂuorescence polarization immunoassay (FPIA-Axym). The 10 models that have used
+CsA concentrations at a single time point did not have a good ﬁt with AUC0−−12 (R2
+< 0.90). C2 and C4 were the time points
+that correlated best with AUC0−−12h, R2
+were respectively 0.848, and 0.897. The LSS equation with the best predictive performance
+(bias, precision and number of samples) utilized three sampling concentrations was AUC0−−12h = 0.607 + 1.569 × C0.5 + 2.098 ×
+C2 + 3.603 × C4(R2
+= 0.943). Optimal LSSs equations which limited to those utilizing three timed concentrations taken within 4
+hours post-dose developed from ASCT recipient’s patients yielded a low bias <5% ranged from 1.27% to 2.68% and good precision
+<15% ranged from 9.60% and 11.02%. We propose an LSS model with equation AUC0−−12h = 0.82 + 2.766 × C2 + 3.409 × C4 for
+a practical reason. Bias and precision for this model are respectively 2.68% and 11.02%.
+1. Introduction
+Cyclosporine is one of the most common immunosuppre-
+ssants used in allogenic stem cells transplant (ASCT) both in
+children and adults [1, 2]. This population had more diges-
+tive problems compared to solid transplant patient; con-
+sisting of mucositis and diﬀuse inﬂammation of the intesti-
+nal tract related to the preparative regimen. In addition,
+they frequently develop digestive graft-versus-host disease
+(GVHD) and intestinal viral disease aﬀecting the absorption
+of CsA [3–5]. In most case cyclosporine is administered in-
+travenously from day −1 to days 30–50 then orally until day
+180 [6].
+Individualization of cyclosporine (CsA) dosage using
+therapeutic drug monitoring remains an indispensable tool
+for management of CsA therapy [7, 8]. A number of clinical
+trials have employed C2 monitoring in solid organ transplan-
+tations and demonstrated improvements in rejection rates
+and acute toxicity compared to trough-level (C0) monitoring
+[9, 10].
+In ASCT Barkholt et al. [11] have not found a correlation
+between C2 and either severs GVHD or infection in ASCT
+patients with C0 guided CsA dosing. Furukawa et al., 2010
+[12], demonstrate that in ASCT patients receiving twice-
+daily 3 h intravenous administrations, the concentration of
+CsA at 2 h (C2) and 2 h and 50 min (C3) were best single
+predictors of exposure (AUC0–12h) while the trough concen-
+tration correlates poorly. Inoue et al. [13] were observed two
+close relationships between AUC0–12h and the C3 for infusion
+and between AUC0–12h and the C8 for oral administration.
+The area under a blood drug concentration-time curve
+(AUC) is an important index in therapeutic drug monitoring
+2 Journal of Transplantation
+Table 1: Characteristics and laboratory test results of allogenic
+hematopoietic stem cell transplantation (N = 60).
+Patients characteristics Mean ± SD
+Age (yrs) 28.09 ± 11.79
+Weight (Kg) 55.5 ± 16.40
+Laboratory test results
+Serum creatinine (mmol/L) 48.73 ± 17.78
+Biirubin (mg/L) 12.0 ± 4.39
+Alkaline phosphatase (UI/L) 122.31 ± 80.43
+AST (UI/L) 45.21 ± 83.37
+ALT (UI/L) 52.55 ± 111.20
+SD: standard deviation.
+and in pharmacokinetics. Unfortunately, obtaining complete
+pharmacokinetic proﬁles from transplant patients is not
+always an easy task due to ethical, practical, and economical
+reasons. Therefore, reducing the number of blood samples
+necessary for determinations would be very practical for
+patient management and would help in cyclosporine moni-
+toring. Recently, limited sampling strategies (LSSs) have been
+developed to predict the AUC0–12h; several of them are used
+to predict cyclosporine AUC in transplanted patients. Up to
+now, more than 100 equations to estimate AUC using limited
+sampling strategy have been published, but most of them
+have not been validated [14].
+ASCT outcomes may be optimized by cyclosporine dose
+adjustment according to systemic exposure (measured by
+AUC) rather than trough concentration.
+The aim of this study was to develop LSSs for predicting
+cyclosporine AUC0–12h to provide a practical method for a
+more accurate therapeutic (TDM) after oral dosing in pa-
+tients undergoing ASCT and validated selected models.
+2. Patients and Methods
+2.1. Patients. Following ethics approval by the institutional
+review board, 60 ASCT recipient’s patients enrolled the study
+(new graft in 2009). The patient’s characteristics are listed
+in Table 1. Diseases consisted in acute myeloblastic leukemia
+(n = 32 patients) acquired aplastic anemia (n = 12 patients),
+acute lymphoblastic leukemia (n = 8), Fanconi’s anemia
+(n = 4 patients), multiple myeloma (n = 1 patient), and
+Gaucher disease (n = 1 patient).
+Conditioning regimens consisted on IV Busulfan + Cyclo-
+phosphamide (36 patients), Fractionated Total body Irradia-
+tion + Etoposide (8 patients), horse antithymocyte globulin
++ Cyclophosphamide (12 patients), Fludarabine + Cyclo-
+phosphamide (4 patients). All patients received oral antimi-
+crobial prophylaxis with amoxicillin or spiramycin, ﬂucona-
+zole, and acyclovir.
+CsA (Sandimmun) was started by continuous intraven-
+ous (i.v.) infusion from day 1 to 15–21 days after transplanta-
+tion, and then patients were randomized to oral CsA (equoral
+or neoral) at twice IV dose. After that all patients received
+oral CsA (mean of 300 mg/day). The daily dose was taken in
+two equally divided doses at 12 h intervals.
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+0 2 4 6 8 10 12
+CsAconcentration(µg/mL)
+Time (h)
+14
+Figure 1: Individual blood concentration-time curves of patients
+administered CsA (n = 30).
+2.2. Inclusion and Exclusion Criteria . After the conditioning
+regimes, patients were included in the study, if they were aged
+between 3 and 50 years, clinically stable after a ﬁrst ASCT,
+and receiving oral CsA as graft-versus-host disease pro-
+phylaxis. Patients should have stable serum creatinine (<2
+baseline value) and no history of hepatic dysfunction (bili-
+rubin and aminotransferases <2 normal value).
+Patients excluded if they developed graft-versus-host dis-
+ease or microangiopathy, received another drug which inter-
+feres with CsA pharmacokinetics, and showed evidence of
+noncontrol digestive problem, renal (2 × creatinine baseline
+value), or hepatic dysfunction (bilirubin and aminotrans-
+ferases >2 × normal value).
+2.3. Blood Sampling and Measurements of Cyclosporine Con-
+centrations. After written informed consent, blood samples
+(3 mL) were collected in tubes containing EDTA anticoag-
+ulant from the patients at time 0 (C0; pre dose) and at
+0.5 h (C0.5), 1 h (C1), 1.5 h (C1.5), 2 h (C2), 3 h (C3), 4 h
+(C4), 6 h (C6), 8 h (C8), and 12 h (C12) after steady-state
+morning Cs dose. All whole-blood samples were analyzed
+by ﬂuorescence polarization immunoassay (FPIA-Axym) in
+Laboratory of Clinical Pharmacology of the National Center
+of Pharmacovigilance. Precision data of immunoassay was
+demonstrated previously by comparison of the two methods
+for CsA therapeutic monitoring HPLC and AxSYM. Result
+showed that the correlation coeﬃcient is 0.99 [15].
+2.4. Pharmacokinetic and Statistical Analysis
+2.4.1. Pharmacokinetics. Peak CsA concentration (Cmax) and
+the time to reach it (Tmax) were recorded for each patient and
+were reported as the mean ± standard deviation.
+Pharmacokinetic parameters were calculated using a non-
+compartment model. The area under the plasma concen-
+tration-time curves AUC0–12h was calculated from drug
+plasma concentration data based on trapezoid rule [16].
+2.4.2. Limited Sampling Strategy (LSS). CsA LSSs were de-
+veloped and validated from 60 ASCT patients (30 in
+the development group and 30 in the validation group)
+via multiple linear regressions.
+Journal of Transplantation 3
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+2.5 3.5 4.5 5.5 6.5 7.5
+Full CsA AUC0–12 (µg·h/mL)
+EstimatedCsAAUC0–12
+(µg·h/mL)
+(a)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2.3 3.3 4.3 5.3 6.3 7.3 8.3
+Full CsA AUC0–12 (µg·h/mL)
+EstimatedCsAAUC0–12
+(µg·h/mL)
+(b)
+0
+1
+2
+3
+4
+5
+6
+7
+2.3 3.3 4.3 5.3 6.3 7.3 8.3
+Full CsA AUC0–12 (µg·h/mL)
+EstimatedCsAAUC0–12
+(µg·h/mL)
+(c)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2.3 3.3 4.3 5.3 6.3 7.3 8.3
+Full CsA AUC0–12 (µg·h/mL)
+EstimatedCsAAUC0–12
+(µg·h/mL)
+(d)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2.3 3.3 4.3 5.3 6.3 7.3 8.3
+Full CsA AUC0–12 (µg·h/mL)
+EstimatedCsAAUC0–12
+(µg·h/mL)
+(e)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2 3 4 5 6 7 8
+Full CsA AUC0–12 (µg·h/mL)
+EstimatedCsAAUC0–12
+(µg·h/mL)
+(f)
+Figure 2: Comparison of the full cyclosporine (CsA) AUC0–12h and values estimated using 6 regression models: (a) model using trough
+concentration (R
+2
+= 0.391), (b) model using concentration at 2 hours after dosing (R2 = 0.848), (c) model using concentration at 4 hours
+after dosing (R2 = 0.897), (d) model using concentrations at 2 and 4 hours after dosing (R2 = 0.930), (e) model using concentrations at 0.5,
+2 and 4 hours after dosing (R2 = 0.943), and (f) model using concentrations at 2, 4, 6 and 8 hours after dosing (R2 = 0.965).
+Step 1. Multiple linear regressions were performed to esti-
+mate abbreviated AUC (dependent variable) and each time
+point of CsA levels (independent variables) that best ﬁtted
+the CsA AUC0–12h. Selected models are those who have P <
+0.05 for any sampling time and high correlation coeﬃcient
+(R2 > 0.9). These analyses produced equations AUC as
+follows: AUC = Cst + M1 × C1 + M2 × C2 + · · · + Mn × Cn;
+M and Cst are coeﬃcients and n is the number of samples.
+Optimal LSS equations were limited to those utilizing a
+maximum of four timed concentrations taken within 6 hours
+after dose, and with a coeﬃcient of determination (R2) > 0.9.
+Step 2. To validate the equation, we used a second group of
+pharmacokinetic proﬁle data obtained from ASCT patients
+recipients (validation group) with the same characteristics as
+the initial group. Predictive performances of LSS equations
+were evaluated by calculating the percentage bias (mean pre-
+diction error me %) and percentage precision (root-mean-
+squared prediction error rmse %) [17, 18].
+me% =
+% pei
+N
+,
+rmse% =
+Σ % pei
+2
+N
+,
+(1)
+where N is the number of AUC pairs and (% pei) on the
+AUC, deﬁned as ([AUCpredicted − AUCobserved]/AUCobserved) ∗
+4 Journal of Transplantation
+CorrelationcoeﬃcientR2
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+C0 C0,5 C1 C1,5 C2 C3 C4 C6 C8 C12
+Model
+(a)
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+0 2 4 6 8 10 12 14 16 18 20 22 24
+CorrelationcoeﬃcientR2
+Model
+(b)
+Figure 3: Evolution of Correlation coeﬃcients R2 according select-
+ed models. (a) Correlation coeﬃcients between AUC0–12h and CsA
+concentration at each time point. (b) Correlation coeﬃcients bet-
+ween AUC0–12h estimated and concentrations at full hours.
+Table 2: Pharmacokinetic parameters (PK) in allogenic hemato-
+poitic stem cell transplantation.
+PK parameters (LSS development group) Values (Mean ± SD)
+AUC0–12h (µg·h·mL−1) 4.340 ± 1.195
+Through concentration C0(µg·mL−1) 0.470 ± 0.178
+Cmax (µg·mL−1) 0.834 ± 0.279
+Tmax (h) 1.908 ± 0.954
+Dose (mg) 113.0 ± 40.85
+AUC0–12h, area under the concentration-time curve from 0–12 h; Cmax, peak
+concentration, Tmax, time to reach Cmax; SD, standard deviation.
+100 and (% rmse). A positive or negative mei indicates, res-
+pectively, overprediction or underprediction of the concen-
+trations by the model. Precision and mean bias < 15% was
+acceptable [8].
+2.5. Statistical Analysis. The association between cyclospo-
+rine AUC using all available data points (AUC-all) and the
+AUC values predicted by each LSS was described using Pear-
+son correlation coeﬃcients (R2); values >0.9 were acceptable.
+Multiple stepwise regression analysis was used to determine
+the points of CsA samples that derived model equations that
+best ﬁtted the CsA AUC0–12h.
+Table 3: Correlations and regression equations between AUC0−12h
+and CsA concentration at each time point.
+Sampling
+time (h)
+Model equation for
+abbreviated AUC (µg·h/mL)
+Pearson
+R2
+0 AUC0–12h = 1.59 + 13.371 × C0 0.391
+0.5 AUC0–12h = 2.779 + 3.197 × C0.5 0.481
+1 AUC0–12h = 3.332 + 1.558 × C1 0.596
+1.5 AUC0–12h = 1.797 + 3.639 × C1.5 0.712
+2 AUC0–12h = 1.384 + 4.268 × C2 0.848
+3 AUC0–12h = 1.52 + 4.76 × C3 0.835
+4 AUC0–12h = 1.818 + 5.357 × C4 0.897
+6 AUC0–12h = 1.479 + 9.651 × C6 0.660
+8 AUC0–12h = 1.37 + 12.683 × C8 0.717
+12 AUC0–12h = 1.772 + 14.489 × C12 0.786
+Cx concentration at x time, AUC area under the concentration-time curve.
+All statistical analyses were performed using SPSS soft-
+ware for windows (version 11.5.0 Inc., Chicago, Illinois).
+Data were expressed as mean ± SD.
+3. Results
+Thirty full pharmacokinetic proﬁles of CsA were obtained
+(Figure 1). The mean CsA dose at the time of the measure-
+ment was 113 ± 40.85 mg. The peak concentration of CsA
+generally accrued 2-3 hours after morning dosing. Mean
+trough concentration C0 was 0.470 ± 0.178µg·mL−1. The
+mean AUC0–12h was 4.340 ± 1.195µg·h·mL−1 (Table 2).
+The linear regression equations and the concentration at
+each time point are listed in Table 3. The 10 models that used
+CsA concentrations at a single time point did not have a good
+ﬁt (R2 < 0.90). C2 and C4 were the time points that correlated
+best with AUC0–12h, R2 were, respectively, 0.848 and 0.897.
+Moreover, the correlation between AUC0–12h and the trough
+concentration (C0 or C12) was poor, R2 = 0.391 for C0
+and R2 = 0.786 for C12 (Table 3). The correlations between
+AUC0–12h and CsA concentrations at various points C0, C2,
+and C4, are demonstrated in Figures 2(a), 2(b), and 2(c). The
+dose of CsA per kilogram of body weight and total dose of
+CsA did not correlate with AUC0–12h (data not shown).
+Pharmacokinetic data from 30 ASCT recipient’s patients
+were used to test the LSS equations. Multiple linear regres-
+sion analysis of the correlation between the estimated cyclo-
+sporine (CsA) AUC0–12h and full hours CsA AUC were listed
+in Table 4.
+From the various equations obtained for the estimation
+of CsA AUC, the equation delineated from all of the concen-
+tration-time data (AUC0–12h = 0.152 − 2.249 × C0 + 0.577 ×
+C0.5 + 0.871 × C1 − 0.001 × C1.5 + 0.963 × C2 + 1.16 × C3 +
+0.152 × C4 + 1.66 × C6 + 3.47 × C8 + 2.703 × C12; R2 = 0.991)
+had the highest coeﬃcient of determination (Figure 3(a)).
+Among models that used CsA concentrations at 2 time
+points, best model 1 (R2 = 0.930), which used C2 and C4.
+Among models that used CsA concentrations at 3 time
+points, best model 12 (R2 = 0.943), which used C0.5, C2, and
+C4. Among models that used CsA concentrations at 4 time
+Journal of Transplantation 5
+Table 4: Multiple linear regression analysis of the correlation between the estimated cyclosporine (CsA) AUC0–12h and full hours CsA AUC
+(N = 30).
+Models
+Sampling
+time (h)
+Model equation for abbreviated AUC Pearson R2
+1 2, 4 AUC0–12h = 0.82 + 2.766 × C2 + 3.409 × C4 0.930
+2 0, 2 AUC0–12h = 0.697 + 7.85 × C0 + 2.926 × C2 0.797
+3 2, 6 AUC0–12h = 0.483 + 2.752 × C2 + 6.58 × C6 0.908
+4 2, 3 AUC0–12h = 0.936 + 2.012 × C2 + 3.405 × C3 0.903
+5 3, 4 AUC0–12h = 1.364 + 3.694 × C3 + 1.688 × C4 0.878
+6 3, 6 AUC0–12h = 1.305 + 3.534 × C3 + 3.199 × C6 0.884
+7 0, 2, 6 AUC0–12h = 0.291 + 3.972 × C0 + 2.336 × C2 + 5.44 × C6 0.879
+8 0, 4, 6 AUC0–12h = 0.768 + 6.412 × C0 + 2.172 × C4 + 4.152 × C6 0.80
+9 1, 2, 4 AUC0–12h = 0.735 + 0.388 × C1 + 2.357 × C2 + 3.654 × C4 0.939
+10 1.5, 3, 4 AUC0–12h = 0.701 + 1.924 × C1.5 + 2.545 × C3 + 1.682 × C4 0.921
+11 1.5, 2, 4 AUC0–12h = 0.733 + 2.833 × C1.5 + 0.252 × C2 + 3.818 × C4 0.901
+12 0.5, 2, 4 AUC0–12h = 0.607 + 1.569 × C0.5 + 2.098 × C2 + 3.603 × C4 0.943
+13 0, 2, 4 AUC0–12h = 0.464 + 5.388 × C0 + 2.155 × C2 + 2.708 × C4 0.909
+14 2, 4, 6 AUC0–12h = 0.471 + 2.51 × C2 + 1.367 × C4 + 5.015 × C6 0.939
+15 2, 3, 4 AUC0–12h = 0.807 + 1.952 × C2 + 2.495 × C3 + 1.504 × C4 0.925
+16 1, 1.5, 2, 4 AUC0–12h = 0.842 − 0.372 × C1 + 2.834 × C1.5 + 0.036 × C2 + 3.681 × C4 0.885
+17 2, 4, 6, 8 AUC0–12h = 0.148 + 2.457 × C2 + 1.582 × C4 + 1.296 × C6 + 5.81 × C8 0.965
+18 1, 2, 4, 6 AUC0–12h = 0.23 + 0.851 × C1 + 1.573 × C2 + 1.57 × C4 + 5.838 × C6 0.954
+19 0, 2, 4, 6 AUC0–12h = 0.287 + 3.821 × C0 + 2.127 × C2 + 1.271 × C4 + 4.033 × C6 0.924
+20 1.5, 2, 3, 4 AUC0–12h = 0.75 + 2.726 × C1.5 − 1.138 × C2 + 2.764 × C3 + 1.787 × C4 0.909
+21 0.5, 1.5, 2, 4 AUC0–12h = 0.731 + 0.365 × C0.5 + 1.895 × C1.5 + 0.524 × C2 + 3.793 × C4 0.915
+22 0, 1.5, 2, 4 AUC0–12h = 0.483 + 4.604 × C0 + 1.613 × C1.5 + 0.467 × C2 + 3.099 × C4 0.899
+23 1.5, 2, 4, 6 AUC0–12h = 0.414 + 2.401 × C1.5 − 0.141 × C2 − 1.748 × C4 + 5.137 × C6 0.934
+24 Full hours
+AUC0–12h = 0.152 − 2.249 × C0 + 0.577 × C0.5 + 0.871 × C1 − 0.001 × C1.5
++0.963 × C2 + 1.16 × C3 + 0.152 × C4 + 1.66 × C6 + 3.47 × C8
++2.703 × C12
+0.991
+points, best model 17 (R2 = 0.965), which used C2, C4, C6,
+and C8 (Figure 3(b)). However, the negative bias obtained for
+this combination (−0.21%) indicates that it tends to under-
+predict AUC (Figure 2(f)). Optimal LSS equations were
+limited to those utilizing a maximum of three timed concen-
+trations taken within 4 hours after dose, and with a coeﬃ-
+cient of determination (R2 > 0.9):
+AUC0–12h = 0.82 + 2.766 × C2 + 3.409 × C4 R2
+= 0.930 ,
+(2)
+AUC0–12h = 0.735 + 0.388 × C1 + 2.357 × C2
++ 3.654 × C4 R2
+= 0.939 ,
+(3)
+AUC0-12h = 0.607 + 1.569 × C0.5 + 2.098 × C2
++ 3.603 × C4 R2
+= 0.943 .
+(4)
+Predictive performance of all LSSs models were summa-
+rized in Table 5. All three optimal LSSs equations developed
+from ASCT recipient’s patients in our laboratory yielded a
+low bias <5% ranged from 1.27% to 2.68% and good pre-
+cision <15% ranged from 9.60% and 11.02%. The LSS equa-
+tion with the best predictive performance (bias, precision,
+and number of samples) was (4), which utilizes C0.5, C2, and
+C4 (Figure 2(e)). The LSS equation (2) utilizes C2 and C4
+demonstrated low bias (2.68%) and good precision (11.02%;
+Figure 2(d)).
+4. Discussion
+Graft-versus-host disease (GVHD) remains a major limiting
+factor for a successful result after ASCT; it aﬀects mortality,
+morbidity, and quality of life. CsA-based immunosuppres-
+sion has been the most frequently used regimen for prophy-
+laxis and treatment of GVHD in patients undergoing HSCT
+[19, 20]. Therapeutic monitoring of CsA provides a more
+accurate measure of posttransplant immunosuppression and
+this by assessment of pharmacokinetic parameters. The area
+under concentration-time curve (AUC) is a more important
+index in therapeutic drug monitoring and in pharmacoki-
+netics. In this investigation patients were received a mean
+dose of cyclosporine A (neoral or equoral) 113.0 ± 40.85 mg.
+A recent study demonstrates that two formulations were
+bioequivalent in ASCT patients [21].
+6 Journal of Transplantation
+Table 5: Prediction bias and precision of models for estimating the
+cyclosporine (CsA) AUC0−12h (n = 30).
+Models
+Sampling
+time (h)
+Bias (me%)
+Precision
+(rmse%)
+1 2, 4 2.68 11.02
+2 0, 2 −0.09 11.74
+3 2, 6 5.48 13.63
+4 2, 3 4.10 13.08
+5 3, 4 0.97 13.97
+6 3, 6 2.64 13.28
+7 0, 2, 6 −0.60 10.64
+8 0, 4, 6 −4.95 15.76
+9 1, 2, 4 1.35 9.76
+10 1.5, 3, 4 1.30 11.65
+11 1.5, 2, 4 0.69 13.57
+12 0.5, 2, 4 1.27 9.60
+13 0, 2, 4 −2.42 9.54
+14 2, 4, 6 2.83 9.61
+15 2, 3, 4 2.22 11.33
+16 1, 1.5, 2, 4 0.58 15.05
+17 2, 4, 6, 8 −0.21 8.04
+18 1, 2, 4, 6 2.59 8.50
+19 0, 2, 4, 6 −0.60 8.77
+20 1.5, 2, 3, 4 41.77 45.19
+21 0.5, 1.5, 2, 4 2.39 12.55
+22 0, 1.5, 2, 4 −1.25 10.07
+23 1.5, 2, 4, 6 3.6 10.78
+24 All 2.41 2.86
+Mean
+IC 95%
+2.86
+(−0.57–6.29)
+12.49
+(9.51–15.48)
+The time to reach Cmax(Tmax) in this study was 1.908 ±
+0.954; this is similar to the values reported for other HSCT
+patients, 1.9 ± 0.8 h [22] 2.4 ± 1.1 h [3]. As previous studies
+have reported, Tmax for HSCT recipients has shown that
+absorption is delayed in comparison to that measured in
+solid organ allograft recipients [22]. It is thought that the
+diﬀerences are due to the presence of gastrointestinal inﬂam-
+mation caused by mucositis or GVHD [3].
+A number of trials have employed C2 monitoring in
+solid organ transplantation [23], C2 monitoring is being in-
+creasingly employed in the management of solid organ reci-
+pients with a recent survey of renal transplant centres ﬁnd-
+ing that most of the respondents were now measuring C2
+concentration [24]. In a stem cells transplant setting, where it
+is clear that current practice of trough-level monitoring still
+results in unacceptably high levels of GVHD, therefore is a
+scope to explore the potential of monitoring the drug (both
+I.V and oral) via alternative measures of exposure or activity
+[1]. A recent investigation demonstrate a close relationship
+between AUC0–12h and the C8 after oral administration of
+CsA in allogenic haematopoietic stem cell transplantation
+(ASTH) [13], and between AUC0–12h and two concentrations
+C3 and C2 after twice-daily infusion [12, 13].
+Therapeutic monitoring of Tunisian ASTH patients was
+based on C0 determination; this concentration is weakly
+correlated with AUC0–12h (R2 = 0.391). That we bring to
+search what concentrations are well correlated with AUC and
+how to estimate abbreviated AUC in ASCT.
+The major ﬁndings of this study are that the concentra-
+tion measurements at C2 and C4 were the time points that
+correlated best with AUC0–12h after oral administration of
+CsA in allogenic stem cells transplant patients rather than
+the trough level. These time points provide a more accurate
+measure of posttransplant immunosuppression. Therefore,
+the target concentration of CsA in ASHT patients, after the
+switch to oral administration using C2 monitoring to adjust
+the dose, is easily applied the same level of C4 monitoring
+with oral administration.
+Another clinically attractive ﬁnding of our study was
+using two time sampling points C2 and C4 for estimating
+CsA AUC0–12h. The regression equation was AUC0–12h =
+0.82 + 2.766 × C2 + 3.409 × C4, R2 = 0.930). The bias
+of this model was 2.68%, and the precision was 11.02%.
+Additional C4 sampling is valuable to support the individual
+dosing. To further increase the accuracy and decrease bias of
+predicted AUC0–12h, we added time point sampling in absor-
+ption phase C0.5 (R2 = 0.943, me% = 1.27, rmse% = 9.60)
+or C1 (R2 = 0.939, me% = 1.35, rmse% = 9.76). Indeed,
+optimal LSSs equations, which are limited to those utilizing
+three timed concentrations taken within 4 hours after dose,
+are (4) and (3). Optimal Among models that used CsA con-
+centrations at 4 time points are model 17 (AUC0–12h =
+0.148 + 2.457 × C2 + 1.582 × C4 + 1.296 × C6 + 5.81 ×
+C8, R2 = 0.965). However, the negative bias obtained for
+this combination (−0.21%) indicates that it tends to under-
+predict AUC.
+5. Conclusion
+Limited sampling strategy models were selected to predict
+the full 12-hour CsA AUC in allogenic haematopoietic stem
+cell transplant patients receiving CsA. We propose an LSS
+model with equation AUC0–12h = 0.82+2.766×C2 +3.409×
+C4, which is limited to utilizing two timed concentrations
+taken within 4 hours after dose and providing a low bias and
+a good precision, it is for a practical reason.
+References
+[1] N. Duncan and C. Craddock, “Optimizing the use of cyclo-
+sporin in allogeneic stem cell transplantation,” Bone Marrow
+Transplantation, vol. 38, no. 3, pp. 169–174, 2006.
+[2] A. J. Willemze, S. C. Cremers, R. C. Schoemaker et al., “Ciclo-
+sporin kinetics in children after stem cell transplantation,”
+British Journal of Clinical Pharmacology, vol. 66, no. 4, pp. 539–
+545, 2008.
+[3] K. R. Schultz, T. J. Nevill, R. F. Balshaw et al., “Eﬀect of gastro-
+intestinal inﬂammation and age on the pharmacokinetics of
+oral microemulsion cyclosporin A in the ﬁrst month after
+bone marrow transplantation,” Bone Marrow Transplantation,
+vol. 26, no. 5, pp. 545–551, 2000.
+Journal of Transplantation 7
+[4] J. L. M. Ferrara, K. R. Cooke, and T. Teshima, “The pathophys-
+iology of acute graft-versus-host disease,” International Journal
+of Hematology, vol. 78, no. 3, pp. 181–187, 2003.
+[5] J. L. Ferrara, J. E. Levine, P. Reddy, and E. Holler, “Graft-ver-
+sus-host disease,” The Lancet, vol. 373, no. 9674, pp. 1550–
+1561, 2009.
+[6] A. Devergie, “Graft versus host disease,” in Haemopoietic Stem
+Cell Transplantation, J. Apperley, E. Carrears, E. Gluckman, A.
+Gratwohl, and T. Masszi, Eds., pp. 162–177, Forum Service
+Editore, 2004.
+[7] M. Oellerich, V. W. Armstrong, B. Kahan et al., “Lake Louise
+consensus conference on cyclosporin monitoring in organ
+transplantation: report of the consensus panel,” Therapeutic
+Drug Monitoring, vol. 17, no. 6, pp. 642–654, 1995.
+[8] O. J. David and A. Johnston, “Limited sampling strategies for
+estimating cyclosporin area under the concentration-time
+curve: review of current algorithms,” Therapeutic Drug Moni-
+toring, vol. 23, no. 2, pp. 100–114, 2001.
+[9] B. Nashan, E. Cole, G. Levy, and E. Thervet, “Clinical valida-
+tion studies of neoral C2 monitoring: a review,” Transplanta-
+tion, vol. 73, no. 9, pp. S3–S11, 2002.
+[10] S. R. Knight and P. J. Morris, “The clinical beneﬁts of cyclo-
+sporine C2-level monitoring: a systematic review,” Transplan-
+tation, vol. 83, no. 12, pp. 1525–1535, 2007.
+[11] L. Barkholt, M. Remberger, H. Bodeg˚ard, O. Ringd´en, and Y.
+B¨ottiger, “Cyclosporine A (CsA) 2-h concentrations vary bet-
+ween patients without correlation to graft-versus-host disease
+after allogeneic haematopoietic stem cell transplantation,”
+Bone Marrow Transplantation, vol. 40, no. 7, pp. 683–689,
+2007.
+[12] T. Furukawa, T. Kurasaki-Ida, M. Masuko et al., “Pharmacoki-
+netic and pharmacodynamic analysis of cyclosporine A (CsA)
+to ﬁnd the best single time point for the monitoring and
+adjusting of CsA dose using twice-daily 3-h intravenous infu-
+sions in allogeneic hematopoietic stem cell transplantation,”
+International Journal of Hematology, vol. 92, no. 1, pp. 144–
+151, 2010.
+[13] Y. Inoue, T. Saito, K. Ogawa et al., “Pharmacokinetics of cyclo-
+sporine A at a high-peak concentration of twice-daily infusion
+and oral administration in allogeneic haematopoietic stem cell
+transplantation,” Journal of Clinical Pharmacy and Therapeu-
+tics, vol. 36, no. 4, pp. 518–524, 2011.
+[14] B. Koristkova, M. Grundmann, H. Brozmanova, I. Perinova,
+and K. Safarcik, “Validation of sparse sampling strategies to
+estimate cyclosporine a area under the concentration-time
+curve using either a speciﬁc radioimmunoassay or high-per-
+formance liquid chromography method,” Therapeutic Drug
+Monitoring, vol. 32, no. 5, pp. 586–593, 2010.
+[15] N. Jebabli, A. Klouz, A. Bahlous et al., “Comparison of three
+methods for cyclosporine therapeutic monitoring,” Transplan-
+tation Proceedings, vol. 39, no. 8, pp. 2557–2559, 2007.
+[16] M. Rowland and T. Tozer, Clinical Pharmacokinetics Concepts
+and Applications, Lippincott Williams & Wilkins, 3rd edition,
+1995.
+[17] L. B. Sheiner and S. L. Beal, “Some suggestions for measuring
+predictive performance,” Journal of Pharmacokinetics and Bio-
+pharmaceutics, vol. 9, no. 4, pp. 503–512, 1981.
+[18] L. S. L. Ting, N. Partovi, R. D. Levy, K. W. Riggs, and M. H. H.
+Ensom, “Limited sampling strategy for predicting area under
+the concentration-time curve of mycophenolic acid in adult
+lung transplant recipients,” Pharmacotherapy, vol. 26, no. 9,
+pp. 1232–1240, 2006.
+[19] F. Locatelli, C. Uderzo, G. Dini et al., “Graft-versus-host dis-
+ease in children: the AIEOP-BMT group experience with
+cyclosporin A,” Bone Marrow Transplantation, vol. 12, no. 6,
+pp. 627–633, 1993.
+[20] C. Peters, M. Minkov, H. Gadner et al., “Statement of current
+majority practices in graft-versus-host disease prophylaxis and
+treatment in children,” Bone Marrow Transplantation, vol. 26,
+no. 4, pp. 405–411, 2000.
+[21] B. O. Tarek, B. F. Nadia, K. Anis et al., “Assessment of bioequi-
+valence of a generic cyclosporine (Equoral) by a prospective
+randomized controlled trial on allogeneic stem cell transplant
+recipients,” Transplantation Proceedings, vol. 42, no. 9, pp.
+3735–3738, 2010.
+[22] J. S. Choi, S. H. Lee, S. J. Chung, K. H. Yoo, K. W. Sung, and
+H. H. Koo, “Assessment of converting from intravenous to
+oral administration of cyclosporin A in pediatric allogeneic
+hematopoietic stem cell transplant recipients,” Bone Marrow
+Transplantation, vol. 38, no. 1, pp. 29–35, 2006.
+[23] M. Cantarovich, E. Elstein, B. de Varennes, and J. S. Barkun,
+“Clinical beneﬁt of neoral dose monitoring with cyclosporine
+2-hr post-dose levels compared with trough levels in stable
+heart transplant patients,” Transplantation, vol. 68, no. 12, pp.
+1839–1842, 1999.
+[24] D. W. Holt, V. W. Armstrong, A. Griesmacher, R. G. Morris, K.
+L. Napoli, and L. M. Shaw, “International federation of clin-
+ical chemistry/international association of therapeutic drug
+monitoring and clinical toxicology working group on im-
+munosuppressive drug monitoring,” Therapeutic Drug Mon-
+itoring, vol. 24, no. 1, pp. 59–67, 2002.
+

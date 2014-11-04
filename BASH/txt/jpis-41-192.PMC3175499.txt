@@ -1,0 +1,918 @@
+www.jpis.org
+Journal of Periodontal
+& Implant ScienceJPIS
+pISSN 2093-2278
+eISSN 2093-2286
+Copyright © 2011 Korean Academy of Periodontology
+This is an Open Access article distributed under the terms of the Creative Commons Attribution
+Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/).
+Gene expression profile in mesenchymal stem
+cells derived from dental tissues and bone marrow
+Su-Hwan Kim1,2
+, Young-Sung Kim1,2
+, Su-Yeon Lee3,4
+, Kyoung-Hwa Kim5
+, Yong-Moo Lee5
+,
+Won-Kyung Kim1
+, Young-Kyoo Lee1,*
+1
+Department of Periodontics, Asan Medical Center, Seoul, Korea
+2
+Department of Dentistry, University of Ulsan College of Medicine, Seoul, Korea
+3
+Seoul National University Biomedical Informatics (SNUBI), Seoul National University, Seoul, Korea
+4
+Systems Biomedical Informatics Research Center, Division of Biomedical Informatics, Seoul National University College of Medicine,
+Seoul, Korea
+5
+Department of Periodontology, Seoul National University School of Dentistry, Seoul, Korea
+Purpose:  The aim of this study is to compare the gene expression profile in mesenchymal stem cells derived from dental tis-
+sues and bone marrow for characterization of dental stem cells.
+Methods:  We employed GeneChip analysis to the expression levels of approximately 32,321 kinds of transcripts in 5 samples
+of bone-marrow-derived mesenchymal stem cells (BMSCs) (n=1), periodontal ligament stem cells (PDLSCs) (n=2), and dental
+pulp stem cells (DPSCs) (n=2). Each cell was sorted by a FACSVantage Sorter using immunocytochemical staining of the early
+mesenchymal stem cell surface marker STRO-1 before the microarray analysis.
+Results:  We identified 379 up-regulated and 133 down-regulated transcripts in BMSCs, 68 up-regulated and 64 down-regulat-
+ed transcripts in PDLSCs, and 218 up-regulated and 231 down-regulated transcripts in DPSCs. In addition, anatomical struc-
+ture development and anatomical structure morphogenesis gene ontology (GO) terms were over-represented in all three dif-
+ferent mesenchymal stem cells and GO terms related to blood vessels, and neurons were over-represented only in DPSCs.
+Conclusions:  This study demonstrated the genome-wide gene expression patterns of STRO-1+
+mesenchymal stem cells de-
+rived from dental tissues and bone marrow. The differences among the expression profiles of BMSCs, PDLSCs, and DPSCs
+were shown, and 999 candidate genes were found to be definitely up- or down-regulated. In addition, GOstat analyses of reg-
+ulated gene products provided over-represented GO classes. These data provide a first step for discovering molecules key to
+the characteristics of dental stem cells.
+Keywords:  Adult stem cells, Gene expression profiling, Mesenchymal stem cells, Microarray analysis, mRNA.
+J Periodontal Implant Sci 2011;41:192-200 • http://dx.doi.org/10.5051/jpis.2011.41.4.192
+Research Article
+INTRODUCTION
+Stem cells are undifferentiated cells characterized by the
+ability at the single cell level to both self-renew and differen-
+tiate to produce mature progeny cells [1,2]. The embryonic
+stem cells and the adult stem cells are two major categories
+of stem cells. Adult stem cells are undifferentiated cells found
+in specialized tissues and organs of adults. Compared to the
+embryonic stem cells, adult stem cells that exist in various
+organs of the body are easily accessible and less controversial
+in ethical terms [3,4].
+The presence of adult stem cells in dental tissue has been
+Received:  Jun. 6, 2011;  Accepted:  Jul. 3, 2011
+*Correspondence:  Young-Kyoo Lee
+Department of Periodontics, Asan Medical Center, 88 Olympic-ro 43-gil, Songpa-gu, Seoul 138-736, Korea
+E-mail: periolee@amc.seoul.kr, Tel: +82-2-3010-3846, Fax: +82-2-3010-6967
+Journal of Periodontal
+& Implant ScienceJPIS Su-Hwan Kim et al. 193
+formally proven. Seo et al. [5] reported that periodontal liga-
+ment stem cells (PDLSCs) expressed the mesenchymal stem-
+cell markers STRO-1 and CD146/MUC18. Up to now, 5 differ-
+ent human dental stem/progenitor cells have been described
+in the literature: dental pulp stem cells (DPSCs), stem cells
+from exfoliated deciduous teeth (SHED),periodontal ligament
+stem cells (PDLSCs),stem cells from apical papilla (SCAP),and
+dental follicle progenitor cells (DFPCs) [5-11]. These cells are
+easily accessible and, in contrast to bone-marrow-derived
+mesenchymal stem cells (BMSCs), are more intimately asso-
+ciated with dental tissues [3].
+There are plenty of adult stem cells available for possible
+cell-based tissue engineering.Traditionally,BMSCs have been
+studied for bone regeneration. BMSCs are a population of
+multipotent, non-hematopoietic marrow-derived cells that
+are easily expanded in culture and differentiate into cells with
+an osteogenic phenotype [12,13]. Transplantation of BMSCs
+showed enhancement of periodontal tissue regeneration and
+bone formation [14,15]. Since dental stem cells were first iden-
+tified, these cells have come under the spotlight in dental tis-
+sue engineering. Recently, numerous investigators have at-
+tempted to use these cells for dental tissue regeneration to
+assess their potential in pre-clinical applications [16,17]. Con-
+sequently, dental tissues are clinically accessible in routine
+clinical practice like tooth extraction, possibly providing a
+readily available source of stem cells, and these dental stem
+cells may be an ideal source for clinical periodontal regener-
+ative therapy [5,16,18].
+However, little is known about the characteristics of dental
+stem cells. In the case of PDLSCs, the PDL is composed of
+heterogeneous cell populations and thus far no highly puri-
+fied PDLSCs clone has yet been established from human PDL
+tissue [18-20]. The challenge lies in the ability to identify a
+dental stem cell-specific marker that allows for the selection
+of a pure dental stem cell population [21].
+The development of microarray methods for large-scale
+analysis of mRNA gene expression makes it possible to search
+systematically for key molecules [22,23]. After introduction of
+these genome-wide research techniques, there have been
+various attempts to describe and compare the gene expres-
+sion patterns of more specialized adult stem cells for cell
+characterization [24-26].
+The aim of this study was to compare the gene expression
+profile in mesenchymal stem cells derived from dental tis-
+sues and bone marrow for characterization of dental stem
+cells. In this study, the gene profiles from two individual
+PDLSCs and DPSCs samples were compared with BMSCs as
+a control.
+MATERIALS AND METHODS
+Subjects
+Normal human extracted premolars were collected from
+one adult man (19 years old) and one adult woman (18 years
+old) at the Department of Dentistry, Asan Medical Center.
+The subjects were selected according to the following inclu-
+sion criteria: A person scheduled for tooth extraction for
+orthodontic reasons, general good health, absence of peri-
+odontal disease, and being a non smoker. Both of the sub-
+jects were thoroughly informed about the use of the extract-
+ed teeth and gave written consent for inclusion and genetic
+testing in the study. This study was approved by the Institu-
+tional Review Board of Asan Medical Center (No. 2010-0233).
+Cell culture
+The extracted premolars were placed into regular transfer
+medium and the PDL and the pulp tissue extracted and pre-
+pared as single cell suspensions as previously described [5,6].
+Briefly, the PDL was gently separated from the root surface
+of the middle third of the extracted teeth.The pulp tissue was
+also separated after the tooth surfaces were cleaned and cut
+around the cementum-enamel junction by using a sterilized
+dental disk to reveal the pulp chamber. The PDL and pulp
+tissues obtained were digested in a solution of 3 mg/mL col-
+lagenase type I (Gibco, Grand Island, NY, USA) and 4 mg/mL
+dispase (Gibco) for 1 hour at 37°C. Single-cell suspensions
+were obtained by passing through a 70 µm stainer (BD Bio-
+sciences, Franklin Lakes, NJ, USA).
+To identify the putative stem cell, single-cell suspensions
+(1×104
+cells) were seeded into 10 cm culture dishes with al-
+pha-modification of Eagle’s medium (Gibco) supplement with
+15% fetal bovine serum (FBS) (Gibco), 100 mol/L ascorbic acid
+2-phospate (Fluka Chemie GmbH, Buchs, Switzerland), 100
+U/mL penicillin (Gibco), and 100 µg/mL streptomycin (Gibco)
+and incubated at 37°C in 5% carbon dioxide. The cells of the
+colonies (aggregates of 50 or more cells) were collected and
+stored in liquid nitrogen until use.
+BMSCs, processed from marrow aspirates of a normal hu-
+man adult volunteer (female, 22 years old), were purchased
+from LonzaWalkersville Inc. (Walkersville, MD, USA).
+In this study, cell passage 2 of the PDLSCs and DPSCs and
+passage 4 of the BMSCs were used for purification by a FACS
+Vantage cell sorter (FACS Vantage SE, Becton Dickinson, San
+Jose, CA, USA) and for further procedures.
+Sorting of STRO-1+
+cells
+The sorting was carried out on a FACSVantage Sorter using
+immunocytochemical staining of the early mesenchymal
+stem cell surface marker STRO-1 following previously re-
+Journal of Periodontal
+& Implant ScienceJPISGene expression profile in dental stem cells194
+ported methods [27].
+Cells were incubated with a monoclonal anti-human STRO-1
+primary antibody (R&D Systems Inc., Minneapolis, MN, USA)
+in 2% FBS/phosphate buffered saline (PBS) for 1 hour. After
+three washes with 2% FBS/PBS, the cells were incubated with
+fluorescein isothiocyanate-conjugated goat anti-mouse im-
+munoglobulin M secondary antibody (BioFX Laboratories
+Inc., Owings Mills, MD, USA) for 30 minutes. Cells were
+washed and resuspended in regular growth medium. All the
+above procedures were performed in the dark at 4°C.
+The expression profiles of STRO-1 on cells were examined
+and sorted by the FACSVantage sorter.The sorting gates were
+set to sort the strong positive STRO-1 cells and exclude the
+weak positive ones. The sorted cells were collected in a tube
+containing growth medium. The cells were seeded into 10
+cm culture dishes and incubated until they were just sub-
+confluent.
+RNA isolation
+The sorted and expanded cells were stored in RNAlater
+(Ambion Diagnostics Inc., Austin, TX, USA) for RNA extrac-
+tion and preparation for the gene chip experiments. Total
+RNA was isolated applying a mirVana miRNA isolation kit
+(Ambion Diagnostics Inc.), according to the manufacturer’s
+instructions. RNA concentration was quantified with a Nano-
+Drop spectrophotometer (NanoDropTechnologies Inc.,Wilm-
+ington, DE, USA), and the RNA integrity was evaluated using
+Agilent Bioanalyzer (Agilent Technologies, Santa Clara, CA,
+USA).
+Microarray analysis
+300 ng of total RNA was used for labeling. Probe synthesis
+from the total RNA samples, hybridization, detection, and
+scanning were performed according to standard protocols
+from Affymetrix, Inc. (Santa Clara, CA, USA).
+Briefly, cDNA was synthesized from total RNA using the
+Whole Transcript (WT) sense target labeling and control re-
+agents kit (Affymetrix, Inc.). Double-stranded cDNA was syn-
+thesized with random hexamers tagged with a T7 promoter
+sequence.The double-stranded cDNA was subsequently used
+as a template second cycle of cDNA synthesis, and random
+hexamers were used to prime reverse transcription of the
+cRNA from the first cycle to produce single-stranded DNA in
+the sense orientation. In order to reproducibly fragment the
+single-stranded DNA and improve the robustness of the as-
+say, a novel approach was utilized where UTP was incorpo-
+rated in the DNA during the second-cycle,first-strand reverse
+transcription reaction.This single-stranded DNA sample was
+then treated with a combinatoion of Uracil-DNA glycosylase
+& apurinic/apyrimidinic endonuclease 1 that specifically rec-
+ognized the unnatural dUTP residues and broke the DNA
+strand. DNA was labeled by terminal deoxynucleotidyl trans-
+ferases with the WT terminal labeling kit (Affymetrix, Inc.).
+The labeled cDNA was hybridized to the Human Gene 1.0 ST
+array (Affymetrix, Inc.) at 45°C for 17 hours according to the
+Affymetrix standard protocol. After hybridization, the arrays
+were washed in a GeneChip Fluidics Station 450 with a non-
+stringent wash buffer at 25°C followed by a stringent wash
+buffer at 50°C. After washing, the arrays were stained with a
+streptavidin-phycoerythrin complex. After staining, intensi-
+ties were determined with a GeneChip scanner 3000 (Affyme-
+trix, Inc.), controlled by GCOS Affymetrix software.
+Data analysis
+We performed three comparisons: BMSCs and PDLSCs,
+BMSCs and DPSCs, and PDLSCs and DPSCs. First, we fit a
+model that had a mean for each group, and tested whether
+the group means were different. The eBayes function in the
+R package Limma [28] was used to compute an empirical
+Bayes factor, pooling the variances from all the genes to esti-
+mate significance. After that, we had a model fit that estimat-
+ed the log ratios between the two group samples for each of
+the three times. The fit also had an estimate of the Bayes fac-
+tor and the log odds of differential expression for each gene.
+Estimated P-values using a number of multiple testing cor-
+rections were computed using Benjamini-Hochberg correc-
+tion [29]. The adjusted P-value’s cutoff is 0.001. We identified
+differentially expressed genes in each test. Each differentially
+expressed gene was analyzed using DAVID for analysis [30].
+RESULTS
+Isolation of mesenchymal stem cells using FACS Vantage
+Sorter
+Isolation of STRO-1+
+cells from each heterogeneous popu-
+lation was conducted using a FACS sorter machine. 0.96%
+and 1.38% STRO-1+
+PDLSCs, 0.81% and 2.3% STRO-1+
+DPSCs
+and 0.73% STRO-1+
+BMSCs were successfully isolated using
+sorting gates strictly (Fig. 1). There were some differences in
+expression of STRO-1 between the patients and among the
+cell types.
+Gene expression profile
+We employed GeneChip analysis to expression levels of ap-
+proximately 32,321 kinds of transcripts in 5 samples of BM-
+SCs (n=1), PDLSCs (n=2), and DPSCs (n=2). Each sample was
+tested in triplicate to reduce technical errors. Altogether, 15
+GeneChips were used to examine the gene expression profile
+of three different types of mesenchymal stem cells.
+Differential expression was stated if a distinct transcript
+Journal of Periodontal
+& Implant ScienceJPIS Su-Hwan Kim et al. 195
+met the adjusted P-value’s cutoff of 0.001. We identified 999
+differentially expressed genes. In BMSCs, we identified 379
+up-regulated transcripts, such as IGFBP5, KRT34, and DKK1,
+and 133 down-regulated transcripts, such as BEX1, GSTT1,
+GREM1, and NES. In PDLSCs, we identified 68 up-regulated
+transcripts, such as EBF2, PLXNC1, IL7R, and SATB2, and 64
+down-regulated transcripts, such as TLR4, EDN1, and LMCD1.
+In DPSCs, we identified 218 up-regulated transcripts, such as
+BMP2, NES, COL18A1, EFHD1, and TGFB2, and 231 down-reg-
+ulated transcripts, such as KRT34, GALNT5, and PENK. The
+most thoroughly up- and down-regulated genes in each cell
+types are listed inTables 1-3.
+Additionally, heatmap, comparing the 53 genes most differ-
+entially expressed in PDLSCs, DPSCs, and BMSCs was shown
+(Fig. 2).
+Gene Ontology (GO) Analysis
+Major over-represented GO classes are listed in Table 4. In
+BMSCs, enrichment of gene productions were associated
+with the major GO classes of skeletal system, system, ana-
+tomical structure, and embryonic skeletal system develop-
+ment. In general, anatomical structure development and an-
+atomical structure morphogenesis GO terms were over-rep-
+resented in all three-different mesenchymal stem cells. In
+DPSCs, only GO terms related to blood vessels and neurons
+were over-represented.
+DISCUSSION
+In this study,we compared mesenchymal stem cells derived
+from dental tissues and bone marrow by employing genome-
+1,000
+800
+600
+400
+200
+0
+1,000
+800
+600
+400
+200
+0
+1,000
+800
+600
+400
+200
+0
+	0	 1	 2	 3	 4
+	0	 1	 2	 3	 4
+	0	 1	 2	 3	 4
+	10	 10	 10	 10	 10
+	10	 10	 10	 10	 10
+	10	 10	 10	 10	 10
+FL1-H
+FL1-H
+FL1-H
+SSC-HSSC-H
+PDLSCs
+DPSCs
+BMSCs
+SSC-H
+STRO-1 Ab.
+R2=0.96%
+R2=0.81%
+R2=0.73%
+1,000
+800
+600
+400
+200
+0
+1,000
+800
+600
+400
+200
+0
+1,000
+800
+600
+400
+200
+0
+	0	 1	 2	 3	 4
+	0	 1	 2	 3	 4
+	0	 1	 2	 3	 4
+	10	 10	 10	 10	 10
+	10	 10	 10	 10	 10
+	10	 10	 10	 10	 10
+FL1-H
+FL1-H
+FL1-H
+SSC-HSSC-HSSC-H
+Contour dot profile
+1,000
+800
+600
+400
+200
+0
+1,000
+800
+600
+400
+200
+0
+1,000
+800
+600
+400
+200
+0
+	0	 200	 400	 600	 800	 1,000
+	0	 200	 400	 600	 800	 1,000
+	0	 200	 400	 600	 800	 1,000
+FSC-H
+FSC-H
+FSC-H
+SSC-HSSC-HSSC-H
+Scatter profile
+Figure 1.  Isolation of STRO-1+
+cells from each heterogeneous population using a FACS sorter machine. The STRO-1 marker identifies a
+subgroup of STRO-1+
+mesenchymal stem cells: PDLSCs=0.96%, DPSCs=0.81%, BMSCs=0.73%. PDLSCs: periodontal ligament stem cells,
+DPSCs: dental pulp stem cells, BMSCs: bone-marrow-derived mesenchymal stem cells.
+Journal of Periodontal
+& Implant ScienceJPISGene expression profile in dental stem cells196
+wide gene expression profiling and gene ontology analysis.
+The expression profiles of BMSCs, PDLSCs, and DPSCs were
+found to differ from those of each others. By GeneChip anal-
+ysis, 999 genes were found to be definitely up- or down-reg-
+ulated. In addition, GOstat analyses of regulated gene prod-
+ucts provided over-represented GO classes. These data pro-
+vide a first step for discovering key molecules related to the
+characteristics of dental stem cells.
+The development of genome wide research techniques en-
+ables describing and comparing the gene expression patterns
+of different cells. Using these data, we can better understand
+the mechanisms governing the display of each cell’s charac-
+teristics [25]. Recently, several microarray studies have been
+performed to identify new diagnostic markers and to inves-
+tigate the origin of, as well as a genes characterizing progres-
+sion of, various diseases including cancers [31-34].
+In the dental field,a few studies about the characteristics and
+differentiation of dental cells were reported using genome-
+wide research techniques [24,35,36]. Furthermore, previous
+studies about dental stem cells only used heterogeneous
+dental stem cells. In this study, we used a FACSVantage Sort-
+er for isolation of STRO-1+
+mesenchymal stem cells, and we
+first attempted to solve the problem of heterogeneity in den-
+tal stem cells for microarray studies.
+The heterogeneity of the dental stem cell population re-
+mains one of the key obstacles to implementing optimal ap-
+proaches to cell-based tissue engineering. Because dental
+Table 1.  Genes differentially expressed in BMSCs.
+RefSeq ID
+Gene
+symbol
+Gene name
+Adjusted
+P-value
+vs. PDLSCs
+Adjusted
+P-value
+vs. DPSCs
+Up-regulated genes
+NM_003480 MFAP5 microfibrillar associated
+protein 5
+1.77E-06 5.55E-10
+NM_006211 PENK proenkephalin 5.36E-08 5.74E-10
+NM_032532 FNDC1 fibronectin type III domain
+containing 1
+2.58E-04 6.77E-10
+NM_000599 IGFBP5 insulin-like growth factor
+binding protein 5
+9.12E-06 3.61E-07
+NM_021013 KRT34 keratin 34 1.08E-08 3.07E-09
+NM_001128205 SULF1 sulfatase 1 5.74E-06 3.09E-09
+NM_002780 PSG4 pregnancy specific beta-
+1-glycoprotein 4
+1.08E-08 2.50E-07
+NM_012242 DKK1 dickkopf homolog 1
+(Xenopus laevis)
+1.61E-08 4.77E-07
+NM_033655 CNTNAP3 contactin associated
+protein-like 3
+1.61E-08 1.27E-06
+NM_014988 LIMCH1 LIM and calponin
+homology domains 1
+1.61E-08 2.55E-05
+Down-regulated genes
+NM_018476 BEX1 brain expressed 1.50E-07 1.90E-08
+NM_000853 GSTT1 glutathione S-transferase
+theta 1
+1.74E-07 2.26E-08
+NM_013372 GREM1 gremlin 1 4.11E-08 2.66E-08
+NM_002800 PSMB9 proteasome (prosome) 1.80E-06 3.22E-08
+NM_016591 GCNT4 glucosaminyl (N-acetyl)
+transferase 4
+2.66E-06 3.22E-08
+NM_014839 LPPR4 lipid phosphate
+phosphatase-related
+protein type 4
+1.82E-05 3.22E-08
+NM_006617 NES nestin 5.20E-05 5.62E-08
+NM_004862 LITAF lipopolysaccharide-
+induced TNF factor
+4.11E-08 2.35E-05
+NM_001822 CHN1 chimerin (chimaerin) 1 5.36E-08 1.88E-07
+NM_017554 PARP14 poly (ADP-ribose)
+polymerase family
+7.48E-08 8.40E-07
+BMSCs: bone-marrow-derived mesenchymal stem cells, PDLSCs: periodontal
+ligament stem cells, DPSCs: dental pulp stem cells.
+Table 2.  Genes differentially expressed in PDLSCs.
+RefSeq ID
+Gene
+symbol
+Gene name
+Adjusted
+P-value
+vs. BMSCs
+Adjusted
+P-value
+vs. DPSCs
+Up-regulated genes
+NM_024574 C4orf31 chromosome 4 open
+reading frame 31
+2.66E-04 7.62E-09
+NM_015429 ABI3BP ABI family 4.92E-06 9.70E-09
+NM_022659 EBF2 early B-cell factor 2 8.06E-08 6.03E-08
+NM_017515 SLC35F2 solute carrier family 35 7.38E-04 3.53E-07
+NM_001103184 FMN1 formin 1 1.04E-04 6.00E-07
+NM_005761 PLXNC1 plexin C1 8.55E-07 6.06E-07
+NM_001822 CHN1 chimerin (chimaerin) 1 5.36E-08 2.58E-05
+NM_007288 MME membrane metallo-
+endopeptidase
+9.04E-08 3.52E-04
+NM_002185 IL7R interleukin 7 receptor 6.74E-06 6.06E-07
+NM_015265 SATB2 SATB homeobox 2 8.48E-06 3.56E-05
+Down-regulated genes
+NM_014583 LMCD1 LIM and cysteine-rich
+domains 1
+1.56E-04 6.56E-08
+NM_004265 FADS2 fatty acid desaturase 2 7.74E-06 1.91E-07
+NM_012193 FZD4 frizzled homolog 4
+(Drosophila)
+2.16E-06 2.32E-07
+NM_015187 SEL1L3 sel-1 suppressor of lin-
+12-like 3 (C. elegans)
+5.00E-06 2.32E-07
+NM_001003395 TPD52L1 tumor protein D52-like 1 3.64E-05 2.32E-07
+NM_001955 EDN1 endothelin 1 3.28E-07 7.08E-07
+NM_016588 NRN1 neuritin 1 6.13E-08 1.33E-04
+NR_024168 TLR4 toll-like receptor 4 1.42E-07 2.83E-05
+NM_014840 NUAK1 NUAK family 1.71E-07 9.03E-06
+NM_015000 STK38L serine/threonine kinase
+38 like
+2.65E-07 8.70E-06
+PDLSCs: periodontal ligament stem cells, BMSCs: bone-marrow-derived
+mesenchymal stem cells, DPSCs: dental pulp stem cells.
+Journal of Periodontal
+& Implant ScienceJPIS Su-Hwan Kim et al. 197
+stem cell-specific surface markers have not yet been identi-
+fied, general mesenchymal stem cell markers like CD44,
+CD90, CD146, and STRO-1 have been used to identify stem
+cells from dental tissues [27,37]. Although the cells sorted us-
+ing STRO-1 and CD146 markers have been used in some
+previous studies, no marker for dental stem cells has been
+established. In our study, we used the STRO-1 marker, which
+is the most common marker for mesenchymal stem cells.
+The subset of marrow cells that expresses the STRO-1 anti-
+gen is capable of differentiating into multiple mesenchymal
+lineages including hematopoiesis-supportive stromal cells
+with a vascular smooth muscle-like phenotype, adipocytes,
+osteoblasts, and chondrocytes was reported. Flow cytometry
+revealed that 1 to 5% of the PDL cells cultured using previous-
+ly described methods [5] were STRO-1+
+in human and animal
+models and the fluorescence values from the FACS data de-
+creased with an increasing number of passages [16,27,37,38].
+Comparably, 0.73-2.3% STRO-1+
+cells were successfully isolat-
+ed in this study by strict screening of strong positive cells.
+Shi et al. [24] reported that insulin-like factor binding pro-
+tein-7 (IGFBP7) was highly expressed in BMSCs and collagen
+type XVIII α1 (COL18A1) was highly expressed in DPSCs. In
+Table 3.  Genes differentially expressed in DPSCs.
+RefSeq ID Gene symbol Gene name
+Adjusted
+P-value vs. BMSCs
+Adjusted P-value
+vs. PDLSCs
+Up-regulated Genes
+NM_016147 PPME1 protein phosphatase methylesterase 1 8.25E-09 9.96E-11
+NM_001130080 IFI27 interferon 1.57E-07 1.38E-09
+NM_001200 BMP2 bone morphogenetic protein 2 1.07E-05 1.43E-06
+NM_022748 TNS3 tensin 3 7.26E-08 1.19E-08
+NM_006617 NES nestin 5.62E-08 1.54E-08
+NM_021110 COL14A1 collagen 8.40E-07 1.78E-08
+NM_025202 EFHD1 EF-hand domain family 3.75E-07 3.89E-08
+NM_030582 COL18A1 collagen 1.76E-05 1.32E-06
+NM_002800 PSMB9 proteasome (prosome) 3.22E-08 8.10E-06
+NM_001135599 TGFB2 transforming growth factor 1.36E-07 7.08E-07
+Down-regulated Genes
+NM_014568 GALNT5 UDP-N-acetyl-alpha-D-galactosamine:polypeptide
+N-acetylgalactosaminyltransferase 5 (GalNAc-T5)
+3.47E-08 7.14E-10
+NM_024574 C4orf31 chromosome 4 open reading frame 31 5.63E-07 7.62E-09
+NM_001141919 XG Xg blood group 2.26E-08 2.05E-08
+NM_002317 LOX lysyl oxidase 8.64E-08 2.09E-08
+NM_000104 CYP1B1 cytochrome P450 1.88E-07 2.16E-08
+NM_006211 PENK proenkephalin 5.74E-10 9.31E-08
+NM_003480 MFAP5 microfibrillar associated protein 5 5.55E-10 1.87E-05
+NM_001128588 SLC14A1 solute carrier family 14 (urea transporter) 1.78E-09 2.70E-06
+NM_021013 KRT34 keratin 34 3.07E-09 1.64E-06
+NM_018431 DOK5 docking protein 5 2.26E-08 1.13E-07
+DPSCs: dental pulp stem cells, PDLSCs: periodontal ligament stem cells, BMSCs: bone-marrow-derived mesenchymal stem cells.
+Figure 2.  Heatmap comparing 53 genes most differentially ex-
+pressed among the groups. Each row corresponds to a gene, with
+the columns corresponding to expression levels in different sam-
+ples. Color varies from red, for the lowest levels of expression, to
+green for the highest level of expression.
+COL14A1
+LMCD1
+EFHD1
+COL18A1
+LITAF
+PSMB9
+SATB2
+NES
+TNS3
+PARP14
+GCNT4
+GSTT1
+LPPR4
+TPD52L1
+NUAK1
+SEL1L3
+FZD4
+EDN1
+TLR4
+IFI27
+IGFBP5
+NRN1
+FNDC1
+PSG4
+KRT34
+MFAP5
+SLC14A1
+PENK
+MME
+XG
+IL7R
+SLC35F2
+C4orf31
+DOK5
+EBF2
+FMN1
+PLXNC1
+BMP2
+LIMCH1
+CNTNAP3
+FADS2
+STK38L
+DKK1
+AB13BP
+GALNT5
+LOX
+CYP1B1
+SULF1
+CHN1
+BEX1
+PPME1
+TGFB2
+GREM1
+BMSCs1
+BMSCs3
+BMSCs2
+DPSCs4
+DPSCs5
+DPSCs6
+DPSCs1
+DPSCs2
+DPSCs3
+PDLSCs4
+PDLSCs5
+PDLSCs6
+PDLSCs2
+PDLSCs1
+PDLSCs3
+Journal of Periodontal
+& Implant ScienceJPISGene expression profile in dental stem cells198
+the present study, IGFBP5 was strongly up regulated in BM-
+SCs and COL18A1 similarly in DPSCs. Representatively, inter-
+leukin 7 receptor (IL7R) was highly expressed in PDLSCs and
+transforming growth factor (TGFB2), while bone morphoge-
+netic protein 2 (BMP2) was in DPSCs.
+IL7R has been shown to play a critical role in V(D)J recom-
+bination during lymphocyte development. Several diseases
+are associated with IL7R including multiple sclerosis, rheu-
+matoid arthritis, and juvenile idiopathic arthritis [39]. IL7R
+gene expression in PDLSCs may be a target molecule to study
+of chronic inflammatory disease like periodontitis. BMP2 is
+one of osteoinductive BMPs: it have been demonstrated to
+potently induce osteoblast differentiation in a variety of cell
+types [40]. The increased levels of BMP2 in DPSCs may sug-
+gest the possibility of using DPSCs as cell-sources for bone
+regeneration in tissue engineering.
+Gene ontology is a tool for the systematic analysis of large-
+scale gene-expression data. GO analysis is based on the hy-
+pothesis that functionally related and differentially expressed
+genes should accumulate in the corresponding GO term.
+When the data of microarrys show a long list of significant
+genes, the soution can be found by pooling of genes into
+fuctional classes and GO database provides such a fuctional
+classificaton. According to GO analysis, anatomical structure
+development and anatomical structure morphogenesis GO
+terms were over-represented in all three different mesen-
+chymal stem cells. However, GO terms related to blood ves-
+sels and neurons was over-represented in DPSCs, uniquely.
+These facts clearly show that the characteristic of dental stem
+cells is similar to that of BMSCs, and the dental stem cells
+also have other specific characteristics. Additional studies
+should be carried out to reveal the meaning of major over-
+represented GO terms in each cell.
+In conclusion, our study demonstrated the genome-wide
+gene expression patterns of STRO-1+
+mesenchymal stem
+cells derived from dental tissues and bone marrow. The dif-
+ference of the expression profile of BMSCs, PDLSCs and DP-
+SCs were showed and 999 candidate genes were found to be
+definite up- or down-regulated. A validation study of candi-
+date gene expression is required using additional samples
+and additional analytical studies should be carried out to ful-
+ly explore the functional role of the differentially expressed
+genes identified using microarray analysis. The study of the
+differences according to the presence of specific stem cell
+markers is also needed. Prospectively, the gene expression
+information of dental stem cells might provide significant
+insights into the development of dental tissues and the cel-
+lular differentiation processes. Dental stem cells could also
+be practicable tools for dental tissue engineering.
+CONFLICT OF INTEREST
+No potential conflict of interest relevant to this article was
+Table 4.  Major over-represented gene ontology (GO) classes.
+GO term
+Gene
+count
+GOstat
+P-value
+FDR
+BMSCs
+GO:0001501-skeletal system development 33 2.83E-13 4.88E-10
+GO:0048731-system development 94 3.13E-10 5.39E-07
+GO:0048856-anatomical structure
+development
+99 4.12E-10 7.10E-07
+GO:0048706-embryonic skeletal system
+development
+15 7.47E-10 1.29E-06
+GO:0032502-developmental process 112 4.83E-09 8.33E-06
+GO:0007275-multicellular organismal
+development
+104 8.70E-09 1.50E-05
+GO:0048704-embryonic skeletal system
+morphogenesis
+12 2.66E-08 4.59E-05
+GO:0016126-sterol biosynthetic process 10 3.51E-08 6.05E-05
+GO:0048598-embryonic morphogenesis 24 1.81E-07 3.12E-04
+GO:0009653-anatomical structure
+morphogenesis
+53 5.50E-07 9.48E-04
+PDLSCs
+GO:0009653-anatomical structure
+morphogenesis
+16 2.82E-05 4.45E-02
+GO:0022008-neurogenesis 11 7.98E-05 1.26E-01
+GO:0007275-multicellular organismal
+development
+23 4.71E-04 7.42E-01
+GO:0048856-anatomical structure
+development
+21 6.64E-04 1.04E+00
+GO:0007399-nervous system development 13 6.83E-04 1.07E+00
+GO:0048699-generation of neurons 9 1.20E-03 1.88E+00
+GO:0032502-developmental process 23 1.78E-03 2.77E+00
+GO:0048731-system development 19 1.86E-03 2.89E+00
+GO:0000902-cell morphogenesis 7 2.30E-03 3.56E+00
+GO:0031175-neuron projection development 6 2.89E-03 4.47E+00
+DPSCs
+GO:0048468-cell development 25 1.68E-06 2.83E-03
+GO:0009653-anatomical structure
+morphogenesis
+35 4.79E-06 8.06E-03
+GO:0048514-blood vessel morphogenesis 13 1.42E-05 2.39E-02
+GO:0048666-neuron development 16 2.42E-05 4.07E-02
+GO:0032502-developmental process 64 3.50E-05 5.89E-02
+GO:0030182-neuron differentiation 18 3.68E-05 6.19E-02
+GO:0048856-anatomical structure
+development
+54 5.75E-05 9.67E-02
+GO:0001568-blood vessel development 13 6.17E-05 1.04E-01
+GO:0048699-generation of neurons 20 7.67E-05 1.29E-01
+GO:0001944-vasculature development 13 7.78E-05 1.31E-01
+BMSCs: bone-marrow-derived mesenchymal stem cells, PDLSCs: periodontal
+ligament stem cells, DPSCs: dental pulp stem cells.
+Journal of Periodontal
+& Implant ScienceJPIS Su-Hwan Kim et al. 199
+reported.
+ACKNOWLEDGEMENTS
+This study was supported by a grant of the Korea Healthcare
+Technology R&D Project, Ministry of Health & Welfare, Re-
+public of Korea (A100037).
+REFERENCES
+1.	 Cai J,Weiss ML,Rao MS. In search of “stemness”. Exp He-
+matol 2004;32:585-98.
+2.	 WagersAJ,Weissman IL. Plasticity of adult stem cells. Cell
+2004;116:639-48.
+3.	 Morsczeck C, Schmalz G, Reichert TE,Völlner F, Galler K,
+Driemel O. Somatic stem cells for regenerative dentistry.
+Clin Oral Investig 2008;12:113-8.
+4.	Mauron A, Jaconi ME. Stem cell science: current ethical
+and policyissues. Clin PharmacolTher 2007;82:330-3.
+5.	 Seo BM,Miura M,Gronthos S,Bartold PM,Batouli S,Bra-
+him J, et al. Investigation of multipotent postnatal stem
+cells from human periodontal ligament. Lancet 2004;364:
+149-55.
+6.	Gronthos S, Mankani M, Brahim J, Robey PG, Shi S. Post-
+natal human dental pulp stem cells (DPSCs) in vitro and
+in vivo. Proc NatlAcad Sci U SA 2000;97:13625-30.
+7.	 Miura M,Gronthos S,Zhao M,Lu B,Fisher LW,Robey PG,
+et al. SHED: stem cells from human exfoliated deciduous
+teeth. Proc NatlAcad Sci U SA 2003;100:5807-12.
+8.	Morsczeck C, Götz W, Schierholz J, Zeilhofer F, Kühn U,
+Möhl C, et al. Isolation of precursor cells (PCs) from hu-
+man dental follicle of wisdom teeth. Matrix Biol 2005;24:
+155-65.
+9.	Seo BM, Sonoyama W,Yamaza T, Coppe C, Kikuiri T, Aki-
+yama K, et al. SHED repair critical-size calvarial defects in
+mice. Oral Dis 2008 ;14:428-34.
+10.	Sonoyama W, Liu Y,Yamaza T, Tuan RS, Wang S, Shi S, et
+al. Characterization of the apical papilla and its residing
+stem cells from human immature permanent teeth: a pi-
+lotstudy. J Endod 2008;34:166-71.
+11.	 Estrela C,Alencar AH, Kitten GT,Vencio EF, Gava E. Mes-
+enchymal stem cells in the dental tissues: perspectives for
+tissue regeneration. Braz DentJ 2011;22:91-8.
+12.	 Caplan AI. Review: mesenchymal stem cells: cell-based
+reconstructive therapy in orthopedics.Tissue Eng 2005;11:
+1198-211.
+13.	 Bruder SP, Kraus KH, GoldbergVM, Kadiyala S.The effect
+of implants loaded with autologous mesenchymal stem
+cells on the healing of canine segmental bone defects. J
+Bone JointSurgAm 1998;80:985-96.
+14.	Lee YM, Seol YJ, Lim YT, Kim S, Han SB, Rhyu IC, et al.
+Tissue-engineered growth of bone by marrow cell trans-
+plantation using porous calcium metaphosphate matri-
+ces. J Biomed Mater Res 2001;54:216-23.
+15.	 Kawaguchi H, Hirachi A, Hasegawa N, Iwata T, Hamagu-
+chi H, Shiba H, et al. Enhancement of periodontal tissue
+regeneration by transplantation of bone marrow mesen-
+chymal stem cells. J Periodontol 2004;75:1281-7.
+16.	LiuY,ZhengY,Ding G,Fang D,Zhang C,Bartold PM,etal.
+Periodontal ligament stem cell-mediated treatment for
+periodontitis in miniature swine. Stem Cells 2008;26:
+1065-73.
+17.	 Kim SH, Kim KH, Seo BM, Koo KT, Kim TI, Seol YJ, et al.
+Alveolar bone regeneration by transplantation of peri-
+odontal ligament stem cells and bone marrow stem cells
+in a canine peri-implant defect model: a pilot study. J Peri-
+odontol 2009;80:1815-23.
+18.	Singhatanadgit W, Donos N, Olsen I. Isolation and char-
+acterization of stem cell clones from adult human liga-
+ment.Tissue Eng PartA 2009;15:2625-36.
+19.	Fujii S, Maeda H,Wada N,Tomokiyo A, Saito M,Akamine
+A. Investigating a clonal human periodontal ligament
+progenitor/stem cell line in vitro and in vivo. J Cell Physiol
+2008;215:743-9.
+20.	TomokiyoA,Maeda H,Fujii S,Wada N,Shima K,Akamine
+A. Development of a multipotent clonal human periodon-
+tal ligamentcell line. Differentiation 2008;76:337-47.
+21.	 Intini G. Future approaches in periodontal regeneration:
+gene therapy,stem cells,and RNA interference. Dent Clin
+NorthAm 2010;54:141-55.
+22.	Duggan DJ, Bittner M, Chen Y, Meltzer P, Trent JM. Ex-
+pression profiling using cDNA microarrays. Nat Genet
+1999;21(1 Suppl):10-4.
+23.	Brown PO,Botstein D. Exploring the new world of the ge-
+nome with DNA microarrays. Nat Genet 1999;21(1 Suppl):
+33-7.
+24.	Shi S, Robey PG, Gronthos S. Comparison of human den-
+tal pulp and bone marrow stromal stem cells by cDNA
+microarrayanalysis. Bone 2001;29:532-9.
+25.	 Inomata N, Tomita H, Ikezawa Z, Saito H. Differential
+gene expression profile between cord blood progenitor-
+derived and adult progenitor-derived human mast cells.
+Immunol Lett2005;98:265-71.
+26.	SchillingT,Küffner R,Klein-Hitpass L,Zimmer R,Jakob F,
+Schütze N. Microarray analyses of transdifferentiated
+mesenchymal stem cells. J Cell Biochem 2008;103:413-33.
+27.	 Xu J,WangW,KapilaY,Lotz J,Kapila S. Multiple differenti-
+ation capacity of STRO-1+/CD146+ PDL mesenchymal
+progenitor cells. Stem Cells Dev2009;18:487-96.
+28.	Smyth GK. Limma: linear models for microarray data. In:
+Journal of Periodontal
+& Implant ScienceJPISGene expression profile in dental stem cells200
+Gentleman R, CareyV, Huber W, Irizarry R, Dudoit S, edi-
+tors. Bioinformatics and computational biology solutions
+using R and bioconductor. New York: Springer; 2005. p.
+397-420.
+29.	Benjamini Y, Hochberg Y. Controlling the false discovery
+rate: a practical and powerful approach to multiple test-
+ing. J R StatSoc Series B StatMethodol 1995;57:289-300.
+30.	Dennis G Jr,Sherman BT,Hosack DA,Yang J,GaoW,Lane
+HC, et al. DAVID: Database for Annotation,Visualization,
+and Integrated Discovery. Genome Biol 2003;4:P3.
+31.	 GolubTR,Slonim DK,Tamayo P,Huard C,Gaasenbeek M,
+Mesirov JP, et al. Molecular classification of cancer: class
+discovery and class prediction by gene expression moni-
+toring. Science 1999;286:531-7.
+32.	Gashaw I, Dushaj O, Behr R, Biermann K, Brehm R, Rüb-
+ben H,et al. Novel germ cell markers characterize testicu-
+lar seminoma and fetal testis. Mol Hum Reprod 2007;13:
+721-7.
+33.	 HofmanVJ, Moreilhon C, Brest PD, Lassalle S, Le Brigand
+K,Sicard D,et al. Gene expression profiling in human gas-
+tric mucosa infected with Helicobacter pylori. Mod Pathol
+2007;20:974-89.
+34.	ZengW,Kajigaya S,Chen G,RisitanoAM,Nunez O,Young
+NS. Transcript profile of CD4+ and CD8+ T cells from the
+bone marrow of acquired aplastic anemia patients. Exp
+Hematol 2004;32:806-14.
+35.	 Lallier TE, Spencer A. Use of microarrays to find novel
+regulators of periodontal ligament fibroblast differentia-
+tion. CellTissue Res 2007;327:93-109.
+36.	Choi HD, Noh WC, Park JW, Lee JM, Suh JY. Analysis of
+gene expression during mineralization of cultured human
+periodontal ligament cells. J Periodontal Implant Sci 2011;
+41:30-43.
+37.	 Min JH, Ko SY, ChoYB, Ryu CJ, JangYJ. Dentinogenic po-
+tential of human adultdental pulp cells during the extend-
+ed primaryculture. Hum Cell 2011;24:43-50.
+38.	Jhin MJ, Kim YS, Kim SH, Kim KH, Lee CW, Koo KT, et al.
+Investigation of postnatal stem cells from canine dental
+tissue and bone marrow. J Korean Acad Periodontol 2009;
+39:119-28.
+39.	O’Doherty C, Alloza I, Rooney M,Vandenbroeck K. IL7RA
+polymorphisms and chronic inflammatory arthropathies.
+TissueAntigens 2009;74:429-31.
+40.	Marie PJ, Debiais F, Haÿ E. Regulation of human cranial
+osteoblast phenotype by FGF-2, FGFR-2 and BMP-2 sig-
+naling. Histol Histopathol 2002;17:877-85.
+

@@ -1,0 +1,706 @@
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0)
+which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+V O L U M E 4 6 ㆍ N U M B E R 4 ㆍ D e c e m b e r 2 0 1 1
+THE KOREAN JOURNAL OF HEMATOLOGY O R I G I N A L A R T I C L E
+Clinical implications of chimerism after allogeneic hematopoietic
+stem cell transplantation in children with non-malignant diseases
+Meerim Park1
+, Kyung Nam Koh2
+, Jong Jin Seo2
+, Ho Joon Im2
+Department of Pediatrics, 1
+College of Medicine, Chungbuk National University, Cheongju, 2
+Asan Medical Center Children’s Hospital,
+University of Ulsan College of Medicine, Seoul, Korea
+p-ISSN 1738-7949 / e-ISSN 2092-9129
+http://dx.doi.org/10.5045/kjh.2011.46.4.258
+Korean J Hematol 2011;46:258-64.
+Received on November 30, 2011
+Revised on December 5, 2011
+Accepted on December 7, 2011
+Background
+The effects of chimerism on outcomes following allogeneic hematopoietic stem cell trans-
+plantation (HSCT) are unclear and may differ between diseases. We retrospectively eval-
+uated the association between chimerism and transplant outcomes in children with non-
+malignant diseases.
+Methods
+Chimerism was evaluated using short-tandem repeat polymerase chain reaction
+(STR-PCR) in 48 patients, with mixed chimerism (MC) defined as greater than 1% recipient
+cells.
+Results
+The only variable exerting a significant influence on patients’ chimerism status was the
+number of infused CD34＋ cells. MC was detected in 23 transplants (9 showing transient
+MC; 10 with sustained low levels [≤30%] of autologous cells; and 4 with high-level MC
+[＞30%]). The degree of STR-PCR at 28 days after HSCT was significantly higher in patients
+with high-level MC than those with transient or low-level MC. All patients with transient
+or low-level MC successfully maintained engraftment and showed a clinical response to
+HSCT, whereas 2 of the 4 patients with high-level MC experienced graft failure. The in-
+cidences of grades II-IV acute and chronic graft-versus-host disease (GVHD) were sig-
+nificantly higher in patients with complete donor chimerism (CC) than MC. We observed
+no significant survival differences between CC and MC groups. However, the survival
+rate was lower in patients with high MC than those with low-level or transient MC
+(P=0.03).
+Conclusion
+In non-malignant diseases, MC may indicate a tolerant state with a decreased incidence
+of GVHD. However, high-level MC may signify an increased risk of graft failure and a lower
+survival rate.
+Key Words Non-malignant disease, Allogeneic hematopoietic stem cell
+transplantation, Chimerism
+Correspondence to
+Ho Joon Im, M.D., Ph.D.
+Department of Pediatrics, Asan Medical
+Center Children’s Hospital, University of
+Ulsan College of Medicine, Pungnap-dong,
+Songpa-gu, Seoul 138-736, Korea
+Tel: ＋82-2-3010-3371
+Fax: ＋82-2-473-3725
+E-mail: hojim@amc.seoul.kr
+Ⓒ 2011 Korean Society of Hematology
+INTRODUCTION
+Allogeneic hematopoietic stem cell transplantation
+(Allo-HSCT) is a well-established treatment for several non-
+malignant diseases, including severe aplastic anemia (SAA),
+inherited bone marrow failure (BMF) syndromes, im-
+munodeficiencies, and metabolic disorders [1]. Although
+complete donor hematopoiesis is a desirable outcome of al-
+lo-HSCT in malignant disorders, complete replacement of
+the recipient’s hematopoietic system is not considered neces-
+sary to improve the underlying disease state in patients with
+non-malignant disorders. This coexistence of host and donor
+hematopoietic cells is known as mixed chimerism (MC).
+Rates of graft failure and rejection are high in patients
+with non-malignant diseases [2, 3]. MC has been linked
+to graft rejection [4, 5], suggesting that early testing for
+posttransplant chimerism may help to identify patients at
+increased risk of graft rejection, who may therefore require
+immunotherapy [6]. Although patients with a significant
+Korean J Hematol 2011;46:258-64.
+Chimerism in non-malignant diseases 259
+Table 1. Characteristics of patients and donors.
+N
+Patients
+Follow-up duration, months, median (range)
+Male/Female
+Median age, years, median (range)
+No. CD34×106
+/kg infused, median (range)
+Diseases
+Bone marrow failure (BMF)
+Severe aplastic anemia
+Fanconi anemia
+Other diseases in BMFa)
+Hemophagocytic lymphohistiocytosis
+Chronic granulomatous disease
+Wiskott–Aldrich syndrome
+Severe combined immunodeficiency
+Neurodegenerative diseasesb)
+Donors
+Matched related (8/8)
+Mismatched related
+1 mismatch (7/8)
+2 mismatches (6/8)
+≥3 mismatches (≤5/8)
+Matched unrelated (8/8)
+Mismatched unrelated
+1 mismatch (7/8)
+2 mismatches (6/8)
+≥3 mismatches (≤5/8)
+Stem cell source
+Bone marrow
+Peripheral blood
+Cord blood
+Conditioning regimen
+BMF
+Myeloablative
+Reduced
+Non-BMF
+Myeloablative
+Reduced
+T-cell depletion
+Yes
+No
+48
+41 (8-138)
+36/12
+8.4 (0.6-20.5)
+8.38 (1.0-32.9)
+37
+27
+4
+6
+5
+1
+1
+1
+3
+11
+2
+1
+8
+15
+7
+3
+1
+17
+27
+4
+8
+29
+7
+4
+9
+39
+a)
+Other diseases in BMF: 2 pure red cell anemia, 2 congenital
+amegakaryocytic thrombocytopenia, 1 Kostmann disease, and 1
+congenital dyserythropoietic anemia. b)
+Neurodegenerative disea-
+ses: 2 Krabbe disease and 1 adrenoleukodystrophy.
+proportion of host cells are known to be at increased risk
+of rejection in cases of malignant disease, only a few studies
+have focused exclusively on children with non-malignant
+diseases [7, 8]. Furthermore, the utility of chimerism in pre-
+dicting subsequent transplant outcomes in non-malignant
+diseases has not yet been established.
+The main aims of this study were to identify the variables
+affecting chimerism and to determine the impact of MC
+on transplantation outcomes in patients undergoing al-
+lo-HSCT for non-malignant diseases.
+MATERIALS AND METHODS
+1. Patients and donors
+Between April 2000 and March 2011, 48 children under-
+went 50 allo-HSCTs for non-malignant diseases at the Asan
+Medical Center Children’s Hospital in Seoul, Korea. In this
+study, we analyzed the initial HSCT data from all patients.
+Median age at first HSCT was 8.4 years (range, 0.6-20.5
+years), and the median duration of follow-up was 41 months
+(range, 8-138 months). Diseases were classified as BMF or
+non-BMF. All donor-recipient pairs were fully typed for
+HLA-A, -B, -C, and -DR using high-resolution molecular
+typing. As a surrogate marker of iron overload at the time
+of transplantation, serum ferritin was routinely measured
+as a part of the pretransplant work-up before the beginning
+of the conditioning regimen using a 2-site sandwich immuno-
+assay with direct chemiluminescence (ADVIA Centaur,
+Siemens). All patients were stable, without fever or other
+events, suggesting that pretransplant ferritin levels are a good
+estimator of iron status and are not significantly affected
+by an inflammatory state. Data were analyzed in October
+2011. The demographic and clinical characteristics of patients
+and donors are summarized in Table 1. This retrospective
+study was approved by the institutional review board at
+the Asan Medical Center in Seoul, Korea.
+2. Graft-versus-host disease
+Acute and chronic graft-versus-host diseases (GVHD)
+were graded according to the established criteria [9].
+3. Analysis of chimerism
+Whole blood samples were collected from individual do-
+nors and recipients at 1 (day 28), 2, 3, 6, and 12 months
+after allo-HSCT. In cases where MC was detected, chimerism
+was tested at more frequent intervals. DNA was prepared
+from whole blood samples using the QIAamp Blood Kit
+(Qiagen, Hilden, Germany) and quantified spectrophoto-
+metrically. Polymorphic short-tandem repeat (STR) markers
+were amplified using the AmpFlSTR Profiled Plus PCR am-
+plification kit (Applied Biosystems, Foster City, CA, USA).
+Amplified fragments were analyzed using an ABI PRISM
+310 Genetic Analyzer (Applied Biosystems), and peak areas
+were quantified using Genescan software (Applied Biosys-
+tems). The percentages of donor and recipient DNA were
+calculated from individual proportions of donor and recipient
+peak areas [10]. Unless otherwise stated, the degrees of
+STR-PCR and MC were based on host portions.
+4. Definition of chimerism and responses
+Patients were stratified individually based on serial
+STR-PCR analyses, with chimerism defined as described pre-
+viously [7, 8]. Patients with samples showing 1% or less
+autologous signals after HSCT were classified as having ach-
+ieved complete donor chimerism (CC). We selected a cutoff
+of 1%, since microsatellite and several tandem repeat meth-
+ods have a sensitivity limit of 1-5%. MC was defined as
+having a recipient fraction of 1% to 99% at any time after
+HSCT. Patients initially classified as having MC who turned
+into CC were classified in the transient MC group, while
+those showing sustained autologous signals greater than 1%
+Korean J Hematol 2011;46:258-64.
+260 Meerim Park, et al.
+Fig. 1. Chimeric status of patients with high-level mixed chimerism.
+were categorized in the sustained MC group. In the sustained
+MC group, patients consistently displaying autologous signals
+that did not exceed 30% were considered to have low-level
+MC, while those displaying a significant increase in autolo-
+gous cells, up to 30%, were considered to have high-level
+MC. Patients with more than 99% recipient signals were
+defined as having attained complete recipient chimerism
+(RC) or autologous reconstitution.
+Since there is no clear consensus on the definition of
+clinical remission in patients with non-malignant diseases,
+we assessed the response relative to correction of the under-
+lying disease using disease-specific measures. These included
+normal hemograms along with transfusion independence in
+patients with BMF syndromes, immune reconstitution and
+lack of infection in patients with immunodeficiencies, en-
+zyme concentrations and the results of brain imaging and
+neurologic examinations in patients with metabolic dis-
+orders, and absence of symptoms and discontinuation of
+pretransplant-specific therapies in patients with autoimmune
+disorders [11]. A complete response (CR) was defined as
+a normal hemogram with eradication of the underlying
+disease. A partial response (PR) was defined as the presence
+of some positive effects of HSCT, but not fulfillment of the
+criteria for CR (e.g., patients with BMF that displayed some
+improvement, but were still transfusion dependent). Disease
+progression was defined as the absence of positive effects
+of HSCT.
+Graft failure comprises 2 clinical entities: (1) failure to
+achieve an absolute neutrophil count of 0.5×109
+/L or less
+and marrow hypoplasia for less than 60 days with or without
+the existence of donor-type hematopoiesis, and (2) complete
+loss of donor-type hematopoiesis occurring anytime after
+transplantation. Late graft failure was defined as the loss
+of the graft after engraftment during follow-up.
+5. Statistics
+The probabilities of overall survival (OS) and event-free
+survival (EFS) were estimated using the Kaplan-Meier
+method. An event was defined as graft failure or death either
+due to treatment toxicity or disease progression. Fisher’s
+exact test was used to compare differences in categorical
+variables affecting chimerism and response to HSCT between
+groups, whereas the Mann-Whitney U-test was used to com-
+pare continuous variables. We also attempted to model rela-
+tionships between 2 continuous variables by linear
+regression. For multivariate analysis, the logistic regression
+model was used. Rreceiver operating characteristic (ROC)
+plot analysis was performed to determine the threshold value
+of CD34＋ cells for predicting chimerism. Probabilities of
+acute and chronic GVHD were calculated using the cumu-
+lative-incidence-function method; death without GVHD was
+the competing event. All statistical analyses were performed
+using the SPSS statistical program (SPSS Inc., Chicago, IL,
+USA) or R 2.10.1 software (The R Foundation for Statistical
+Computing, 2007). All P-values were 2-sided, with P＜0.05
+considered statistically significant.
+RESULTS
+Forty-eight patients underwent allo-HSCT, and 2 required
+a second transplant due to graft failure after the first HSCT.
+At a median follow-up of 41 months, the 3-year OS and
+EFS rates were 91.5±4.1% and 85.3±5.1%, respectively. Four
+patients died, 1 due to graft failure and the other 3 due
+to transplant-related complications, including veno-occlu-
+sive disease, hemorrhage, multi-organ failure, and infection.
+1. Chimerism
+During follow-up, 23 patients (48%) showed sustained
+CC and 23 (48%) showed MC. Peak MC in the groups of
+patients with transient (N=9), low-level (N=10), and high-
+level (N=4) MC occurred at a median of 3, 3.5, and 2.3
+months, respectively. Patients with transient MC achieved
+CC at a median of 7.7 months after HSCT. All 4 patients
+with high-level MC showed more than 30% autologous sig-
+nals within 2 months after HSCT. The chimeric status of
+patients with high-level MC is shown in Fig. 1.
+Two of the 4 patients with high-level MC subsequently
+experienced graft failure after HSCT (Table 2). One of these
+patients (UPN 88) achieved CR after the second HSCT, but
+died due to transplant-related complications resulting in mul-
+tiple organ failure after 5 months. The second patient (UPN
+127) received 2 donor lymphocyte infusions (DLIs), but did
+not achieve stable engraftment, and subsequently died due
+to infection and pulmonary hemorrhage.
+RC was detected on day 28 after HSCT in 2 patients,
+1 with hemophagocytic lymphohistiocytosis (HLH) and 1
+with SAA. Although the patient with HLH experienced graft
+failure, BM showed autologous recovery, and the patient
+Korean J Hematol 2011;46:258-64.
+Chimerism in non-malignant diseases 261
+Table 2. Characteristics of patients with high-level mixed chimerism.
+UPN Diagnosis
+Age
+(yr)/
+sex
+Donor
+Conditioning
+regimen
+TCD
+CD34＋
+cells
+(×106
+/
+kg)
+Ferritin
+Peak recipient
+chimerism
+(mo)
+Graft failure
+(documented
+day)
+aGVHD
+Salvage
+strategy
+Outcome
+(follow-up
+months)
+72 PRCA 7.2/M MRD CyATG − 40.17 ND 68% (2 mo) No No No CR (＋91)
+88 SAA 12.8/F MMUD CyATG − 2 256 96% (3 mo) Yes (61 d) No 2
+nd
+HSCT
+a)
+Death (13)
+127 SAA 12.9/M MMRD CyATGTBI ＋ 4.5 5122 66% (2.5 mo) Yes (61 d) No DLI
+b)
+Death (2)
+152 KD 4.1/M MRD BuCy − 12.09 31 69% (1 mo) No No No CR (＋53)
+All time variables are presented on the basis of the transplantation date.
+a)
+Patient 88 achieved stable engraftment after the second HSCT, but died of transplant-related complications that resulted in multiple organ
+failure 5 months after the second HSCT. b)
+Although patient 127 received a second DLI, he did not achieve engraftment and died of
+transplant-related complications 81 days after HSCT.
+Abbreviations: PRCA, pure red cell anemia; SAA, severe aplastic anemia; KD, Kostmann disease; MRD, matched related donor; MMUD,
+mismatched unrelated donor; MMRD, mismatched related donor; Cy, cyclophosphamide; ATG, antithymocyte globulin; TBI, total body
+irradiation; Bu, busulfan; TCD, T-cell depletion; DLI, donor lymphocyte infusion; CR, complete remission; ND, not done.
+Fig. 2. Receiver operating characteristic curve used to determine the
+optimal CD34＋ cell number cut-off value for predicting chimerism.
+remained in CR at data cut-off. The SAA patient achieved
+neutrophil engraftment on day 11 (10% autologous portion
+of MC on day 20), but neutropenia occurred at day 14,
+and STR-PCR revealed 100% host signal at day 28. Owing
+to graft failure, the patient underwent a second HSCT and
+achieved CC with stable engraftment.
+2. STR-PCR at day 28 post-HSCT
+We observed a linear relationship between the degree
+of day-28 STR-PCR and pretransplant ferritin concentra-
+tions. Higher ferritin concentrations were significantly asso-
+ciated with a higher recipient proportion of MC by day
+28 after HSCT (r2
+=0.2, P=0.03). At day 28 after HSCT,
+STR-PCR values were significantly higher in patients with
+high-level MC than those with transient or low-level MC
+(50.8% vs. 3.7%, P＜0.01).
+We observed a linear relationship between the day-28
+STR-PCR and time to engraftment. Specifically, a high pro-
+portion of autologous cells at day 28 after HSCT were sig-
+nificantly associated with late neutrophil (r2
+=0.24, P＜0.01)
+and platelet (r2
+=0.15, P=0.02) engraftment. No differences
+were evident in the day-28 STR-PCR between patients with
+PR and CR. However, STR-PCR at day 28 was significantly
+lower in the response than the non-response group (6.1%
+vs. 66.0%, P＜0.01).
+3. Variables affecting chimerism
+The variables tested for effects on chimerism included
+patient age, disease category, numbers of infused CD34＋
+and CD3＋ cells, source of stem cells, donor type, degree
+of HLA match, pretransplant serum ferritin concentration,
+and intensity of the conditioning regimen. Increasing MC
+was only observed in patients with BMF. The number of
+infused CD34＋ cells was significantly higher in the CC
+group than in the MC group (13.2×106
+/kg vs. 7.2×106
+/kg,
+respectively; P＜0.01). Similarly, we observed a marked in-
+crease in the number of infused CD3＋ cells in the CC
+group compared to the MC group (4.92×108
+/kg vs. 2.61×
+108
+/kg, respectively; P=0.02). The only variable with a sig-
+nificant influence on patients’ chimerism status was the num-
+ber of infused CD34＋ cells, as determined by multivariate
+analysis. Using ROC curves, the optimal cut-off value of
+CD34＋ cells for predicting the chimerism status was esti-
+mated to be 8.35×106
+/kg (70.6% sensitivity, 69.2% specific-
+ity), indicating that patients who received less than 8.35×
+106
+/kg of CD34＋ cells are at higher risk of developing MC
+(Fig. 2).
+4. Chimerism and transplantation outcomes
+The relationship between chimerism status and clinical
+response is shown in Table 3. All patients with CC and
+low-level/transient MC showed clinical responses to HSCT.
+Among the 23 patients with posttransplant CC, 20 achieved
+CR, including 1 who experienced late graft failure 39 months
+after HSCT, but achieved CR after immunosuppressive
+therapy. The remaining 3 patients achieved PR, 1 each with
+adrenoleukodystrophy, Krabbe disease, and SAA. Among the
+23 patients with posttransplant MC, 21 showed clinical re-
+Korean J Hematol 2011;46:258-64.
+262 Meerim Park, et al.
+Table 3. Posttransplantation outcome according to chimerism status.
+Patients
+N=48
+CC
+N=23
+MC
+RC
+N=2Transient
+N=9
+Low-level
+N=10
+High-level
+N=4
+CR 39 20 8 8 2 1
+PR 6 3 1 2 0 0
+NR 3 0 0 0 2 1
+Graft failure
+Primary
+Late
+5
+2
+3
+1a)
+0
+1a)
+0
+0
+0
+0
+0
+0
+2
+1
+1
+2
+1
+1
+2
+nd
+TPL 2 0 0 0 1 1
+DLI 1 0 0 0 1 0
+Death 4 1b)
+0 1b)
+1b)
+＋1c)
+0
+a)
+Although the patient maintained CR with CC for 39 months after transplantation, he showed bone marrow hypoplasia in spite of having CC
+and was rescued by immunosuppressive therapy. b)
+Died of transplant-related complications with partial or complete response to the
+transplantation. c)
+Died of graft failure.
+Abbreviations: CC, complete donor chimerism; MC, mixed chimerism; RC, recipient chimerism; CR, complete response; PR, partial response;
+NR, no response; TPL, transplantation; DLI, donor lymphocyte infusion.
+Fig. 3. Kaplan-Meier curves showing overall survival in high-level mixed
+chimerism and transient or low-level mixed chimerism groups.
+Fig. 4. Kaplan-Meier curves showing event-free survival in high-level
+mixed chimerism and transient or low-level mixed chimerism groups.
+sponses to HSCT. Two patients with high-level MC experi-
+enced graft failure. The incidence of CR in the transient,
+low-level, and high-level MC subgroups was 89% (8/9), 80%
+(8/10), and 50% (2/4), respectively (P=0.03). The incidence
+of graft failure was significantly higher in the high-level
+MC subgroup than the low-level and transient MC subgroups
+(P=0.03). Higher ferritin concentrations before HSCT (P＜
+0.01) and lower numbers of infused CD34＋ cells (P=0.01)
+were additionally associated with graft failure.
+The incidences of grades II?IV acute and chronic GVHD
+were significantly higher in CC patients than in MC patients
+(56.5% vs. 13.0%, P＜0.01; and 47.8% vs. 21.7%, P=0.04,
+respectively). No significant differences in survival were evi-
+dent between the CC and MC groups. However, the OS
+rate was significantly lower in patients with high-level MC
+than in patients with low-level and transient MC (50.0%
+vs. 93.8%, P=0.03; Fig. 3). The EFS rate of patients with
+high-level and low-level/transient MC was 87.5% and 50.0%,
+respectively (P=0.05; Fig. 4). The causes of death in the
+high-level MC group included graft failure and multi-organ
+failure after second HSCT.
+DISCUSSION
+This study presents a retrospective analysis of chimerism
+status and the effects of chimerism on clinical outcomes
+in children undergoing HSCT for non-malignant diseases.
+Allo-HSCT was considered the only curative approach for
+non-malignant diseases in our patients. In our cohort of
+48 patients receiving 50 allo-HSCTs, 5 showed graft failure.
+The overall survival rate was 91.5%, similar to that reported
+in earlier studies involving patients with non-malignant dis-
+eases [2, 12].
+Unlike hematologic malignancies, where 100% donor en-
+graftment is always desired, the number of donor cells re-
+Korean J Hematol 2011;46:258-64.
+Chimerism in non-malignant diseases 263
+quired for sustained engraftment and correction of under-
+lying disease in patients with non-malignant disorders may
+be host- and disease-specific. The incidence of MC in our
+study was 48%, similar to that reported previously [13].
+Possible factors associated with MC development include
+the source of hematopoietic stem cells, intensity of the con-
+ditioning regimen, composition of the hematopoietic graft,
+and type of donor [14-16]. In our experiments, the only
+variable that had a significant influence on the achievement
+of MC was the number of infused CD34＋ cells, as determined
+by multivariate analysis. Baron et al. [17] suggested that
+more rapid reconstitution of the T-cell system and reduced
+rejection rates could be achieved by increasing the dose
+of CD34＋ cells administered. Similar findings have been
+reported in other studies [18, 19].
+While no significant differences were evident in transplant
+outcomes between patients with MC and those with CC,
+acute and chronic GVHD rates were lower in the MC group.
+Furthermore, all patients with low-level or transient MC
+successfully maintained engraftment and showed clinical re-
+sponses to HSCT. The lower incidence of GVHD in the
+MC group may be attributed to a decrease in alloreactive
+T-cells that attack recipient tissues or an imbalance between
+pro-inflammatory and immune-modulating cytokines [20].
+STR-PCR at day 28 after allo-HSCT had a predictive value
+for transplantation outcomes. The degree of STR-PCR was
+significantly lower in responders than nonresponders.
+Moreover, day-28 STR-PCR facilitated the identification of
+patients at risk of high-level MC. Therefore, the degree of
+chimerism at day 28 after allo-HSCT may be used as a novel
+platform for additional therapy to induce CR.
+High-level MC is correlated with an increased risk of
+graft failure and rejection [21]. Although we observed no
+significant differences in survival between the CC and MC
+groups, we found that patients with high-level MC displayed
+a higher rate of graft failure and lower survival than those
+with low-level or transient MC. MC is not necessarily asso-
+ciated with graft rejection, but patients with more than 30%
+recipient cells in serial samples may be at a higher risk
+of graft failure. However, no graft loss was observed in 50%
+of patients with increasing MC. Thus, the risk of graft re-
+jection after allo-HSCT may be limited to the period before
+the development of tolerance, suggesting that chimerism
+testing is not predictive of rejection once tolerance to donor
+cells has been established. Our understanding of tolerance
+development following allo-HSCT for non-malignant dis-
+eases is still incomplete.
+In patients undergoing allo-HSCT with either myeloa-
+blative conditioning or reduced intensity conditioning for
+hematologic malignancies, elevated pretransplant serum fer-
+ritin concentration, a surrogate marker of iron overload,
+has been associated with lower OS and increased nonrelapse
+mortality [22-24]. We observed an association of pretrans-
+plant ferritin concentration with day-28 STR-PCR, but not
+chimerism status thereafter, during the first year after HSCT.
+Patients experiencing graft failure displayed extremely high
+ferritin concentrations. Iron overload is known to be asso-
+ciated with free radical generation and tissue damage [23].
+Overloaded iron may have accumulated in the BM, resulting
+in deterioration of microenvironmental functions. However,
+the number of patients with graft failure was relatively small,
+suggesting the need for larger-scale studies.
+Our study had some limitations. First, the retrospective
+study design, small sample size, and heterogeneous diseases,
+and transplantation procedures may have precluded mean-
+ingful analyses. Nevertheless, this was a relatively large-scale
+investigation of this rare disease state in children, managed
+uniformly in a single center. Next, we did not evaluate line-
+age-specific chimerism in individual patients. Finally, since
+treatment was based on individual clinical situations, we
+did not analyze what interventions may have been prompted
+by the results of chimerism assays, thus affecting patients’
+clinical outcomes.
+In summary, our findings suggest that posttransplant MC
+in non-malignant diseases indicates a tolerant state associated
+with decreased incidence of acute and chronic GVHD. MC
+may thus be sufficient to cure non-malignant disease.
+However, patients subsequently presenting with more than
+30% recipient cells in serial samples may be at a higher
+risk of graft failure. The degree of chimerism at day 28
+after HSCT may allow the prediction of subsequent clinical
+responses to HSCT. Our findings collectively highlight the
+potential value of serial chimerism assays combined with
+clinical evaluation in providing information on trans-
+plantation outcomes.
+REFERENCES
+1. Ringden O, Remberger M, Svahn BM, et al. Allogeneic
+hematopoietic stem cell transplantation for inherited disorders:
+experience in a single center. Transplantation 2006;81:718-25.
+2. Peters C, Steward CG. Hematopoietic cell transplantation for
+inherited metabolic diseases: an overview of outcomes and
+practice guidelines. Bone Marrow Transplant 2003;31:229-39.
+3. Srinivasan R, Takahashi Y, McCoy JP, et al. Overcoming graft
+rejection in heavily transfused and allo-immunised patients with
+bone marrow failure syndromes using fludarabine-based
+haematopoietic cell transplantation. Br J Haematol 2006;133:
+305-14.
+4. McCann SR, Bacigalupo A, Gluckman E, et al. Graft rejection and
+second bone marrow transplants for acquired aplastic anaemia: a
+report from the Aplastic Anaemia Working Party of the European
+Bone Marrow Transplant Group. Bone Marrow Transplant 1994;
+13:233-7.
+5. Bacigalupo A, Brand R, Oneto R, et al. Treatment of acquired
+severe aplastic anemia: bone marrow transplantation compared
+with immunosuppressive therapy-The European Group for Blood
+and Marrow Transplantation experience. Semin Hematol 2000;
+37:69-80.
+6. Lawler M, McCann SR, Marsh JC, et al. Serial chimerism analyses
+indicate that mixed haemopoietic chimerism influences the
+probability of graft rejection and disease recurrence following
+allogeneic stem cell transplantation (SCT) for severe aplastic
+Korean J Hematol 2011;46:258-64.
+264 Meerim Park, et al.
+anaemia (SAA): indication for routine assessment of chimerism
+post SCT for SAA. Br J Haematol 2009;144:933-45.
+7. Hoelle W, Beck JF, Dueckers G, et al. Clinical relevance of serial
+quantitative analysis of hematopoietic chimerism after allogeneic
+stem cell transplantation in children for severe aplastic anemia.
+Bone Marrow Transplant 2004;33:219-23.
+8. Willasch A, Hoelle W, Kreyenberg H, et al. Outcome of allogeneic
+stem cell transplantation in children with non-malignant
+diseases. Haematologica 2006;91:788-94.
+9. Ferrara JL, Deeg HJ. Graft-versus-host disease. N Engl J Med
+1991;324:667-74.
+10. Nollet F, Billiet J, Selleslag D, Criel A. Standardisation of multiplex
+fluorescent short tandem repeat analysis for chimerism testing.
+Bone Marrow Transplant 2001;28:511-8.
+11. Svenberg P, Mattsson J, Ringdén O, Uzunel M. Allogeneic
+hematopoietic SCT in patients with non-malignant diseases, and
+importance of chimerism. Bone Marrow Transplant 2009;44:
+757-63.
+12. Boelens JJ, Wynn RF, O’Meara A, et al. Outcomes of
+hematopoietic stem cell transplantation for Hurler's syndrome in
+Europe: a risk factor analysis for graft failure. Bone Marrow
+Transplant 2007;40:225-33.
+13. Ozyurek E, Cowan MJ, Koerper MA, Baxter-Lowe LA, Dvorak CC,
+Horn BN. Increasing mixed chimerism and the risk of graft loss
+in children undergoing allogeneic hematopoietic stem cell
+transplantation for non-malignant disorders. Bone Marrow
+Transplant 2008;42:83-91.
+14. Roy DC, Tantravahi R, Murray C, et al. Natural history of mixed
+chimerism after bone marrow transplantation with CD6-depleted
+allogeneic marrow: a stable equilibrium. Blood 1990;75:296-304.
+15. Baron F, Little MT, Storb R. Kinetics of engraftment following
+allogeneic hematopoietic cell transplantation with reduced-
+intensity or nonmyeloablative conditioning. Blood Rev 2005;19:
+153-64.
+16. Sugita J, Tanaka J, Hashimoto A, et al. Influence of conditioning
+regimens and stem cell sources on donor-type chimerism early
+after stem cell transplantation. Ann Hematol 2008;87:1003-8.
+17. Baron F, Maris MB, Storer BE, et al. High doses of transplanted
+CD34＋ cells are associated with rapid T-cell engraftment and
+lessened risk of graft rejection, but not more graft-versus-host
+disease after nonmyeloablative conditioning and unrelated
+hematopoietic cell transplantation. Leukemia 2005;19:822-8.
+18. Mickelson DM, Sproat L, Dean R, et al. Comparison of donor
+chimerism following myeloablative and nonmyeloablative
+allogeneic hematopoietic SCT. Bone Marrow Transplant 2011;
+46:84-9.
+19. Gonzalez-Vicent M, Diaz MA. Higher doses of CD34＋ PBPC are
+associated with a rapid acquisition of full donor chimerism and
+lower risk of relapse after allogeneic transplantation in pediatric
+patients with hematological malignancies. J Pediatr Hematol
+Oncol 2011;33:185-9.
+20. Remberger M, Jaksch M, Uzunel M, Mattsson J. Serum levels of
+cytokines correlate to donor chimerism and acute graft-vs.-host
+disease after haematopoietic stem cell transplantation. Eur J
+Haematol 2003;70:384-91.
+21. Jillella AP, Shafer D, Klumpp TR, Emmons RV, Mangan KF. Mixed
+chimerism and graft failure following conditioning with the
+fludarabine and cyclophosphamide nonablative regimen; con-
+version to full donor chimerism. Am J Hematol 2007;82:419-26.
+22. Armand P, Kim HT, Cutler CS, et al. Prognostic impact of elevated
+pretransplantation serum ferritin in patients undergoing
+myeloablative stem cell transplantation. Blood 2007;109:4586-8.
+23. Altes A, Remacha AF, Sureda A, et al. Iron overload might increase
+transplant-related mortality in haematopoietic stem cell trans-
+plantation. Bone Marrow Transplant 2002;29:987-9.
+24. Kim YR, Kim JS, Cheong JW, Song JW, Min YH. Transfusion-
+associated iron overload as an adverse risk factor for transplan-
+tation outcome in patients undergoing reduced-intensity stem
+cell transplantation for myeloid malignancies. Acta Haematol
+2008;120:182-9.
+

@@ -1,0 +1,1348 @@
+BioMed Central
+C
+TIONALINTERNA
+CANCER CELL
+Page 1 of 12
+(page number not for citation purposes)
+Cancer Cell International
+Open AccessReview
+Clinical implications and utility of field cancerization
+Gabriel D Dakubo*1, John P Jakupciak2, Mark A Birch-Machin3 and
+Ryan L Parr1
+Address: 1Genesis Genomics Inc., 310-1294 Balmoral Street, Thunder Bay, Ontario, P7B 5Z5, Canada, 2National Institute of Standards and
+Technology, Biochemical Science Division, Gaithersburg, MD 20899, USA and 3Dermatological Sciences, Institute of Cellular Medicine, Newcastle
+University, Newcastle upon Tyne, NE2 4HH, UK
+Email: Gabriel D Dakubo* - gabriel.dakubo@genesisgenomics.com; John P Jakupciak - john.jakupciak@nist.gov; Mark A Birch-
+Machin - M.A.Birch-Machin@newcastle.ac.uk; Ryan L Parr - ryan.parr@genesisgenomics.com
+* Corresponding author
+Abstract
+Cancer begins with multiple cumulative epigenetic and genetic alterations that sequencially
+transform a cell, or a group of cells in a particular organ. The early genetic events might lead to
+clonal expansion of pre-neoplastic daughter cells in a particular tumor field. Subsequent genomic
+changes in some of these cells drive them towards the malignant phenotype. These transformed
+cells are diagnosed histopathologically as cancers owing to changes in cell morphology.
+Conceivably, a population of daughter cells with early genetic changes (without histopathology)
+remain in the organ, demonstrating the concept of field cancerization. With present technological
+advancement, including laser capture microdisection and high-throughput genomic technologies,
+carefully designed studies using appropriate control tissue will enable identification of important
+molecular signatures in these genetically transformed but histologically normal cells. Such tumor-
+specific biomarkers should have excellent clinical utility. This review examines the concept of field
+cancerization in several cancers and its possible utility in four areas of oncology; risk assessment,
+early cancer detection, monitoring of tumor progression and definition of tumor margins.
+Background
+The sequential genetic changes that drive a cell towards
+malignancy occur over several years. In view of this, the
+American Association for Cancer Research Task Force on
+the treatment and prevention of intraepithelial neoplasia
+(IEN) has recognized the importance of targeting the
+treatment of early cancerous lesions to prevent or regress
+carcinogenesis [1]. Considerable research has identified
+molecular markers of IEN that serve as useful targets or
+endpoints of chemoprevention [1-3]. This laudable effort
+by the Task Force can be complemented by identification
+of biomarkers in normal tissues adjacent to tumors (peri-
+tumoral cancer fields). Validated biomarkers from cancer
+fields should be useful for primary chemoprevention
+studies as well.
+The idea of field cancerization was conceived by Slaughter
+almost a decade prior to introducing the term in 1953. In
+an earlier publication he stated that; "cancer does not arise
+as an isolated cellular phenomenon, but rather as an anaplastic
+tendency involving many cells at once" [4]. The term "lateral
+cancerization" was subsequently used to indicate that the
+lateral spread of tumors was due to progressive transfor-
+mation of cells adjacent to a tumor, rather than the spread
+and destruction of the adjacent epithelium by pre-existing
+cancer cells [5]. In a more extensive histopathologic
+Published: 15 March 2007
+Cancer Cell International 2007, 7:2 doi:10.1186/1475-2867-7-2
+Received: 19 January 2007
+Accepted: 15 March 2007
+This article is available from: http://www.cancerci.com/content/7/1/2
+© 2007 Dakubo et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 2 of 12
+(page number not for citation purposes)
+review of 783 oral cancer patients, Slaughter and col-
+leagues then used the term field cancerization to describe
+the existence of generalized carcinogen induced early
+genetic changes in the epithelium from which multiple
+independent lesions occur, leading to the development of
+multifocal tumors [6]. In some cases, multiple contiguous
+tumor foci coalesce that partly explain the lateral spread of
+squamous cell cancers. It was also observed that normal
+looking cells in close proximity to malignant cells were
+histologically abnormal and therefore were part of the
+transformed cells in a particular tumor field, and conse-
+quently were responsible for the occurrence of local
+tumor recurrences. These observations were made at
+about the era the DNA double helix was discovered by
+Watson and Crick, hence in the absence of modern molec-
+ular techniques. More recent studies using various genetic
+analyses have provided unequivocal evidence in support
+of the work of Slaughter and colleagues [7].
+An important unanswered question of field cancerization
+is exactly how these cancer fields develop. Could a partic-
+ular carcinogen induce multiple distinct genetic altera-
+tions in different cells resulting in polyclonal pre-
+neoplastic lesions in a particular tissue from which multi-
+ple tumors develop? Does a single genetic event occur in
+a cell that clonally expands and laterally spreads to replace
+the normal epithelium, and therefore create a large area of
+pre-neoplastic field from which multiple tumors develop?
+Alternatively, does an early genetic event occur simultane-
+ously in a group of cells such that subsequent genetic
+lesions drive some cells towards malignancy? Is it also
+plausible that some field changes are created during orga-
+nogenesis when some altered cells proliferate to generate
+a vast area of preconditioned epithelial surface, such that
+subsequent genetic lesions in some cells result in multiple
+cancers? Whereas all these modes of field cancerization
+are possible, molecular data accrued from studies of head
+and neck, esophagus, and bladder cancers support the
+clonal expansion model [8-10]. This model could explain
+how multiple tumors develop in organs such as skin,
+colon, esophagus, stomach, bladder, cervix, and vulva
+that have contiguous epithelium. Though possible, it is
+less likely that the spread of monoclonal cells is responsi-
+ble for the development of multiple tumors in glandular
+tissues like the lung, breast, ovary, pancreas, and prostate
+that have discontinuous glandular epithelial organiza-
+tion, even when exposed to the same carcinogen. Multiple
+tumors in these organs are likely to originate from poly-
+clonal tumor stem cells, although these clones may have
+identical genetic alterations. For example, loss of hetero-
+zygosity (LOH) in primary ductal carcinoma in situ
+(DCIS) were distinct from those in their corresponding
+cancers, suggesting that some DCIS and subsequent aden-
+ocarcinoma in the same breast developed from genetically
+divergent clones [11]. Furthermore, a study of microdis-
+sected normal glands and their co-existing malignant epi-
+thelia from breast cancer specimens demonstrated that
+only one had identical LOH to the cancer, with the major-
+ity harboring LOH at different genetic loci from the tumor
+[12].
+Notwithstanding the mechanism of precancerous field
+development, the multistep model of tumorigenesis is
+probably better understood by field cancerization studies.
+Importantly, genetic information gained at various stages
+of cancer development continues to advance our knowl-
+edge and understanding of cancer biology, and how such
+molecular markers can be used clinically. Recent molecu-
+lar techniques have enabled detection of alterations at all
+genomic levels. Epigenetic gene silencing, chromosomal
+anomalies, LOH, DNA sequence analysis for SNP and
+mutation detection, altered gene expression (transcripts
+and proteins), and mitochondrial genome changes have
+all been demonstrated in both precancerous lesions and
+normal appearing cells close to tumors [10,13-19]. One
+can even infer a metabolomic field cancerization profile
+in various tissues. It could be surmised that the early
+genetic changes will remain with the tumor cells as well as
+pre-neoplastic cells from the same organ. If well character-
+ized, such early molecular alterations could have great
+value in risk assessment, early cancer detection, monitor-
+ing of disease progression, and chemoprevention.
+A highly informative but almost forgotten genome is that
+contained in the mitochondrion. This organelle produces
+almost all the energy required for cellular physiology, and
+an inevitable byproduct of this reaction is the generation
+of reactive oxygen species (ROS), which can damage
+nucleic acids, proteins and lipids. The mitochondrial
+genome is less protected and has an inefficient repair
+mechanism compared to the nuclear genome, and yet is
+bathed by ROS. Not surprisingly therefore, the mitochon-
+drial genome has a high mutation rate, and this may sig-
+nal the genesis of cancer [20]. In addition, leakage of ROS
+into the nucleus can cause mutations in nuclear genes that
+could initiate the malignant process [21]. It is thus likely
+that the modest mtDNA molecule might sustain early
+genetic damage, and thus an even earlier biomarker indic-
+ative of field cancerization compared to nuclear genomic
+alterations that have been extensively studied.
+Since the focus of this review is the identification and util-
+ity of genetic alterations in normal adjacent cells or pre-
+cancerous cells that differ from normal donor control
+samples, the term field cancerization is used to broadly
+mean "the process whereby cells in a particular tissue or
+organ are transformed, such that genetically altered but
+histologically normal appearing cells predate the develop-
+ment of neoplasia or coexist with malignant cells, irre-
+spective of clonality".
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 3 of 12
+(page number not for citation purposes)
+Field cancerization is probably a general
+phenomenon of epithelial tumors
+An important physiologic function of epithelia is their
+protective role that inevitably exposes them to environ-
+mental substances, including carcinogens that can create a
+vast area of genetically altered cancer fields. Epithelial
+cells frequently self renew and can undergo abnormal pro-
+liferation. Hyperplastic epithelia could form the basis of
+neoplastic transformation leading to the formation of the
+most common types of cancers of the human body.
+Molecular signatures of field cancerization have been doc-
+umented for several epithelial tumors including those of
+the head and neck [22], esophagus [23], stomach [24],
+lungs [25], skin [26], cervix [27], vulva [28], bladder [29],
+colon [15], breast [17], ovary [30], pancreas [31], and
+recently the prostate [32]. It has even been conceptualized
+in brain and hematologic malignancies [33,34]. A brief
+synopsis of both nuclear and mitochondrial genetic mark-
+ers used in field cancerization studies of several epithelial
+tumors is first provided.
+Head and neck cancer
+Given that field cancerization was first described in oral
+cancers, it is not surprising that considerable molecular
+genetic studies have been conducted in head and neck
+tumors in an attempt to explain the mechanisms and
+importance of this phenomenon [7,35,36]. Whereas the
+debate on the clonal nature of these fields is ongoing,
+carefully designed experiments with strict definition of
+clonality (i.e., using cytogenetic markers, microsatellite
+instability, and mutation analysis) seem to support the
+notion that the majority of head and neck squamous cell
+carcinoma (HNSCC) originates from contiguous mono-
+clonal pre-neoplastic fields [10]. Indeed a field size of over
+7 cm has been mapped in these cancers [10], and about
+62.5% of HNSCC second primary tumor recurrences are
+from similar clonal fields left behind after resection [13].
+Recently, abnormal protein profiles were demonstrated in
+various samples of head and neck cancer in contrast to
+healthy patients. Profiling of mucosa from 73 healthy
+individuals, 113 HNSCC, 99 tumor-distant, and 18
+tumor-adjacent discovered that 72% of tumor-adjacent
+and 27.3% of tumor-distance samples harbored aberrant
+protein profiles indicative of field cancerization. Interest-
+ingly, these altered protein profiles in tumor-distant sam-
+ples were significantly associated with tumor relapse,
+indicating that proteomic analysis of peri-tumoral sam-
+ples might have prognostic value [22]. It appears that car-
+cinogen exposure creates a large molecularly altered pre-
+neoplastic field in the epithelium of the aerodigestive tract
+from which multiple tumors develop, and the remaining
+cancer fields left after resection give rise to local recur-
+rences.
+A role for geneomic alterations in stromal tissue in mod-
+ulating the development of HNSCC was recently pro-
+vided. Using laser-capture microdissection, tumor
+epithelial and stromal cells were obtained form 122
+patients for whole genome LOH and allelic imbalance
+analysis using 366 microsatellite markers, and the results
+were compared to clinicopathologic parameters at presen-
+tation. Tumor size and nodal metastases were linked to
+three stroma-specific loci, whilst two epithelial loci were
+associated with nodal invasion [37]. Stromal genetic alter-
+ations therefore appear to control the growth and spread
+of HNSCC.
+Field cancerization in HNSCC has also been addressed
+using mtDNA markers. Ha et al. [18] analyzed 137 prema-
+lignant lesions from 93 patients and demonstrated the
+presence of mtDNA C-tract alterations in 34 patients com-
+pared to their germline mtDNA. Notably, these mutations
+increased with increasing severity of dysplasia, suggesting
+acquired mitochondrial genome alterations might drive
+or indicate disease progression. Normal adjacent mucosas
+to dysplastic lesions were also analyzed. Identical mtDNA
+mutations were found in peri-lesional tissue of 3/8 lesions
+that had mtDNA alterations. Mutations persisted in 3/7
+metachronous lesions, while 8/18 synchronous lesions
+had an identical pattern of mitochondrial mutations [18].
+These findings lend support for the monoclonal nature of
+some head and neck cancer fields. In another study by this
+group, mitochondrial content alteration was observed in
+premalignant lesions and appear to increase with disease
+progression to malignancy [38]. These changes in mtDNA
+content can be detected in saliva [39], and the levels seem
+to decrease with treatment [40], indicating the possibility
+of a non-invasive means of early detection and monitor-
+ing of head and neck cancers using mtDNA markers. The
+levels of the 4977 bp common mtDNA deletion has been
+investigated by quantitative PCR in laser-capture micro-
+dissected tissues from paired oral cancers, their precancer-
+ous lesions and adjacent submucosal stroma in
+comparison to lymphocytes microdissected from lymph
+node biopsies [41]. The deletion was higher in lesions
+compared to lymphocytes. Interestingly, precancerous
+lesions had higher levels of the deletion than cancerous
+tissue, and in both cases, the adjacent submucosal stroma
+harbored more deletions than the lesions [41]. Thus the
+levels of the common deletion are increased in precancer-
+ous oral lesions, and appear to decrease with disease pro-
+gression to invasive cancer. This might suggest transition
+to an advantageous energy producing pathway.
+Lung cancer
+Smoking is an established carcinogen of lung cancer. In an
+attempt to map out smoking-related cancer fields, Frank-
+lin et al. [42] sampled tissues from the entire tracheobron-
+chial tree of one individual who had 50-pack-years of
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 4 of 12
+(page number not for citation purposes)
+smoking history without lung cancer, for p53 mutation
+analysis. They found that a transversion in codon 245 was
+present in 7/10 sites in both lungs, indicating a carcinogen
+targeted mutation in widespread lung epithelium of this
+individual [42]. Clone sizes in lung epithelium have been
+studied using twelve microsatellite markers on microdis-
+sected tumors and associated normal appearing bronchial
+epithelium. Clone sizes of up to 90,000 cells were identi-
+fied [43]. Several sites of normal looking epithelium con-
+tained genetic abnormalities as well. Tumors from an
+individual tended to be homogeneous with respect to
+molecular markers, however, pre-neoplastic clonal
+patches were often heterogeneous [43]. More recently,
+LOH, especially at chromosome 12p12 was demonstrated
+in normal bronchial epithelium of long-term smokers,
+and deletion hotspots at two chromosomal regions
+(2q35-q36, 12p12p13) were observed in non-small cell
+lung cancer (NSCLC) and matched normal bronchial epi-
+thelial cells [25]. This suggests LOH could indicate suscep-
+tibility to or potential presence of cancer and may be a
+hallmark of progression of apparently phenotypically
+normal pre-neoplastic cells to cancer [44]. Thus, similar to
+the aerodigestive tract, it appears that carcinogens cause
+an early genetic change in widespread tracheobronchial
+epithelium from which multiple tumors develop. Given
+that about 72% of lung cancers diagnosed have already
+spread [45], non-invasive molecular profiling of sputum
+for biomarkers from tracheobronchial epithelial cancer
+fields in high risk population should aid early diagnosis.
+Esophageal cancer
+Barrett's esophagus is a pre-neoplastic condition of
+esophageal cancer, and thus has served as a useful model
+for studies of clonality and tumor progression in field can-
+cerization. Using p53 mutation as a clonal marker, Prevo
+et al. [8] mapped 213 endoscopic biopsies from 58
+patients, and demonstrated that 50% were clonal and
+occupied cancer fields ranging from 1 cm to 9 cm [8].
+LOH at 9p21 (p16 locus) and 17p13 (p53 locus) have also
+been used to map fields in the esophagus [46]. In 61
+patients with 404 samples, LOH at one or both loci was
+observed in 73% of cases. Clone sizes were heterogene-
+ous, with many clones showing incomplete expansion,
+however some were as large as 2 cm, and others occupied
+the entire Barrett's segment [46]. In another study, it was
+observed that clone expansion correlated with p16 status,
+being 1.5 cm in p16+/+, 6 cm in p16+/-, and 8 cm in p16-/
+- clones. Indeed, mutant p16 clones could expand to
+involve about 17 cm of the esophagus [23]. Epigenetic
+gene silencing of APC, CDH1, ESR1 and p16 has been
+studied in Barrett's esophagus. Hypermethylation in large
+contiguous fields were observed, further confirming
+molecular field cancerization in Barrett's metaplasia [47].
+In a prospective study where 267 patients were followed,
+it was demonstrated that clone sizes (which is an index of
+clones multiplied by the length of Barretts's segment they
+occupied) with p53 LOH and ploidy, were a better predic-
+tor of progression towards adenocarcinoma [48]. Clones
+with p16 lesions did not carry much risk for tumor devel-
+opment in the absence of p53 LOH. Thus, clone expan-
+sion with added genetic instability seems to indicate
+disease progression in Barrett's esophagus. Recently, a
+clonal cellular diversity theory appears to explain progres-
+sion of Barrett's esophagus towards adenocarcinoma. By
+applying the principles of ecology and evolution, (muta-
+tion rate, population size of evolving clones, rate of natu-
+ral selection or clonal expansion), clonal diversity was a
+strong predictor of disease progression, even after control-
+ling for known risk factors such as p53 LOH and ploidy
+abnormalities [49,50]. This finding is clinically relevant in
+terms of disease surveillance.
+Recently, a new and sensitive array-based sequencing of
+mtDNA from 14 pre-neoplastic lesions of the gastrointes-
+tinal tract (7 Barrett esophagus, 4 colonic adenomas, and
+3 inflammatory colitis-associated dyplasia) was per-
+formed. MtDNA mutations were observed in all 14 pre-
+neoplastic samples. Two colonic adenocarcinomas and
+the synchronous dysplastic lesions harbored identical
+genetic changes, suggesting a possible field cancerization
+[14]. This finding suggests that whole genome mtDNA
+profiling might help early detection of gastrointestinal
+tumors.
+Gastric cancer
+Genetic evidence has been provided for the multicentric-
+ity of synchronous multiple gastric cancers. Analysis of
+mutation pattern in APC, MCC and p53 genes in multiple
+tumors from 13 patients (10 with double tumors, 2 with
+triple tumors and 1 with quadruple tumors), concluded
+that there was discordance in mutation patterns in these
+tumors [51]. Thus, independent genetic events in a pre-
+conditioned epithelium might have given rise to these
+multiple lesions. Epigenetic silencing via CpG island
+hypermethylation of LIMS1, a gene involved in cell dis-
+persion has been demonstrated in 53% of gastric cancers
+[24]. Interestingly, LIMS1 methylation was observed in
+normal-appearing gastric tissue suggesting that this could
+be an early genetic event in the development of gastric
+neoplasia [24]. C-erb amplification was observed in a sub-
+set of tumors and the normal mucosa close to tumor mar-
+gin [52], and aneuploidy was frequent in normal mucosa
+at about 3 cm distance from the tumor margin [53].
+Colorectal cancer
+Colorectal cancers lend themselves to the study of field
+cancerization owing to the contiguous nature of their epi-
+thelium. Carcinoembryonic antigen (CEA) staining inten-
+sities in normal colonic mucosa adjacent to tumor was
+similar to that of the tumor, but this decreased at a dis-
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 5 of 12
+(page number not for citation purposes)
+tance of 1 cm, and staining at 5 cm from the tumor margin
+was identical to mucosa without tumor [54]. Thus, a gra-
+dient of CEA expression in peri-tumoral colon epithelium
+was observed. Recently, evidence for field cancerization in
+colorectal cancer has been provided by analysis of pro-
+moter methylation in the DNA repair gene, O6-methyl-
+guanine-DNA methyltransferase (MGMT) [15]. In this
+well designed study, methylation in tumors was observed
+to be associated with methylation in normal adjacent
+mucosa, and normal appearing colorectal mucosa located
+10 cm away from tumors were methylated in 10/13
+tumors. Normal mucosa located 1 cm from tumor margin
+was more likely to be hypermethylated than those 10 cm
+away [15]. Epigenetic silencing of MGMT thus creates a
+preconditioned genetic field from which colorectal
+tumors develop. Indeed, epigenetic events are proving to
+be useful biomarkers of the molecular process leading to
+colorectal cancer [55]. In another study, K-ras oncogene
+was found to be mutated and activated in 30% and 26%
+of adenomas respectively. Importantly, several down-
+stream targets of K-ras were over-expressed in adenomas
+[56], indicating that these can be evaluated for early diag-
+nosis and risk assessment.
+Vulval and cervical cancers
+Vulval intraepithelial neoplasia (VIN) is often clonal and
+contiguous with vulval squamous cell carcinoma (VSCC).
+This suggests VIN may be a precursor lesion of VSCC. X-
+chromosome inactivation analysis of 9 cases of VIN, 10
+cases of VSCC with contiguous VIN and 11 cases of VSCC
+with noncontiguous VIN indicates the majority of VIN
+and VSCC were monoclonal in origin. Two cases of VIN
+with noncontiguous VSCC, however, had molecular pat-
+terns consistent with separate clonal origins [28]. Allelo-
+typing of three markers on chromosome 3p in
+microdissected samples from low and high grade cervical
+intraepithelial lesions found that microsatellite instabili-
+ties were common in low grade lesions associated with
+invasive cancers, suggesting pre-malignant and malignant
+lesions were of monoclonal origin [27]. Thus, biomarkers
+in early stage vulval and cervical lesions seem useful for
+early detection and monitoring of these cancers.
+Skin cancer
+The organ most exposed to environmental carcinogens
+including ultraviolet radiation (UVR), is skin. Gene muta-
+tions caused by UVR play a critical role in the develop-
+ment of skin cancer. Different skin neoplasms are
+associated with signature gene mutations and alterations
+in gene expression. Precursor lesions such as actinic kera-
+tosis (AK) is associated with p53 mutations (and moder-
+ately increased p16 expression); squamous cell carcinoma
+(SCC) is associated with p53 mutations, increased p16
+expression, activation of the mitogenic ras pathway,
+reduced expression of FasR (CD95-R) and increased
+expression of FasL; and basal cell carcinoma (BCC) is
+associated with mutations in PTCH (from the sonic
+hedgehog pathway) and p53. The contiguous nature and
+ease of accessibility of skin has made this organ suitable
+for studies of the mechanisms of how field cancerization
+develops. In fact, field cancerization in skin has been
+described as a process "whereby the whole neighborhood
+is affected". As described above, mutations in p53 are
+common in skin cancer and as such have been used as
+biomarkers of clonality in the skin. In one study, p53
+mutations were present in non-melanoma skin cancer
+(NMSC) as well as the normal appearing peri-lesional
+skin of 8 patients [57]. Using whole-mount preparation,
+Jonason et al. [26] studied the clonal evolution and spread
+of p53 mutant keratinocytes arising from the dermal-epi-
+dermal junctions and hair follicles. Clones comprised of
+60–3000 cells, and were larger and more frequent in sun-
+exposed than sun-shielded skin [26]. These genetically
+altered clones might await other genetic alterations to
+fully demonstrate the malignant phenotype. The carcino-
+genic effect of high dose therapy of psoriasis with UVA
+and psoralens is known. In a study of 69 tumors, p53
+mutations were present in 54% of cases [58]. These
+mutant cells in multiple tumors from the same patient
+were heterogeneous, suggesting they arose from different
+somatic stem cell clones in cancer fields created by the
+UVA and psoralen treatment.
+Corroborative evidence for field cancerization in the skin
+has been provided by mtDNA analysis. In NMSC, both
+tumors and the normal tissue adjacent to tumor (i.e., peri-
+lesional skin) contained homoplasmic UV-induced
+mtDNA mutations [59]. In another study, mtDNA dele-
+tions were present in both tumors and margin samples,
+with margin tissues harboring more deletions than tumor
+[60]. Thus, peri-lesional skin tissue might contain
+expanded mutant mtDNA keratinocytes, as has been dem-
+onstrated using nuclear DNA markers [26]. This suggests
+that the traditional use of histologically normal peri-
+lesional skin in NMSC studies may have several limita-
+tions. This is important when one considers that the
+majority of studies involving nuclear DNA damage and
+skin cancer/skin disease often use peri-lesional skin as a
+control tissue.
+Gallbladder cancer
+In a well designed study, a panel of normal, pre-neoplastic
+and neoplastic gallbladder samples was analyzed for
+mitochondrial D310 alterations. Whereas D310 abnor-
+malities were infrequent in normal samples, they
+increased in frequency in dysplastic lesions and normal
+appearing tissue adjacent to a tumor [61]. This finding
+calls for comprehensive analysis of mitochondrial
+genome alterations in pre-malignant gallbladder lesions.
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 6 of 12
+(page number not for citation purposes)
+Bladder cancer
+As the final recipient and reservoir of urine, the urothe-
+lium is inevitably exposed to carcinogens, which can cre-
+ate a large cancer field in this tissue resulting in multifocal
+tumors. Whole organ mapping of bladder cancer fields
+has been studied using a combination of LOH, p53 muta-
+tion and fluorescence in situ hybridization (FISH) analy-
+sis [62]. Cells were microdissected from various parts of a
+cystectomised bladder for analysis. Several abnormalities
+not observed in normal bladder were present in bladder
+with cancer. Molecular and histopathologic data compar-
+ison suggested monoclonality of multifocal lesions in
+bladder cancer [62]. In another investigation, 32 tumors
+from 6 bladders were analyzed using chromosomal mark-
+ers [9]. Interestingly, multiple tumors from the same blad-
+der harbored identical chromosomal alterations in
+addition to private chromosomal changes, as is expected
+of the multistep model of tumorigenesis. Indeed it is
+likely that in the bladder, lesions occur in genetically
+transformed but histologically normal urothelium [63].
+Breast cancer
+Glandular epithelial cells of the breast undergo cyclical
+proliferation, which favors neoplastic transformation.
+DCIS is a precancerous lesion of invasive breast cancer.
+Several groups have demonstrated genomic instability in
+normal breast lobules adjacent to cancer focus, and in
+DCIS. LOH in normal breast tissue adjacent to breast can-
+cer was reported in 8/30 cases, all of which possessed the
+same missing allele as the corresponding carcinoma [16].
+Analysis of LOH was performed on fine needle aspiration
+(FNA) biopsy samples obtained from 30 asymptomatic
+(11 with normal cytology and 19 with proliferative cytol-
+ogy) women with known risk of breast cancer. LOH was
+observed in 2 and 14 patients with normal cytology and
+abnormal cytology respectively [64]. These findings sug-
+gest that random FNA biopsy sampling of breast tissue for
+molecular screening could potentially be useful in indi-
+vidualized medicine. In another study, normal appearing
+tissue samples were obtained from breast quadrants of 21
+patients with known breast cancer for studies of LOH and
+allelic imbalances [65]. Genomic instabilities were higher
+in outer breast quadrants than inner quadrants. Thus, the
+increased frequency of breast cancer in outer quadrants is
+related to the presence of elevated genomic instabilities
+[65]. LOH was also studied on samples from 30 women
+with grade 1 and grade 3 DCIS, and 6 patients who subse-
+quently developed invasive cancer [11]. At four chromo-
+somal loci (6q, 11p, 17p and 17q), there were higher
+losses in grade 3 compared to grade 1 DCIS, however, the
+fractional allelic loss at 19 loci was significantly higher in
+grade 1 than in grade 3 DCIS. As well, LOH in DCIS and
+corresponding invasive breast cancer were heterogeneous
+[11]. On the contrary, a previous study had indicated the
+possible progressive nature of DCIS to invasive ductal car-
+cinoma (IDC) using similar LOH analysis. In this study,
+samples from 7 women with DCIS who subsequently
+developed breast cancer in the same breast were exam-
+ined. At 50 loci, LOH in DCIS and IDC were concordant,
+and LOH appeared to accumulate with disease progres-
+sion from DCIS to IDC [66]. Alterations in telomere DNA
+content and allelic imbalances were demonstrated in his-
+tologically normal breast tissue located at 1 cm distance
+from visible tumor margin. These changes decrease as a
+function of distance from the tumor margin [17].
+Epigenetic gene silencing in breast cancer has been stud-
+ied. Methylation of the cyclin D2 promoter appeared to be
+specific to breast cancer, however, promoter methylation
+of APC, RARbeta2 and RASSF1A in normal breast from
+breast cancer patients was associated with increased
+breasts cancer risk [67]. In a recent comprehensive study
+of methylation of RASSF1A promoter in breast tissue sam-
+ples, it was uncovered that primary tumors had signifi-
+cantly higher promoter methylation than control
+reduction mammoplasty tissue, with adjacent normal
+samples having intermediate levels. Interestingly, global
+profiling of DNA methylatation revealed more methyl-
+ated genes in normal adjacent samples than in normal
+donor control samples [68].
+Prostate cancer
+Compared to breast, relatively little work has been con-
+ducted on field cancerization in prostate cancer. Prostate
+cancer is often multifocal, and it is likely that multiple
+tumors arise from an organ genetically altered by a partic-
+ular carcinogen. Genomic instability, gene expression
+studies and analysis of mitochondrial genome alterations
+have recently been reported to show field cancerization in
+prostate cancer. Methylation in GSTP1 and RARbeta2 was
+present in prostate cancer, adjacent stroma and adjacent
+normal glands close to tumor and were absent in normal
+epithelia from benign prostatic hyperplasia [32]. Tel-
+omere content alterations were observed in normal
+appearing tissue close to tumors, and was shown to be a
+good predictor of prostate cancer recurrence [69]. Injec-
+tion of prostate cancer cell lines into athymic nude mice
+caused cytogenetic abnormalities in stromal cells [70],
+suggesting that at least in prostate cancer, tumor cells
+might have the potential of transforming adjacent normal
+glands. Gene expression signatures in normal tissue adja-
+cent to a tumor focus closely resembled those of tumors
+and were different from normal donor prostate samples
+[19,71]. Interestingly, early prostate cancer antigen
+(EPCA), which is expressed in normal tissues close to a
+tumor, was shown to have elevated expression in normal
+prostate glands of individuals who subsequently devel-
+oped cancer years later [72,73]. The possible clonal nature
+of multifocal prostate cancer is suggested by a recent
+study. Laser-capture microdissection was used to procure
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 7 of 12
+(page number not for citation purposes)
+pure glandular epithelial cells from multifocal tumors for
+gene expression studies. In any particular individual, ERG,
+ETV1, and ETV4 were either over-expressed or not
+expressed in all samples, suggesting alteration in these
+genes could be early events in prostate cancer evolution
+[74]. Prostate cancer is an age-associated disease. Interest-
+ingly, a prostate cancer DNA phenotype, likely induced by
+an age-associated oxidative DNA damage, was found in
+some older men and in normal prostate glands adjacent
+to tumors [75,76]. This cancer DNA conformation is likely
+an early event in prostate cancer development since it
+occurs long before tumors develop [77]. Indeed a meta-
+static prostate cancer DNA phenotype was also demon-
+strable in metastasizing tumors and the normal glands
+surrounding these tumors, and this phenotype was differ-
+ent from that of primary cancer phenotype [78]. Some of
+the molecular changes in prostate cancer appear to have
+excellent potential utility as early diagnostic biomarkers
+[79].
+Although not directly questioned, the concept of field
+cancerization is indicated in a number of mtDNA muta-
+tion studies of prostate cancers. Mutations in the mito-
+chondrial genome were present in a co-existing precursor
+lesion, PIN and matched tumor [80]. In a comprehensive
+study of laser capture microdissected tissues from prosta-
+tectomy specimens, we demonstrated some aspects of
+field cancerization using mitochondrial genome markers
+[81]. Pure populations of cells from a malignant focus and
+the normal appearing cells at two distinct locations,
+immediately proximal to the tumor and further away
+from the tumor were obtained. MtDNA mutation load in
+tumors and matched normal appearing glands were iden-
+tical and these were significantly different from those
+obtained from age-matched control individuals without
+cancer [81]. In a follow-up study, a single large scale
+mtDNA deletion associated with prostate cancer was
+observed to increase in frequency in normal appearing
+glands adjacent to a tumor.
+Ovarian cancer
+The most common ovarian cancer, serous ovarian carci-
+noma, can develop following serous borderline ovarian
+tumors (BOTs), suggesting the ovarian epithelium could
+be genetically preconditioned by a carcinogen from which
+tumors develop. Moreover, it has been the conception
+that multifocal and recurrent ovarian tumors are mono-
+clonal. A study of clonality using p53 and K-ras mutation
+analysis in 8 patients with BOTs who later developed
+serous carcinomas concluded that the tumors were unre-
+lated [82]. Likely, distinct genetic alterations in a precon-
+ditioned epithelium may lead to BOTs and serous
+carcinomas independently. Analysis of 13 primary and
+corresponding recurrent ovarian tumors using four mark-
+ers of genomic instability indicated 10/13 were different,
+with the rest being identical [83]. Promoter methylation
+status of hMLH1, CDKN2A, and MGMT in synchronous
+independent ovarian and endometrial cancers was stud-
+ied for the possible origin of these tumors from a canceri-
+zation field. High frequency of promoter methylation of
+CDKC2A and MGMT were found in both endometrial and
+ovarian carcinomas, suggesting the epigenetic silencing of
+these genes could be an early event in the development of
+these synchronous cancers [30].
+Pancreatic cancer
+Multiple intraductal papillary tumors of the pancreas are
+common, and a precancerous lesion of pancreatic adeno-
+carcinoma is ductal hyperplasia. Therefore could pancre-
+atic cancers arise from genetically transformed but normal
+ductal epithelium? Mutations in K-ras are early important
+events in pancreatic ductal carcinoma and non-neoplastic
+pancreatic ductal lesions. Therefore, these markers have
+been used for several studies of pancreatic cancer evolu-
+tion. Microdissected tumors and associated ductal hyper-
+plastic tissue from 37 patients for K-ras mutation and X-
+chromosome inactivation analyses demonstrated distinct
+genomic abnormalities in hyperplasia as well as pancre-
+atic cancer. This study concluded that polyclonal multi-
+centric pancreatic cancers originate form epithelium with
+early genetic changes [84]. In a study of microdissected
+samples from 20 intraductal papillary-mucinous tumors
+(IPMT) and 7 ductal adenocarcinoma, K-ras mutations
+were noted in 66.7% of peri-tumoral tissue and 62.5% of
+separate IPMT lesions, and at least one identical mutation
+was observed in the tumor and peritumoral tissue in all
+IPMT patients with those lesions [31]. K-ras mutation as a
+marker of disease progression has been demonstrated.
+Analysis of 46 different histologic grades of IPMT from 16
+patients and 9 with ductal adenocarcinoma reveal an
+increased frequency of K-ras mutation from 16.7% in nor-
+mal epithelium and papillary hyperplasia, to 57.1% in
+high grade dysplasia, carcinoma in situ and invasive can-
+cer [85].
+Conceptualization of field cancerization in other
+tumors
+Hematologic oncology
+It has been proposed that generalized insults to bone mar-
+row can lead to simultaneous generation of many abnor-
+mal bone marrow clones. Therefore admixture of cells
+representing severe aplastic anemia, acute promyelocytic
+leukemia, chronic myeloid leukemia, and myelodysplas-
+tic syndrome, can be present in the same bone marrow,
+and that proliferative advantage of one clone results in its
+dominant appearance and thus specific diagnosis. The
+term "field leukemogenic effect" was used to describe this
+phenomenon [33]. It will be interesting to know whether
+the ecological and evolutionary concepts used to predict
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 8 of 12
+(page number not for citation purposes)
+progression in Barrett's esophagus to adenocarcinoma
+[49] applies here as well.
+Heteroplasmy is an early indicator of disease, and in
+oncology, this could probably be an indicator of field can-
+cerization. The dynamics of mitochondrial genome
+changes was shown in association with the progression of
+myelodysplastic syndrome (MDS) to acute myeloid leuke-
+mia (AML) [86]. MDS are clonal myeloid disorders that
+can transform to AML. A heteroplasmic mtDNA mutation
+in MDS was observed to increase with disease evolution
+until the final stage of AML when the mutant copy became
+homoplasmic. This sequencing data was confirmed using
+restriction digest analysis by showing that the mtDNA
+mutation load positively correlated with progression from
+MDS to AML [86]. These findings are indeed very interest-
+ing, and importantly emphasize the need for sensitive
+sequencing methods for heteroplasmy detection.
+Neuro-oncology
+Gliomatosis cerebri (GC) is a rare neoplasm of the brain
+with extensive distribution, usually involving both lobes
+and even occasionally infratentorial regions. Could this
+lesion therefore arise from a vast field of preconditioned
+neural tissue? In one study of GC, 24 tissue samples were
+randomly obtained from several brain areas for study.
+Genome-wide scan for chromosomal aberrations, p53
+mutation analysis and LOH were performed on all sam-
+ples. Mutations in p53 were present in 20/24 cases, with
+chromosomal loses and allelic imbalances in several other
+tumor samples [34]. In a separate series, mtDNA was used
+as a clonal marker for GC, and consistent band losses were
+observed in all tumor samples from two individuals, one
+of who also had p53 mutations [87].
+The need for appropriate control tissue in
+cancer studies
+An important message from the above review of the liter-
+ature is that using histologically normal appearing sam-
+ples as the sole control tissue in cancer research is
+probably inappropriate [88]. At its minimum, the use of
+donor tissues (ideally obtained under similar conditions
+as tumor) will serve as better controls for tumor-specific
+biomarker discovery. Donor control, in addition to nor-
+mal adjacent to tumors, precancerous lesions, and tumor
+samples will provide the best sample set for resolution of
+genetic alterations that are relevant to the disease process.
+If normal adjacent to tumor tissue must be used as the
+only normal control, it should first be examined for the
+absence of genetic abnormalities [88]. In skin cancer stud-
+ies for example, additional analysis of UV-induced dam-
+age in sun protected skin from the same individual would
+provide a complementary isogenic control. With regards
+to mtDNA analysis, it is regrettable that a number of
+investigators are still using normal appearing cells in the
+presence of tumors as normal maternal germline control
+tissue from which somatic mtDNA mutations could be
+unraveled [89-97]. Obviously this will lead to erroneous
+mutations being associated with the disease processes,
+since the adjacent normal tissue in a cancerization field
+may sustain somatic mtDNA mutations as well. Compar-
+ison to the mtDNA profile of the individual's blood,
+which we have determined to be the authentic germline
+mitochondrial genome, is necessary.
+Clinical implications
+Risk assessment, early detection, chemoprevention, and
+disease progression
+Biomarkers present in tumors and not in normal appear-
+ing cells close to a tumor are thought to be useful for early
+detection of cancer. Usually such tumor-specific biomark-
+ers are validated and used for screening to diagnose organ
+confined tumors that have better treatment outlook. In
+some instances, early detection strategies such as molecu-
+lar profiling of circulating tumor cells rather indicate the
+presence of metastasis [98]. Future biomarker discovery
+and validation efforts should focus on identification of
+biosensors that signal the genesis of disease, rather than
+biomarkers of the disease. Such biosensors will be useful
+in risk assessment, early detection, disease monitoring,
+and chemoprevention. For example, LOH in normal
+breast epithelial cells obtained by random FNA biopsy
+from women with known risk of breast cancer was used to
+predict breast cancer risk [64]. In this study, the Gail risk
+model predicted a mean lifetime breast cancer risk of
+16.7% for women with no LOH compared to 22.9% for
+women with LOH [64]. These markers thus correlate with
+individual risk of developing breast cancer, and thus seem
+useful for early detection and risk assessment of breast
+cancer. Genetic changes present in normal appearing cells
+can be used for identification and recruitment of individ-
+uals at risk of developing cancer for primary chemopre-
+vention (i.e., to prevent de novo development of cancers).
+Indeed, epigenetic gene silencing through promoter
+hypermethylation and transcriptional repression of sev-
+eral tumor-associated genes is an early event in several
+cancers including breast, prostate, colorectal, gastric, and
+ovarian cancers. Importantly, reversal of epigenetic events
+with agents such as hydralazine, 5-Aza-2'-deoxycytidine,
+zebularine, and magnesium valporate is possible. Knowl-
+edge of methylation patterns and their role in malignant
+transformation will enable controlled use of mehtylation
+reversal agents in primary chemoprevention. Similarly,
+relevant markers present in precancerous lesions will be
+useful endpoint measures or targets of secondary chemo-
+prevention (i.e., to prevent the progression of pre-malig-
+nant lesions to invasive cancers). Importantly, biofluids,
+representative of cells from a particular organ may serve as
+useful noninvasive or minimally invasive samples for dis-
+ease surveillance. For instance, genetic changes preceding
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 9 of 12
+(page number not for citation purposes)
+breast cancer development might be detectable in nipple
+aspirate fluids.
+Multistep field cancerization indicates two levels of cancer
+progression: molecular progression whereby histologically
+normal looking cells undergo sequential cumulative
+acquisition of genomic damage, and phenotypic progression
+whereby a neoplastic cell accumulates genetic alterations
+and undergoes further phenotypic changes (e.g., from
+intraepithelial neoplasia to various stages of invasive can-
+cer). Functionally relevant pathways altered at the molec-
+ular progression phase should uncover useful biosensors
+for early detection and monitoring of cancer. It is also well
+known that not all precancerous lesions progress to inva-
+sive cancers [1]. Thus, molecular profiling of early lesions
+using appropriate control tissue will enable important
+pathways or biomarkers that predict disease progression
+to be deciphered. In a recent elegant study, laser-capture
+microdissection was used to procure pure population of
+cells at various stages of prostate cancer development for
+gene expression profiling. Using a novel analytical
+approach referred to as "molecular concept model", sev-
+eral genes and pathways were identified that represented
+molecular progression of prostate cancer from benign
+through prostatic intraepithelial neoplasia to prostate
+cancer. Increased expression of genes involved in cell cycle
+regulation, and on 8q was associated with disease progres-
+sion [74]. The estimated progression of an atypical hyper-
+plasia to an adenocarcinoma may occur over a period of
+5–20 years. This prolonged time course provides opportu-
+nities for early detection within an activated pre-cancer-
+ous epithelial field [1,2].
+An important clinical utility of field cancerization is in
+complementary evaluation of pathologic biopsy speci-
+men. Currently, biopsies for cancer diagnosis are reviewed
+by histology, the gold standard, and the absence of abnor-
+mal cells often precludes the diagnosis of cancer. How-
+ever, histologically normal biopsy specimen that possess
+molecular signatures of cancer fields suggest either the
+tumor was missed by the biopsy procedure, or that some
+cells in the tissue are progressing towards malignancy.
+Such high risk patients will require close surveillance for
+early detection of disease.
+Tumor margins and recurrences
+Tumor recurrences are common in surgical oncology.
+Depending on the type of tumors, recurrent rates could be
+as high as 50% [99]. There are two types of local tumor
+recurrences; those that occur at the primary site of surgical
+recurrence (local or scar recurrence), and those that occur
+at a distance from the surgical scar in the residual organ
+left after resection of the primary tumor (in situ recurrence,
+second primary tumor (SPT) or second field tumors
+(SFT)). In situ recurrences that are genetically similar to
+the primary tumor are referred to as SFT, and those that
+are genetically dissimilar to the primary are identified as
+true SPT. Field cancerization may have an etiologic role in
+a substantial number of recurrences. For example, a surgi-
+cal resection margin that includes a genetically altered
+field can explain the occurrence of scar recurrence. This
+explanation suggests that molecular profiling of surgical
+margins will help reduce scar recurrences. Since multiple
+independent patches of cancer fields may be present in
+the same organ exposed to the same insult, clean molecu-
+lar margins may not necessarily prevent recurrences in the
+residual organ. Nonetheless, complementary molecular
+assessment of tumor margins should at least help reduce
+tumor recurrences. For instance, in pancreatic cancer,
+analysis of K-ras codon 12 mutation in histologically nor-
+mal surgical margin tissues from 70 patients could have
+prognostic significance. In this study, 53% of patients
+with positive molecular margins had unfavorable overall
+survival outcome [100].
+Conclusion
+Field cancerization is a well known and well documented
+process of malignant transformation. Several studies con-
+firm the importance of this phenomenon in tumor devel-
+opment. With technological advancement, the future
+should benefit from well designed studies aimed at iden-
+tifying genetic markers and pathways useful in disease
+management. An obvious shortcoming in almost all the
+studies of field cancerization is the lack of extensive
+genome-wide scans that will enable early and important
+genetic changes in tumor evolution to be uncovered.
+Many studies have relied heavily on known markers asso-
+ciated with a particular tumor. Such selected tumor mark-
+ers might be later acquisitions in the disease process, and
+will be missed in peri-tumoral samples or precancerous
+lesions. Comprehensive high-throughput analyses for the
+discovery of early and relevant genetic changes that extend
+across global networks and represent modular alterations
+of multiple targets (or surrogates) of terminal histologi-
+cally differentiated stages of cancer subtypes will be essen-
+tial for early detection, risk assessment and primary
+chemoprevention.
+Competing interests
+The author(s) declare that they have no competing inter-
+ests.
+Disclaimer
+Certain commercial equipment, instruments, materials or
+companies are identified in this paper to specify ade-
+quately the experimental procedure. Such identification
+does not imply recommendation nor endorsement by the
+National Institute of Standards and Technology, nor does
+it imply that the materials or equipment identified are the
+best available for the purpose.
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 10 of 12
+(page number not for citation purposes)
+References
+1. O'Shaughnessy JA, Kelloff GJ, Gordon GB, Dannenberg AJ, Hong WK,
+Fabian CJ, Sigman CC, Bertagnolli MM, Stratton SP, Lam S, Nelson
+WG, Meyskens FL, Alberts DS, Follen M, Rustgi AK, Papadimitrako-
+poulou V, Scardino PT, Gazdar AF, Wattenberg LW, Sporn MB, Sakr
+WA, Lippman SM, Von Hoff DD: Treatment and prevention of
+intraepithelial neoplasia: an important target for acceler-
+ated new agent development. Clin Cancer Res 2002, 8:314-346.
+2. Kelloff GJ, Sigman CC, Johnson KM, Boone CW, Greenwald P, Crow-
+ell JA, Hawk ET, Doody LA: Perspectives on surrogate end
+points in the development of drugs that reduce the risk of
+cancer. Cancer Epidemiol Biomarkers Prev 2000, 9:127-137.
+3. Tsao AS, Kim ES, Hong WK: Chemoprevention of cancer. CA
+Cancer J Clin 2004, 54:150-180.
+4. Slaughter DP: The multiplicity of origin of malignant tumors:
+collective review. Internat Abstr Surg 1944, 79:89-98.
+5. Slaughter DP: Multicentric origin of intraoral carcinoma. Sur-
+gery 1946, 20:133-146.
+6. Slaughter DP, Southwick HW, Smejkal W: Field cancerization in
+oral stratified squamous epithelium; clinical implications of
+multicentric origin. Cancer 1953, 6:963-968.
+7. Braakhuis BJ, Tabor MP, Kummer JA, Leemans CR, Brakenhoff RH: A
+genetic explanation of Slaughter's concept of field canceriza-
+tion: evidence and clinical implications. Cancer Res 2003,
+63:1727-1730.
+8. Prevo LJ, Sanchez CA, Galipeau PC, Reid BJ: p53-mutant clones
+and field effects in Barrett's esophagus. Cancer Res 1999,
+59:4784-4787.
+9. Simon R, Eltze E, Schafer KL, Burger H, Semjonow A, Hertle L, Dock-
+horn-Dworniczak B, Terpe HJ, Bocker W: Cytogenetic analysis of
+multifocal bladder cancer supports a monoclonal origin and
+intraepithelial spread of tumor cells. Cancer Res 2001,
+61:355-362.
+10. Tabor MP, Brakenhoff RH, Ruijter-Schippers HJ, Van Der Wal JE,
+Snow GB, Leemans CR, Braakhuis BJ: Multiple head and neck
+tumors frequently originate from a single preneoplastic
+lesion. Am J Pathol 2002, 161:1051-1060.
+11. Smeds J, Warnberg F, Norberg T, Nordgren H, Holmberg L, Bergh J:
+Ductal carcinoma in situ of the breast with different his-
+topathological grades and corresponding new breast tumour
+events: analysis of loss of heterozygosity. Acta Oncol 2005,
+44:41-49.
+12. Larson PS, de las Morenas A, Bennett SR, Cupples LA, Rosenberg CL:
+Loss of heterozygosity or allele imbalance in histologically
+normal breast epithelium is distinct from loss of heterozy-
+gosity or allele imbalance in co-existing carcinomas. Am J
+Pathol 2002, 161:283-290.
+13. Tabor MP, Brakenhoff RH, Ruijter-Schippers HJ, Kummer JA, Lee-
+mans CR, Braakhuis BJ: Genetically altered fields as origin of
+locally recurrent head and neck cancer: a retrospective
+study. Clin Cancer Res 2004, 10:3607-3613.
+14. Sui G, Zhou S, Wang J, Canto M, Lee EE, Eshleman JR, Montgomery
+EA, Sidransky D, Califano JA, Maitra A: Mitochondrial DNA muta-
+tions in preneoplastic lesions of the gastrointestinal tract: A
+biomarker for the early detection of cancer. Mol Cancer 2006,
+5:73.
+15. Shen L, Kondo Y, Rosner GL, Xiao L, Hernandez NS, Vilaythong J,
+Houlihan PS, Krouse RS, Prasad AR, Einspahr JG, Buckmeier J, Alberts
+DS, Hamilton SR, Issa JP: MGMT promoter methylation and
+field defect in sporadic colorectal cancer. J Natl Cancer Inst
+2005, 97:1330-1338.
+16. Deng G, Lu Y, Zlotnikov G, Thor AD, Smith HS: Loss of heterozy-
+gosity in normal tissue adjacent to breast carcinomas. Science
+1996, 274:2057-2059.
+17. Heaphy CM, Bisoffi M, Fordyce CA, Haaland CM, Hines WC, Joste
+NE, Griffith JK: Telomere DNA content and allelic imbalance
+demonstrate field cancerization in histologically normal tis-
+sue adjacent to breast tumors. Int J Cancer 2006, 119:108-116.
+18. Ha PK, Tong BC, Westra WH, Sanchez-Cespedes M, Parrella P,
+Zahurak M, Sidransky D, Califano JA: Mitochondrial C-tract alter-
+ation in premalignant lesions of the head and neck: a marker
+for progression and clonal proliferation. Clin Cancer Res 2002,
+8:2260-2265.
+19. Chandran UR, Dhir R, Ma C, Michalopoulos G, Becich MJ, Gilbertson
+JR: Differences in gene expression in prostate cancer, normal
+appearing prostate tissue adjacent to cancer and prostate
+tissue from cancer free organ donors. BMC Cancer 2005, 5:45.
+20. Birch-Machin MA: The role of mitochondria in ageing and car-
+cinogenesis. Clin Exp Dermatol 2006, 31:548-552.
+21. Wallace DC: Mitochondria and cancer: Warburg addressed.
+Cold Spring Harb Symp Quant Biol 2005, 70:363-374.
+22. Roesch-Ely M, Nees M, Karsai S, Ruess A, Bogumil R, Warnken U,
+Schnolzer M, Dietz A, Plinkert PK, Hofele C, Bosch FX: Proteomic
+analysis reveals successive aberrations in protein expression
+from healthy mucosa to invasive head and neck cancer. Onco-
+gene 2006.
+23. Wong DJ, Paulson TG, Prevo LJ, Galipeau PC, Longton G, Blount PL,
+Reid BJ: p16(INK4a) lesions are common, early abnormalities
+that undergo clonal expansion in Barrett's metaplastic epi-
+thelium. Cancer Res 2001, 61:8284-8289.
+24. Kim SK, Jang HR, Kim JH, Noh SM, Song KS, Kim MR, Kim SY, Yeom
+YI, Kim NS, Yoo HS, Kim YS: The epigenetic silencing of LIMS2
+in gastric cancer and its inhibitory effect on cell migration.
+Biochem Biophys Res Commun 2006, 349:1032-1040.
+25. Grepmeier U, Dietmaier W, Merk J, Wild PJ, Obermann EC, Pfeifer
+M, Hofstaedter F, Hartmann A, Woenckhaus M: Deletions at chro-
+mosome 2q and 12p are early and frequent molecular alter-
+ations in bronchial epithelium and NSCLC of long-term
+smokers. Int J Oncol 2005, 27:481-488.
+26. Jonason AS, Kunala S, Price GJ, Restifo RJ, Spinelli HM, Persing JA, Lef-
+fell DJ, Tarone RE, Brash DE: Frequent clones of p53-mutated
+keratinocytes in normal human skin. Proc Natl Acad Sci U S A
+1996, 93:14025-14029.
+27. Chu TY, Shen CY, Lee HS, Liu HS: Monoclonality and surface
+lesion-specific microsatellite alterations in premalignant and
+malignant neoplasia of uterine cervix: a local field effect of
+genomic instability and clonal evolution. Genes Chromosomes
+Cancer 1999, 24:127-134.
+28. Rosenthal AN, Ryan A, Hopster D, Jacobs IJ: Molecular evidence
+of a common clonal origin and subsequent divergent clonal
+evolution in vulval intraepithelial neoplasia, vulval squamous
+cell carcinoma and lymph node metastases. Int J Cancer 2002,
+99:549-554.
+29. Kakizoe T: Development and progression of urothelial carci-
+noma. Cancer Sci 2006, 97:821-828.
+30. Furlan D, Carnevali I, Marcomini B, Cerutti R, Dainese E, Capella C,
+Riva C: The high frequency of de novo promoter methylation
+in synchronous primary endometrial and ovarian carcino-
+mas. Clin Cancer Res 2006, 12:3329-3336.
+31. Kitago M, Ueda M, Aiura K, Suzuki K, Hoshimoto S, Takahashi S,
+Mukai M, Kitajima M: Comparison of K-ras point mutation dis-
+tributions in intraductal papillary-mucinous tumors and duc-
+tal adenocarcinoma of the pancreas. Int J Cancer 2004,
+110:177-182.
+32. Hanson JA, Gillespie JW, Grover A, Tangrea MA, Chuaqui RF,
+Emmert-Buck MR, Tangrea JA, Libutti SK, Linehan WM, Woodson
+KG: Gene promoter methylation in prostate tumor-associ-
+ated stromal cells. J Natl Cancer Inst 2006, 98:255-261.
+33. Brodsky RA, Jones RJ: Riddle: what do aplastic anemia, acute
+promyelocytic leukemia, and chronic myeloid leukemia have
+in common? Leukemia 2004, 18:1740-1742.
+34. Kros JM, Zheng P, Dinjens WN, Alers JC: Genetic aberrations in
+gliomatosis cerebri support monoclonal tumorigenesis. J
+Neuropathol Exp Neurol 2002, 61:806-814.
+35. Ha PK, Califano JA: The molecular biology of mucosal field can-
+cerization of the head and neck. Crit Rev Oral Biol Med 2003,
+14:363-369.
+36. van Oijen MG, Slootweg PJ: Oral field cancerization: carcinogen-
+induced independent events or micrometastatic deposits?
+Cancer Epidemiol Biomarkers Prev 2000, 9:249-256.
+37. Weber F, Xu Y, Zhang L, Patocs A, Shen L, Platzer P, Eng C: Micro-
+environmental genomic alterations and clinicopathological
+behavior in head and neck squamous cell carcinoma. Jama
+2007, 297:187-195.
+38. Kim MM, Clinger JD, Masayesva BG, Ha PK, Zahurak ML, Westra
+WH, Califano JA: Mitochondrial DNA quantity increases with
+histopathologic grade in premalignant and malignant head
+and neck lesions. Clin Cancer Res 2004, 10:8512-8515.
+39. Jiang WW, Masayesva B, Zahurak M, Carvalho AL, Rosenbaum E,
+Mambo E, Zhou S, Minhas K, Benoit N, Westra WH, Alberg A, Sid-
+ransky D, Koch W, Califano J: Increased mitochondrial DNA
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 11 of 12
+(page number not for citation purposes)
+content in saliva associated with head and neck cancer. Clin
+Cancer Res 2005, 11:2486-2491.
+40. Jiang WW, Rosenbaum E, Mambo E, Zahurak M, Masayesva B, Car-
+valho AL, Zhou S, Westra WH, Alberg AJ, Sidransky D, Koch W, Cal-
+ifano JA: Decreased mitochondrial DNA content in
+posttreatment salivary rinses from head and neck cancer
+patients. Clin Cancer Res 2006, 12:1564-1569.
+41. Shieh DB, Chou WP, Wei YH, Wong TY, Jin YT: Mitochondrial
+DNA 4,977-bp deletion in paired oral cancer and precancer-
+ous lesions revealed by laser microdissection and real-time
+quantitative PCR. Ann N Y Acad Sci 2004, 1011:154-167.
+42. Franklin WA, Gazdar AF, Haney J, Wistuba, La Rosa FG, Kennedy T,
+Ritchey DM, Miller YE: Widely dispersed p53 mutation in respi-
+ratory epithelium. A novel mechanism for field carcinogene-
+sis. J Clin Invest 1997, 100:2133-2137.
+43. Park IW, Wistuba, Maitra A, Milchgrub S, Virmani AK, Minna JD,
+Gazdar AF: Multiple clonal abnormalities in the bronchial epi-
+thelium of patients with lung cancer. J Natl Cancer Inst 1999,
+91:1863-1868.
+44. Pan H, Califano J, Ponte JF, Russo AL, Cheng KH, Thiagalingam A,
+Nemani P, Sidransky D, Thiagalingam S: Loss of heterozygosity
+patterns provide fingerprints for genetic heterogeneity in
+multistep cancer progression of tobacco smoke-induced
+non-small cell lung cancer. Cancer Res 2005, 65:1664-1669.
+45. National Cancer Institute: Surveillance Epidemiology and
+End results program. http:/seercancergov .
+46. Galipeau PC, Prevo LJ, Sanchez CA, Longton GM, Reid BJ: Clonal
+expansion and loss of heterozygosity at chromosomes 9p
+and 17p in premalignant esophageal (Barrett's) tissue. J Natl
+Cancer Inst 1999, 91:2087-2095.
+47. Eads CA, Lord RV, Kurumboor SK, Wickramasinghe K, Skinner ML,
+Long TI, Peters JH, DeMeester TR, Danenberg KD, Danenberg PV,
+Laird PW, Skinner KA: Fields of aberrant CpG island hyper-
+methylation in Barrett's esophagus and associated adeno-
+carcinoma. Cancer Res 2000, 60:5021-5026.
+48. Maley CC, Galipeau PC, Li X, Sanchez CA, Paulson TG, Blount PL,
+Reid BJ: The combination of genetic instability and clonal
+expansion predicts progression to esophageal adenocarci-
+noma. Cancer Res 2004, 64:7629-7633.
+49. Maley CC, Galipeau PC, Finley JC, Wongsurawat VJ, Li X, Sanchez
+CA, Paulson TG, Blount PL, Risques RA, Rabinovitch PS, Reid BJ:
+Genetic clonal diversity predicts progression to esophageal
+adenocarcinoma. Nat Genet 2006, 38:468-473.
+50. Merlo LM, Pepper JW, Reid BJ, Maley CC: Cancer as an evolution-
+ary and ecological process. Nat Rev Cancer 2006, 6:924-935.
+51. Kang GH, Kim CJ, Kim WH, Kang YK, Kim HO, Kim YI: Genetic evi-
+dence for the multicentric origin of synchronous multiple
+gastric carcinoma. Lab Invest 1997, 76:407-417.
+52. Kim JS, Choi CW, Kim BS, Shin SW, Kim YH, Mok YJ, Koo BH:
+Amplification of c-erbB-2 proto-oncogene in cancer foci,
+adjacent normal, metastatic and normal tissues of human
+primary gastric adenocarcinomas. J Korean Med Sci 1997,
+12:311-315.
+53. Kim JY, Cho HJ: DNA ploidy patterns in gastric adenocarci-
+noma. J Korean Med Sci 2000, 15:159-166.
+54. Jothy S, Slesak B, Harlozinska A, Lapinska J, Adamiak J, Rabczynski J:
+Field effect of human colon carcinoma on normal mucosa:
+relevance of carcinoembryonic antigen expression. Tumour
+Biol 1996, 17:58-64.
+55. Grady WM: Epigenetic events in the colorectum and in colon
+cancer. Biochem Soc Trans 2005, 33:684-688.
+56. Wang JY, Wang YH, Jao SW, Lu CY, Kuo CH, Hu HM, Hsieh JS,
+Chong IW, Cheng TL, Lin SR: Molecular mechanisms underlying
+the tumorigenesis of colorectal adenomas: correlation to
+activated K-ras oncogene. Oncol Rep 2006, 16:1245-1252.
+57. Kanjilal S, Strom SS, Clayman GL, Weber RS, el-Naggar AK, Kapur V,
+Cummings KK, Hill LA, Spitz MR, Kripke ML, et al.: p53 mutations
+in nonmelanoma skin cancer of the head and neck: molecu-
+lar evidence for field cancerization. Cancer Res 1995,
+55:3604-3609.
+58. Christensen K, Estes PA, Onate SA, Beck CA, DeMarzo A, Altmann
+M, Lieberman BA, St John J, Nordeen SK, Edwards DP: Characteri-
+zation and functional properties of the A and B forms of
+human progesterone receptors synthesized in a baculovirus
+system. Mol Endocrinol 1991, 5:1755-1770.
+59. Durham SE, Krishnan KJ, Betts J, Birch-Machin MA: Mitochondrial
+DNA damage in non-melanoma skin cancer. Br J Cancer 2003,
+88:90-95.
+60. Eshaghian A, Vleugels RA, Canter JA, McDonald MA, Stasko T, Sligh
+JE: Mitochondrial DNA deletions serve as biomarkers of
+aging in the skin, but are typically absent in nonmelanoma
+skin cancers. J Invest Dermatol 2006, 126:336-344.
+61. Tang M, Baez S, Pruyas M, Diaz A, Calvo A, Riquelme E, Wistuba:
+Mitochondrial DNA mutation at the D310 (displacement
+loop) mononucleotide sequence in the pathogenesis of gall-
+bladder carcinoma. Clin Cancer Res 2004, 10:1041-1046.
+62. Denzinger S, Mohren K, Knuechel R, Wild PJ, Burger M, Wieland WF,
+Hartmann A, Stoehr R: Improved clonality analysis of multifocal
+bladder tumors by combination of histopathologic organ
+mapping, loss of heterozygosity, fluorescence in situ hybrid-
+ization, and p53 analyses. Hum Pathol 2006, 37:143-151.
+63. Hoglund M: Bladder cancer, a two phased disease? Semin Cancer
+Biol 2006.
+64. Euhus DM, Cler L, Shivapurkar N, Milchgrub S, Peters GN, Leitch AM,
+Heda S, Gazdar AF: Loss of heterozygosity in benign breast epi-
+thelium in relation to breast cancer risk. J Natl Cancer Inst 2002,
+94:858-860.
+65. Ellsworth DL, Ellsworth RE, Love B, Deyarmin B, Lubert SM, Mittal V,
+Hooke JA, Shriver CD: Outer breast quadrants demonstrate
+increased levels of genomic instability. Ann Surg Oncol 2004,
+11:861-868.
+66. Amari M, Moriya T, Ishida T, Harada Y, Ohnuki K, Takeda M, Sasano
+H, Horii A, Ohuchi N: Loss of heterozygosity analyses of asyn-
+chronous lesions of ductal carcinoma in situ and invasive
+ductal carcinoma of the human breast. Jpn J Clin Oncol 2003,
+33:556-562.
+67. Lewis CM, Cler LR, Bu DW, Zochbauer-Muller S, Milchgrub S, Nafta-
+lis EZ, Leitch AM, Minna JD, Euhus DM: Promoter hypermethyla-
+tion in benign breast epithelium in relation to predicted
+breast cancer risk. Clin Cancer Res 2005, 11:166-172.
+68. Yan PS, Venkataramu C, Ibrahim A, Liu JC, Shen RZ, Diaz NM, Cen-
+teno B, Weber F, Leu YW, Shapiro CL, Eng C, Yeatman TJ, Huang TH:
+Mapping geographic zones of cancer risk with epigenetic
+biomarkers in normal breast tissue. Clin Cancer Res 2006,
+12:6626-6636.
+69. Fordyce CA, Heaphy CM, Joste NE, Smith AY, Hunt WC, Griffith JK:
+Association between cancer-free survival and telomere
+DNA content in prostate tumors. J Urol 2005, 173:610-614.
+70. Pathak S, Nemeth MA, Multani AS, Thalmann GN, von Eschenbach
+AC, Chung LW: Can cancer cells transform normal host cells
+into malignant cells? Br J Cancer 1997, 76:1134-1138.
+71. Yu YP, Landsittel D, Jing L, Nelson J, Ren B, Liu L, McDonald C, Tho-
+mas R, Dhir R, Finkelstein S, Michalopoulos G, Becich M, Luo JH:
+Gene expression alterations in prostate cancer predicting
+tumor aggression and preceding development of malig-
+nancy. J Clin Oncol 2004, 22:2790-2799.
+72. Dhir R, Vietmeier B, Arlotti J, Acquafondata M, Landsittel D, Master-
+son R, Getzenberg RH: Early identification of individuals with
+prostate cancer in negative biopsies. J Urol 2004,
+171:1419-1423.
+73. Uetsuki H, Tsunemori H, Taoka R, Haba R, Ishikawa M, Kakehi Y:
+Expression of a novel biomarker, EPCA, in adenocarcinomas
+and precancerous lesions in the prostate. J Urol 2005,
+174:514-518.
+74. Tomlins SA, Mehra R, Rhodes DR, Cao X, Wang L, Dhanasekaran SM,
+Kalyana-Sundaram S, Wei JT, Rubin MA, Pienta KJ, Shah RB, Chinnai-
+yan AM: Integrative molecular concept modeling of prostate
+cancer progression. Nat Genet 2006.
+75. Malins DC, Johnson PM, Barker EA, Polissar NL, Wheeler TM, Ander-
+son KM: Cancer-related changes in prostate DNA as men age
+and early identification of metastasis in primary prostate
+tumors. Proc Natl Acad Sci U S A 2003, 100:5401-5406.
+76. Malins DC, Gilman NK, Green VM, Wheeler TM, Barker EA, Ander-
+son KM: A cancer DNA phenotype in healthy prostates, con-
+served in tumors and adjacent normal cells, implies a
+relationship to carcinogenesis. Proc Natl Acad Sci U S A 2005,
+102:19093-19096.
+77. Malins DC, Anderson KM, Gilman NK, Green VM, Barker EA, Hell-
+strom KE: Development of a cancer DNA phenotype prior to
+tumor formation. Proc Natl Acad Sci U S A 2004, 101:10721-10725.
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+Cancer Cell International 2007, 7:2 http://www.cancerci.com/content/7/1/2
+Page 12 of 12
+(page number not for citation purposes)
+78. Malins DC, Gilman NK, Green VM, Wheeler TM, Barker EA, Vinson
+MA, Sayeeduddin M, Hellstrom KE, Anderson KM: Metastatic can-
+cer DNA phenotype identified in normal tissues surrounding
+metastasizing prostate carcinomas. Proc Natl Acad Sci U S A
+2004, 101:11428-11431.
+79. Perry AS, Foley R, Woodson K, Lawler M: The emerging roles of
+DNA methylation in the clinical management of prostate
+cancer. Endocr Relat Cancer 2006, 13:357-377.
+80. Jeronimo C, Nomoto S, Caballero OL, Usadel H, Henrique R, Varzim
+G, Oliveira J, Lopes C, Fliss MS, Sidransky D: Mitochondrial muta-
+tions in early stage prostate cancer and bodily fluids. Onco-
+gene 2001, 20:5195-5198.
+81. Parr RL, Dakubo GD, Crandall KA, Maki J, Reguly B, Aguirre A, Wit-
+tock R, Robinson K, Alexander JS, Birch-Machin MA, Abdel-Malak M,
+Froberg MK, Diamandis EP, Thayer RE: Somatic mitochondrial
+DNA mutations in prostate cancer and normal appearing
+adjacent glands in comparison to age-matched prostate
+samples without malignant histology. J Mol Diagn 2006,
+8:312-319.
+82. Ortiz BH, Ailawadi M, Colitti C, Muto MG, Deavers M, Silva EG,
+Berkowitz RS, Mok SC, Gershenson DM: Second primary or
+recurrence? Comparative patterns of p53 and K-ras muta-
+tions suggest that serous borderline ovarian tumors and sub-
+sequent serous carcinomas are unrelated tumors. Cancer Res
+2001, 61:7264-7267.
+83. Buller RE, Skilling JS, Sood AK, Plaxe S, Baergen RN, Lager DJ: Field
+cancerization: why late "recurrent" ovarian cancer is not
+recurrent. Am J Obstet Gynecol 1998, 178:641-649.
+84. Izawa T, Obara T, Tanno S, Mizukami Y, Yanagawa N, Kohgo Y: Clon-
+ality and field cancerization in intraductal papillary-muci-
+nous tumors of the pancreas. Cancer 2001, 92:1807-1817.
+85. Z'Graggen K, Rivera JA, Compton CC, Pins M, Werner J, Fernandez-
+del Castillo C, Rattner DW, Lewandrowski KB, Rustgi AK, Warshaw
+AL: Prevalence of activating K-ras mutations in the evolu-
+tionary stages of neoplasia in intraductal papillary mucinous
+tumors of the pancreas. Ann Surg 1997, 226:491-8; discussion
+498-500.
+86. Linnartz B, Anglmayer R, Zanssen S: Comprehensive scanning of
+somatic mitochondrial DNA alterations in acute leukemia
+developing from myelodysplastic syndromes. Cancer Res 2004,
+64:1966-1971.
+87. Kirches E, Mawrin C, Schneider-Stock R, Krause G, Scherlach C,
+Dietzmann K: Mitochondrial DNA as a clonal tumor cell
+marker: gliomatosis cerebri. J Neurooncol 2003, 61:1-5.
+88. Braakhuis BJ, Leemans CR, Brakenhoff RH: Using tissue adjacent
+to carcinoma as a normal control: an obvious but questiona-
+ble practice. J Pathol 2004, 203:620-621.
+89. Chen JZ, Gokden N, Greene GF, Mukunyadzi P, Kadlubar FF: Exten-
+sive somatic mitochondrial mutations in primary prostate
+cancer using laser capture microdissection. Cancer Res 2002,
+62:6470-6474.
+90. Zhu W, Qin W, Bradley P, Wessel A, Puckett CL, Sauter ER: Mito-
+chondrial DNA mutations in breast cancer tissue and in
+matched nipple aspirate fluid. Carcinogenesis 2005, 26:145-152.
+91. Suzuki M, Toyooka S, Miyajima K, Iizasa T, Fujisawa T, Bekele NB,
+Gazdar AF: Alterations in the mitochondrial displacement
+loop in lung cancers. Clin Cancer Res 2003, 9:5636-5641.
+92. Maximo V, Soares P, Lima J, Cameselle-Teijeiro J, Sobrinho-Simoes M:
+Mitochondrial DNA somatic mutations (point mutations
+and large deletions) and mitochondrial DNA variants in
+human thyroid pathology: a study with emphasis on Hurthle
+cell tumors. Am J Pathol 2002, 160:1857-1865.
+93. Tan DJ, Bai RK, Wong LJ: Comprehensive scanning of somatic
+mitochondrial DNA mutations in breast cancer. Cancer Res
+2002, 62:972-976.
+94. Tan DJ, Chang J, Liu LL, Bai RK, Wang YF, Yeh KT, Wong LJ: Signif-
+icance of somatic mutations and content alteration of mito-
+chondrial DNA in esophageal cancer. BMC Cancer 2006, 6:93.
+95. Meierhofer D, Mayr JA, Fink K, Schmeller N, Kofler B, Sperl W: Mito-
+chondrial DNA mutations in renal cell carcinomas revealed
+no general impact on energy metabolism. Br J Cancer 2006,
+94:268-274.
+96. Gomez-Zaera M, Abril J, Gonzalez L, Aguilo F, Condom E, Nadal M,
+Nunes V: Identification of somatic and germline mitochon-
+drial DNA sequence variants in prostate cancer patients.
+Mutat Res 2006, 595:42-51.
+97. Lee HC, Yin PH, Lin JC, Wu CC, Chen CY, Wu CW, Chi CW, Tam
+TN, Wei YH: Mitochondrial genome instability and mtDNA
+depletion in human cancers. Ann N Y Acad Sci 2005,
+1042:109-122.
+98. Stemke-Hale K, Hennessy B, Mills GB, Mitra R: Molecular screen-
+ing for breast cancer prevention, early detection,and treat-
+ment planning: combining biomarkers from DNA, RNA, and
+protein. Curr Oncol Rep 2006, 8:484-491.
+99. Hockel M, Dornhofer N: The hydra phenomenon of cancer:
+why tumors recur locally after microscopically complete
+resection. Cancer Res 2005, 65:2997-3002.
+100. Kim J, Reber HA, Dry SM, Elashoff D, Chen SL, Umetani N, Kitago M,
+Hines OJ, Kazanjian KK, Hiramatsu S, Bilchik AJ, Yong S, Shoup M,
+Hoon DS: Unfavourable prognosis associated with K-ras gene
+mutation in pancreatic cancer surgical margins. Gut 2006,
+55:1598-1605.
+

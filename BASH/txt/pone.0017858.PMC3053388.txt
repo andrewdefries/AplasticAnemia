@@ -1,0 +1,856 @@
+Short Telomeres Compromise b-Cell Signaling and
+Survival
+Nini Guo1
+, Erin M. Parry2,3
+, Luo-Sheng Li4
+, Frant Kembou3
+, Naudia Lauder5
+, Mehboob A. Hussain5,6
+,
+Per-Olof Berggren4
+, Mary Armanios3,7
+*
+1 Department of Molecular Biology and Genetics, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America, 2 Medical Scientist Training
+Program, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America, 3 Department of Oncology, Johns Hopkins University School of
+Medicine, Baltimore, Maryland, United States of America, 4 The Roft Luft Research Center for Diabetes and Endocrinology, Karolinska Institutet, Stockholm, Sweden,
+5 Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America, 6 Department of Pediatrics, Johns Hopkins
+University School of Medicine, Baltimore, Maryland, United States of America, 7 McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of
+Medicine, Baltimore, Maryland, United States of America
+Abstract
+The genetic factors that underlie the increasing incidence of diabetes with age are poorly understood. We examined
+whether telomere length, which is inherited and known to shorten with age, plays a role in the age-dependent increased
+incidence of diabetes. We show that in mice with short telomeres, insulin secretion is impaired and leads to glucose
+intolerance despite the presence of an intact b-cell mass. In ex vivo studies, short telomeres induced cell-autonomous
+defects in b-cells including reduced mitochondrial membrane hyperpolarization and Ca2+
+influx which limited insulin
+release. To examine the mechanism, we looked for evidence of apoptosis but found no baseline increase in b-cells with
+short telomeres. However, there was evidence of all the hallmarks of senescence including slower proliferation of b-cells and
+accumulation of p16INK4a
+. Specifically, we identified gene expression changes in pathways which are essential for Ca2+
+-
+mediated exocytosis. We also show that telomere length is additive to the damaging effect of endoplasmic reticulum stress
+which occurs in the late stages of type 2 diabetes. This additive effect manifests as more severe hyperglycemia in Akita mice
+with short telomeres which had a profound loss of b-cell mass and increased b-cell apoptosis. Our data indicate that short
+telomeres can affect b-cell metabolism even in the presence of intact b-cell number, thus identifying a novel mechanism of
+telomere-mediated disease. They implicate telomere length as a determinant of b-cell function and diabetes pathogenesis.
+Citation: Guo N, Parry EM, Li L-S, Kembou F, Lauder N, et al. (2011) Short Telomeres Compromise b-Cell Signaling and Survival. PLoS ONE 6(3): e17858.
+doi:10.1371/journal.pone.0017858
+Editor: Mary Bryk, Texas A&M University, United States of America
+Received December 20, 2010; Accepted February 11, 2011; Published March 10, 2011
+Copyright: ß 2011 Guo et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by grants from the National Institutes of Health: A Ruth L. Kirschstein Award, GM007309, CA118416, AG27406 and awards
+from the Maryland Stem Cell, Sidney Kimmel, and Doris Duke Charitable Foundations. The in vitro islet work was supported by the Swedish Research Council and
+the Family Erling-Persson Foundation. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: marmani1@jhmi.edu
+Introduction
+The incidence of type 2 diabetes increases with age and one in
+five individuals are affected by the age of 60 [1]. The natural
+history of type 2 diabetes is progressive. In its early stages, type 2
+diabetes manifests as impaired glucose tolerance and defective
+insulin secretion which occur in the presence of an intact b-cell
+mass [2]. This is followed by a frank loss of b-cells and a
+concomitant need for insulin therapy [2,3,4]. Recent genomic
+studies have underscored the influence of inherited factors that
+affect b-cell integrity and function in age-related diabetes [5,6,7,8].
+While these germline factors are hypothesized to play a role in the
+pathogenesis of diabetes, the biology that underlies their increasing
+penetrance with age is not understood.
+Telomeres shorten progressively with cell division, and short
+telomeres activate a DNA damage response that leads to apoptosis
+and senescence [9,10]. Telomerase synthesizes new telomere
+repeats onto chromosome ends to offset in part this telomere
+shortening [11,12]. Mutations in TERT, the telomerase reverse
+transcriptase, and TR, the telomerase RNA, cause telomere
+shortening and a degenerative organ failure syndrome that
+manifests prominently in tissues of rapid turnover: the skin,
+mucosa and bone marrow [13,14]. This disease complex is often
+recognized in dyskeratosis congenita (DC), a premature aging
+syndrome defined by classic mucocutaneous features [15]. In DC
+and related disorders, short telomeres cause stem cell loss and
+progressive organ dysfunction which leads to premature mortality
+due to bone marrow failure and pulmonary fibrosis (reviewed in
+[15]). Even when the telomerase locus is wild-type, short telomeres
+are sufficient to cause age-associated degenerative disease similar
+to the DC phenotype [16,17]. This observation has pointed to
+short telomere length as the relevant lesion in the setting of mutant
+telomerase genes, and more commonly, because telomere length is
+polymorphic, as an important genetic determinant of age-related
+disease [17].
+Because b-cell function declines with age, we hypothesized that
+short telomeres might contribute to b-cell failure and to the
+increasing incidence of diabetes with age. We show, in a
+genetically defined model, that short telomeres are sufficient to
+impair glucose homeostasis. Mice with short telomeres have
+defects in insulin release. In ex vivo studies, we show short telomeres
+limit insulin exocytosis because of signaling defects. These include
+PLoS ONE | www.plosone.org 1 March 2011 | Volume 6 | Issue 3 | e17858
+impaired mitochondrial membrane hyperpolarizaion and Ca2+
+handling which are essential for intact insulin exocytosis. In the
+setting of ER stress, short telomeres compromise b-cell mass and
+worsen diabetes severity by inducing apoptosis. We also find a
+relatively increased incidence of diabetes in patients with DC who
+have short telomeres. Our data implicate telomere length as a
+critical determinant of b-cell function and diabetes risk.
+Results
+Mice with short telomeres have impaired glucose
+tolerance and glucose-stimulated insulin release
+To test whether short telomeres impair glucose homeostasis, we
+studied late generation CAST/EiJ mice that are heterozygous null
+for telomerase RNA, mTR+/2
+, and have short telomeres (Figure
+S1A). Although they were lean, mTR+/2
+mice with short
+telomeres had fasting hyperglycemia compared with wild-type
+mice (Figure 1A and Figure S1B). When challenged in a 2 hour
+glucose tolerance test, mTR+/2
+mice with short telomeres had
+relatively higher serum glucose levels compared with controls
+(Figure 1B). To determine whether the glucose intolerance was
+due to islet-intrinsic or extrinsic factors, we measured fasting
+insulin levels and found mTR+/2
+mice with short telomeres had
+lower levels (Figure 1C). The insulin level was inappropriately low
+even after correcting for the serum glucose (Figure 1D). We next
+examined insulin release in response to a glucose stimulus, and
+found that mice with short telomeres had impaired insulin
+secretion (Figure 1E). There were no impairments in glucose
+uptake in an insulin tolerance test indicating mTR+/2
+mice with
+short telomeres had no defects in peripheral insulin sensitivity
+(Figure 1F). To exclude a developmental defect, we examined islet
+architecture and histology but did not detect any abnormalities
+(Figure S1C–1D). Moreover, when we examined islets for insulitis,
+we found no infiltrates. b-cell mass quantifies the total insulin
+producing capacity accounting for the insulin positive area, the
+total pancreas section area, as well as the pancreas weight [18].
+When we measured b-cell mass, we found that it was intact (Figure
+1SE). The insulin content and the percent of b-cells per islet were
+also intact in mice with short telomeres compared with controls,
+and there was no change in individual b-cell size (Figure 1SF–H).
+The glucose intolerance, lower insulin levels, and defective
+glucose-stimulated insulin release were also present in a second
+strain of mice with short telomeres [mTR2/2
+fourth generation
+(G4) mice] on the C57BL/6 background. In this strain, telomere-
+mediated phenotypes are seen only when telomerase is null, and
+after successive generations of breeding [10,19] (Figure S2A–2D).
+The lower basal insulin levels and glucose-stimulated insulin
+release were not seen in early generation mTR2/2
+G1 mice which
+have long telomeres (Figure S2E–G), indicating that the absence of
+telomerase alone was not sufficient to cause these defects. These
+data, in two independent genetic backgrounds, indicated that short
+telomeres impair glucose tolerance because of defective insulin
+release. This defect is independent of b-cell mass, size and insulin
+content.
+Short telomeres cause mitochondrial dysfunction and
+impair Ca2+
+handling in islets
+To probe the mechanisms underlying the telomere-mediated b-
+cell dysfunction, we isolated islets and examined the kinetics of
+insulin secretion ex vivo. In response to glucose stimulus, islets from
+short telomere mice had defective insulin release in vitro (Figure 2A).
+The defects were noted in both the first and second phases of
+insulin release, as well as at maximum release induced by arginine
+(Figure 2A). Insulin secretion was also impaired when exocytosis
+was directly stimulated by KCl depolarization (Figure 2A). These
+data established that short telomeres significantly impair insulin
+release.
+Glucose-stimulated insulin release is signaled by an increase in
+the ATP/ADP ratio, closure of ATP-dependent K+
+-channels,
+depolarization of the b-cell plasma membrane, opening of voltage
+dependent L-type Ca2+
+-channels and an increase in cytoplasmic
+free Ca2+
+concentration ([Ca2+
+]i), resulting in the release of insulin
+containing secretory granules [20]. To define the mechanisms
+underlying the telomere-mediated defects in insulin secretion, we
+first measured mitochondrial membrane potential in isolated islets
+after a glucose stimulus. When the mitochondrial membrane
+polarizes, a change in rhodamine 123 fluorescence reflects the
+extent of mitochondrial membrane hyperpolarization [20]. In
+response to glucose, we found a decrease in membrane
+hyperpolarization in islets with short telomeres, consistent with a
+defect in the respiratory chain (Figure 2B–2C). Since Ca2+
+is the
+main trigger of exocytosis, we next examined its influx in response
+to glucose stimulation and found an impairment in [Ca2+
+]i rise in
+islets with short telomeres (Figure 2D). It is well-established that
+subsequent to glucose stimulation, [Ca2+
+]i increases and decreases
+in an oscillatory manner, reflecting an intricate balance between
+Ca2+
+influx over the plasma membrane and Ca2+
+mobilization
+from intracellular stores [20]. These [Ca2+
+]i oscillations are
+essential for appropriate b-cell function. Although islets from mice
+with short telomeres had intact slow [Ca2+
+]i oscillations, there was
+a decrease in the frequency of fast [Ca2+
+]i oscillations, indicating a
+functional defect in b-cell Ca2+
+handling (Figure 2E–2G). When
+we examined Ca2+
+influx over the plasma membrane in the
+absence of glucose, we also found impairments in mutant islets
+(Figure 2H–2I). Hence, the insulin secretion defect caused by short
+telomeres is multi-factorial and mediated by b-cell autonomous
+defects in both mitochondrial function as well as deteriorated Ca2+
+handling.
+Short telomere islets have the hallmarks of senescence
+The defects in insulin exocytosis suggested that DNA damage
+associated with short telomeres might provoke global b-cell
+dysfunction even when b-cell mass is preserved. To test whether
+in b-cells with short telomeres there is evidence of DNA damage,
+we examined 53BP1 foci and found an increase compared with
+controls (Figure 3A). Short telomeres are a potent inducer of
+senescence, we therefore examined the hallmarks of senescence
+and tested whether there was evidence of impaired proliferation
+and accumulation of cyclin dependent kinase inhibitors. At 6
+weeks of age, b-cells in mTR+/2
+mice with short telomeres had a
+lower proliferative fraction as measured by Ki-67 immunostaining
+of insulin positive cells (Figure 3B). The slower b-cell proliferation
+was also detected in C57BL/6 mTR2/2
+G4 mice (Figure 3C). We
+next isolated islets and quantitated p16INK4a
+transcript levels by
+real time RT-PCR. p16INK4a
+levels increased in wild-type mice
+with age, as shown previously [21] (Figure 3D–3E). However, at
+every age group we examined, short telomeres induced p16INK4a
+prematurely and, by 8 months of age, there was a 3-fold up-
+regulation compared to wild-type mice (Figure 3D–3E). The
+accumulation of p16INK4a
+was a direct consequence of the short
+telomeres, not the absence of telomerase, as telomerase null mice
+with long telomeres did not show this increase (Figure 3E). The
+accumulation was also specific to p16INK4a
+and not to other genes
+near the INK4a locus (e.g. p15) or other cyclin-dependent kinase
+inhibitors including the p53 target p21 (Figure S3A–3C). There
+was a trend toward accumulation of Arf, the other INK4a
+transcript, in islets from mice with short telomeres (Figure S3D).
+These data indicated that short telomeres impair the cell cycle
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 2 March 2011 | Volume 6 | Issue 3 | e17858
+progression of b-cells and cause premature accumulation of the
+senescence marker p16INK4a
+in pancreatic islets.
+Short telomeres cause gene-expression changes in
+signaling pathways
+We next examined the mechanism by which short telomeres may
+affect b-cell function in the absence of b-cell loss. Senescence is
+associated with altered gene expression signatures that are cell- and
+context-dependent [22]. We tested whether transcriptional changes
+in islets may explain the functional defects due to short telomeres.
+Microarray analysis on purified islets from wild-type and mTR2/2
+G4
+mice showed differential expression of 1,935 genes: n =1,153
+decreased (60%) and n = 782 up-regulated. A unique transcriptional
+signature distinguished islets with short telomeres from controls by
+clustering analysis (Figure 3F). Gene ontology revealed that multiple
+pathways essential for insulin secretion were affected including signal
+transduction, Ca2+
+-mediated exocytosis, Ca2+
+homeostasis, and K+
+ion transport (Figure 3G and Table S1). The ontology also implicated
+genes involved in cell cycle control and stress response processes
+(Figure 3G and Table S1). The genes altered in the stress response
+included the Reg gene family which had the highest fold up-
+regulation (Figure 3H and Table S1). The Reg genes were initially
+identified in the regenerating pancreas, and are known to accumulate
+in islets from patients with type 2 diabetes [23,24]. These data
+indicated that short telomeres alter islet transcriptional programs; this
+signature affects multiple cellular processes which are essential for
+insulin secretion.
+Decreased b-cell survival due to short telomeres in the
+setting of ER stress
+Because short telomeres cause b-cell dysfunction, we reasoned
+that telomere length will be a modifier of severity in monogenic
+forms of diabetes that affect b-cell integrity. We crossed the mTR
+null allele in C57BL/6 mice onto the diabetic Akita mouse that
+carries a mutation in the insulin gene, Ins2C96Y/WT
+, and generated
+double mutant mice that have short telomeres (Figure S4A).
+Mutations in the insulin gene cause diabetes in humans and in the
+Akita mouse where insulin misfolding leads to ER stress and
+apoptosis and clinically manifests as irreversible b-cell failure
+[25,26,27]. In Ins2C96Y/WT
+mice, diabetes developed as expected,
+and was severe in males [27]. We therefore studied double mutant
+female mice and hypothesized that short telomeres would modulate
+disease severity. By 8 months, we found greater impairments in
+glucose tolerance in Ins2C96Y/WT
+mice that had short telomeres
+(Figure 4A). The glucose intolerance was associated with a loss of b-
+cell mass which did not occur in Ins2C96Y/WT
+mutant mice with
+long telomeres (Figure 4B). Ins2C96Y/WT
+mice with short telomeres
+also had lower serum insulin levels (Figure 4C). Consistent with a b-
+cell intrinsic defect, these phenotypes were not due to abnormalities
+in insulin resistance (Figure S4B).
+We next examined whether short telomeres affected the rate of b-
+cell apoptosis due to ER stress in Akita mice. In the absence of ER
+stress, the baseline cell death rate of b-cells was low, and there was no
+difference between wild-type and short telomere mice (Figure 4D).
+However, in the setting of ER stress, we identified a two-fold increase in
+TUNEL positive b-cells in Ins2C96Y/WT
+mice with short telomeres
+compared with Ins2C96Y/WT
+(Figure 4D). These data indicated that
+short telomeres cause additive b-cell dysfunction in the setting of ER
+stress, decreasing the threshold for apoptosis. This effect clinically
+manifests as more severe diabetes associated with loss of b-cell mass.
+Increased incidence of diabetes in DC
+Our data indicated that short telomeres cause b-cell dysfunction
+in mice. To address whether telomere length contributes to disease
+Figure 1. Mice with short telomeres have defective insulin secretion. A. mTR+/2
+with short telomeres have fasting hyperglycemia compared
+with wild-type mice (n = 25/group). B. Higher mean serum glucose during an intraperitoneal 2 hour glucose tolerance test in mice with short
+telomeres (n = 25/group). C. mTR+/2
+mice with short telomeres have lower fasting insulin levels. D. The fasting insulin is lower even when corrected
+for serum glucose. E. When challenged with glucose, mTR+/2
+with short telomeres have lower insulin levels. F. Insulin tolerance test shows mTR+/2
+mice with short telomeres have intact peripheral insulin sensitivity. Serum glucose was measured after insulin injection at the timepoints shown. Mice
+were 3–4 months of age. For C–F, n = 10–14/group. Error bars represent SEM. * indicates two-sided P-value,0.05.
+doi:10.1371/journal.pone.0017858.g001
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 3 March 2011 | Volume 6 | Issue 3 | e17858
+Figure 2. Impaired insulin release, mitochondrial function and Ca2+
+handling in islets with short telomeres. A. Dynamic insulin
+secretion in islets from mTR2/2
+G4 mice compared with wild-type mice. Bars above the traces indicate the duration of stimulation. 3G, 11G, 16.7G+Arg
+and 25KCl indicate 3 mM and 11 mM glucose, 16.7 mM glucose plus 20 mM Arginine, and 25 mM KCl, respectively. CCh indicates carbachol. Insulin
+was measured every 2 minutes. Data are mean insulin level (ng/ng DNA). * Indicates P-value,0.05 and ** #0.01 (one-sided). B. Measurements of
+mitochondrial membrane potential in response to 11 mM glucose in islets from mTR2/2
+G4 mice. The rhodamine 123 fluorescence decreases when
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 4 March 2011 | Volume 6 | Issue 3 | e17858
+in humans, we asked whether patients with DC might be at risk for
+developing diabetes. We found several published case reports that
+have incidentally reported on individuals who carried the
+diagnosis of DC and who had impaired glucose homeostasis
+[28,29,30]. These individuals were diagnosed with glucose
+intolerance or diabetes at 20 months, 21, 22 and 50 years of
+age. In our registry of families with DC and related telomere
+syndromes, we queried 20 consecutive individuals from 7 families,
+and identified 3 individuals who developed insulin-dependent
+diabetes prior to the age of 30. The clinical details of 2 of the 3
+individuals are listed in Figure S5. Given the expected incidence of
+diabetes in this age group (3 per 1000), the likelihood that diabetes
+would occur by chance alone is low (P,0.001, chi-square test).
+Discussion
+The study of the telomerase knockout mouse has particular
+significance for understanding the genetics of type 2 diabetes since
+the short telomere defect that is present in this model is acquired
+universally in human aging. Over the last decade, telomere-
+mediated phenotypes identified in the mouse have consistently
+converged with the human age-related disease phenotypes [15].
+Here we show that short telomeres are sufficient to recapitulate the
+glucose intolerance and insulin secretion defects which occur in
+the early stages of human age-related diabetes. Telomere length is
+a polymorphic trait, and short telomeres are a uniquely inherited
+genotype that can cause degenerative disease even when
+telomerase is wild-type [17]. In recent cross-sectional studies,
+short telomeres have been associated with type 2 diabetes
+[31,32,33,34]. Our data indicate that short telomeres are not
+simply associated with, but are a relevant modifier of diabetes risk
+and severity, and may be a valuable biomarker that identifies
+individuals at greatest risk in clinical settings.
+In our study of mice with short telomeres, we find both in vivo
+and ex vivo defects in b-cell insulin secretion. The insulin secretion
+impairments surprisingly occur in the presence of intact insulin
+content and b-cell mass. The defective insulin secretion is multi-
+factorial and appears to be due to simultaneous, independent
+impairments in key exocytosis pathways including glucose-
+dependent mitochondrial membrane hyperpolarization, as well
+as glucose-independent defects in Ca2+
+handling. Our data
+implicate gene expression changes in the setting of senescence as
+underlying these defects. The transcriptional changes we identify
+affect pathways essential for b-cell function including Ca2+
+-mediated exocytosis. These findings are in contrast to a recent
+study which reported that insulin secretion defects in late
+generation mTR2/2
+mice are due to a decrease in insulin positive
+cells [35]. Our ex vivo studies indicate that short telomeres are
+sufficient to cause insulin secretion defects even when b-cell
+number is intact. Our data support a model where short telomeres
+induce senescence-associated gene expression changes in b-cells;
+this program contributes to defective signaling and clinically
+manifests as impaired glucose homeostasis. Short telomeres are
+canonically known to cause degenerative disease by inducing a loss
+of stem cells [10,16]. Our findings suggest that, in some settings,
+even when cell mass is preserved, short telomeres compromise
+organ function. Our data therefore provide evidence for a novel
+mechanism of telomere-mediated disease where short telomeres
+can compromise organ homeostasis in the absence of overt cell
+loss.
+In the Akita mouse we show that in the setting of ER stress,
+short telomeres cause additive injury that results in loss of b-cell
+mass. Short telomeres are a potent inducer of cell death [10], and
+in the presence of ER stress, the additive damage signals from both
+telomere dysfunction and the misfolded protein response evoke an
+apoptotic program that is otherwise not apparent in the presence
+of short telomeres alone. In contrast to the glucose intolerance we
+observed in male mTR2/2
+G4 mice, we did not identify baseline
+impaired glucose tolerance in female mTR2/2
+iG4. This observa-
+tion is consistent with the known increased penetrance of b-cell
+mediated diabetes in male mice [36]. ER stress and loss of b-cell
+mass occur in the late stages of diabetes [2]. Our data indicate that
+short telomeres cooperate with ER stress to worsen diabetes
+severity and, because they accumulate with age, may contribute to
+the progressive natural history of diabetes which culminates in b-
+cell loss. Therefore both the senescence and apoptotic downstream
+consequences of telomere shortening contribute to the b-cell
+degenerative phenotype.
+We identified an increased incidence of diabetes in a small
+cohort of DC patients with short telomeres. Idiopathic pulmonary
+fibrosis patients, who also have short telomeres, have been
+reported to be more prone to develop diabetes [37,38,39].
+Diabetes incidence is known to be increased in other syndromes
+associated with DNA damage including Fanconi anemia where
+10% of patients are affected [40]. Its association with DC, if
+replicated in larger cohorts, would suggest that, in addition to bone
+marrow failure and fibrotic disorders, diabetes may be a
+manifestation of telomere-mediated disease in syndromes of
+telomere shortening, albeit at lower penetrance. In contrast to
+the bone marrow failure phenotype which is prominent in the
+setting of short telomeres, our data indicate that telomere reserves
+limit the function of tissues of relatively slow turnover such as b-
+cells. How do we explain that short telomeres limit the function of
+tissues of slow turnover? One model is that although b-cell have
+slow turnover, they still undergo several fold expansion by
+adulthood [41]. Thus although the basal proliferation rate is slow,
+cell turnover superimposed on genetically determined shorter
+telomere length may be sufficient to precipitate organ dysfunction.
+It is also possible that, in addition, short telomere length may be a
+first insult that decreases the threshold for sustaining additional
+injury that accumulates with age such as ER stress, as our data
+indicate. The genetic evidence we show therefore supports that
+telomere function is essential for the integrity of tissues of slow
+turnover, and indicates that telomere shortening plays a role in a
+broader spectrum of specific age-related disorders than previously
+appreciated.
+In summary, short telomeres limit insulin secretion by affecting
+global b-cell signaling in the setting of senescence. With ER stress,
+the mitochondrial membrane polarizes. C. Data are means of decrease in % rhodamine 123 fluorescence normalized to carbonyl cyanide 4-(trifluoro-
+methoxy) phenylhydrazone (FCCP) depolarization. D. Decreased D peak [Ca2+
+]i values in islets from mTR2/2
+G4 and control mice after stimulation with
+11 mM glucose. (E) and (F) Fura-2 fluorescence ratio is shown. Bars above the traces indicate the duration of stimulation. 3G and 11G indicate 3 mM
+and 11 mM glucose, respectively. The traces are representatives of 12–13 experiments from four islet preparations. G. Glucose stimulated fast [Ca2+
+]i
+oscillation frequency in isolated islets from mTR2/2
+G4 and control mice. H. Effects of adding 2.56 mM CaCl2 in the perfusion chamber on changes in
+[Ca2+
+]i, indicating Ca2+
+influx over the plasma membrane. Example tracings of Fura-2 fluorescence ratio are shown. Bars above the traces indicate the
+duration of stimulation. 0 Ca2+
+and 2.56 Ca2+
+indicate 0 mM CaCl2 plus 2 mM EGTA and 2.56 mM CaCl2, respectively. The traces are representatives of
+10 experiments from four islet preparations. I. Means in Dfura-2 fluorescence ratio is shown for (H). Mice were 10 months old (wild-type n = 5, mTR2/
+2
+G4 n = 6). Error bars represent SEM. For B–I, *, ** and *** indicate two-sided P-value,0.05, 0.01 and 0.001, respectively.
+doi:10.1371/journal.pone.0017858.g002
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 5 March 2011 | Volume 6 | Issue 3 | e17858
+Figure 3. Islets from mice with short telomeres have hallmarks of senescence. A. DNA damage foci in b-cells from mTR+/2
+late generation
+mice were detected by immunofluorescence against 53BP1 (green) in nuclei (blue). Analysis was limited to insulin positive cells and cells were
+deemed positive if they had at least one focus (n = 5 mice/group, 4 months old). B. Immunofluorescence images from wild-type and mTR+/2
+mice
+with short telomeres. Proliferating b-cells are positive for both insulin (green) and Ki-67 (red) (n = 5 mice/group, 50 islets/mouse, 6 weeks old). C. The
+percent of b-cells with incorporated EdU was lower in mTR2/2
+G4 C57BL/6 mice after a 14 day pulse (n = 5/group, 50 islets/mouse, 6 months old). D.
+Relative expression of p16INK4a
+in islets shows a gradual increase with age in wild-type mice. mTR2/2
+G4 mice have higher levels at the age groups
+shown. E. p16INK4a
+expression in islets was not increased in mTR2/2
+G1 mice. For D and E, n = 3–6 mice/timepoint. F. Heat map of mRNA microarray
+data shows differential expression profiles in wild-type compared with mTR2/2
+G4 mice. The red color expresses genes that are up-regulated and
+green down-regulated genes. The fold-change based on color is shown in the key below F. Heat map is based on genes with 1.5-fold expression
+change (n = 3 mice/group, 15 months old). Values were normalized by subtracting the mean of all samples. Fold change indicated in the key is log2-
+based. G. b-cell relevant pathways that are altered in the gene ontology analysis plotted relative to the significance of the P-value. Only pathways
+with P-value,0.01 were analyzed. The number of genes altered relative to the total retrieved is shown to the right of the bar graph. H. qRT-PCR
+verification of Reg gene family expression shows significant increases in mTR2/2
+G4 mice (n = 4 mice/group, 15 months old). Error bars represent SEM.
+* indicates two-sided P-value,0.05 and ** P-value,0.01.
+doi:10.1371/journal.pone.0017858.g003
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 6 March 2011 | Volume 6 | Issue 3 | e17858
+short telomeres cause increased b-cell apoptosis and loss of b-cell
+mass. Our data identify impaired signaling and exocytosis as a
+novel mechanism of telomere-mediated disease, and establish
+telomere shortening as a potential genetic risk factor for diabetes
+contributing to both its onset and pathogenesis.
+Methods
+Mouse studies
+Mice were housed at the Johns Hopkins University and all
+procedures were approved by its Animal Care and Use Committee
+(approval ID MO07M492). We studied mTR+/2
+mice on the Cast/
+EiJ background that were offspring of heterozygous breeding for 8–
+10 generations [16]. C57BL/6 mTR2/2
+mice were bred for four
+generations [19]. Glucose levels were measured using a home
+glucometer. For glucose tolerance tests, mice were fasted overnight
+then injected with glucose 2.5 g/kg intraperitoneally. Serum insulin
+levels were measured by ELISA (Mercodia). For insulin tolerance
+tests, mice were injected with insulin 0.5 U/kg. To quantitate the
+insulin positive area, we performed immunohistochemistry on
+paraffin-embedded sections, 140 microns apart, and quantitated the
+area using Nikon Elements software. b-cell mass was determined by
+calculating the ratio of the insulin positive area to total pancreas
+sectional area, and multiplying by the pancreas weight [18]. For
+insulin content, whole pancreas homogenate was extracted in acid/
+ethanol (0.18M HCl/70% ethanol) overnight at 4uC and insulin
+levels were determined by ELISA after normalizing for total
+protein. We obtained C57BL/6 Ins2C96Y/WT
+mice from the
+Jackson Laboratory. We generated Ins2C96Y/WT
+with short
+telomeres using an intergenerational strategy [42]. All experiments
+included age-matched male mice, except in the Akita studies where
+we studied the more attenuated phenotype in females.
+Islet in vitro studies
+Dynamic insulin release from islets was analyzed [43]. Insulin
+measurements were performed by a microsphere-based two-
+photon excitation fluorometer (TPX-technology; ArcDia Diag-
+nostics). Insulin data were normalized to DNA content using
+PicoGreen (Invitrogen). Mitochondrial membrane potential was
+analyzed using rhodamine 123 [44]. To measure [Ca2+
+]i. islets
+were incubated with 2 mM fura-2 AM, and changes in
+fluorescence ratio 340/380 were analyzed [45]. Experiments were
+Figure 4. Short telomeres worsen diabetes severity in Akita mice and cause b-cell loss. A. Two hour glucose tolerance test of Ins2C96Y/WT
+mTR2/2
+iG4 with short telomeres shows more severe impairments compared with Ins2C96Y/WT
+mice. B. Ins2C96Y/WT
+mTR2/2
+iG4 mice have decreased b-
+cell mass compared with Ins2C96Y/WT
+mice. This decrease is associated with lower basal serum insulin levels (C). D. Representative images of TUNEL
+(red) co-staining with insulin (green) shows an increase in b-cell apoptosis as quantitated in the bar graph. Data shown are from 8 month old females
+(n = 5–10 mice/group). Error bars represent SEM. * indicates two-sided P-value,0.05.
+doi:10.1371/journal.pone.0017858.g004
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 7 March 2011 | Volume 6 | Issue 3 | e17858
+performed on a Zeiss Axiovert 200 M with a fluorescence imaging
+system. [Ca2+
+]i oscillations were analyzed using power spectral
+analysis in Matlab (The Mathworks, Inc.) [46]. The amplitudes of
+fast and slow oscillations were calculated as the square root of the
+total power of periods from 6 to 60 s (FastOsc), and 60 to 600 s
+(SlowOsc), respectively [47]. Power spectral density for fast
+oscillations was calculated by the Welsh method [45], and
+standard fast Fourier transform power spectrum was used for
+slow oscillations. The dominant fast and slow periods were
+obtained from peaks in respective power spectrum.
+Immunofluorescence, qRT-PCR and microarray
+We measured telomere length using quantitative fluorescence in
+situ hybridization (FISH) [37] and detected DNA damage using
+53BP1 immunuofluorescence (Novus) [48]. Antibodies for insulin,
+glucagon, somatostatin and Ki-67 were obtained from Dako. We
+delivered EdU (2 mg, Invitrogen) over a 14 day period via an
+implanted subcutaneous pump (Alzet) and used reagents in Click-iT
+EdU (Invitrogen) for detection. For apoptosis studies, we performed
+the TUNEL assay (Roche). All histology studies were quantitated
+blinded to genotype. For expression studies, we purified islets [49],
+and extracted total RNA using RNeasy (Qiagen). To obtain
+sufficient RNA, we isolated islets from mTR2/2
+mice on the
+C57BL/6 background which have larger islets. We performed
+quantitative real time RT-PCR using iQ SYBR Green Supermix
+(BioRad, Hercules, CA. Primer sequences are listed in Table S2.
+The expression of each gene was normalized to Hprt levels.
+Transcriptional profiling of purified islets was performed using
+Mouse Exon 1.0 ST Arrays (Affymetrix) at the Johns Hopkins
+Microarray Facility. CEL file data were extracted and normalized
+with PartekH Genomics SuiteTM
+software using the Robust
+Multichip Analysis algorithm [50]. To explore the broadest range
+of transcripts, Affymetrix extended probes were imported, yielding
+transcripts of which 112,207 have annotation with 50,601 at the
+gene or mRNA-level. Genes with greater than 1.5 fold change and
+P-value,0.05 were considered significant. We used the Spotfire
+(TIBCO) platform and Gene Ontology (August 2010) to analyze
+gene expression. Microarray data is MIAME compliant and that
+the raw data has been deposited in GEO (GEO Series GSE25040).
+Statistical analyses were performed using GraphPad Prism software
+(La Jolla), and means were compared using Student’s t-test.
+Subjects and ethics statement
+Probands and family members were evaluated through the
+Johns Hopkins Hospital, and written informed consent was
+obtained from all participants. The Johns Hopkins Medicine
+Institutional Review Board approved the study. Individuals were
+eligible if they had classic mucocutaneous features of DC, or
+carried a mutant telomerase gene. We performed telomere length
+analysis using flow-cytometry and FISH, and sequenced the
+known DC genes from genomic DNA [37].
+Supporting Information
+Figure S1 Mice with short telomeres have intact islet
+morphology and b-cell mass. A. Late generation mTR+/2
+mice have short telomeres in islets as measured by quantitative
+fluorescence in situ hybridization. Representative images in the left
+panels show decreased intensity of telomere signals (red). Quantita-
+tion is shown in the bar graph (n=5 mice/group, 15 islets/mouse, 3–
+4 months). B. mTR+/2
+mice with short telomeres are lean (n=21–24
+mice/group, 3–4 months). C. Representative immunofluorescence
+images from wild-type and mTR+/2
+mice with short telomeres show
+intact b- and a-cell histology as shown by the co-staining of insulin
+(green) and glucagon (red). D. b-cells have normal appearance and
+relationship to d-cells as shown by the co-staining of insulin (green)
+with somatostatin (red). E. b-cell mass is intact in mTR+/2
+mice with
+short telomeres. F. Total insulin content, the percentage of b-cells
+relative to total islet cells (G), and individual b-cell size (H) are similar
+in mTR+/2
+mice with short telomeres and wild-type mice. For G&H,
+more than 1000 cells were analyzed per mouse. For E–H, n =5–8
+mice/group, 3–4 months of age. Error bars represent SEM.
+* indicates two-sided P-value,0.05 and ** P-value,0.01.
+(EPS)
+Figure S2 C57BL/6 mTR2/2
+mice with short telomeres
+have impaired glucose homeostasis due to defective
+insulin release. A. Two hour intraperitoneal glucose tolerance
+test shows mTR2/2
+G4 mice were more glucose intolerant (n = 17–
+20/group, 6–8 months). B. mTR2/2
+G4 mice tended to have lower
+fasting insulin levels, and significantly lower fasting insulin/glucose
+ratios (C). D. At 30 minutes after glucose injection, mTR2/2
+G4
+mice released less insulin in response to an intraperitoneal glucose
+load. E&F. Early generation mTR2/2
+mice (G1) have fasting
+insulin levels and fasting insulin/glucose ratio similar to wild-type
+controls. G. At 30 minutes after intraperitoneal glucose injection,
+mTR-/-G1 mice had similar insulin levels compared with controls.
+For E–F, n = 5–8/group, 10–11 months of age. Error bars represent
+SEM and * indicates two-sided P-value,0.05.
+(EPS)
+Figure S3 Accumulation of cyclin-dependent kinase
+inhibitors in short telomere islets is specific to p16INK4a
+.
+A. The relative expression of p15INK4b
+does not increase with age
+or with telomere shortening. B&C. Expression of p27 and p21
+does not change drastically in pancreatic islets with age nor with
+short telomeres. D. There is a trend towards accumulation of the
+Arf transcript with age and with telomere shortening. 3–6 mice
+were analyzed for each genotype and timepoint.
+(EPS)
+Figure S4 Breeding scheme for introducing the mTR2/2
+allele and short telomeres onto the Akita (Ins2C96Y/WT
+)
+mouse. A. Intergenerational cross of C57BL/6 Ins2C96Y/WT
+mice
+with C57BL/6 mTR+/2
+mice to generate double mutant mice was
+first performed. The mice were then crossed with mTR2/2
+G3
+mouse to introduce the short telomere background. B. Double
+mutant mice have no defect in peripheral glucose uptake in this
+insulin tolerance test (n = 5 mice/group, 8 months old females).
+(EPS)
+Figure S5 Clinical features of probands with dyskera-
+tosis congenita and diabetes. A. Clinical details of 2 patients
+with diabetes and dyskeratosis congenita. Case 1 had classic
+dyskeratosis congenita features and, in Case 2, we identified a CRG
+heterozygous substitution at nucleotide 204 in hTR which impairs
+telomerase activity (P,0.001, not shown). B. Case 1 and Case 2
+have lymphocyte telomere length below the 1st
+percentile compared
+with age-matched controls. Percentile lines were generated based on
+data from 400 controls. This range is highly predictive of a germline
+defect in telomerase (Alder et al PNAS 2008). C. X-linked pattern of
+dyskeratosis congenita inheritance in the family for index case 1. D.
+The family for index case 2 displays autosomal dominant
+inheritance. Both probands have relatives with a history of
+pulmonary and liver disease along with aplastic anemia, consistent
+with the diagnosis of an inherited telomere syndrome.
+(EPS)
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 8 March 2011 | Volume 6 | Issue 3 | e17858
+Table S1 Biological processes and associated genes
+altered in microarray expression analysis of pancreatic
+islets from mice with short telomeres. *Genes listed have
+greater than 1.5 fold expression change.
+(DOC)
+Table S2 Primers used to measure expression of cyclin-
+dependent kinase inhibitors and Reg gene family
+members by qRT PCR.
+(DOC)
+Acknowledgments
+We are grateful to the subjects who participated in this study. We are
+thankful to Dr. Carol Greider, Dr. David Valle and Dr. Brendan Cormack
+for critical reading of the manuscript.
+Author Contributions
+Conceived and designed the experiments: MA NG P-OB. Performed the
+experiments: NG EP L-SL FK NL. Analyzed the data: NG P-OB MA.
+Contributed reagents/materials/analysis tools: L-SL MH P-OB. Wrote the
+paper: NG MA.
+References
+1. Prevention CfDCa (2008) National diabetes fact sheet: general information and
+national estimates on diabetes in the United States, 2007. US Department of
+Health and Human Services, Centers for Disease Control and Prevention.
+2. Prentki M, Nolan CJ (2006) Islet beta cell failure in type 2 diabetes. J Clin Invest
+116: 1802–1812.
+3. Butler AE, Janson J, Bonner-Weir S, Ritzel R, Rizza RA, et al. (2003) Beta-cell
+deficit and increased beta-cell apoptosis in humans with type 2 diabetes.
+Diabetes 52: 102–110.
+4. Yoon KH, Ko SH, Cho JH, Lee JM, Ahn YB, et al. (2003) Selective beta-cell
+loss and alpha-cell expansion in patients with type 2 diabetes mellitus in Korea.
+J Clin Endocrinol Metab 88: 2300–2308.
+5. Saxena R, Voight BF, Lyssenko V, Burtt NP, de Bakker PI, et al. (2007)
+Genome-wide association analysis identifies loci for type 2 diabetes and
+triglyceride levels. Science 316: 1331–1336.
+6. Scott LJ, Mohlke KL, Bonnycastle LL, Willer CJ, Li Y, et al. (2007) A genome-
+wide association study of type 2 diabetes in Finns detects multiple susceptibility
+variants. Science 316: 1341–1345.
+7. Zeggini E, Weedon MN, Lindgren CM, Frayling TM, Elliott KS, et al. (2007)
+Replication of genome-wide association signals in UK samples reveals risk loci
+for type 2 diabetes. Science 316: 1336–1341.
+8. Lyssenko V, Jonsson A, Almgren P, Pulizzi N, Isomaa B, et al. (2008) Clinical
+risk factors, DNA variants, and the development of type 2 diabetes. N Engl J Med
+359: 2220–2232.
+9. Harley CB, Futcher AB, Greider CW (1990) Telomeres shorten during ageing of
+human fibroblasts. Nature 345: 458–460.
+10. Lee HW, Blasco MA, Gottlieb GJ, Horner JW, 2nd, Greider CW, et al. (1998)
+Essential role of mouse telomerase in highly proliferative organs. Nature 392:
+569–574.
+11. Greider CW, Blackburn EH (1989) A telomeric sequence in the RNA of
+Tetrahymena telomerase required for telomere repeat synthesis. Nature 337:
+331–337.
+12. Greider CW, Blackburn EH (1987) The telomere terminal transferase of
+Tetrahymena is a ribonucleoprotein enzyme with two kinds of primer specificity.
+Cell 51: 887–898.
+13. Armanios M, Chen JL, Chang YP, Brodsky RA, Hawkins A, et al. (2005)
+Haploinsufficiency of telomerase reverse transcriptase leads to anticipation in
+autosomal dominant dyskeratosis congenita. Proc Natl Acad Sci U S A 102:
+15960–15964.
+14. Vulliamy T, Marrone A, Goldman F, Dearlove A, Bessler M, et al. (2001) The
+RNA component of telomerase is mutated in autosomal dominant dyskeratosis
+congenita. Nature 413: 432–435.
+15. Armanios M (2009) Syndromes of telomere shortening. Annu Rev Genomics
+Hum Genet 10: 45–61.
+16. Hao LY, Armanios M, Strong MA, Karim B, Feldser DM, et al. (2005) Short
+telomeres, even in the presence of telomerase, limit tissue renewal capacity. Cell
+123: 1121–1131.
+17. Armanios M, Alder JK, Parry EM, Karim B, Strong MA, et al. (2009) Short
+telomeres are sufficient to cause the degenerative defects associated with aging.
+Am J Hum Genet 85: 823–832.
+18. Xu G, Stoffers DA, Habener JF, Bonner-Weir S (1999) Exendin-4 stimulates
+both beta-cell replication and neogenesis, resulting in increased beta-cell mass
+and improved glucose tolerance in diabetic rats. Diabetes 48: 2270–2276.
+19. Blasco MA, Lee HW, Hande MP, Samper E, Lansdorp PM, et al. (1997)
+Telomere shortening and tumor formation by mouse cells lacking telomerase
+RNA. Cell 91: 25–34.
+20. Yang SN, Berggren PO (2006) The role of voltage-gated calcium channels in
+pancreatic beta-cell physiology and pathophysiology. Endocr Rev 27: 621–676.
+21. Krishnamurthy J, Ramsey MR, Ligon KL, Torrice C, Koh A, et al. (2006)
+p16INK4a induces an age-dependent decline in islet regenerative potential.
+Nature 443: 453–457.
+22. Zhang H, Pan KH, Cohen SN (2003) Senescence-specific gene expression
+fingerprints reveal cell-type-dependent physical clustering of up-regulated
+chromosomal loci. Proc Natl Acad Sci U S A 100: 3251–3256.
+23. Terazono K, Yamamoto H, Takasawa S, Shiga K, Yonemura Y, et al. (1988) A
+novel gene activated in regenerating islets. J Biol Chem 263: 2111–2114.
+24. Marselli L, Thorne J, Dahiya S, Sgroi DC, Sharma A, et al. Gene expression
+profiles of Beta-cell enriched tissue obtained by laser capture microdissection
+from subjects with type 2 diabetes. PLoS ONE 5: e11499.
+25. Stoy J, Edghill EL, Flanagan SE, Ye H, Paz VP, et al. (2007) Insulin gene
+mutations as a cause of permanent neonatal diabetes. Proc Natl Acad Sci U S A
+104: 15040–15044.
+26. Wang J, Takeuchi T, Tanaka S, Kubo SK, Kayo T, et al. (1999) A mutation in
+the insulin 2 gene induces diabetes with severe pancreatic beta-cell dysfunction
+in the Mody mouse. J Clin Invest 103: 27–37.
+27. Oyadomari S, Koizumi A, Takeda K, Gotoh T, Akira S, et al. (2002) Targeted
+disruption of the Chop gene delays endoplasmic reticulum stress-mediated
+diabetes. J Clin Invest 109: 525–532.
+28. Steier W, Van Voolen GA, Selmanowitz VJ (1972) Dyskeratosis congenita:
+relationship to Fanconi’s anemia. Blood 39: 510–521.
+29. Reichel M, Grix AC, Isseroff RR (1992) Dyskeratosis congenita associated with
+elevated fetal hemoglobin, X-linked ocular albinism, and juvenile-onset diabetes
+mellitus. Pediatr Dermatol 9: 103–106.
+30. Walne AJ, Vulliamy T, Marrone A, Beswick R, Kirwan M, et al. (2007) Genetic
+heterogeneity in autosomal recessive dyskeratosis congenita with one subtype
+due to mutations in the telomerase-associated protein NOP10. Hum Mol Genet
+16: 1619–1629.
+31. Adaikalakoteswari A, Balasubramanyam M, Mohan V (2005) Telomere
+shortening occurs in Asian Indian Type 2 diabetic patients. Diabet Med 22:
+1151–1156.
+32. Salpea KD, Talmud PJ, Cooper JA, Maubaret CG, Stephens JW, et al. (2009)
+Association of telomere length with type 2 diabetes, oxidative stress and UCP2
+gene variation. Atherosclerosis.
+33. Olivieri F, Lorenzi M, Antonicelli R, Testa R, Sirolla C, et al. (2009) Leukocyte
+telomere shortening in elderly Type2DM patients with previous myocardial
+infarction. Atherosclerosis 206: 588–593.
+34. Sampson MJ, Winterbone MS, Hughes JC, Dozio N, Hughes DA (2006)
+Monocyte telomere shortening and oxidative DNA damage in type 2 diabetes.
+Diabetes Care 29: 283–289.
+35. Kuhlow D, Florian S, von Figura G, Weimer S, Schulz N, et al. Telomerase
+deficiency impairs glucose metabolism and insulin secretion. Aging (Albany NY)
+2: 650–658.
+36. Le May C, Chu K, Hu M, Ortega CS, Simpson ER, et al. (2006) Estrogens
+protect pancreatic beta-cells from apoptosis and prevent insulin-deficient
+diabetes mellitus in mice. Proc Natl Acad Sci U S A 103: 9232–9237.
+37. Alder JK, Chen JJ, Lancaster L, Danoff S, Su SC, et al. (2008) Short telomeres
+are a risk factor for idiopathic pulmonary fibrosis. Proc Natl Acad Sci U S A 105:
+13051–13056.
+38. Gribbin J, Hubbard R, Smith C (2009) Role of diabetes mellitus and gastro-
+oesophageal reflux in the aetiology of idiopathic pulmonary fibrosis. Respir Med
+103: 927–931.
+39. Cronkhite JT, Xing C, Raghu G, Chin KM, Torres F, et al. (2008) Telomere
+shortening in familial and sporadic pulmonary fibrosis. Am J Respir Crit Care
+Med 178: 729–737.
+40. Elder DA, D’Alessio DA, Eyal O, Mueller R, Smith FO, et al. (2008)
+Abnormalities in glucose tolerance are common in children with fanconi anemia
+and associated with impaired insulin secretion. Pediatr Blood Cancer 51:
+256–260.
+41. Dor Y, Brown J, Martinez OI, Melton DA (2004) Adult pancreatic beta-cells are
+formed by self-duplication rather than stem-cell differentiation. Nature 429:
+41–46.
+42. Hemann MT, Strong MA, Hao LY, Greider CW (2001) The shortest telomere,
+not average telomere length, is critical for cell viability and chromosome
+stability. Cell 107: 67–77.
+43. Healy JA, Nilsson KR, Hohmeier HE, Berglund J, Davis J, et al. Cholinergic
+augmentation of insulin release requires ankyrin-B. Sci Signal 3: ra19.
+44. Silva JP, Kohler M, Graff C, Oldfors A, Magnuson MA, et al. (2000) Impaired
+insulin secretion and beta-cell loss in tissue-specific knockout mice with
+mitochondrial diabetes. Nat Genet 26: 336–340.
+45. Berggren PO, Yang SN, Murakami M, Efanov AM, Uhles S, et al. (2004)
+Removal of Ca2+ channel beta3 subunit enhances Ca2+ oscillation frequency
+and insulin exocytosis. Cell 119: 273–284.
+46. Uhlen P (2004) Spectral analysis of calcium oscillations. Sci STKE 2004: pl15.
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 9 March 2011 | Volume 6 | Issue 3 | e17858
+47. Stein KM, Borer JS, Hochreiter C, Okin PM, Herrold EM, et al. (1993)
+Prognostic value and physiological correlates of heart rate variability in chronic
+severe mitral regurgitation. Circulation 88: 127–135.
+48. d’Adda di Fagagna F, Reaper PM, Clay-Farrace L, Fiegler H, Carr P, et al.
+(2003) A DNA damage checkpoint response in telomere-initiated senescence.
+Nature 426: 194–198.
+49. Li DS, Yuan YH, Tu HJ, Liang QL, Dai LJ (2009) A protocol for islet isolation
+from mouse pancreas. Nat Protoc 4: 1649–1652.
+50. Irizarry RA, Bolstad BM, Collin F, Cope LM, Hobbs B, et al. (2003) Summaries
+of Affymetrix GeneChip probe level data. Nucleic Acids Res 31: e15.
+Short Telomeres Compromise b-Cell Function
+PLoS ONE | www.plosone.org 10 March 2011 | Volume 6 | Issue 3 | e17858
+

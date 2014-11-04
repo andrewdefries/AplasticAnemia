@@ -1,0 +1,738 @@
+Association of a Deletion of GSTT2B with an Altered Risk
+of Oesophageal Squamous Cell Carcinoma in a South
+African Population: A Case-Control Study
+Marco Matejcic1,2
+, DongPing Li1,2
+, Natalie J. Prescott3
+, Cathryn M. Lewis3,4
+, Christopher G. Mathew3
+, M.
+Iqbal Parker1,2
+*
+1 International Centre for Genetic Engineering and Biotechnology, Cape Town Component, Observatory, Cape Town, South Africa, 2 Division of Medical Biochemistry and
+IIDMM, UCT Faculty of Health Sciences, Cape Town, South Africa, 3 Department of Medical and Molecular Genetics, King’s College London, King’s Health Partners, Guy’s
+Hospital, London, United Kingdom, 4 Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, King’s College London, London, United Kingdom
+Abstract
+Background: Polymorphisms in the Glutathione S-transferase genes are associated with altered risks in many cancers, but
+their role in oesophageal cancer is unclear. Recently a 37-kb deletion polymorphism of GSTT2B that reduces expression of
+GSTT2 has been described. We evaluated the influence of the GSTT1 and GSTT2B deletion polymorphisms, and the GSTP1
+Ile105Val polymorphism (rs1695) on susceptibility to oesophageal squamous cell carcinoma (OSCC) in the Black and Mixed
+Ancestry populations of South Africa.
+Methods and Results: The GSTT1, GSTT2B and GSTP1 variants were genotyped in 562 OSCC cases and 907 controls, and
+tested for association with OSCC and for interaction with smoking and alcohol consumption. Linkage disequilibrium (LD)
+between the deletions at GSTT1 and GSTT2B was determined, and the haplotypes tested for association with OSCC. Neither
+the GSTT1 deletion nor the GSTP1 Ile105Val polymorphism was associated with OSCC risk in the Black or Mixed Ancestry
+populations. The GSTT2B deletion was not associated with OSCC risk in the Black population, but was associated with
+reduced risk of OSCC in the Mixed Ancestry population (OR = 0.71; 95% CI 0.57–0.90, p = 0.004). Case-only analysis showed
+no interaction between the GST polymorphisms and smoking or alcohol consumption. LD between the neighboring GSTT1
+and GSTT2B deletions was low in both populations (r2
+Black = 0.04; r2
+MxA = 0.07), thus these deletions should be assessed
+independently for effects on disease risk.
+Conclusions: Although there was no association between the GSTT1 deletion polymorphism or the GSTP1 Ile105Val
+polymorphism with OSCC, our results suggest that the presence of the recently described GSTT2B deletion may have a
+protective effect on the risk of OSCC in the Mixed Ancestry South African population. This is the first report of the
+contribution of the GSTT2B deletion to cancer risk.
+Citation: Matejcic M, Li D, Prescott NJ, Lewis CM, Mathew CG, et al. (2011) Association of a Deletion of GSTT2B with an Altered Risk of Oesophageal Squamous
+Cell Carcinoma in a South African Population: A Case-Control Study. PLoS ONE 6(12): e29366. doi:10.1371/journal.pone.0029366
+Editor: Amanda Ewart Toland, Ohio State University Medical Center, United States of America
+Received August 19, 2011; Accepted November 27, 2011; Published December 27, 2011
+Copyright: ß 2011 Matejcic et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by the Association for International Cancer Research [grant number 09-0625] to MIP and CGM. MIP was also supported by the
+South African Research Chairs Initiative of the Department of Science and Technology and the National Research Foundation, the International Centre for Genetic
+Engineering and Biotechnology (ICGEB), the South African Medical Research Council and the University of Cape Town. CGM and NJP were supported by the
+Medical Research Council UK, The Generation Trust, the National Institutes of Health Research Biomedical Research Centre at Guy’s and St Thomas’ NHS
+Foundation Trust in partnership with King’s College London. MM was awarded a Wood/Whelan Fellowship by the International Union of Biochemistry and
+Molecular Biology (IUBMB) to perform part of the work in the laboratory of CGM. The funders had no role in study design, data collection and analysis, decision to
+publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: iqbal.parker@uct.ac.za
+Introduction
+Oesophageal cancer is the third most common malignancy of
+the digestive tract and the seventh leading cause of cancer-related
+deaths worldwide [1]. Cancer of the esophagus exists in two main
+forms with different etiological and pathological characteristics:
+oesophageal squamous cell carcinoma (OSCC) and oesophageal
+adenocarcinoma (OADC). OSCC is the predominant histological
+subtype in developing countries [2] and occurs at higher
+frequencies in Southern and Eastern Africa, Northern China
+and the central Asian belt from Turkey through Iran, Iraq and
+Kazakhstan [3–6]. In South Africa it is one of the most common
+malignancies and the most common cancer among Black males,
+with a variable incidence rate among regions [7]. The regional
+difference in the frequency of OSCC is probably due to genetic
+polymorphism and variable exposure to environmental factors,
+including nutritional factors that are associated with the
+development of this disease [8]. Epidemiological studies have also
+identified smoking and alcohol consumption as major risk factors
+associated with OSCC [9–11]. Our studies have shown that
+genetic polymorphisms in the alcohol metabolizing enzymes
+(ADH2*1 and ADH3*2) and detoxification enzymes (SULT1A1,
+CYP3A5 and P450 2E1) are associated with susceptibility to OSCC
+in the South African population [12–15].
+PLoS ONE | www.plosone.org 1 December 2011 | Volume 6 | Issue 12 | e29366
+The Glutathione S-transferases (GSTs) are the major phase II
+metabolizing enzymes and play a key role in cellular detoxification
+of toxic compounds such as tobacco-related carcinogens [16].
+Specifically, GSTs catalyze the conjugation of glutathione (GSH)
+to a wide variety of substrates with electrophilic functional groups
+including the products of oxidative stress, environmental pollutants
+and carcinogens, thereby neutralizing their electrophilic sites and
+producing stable and soluble compounds easily excreted from the
+organism [17]. Homozygous deletion of GST genes that results in
+a total lack of the enzyme activity is a common polymorphism in
+humans [18]. The GSTT1 and GSTT2 genes are located at a
+recombination-prone locus on chromosome 22q11.23 separated
+by about 50 kb [19,20]. GSTT1 is flanked by two highly
+homologous regions (HA3 and HA5) that share an identical
+403-bp repeat (Fig. 1). A homologous recombination event
+involving the HA5 and HA3 403-bp repeats results in a 54-kb
+deletion containing the entire GSTT1 gene resulting in a lack of
+GSTT1 activity [21]. The GSTT2 gene is part of a 64-kb inverted
+repeat (DNA-IR), the other copy of which is located immediately
+adjacent to GSTT2 and contains the homologous pseudogene,
+GSTT2B, which shares 98% sequence identity with GSTT2 (Fig. 1).
+A recent study [22] reported that a 37-kb deletion of the proximal
+repeat encompassing the GSTT2B gene reduces expression of the
+GSTT2 gene by more than 80% in cell lines homozygous for the
+deletion. The frequency of GSTT1 and GSTT2B deletions varies
+between populations. Homozygous deletions of GSTT1 are present
+in 15–20% of Whites, 45–64% of Asians and 20–41% of Sub-
+Saharan Africans [23–27]. The GSTT2B homozygous deletion
+occurs in approximately 42% of Whites, 29% of Japanese/Chinese
+and 18% of the Yoruban population of West Africa [22]. The
+GSTP1 gene is located on chromosome 11q13 and is the major
+GST expressed in the oesophagus [28]. GSTP1 contains a single
+nucleotide polymorphism (SNP) at position 313 (A.G) that
+substitutes Isoleucine (Ile) for Valine (Val) at amino acid position
+105, resulting in an enzyme with altered substrate affinity and
+decreased enzyme activity [29]. Approximately 29% of Whites
+and 15% of Asians are carriers of the GSTP1 Val105 variant allele
+[30–33], and the frequency varies from 16% to 24% among
+Southern and Eastern Africans. In South African Xhosa the
+frequency was reported as 53%, which is significantly higher than
+that reported for other African ethnic groups [27].
+The importance of glutathione conjugation by GSTs enzymes
+in carcinogen detoxification and drug metabolism led to extensive
+studies of polymorphisms in these genes as potential risk factors for
+different types of cancer [18,34]. In oesophageal cancer, meta-
+analysis showed that the GSTT1 deletion allele was not associated
+with increased risk of oesophageal cancer in Whites and Asians,
+but was associated with a reduced risk of OSCC in the Brazilian
+population [35,36]. A recent meta-analysis reported association of
+the GSTP1 Val105 allele with increased risk of OSCC in Whites
+[37], and we previously reported association of the GSTP1
+Ala114Val but not Ile105Val SNP with an increased risk of
+OSCC in the South African population [15].
+In view of the somewhat conflicting nature of previous reports,
+and the new evidence of an important functional deletion at the
+GSTT1/2 locus, we have investigated the relationship between the
+GSTT1 and GSTT2B deletions and the GSTP1 Ile105Val polymor-
+phism and susceptibility to OSCC in the South African Black and
+Mixed Ancestry populations. Features of the study design include a
+much larger sample size than in previous work to provide greater
+statistical power, separate analysis of the Black and Mixed Ancestry
+data to avoid confounding the analysis by differences in genetic
+structure, and the use of multiplex PCR assays which differentiate
+heterozygotes from homozygotes for the GSTT1 and GSTT2B
+deletions, thus allowing full resolution of all 3 possible genotypes.
+Using the above genotyping assays, we successfully genotyped
+the GSTT1, GSTT2B and GSTP1 variants in 562 OSCC cases and
+907 controls, and tested for association with OSCC.
+The risk of OSCC has been associated with smoking and
+alcohol consumption in multiple studies, and we therefore tested
+for a gene-environment interaction in a case-only analysis,
+stratifying cases by smoking and alcohol consumption status.
+This is, to our knowledge, the largest investigation to date of the
+association of GST functional polymorphisms with cancer in
+African populations, and the first to assess the role of the GSTT2B
+deletion in cancer risk.
+Results
+GSTT1 deletion analysis
+The genotype and allele frequencies for the GSTT1 deletion
+polymorphism in the two South African populations were determined
+by multiplex PCR assay [21], which allows resolution of all 3 possible
+genotypes (Figure 2A). The results are shown in Table 1. No
+significant deviation from Hardy-Weinberg Equilibrium was found in
+Black controls; a marginal deviation was observed among Mixed
+Ancestry controls, which is not significant after correcting for multiple
+testing across the population groups and polymorphisms
+(pBlack =0.359; pMxA =0.038). In order to investigate whether this
+deviation was due to genotyping error, 20% of samples were re-
+genotyped. There was no discrepancy between the two genotyping
+results, suggesting that the deviation from HWE was not due to
+genotyping error. The Mixed Ancestry population in South Africa is a
+heterogeneous ethnic group originating from the union of Europeans
+and Asians with several African populations, including the Xhosa [38].
+Differences in the frequency of the deletion allele in these various
+ethnic groups [23–27] in combination with non-random mating may
+explain the modest deviation from HWE observed in this study. The
+GSTT1 deletion was not associated with OSCC in either population
+Figure 1. Deletion polymorphisms of the GSTT1 and GSTT2B
+genes. The GSTT1 and GSTT2 genes are part of the Theta-class GST
+gene cluster on chromosome 22q11.23. GSTT1 and GSTT2 are separated
+by approximately 50 kb and share 55% sequence homology. GSTT1 is
+flanked by two 18 kb regions, HA5 and HA3, which are more than 90%
+homologous. In their central portion, HA3 and HA5 share a 403-bp
+sequence with 100% identity. HA5 and HA3 are direct repeats. The
+GSTT1 null allele arises by homologous recombination of the left and
+right 403-bp repeats, which results in a 54-kb deletion containing the
+entire GSTT1 gene. GSTT2 is positioned adjacent to the HA5 repeat. The
+duplicate copy of GSTT2 is a pseudogene named GSTT2B, because of an
+abnormal exon 2/intron 2 splice site that causes a premature translation
+stop. GSTT2 and GSTT2B are inverted repeats. The deletion of GSTT2B
+has a strong influence on GSTT2 gene expression, as described in the
+text.
+doi:10.1371/journal.pone.0029366.g001
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 2 December 2011 | Volume 6 | Issue 12 | e29366
+(Table 1). The frequency of the GSTT1 deletion allele in Black controls
+(55%) was similar to that reported for the Yoruban population (57%),
+with 30% of individuals being homozygous for the deletion. In the
+Mixed Ancestry controls the allele frequency (49%) was lower than
+that reported for Asian populations (65%) and higher than in Whites
+(33%), which is consistent with the origins of this population, with 22%
+of individuals being homozygous for the deletion [22]. A case-only
+analysis of smoking and drinking did not detect any interaction
+between environmental risk factors and the GSTT1 deletion
+polymorphism in either the Black or Mixed Ancestry populations
+(Table 2). In the Mixed Ancestry population, the small number of
+smokers (N=13) was below the threshold for a meaningful case-only
+analysis (see Methods).
+GSTT2B deletion analysis
+The PCR assay for the GSTT2B deletion is illustrated in
+figure 2B, and the genotype and allele frequencies are shown in
+Table 1. The observed genotype counts are comparable with
+expected and no deviation from HWE was observed in either
+control group (pBlacks = 0.362; pMxA = 1). The The GSTT2B
+deletion was not associated with OSCC in the Black population,
+although the frequency of the deletion allele was lower in cases
+than in controls. In the Mixed Ancestry population the GSTT2B
+deletion allele was significantly less frequent in cases than in
+controls, and thus associated with a reduced risk of OSCC
+(OR = 0.71; 95% CI 0.57–0.90, p = 0.004) (Table 1), with a p-
+value below the Bonferroni-corrected threshold of p = 0.0083.
+Further analysis of the GSTT2B polymorphism in the Mixed
+Ancestry population showed a stronger evidence for association
+under a dominant model of inheritance for the deletion (p = 0.002
+for association), with carriers of the deletion allele having an OR of
+0.57 (95% CI 0.40–0.81). The frequency of the GSTT2B deletion
+in Black controls (37%) was lower than that reported for a small
+Yoruban HapMap sample (47%), and the frequency in the Mixed
+Ancestry controls (50%) was lower than that reported for a
+Western European HapMap sample (63%) but identical to that for
+Figure 2. PCR assay for GSTT1 and GSTT2B deletion genotyping. A four primer set was used in a single reaction to determine the presence or
+absence of the GSTT1 allele. (A); Primers A-L and A-R amplify a 459 bp sequence present in the GSTT1 gene, while primers O-L and O-R amplify a joint
+sequence of 1460 bp resulting from the deletion of GSTT1. When GSTT1 is not deleted, the DNA fragment (GSTT1) between the forward (O-L) and
+reverse primers (O-R) is too long for amplification and only the 459 bp sequence is amplified. Conversely, when GSTT1 is deleted, the 459 bp
+sequence is not amplified because absent while the 1460 bp fragment is now amplified. As a result of the PCR reaction, the only presence of a 459 bp
+band (lines 1–3 in the gel picture) or of a 1460 bp band (lines 7, 8) defines the WT/WT and the del/del genotypes respectively; while the presence of
+both fragments defines the heterozygous genotype (lines 4–6). Lane 9 was used as negative control. Solid lines represent genomic sequences; white
+rectangle represents the deleted sequence; small gray triangles indicate the 408 bp repeats flanking the GSTT1 gene. Expected PCR products are
+drawn as small gray bars. (B); A three primer set is used to determine the deletion polymorphism of GSTT2B in a single reaction. Primers 2B and 6857
+amplify a 847 bp fragment detecting the presence of the GSTT2B gene, while primers 6857 and 6858 amplify a 505 bp sequence resulting from the
+deletion of GSTT2B. The 6857 primer is used for amplification of both fragments. When GSTT2B is not deleted, the DNA fragment (GSTT2B) between
+the 6857 and 6858 primers is too long for amplification and only the 847 bp fragment is amplified. Conversely, when the gene is deleted, the 505 bp
+fragment is amplified and the 847 bp fragment is not amplified. As a result of the PCR reaction we can have three possible polymorphisms: one single
+847 bp (lines 1–3 in the gel picture) or one single 505 bp band (lines 6–8) represent the WT/WT and the del/del polymorphisms rispectively; while the
+contemporary presence of both bands represents the WT/del polymorphism (lines 4, 5). Lane 9 was used as a negative control. Solid lines represent
+genomic sequences; black rectangle represents the deleted sequence. Expected PCR products are drawn as small gray bars.
+doi:10.1371/journal.pone.0029366.g002
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 3 December 2011 | Volume 6 | Issue 12 | e29366
+the Japanese/Chinese [22]. As with GSTT1, a case-only analysis
+did not detect any interaction between the GSTT2B deletion and
+smoking or alcohol use in either Black or Mixed Ancestry
+populations (Table 2), and interaction with smoking could not be
+tested in the Mixed Ancestry population because of the small
+number of non-smokers. However, in a case-control analysis of
+drinkers and smokers in the Mixed Ancestry population, the
+protective effect of the GSTT2B deletion was marginally stronger
+than in all cases (OR = 0.69 for both groups, p = 0.002 and 0.003
+for smokers and drinkers respectively).
+Table 1. Genotype and allele frequencies of GSTT1, GSTT2B and GSTP1 polymorphisms and association with OSCC in Black and
+Mixed Ancestry populations.
+Gene Study group
+Genotype
+frequency
+Allele
+frequency
+Oesophageal squamous
+cell carcinoma
+Population Samples OR (95% CI) p-value
+GSTT1 Wt/Wt Wt/Del Del/Del Del
+Black Controls 462 87 (19%) 238 (51%) 137 (30%) 0.554
+Black Cases 311 59 (19%) 147 (47%) 105 (34%) 0.574 1.08 (0.88–1.33) 0.441
+MxA Controls 414 95 (23%) 228 (55%) 91 (22%) 0.495
+MxA Cases 217 51 (23%) 118 (54%) 48 (22%) 0.493 0.99 (0.79–1.25) 1
+GSTT2B Wt/Wt Wt/Del Del/Del Del
+Black Controls 461 187 (40%) 206 (45%) 68 (15%) 0.371
+Black Cases 320 140 (44%) 145 (45%) 35 (11%) 0.336 0.86 (0.69–1.06) 0.156
+MxA Controls 425 106 (25%) 212 (50%) 107 (25%) 0.501
+MxA Cases 226 83 (37%) 97 (43%) 46 (20%) 0.418 0.71 (0.57–0.90) 0.004
+GSTP1 Ile/Ile Ile/Val Val/Val Val
+Black Controls 474 100 (21%) 242 (51%) 132 (28%) 0.534
+Black Cases 325 79 (24%) 155 (48%) 91 (28%) 0.518 0.94 (0.77–1.15) 0.547
+MxA Controls 428 145 (34%) 191 (45%) 92 (21%) 0.438
+MxA Cases 229 69 (30%) 112 (49%) 48 (21%) 0.454 1.07 (0.85–1.34) 0.576
+OR = odds ratio for the allele listed in the Allele Frequency column.
+Wildtype (Wt) = non-deletion allele; Del = deletion allele.
+doi:10.1371/journal.pone.0029366.t001
+Table 2. Association of GSTT1, GSTT2B and GSTP1 polymorphisms with OSCC by smoking and drinking status in Black and Mixed
+Ancestry cases.
+Gene Population Number of Patients Test Allele Oesophageal squamous cell carcinoma
+Smokers Non smokers OR (95% CI) p-value
+GSTT1 Black 198 113 Del 1.18 (0.84–1.63) 0.335
+Mixed Ancestry 204 13 Del - -
+GSTT2B Black 205 115 Del 1.17 (0.83–1.66) 0.358
+Mixed Ancestry 215 11 Del - -
+GSTP1 Black 210 115 Val 0.98 (0.71–1.35) 1
+Mixed Ancestry 216 13 Val - -
+Gene Population Number of Patients Test Allele Oesophageal squamous cell carcinoma
+Drinkers Non drinkers OR (95% CI) p-value
+GSTT1 Black 192 119 Del 1.17 (0.84–1.62) 0.350
+Mixed Ancestry 177 40 Del 1.24 (0.76–2.01) 0.393
+GSTT2B Black 200 120 Del 1.30 (0.92–1.83) 0.136
+Mixed Ancestry 186 40 Del 0.80 (0.49–1.30) 0.375
+GSTP1 Black 204 121 Val 1.01 (0.74–1.39) 1
+Mixed Ancestry 189 40 Val 1.08 (0.67–1.76) 0.742
+OR = odds ratio for the test allele.
+Smokers = current and former smokers; Drinkers = light to heavy drinkers.
+doi:10.1371/journal.pone.0029366.t002
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 4 December 2011 | Volume 6 | Issue 12 | e29366
+GSTP1 Ile105Val SNP (rs1695)
+The genotype and allele frequencies obtained for the GSTP1
+Ile105Val SNP (rs1695) in the two populations is shown in Table 1.
+The 105Val allele was common in both populations, and genotype
+frequencies were in Hardy-Weinberg equilibrium in controls
+(p.0.05). This SNP was not associated with OSCC in either the
+Black or Mixed Ancestry populations. The frequency of the
+GSTP1 Val105 allele in Black controls (53%) was marginally
+higher than that reported for African HapMap populations (36%–
+51%), but identical to that previously reported for South African
+Xhosa (53%) [27]; while in Mixed Ancestry controls it was slightly
+higher (44%) compared to Whites (41% in HapMap CEU). Case-
+only analysis did not detect any interaction between smoking or
+alcohol use and this SNP in either population group (Table 2). The
+non-smoker sample size in the Mixed Ancestry population (N = 13)
+was too low to perform an interaction test in this subgroup.
+Linkage disequilibrium analysis
+Linkage disequilibrium (LD) between the GSTT2B and GSTT1
+deletion polymorphism was low in both populations. In the Black
+population, LD measures were r2
+= 0.04 and D9 = 0.27. In the
+Mixed Ancestry population the GSTT1 and GSTT2B deletions
+both have similar frequencies (0.495 and 0.501 respectively), but
+all four possible haplotypes exist, giving r2
+= 0.07 and D9 = 0.33,
+with the Del-Del and wildtype-wildtype (WT- WT) haplotypes having
+lower frequencies than expected under linkage equilibrium.
+Haplotype analysis in the Black population showed no overall
+evidence of association (p = 0.500), and none of the individual
+haplotypes was associated with OSCC (Table 3). In the Mixed
+Ancestry population, strong evidence for association was obtained
+overall in the haplotype analysis (p = 0.0089), but this was due
+solely to the effect of GSTT2B, and conditional analysis showed
+that including GSTT1 had no additional effect (p = 0.35).
+Examining the haplotype-specific results (Table 3) shows that the
+two haplotypes with a significant effect compared to the baseline
+WT-WT haplotype both carry the deletion at GSTT2B (WT-DEL,
+DEL-DEL), and have similar OR of 0.58, indicating that carrying
+an additional deletion at GSTT1 did not reduce OSCC risk
+further. In Mixed Ancestry individuals, who were successfully
+genotyped for both the GSTT1 and GSTT2B deletions, 13 of 414
+controls (0.031) and 16 of 217 cases (0.074) were homozygous for
+both deletions (genotype Del-Del/Del-Del), which was a marginally
+significant difference (p = 0.027). In Black individuals this genotype
+was present in 22 of 462 controls (0.048) and 17 of 311 cases
+(0.055), which was not a significant difference (p = 0.786).
+Discussion
+In this study we have investigated the involvement of the
+GSTT1 deletion, the GSTP1 functional polymorphism Ile105Val
+and the recently described GSTT2B deletion, which greatly
+reduces expression of GSTT2, in susceptibility to OSCC in two
+South African populations. The GSTT1 deletion was genotyped
+using a multiplex PCR assay which discriminates between
+subjects carrying zero, one or two functional alleles of the
+GSTT1 gene [21]. Such individuals show a trimodal pattern of
+enzyme activity [39], thus discrimination between the 3
+genotypes is important in the assessment of possible increased
+cancer risk in deletion heterozygotes. In our study, the GSTT1
+genotype showed no evidence of association with OSCC in
+either the Black or the Mixed Ancestry populations, which is
+consistent with the meta-analysis in White European and Asian
+populations [35]. Our analysis of the GSTP1 Val105 allele also
+showed no association with OSCC. We did, however, observe
+association of the GSTT2B deletion with a reduced risk of
+OSCC in the Mixed Ancestry population (OR = 0.71; 95% CI
+0.57–0.90). We did not find this association in the Black
+population; however the odds ratio (0.86) did overlap with the
+95% confidence interval for the Mixed Ancestry population, so
+it is possible that a smaller effect might be revealed in the Black
+population in a larger sample size.
+Power calculations show that our study is well-powered to
+identify association with variants that confer a direct association,
+and moderate power to detect a gene-environmental interaction.
+The Mixed Ancestry sample has 82% power to detect a genetic
+variant with frequency 0.5 (similar to the genotyped variants)
+which confers an increased odds ratio of 1.4 under an additive
+model. For the larger sample size in the Black population, there is
+a similar level of power (83%) to detect a lower odds ratio of 1.35.
+For the gene-environment interaction in a case-only analysis, an
+odds ratio of 1.75 would be detectable with power of 0.83 for the
+Mixed Ancestry population, and 94% for the Black population
+(assuming 30% exposure prevalence).
+Table 3. Haplotype frequencies for the GSTT1 and GSTT2B deletion polymorphisms in Black and Mixed Ancestry populations.
+Population Haplotype
+Control
+Frequency
+Linkage
+Disequilibrium
+GSTT1 – GSTT2B Obs Exp r2
+D9 OR p-value
+Black 0.04 0.27
+Wt – Wt 0.2268 20.21 1 (reference) -
+DEL – Wt 0.4004 d0.35 1.000 (0.74–1.36) 1.0000
+Wt – DEL 0.2223 e0.165 0.814 (0.56–1.18) 0.2796
+DEL – DEL 0.1505 30.28 0.912 (0.65–1.29) 0.6006
+Mixed Ancestry 0.07 0.33
+Wt – Wt 0.1711 0.25 1 (reference) -
+DEL – Wt 0.3313 0.25 0.766 (0.52–1.12) 0.1705
+Wt – DEL 0.3337 0.25 0.584 (0.39–0.87) 0.0078
+DEL – DEL 0.1639 0.25 0.583 (0.39–0.88) 0.0083
+p-value is for comparing each haplotype to the reference Wt-Wt haplotype.
+doi:10.1371/journal.pone.0029366.t003
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 5 December 2011 | Volume 6 | Issue 12 | e29366
+Oesophageal squamous cell carcinoma is a high-incidence
+cancer in South Africa, with smoking and alcohol drinking being
+important risk factors. We examined the interaction between
+smoking and alcohol use and the GSTT1, GSTP1 and GSTT2B
+polymorphisms on risk of OSCC by testing for a difference in
+allele frequency between smokers and non-smokers, and between
+drinkers and non-drinkers (case-only analysis). We found no
+evidence for a different effect of the GST polymorphisms in
+smokers and non-smokers in either the Black or the Mixed
+Ancestry populations. Similarly, no interaction was detected with
+alcohol use.
+The lack of an interaction betweeen the GSTT2B deletion and
+smoking or drinking in the Mixed Ancestry population may reflect
+the small numbers of cases in the non-smoking and non-drinking
+groups. For smoking, the number of non-smokers (N = 11) was too
+small to perform a meaningful statistical test. However, the
+protective effect of this deletion in smokers from the Mixed
+Ancestry population was marginally stronger than in all Mixed
+Ancestry cases.
+The low level of linkage disequilibrium between GSTT1 and
+GSTT2B which we observed in both the Black and Mixed
+Ancestry populations (r2
+,0.1) shows that the two deletions are
+independent and require separate assessment for disease risk in
+these populations. These results are broadly consistent with those
+of Zhao et al. [22], which reported strong LD between these
+deletions in Whites (r2
+= 0.699), but weaker LD in the Japanese/
+Chinese (r2
+= 0.173) and very low LD in Yorubans (r2
+= 0.005).
+Also, haplotypes with both GSTT1 and GSTT2B deletions were
+less frequent than expected in both South African populations
+(observed 5% and 16% vs 28% and 25% expected in Black and
+Mixed Ancestry populations respectively), which is consistent with
+the underrepresentation of the double-deletion haplotype in
+Whites [22]. The haplotype association test did not detect any
+association with OSCC in the Black population. The GSTT1/
+GSTT2B DEL-DEL haplotype was associated with reduced risk of
+OSCC in the Mixed Ancestry population, but the GSTT1 deletion
+had no effect either alone or in combination with GSTT2B. It is
+interesting that a small proportion of both cases and controls are
+homozygously deleted for both GSTT1 and GSTT2B, and are
+therefore likely to have little or no activity for the theta class of
+GST enzymes.
+There are several possible explanations for the protective role of
+the GSTT2B deletion in OSCC. GSTs catalyze the conjugation of
+GSH to a wide variety of electrophilic compounds to produce
+water-soluble compounds which are excreted easily from the
+organism. GSH depletion to about 20–30% of total GSH levels
+may impair the conjugation defence against electrophilic com-
+pounds, which in turn could damage DNA and cause cancer
+initiation. Thus, the combined conjugation activities of GSTs may
+lead to GSH depletion and thereby increase cancer risk.
+Conversely, a decrease in GST activity as a result of deletion of
+some of the corresponding genes may produce an optimal GSH
+level to protect the organism against carcinogens. An alternative
+explanation may relate to the fact that GSTs, in addition to
+detoxification of carcinogens, can cause toxic effects in the cell.
+GSTs can convert several classes of compounds, via conjugation
+with GSH, into cytotoxic, genotoxic and mutagenic metabolites
+that can readily attack DNA and cause cancer initiation [16]. In
+this context, it is possible that the reduced GSTT2 activity caused
+by the GSTT2B deletion may protect individuals from cancer. The
+fact that GSTs have overlapping substrate affinity is also relevant
+in this context. Thus deficiency of a single GST enzyme may not
+result in decreased detoxification of carcinogenic compounds
+because other GSTs with similar substrate specificities can
+compensate. The lack of association of GSTT1 and GSTP1
+polymorphisms with OSCC observed in this study may reflect
+provision of their enzyme activity by other carcinogen-metaboliz-
+ing enzymes. Simultaneous determination of the polymorphism of
+all the GSTs may therefore be an important prerequisite for
+reliable interpretation of the role of GST superfamily in
+susceptibility to OSCC. This could be addressed by development
+of a microarray that allowed genotyping of all known relevant
+polymorphisms in the GST and other gene families involved in the
+detoxification of carcinogens.
+In conclusion, we have shown that the presence of the recently
+described GSTT2B deletion and the consequent reduction in
+GSTT2 expression may have a protective effect on the initiation
+and development of oesophageal squamous cell carcinoma in the
+Mixed Ancestry South African population. It will be important to
+determine whether this effect can be replicated in other
+populations with a high incidence of OSCC, and to determine
+whether it contributes to susceptibility to other forms of cancer.
+Materials and Methods
+Study group
+All patients diagnosed with OSCC were recruited from Groote
+Schuur Hospital in Cape Town, with the diagnosis confirmed by
+histopathological examination. Control samples were recruited
+from the healthy individuals from same population groups as the
+patients and from the same area, age-group, gender and ethnic
+group. Demographic information including ethnicity, language,
+gender, age, smoking and drinking habits was collected by
+interviews conducted by professional research nurses. This study
+was limited to Black and Mixed Ancestry South African
+individuals since they have a high prevalence of OSCC [7]. The
+Mixed Ancestry population was formed about 300 years ago from
+the union of different ethnic groups, receiving genetic contribu-
+tions from the indigenous Khoi and San people and from
+Indonesian, European and sub-Saharan African populations [40].
+A total of 1469 blood samples (907 controls and 562 cases) were
+collected. The control group included 479 Black and 428 Mixed
+Ancestry individuals, while the case group included 330 Black and
+232 Mixed Ancestry individuals. Written informed consent was
+obtained from all control individuals and patients. Ethical
+approval for the study was obtained from the joint University of
+Cape Town/Groote Schuur Hospital Research Ethics Committee.
+Isolation and Purification of DNA
+Blood samples were collected and stored at 220uC prior to
+DNA extraction. Genomic DNA was extracted according to the
+method of Gustafson et al. [41]. DNA concentration was
+determined by PicoGreen assay and the DNA samples were
+diluted to a concentration of 50 ng/ml for storage at 220uC.
+Determination of the GSTT1 and GSTT2B deletion
+genotypes
+The GSTT1 deletion polymorphism was genotyped by multiplex
+PCR assay as previously described [21]. A four primer set was
+used to identify both the deletion and non-deletion alleles in a
+single reaction (Fig. 2A). Briefly, 50 ng of genomic DNA was
+added to buffer containing 1.5 mM MgCl2, 2 mM dNTPs,
+10 pmol of each oligonucleotide primer and 0.5 U of HotStart
+Taq polymerase, with GC-rich solution (Roche). Fragments were
+amplified in a final volume of 10 ml. The PCR reaction was
+carried out in an Applied Biosystems (Veriti Thermal Cycler) and
+thermal cycling conditions consisted of an initial hot start of
+15 min at 95uC followed by 30 cycles of denaturation at 95uC for
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 6 December 2011 | Volume 6 | Issue 12 | e29366
+30 sec, annealing at 65uC for 30 sec, and extension at 72uC for
+1:30 min, with a final extension at 72uC for 7 min. Genotyping of
+the GSTT2B deletion polymorphism was performed by multiplex
+PCR assay using a three-primer set for simultaneous amplification
+of the non- deletion and deletion alleles (Fig. 2B), as previously
+described [22]. The PCR reaction was performed in a final
+volume of 10 ml with 0.5 U Taq polymerase (GoTaq, Promega),
+1.5 mM MgCl2, 2 mM dNTPs, 10 pmol of each primer, and
+50 ng of genomic DNA. The thermal cycling conditions consisted
+of an initial hot start of 95uC for 5 min, followed by 30 cycles of
+denaturation at 95uC for 30 sec, annealing at 55uC for 30 sec, and
+extension at 72uC for 60 sec. The final extension was at 72uC for
+5 min. PCR products were separated by electrophoresis on 1%
+agarose gels in Tris-Borate-EDTA buffer. The gels were stained
+with ethidium bromide and digitally photographed using a UV
+transilluminator (Syngene Gel Documentation System, SN SYDR
+4/2525). GeneRuler DNA Ladder Mix (Fermentas) was used as
+marker.
+Determination of the GSTP1 genotype
+The GSTP1 Ile105Val SNP (rs1695) was determined by
+TaqMan genotyping assay using fluorescent allele-specific Taq-
+Man probes (reagents from Applied Biosystems). Amplification
+was performed in a total volume of 5 ml containing 2.5 of ml of
+TaqMan Master Mix (Applied Biosystems), 0,25 ml of SNP probe
+and 5 ng of DNA diluted in dH2O. The thermal cycling
+conditions consisted of an initial denaturation step at 95uC for
+15 min, followed by 45 cycles of denaturation at 92uC for 15 min
+and annealing/extension at 60uC for 60 sec. Fluorescence was
+measured using a 7900HT Fast Real-Time PCR system and
+genotypes were assigned using SDS 2.2.2 software (Applied
+Biosystems). Successful genotyping was achieved for all 3 genetic
+variants in 99% of samples, with 12 samples classified as
+undetermined and not included in the study.
+Statistical analysis
+The data were analyzed in a case-control design and the
+analysis was performed separating the Black and Mixed Ancestry
+population groups to avoid confounding effects due to ethnicity.
+Genotype counts among controls were tested for deviation from
+Hardy-Weinberg Equilibrium (HWE) using the chi-square test
+with one degree of freedom [42].
+The genetic association study was performed assuming a
+multiplicative genetic model for any risk allele. We used a chi-
+square test on the allele-based 262 table, which tests for
+differences in allele frequency between cases and controls. Odds
+ratios (OR) and 95% confidence intervals (CI) were estimated for
+the tested allele. A conservative p-value threshold of 0.0083
+( = 0.05/(2*3)) was used for assessing significance, applying a
+Bonferroni correction for multiple testing of the two population
+groups and three polymorphisms tested. Significant results were
+followed up by investigation of dominant and recessive genetic
+models.
+We performed case-only analysis of drinking and smoking by
+alleles using a 262 table of alleles against drinking or smoking
+status (yes/no). Where sample sizes were sufficiently large ($40
+cases in each group), we tested for differences in allele frequency
+using a chi-square test.
+We determined the level of LD between the GSTT1 and
+GSTT2B deletions, and tested for association of GSTT1/GSTT2B
+haplotypes with OSCC using UNPHASED [43].
+Power calculations were carried out using Quanto, assuming a
+significance level of 0.05 (http://hydra.usc.edu/GxE).
+Acknowledgments
+We wish to thank Antionette Olivier and Zenaria Abbas for assisting with
+the sample collection and processing and the patients and healthy controls
+for their participation in this study.
+Author Contributions
+Conceived and designed the experiments: MM CGM MIP. Performed the
+experiments: MM DPL. Analyzed the data: MM NJP CML CGM MIP.
+Contributed reagents/materials/analysis tools: CGM MIP. Wrote the
+paper: MM DPL NJP CML CGM MIP. Sample collection and data entry:
+MM DPL MIP.
+References
+1. Howlader N, Noone AM, Krapcho M, Neyman N, Aminou R, et al. (2011) SEER
+Cancer Statistics Review 1975–2008. Bethesda, MD: National Cancer Institute.
+Available: http://seer.cancer.gov/csr/1975_2008/. Accessed 2011 Apr 15.
+2. Day NE, Varghese C (1994) Oesophageal cancer. Cancer Surv 19–20: 43–54.
+3. Ferlay J, Shin HR, Bray F, Forman D, Mathers C, et al. (2010) Estimates of
+worldwide burden of cancer in 2008: GLOBOCAN 2008. Int J Cancer 127:
+2893–2917.
+4. Sheila C. Rankin (2008) Carcinoma of the Esophagus. Cambridge: Cambridge
+University Press. 168 p.
+5. Ma WJ, Lv GD, Zheng ST, Huang CG, Liu Q, et al. (2010) DNA
+polymorphism and risk of esophageal squamous cell carcinoma in a population
+of North Xinjiang, China. World J Gastroenterol 16: 641–647.
+6. Kamangar F, Malekzadeh R, Dawsey SM, Saidi F (2007) Esophageal Cancer in
+Northeastern Iran: A Review. Arch Iran Med 10: 70–82.
+7. Venters FS (1993) Oesophageal cancer in three regions of South Africa. S Afr
+Med J 83: 808–810.
+8. Hendricks D, Parker MI (2002) Oesophageal cancer in Africa. IUBMB Life 53:
+263–268.
+9. Dlamini Z, Bhoola K (2005) Esophageal cancer in African blacks of Kwazulu
+Natal, South Africa: an epidemiological brief. Ethn Dis 15: 786–789.
+10. Ishiguro S, Sasazuki S, Inoue M, Kurahashi N, Iwasaki M, et al. (2009) Effect of
+alcohol consumption, cigarette smoking and flushing response on esophageal cancer
+risk: a population-based cohort study (JPHC study). Cancer Lett 275: 240–246.
+11. Freedman ND, Abnet CC, Leitzmann MF, Mouw T, Subar AF, et al. (2007) A
+prospective study of tobacco, alcohol, and the risk of esophageal and gastric
+cancer subtypes. Am J Epidemiol 165: 1424–1433.
+12. Li DP, Dandara C, Walther G, Parker MI (2008) Genetic polymorphisms of
+alcohol metabolizing enzymes: their role in susceptibility to oesophageal cancer.
+Clin Chem Lab Med 46: 323–328.
+13. Dandara C, Li DP, Walther G, Parker MI (2006) Gene-environment interaction:
+the role of SULT1A1 and CYP3A5 polymorphisms as risk modifiers for
+squamous cell carcinoma of the oesophagus. Carcinogenesis 27: 791–797.
+14. Li DP, Dandara C, Parker MI (2005) Association of cytochrome P450 2E1
+genetic polymorphisms with squamous cell carcinoma of the oesophagus. Clin
+Chem Lab Med 43: 370–375.
+15. Li DP, Dandara C, Parker MI (2010) The 341C/T polymorphism in the
+GSTP1 gene is associated with increate risk of oesophageal cancer. BMC
+Genet 11: 47.
+16. Eaton DL, Bammler TK (1999) Concise review of the glutathione S-transferases
+and their significance to toxicology. Toxicol Sci 49: 156–164.
+17. Douglas KT (1987) Mechanism of action of glutathione-dependent enzymes.
+Adv Enzymol Relat Areas Mol Biol 59: 103–167.
+18. Parl FF (2005) Glutathione S-transferase genotypes and cancer risk. Cancer Lett
+221: 123–129.
+19. Coggan M, Whitbread L, Whittington A, Board P (1998) Structure and
+organization of the human theta-class glutathione S-transferase and D-
+dopachrome tautomerase gene complex. Biochem J 334: 617–623.
+20. Whittington A, Vichai V, Webb G, Baker R, Pearson W, et al. (1999) Gene
+structure, expression and chromosomal localization of murine theta class
+glutathione transferase mGSTT1-1. Biochem J 337: 141–151.
+21. Sprenger R, Schlagenhaufer R, Kerb R, Bruhn C, Brockmoller J, et al. (2000)
+Characterization of the glutathione S-transferase GSTT1 deletion: discrimina-
+tion of all genotypes by polymerase chain reaction indicates a trimodular
+genotype-phenotype correlation. Pharmacogenetics 10: 557–565.
+22. Zhao Y, Marotta M, Eichler EE, Eng C, Tanaka H (2009) Linkage
+disequilibrium between two high- frequency deletion polymorphisms: implica-
+tions for association studies involving the glutathione-S transferase (GST) genes.
+PLoS Genet 5: e1000472.
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 7 December 2011 | Volume 6 | Issue 12 | e29366
+23. Garte S, Gaspari L, Alexandrie AK, Ambrosone C, Autrup H, et al. (2001)
+Metabolic gene polymorphism frequencies in control populations. Cancer
+Epidemiol Biomarkers Prev 10: 1239–1248.
+24. Nelson HH, Wiencke JK, Christiani DC, Cheng TJ, Zuo ZF, et al. (1995) Ethnic
+differences in the prevalence of the homozygous deleted genotype of glutathione
+S-transferase theta. Carcinogenesis 16: 1243–1245.
+25. Santovito A, Burgarello C, Cervella P, Delpero M (2010) Polymorphisms of
+cytochrome P450 1A1, glutathione S-transferases M1 and T1 genes in
+Ouangolodougou (Northern Ivory Coast). Genet Mol Biol 33: 434–437.
+26. Dandara C, Sayi J, Masimirembwa CM, Magimba A, Kaaya S, et al. (2002)
+Genetic polymorphism of cytochrome P450 1A1 (Cyp1A1) and glutathione
+transferases (M1, T1 and P1) among Africans. Clin Chem Lab Med 40:
+952–957.
+27. Adams CH, Werely CJ, Victor TC, Hoal EG, Rossouw G, et al. (2003) Allele
+frequencies for glutathione S-transferase and N-acetyltranferase 2 differ in
+African population groups and may be associated with esophageal cancer or
+tuberculosis incidence. Clin Chem Lab Med 41: 600–605.
+28. Nakajima T, Wang RS, Nimura Y, Pin YM, He M, et al. (1996) Expression of
+cytochrome P450s and glutathione S-transferases in human esophagus with
+squamous cell carcinomas. Carcinogenesis 17: 1477–1481.
+29. Watson MA, Stewart RK, Smith GB, Massey TE, Bell DA (1998) Human
+glutathione S-transferase P1 polymorphisms: relationship to lung tissue enzyme
+activity and population frequency distribution. Carcinogenesis 19: 275–280.
+30. Dufour C, Svahn J, Bacigalupo A, Longoni D, Varotto S, et al. (2005) Genetic
+polymorphisms of CYP3A4, GSTT1, GSTM1, GSTP1 and NQO1 and the risk
+of acquired idiopathic aplastic anemia in Caucasian patients. Haematologica 90:
+1027–1031.
+31. Schneider J, Bernges U, Philipp M, Woitowitz HJ (2004) GSTM1, GSTT1, and
+GSTP1 polymorphism and lung cancer risk in relation to tobacco smoking.
+Cancer Lett 208: 65–74.
+32. Voho A, Impivaara O, Jarvisalo J, Metsola K, Vainio H, et al. (2006)
+Distribution of glutathione S- transferase M1, P1 and T1 genotypes in different
+age-group of Finns without diagnosed cancer. Cancer Detect Prev 30: 144–151.
+33. Komiya Y, Tsukino H, Nakao H, Kuroda Y, Imai H, et al. (2005) Human
+glutathione S-transferase A1, T1, M1, and P1 polymorphisms and susceptibility
+to prostate cancer in the Japanese population. J Cancer Res Clin Oncol 131:
+238–242.
+34. McIlwain CC, Townsend DM, Tew KD (2006) Glutathione S-transferase
+polymorphisms: cancer incidence and therapy. Oncogene 25: 1639–1648.
+35. Yang CX, Matsuo K, Wang ZM, Tajima K (2005) Phase I/II enzyme
+polymorphisms and esophageal cancer risk: a meta-analysis of the literature.
+World J Gastroenterol 11: 2531–2538.
+36. Rossini A, Rapozo DC, Soares Lima SC, Guimara˜es DP, Ferreira MA, et al.
+(2007) Polymorphisms of GSTP1 and GSTT1, but not of CYP2A6, CYP2E1 or
+GSTM1, modify the risk for esophageal cancer in a western population.
+Carcinogenesis 28: 2537–2542.
+37. Zendehdel K, Bahmanyar S, McCarthy S, Nyren O, Andersson B, et al. (2009)
+Genetic polymorphism of glutathione S-transferase genes GSTP1, GSTM1, and
+GSTT1 and risk of esophageal and gastric cardia cancers. Cancer Causes
+Control 20: 2031–2038.
+38. Adhikari M (2005) Contending Approaches to Coloured Identity and the
+History of the Coloured People of South Africa. History Compass 177: 1–16.
+39. Bruhn C, Brockmo¨ller J, Kerb R, Roots I, Borchert HH (1998) Concordance
+between enzyme activity and genotype of glutathione S-transferase theta
+(GSTT1). Biochem Pharmacol 56: 1189–1193.
+40. Tishkoff SA, Reed FA, Friedlaender FR, Ehret C, Ranciaro A, et al. (2009) The
+genetic structure and history of Africans and African Americans. Science 324:
+1035–1044.
+41. Gustafson S, Proper JA, Bowie EJ, Sommer SS (1987) Parameters affecting the
+yield of DNA from human blood. Anal Biochem 165: 294–299.
+42. Rodriguez S, Gaunt TR, Day IN (2009) Hardy-Weinberg equilibrium testing of
+biological ascertainment for Mendelian randomization studies. Am J Epidemiol
+169: 505–514.
+43. Dudbridge F (2008) Likelihood-based association analysis for nuclear families
+and unrelated subjects with missing genotype data. Hum Hered 66: 87–98.
+GST Polymorphisms and OSCC Risk in South Africa
+PLoS ONE | www.plosone.org 8 December 2011 | Volume 6 | Issue 12 | e29366
+

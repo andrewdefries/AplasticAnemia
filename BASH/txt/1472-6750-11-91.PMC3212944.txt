@@ -1,0 +1,1100 @@
+RESEARCH ARTICLE Open Access
+Ubiquitin fusion expression and tissue-dependent
+targeting of hG-CSF in transgenic tobacco
+Li Tian1,2,3
+and Samuel SM Sun2,3*
+Abstract
+Background: Human granulocyte colony-stimulating factor (hG-CSF) is an important human cytokine which has
+been widely used in oncology and infection protection. To satisfy clinical needs, expression of recombinant hG-CSF
+has been studied in several organisms, including rice cell suspension culture and transient expression in tobacco
+leaves, but there was no published report on its expression in stably transformed plants which can serve as a more
+economical expression platform with potential industrial application.
+Results: In this study, hG-CSF expression was investigated in transgenic tobacco leaves and seeds in which the
+accumulation of hG-CSF could be enhanced through fusion with ubiquitin by up to 7 fold in leaves and 2 fold in
+seeds, leading to an accumulation level of 2.5 mg/g total soluble protein (TSP) in leaves and 1.3 mg/g TSP in
+seeds, relative to hG-CSF expressed without a fusion partner. Immunoblot analysis showed that ubiquitin was
+processed from the final protein product, and ubiquitination was up-regulated in all transgenic plants analyzed.
+Driven by CaMV 35S promoter and phaseolin signal peptide, hG-CSF was observed to be secreted into apoplast in
+leaves but deposited in protein storage vacuole (PSV) in seeds, indicating that targeting of the hG-CSF was tissue-
+dependent in transgenic tobacco. Bioactivity assay showed that hG-CSF expressed in both seeds and leaves was
+bioactive to support the proliferation of NFS-60 cells.
+Conclusions: In this study, the expression of bioactive hG-CSF in transgenic plants was improved through
+ubiquitin fusion strategy, demonstrating that protein expression can be enhanced in both plant leaves and seeds
+through fusion with ubiquitin and providing a typical case of tissue-dependent expression of recombinant protein
+in transgenic plants.
+Keywords: hG-CSF, plant bioreactor, recombinant protein, tobacco, ubiquitin
+Background
+Human granulocyte colony-stimulating factor (hG-CSF)
+is a hematopoietic growth factor which plays an impor-
+tant role in neutrophil-based immune defense against
+invading bacteria and other microorganisms due to its
+regulatory role in the proliferation, differentiation, survi-
+val and activation of neutrophils and their precursors
+mechanism [1,2]. Several reports showed that hG-CSF
+can be used to reinforce the immune system in patients
+with human immunodeficiency virus (HIV), pneumonia,
+diabetic foot infections, leukemia and febrile neutropenia
+[3] and to treat cancer patients undergoing chemother-
+apy to alleviate the depression of white blood cell levels
+produced by cytotoxic therapeutic agents [4,5]. Human
+G-CSF is now one of the important pharmaceutical pro-
+teins in cancer treatment. To satisfy the clinical needs of
+hG-CSF, recombinant hG-CSF has been produced in sev-
+eral different organisms, such as mammalian cells, yeast
+and Escherichia coli [6-8].
+In the last twenty years, many recombinant therapeutic
+proteins have been expressed in plant production plat-
+forms [9,10] and the potential of large-scale production
+of pharmaceutical proteins using plant bioreactors as effi-
+cient and economical systems has been demonstrated
+[11-15]. However, there are only a few reports on the
+expression of hG-CSF in plants. Hong et al. [16]
+expressed recombinant hG-CSF in rice cell suspension
+culture with a maximum yield of 2.5 mg/L after 13 days
+incubation, but the expression in cell culture was not
+stable and dropped quickly. Besides this rice cell culture
+* Correspondence: ssun@cuhk.edu.hk
+2
+Life Science Division, Graduate School at Shenzhen, Tsinghua University,
+Shenzhen 518055, China
+Full list of author information is available at the end of the article
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+© 2011 Tian and Sun; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.
+example, to our knowledge, there was only one report
+[17] on the expression of hG-CSF in plant, in which hG-
+CSF was expressed in the amount of 500 mg/kg fresh
+tobacco leaves through a transient expression system.
+While transient expression of recombinant proteins has
+its value more in laboratory research, stable expression in
+transgenic plants is desirable for large-scale field produc-
+tion at low cost. However, low protein yield has been a
+persistent challenge in further development of transgenic
+plants as a practical recombinant protein production
+platform. In previous studies in an attempt to express
+hG-CSF in plants, we experienced only low levels of its
+expression (lower than 0.05% total soluble protein) in
+transgenic Arabidopsis and tobacco [18].
+It has been reported that expression of recombinant
+proteins could be enhanced by fusion with ubiquitin in
+E.coli [19,20] and yeast [21,22] by several hundred times.
+During such expression, ubiquitin was cleaved accurately
+from the fusion protein by endogenous ubiquitin-specific
+proteases (Ubps) in yeast, while unprocessed fusion pro-
+tein accumulated in E. coli due to the lack of Ubps in pro-
+karyotes. Transgenic plants had been reported capable of
+processing ubiquitin from its fusion partner proteins,
+including b- glucuronidase, luciferase and cholera toxin B
+subunit, and enhancing their expression in transgenic
+leaves by 2 to 4 fold in yield [23-25].
+Here we demonstrated the application of ubiquitin
+fusion strategy to substantially enhance the accumula-
+tion and yield of hG-CSF in both tobacco leaves and
+seeds.
+Results
+Construction of expression vectors
+The CaMV 35S promoter in binary vector pBI121 was
+used to construct hG-CSF chimeras and the phaseolin sig-
+nal peptide was introduced to direct hG-CSF into the
+plant cell secretory pathway. As shown in Figure 1, Con-
+struct SH, carrying the phaseolin signal peptide/hG-CSF
+gene, would direct the expression and entry of hG-CSF
+into endoplasmic reticulum (ER) for secretion and Con-
+struct USH, containing ubiquitin and signal peptide/hG-
+CSF genes, would allow an examination on the influence
+of ubiquitin fusion on the activities of Construct SH. After
+plant transformation and regeneration, 10 transgenic
+tobacco plants were obtained for Construct SH and 8 for
+USH.
+hG-CSF expression in leaves
+The expression of hG-CSF in tobacco leaves carrying
+different gene constructs were detected by SDS-PAGE
+and immunoblot analysis (Figure 2). For total soluble
+protein sample, no distinct difference in protein banding
+patterns was observed between wild-type (WT) and
+transgenic plants (Figure 2A). For Construct SH, hG-
+CSF was synthesized with the same molecular weight
+(MW) of 18.6 kD as commercially available hG-CSF
+produced in E.coli (Figure 2B). As to Construct USH,
+i.e. hG-CSF in fusion with ubiquitin, if ubiquitin could
+be cleaved, the signal peptide would direct the expressed
+hG-CSF polypeptide into ER and the final product
+would have a MW of 18.6 kD as SH transgenic plants; if
+not, the fusion protein would remain intact with a MW
+about 30 kD. The results of immunoblot analysis (Figure
+2B) showed that the synthesized hG-CSF was of 18.6
+kD, indicating both ubiquitin and signal peptide were
+absent in the final protein product. Because the removal
+of signal peptide generally occurs at ER while ubiquitin
+in cytosol, it appears that ubiquitin was processed before
+the nascent protein entering into the ER. When ubiqui-
+tin antibody was used to detect the total soluble pro-
+teins in SH and USH plants, no protein band of similar
+molecular weight (18.6 kD) was detected (Figure 3B),
+Figure 1 Schematic presentation of expression cassettes. (A) Construct SH, hG-CSF chimeric gene with phaseolin signal peptide; (B) USH, as
+(A) but fusion with ubiquitin. RB, right border and LB, left border of Agrobacterium T-DNA; CaMV35S pro, cauliflower mosaic virus 35S gene
+promoter; and NOS ter, nopaline synthase gene terminator.
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 2 of 14
+confirming that ubiquitin was not present in the final
+product.
+The accumulation levels of hG-CSF in leaves were esti-
+mated by immunoblot through comparison with known
+amounts of commercial hG-CSF (Figure 2C, Figure 3A
+and Table 1). On average, the level was about 0.3 mg/g
+total soluble protein (TSP) in SH transgenic plants while
+0.89 mg/g TSP in USH transgenic plants. When individual
+plants were considered, the maximum accumulation of
+hG-CSF in transgenic USH leaves could reach 2.58 mg/g
+TSP, 7 fold higher than the 0.38 mg/g in SH transgenic
+plants, suggesting that ubiquitin fusion did enhance the
+accumulation of hG-CSF significantly in transgenic
+tobacco leaves.
+Analysis on transgenic tobacco leaves carrying a single
+transgene
+To investigate the impact from ubiquitin fusion on the
+expression of hG-CSF, three individual plants carrying a
+single copy of target gene (based on Southern blot analy-
+sis, data not shown) were selected from SH and USH
+transgenic plants, respectively, and real-time PCR (RT-
+PCR) was used to quantify the relative expression of hG-
+CSF at steady-state mRNA level. As shown in Figure 3A,
+upper panel, the relative expression of hG-CSF at tran-
+scription level in SH and USH transgenic plants showed
+no significant differences. However, the expression of
+hG-CSF at protein level in leaves of these plants dis-
+played marked differences (Figure 3A, middle and lower
+panels) and the accumulation levels on average were 0.21
+mg/g TSP for SH plants and 0.42 mg/g TSP for USH
+plants while the maximum level was about 0.23 mg/g
+TSP for SH and 0.89 mg/g for USH, suggesting that even
+among the transgenic plants carrying single transgene,
+ubiquitin fusion could still notably enhance the accumu-
+lation of hG-CSF in transgenic tobacco leaves.
+To examine the transgene effect on endogenous ubiqui-
+tin and ubiquitination in transgenic plants, dot immuno-
+blot analysis of total soluble protein from leaves was
+performed using antibody against plant ubiquitin (Figure
+3B). At the level of 2 μg/dot of protein and film exposure
+time of 2 minutes during immunoblotting, clear signals
+were detected for all samples transformed with Construct
+SH or USH while no positive signal was detected in WT
+Figure 2 Expression analysis of hG-CSF expressed in tobacco leaves. (A) SDS-PAGE of total soluble protein samples (20 μg/lane) exracted
+from tobacco leaves. Lanes SH, USH, see Figure 1; WT, wild type tobacco; and M, Precision Plus Protein standards (Bio-Rad). (B) Immunoblot
+analysis of total soluble protein (20 μg/lane for plant samples, 10-20 ng/lane for comercial hG-CSF as positive control) using anti-hG-CSF
+antibody. (C) Expression of hG-CSF in individual SH or USH plants in addition to the plants shown in Figure 3 by immunoblot analysis. Arrows
+marked the location of the molecular weight at 20 and 15 kD. Numbers 4-10 in SH samples and 4-8 in USH samples denoted the individual
+plants analyzed. Different amounts of Comercial hG-CSF, labled by +, were loaded as postive controls at 5, 10 and 20 ng/lane accordingly.
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 3 of 14
+Figure 3 Analysis on individual transgenic plants harboring single copy of transgene. (A) Expression analysis of hG-CSF on individual
+transgenic plant leaves harboring single copy of transgene by real time PCR (upper panel) and immunoblot analysis (middle panel). Lower
+panel, the expression levels in individual plants determined by immunoblot as shown in middle panel. The triangle symbol marked the location
+of the molecular weight at 18.6 kD in accordance with comercial hG-CSF standard. All values in upper panel were normalized with 18S rRNA
+level and relative to the lowest expression level in SH transgenic plants. Grey squares represented the average expression of the construct based
+on 3 individual plants (1, 2, 3) and P values were obtained by two-tailed Student t-test on expression levels in the population of Constructs SH
+and USH. (B) Immunoblot analysis of endogenous ubiquitin in non-transgenic (WT) and trangenic plants using antibody against ubiquitin. Upper
+panel, dot immunoblot analysis of total soluble protein (2 μg/dot) in tobacco leaves, and lower panel, immunoblot analysis of total soluble
+protein (10 μg/lane). Free ubiquitin, a 8.5 kD protein, was indicated by arrow, and ubiquitin-cojugated proteins, including the smear high
+molecular weight component, were denoted by the bracket. Lanes SH and USH, see Figure 1.
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 4 of 14
+plants, suggesting that ubiquitination of transgenic plants
+might be up-regulated. To confirm the results of dot
+immunoblot analysis, SDS-PAGE of the total soluble pro-
+tein (10 μg/lane) followed by immunoblot analysis were
+performed. As shown in Figure 3B, after the same expo-
+sure time, notable smear protein patterns (ubiquitin-con-
+jugated proteins) were observed in the leaves of SH and
+USH transgenic plants, but fewer bands in the WT plants.
+These results indicated that ubiquitination was up-regu-
+lated in transgenic plants.
+hG-CSF expression in seeds
+The expression of hG-CSF in transgenic tobacco seeds
+was analyzed by similar methods as in leaves. The expres-
+sion of hG-CSF in tobacco seeds harboring Construct SH
+or USH was detected by SDS-PAGE and immunoblot
+analysis (Figure 4). For total soluble protein samples, no
+distinct difference in protein banding patterns was
+observed between WT and transgenic plants by SDS-
+PAGE analysis (Figure 4A), and immunoblot analysis
+showed that in both SH and USH transgenic seeds, hG-
+CSF was synthesized with the same MW of 18.6 kD as
+commercially available hG-CSF produced in E.coli (Fig-
+ure 4B), suggesting that both ubiquitin and signal peptide
+were absent in the final protein product.
+As shown in Figure 4C and Table 1 the accumulation
+level of hG-CSF protein, on average, was 0.5 mg/g total
+soluble protein (TSP) in SH transgenic seeds while 0.97
+mg/g TSP in USH, a 2 fold over the SH seeds, and the
+highest accumulation of hG-CSF was 0.77 mg/g TSP in
+SH and 1.38 mg/g TSP in USH transgenic seeds, respec-
+tively, indicating that ubiquitin fusion could also be
+applied to enhance the accumulation of hG-CSF in seeds.
+When single copy of transgene was considered, the accu-
+mulation levels on average were 0.45 mg/g TSP for SH
+plants and 0.93 mg/g TSP for USH plants, suggesting
+that among the transgenic plants carrying single copy of
+transgene, ubiquitin fusion could still enhance the
+accumulation of hG-CSF in transgenic seeds. A summary
+on the expression of hG-CSF in transgenic tobacco was
+shown in Table 1.
+Intracellular localization of hG-CSF
+Based on the information of the two constructs as shown
+in Figure 1, with no other targeting peptide, except the
+phaseolin signal peptide introduced to the hG-CSF, it is
+likely that the expressed hG-CSF in plant cells should be
+secreted via the default pathway. The intracellular locali-
+zations of hG-CSF in leaf and seed from the same trans-
+genic plant carrying Construct USH were analyzed by
+immuno-electron microscopy. The target hG-CSF was
+found to appear in the apoplast and cell wall of leaf
+(Figure 5A and 5B). However, for transgenic tobacco
+seeds, hG-CSF was observed in protein storage vacuoles
+(PSV) (Figure 5C and 5D) while no positive labeling in
+apoplast or other cell compartments was detected (data
+not shown).
+Bioactivity assay
+Bioactivity analyses of hG-CSF expressed in transgenic
+leaves and seeds were performed by measuring their
+capability to promote the proliferation of hG-CSF-
+dependent NFS-60 cell line which grow only under the
+presence of hG-CSF or other known growth factors
+[26]. Total soluble protein samples (TSP) containing 1
+ng of recombinant hG-CSF (determined by immunoblot,
+data not shown) extracted from USH leaves and seeds
+were used for bioactivity assay. For comparison, protein
+samples from transgenic SH or WT leaves and seeds,
+containing the same amount of TSP as in USH samples,
+were also included. To exclude potential influence from
+transgenic effect, total soluble protein samples from
+leaves and seeds of transgenic tobacco carrying empty
+pBI121 plasmid (denoted as EP) were used as negative
+controls while commercial hG-CSF produced by E.coli
+was used as positive control.
+Table 1 Accumulation of hG-CSF in tobacco leaves and seeds
+Tissue Copy number1
+Construct Number of plants2
+Average Yield3
+* Maxium Yield4
+*
+Leaf single SH 3 0.21 ± 0.01 0.23
+USH 3 0.42 ± 0.40 0.89
+_ SH 10 0.30 ± 0.07 0.38
+USH 8 0.89 ± 0.77 2.58
+Seed single SH 3 0.45 ± 0.11 0.53
+USH 3 0.93 ± 0.12 1.07
+_ SH 10 0.50 ± 0.15 0.77
+USH 8 0.97 ± 0.19 1.38
+1
+, Copy number of trangene determined by Southern blot: single, 1 copy of transgene; -, without consideration to transgene copy number.
+2
+, Number of individual transgenic plants anlyzed for each tissue, construct and different copy numbers of transgene.
+3
+, Values are the means ± stand deviation (SD).
+4
+, Maxium yield among transgenic plants anlyzed for each construct and tissue.
+*, mg/g TSP for leaf and seed, estimated by quatitative analysis of immunoblot data with ImageJ software.
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 5 of 14
+As shown in Figure 6, after 72 hours incubation, the
+cells treated with extraction buffer (sample EB) showed
+similar baseline proliferation level with the untreated
+sample (sample CT). When treated with commercial hG-
+CSF (sample G), the proliferation of NFS-60 cells was
+promoted by 220% over the untreated sample CT while
+sample EB+G (extraction buffer supplemented with hG-
+CSF) showed similar results, confirming that no influence
+was from the extraction buffer and the validity of the
+analysis system.
+In the analysis of seed extracts, the cells treated with
+samples WT and EP (transgenic plant carrying empty
+PBI121 plasmid) showed similar proliferation levels as the
+untreated (CT), suggesting that no distinct background
+effect from tobacco seed proteins and transgene process.
+Compared with the samples WT and EP, USH protein
+Figure 4 Expression analysis of hG-CSF in transgenic tobacco seeds. (A) SDS-PAGE analysis of total soluble protein (50 μg/lane) extracted
+from tobacco seeds. Lanes SH, USH, see Figure 1; WT, wild type tobacco; and M, Precision Plus Protein standards (Bio-Rad). (B) Immunoblot
+analysis of total soluble protein (20 μg/lane for sample proteins and 10-20 ng/lane for comercial hG-CSF as positive control) using anti-hG-CSF
+antibody. (C) Expression of hG-CSF in individual SH or USH plants as detected by immunoblot analysis. Single, immunoblot analysis of hG-CSF of
+individual transgenic plants harboring single copy of transgene. Arrows marked the location of the molecular weight at 20 and 15 kD. Numbers
+4-10 in SH samples and 4-8 in USH samples denoted the individual plants analyzed. Different amounts of Comercial hG-CSF, labled by +, were
+loaded as postive controls at 5, 10 and 20 ng/lane accordingly.
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 6 of 14
+Figure 5 Subcellular localization of hG-CSF in transgenic tobacco leaves and seeds. The leaf (A, B) and seed (C, D) samples from the same
+transgenic tobacoo plant harboring Construct USH was analyzed by immunoelectron microscopy using anti-hG-CSF antibody. Arrow indicated
+immuno-labeling of hG-CSF. Panel D represented a higher magnification of the rectangle area in panel C. Apo, apoplast; CW, cell wall; PSV,
+protein storage vacuole; and OB, oil body.
+Figure 6 Bioactivity analysis of the expressed hG-CSF in transgenic leaves and seeds. Total soluble protein (TSP) extracted from leaves
+(leaf extracts) and seeds (seed extracts) was analyzed. CT, untreated sample; G, samples treated with 1 ng comercial hG-CSF; EB, extraction
+buffer; EB+G, extraction buffer supplemented with 1 ng comercial hG-CSF; WT, SH and USH, TSP from WT, SH and USH leaves and seeds; EP, TSP
+from transgenic plant seeds harboring empty pBI121 vector; WT+G, WT sample supplemented with 1 ng comercial hG-CSF; EP+G, EP sample
+supplemented with 1 ng comercial hG-CSF. Number in Y axis represented the raltive value to untreated sample (CT).
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 7 of 14
+sample containing 1 ng expressed hG-CSF could promote
+the proliferation of NFS-60 cells, indicating that the
+expressed hG-CSF in USH seeds was bioactive. SH protein
+sample containing relatively less (0.9 ng) hG-CSF also
+showed biological activity but with corresponding decrease
+in cell proliferation activity. However, the bioactivity of
+USH sample was lower than those of samples G and
+EB+G which contained the same amount of hG-CSF while
+similar results were also observed with samples WT+G
+and EP+G, suggesting that some compounds in tobacco
+seeds may influence the efficacy of hG-CSF.
+In the analysis of leaf extracts, proliferation effect of
+NFS-60 cells by USH and SH leaf protein samples were
+also observed, suggesting that the expressed hG-CSF in
+leaves was also in bioactive form. A notable difference
+was that the total soluble protein from tobacco leaves, in
+comparison to that from seeds, appeared to show some
+inhibitory effect on the growth of NFS-60 cells, as the
+cells treated with leaf extracts, with or without hG-CSF,
+yielded lower proliferation activity than the seed extracts
+and the control group. Further, protein samples from old
+leaves and leaves after freezing-thawing treatment
+appeared to exert harmful effect on the growth of NFS-
+60 cells even with the addition of commercial hG-CSF
+(see Additional file 1), suggesting that some compounds
+extracted from tobacco leaves were harmful to the
+growth of NFS-60 cells or influenced the function of cul-
+ture medium.
+Discussion
+Many recombinant therapeutic proteins have been
+expressed in plant-based bioreactor, but only a few stu-
+dies were on the expression of hG-CSF which is widely
+used in clinical treatments. In this article, we reported
+the expression of hG-CSF in transgenic tobacco leaves
+and seeds. To improve the expression of recombinant
+proteins in E. coli and yeast, ubiquitin fusion strategy has
+been used and shown to significantly enhance their
+expression [19-22]. However, only a few reports were on
+the use of ubiquitin fusion strategy in transgenic plant
+leaves [23-25] but not in seeds. Through the strategy of
+ubiquitin fusion, our study demonstrated that the accu-
+mulation of hG-CSF could be increased up to 2 to 7 fold
+in leaves and 2 fold in seeds relative to unfused hG-CSF
+expression, suggesting that the expression enhancement
+is applicable to plant seeds as well and providing the first
+evidence on using the ubiquitin fusion strategy to
+enhance the expression of a target protein in seeds which
+are considered as bioreactor platform with distinct
+advantages [15].
+Expression of recombinant hG-CSF was studied in rice
+and tobacco cell suspension cultures and tobacco leaves
+through transient expression system but not in transgenic
+plants (see Additional file 2). It’s known that transient
+expression often lead to high accumulation of target
+recombinant proteins favoring laboratory study. However,
+for scale-up production of plant-based pharmaceuticals,
+transgenic plant is a better choice. This study provides the
+first proof on the expression of bioactive recombinant hG-
+CSF in transgenic plants, and that the production can be
+augmented by ubiquitin fusion strategy, with a maximum
+accumulation level reaching 2.5 mg/g (0.25%) total soluble
+protein (TSP) in leaves and 1.3 mg/g (0.13%) TSP in seeds.
+However, these levels of expression, though notably
+improved in comparison to other reports (see Additional
+file 2), are still in low range. The expression of another
+valuable human colony stimulating factor (CSF), human
+granulocyte-macrophage colony stimulating factor (hGM-
+CSF), widely used as an adjuvant in clinical treatment of
+neutropenia and aplastic anemia [27], has been reported
+by several studies (see Additional file 2). Through a survey
+on the transgenic expression of CSF in plants (see Addi-
+tional file 2), except the high expression levels through
+transient expression system and a case in rice seed, it
+seems that human colony stimulating factor is difficult to
+be expressed at levels higher than 0.1% TSP, possibly
+resulting from its poor-efficient translation in plants due
+to unfavorable codon usage and/or instability of the
+expressed human CSF in plant cell environments. Thus,
+further investigations are necessary for improvement.
+The native hG-CSF is a glycoprotein with an O-glycosy-
+lation site at residue Thr133 and the MW of hG-CSF is
+about 18.6 kD without glycosylation as shown in Figures 2
+and 4 (positive controls, produced by E. coli) but varied
+from 17 to 24 kD when produced in plant-based systems
+(see Additional file 2). The expressed hG-CSF in tobacco
+leaves and seeds in this study showed a MW around 18.6
+kD as the unglycosylated hG-CSF. Whether partial or
+complete glycosylation occurred couldn’t be concluded as
+the glycosylation patterns may vary among different
+organisms, tissues and even different cells. In this connec-
+tion, potential immunogenicity of recombinant proteins as
+a result of non-human glycosylation should also be consid-
+ered in the application of plant bioreactors. This aspect of
+concern has been reviewed in several published review
+papers [9,13,14,28]. To tackle the problem on N-glycosyla-
+tion, many efforts were made to control the glycosylation
+of recombinant proteins in plants, such as knock-in or
+knock-out of related enzymes and retention of the target
+protein in ER [13,28]. We also suggested some different
+strategies on using membrane anchors for delivering
+recombinant proteins via or bypass Golgi transport path-
+way in control of glycosylation [14]. Only little attention
+has been paid to the O-glycosylation status of therapeutic
+proteins produced in transgenic plants thus far, although
+marked differences in the O-glycosylation machinery exist
+between humans and plants [28]. It was anticipated that
+the presence of plant-modified O-glycans would lead to
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 8 of 14
+accelerated clearance of the glycoprotein from the blood
+[28]. However, no direct proof could be provided at pre-
+sent time. In the case of hG-CSF, no N-glycosylation site
+could be predicted and thus the glycosylation is likely to
+come from O-linked modification.
+However, immunogenicity of O-linked glycans is pre-
+sently unknown. Further, the glycosylation of hG-CSF is
+not essential for its bioactivity in terms of clinical effect
+[29,30], and the bioactivity assay showed that the
+expressed hG-CSF possessed in vitro biological activity
+in inducing the proliferation of NFS-60 cells, indicating
+that hG-CSF produced in both tobacco leaves and seeds
+was in bioactive form and ubiquitin fusion expression
+didn’t affect its bioactivity.
+There are a total of five cysteine residues in hG-CSF
+protein and two intra-chain disulfide bonds are formed
+between Cys36 and Cys42 and between Cys64 and Cys74 for
+proper folding of the protein [31]. The free cysteine resi-
+due in mature hG-CSF protein may link with the free
+cysteine residue of another hG-CSF protein through disul-
+fide bonding to form a dimer. In this study, dimerization
+of hG-CSF protein through disulfide bond formation was
+indeed observed in transgenic seeds, but no dimerization
+was detectable in leaves (see Additional file 3), suggesting
+that the environment of seed organ favors recombinant
+hG-CSF to form dimer. Although it has been reported
+that hG-CSF functions as monovalent ligand and hG-CSF
+dimers showed lower in vitro activity than the monomers
+[32], the recombinant hG-CSF produced in seeds showed
+similar biological activity as the commercial hG-CSF pre-
+sented in WT protein extract in this study, which in turn
+suggested the occurrence of proper folding of the
+expressed hG-CSF.
+On the enhancement of protein expression through
+fusion with ubiquitin, several mechanisms were proposed:
+(i) N-end protection [20,25] - Rapid folding of the nascent
+ubiquitin moiety at the N-terminus of an emerging poly-
+peptide chain may protect the still unfolded chain from
+co-translational degradation; (ii) Folding facilitation
+[33,34] - It was suggested that expression of ubiquitin
+fusion would enhance the solubility of recombinant pro-
+teins in E.coli, and ubiquitin moiety at the N-terminus
+facilitated the folding of the emerging protein; and (iii)
+Efficient translation [20,25] - Ubiquitin is an extremely
+conserved protein, and the favorable codon bias of ubiqui-
+tin enhances translation of the appended coding region.
+However, there is no sufficient evidence to support these
+proposed explanations and the enhancement mechanism
+by ubiquitin fusion remains unclear. In our study, RT-PCR
+results indicated that there was no significant difference in
+the level of steady-state mRNA between fusion of hG-CSF
+with ubiquitin or not. The difference observed in expres-
+sion between fusion to ubiquitin (USH) and unfused (SH)
+does not appear to be affected at the transcriptional level,
+and therefore differences in expression levels are post-
+transcriptionally affected, perhaps at translational or post-
+translational level. This hypothesis is based on the oberva-
+tion that when hG-CSF was expressed without targeting
+through the secretory pathway (no signal peptide) in
+tobacco, the recombinant protein was not detected (see
+Additional file 4, Construct H). This may suggest that the
+recombinant protein was readily degraded when expressed
+in the cytosol and failed to accumulate; however when
+fused to ubiquitin hG-CSF was detected (see Additional
+file 4, Construct UH). Together, this supports the notion
+that ubiquitin moiety at the N-terminus may protect the
+protein from proteolytic attack in transgenic plants. How-
+ever, it remains possible that ubiquitin facilitates folding
+and efficient translation, which in turn contribute to the
+enhancement.
+Ubiquitin processing from the initial translation product
+was shown to be so efficient that unprocessed product
+couldn’t be detected and such processing has been
+observed in several plants including tobacco, rice and
+potato [25]. In this study, transgenic plants carrying Con-
+struct USH could lead to the expression of hG-CSF with-
+out ubiquitin in the final product, further supporting the
+efficient processing of ubiquitin in tobacco leaves and
+seeds. It has been indicated that ubiquitin is processed
+from the translation product by Ubps co-translationally
+and the efficient and rapid cleavage of ubiquitin guaran-
+tees the docking of signal peptide with the ER and protein
+import into the ER [25,35]. These molecular events are
+supported by our study in that the expressed hG-CSF was
+imported into the ER and further transported to apoplast
+in leaves and protein storage vacuoles in seeds. Although
+we did not determine the N-terminal sequence of the
+expressed hG-CSF in tobacco, ubiquitin cleavage site has
+been previously demonstrated by studies to occur precisely
+after the final amino acid glycine, residue G-76, in the C-
+terminus of ubiquitin [25,36,37]. Using similar cloning
+procedure and chimeric gene constructs (see Methods),
+we expect that the ubiquitin fusion strategy will direct the
+production of recombinant hG-CSF without change in its
+amino acid sequence at the N-terminus.
+Transgenic plants have been developed for many years,
+but the possible endogenous changes in transgenic plants
+that may bring about by the effects of transgenes have not
+been fully studied. Luo et al. reported that more proteins
+were degraded by ubiquitin-proteasome pathway in the
+transgenic endosperm when human granulocyte-macro-
+phage colony stimulation factor (hGM-CSF) was expressed
+in rice cells [38]. This consideration was based on the
+observation of up-regulation of ubiqutinated proteins
+which might lead to possible ubiquitination and degrada-
+tion of hGM-CSF through the ubiquitin-proteasome path-
+way. Our study also showed similar up-regulation of
+protein ubiquitination in transgenic plants, suggesting the
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 9 of 14
+possible occurrence of more ubiquitin-dependent protein
+degradation events. However, in our case, no ubiquitinated
+hG-CSF was detected in transgenic plants harboring the
+Construct H (see Additional file 4) by immuno-precipita-
+tion and immunoblot assay (data not shown), so the
+degradation pathway of recombinant hG-CSF in trans-
+genic plants can not be asserted. Interestingly, ubiquitin
+fusion led to variable expression of the hG-CSF in indivi-
+dual plants even those with single copy of transgene
+(Figure 3A, Construct USH) while the plants without ubi-
+quitin fusion showed relatively consistent expression
+(Figure 3A, Construct SH). Because ubiquitin is an impor-
+tant protein functioning in many different aspects of all
+eukaryotic cells [39], the additional ubiquitin together with
+the transgene effects may result in broader impact on the
+endogenous environment of transgenic plants than non-
+fusion transgenic plants, which in turn may lead to varia-
+tions at the level of hG-CSF expression under ubiquitin
+fusion.
+Studies on the intracellular location of recombinant pro-
+teins offer helpful hints in choosing a strategy on their
+expression and downstream purification in the develop-
+ment of plant bioreactor. In this study, using a constitu-
+tively expression promoter, the protein of interest was
+proposed to be secreted via the default pathway because no
+particular sequence information was provided for specific
+transport of the recombinant hG-CSF. However, while hG-
+CSF was found to be secreted outside the cell in leaves, it
+appeared only in the PSV of seeds. Based on the sequence
+of hG-CSF, no targeting peptide could be predicted. It thus
+appears that tissue-dependent localization of hG-CSF in
+transgenic tobacco happened in our case. There were some
+reports on tissue or cell-specific deposition of exogenous
+proteins in plants, such as the secretion of phytohemagglu-
+tinin, a PSV resident seed protein, into the apoplast of root
+tissues of the common bean (Phaseolus vulgaris) [40] and
+the accumulation of pathogenesis-related protein, normally
+secreted by other cell types, in the vacuoles of specialized
+cells called crystal idioblasts [41]. These examples indicate
+that protein targeting may be regulated in a tissue- or cell-
+specific manner [42], and recombinant proteins expressed
+in seeds may be deposited in unexpected places [42-46]. To
+compare intracellular trafficking in different tissues, Draka-
+kaki et al. [42] used Aspergillus niger phytase as a model
+glycoprotein to study the intracellular fate of recombinant
+protein in the leaves, calli and seeds of rice and found that
+the recombinant protein was efficiently secreted from leaf
+cells and calli as expected, but in contrast, it was retained in
+the endoplasmic reticulum (ER)-derived prolamin bodies
+and protein storage vacuoles in the endosperm cells. In the
+study, however, the recombinant protein expression was
+driven by different promoters, i.e. CaMV 35S promoter for
+leaves and calli while Gt1 promoter for seeds. In our study,
+driven by the CaMV 35S promoter only, hG-CSF produced
+in transgenic tobacco was observed in apoplast in leaves
+but in PSV in seeds, providing a more typical case of tissue-
+specific deposition of an exogenous protein in transgenic
+plant.
+Although our and previous studies indicated that recom-
+binant proteins could be accumulated into unexpected
+compartments in transgenic seeds instead of via secretory
+pathway [42-46], there were still some notable inverse
+situations. Leite et al. [47] reported that a recombinant
+human growth hormone, driven by a seed-specific promo-
+ter from sorghum g -kafirin seed storage protein gene with
+a signal peptide from a Coix prolamin, was secreted into
+the apoplastic space in transgenic tobacco seeds. There-
+fore, tissue-specific protein sorting appears to be a compli-
+cated process, and further research is needed to elucidate
+the underlying mechanisms, such as the effects of promo-
+ters and individual proteins.
+The bioactivity analyses on total soluble protein from
+tobacco leaves and seeds were also performed in this
+study. Results revealed that compared with seed extracts,
+total soluble protein from leaves had lower promotional
+activity on the proliferation of NFS-60 cells, suggesting
+that the source of tissues might affect the bioactivity of the
+product. Although total soluble protein extracted from
+seeds didn’t exert adverse effect on the growth of NFS-60
+cells, it did somewhat influence the efficacy of hG-CSF,
+suggesting that some endogenous proteins or compounds
+in the host plants may react with the target protein to
+inhibit its bioactivity. Total protein samples from young
+leaves had minor while old or degraded leaves (such as
+after repeated freezing and thawing) exerted greater inhi-
+bitory effect on the growth of NFS-60 cells, suggesting
+that developmental and physiological status and condi-
+tions of the plant tissues may also affect the bioactivity of
+the products. In summary, the selection of host plants, the
+endogenous chemical and biological environments of spe-
+cific organs or tissues and their storage conditions should
+be considered when transgenic plants are used to produce
+therapeutic proteins. Thus proper stage of tissue collec-
+tion, strict tissue storage conditions, efficient extraction
+and purification steps to obtain material free of endogen-
+ous host cell proteins/components are critical in achieving
+desired efficacy and safety of the therapeutic.
+Conclusions
+In this study, the expression of bioactive hG-CSF, an
+important human cytokine widely used in clinical treat-
+ment, was enhanced through the strategy of ubiquitin
+fusion in both transgenic tobacco leaves and seeds, pro-
+viding the first evidence of the expression of hG-CSF in a
+stably transformed plant and the applicability of the ubi-
+quitin fusion strategy to improve recombinant protein
+expression in transgenic plant seeds. Tissue-dependent
+targeting of recombinant hG-CSF was also observed in
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 10 of 14
+the study, suggesting that protein sorting may be affected
+by a tissue-specific mechanism and subcellular localiza-
+tion should be considered in designing recombinant pro-
+tein production in different tissues of transgenic plants.
+Methods
+Construction of expression vectors
+Ubiquitin coding sequence was cloned from genomic
+DNA of tobacco leaves using primers u-f (5’-
+GCTCTAGAATGCAGATCTTCGTCAAAACCCTC-3’)
+and u-r (5’-GCGAGCTCACCACCGCGGAGACG-
+GAG-3’) designed based on the tobacco ubiquitin gene
+[GenBank: AJ309010], in which a SacII site (under-
+lined) was introduced 10 bp upstream from the terim-
+inal G codon [25] without any shift and change in the
+open reading frame. The hG-CSF gene was donoted by
+Dr. Wei Han (The Memorial Sloan-Kettering Cancer
+Center, New York). DNA encoding hG-CSF with pha-
+seolin signal peptide was cloned into pBI121 binary
+vector as shown in Figure 1, resulting in Construct SH.
+Phaseolin signal peptide was used to direct the
+expressed hG-CSF into ER. To guarantee no additional
+amino acid introduced to N-terminus of signal peptide
+and hG-CSF, DNA encoding hG-CSF with phaseolin
+signal peptide was modified to include an appended
+DNA sequence of the downstream 16 bp of ubiquitin
+gene, CACCGCGGAGACGGAG, and cloned into
+pBI121 binary vector with ubiquitin sequence through
+the introduced SacII site (underlined), resulting in
+Construct USH (Figure 1). All the expression cassettes
+were driven by the cauliflower mosaic virus (CaMV)
+35S promoter and terminated by the nopaline synthase
+(NOS) terminator.
+Agrobacterium-mediated transformation
+All chimeric genes in pBI121 expression vectors were
+transformed into Agrobacterium tumefaciens LBA4404 by
+electroporation. Young leaves from wild type tobacco were
+cut into small square discs (0.5 × 0.5 cm2
+) and immersed
+in 10× diluted agrobacterial culture for 10 minutes. The
+leaf discs were first transferred to sterile filter paper for
+excess agrobacterium removal and then transferred onto
+solidified co-cultivation MS medium (Sigma). After co-cul-
+tivation, the transformants were selected on MS medium
+containing 500 mg/L carbenicillin (Sigma) and 100 mg/L
+kanamycin (Sigma). Regenerated tobacco plants were
+transferred to soil finally and grown in green house (The
+Chinese University of Hong Kong) to maturity. Positive
+transformants were identified by PCR screening and
+Southern blot analysis of genomic DNA.
+RNA extraction and Real-time PCR
+Total RNA was extracted using Tripure Isolation Reagent
+(Roche) from the young fresh leaves of 21-day-old
+transgenic plants and purified with RNeasy Plant Mini Kit
+(Qiagen). Total RNA samples was diluted with RNase-free
+water, and stored in -80°C ultra low temperature refrigera-
+tor. RNA concentration was determined by OD260 mea-
+surement using a spectrophotometer and the quality of
+RNA was checked by 1% agarose/formaldehyde gel
+electrophoresis.
+The level of hG-CSF transcript was quantified by two-
+step real-time PCR. Complementary cDNA synthesis was
+conducted following the kit protocol for Powerscript
+Reverse Transcriptase (Clontech) using Oligo-dT primer
+(Promega). For hG-CSF amplification, cDNA product
+from 100 ng total RNA was used as template in each RT-
+PCR reaction with h-f (5’- CCACCCCCCTGGGCCCT-3’)
+and h-r (5’-GGGCTGGGCAAGGTGGC-3’) primers, and
+10 ng total RNA for 18 S rRNA [GenBank: AJ236016] as
+internal control with 18 s-f (5’-AGGAATTGACG-
+GAAGGGCA-3’) and 18 s-r (5’-GTGCGGCCCAGAA-
+CATCT-3’) primers. RT-PCRs were performed using the
+Bio-Rad iQ5 Real-Time PCR System with SYBR Green
+Supermix Kit (Bio-Rad). All samples, including the exter-
+nal standards and non-template control, were run in tripli-
+cate. The reaction was initiated by activation of Taq
+polymerase at 95°C for 5 min, followed by 40 three-step
+amplification cycles consisting of 30 s denaturation at 95°
+C, 30 s anealing at 60°C and 45 s extension at 72°C. The
+fluorescence signal was measured at the end of each
+extension step at 72°C. A final dissociation stage was run
+to generate a melting curve for verification of amplification
+product specificity. Following the final PCR cycle, the reac-
+tions were heat-denatured at 0.5°C/10 s from 55 to 95°C.
+Data analysis was performed by Gene Expression Function
+on the Bio-Rad iQ5 software.
+Protein extraction and Immunoblot
+Leaf
+Total soluble protein was extracted from fresh young leaves
+of 21-day-old transgenic plants with 50 mM phosphate buf-
+fered saline (PBS) extraction buffer in the presence of com-
+plete protease inhibitor (cocktail tablets, Roche). Fresh
+leaves (1 g) were ground into powder in a mortar with
+liquid nitrogen and 1 ml extraction buffer was added in.
+Whole homogenate was transferred into 2 ml Eppendorf
+tube, incubated on ice for 15 min and centrifuged at 20000
+× g for 10 minutes. Supernatant was collected and centri-
+fuged for another 10 minutes. Final supernatant was col-
+lected as total soluble protein (TSP) from leaves. Protein
+concentration was determined by BCA assay (Pierce) with
+bovine serum albumin (Sigma) as standard.
+Seed
+Mature seeds were used to extract the recombinant pro-
+tein. Seeds (10 mg) were ground into powder in a mor-
+tar with 200 μl 50 mM phosphate buffered saline (PBS)
+extraction buffer in the presence of complete protease
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 11 of 14
+inhibitor (cocktail tablets, Roche) and sonicated for 30
+minutes in ice water. The remained steps were as those
+of the leaf procedure.
+Immunoblot/SDS-PAGE
+Total soluble protein extracted from leaf or seed was
+diluted with 4× loading buffer (0.2 M Tris-HCl, pH 6.8;
+0.8 g SDS; 40% Glycerol; 5%b-mercaptoethanol; 50 mM
+EDTA; 8 mg Bromophenol Blue), boiled for 5 minutes and
+separated on 15% SDS-PAGE with 10-50 μg protein/lane
+followed by Coomassie Brilliant Blue Staining for protein
+visualization. For immunoblot, the total protein separated
+by SDS-PAGE was directly transferred to PVDF membrane
+without staining. To test on the formation of dimers by
+recombinant hG-CSF, protein samples were treated with
+4× loading buffer without b-mercaptoethanol as controls.
+The immunoblotting was carried out using rabbit polyclo-
+nal anti-hG-CSF antibody (PeproTech) as primary antibody
+and anti-rabbit IgG-Peroxidase antibody (Sigma) as second-
+ary antibody and developed using the ECL detection system
+(Amersham Co., Bucks, UK). Recombinant hG-CSF from
+E.coli was purchased from PeproTech and used as positive
+control. In the immunoblot analysis of ubiquitin and ubi-
+quitin-conjugated proteins, rabbit polyclonal anti-ubiquitin
+antibody (specific to plant ubiquitin, Novus Biologicals) was
+used as primary antibody. To estimate the expression level
+of hG-CSF in transgenic plants, the same amount of total
+soluble protein from leaves or seeds was loaded onto SDS-
+PAGE during immunoblotting while leaving 3 lanes for
+positive control standards of commercial hG-CSF at 5, 10
+and 20 ng/lane, respectively. The detected immunoactive
+bands of the experimental samples were compared with the
+positive controls and quantified by densitometry using the
+ImageJ software (National Institute of Health, USA; http://
+rsbweb.nih.gov/ij/). All the quantity of samples fell within
+the amount of the three control standards.
+Bioactivity Assay
+The proliferation assay of NFS-60 cells in response to the
+presence of hG-CSF measured by MTT [3-(4,5-
+dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide]
+method was used to test the bioactivity of expressed hG-
+CSF in plants. NFS-60 cells were cultured with RPMI-
+1640 medium (Gibco) supplemented with 10% fatal bovine
+serum (FBS) and commercial recombinant hG-CSF (2 ng/
+ml, PeproTech) and kept under 5% CO2 at 37 °C in a
+humidified condition. For MTT test, total soluble protein
+extracted from leaves and seeds (see Protein extraction
+and immunoblot above) were used for analysis and NFS-
+60 cells (1 × 104
+per well) were cultured in a 96 well plate
+and treated with the medium (RPMI-1640 medium sup-
+plemented with 10% FBS) containing the following sam-
+ples: commercial recombinant hG-CSF (1 ng); total
+soluble protein extracted from leaf (TSP-L) and seed
+(TSP-S) of transgenic plant harboring the Construct USH
+containing 1 ng expressed hG-CSF; TSP-L and TSP-S
+from SH plant, containing the same amount of total pro-
+tein as the USH samples while 0.8 and 0.9 ng expressed
+hG-CSF, respectively; TSP-L and TSP-S from transgenic
+plant harboring empty pBI121 plasmid (denoted as EP),
+containing the same amount of total protein as the USH
+samples; TSP-L and TSP-S from EP plant (as above) sup-
+plemented with 1 ng commercial hG-CSF; TSP-L and
+TSP-S from wildtype (WT) plants, containing the same
+amount of total protein as the USH samples; TSP-L and
+TSP-S fromWT plant (as above) supplemented with 1 ng
+commercial hG-CSF; extraction buffer (EB, PBS in supple-
+ment with protein inhibitor); extraction buffer supplemen-
+ted with 1 ng commercial hG-CSF. All treatments,
+including the untreated control, were carried out in tripli-
+cate. Cells were incubated at 37 °C for 72 hours. Finally,
+20 μl of MTT (5 mg/ml) was added and the samples were
+left to incubate at 37 °C for 4 h. The medium was dis-
+carded and the formazan dye was dissolved in DMSO (100
+μl) at 37 °C for 30 min. Absorbance was measured for all
+samples at 550 nm using a VICTOR3 V™ Multilabel
+Counter (PerkinElmer, USA).
+Immunohistochemistry
+Leaf
+Immunogold electron microscopy (EM) on ultrathin sec-
+tions prepared from fresh young leaves was performed as
+previously described [48]. Small discs of tobacco leaves
+were frozen in a high-pressure freezing apparatus (Leica
+EM PACT2). Substitution was performed in an AFS freeze
+substitution unit (Leica). Samples were stepwise infiltrated,
+embedded, and UV polymerized with Lowicryl HM20
+(Electron Microscopy Sciences). Immunolabeling on
+HM20 ultrathin sections was done using standard proce-
+dures with hG-CSF antibodies at 1:50 dilution, and gold-
+coupled secondary antibodies at 1:50. Aqueous uranyl acet-
+ate/lead citrate post-stained sections were examined in
+Hitachi H-7650 transmission EM with a CCD camera
+(Hitachi High-Tech, http://www.hitachi-hitec.com) operat-
+ing at 80 kV.
+Seed
+Immature seeds were collected at 14-16 days after flow-
+ering and fixed at 4°C for overnight in 4%(v/v) parafor-
+maldehyde and 0.1% (v/v) glutaraldehyde buffered at pH
+7.2 with 0.1 M PBS buffer. The fixed samples were
+dehydrated and embedded in LR White resin. Immuno-
+labelling on ultrathin sections were performed with the
+same procedure as for leaf.
+Additional material
+Additional file 1: Impact of total soluble protein extracted from
+tobacco leaves on the proliferation of NFS-60 cells. The bioactivities
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 12 of 14
+of total soluble protein samples from young, old and freeze-thaw treated
+leaves in promotion of the proliferation of NFS-60 cells were compared.
+Additional file 2: Summary on expression of human colony-
+stimulating factor (h-CSF) by plant-based platform. The published
+reports on the expression of h-CSF in different plants, including
+transformation method, vector construction, expression level, molecular
+weight and bioactivity of the target protein, were summarized.
+Additional file 3: Dimerization analysis of hG-CSF expressed in
+transgenic tobacco leaves and seeds. Immunoblot analysis on non-
+reduced samples of total soluble protein from leaves and seeds showed
+that partial dimerization of hG-CSF through disulfide bonding occurred
+in both SH and USH transgenic seeds while no dimer formed between
+hG-CSF monomers in leaves.
+Additional file 4: Impact of ubiquitin moiety at N-terminus on the
+expression of hG- CSF in transgenic tobacco. In this experiment,
+Construct H carrying the hG-CSF gene and Construct UH containing the
+ubiquitin and hG-CSF genes, were used for tobacco transformation. As
+both constructs were without a signal peptide, the synthesis of hG-CSF
+was directed in the cytosol. Results showed that accumulation of hG-CSF
+was only detected in UH transgenic plants but not in H plants.
+Acknowledgements
+We thank Prof. Liwen Jiang (The Chinese University of Hong Kong) for
+advice on EM, Mr. Freddie Waikwan Kwok (The Chinese University of Hong
+Kong) for his excellent technical assistance and Dr. Jinfang Zhang (The
+Chinese University of Hong Kong) for her help in NFS-60 cell culture. We
+would like to acknowledge the support of our bioreactor work from the
+Hong Kong RGC Earmarked Grant CUHK4580/05M, the Hong Kong UGC-AoE
+Plant and Agricultural Biotechnology Project AoE-B-07/09 and the State
+(China) Key Laboratory of Agrobiotechnology, the Chinese University of
+Hong Kong, Shatin, Hong Kong.
+Author details
+1
+School of Life Sciences, Tsinghua University, Beijing 100084, China. 2
+Life
+Science Division, Graduate School at Shenzhen, Tsinghua University,
+Shenzhen 518055, China. 3
+School of Life Sciences, The Chinese University of
+Hong Kong, Shatin, N.T., Hong Kong, China.
+Authors’ contributions
+LT and SSMS conceived of the study and participated in its design. LT
+carried out the experiments. LT and SSMS performed the statistical analysis
+and prepared the manuscript. All authors read and approved the final
+manuscript.
+Received: 22 July 2011 Accepted: 11 October 2011
+Published: 11 October 2011
+References
+1. Palmblad J: The role of granulocytes in inflammation. Scand J Rheumatol
+1984, 13:163-172.
+2. Barreda DR, Hanington PC, Belosevic M: Regulation of myeloid
+development and function by colony stimulating factors. Dev Comp
+Immunol 2004, 28:509-554.
+3. Souza LM, Boone TC, Gabrilove J, Lai PH, Zsebo KM, Murdock DC, Chazin VR,
+Bruszewski J, Lu H, Chen KK, Barendt J, Platzer E, Moore MAS, Mertelsmann R,
+Welte K: Recombinant human granulocyte colony-stimulating factor:
+effects on normal and leukemic myeloid cells. Science 1986, 232:61-65.
+4. Bishop B, Koay DC, Sartorelli AC, Regan L: Reengineering granulocyte
+colony-stimulating factor for enhanced stability. J Biol Chem 2001,
+276:33465-33470.
+5. Duhrsen U, Villeval JL, Boyd J, Kannourakis G, Morstyn G, Metcalf D: Effects
+of recombinant human granulocyte colony-stimulating factor on
+hematopoietic progenitor cells in cancer patients. Blood 1988,
+72:2074-2081.
+6. Devlin JJ, Devlin PE, Myambo K, Lilly MB, Rado TA, Warren MK: Expression
+of granulocyte colony-stimulating factor by human cell lines. J Leukoc
+Biol 1987, 41:302-306.
+7. Tsuchiya M, Nomura H, Asano S, Kaziro Y, Nagata S: Characterization of
+recombinant human granulocyte-colony-stimulating factor produced in
+mouse cells. EMBO J 1987, 6:611-616.
+8. Perez-Perez J, Martinez-Caja C, Barbero JL, Gutierrez J: DnaK/DnaJ
+supplementation improves the periplasmic production of human
+granulocyte-colony stimulating factor in Escherichia coli. Biochem Biophys
+Res Commun 1995, 210:524-529.
+9. Giddings G, Allison G, Brooks D, Carter A: Transgenic plants as factories for
+biopharmaceuticals. Nat Biotechnol 2000, 18:1151-1155.
+10. Ko K, Brodzik R, Steplewski Z: Production of antibodies in plants:
+approaches and perspectives. Curr Top Microbiol Immunol 2009, 332:55-78.
+11. Doran PM: Foreign protein degradation and instability in plants and
+plant tissue cultures. Trends Biotechnol 2006, 24:426-432.
+12. Facchini PJ, Dicosmo F: Plant cell bioreactor for the production of
+protoberberine alkaloids from immobilized Thalictrum rugosum cultures.
+Biotechnol Bioeng 1991, 37:397-403.
+13. Twyman RM, Stoger E, Schillberg S, Christou P, Fischer R: Molecular
+farming in plants: host systems and expression technology. Trends
+Biotechnol 2003, 21:570-578.
+14. Jiang L, Sun SSM: Membrane anchors for vacuolar targeting: application
+in plant bioreactors. Trends Biotechnol 2002, 20:99-102.
+15. Lau OS, Sun SSM: Plant seeds as bioreactors for recombinant protein
+production. Biotechnol Adv 2009, 27:1015-1022.
+16. Hong SY, Kwon TH, Jang YS, Kim SH, Yang MS: Production of bioactive
+human granulocyte-colony stimulating factor in transgenic rice cell
+suspension cultures. Protein Expr Purif 2006, 47:68-73.
+17. Zvereva AS, Petrovskaya LE, Rodina AV, Frolova OY, Ivanov PA,
+Shingarova LN, Komarova TV, Dorokhov YL, Dolgikh DA, Kirpichnikov MP,
+Atabekov JG: Production of biologically active human myelocytokines in
+plants. Biochem (Mosc) 2009, 74:1187-1194.
+18. Lee JK: Transgenic Expression of Human Granulocyte Colony-Stimulating
+Factor (hG-CSF) in tobacco and Arabidopsis Seeds. Mphil thesis The
+Chinese University of Hong Kong, Department of Biology; 2002.
+19. Yoo Y, Rote K, Rechsteiner M: Synthesis of peptides as cloned ubiquitin
+extensions. J Biol Chem 1989, 264:17078-17083.
+20. Butt TR, Jonnalagadda S, Monia BP, Sternberg EJ, Marsh JA, Stadel JM,
+Ecker DJ, Crooke ST: Ubiquitin fusion augments the yield of cloned gene
+products in Escherichia coli. Proc Nat Acad Sci USA 1989, 86:2540-2544.
+21. Ecker DJ, Stadel JM, Butt TR, Marsh JA, Monia BP, Powers DA, Gorman JA,
+Clark PE, Warren F, Shatzman A, Crooke ST: Increasing gene expression in
+yeast by fusion to ubiquitin. J Biol Chem 1989, 264:7715-7719.
+22. Baker RT, Smith SA, Marano R, McKee J, Board PG: Protein expression using
+cotranslational fusion and cleavage of ubiquitin. J Biol Chem 1994,
+269:25381-25386.
+23. Hondred D, Vierstra RD: Novel applications of the ubiquitin-dependent
+proteolytic pathway in plant genetic engineering. Curr Opin Biotechnol
+1992, 3:147-151.
+24. Mishra S, Yadav DK, Tuli R: Ubiquitin fusion enhances cholera toxin B
+subunit expression in transgenic plants and the plant-expressed protein
+binds GM1 receptors more efficiently. J Biotechnol 2006, 127:95-108.
+25. Hondred D, Walker JM, Mathews DE, Vierstra RD: Use of ubiquitin fusions
+to augment protein expression in transgenic plants. Plant Physiol 1999,
+119:713-724.
+26. Weinstein Y, Ihle JN, Lavu S, Reddy EP: Truncation of the C-Myb Gene by
+a Retroviral Integration in an Interleukin 3-Dependent Myeloid-Leukemia
+Cell-Line. Proc Nat Acad Sci USA 1986, 83:5010-5014.
+27. Mulder AB, Dewolf JTM, Smit JW, Vanoostveen JW, Vellenga E: Correction
+of Neutropenia by Gm-Csf in Patients with a Large Granular
+Lymphocyte-Proliferation. Ann Hematol 1992, 65:91-95.
+28. Gomord V, Faye L: Posttranslational modification of therapeutic proteins
+in plants. Curr Opin Plant Biol 2004, 7:171-181.
+29. Bonig H, Silbermann S, Weller S, Kirschke R, Korholz D, Janssen G, Gobel U,
+Nurnberger W: Glycosylated vs non-glycosylated granulocyte colony-
+stimulating factor (G-CSF) - results of a prospective randomised
+monocentre study. Bone Marrow Transpl 2001, 28:259-264.
+30. Hoglund M: Glycosylated and non-glycosylated recombinant human
+granulocyte colony-stimulating factor (rhG-CSF) - what is the difference?
+Med Oncol 1998, 15(4):229-233.
+31. Lu HS, Boone TC, Souza LM, Lai PH: Disulfide and Secondary Structures of
+Recombinant Human Granulocyte Colony Stimulating Factor. Arch
+Biochem and Biophys 1989, 268:81-92.
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 13 of 14
+32. Fidler K, Jevsevar S, Milunovic T, Skrajnar S, Premzl A, Kunstelj M, Zore I,
+Podobnik B, Kusterle M, Caserman S, Kenig M, Smilovic V, Porekar VG: The
+Characterization and Potential use of G-CSF Dimers and their Pegylated
+Conjugates. Acta Chim Slov 2011, 58:1-8.
+33. Varshavsky A: Ubiquitin fusion technique and related methods. Methods
+Enzymol 2005, 399:777-799.
+34. Wang Z, Li H, Guan W, Ling H, Mu T, Shuler FD, Fang X: Human SUMO
+fusion systems enhance protein expression and solubility. Protein Expr
+Purif 2010, 73:203-208.
+35. Wilkinson KD: Regulation of ubiquitin-dependent processes by
+deubiquitinating enzymes. FASEB J 1997, 11:1245-1256.
+36. Staub JM, Garcia B, Graves J, Hajdukiewicz PT, Hunter P, Nehra N,
+Paradkar V, Schlittler M, Carroll JA, Spatola L, Ward D, Ye G, Russell DA:
+High-yield production of a human therapeutic protein in tobacco
+chloroplasts. Nat Biotechnol 2000, 18:333-338.
+37. Baker RT: Protein expression using ubiquitin fusion and cleavage. Curr
+Opin Biotechnol 1996, 7:541-546.
+38. Luo J, Ning T, Sun Y, Zhu J, Zhu Y, Lin Q, Yang D: Proteomic analysis of
+rice endosperm cells in response to expression of hGM-CSF. J Proteome
+Res 2009, 8:829-837.
+39. Schnell JD, Hicke L: Non-traditional functions of ubiquitin and ubiquitin-
+binding proteins. J Biol Chem 2003, 278:35857-35860.
+40. Kjemtrup S, Borkhsenious O, Raikhel NV, Chrispeels MJ: Targeting and
+release of phytohemagglutinin from the roots of bean seedlings. Plant
+Physiol 1995, 109:603-610.
+41. Dixon DC, Cutt JR, Klessig DF: Differential targeting of the tobacco PR-1
+pathogenesis-related proteins to the extracellular space and vacuoles of
+crystal idioblasts. EMBO J 1991, 10:1317-1324.
+42. Drakakaki G, Marcel S, Arcalis E, Altmann F, Gonzalez-Melendi P, Fischer R,
+Christou P, Stoger E: The intracellular fate of a recombinant protein is
+tissue dependent. Plant Physiol 2006, 141:578-586.
+43. Arcalis E, Marcel S, Altmann F, Kolarich D, Drakakaki G, Fischer R, Christou P,
+Stoger E: Unexpected deposition patterns of recombinant proteins in
+post-endoplasmic reticulum compartments of wheat endosperm. Plant
+Physiol 2004, 136:3457-3466.
+44. Wright KE, Prior F, Sardana R, Altosaar I, Dudani AK, Ganz PR, Tackaberry ES:
+Sorting of glycoprotein B from human cytomegalovirus to protein
+storage vesicles in seeds of transgenic tobacco. Transgenic Res 2001,
+10:177-181.
+45. Tackaberry ES, Dudani AK, Prior F, Tocchi M, Sardana R, Altosaar I, Ganz PR:
+Development of biopharmaceuticals in plant expression systems:
+cloning, expression and immunological reactivity of human
+cytomegalovirus glycoprotein B (UL55) in seeds of transgenic tobacco.
+Vaccine 1999, 17:3020-3029.
+46. Chikwamba RK, Scott MP, Mejia LB, Mason HS, Wang K: Localization of a
+bacterial protein in starch granules of transgenic maize kernels. Proc Nat
+Acad Sci USA 2003, 100:11127-11132.
+47. Leite A, Kemper EL, da Silva MJ, Luchessi AD, Siloto RMP, Bonaccorsi ED, El-
+Dorry HF, Arruda P: Expression of correctly processed human growth
+hormone in seeds of transgenic tobacco plants. Mol Breeding 2000,
+6:47-53.
+48. Wang J, Li Y, Lo SW, Hillmer S, Sun SS, Robinson DG, Jiang L: Protein
+mobilization in germinating mung bean seeds involves vacuolar sorting
+receptors and multivesicular bodies. Plant Physiol 2007, 143:1628-1639.
+doi:10.1186/1472-6750-11-91
+Cite this article as: Tian and Sun: Ubiquitin fusion expression and
+tissue-dependent targeting of hG-CSF in transgenic tobacco. BMC
+Biotechnology 2011 11:91.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+Tian and Sun BMC Biotechnology 2011, 11:91
+http://www.biomedcentral.com/1472-6750/11/91
+Page 14 of 14
+

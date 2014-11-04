@@ -1,0 +1,991 @@
+JCB: Article
+The Rockefeller University Press  $30.00
+J. Cell Biol. Vol. 191 No. 4  861–874
+www.jcb.org/cgi/doi/10.1083/jcb.201006102 JCB 861
+Correspondence to Joseph E. Italiano Jr.: jitaliano@rics.bwh.harvard.edu
+Abbreviations used in this paper: ANOVA, analysis of variance; CCD, charge-
+coupled device; CMFDA, 5-chloromethylfluorescein diacetate; DIC, differential
+interference contrast; GPIX, glycoprotein IX; HSD, honestly significant difference;
+MVB, multivesicular body; PP, proplatelet/preplatelet; PRP, platelet-rich plasma.
+Introduction
+Platelet production represents the final stage of megakaryocyte
+development. This process, during which a giant endomitotic
+cell converts into 102
+–103
+individual platelets, is highly special-
+ized and has great clinical significance. Thrombocytopenia is a
+major clinical problem encountered across several conditions,
+including immune (idiopathic) thrombocytopenic purpura,
+myelodysplastic syndromes, chemotherapy-induced thrombo­
+cytopenia, aplastic anemia, human immunodeficiency virus
+infection, and major cardiac surgery, among others. The mag-
+nitude of the problem is not trivial. Platelet transfusions total
+well over 10 million units per year in the United States, and
+their steady increase in demand continues to challenge the U.S.
+blood bank community (Sullivan et al., 2007). A better under­
+standing of the mechanisms of platelet formation will likely
+lead to improved therapies for thrombocytopenia. Furthermore,
+the ability to control in vitro megakaryocyte expansion and
+maturation into platelets could result in an important source of
+platelets for transfusion.
+The proplatelet model of platelet formation recognizes
+that differentiated megakaryocytes extend long, branching pro-
+cesses, designated proplatelets, which are comprised of platelet-
+sized swellings in tandem arrays that are connected by thin
+cytoplasmic bridges. Proplatelets have been identified both
+in vitro and in vivo (Leven, 1987; Leven and Yee, 1987; Tablin
+et al., 1990), and proplatelet-producing megakaryocytes yield
+platelets that are structurally and functionally similar to blood
+platelets (Behnke, 1969; Becker and De Bruyn, 1976; Radley
+and Scurfield, 1980; Tavassoli and Aoki, 1981; Choi et al.,
+1995; Italiano et al., 1999). Mice lacking distinct hematopoietic
+transcription factors have severe thrombocytopenia and fail to
+produce proplatelets in culture, underscoring the correlation to
+platelet biogenesis in vivo (Shivdasani et al., 1995; Shivdasani and
+Orkin, 1996; Lecine et al., 1998; Shivdasani, 2001). Because of the
+M
+egakaryocytes generate platelets by remodel-
+ing their cytoplasm into long proplatelet ex-
+tensions, which serve as assembly lines for
+platelet production. Although the mechanics of proplatelet
+elongation have been studied, the terminal steps of pro-
+platelet maturation and platelet release remain poorly
+understood. To elucidate this process, released proplate-
+lets were isolated, and their conversion into individual
+platelets was assessed. This enabled us to (a) define
+and quantify the different stages in platelet maturation,
+(b) identify a new intermediate stage in platelet production,
+the preplatelet, (c) delineate the cytoskeletal mechan-
+ics involved in preplatelet/proplatelet interconversion,
+and (d) model proplatelet fission and platelet release.
+Preplatelets are anucleate discoid particles 2–10 µm across
+that have the capacity to convert reversibly into elongated
+proplatelets by twisting microtubule-based forces that can
+be visualized in proplatelets expressing GFP–1-tubulin.
+The release of platelets from the ends of proplatelets occurs
+at an increasing rate in time during culture, as larger
+proplatelets undergo successive fission, and is potentiated
+by shear.
+Cytoskeletal mechanics of proplatelet maturation
+and platelet release
+Jonathan N. Thon,1,3
+Alejandro Montalvo,1
+Sunita Patel-Hett,1,2,3
+Matthew T. Devine,1
+Jennifer L. Richardson,1
+Allen Ehrlicher,1,3
+Mark K. Larson,4
+Karin Hoffmeister,1,3
+John H. Hartwig,1,3
+and Joseph E. Italiano Jr.1,2,3
+1
+Translational Medicine Division, Brigham and Women’s Hospital, Boston, MA 02115
+2
+Vascular Biology Program, Department of Surgery, Children’s Hospital, Boston, MA 02115
+3
+Harvard Medical School, Boston, MA 02115
+4
+Augustana College, Sioux Falls, SD 57197
+© 2010 Thon et al.  This article is distributed under the terms of an Attribution–
+Noncommercial–Share Alike–No Mirror Sites license for the first six months after the pub-
+lication date (see http://www.rupress.org/terms). After six months it is available under a
+Creative Commons License (Attribution–Noncommercial–Share Alike 3.0 Unported license,
+as described at http://creativecommons.org/licenses/by-nc-sa/3.0/).
+THEJOURNALOFCELLBIOLOGY
+JCB • VOLUME 191 • NUMBER 4 • 2010 862
+populations were prepared from megakaryocyte cultures at times
+of maximal proplatelet elaboration and characterized for the
+presence/absence of a nucleus, morphology, and size (Fig. 1 A)
+after double staining for nuclei and tubulin (microtubules). This
+enabled us to define and quantify different stages in platelet
+maturation and identify a new intermediate stage in platelet
+production, the preplatelet. Preplatelets are anucleate discoid
+particles considerably larger (2–10 µm) than platelets that have
+the capacity to reversibly convert into proplatelets (anucleate
+beaded strings with platelet-sized tear drops at each end) during
+cell culture. Fig. 1 B shows the distribution of cellular elements
+in a fresh preparation after the removal of most megakaryocytes;
+a few megakaryocytes (<1% of the total number of objects)
+contaminate the cultures, although immature intermediates
+(proplatelets and preplatelets) and platelets make up the bulk
+of the culture. Proplatelets were subdivided into two groups by
+their perimeter, large (>50 µm) or small (30–50 µm), with large
+proplatelets initially dominant. Preplatelets and platelets were
+distinguished by their diameters (>2 µm or ≤2 µm, respectively).
+Large preplatelets were subdivided into four groups based on their
+diameters (8–10, 6–8, 4–6, or 2–4 µm). These were quantified
+and normalized to total proplatelet/preplatelet (PP) counts to
+account for variability in density between different preparations.
+Proplatelets and preplatelets were equally distributed and com-
+prised 62% of the total number of objects. The majority (69%)
+of preplatelets have small (2–4 µm) diameters, approaching the
+size of mature platelets. The rest of the preplatelets were distrib-
+uted as follows, based on their diameters: 4–6 (25%), 6–8 (4%),
+and 8–10 µm (2%). EM revealed that preplatelets are discoid
+because they have a cortical micro­tubule band and contain ma-
+terials destined for platelets, such as secretory granules, invagi-
+nated membranes, and mitochondria (Fig. 1 C). This is expected
+if larger PPLT progenitors generate multiple smaller intermedi-
+ates, which themselves go on to release two or more individual
+platelets. From estimates of cytoplasmic volume based on EM
+images, the largest preplatelets carry sufficient material to gen-
+erate 6–20 mature platelets. 37% of the elements in the enriched
+proplatelet culture were platelet sized and appeared identical to
+platelets from mouse blood after tubulin staining. These were
+presumably left over after the final centrifugation step and rep-
+resent platelets generated at an earlier point in culture.
+Proplatelets/preplatelets can mature into
+platelets in vivo
+Although proplatelet release (Junt et al., 2007) suggests frag-
+mentation into platelets in blood, this supposition has not ever
+been observed or formally demonstrated. To establish that
+platelet release/maturation can occur within the blood vas-
+culature, freshly enriched preplatelet/proplatelet isolates were
+5-chloromethylfluorescein diacetate (CMFDA) labeled (Fig. 2,
+A and C [top]) and transfused into mice. CMFDA-labeled blood
+platelets were used as a control in parallel transfusions. Fig. 2 C
+(bottom) shows combined immunofluorescence and differential
+interference contrast (DIC) photographs of the platelet frac-
+tion from the blood of these mice 2 h after the proplatelet or
+platelet transfusion. CMFDA-labeled platelets recovered in the
+blood of recipient mice are identified, and when proplatelets
+dramatic morphological changes that occur during proplatelet
+production, the cytoskeletal mechanics that drive these trans-
+formations have been the focus of many studies. Nevertheless,
+the terminal stages of proplatelet maturation and platelet release
+remain poorly understood. This is due in part to significant
+limitations in the field, such as the asynchronous maturation
+of hematopoietic stem cells in culture and our inability to syn-
+chronize proplatelet production. Megakaryocyte cultures always
+contain a complex mix of hematopoietic stem cells, immature
+megakaryocytes, proplatelet-producing megakaryocytes, re-
+leased proplatelets (which can range dramatically in size and
+shape), and platelets (Behnke and Forer, 1998; Italiano et al.,
+2007). As there are currently no methods available to isolate
+the multiple intermediate stages in platelet release, most stud-
+ies to date have focused on the qualitative aspects of mega-
+karyocyte maturation.
+Physiological evidence of proplatelet production has been
+supported by multiple images of proplatelets extending into the
+sinusoidal blood vessels of the bone marrow (Behnke, 1969;
+Becker and De Bruyn, 1976; Kessel and Kardon, 1979). Never­
+theless, these represent only static snapshots of megakaryo-
+cyte maturation in situ and have yielded competing mechanistic
+models of platelet release. Junt et al. (2007) recently used live
+imaging with multiphoton intravital microscopy to visualize
+platelet production in vivo. Although they demonstrate that
+bone marrow megakaryocytes will extend proplatelets and
+release fragments into the vasculature, the observations they
+present raise questions of their own. For example, most of the
+shed megakaryocyte fragments appear to greatly exceed platelet
+dimensions, suggesting that proplatelet morphogenesis contin-
+ues in peripheral blood. Because blood is moving, individual
+platelet release may be assisted by intravascular shear forces as
+proplatelets enter and become trapped in capillaries. The larg-
+est capillary bed is in lung, and it has been reported that pro-
+platelet counts are higher in prepulmonary vessels compared
+with postpulmonary vessels (Handagama et al., 1987), whereas
+platelet counts are higher in the latter. However, evidence of a
+dependence of proplatelet fragmentation into platelets on hydro­
+dynamic forces is missing.
+In vivo observations that validate the proplatelet model
+and provide clues into the final steps of platelet production also
+raise several questions: how do proplatelets mature into indi-
+vidual platelets, is there an intermediate structure as proplate-
+lets convert into platelets, what cytoskeletal forces are involved,
+and does vascular shear regulate individual platelet release?
+This study defines the multiple intermediate stages in proplate-
+let maturation and begins to identify relevant mechanistic inter-
+actions leading to platelet release from proplatelets.
+Results
+Characterization of the morphological
+stages as proplatelets mature
+into platelets
+To study distinct stages in platelet production in vitro, released
+proplatelets were isolated by a novel centrifugation and gra-
+dient sedimentation protocol (Fig. S1). Enriched proplatelet
+863The final stages of platelet production • Thon et al.
+Further analysis of the flow cytometry data reveals that the PP
+fraction is rapidly sequestered after its infusion into mice; e.g.,
+PPs are not found in blood in the initial 1:1 ratio to platelets
+present in the samples. In addition, the increase in CMFDA-
+labeled platelet counts is faster in vivo than occurs for platelets
+in culture (Fig. S2, B, C, and E), suggesting that blood flow–
+induced shear stress and/or receptor-mediated signaling may
+accelerate platelet release.
+Platelet release in culture
+The variety of different-sized preplatelets in the proplatelet culture
+suggested to us that we were observing an ongoing maturation pro-
+gram and that by studying it in vitro, we could establish precursor–
+product relationships between the various intermediates. We first
+qualified proplatelet fission (Fig. 3 A) and platelet release
+(Fig. 3 B) in the proplatelet cultures by video-enhanced DIC
+microscopy. During this process, the connection between swell-
+ings on proplatelets thins dramatically and then snaps, at which
+point the fragmented ends retract toward their daughter cells.
+were infused, this demonstrates platelet formation in blood.
+To quantitate platelet release, CMFDA-labeled proplatelets were
+transfused into mice, and blood samples were collected at regu-
+lar intervals over a period of 72 h, commencing <2 min after in-
+fusing the proplatelets. Platelet-rich plasma (PRP) was isolated
+from the obtained blood samples, and the PPs and platelet-sized
+fractions were dissected and analyzed by flow cytometry (Fig. 2,
+A and B; Baker et al., 1997; Hoffmeister et al., 2003a). The
+percentage of labeled platelets in the blood at the first time point
+(2 min) after transfusion is used as 100%. When platelets are
+transfused, they rapidly distribute in the blood volume and their
+blood concentration decreases thereafter, depending on the cir-
+culatory lifespan of the platelets (half-life, 1.5–2 d in mice).
+However, when the immature PPs were transfused, there was a
+time-dependent increase in the number of labeled platelet-sized
+particles in blood as the infused proplatelets convert into plate-
+lets. Platelet release from the infused proplatelets was maximal
+by 12 h, after which the labeled platelet numbers begin to de-
+crease, as expected again from the platelet lifetimes in blood.
+Figure 1.  Identification and quantification of intermediates in platelet release by immunofluorescence microscopy. The released proplatelet-enriched
+fraction and washed mouse platelets (control) were probed with a rabbit polyclonal antibody against detyrosinated tubulin and analyzed by immuno-
+fluorescence microscopy for different-sized objects. Intermediates in platelet release were categorized based on perimeter (proplatelets) or diameter
+(megakaryocytes, preplatelets, and platelets). (A) Representative pictures of a day 5 proplatelet-enriched culture before (left) and after (middle) thresholding
+of anti-tubulin–labeled intermediates using MetaMorph software and washed mouse platelets (0.5–2-µm diameter; right). (B) Relative distribution of inter-
+mediates at day 5 of culture after proplatelet enrichment. (C) Representative pictures of the tubulin cytoskeleton of mouse preplatelets (2–10-µm diameter;
+immunofluorescence microscopy; inset), their ultrastructure (thin-section EM; bottom), and cytoskeleton (rapid-freeze EM; top).
+JCB • VOLUME 191 • NUMBER 4 • 2010 864
+to identify mature platelet-sized particles (2 µm in diameter)
+expressing the platelet-specific glycoprotein IX (GPIX) on
+their surface and/or having a cortical microtubule coil in the
+cultures. Mouse blood platelets served as size controls for
+these experiments (Fig. S2 A). Morphometry and flow cytom-
+etry showed that the number of large PP progenitors decreased
+In certain thin-section electron micrographs, a small constric-
+tion, resembling a cleavage furrow (similar to that described
+previously; Schwertz et al., 2010), is found in the proplatelet
+shaft (Fig. 3 C).
+Platelet production was quantified using the combination
+of flow cytometric analysis and immunofluorescence microscopy
+Figure 2.  Released proplatelets mature into multiple individual platelets in vivo. (A) Washed mouse whole blood platelets were run directly on the flow
+cytometer (negative control) or labeled with 5 µM CMFDA before analysis (CMFDA+ control). The CMFDA+ mouse whole blood platelet population was
+used to establish forward/side scatter and fluorescent intensity parameters used to identify newly released platelets. Released proplatelets from mouse fetal
+liver cell culture were labeled with 5 µM CMFDA and transfused into live mice. PRP was collected immediately after transfusion (CMFDA+ <2 min) and
+6 h after transfusion (CMFDA+ 6 h), and analyzed by flow cytometry. CMFDA+ platelets were identified using the aforementioned gates. CMFDA-labeled
+platelet counts were comparable at <2 min after transfusion in CMFDA-labeled platelet and cultured proplatelet transfused mice (≥1% platelet recovery
+and ≥0.1% of circulating platelets). (B) CMFDA-labeled proplatelets were transfused into mice, and whole blood samples were collected via retro-orbital
+bleeding at regular intervals over a period of 72 h, commencing with a <2-min time point. PRP was isolated, and platelets were analyzed by flow cytometry
+and immunofluorescence microscopy. (C) Representative pictures of CMFDA-labeled proplatelets before transfusion and mouse PRP after CMFDA-labeled
+proplatelet and platelet transfusions. Fluorescence and DIC images were overlaid and merged. Arrows indicate CMFDA-labeled platelets recovered
+from recipient mice 2 h after transfusion, demonstrating maturation of released proplatelets into multiple individual platelets within the circulatory system.
+Released PPs were also stained for tubulin (red) and DAPI (blue) to confirm CMFDA labeling of proplatelets before transfusion. CMFDA fluoresces at
+458 nm and is shown in green. Immunofluorescence images are exhibited as a montage of representative cells from the same sample slide. Error bars
+indicate mean ± standard deviation.
+865The final stages of platelet production • Thon et al.
+Figure 3.  Direct visualization of proplatelet/platelet release in culture. (A and B) Isolated proplatelets were diluted with a semisolid culture medium and
+maintained in custom BSA-coated chambers at 37°C. They were examined on an inverted microscope, and frames were captured at 30-s intervals. (A) The
+separation of proplatelet cytoplasm and associated release of a shorter proplatelet fragment. The arrows highlight the site of proplatelet division. (B) The
+release of an individual platelet (arrows) from the end of a larger released proplatelet. (C and D) Thin-section electron micrographs showing the ultrastructure of
+a barbell-shaped proplatelet in the process of platelet release. Black arrows highlight the formation of a constricted region resembling a cleavage furrow
+along the long shaft of a cultured proplatelet. (C, inset) A higher magnification view of the boxed area is shown. (D) A similarly shaped barbell proplatelet
+immediately after cleavage. The arrow highlights the site of proplatelet division.
+JCB • VOLUME 191 • NUMBER 4 • 2010 866
+the underlying mechanisms.Three types of behaviors were studied
+in detail: (1) the proplatelet–preplatelet interconversions, (2) fission
+of small proplatelets into platelets, and (3) shear-facilitated
+proplatelet fission and platelet release. Proplatelets and preplate-
+lets are distinguished from their elongated or discoid shapes, re-
+spectively. However, both have prominent cortical microtubule
+bundles. In preplatelets, these bundles rim the cytoplasmic surface
+of the membrane on the disc face. In proplatelets, the bundles also
+rim the cell membranes of the bulbous particles, but they collapse
+together and interact along the shafts. The exponential accumula-
+tion of smaller PPs and platelets in our culture system over time
+implies a model in which larger proplatelet progenitors under­go
+continuous fission, producing an increasing number of sequential
+platelet release sites.
+Direct visualization of microtubule dynamics
+during the conversion of preplatelets to
+barbell proplatelets
+To visualize the microtubule cytoskeleton directly during pre-
+platelet to barbell proplatelet conversion and to confirm this
+relationship between the two intermediate structures, cultured
+megakaryocytes were retrovirally directed to express GFP–
+1-tubulin. Released proplatelet fractions were isolated, and GFP–
+1-tubulin–labeled preplatelets were monitored by fluorescence
+time-lapse microscopy. Fig. 5A depicts a representative preplate-
+let of 7 µm in diameter over a period of 4 min. In this time, the
+oval marginal band was observed to twist about its center several
+times in a clockwise fashion to ultimately yield a barbell-shaped
+proplatelet with two well-defined platelet-sized (2-µm diameter)
+microtubule loops at each end. This was confirmed by thin-
+section EM (Fig. 5 B). Fig. 5 C shows the microtubule cyto-
+skeleton twisting about the preplatelet center to yield a “figure 8”
+structure comparable with Fig. 5 A (1 min) and suggests an
+intermediate stage in preplatelet to proplatelet interconversion.
+To establish whether microtubules continue to polymer­ize
+throughout released proplatelets once defined micro­tubule
+loops have formed, mouse megakaryocyte cultures were retro­
+virally directed to express EB3-GFP. EB3-GFP localizes only
+at polymerizing microtubule plus ends in a characteristic comet
+staining pattern with a bright front and dim tail (Fig. S3). Fig. S3
+shows the first frame from Video 4, a time-lapse video of
+a cultured proplatelet expressing EB3-GFP. Multiple comets
+are observed moving bidirectionally in the cytoplasmic bridge
+and within the microtubule coil at the ends of the proplatelet,
+confirming continued dynamic assembly and reorganization of
+microtubule coils at a late stage of proplatelet development.
+Comet movement rates are estimated to be 8.9–12.3 µm/min.
+Multivesicular bodies (MVBs) are present
+and granules continue to sort in released
+proplatelet/preplatelet intermediates
+The biogenesis and distribution of platelet-specific granules into
+nascent platelets are essential to platelet production. In mega-
+karyocytes, MVBs represent a developmental stage in -granule
+and dense-granule maturation (Heijnen et al., 1998; Youssefian
+and Cramer, 2000). Indeed, differences in intragranular protein
+distribution of MVBs, -granules, and dense granules have been
+with culture time as platelet counts increased about fourfold
+(Fig. S2, B and C).
+Fig. S4 B illustrates the distribution of PP/platelet prog-
+eny (1–137 µm2
+) and proplatelet progenitors (138–227 µm2
+)
+binned by object area and normalized to day 5 counts after 2,
+24, 48, and 72 h in a representative culture and confirms an
+inverse relationship between smaller and larger object counts
+over time. Fig. S4 C illustrates the distribution of proplatelet/
+platelet progeny (1–137 µm2
+) after 2, 24, 48, and 72 h in culture
+and demonstrates proplatelet fission and platelet release at an
+increasing rate in time.
+Reversible conversions between preplatelets
+and proplatelets
+Because the intermediates in platelet production distribute evenly
+between elongated proplatelets and discoid preplatelet in the cul-
+tures, we hypothesized that the two forms were interrelated. To test
+this hypothesis, we asked whether manipulation of microtubules
+within these structures could convert barbell proplatelets to pre-
+platelets and vice versa. Released proplatelet cultures were incu-
+bated at either 37°C (normal control), 4°C for 1 h to depolymerize
+microtubules, or at 4°C for 1 h and then 37°C for 1 h to depoly-
+merize and repolymerize microtubules. Fig. 4 displays log differ-
+ence in total proplatelet, preplatelet, and platelet counts at 4°C
+(Fig. 4 A) and 4–37°C (Fig. 4 B) relative to 37°C control. Counts
+of proplatelets and preplatelets were performed as previously de-
+scribed,andallvalueswerenormalizedto37°Ccontrols.Datawere
+subject to one-way analysis of variance (ANOVA) for three inde-
+pendent samples and Tukey honestly significant difference (HSD)
+analysis (P < 0.01 and P < 0.05). Depolymerization of tubulin at
+4°C significantly shifted the proplatelet population to preplatelet
+forms (Fig. 4 A). The proplatelet population returned to normal
+when the samples were returned to 37°C (Fig. 4 B), indicating that
+the proplatelet structure is a result of tubulin polymerization and
+microtubule organization about its midbody.
+This observation was confirmed using a second method of
+microtubule manipulation, wherein released proplatelet cul-
+tures were incubated at 37°C in the presence of a microtubule-
+stabilizing agent (5 µM taxol) or a tubulin-depolymerizing agent
+(5 µM nocodazole) for 1 h. Counts of proplatelets and preplate-
+lets were performed, and all values were normalized to no-drug
+controls. Fig. 4 C illustrates a shift in the distribution of the re-
+leased proplatelet culture population toward smaller proplatelet
+or preplatelet forms in the presence of taxol or nocodazole, respec-
+tively. Representative pictures of proplatelet-enriched cultures
+after taxol or nocodazole incubations appear in Fig. 4 D. These
+results suggest that the microtubule cytoskeleton of inter­
+mediates in platelet production undergo a dramatic reorganiza-
+tion during their interconversion between preplatelet and barbell
+proplatelet forms. Moreover, the pharmacological regimen used
+suggests that the reorganization of microtubules plays an essen-
+tial role in this morphogenesis.
+Mechanisms of proplatelet maturation and
+platelet release
+Having established a precursor–product relationship between
+proplatelets–preplatelets and proplatelets–platelets, we investigated
+867The final stages of platelet production • Thon et al.
+(Figs. 6 A and S5), which may suggest ongoing granule biogen-
+esis in these cells.
+Transport of organelles along proplatelets involves move-
+ment along microtubules and translocation of linked micro­tubules
+relative to one another (Richardson et al., 2005). Barbell pro-
+platelets have a dynamic microtubule cytoskeleton that continues
+to assemble and reorganize during late-stage platelet development.
+reported previously (van Nispen Tot Pannerden et al., 2010)
+and may reflect effective sorting and/or retention mechanisms
+in their formation. Nevertheless, it is unclear whether granule
+biogenesis occurs in preplatelets or released proplatelets.
+To address this question, we looked for MVBs in released pro-
+platelets and preplatelets. Thin-section EM revealed the pres-
+ence of MVBs in structural intermediates of platelet production
+Figure 4.  Preplatelets reversibly convert into proplatelets using microtubule-based forces. (A and B) Proplatelet-enriched fractions were probed with a rab-
+bit polyclonal antibody against detyrosinated tubulin and analyzed by immunofluorescence microscopy for different-sized objects. Samples were incubated
+at 37°C (normal control), 4°C for 1 h, or 4°C for 1 h and returned to 37°C for 1 h. All values were normalized to the 37°C controls. (A) Depolymerization
+of tubulin at 4°C shifted the proplatelet population into preplatelet forms. *, P < 0.05; **, P < 0.01. Arrows indicate values compared and significance
+level of difference. (B) The proplatelet population returned to normal upon repolymerization of tubulin at 37°C. Data were subject to one-way ANOVA for
+three independent samples and Tukey HSD analysis. (C) Released proplatelet/platelet fraction from second gradient sedimentation probed with a rabbit
+polyclonal antibody against detyrosinated tubulin and analyzed by immunofluorescence microscopy for different-sized objects. Distribution of proplatelet
+and preplatelet forms after 1 h in culture with 5 µM taxol (promotes microtubule polymerization; left), a vector control (middle), or 5 µM nocodazole (pro-
+motes microtubule depolymerization; right). Microtubule stabilization and depolymerization shifted the population toward proplatelet and preplatelet forms,
+respectively. (D) Representative pictures of cultured intermediates after taxol (proplatelet) or nocodazole (preplatelet) incubations.
+JCB • VOLUME 191 • NUMBER 4 • 2010 868
+culture after 0, 60, and 120 min of shear. Compared with the no
+shear control, platelet numbers increased, whereas the number
+of proplatelets decreased over time (Fig. 7 D). Platelet and PP
+progeny (1–137 µm2
+; Fig. 7 E) and proplatelet progenitors (138–
+227 µm2
+; Fig. 7 F) were binned by size (area), and their relative
+counts over time were spread across multiple bins to resolve the
+mechanism of platelet release. The data describe an inverse rela-
+tionship between smaller and larger object counts that suggests
+dynamic proplatelet fission and continuous platelet release under
+shear with time. Flow cytometric analysis of cultured samples
+agree with immunofluorescence microscopy data and reveal a sig­
+nificant decrease in the number of large proplatelets and PP inter­
+mediates (small ProPLTs) after 2 h relative to no shear control
+(Fig. 7, G and H). Fig. 8 summarizes the model of platelet pro-
+duction from proplatelets supported by these experiments.
+Discussion
+The presence of proplatelets in blood implies that they frag­
+ment into individual platelets. To evaluate the mechanisms by
+which released proplatelets mature platelets and to identify inter­
+mediate stages in this process, we developed a novel centrifugation
+and gradient sedimentation protocol to separate megakaryo­
+cytes and residual megakaryocyte cell bodies from released
+proplatelets. This enabled us to define and quantify different
+stages in proplatelet maturation and platelet release, relate these
+temporal changes to cytoskeletal rearrangements, and begin to
+describe some of the mechanistic events that ultimately lead to
+platelet release.
+To define the relative distribution of these different-sized
+objects over time and to place the appearance and accumula-
+tion of individual platelets in a temporal context, intermediates
+in platelet release were categorized by their morphologies and
+size. This allowed changes in distribution to be tracked over a
+period of 5 d in culture. In addition to mature discoid platelets
+and elongated proplatelets, we identified a large, intermediate
+discoid stage in platelet production, which we have named the
+“preplatelet.” Preplatelets are large anucleate discs, 2–10 µm in
+diameter, that have a thick cortical microtubule coil and retain
+the capacity to reversibly convert into barbell-shaped proplate-
+lets. Continued bidirectional polymerization of microtubules
+at each end of the barbell proplatelet forms two well-defined
+platelet-sized (2-µm diameter) microtubule loops at each end.
+These become two individual platelets after a fission event.
+Interestingly, interconversion between preplatelet and proplate-
+let forms occurs only at preplatelet diameters 2–10 µm across.
+Thus, preplatelets represent an intermediate stage in platelet
+production that may be responsible for regulating platelet size.
+Although larger microtubule coils may undergo twisting to ac-
+commodate continued microtubule polymerization/elongation
+within a constrained volume, forming barbell proplatelets,
+smaller, more constricted microtubule coils are unable to do so.
+As megakaryocyte fragments divide (thus becoming smaller),
+this results in a size limit beyond which new platelets are no
+longer capable of fission and may therefore provide an artificial
+margin from which platelets can be classified as distinct from
+their progenitors.
+This raised the question of whether organelles continue to
+sort between platelet-sized swellings in these structural inter­
+mediates. To resolve the localization and distribution of se-
+cretory granules in the preplatelet and released proplatelet
+during interconversion, cultures were either labeled with a fluor­
+escent human fibrinogen conjugate (taken up and stored in
+-granules) or probed for serotonin (present in dense granules)
+and analyzed by immunofluorescence microscopy. The distri-
+bution and dynamics of the labeled -granules were followed
+using time-lapse fluorescence microscopy and demonstrate
+ongoing, bidirectional -granule movement during preplatelet–
+proplatelet conversion (Fig. 6 B). Video 1 also demonstrates the
+elongation that precedes the fission-like process that accompanies
+preplatelet to barbell proplatelet conversion. -Granules localize
+to the microtubule cytoskeleton and are generally confined to
+the periphery of the cell. Fig. 6 C illustrates continued and bi-
+directional translocation of fluorescently labeled -granules in
+a barbell proplatelet over a period of 36 min. Red dots highlight
+-granule movement toward the top end of the proplatelet, whereas
+green dots highlight movement toward the bottom end. Labeled
+organelles moved bidirectionally along the microtubule tracks
+of cytoplasmic bridges and cortices of developing proplatelets
+at a rate of 0.13–0.26 µm/min, implying continued reorgani-
+zation of platelet contents through late stages of the maturation
+process. This is also true of dense granules, which distribute
+within the preplatelet and along the cytoplasmic bridges and
+bulbous tip of released proplatelets (Fig. 6 D). Like the -granules,
+these continue to translocate throughout maturation.
+Shear forces accelerate proplatelet fission
+and platelet release in vitro
+To determine whether platelet production from released PP
+intermediates could be accelerated by circulatory shear forces,
+isolated PPs were maintained in culture under static conditions
+or with continuous shear (0.5 Pa) for 2 h and analyzed by
+immunofluorescence microscopy and flow cytometry at 20-min
+intervals. Fig. 7 (A–C) shows composite images of the proplatelet
+Figure 5.  Microtubule dynamics during the conversion of preplatelets to
+barbell-proplatelets. (A) Fluorescent time-lapse microscopy of a released
+preplatelet isolated from megakaryocytes retrovirally directed to express
+GFP–1-tubulin. The oval preplatelet microtubule marginal band is ob-
+served to twist about its center several times in a clockwise fashion over
+the course of 4 min to yield a barbell-shaped proplatelet with well-defined
+microtubule loops at each end. (B) Rapid-freeze and thin-section electron
+micrographs showing the cytoskeleton and ultrastructure of microtubules
+in proplatelets. (C) High magnification electron micrograph of the boxed
+region in B shows microtubules twisting about the proplatelet center to
+yield a “figure 8” structure.
+869The final stages of platelet production • Thon et al.
+These subsequently decrease in size over time to that of nor-
+mal platelets as the count returns to baseline (Patel-Hett et al.,
+2008). When CMFDA-labeled proplatelets are transfused into
+recipient mice, platelets rapidly release for a period of 12–24 h.
+In vitro, proplatelets slowly mature into multiple individual
+platelets over a 5-d culture period, as total proplatelet and
+preplatelet counts decrease about sevenfold, whereas platelet
+counts increase about fourfold. Thus, this intermediate stage
+may correlate to the young, large platelets found during recovery
+from acute thrombocytopenia, such as that in immune-mediated
+platelet destruction (Patel-Hett et al., 2008), and they may rep-
+resent the submegakaryocyte fragments observed previously in
+PRP (Behnke and Forer, 1998).
+As proplatelets are not generally seen at concentrations
+comparable with those of platelets in healthy human and mouse
+Interestingly, Schwertz et al. (2010) have recently published
+findings demonstrating that platelets isolated from circulating
+human blood may duplicate through a process that morphologi-
+cally resembles preplatelet to proplatelet interconversion. Their
+observation that 5% of washed platelets extended projections
+with distinct cell bodies after only 6 h of culture is consistent with
+the relative proportion of large platelets identified in circulating
+blood (unpublished data). As megakaryocyte cell fragments
+2–10 µm in diameter are able to interconvert between preplatelet
+and barbell proplatelet forms, it is tempting to speculate that our
+observations are related.
+In vivo, released proplatelets and preplatelet-like structures
+significantly larger than platelets are often observed in mouse
+whole blood at elevated concentrations 96 h after thrombo­
+cytopenia induced by rabbit anti–mouse platelet serum injection.
+Figure 6.  Granules are synthesized, packaged, and continue to sort in released proplatelets. (A) High magnification electron micrographs show the pres-
+ence of MVBs in released preplatelets (top) and proplatelets (bottom). (B and C) Mouse preplatelet/proplatelet labeled with a fluorescent human fibrinogen
+conjugate, which is taken up and stored in -granules. The distribution and dynamics of the labeled -granules were followed using time-lapse fluorescence
+microscopy and demonstrate ongoing, bidirectional -granule movement during preplatelet to proplatelet conversion. (C) Red dots highlight -granule
+movement toward the top end of the proplatelet, whereas green dots highlight movement toward the bottom end. Labeled organelles moved bidirectionally
+along the microtubule tracks of cytoplasmic bridges and cortices of developing proplatelets at a rate of 0.13–0.26 µm/min, implying continued orga-
+nization of platelet contents through late stages of the maturation process. The width of the field is 10 µm. (D) Released proplatelet/platelet fraction from
+second gradient sedimentation probed with a rabbit monoclonal antibody against serotonin. Fluorescence and DIC images were overlaid and merged.
+Images are exhibited as a montage of representative cells from the same sample slide. Dense granules distribute evenly within the preplatelet and along
+the cytoplasmic bridges and bulbous tip of released proplatelets and continue to translocate throughout maturation.
+JCB • VOLUME 191 • NUMBER 4 • 2010 870
+Figure 7.  Shear force promotes proplatelet fission and platelet release. (A–H) Proplatelets released from fetal liver–derived megakaryocytes were cultured
+for 2 h in the presence or absence of shear (0.5 Pa). Every 20 min, samples were removed and probed with a rabbit polyclonal antibody against
+1-tubulin and analyzed by immunofluorescence microscopy for different-sized objects (A–D) or labeled with a CD42a-specifc, FITC-conjugated antibody
+and analyzed by flow cytometry (G and H). (A–C) Representative micrographs of the culture after 0 (A), 60 (B), and 120 (C) min of shear. (insets) High
+magnification views of the composite images are shown. (D) Compared with no shear controls, platelet numbers increased over time, whereas proplatelet
+numbers decreased (n = 4). (E and F) Representative quantification of culture intermediates under shear with time. Platelet and PP progeny (cells of area =
+1–137 µm2
+; E) and proplatelet progenitors (138–227 µm2
+; F) were binned by size (area), and their relative counts over time were spread across multiple
+bins to resolve the mechanism of platelet release. The data describe an inverse relationship between smaller and larger object counts that reveal dynamic
+proplatelet fission and continuous platelet release under shear with time. (G) Flow cytometric analysis of cultured proplatelet intermediates under shear with
+time (n = 3). (H) Representative quantification of cultured proplatelet intermediates by flow cytometry. Samples support immunofluorescence microscopy
+data and reveal a significant decrease in the number of large proplatelets and PP intermediates (small ProPLTs) after 2 h relative to no shear control. Error
+bars indicate mean ± standard deviation.
+whole blood smears, it stands to reason that the rate of platelet
+production in our culture system remains relatively low as com-
+pared with suspected platelet release rates in vivo. Modeling of
+this effect revealed that during cell culture, platelets are gener-
+ated at an increasing rate in time, and large proplatelets undergo
+continuous fission to produce more ends from which platelets
+871The final stages of platelet production • Thon et al.
+from proplatelet ends as proplatelets undergo continuous fission
+in culture. Therefore, proplatelets contain all of the program-
+ming and material required to make and release platelets, which
+is in accordance with the observations that bone marrow mega-
+karyocytes extend and release large cellular processes, exceed-
+ing platelet dimensions, into blood (Junt et al., 2007).
+Nevertheless, how small proplatelets, barbell-shaped pro-
+platelets, and platelets release from larger proplatelets has never
+been detailed. Our video-enhanced DIC images of proplatelets in
+culture reveal that large proplatelets divide into shorter proplate-
+lets and release individual platelets. As a proplatelet elongates,
+its long, narrow shaft will sometimes snap, dividing the structure
+into two pieces. This snapping and retraction is characteristic of
+the release of mechanical tension being applied along the pro-
+cess by internal cytoskeletal motors. Measured rates of pro-
+platelet fission and platelet release show that cleavage events
+are released. Indeed, relatively weak hydrodynamic forces of
+maximally 0.5 Pa were found to promote proplatelet fission,
+which is likely necessary in regulating the rate of platelet re-
+lease in vivo. Flow cytometric analysis of CMFDA-labeled pro-
+platelets transfused into live mice supports this hypothesis and
+suggests that blood flow–induced shear stress may contribute to
+platelet release in vivo by promoting proplatelet fission events.
+Indeed, observations that proplatelet counts are higher in pre­
+pulmonarythaninpostpulmonaryvessels(Handagamaetal.,1987),
+whereas platelet counts are higher in the latter, imply that shear
+forces act on released proplatelets in the vasculature to mediate
+platelet production.
+The geometric decay of larger proplatelet progenitors and
+accumulation of smaller PPs and released platelets in our cul-
+ture system over time (under both static and continuous shear
+conditions) implies that platelets are predominately released
+Figure 8.  Proplatelet fission model of platelet release. Model of platelet production suggested by these experiments and previous studies (see Results).
+(A) Released proplatelets undergo successive rounds of fission along their midbody and at their ends. This process is mediated by the formation of a cleav-
+age furrow at the point of division and results in platelet release from proplatelet ends at an increasing rate in time as more ends become available after
+each fission event. Shear promotes proplatelet fission and drives platelet release. (B) Barbell proplatelets of 30–50-µm perimeter reversibly convert into
+preplatelets. This process is driven by twisting microtubule-based forces and may represent a novel mechanism of microtubule reorganization and granule
+redistribution after each fission event. (C) During barbell proplatelet formation, dynamic and bidirectional assembly and reorganization of microtubule
+coils mediate platelet cytoskeleton arrangement as - and dense granules track to distal proplatelet tips. Platelets release from proplatelet ends after the
+final fission event.
+JCB • VOLUME 191 • NUMBER 4 • 2010 872
+centrifuged (200 g for 5 min) to further separate released proplatelet (pellet)
+and platelet (supernatant) fractions. Samples were washed and resuspended
+in culture media. Cultures were kept at 37°C and 5% CO2 throughout.
+Immunofluorescence microscopy
+Mouse megakaryocytes, culture intermediates, and whole blood platelets
+were purified and probed as previously described (Patel-Hett et al., 2008).
+In brief, samples were fixed in 4% formaldehyde and centrifuged onto 1 µg/ml
+poly-l-lysine–coated coverslips, permeabilized, and blocked (Italiano et al.,
+2003) before antibody labeling. Released proplatelet-enriched fractions were
+incubated with a rabbit polyclonal antibody against detyrosinated tubulin
+(SuperGlu; provided by C. Bulinski, Columbia University, New York, NY) or
+a rabbit monoclonal antibody against serotonin (YC5/45; Abcam) for dense-
+granule localization and treated with secondary goat anti–rabbit antibody
+conjugated to an Alexa Fluor 488 (Invitrogen). DAPI (Sigma-Aldrich) was
+used to label the megakaryocyte nucleus. Samples were examined with a
+microscope (Axiovert 200; Carl Zeiss, Inc.) equipped with a 63× NA 1.4 oil
+immersion objective. Images were obtained using a charge-coupled device
+(CCD) camera (Hamamatsu Photonics) and analyzed using the MetaMorph
+image analysis software (MDS Analytical Technologies). Intermediates in
+platelet release were categorized based on perimeter (proplatelets) or diam-
+eter (megakaryocytes, preplatelets, and platelets) using the MetaMorph soft-
+ware thresholding, integrated morphometry analysis, and software calipers
+tools. Experiments represent one standard deviation about the mean for at
+least seven independent cultures.
+EM
+Released proplatelet-enriched cultures in suspension were fixed with 1.25%
+paraformaldehyde, 0.03% picric acid, and 2.5% glutaraldehyde in 0.1 M
+cacodylate buffer, pH 7.4, for 1 h, postfixed with 1% osmium tetroxide,
+dehydrated through a series of alcohols, infiltrated with propylene oxide,
+and embedded in epoxy resin. Ultrathin sections were stained and exam-
+ined with an electron microscope (G2 Spirit BioTwin; Tecnai) at an accel-
+erating voltage of 80 kV. Images were recorded with a CCD camera (2K;
+Advanced Microscopy Techniques) using digital acquisition and analysis
+software (Advanced Microscopy Techniques). Rapid-freeze EM samples
+were prepared as previously described (Italiano et al., 1999). Tantalum
+tungsten and carbon replicas were picked up on carbon formvar–coated
+copper grids and examined.
+Flow cytometry
+Released proplatelet fractions were isolated and cultured as described in
+“Isolation of released proplatelets/preplatelets” and sampled daily over a
+period of 5 d. Platelet counts were determined by flow cytometric analysis
+with a primary rat IgG antibody specific for mouse GPIX (provided by
+B. Nieswandt, University of Wurzberg, Wurzberg, Germany) and a sec-
+ondary goat anti–rat antibody conjugated to Alexa Fluor 488 (Invitrogen).
+Secondary antibody specificity controls were performed. Gates were set
+using 0.5–10-µm microspheres (Spherotech) and confirmed by DIC micros­
+copy at 63× and 100×. Platelets were isolated from culture intermediates
+by their characteristic forward and side scattering as they passed through
+the flow cytometer, and their total fluorescence intensity was calculated
+after subtraction of the secondary antibody specificity control. Platelet
+counts were based on GPIX-positive objects 0.5–2.0 µm in size and
+normalized to proplatelet (GPIX positive, 3.3–10-µm particle) counts at
+0 d after proplatelet enrichment. Analysis of platelet counts were per-
+formed for at least 15 different cultures. Data were subject to one-way
+ANOVA for four independent samples and Tukey HSD analysis. Experi-
+ments represent one standard deviation about the mean for at least three
+independent samples.
+Released proplatelet transfusion
+For proplatelet transfusion and platelet production/survival experiments,
+cultured released proplatelets and wild-type whole blood platelets were
+labeled with 5 µM CMFDA (Invitrogen) for 45 min at 37°C (Hoffmeister et al.,
+2003a,b; Josefsson et al., 2005) Unincorporated dye was removed by cen-
+trifugation, and (cultured) released proplatelets or (whole blood) platelets
+were resuspended in 300 µl of culture media or platelet buffer, respectively.
+CMFDA-labeled released proplatelets or control platelets were injected
+into syngeneic CD61 mice via retro-orbital vein. For recovery and survival
+determination, blood samples were collected immediately (<2 min) and 1,
+2, 4, 6, 24, 48, and 72 h after transfusion into 0.2 vol Aster-Jandl anti­
+coagulant. Whole blood PRP analysis using flow cytometry was performed,
+and the percentage of CMFDA-positive platelets was determined (Baker et al.,
+1997; Hoffmeister et al., 2003a). A total of 200,000 events were collected
+in each sample. CMFDA-positive platelet counts were normalized to the <2-min
+occur continuously throughout the different intermediate stages
+of platelet production, resulting in mixed proplatelet popula-
+tions of various different sizes.
+Proplatelets must not only produce and replicate the spe-
+cialized cytoskeleton of the mature platelet, but they must also
+load each platelet with a reproducible and appropriate allotment
+of organelles and granules essential for their hemostatic func-
+tion. Our experiments demonstrate the presence of MVBs in
+late-stage intermediates, which represent a developmental step
+in - and dense-granule maturation. One of the most surprising
+findings is that even at the very final stages of platelet produc-
+tion, when two putative platelets are connected by a cytoplasmic
+bridge,thegranulecontentoftheplateletisstillbeingadjusted.
+It has recently been shown that platelets contain distinct sub-
+populations of -granules that undergo differential release
+during activation (Italiano and Battinelli, 2009). Interconver-
+sion between barbell proplatelet and preplatelet forms might
+therefore represent a novel mechanism of granule redistribution
+and sorting before platelet release from proplatelet ends.
+In summary, this study defines the multiple intermediate
+stages in proplatelet maturation and identifies several relevant
+mechanical interactions, which govern individual platelet re-
+lease. Our understanding of the final stages of platelet produc-
+tion is still far from perfect, and there remain many questions
+that still need to be answered: (a) what factors and signal trans-
+duction pathways are involved in reorganizing the microtubule
+cytoskeleton to mediate PP interconversion and platelet release,
+(b) how do shear forces in the circulation contribute to this pro-
+cess, (c) is platelet production in vivo a result of sequential lib-
+eration from proplatelet ends or a product of successive fission
+of the released proplatelet, and (d) how do preplatelets identi-
+fied in culture correlate with immature platelets observed in
+thrombocytopenia and large platelets observed in many macro-
+thrombocytopenias? Nevertheless, the development of new meth-
+ods to isolate and quantify the multiple intermediate stages in
+platelet release holds promise that these questions can now
+begin to be addressed.
+Materials and methods
+Megakaryocyte suspension cultures
+Mouse fetal liver cells were recovered on embryonic day 13.5. Single-cell
+suspensions were prepared by successive passage through 22- and 25-G
+syringes and cultured for 4 d in DME (Invitrogen) supplemented with 10%
+fetal calf serum, 2 mmol/liter l-glutamine, 50 U/ml penicillin, and 50 µg/ml
+streptomycin at 37°C and 5% CO2 in the presence of 0.1 µg/ml puri-
+fied recombinant mouse c-Mpl ligand (day 0; Lecine et al., 2000). All
+experiments were complied with institutional guidelines approved by the
+Children’s Hospital Animal Care and Use Committee and the Institutional
+Animal Care and Use Committee.
+Isolation of released proplatelets/preplatelets
+Fetal liver cell cultures were layered on a single-step gradient (1.5–3.0%
+BSA) on day 4, and megakaryocytes were allowed to sediment for 1 h as
+previously described (Drachman et al., 1997). The megakaryocyte pellet
+was resuspended in fresh media and cultured for an additional 24 h, during
+which proplatelet production was readily observed. Megakaryocyte cultures
+were layered on a second single-step gradient (1.5–3.0% BSA) on day 5.
+Megakaryocytes were allowed to sediment for 1 h, during which intermedi-
+ate stages in platelet production were resolved within different fractions of
+the gradient. Proplatelet-producing megakaryocytes localized to the BSA
+fraction, whereas released proplatelets and individual platelets remained
+in the top (culture media) fraction. This top-most layer was removed and
+873The final stages of platelet production • Thon et al.
+Preparation of photomicrographs
+The digital images produced in MetaMorph were assembled into com­
+posite images using ImageJ and Photoshop (CS3; Adobe). Dividing lines
+explicitly separate different images or separate regions of the same image.
+No specific features within an image were enhanced, obscured, moved,
+removed, or introduced, and adjustments made to the brightness, contrast,
+and color balance were linearly applied to the whole image.
+Online supplemental material
+Fig. S1 illustrates the isolation of specific stages of megakaryocyte devel-
+opment and platelet production. Fig. S2 shows the quantification of platelet
+release during cell culture. Fig. S3 shows EB3-GFP movements in a released
+barbell proplatelet. Fig. S4 demonstrates the quantitation of cultured pro-
+platelets by immunofluorescence microscopy. Fig. S5 shows multivesicular
+bodies present in human proplatelets. Video 1 shows microtubule dynam-
+ics during the conversion preplatelets into barbell proplatelets. Video 2
+shows -granule sorting during preplatelet to proplatelet interconversion.
+Video 3 shows -granules sorting between the platelet-sized ends of a bar-
+bell proplatelet. Video 4 shows EB3-GFP movements in a released barbell
+proplatelet. Online supplemental material is available at http://www.jcb
+.org/cgi/content/full/jcb.201006102/DC1.
+A. Ehrlicher gratefully acknowledges support from Thomas Stossel.
+This work was supported in part by the National Institutes of Health
+(grant HL68130 to J.E. Italiano and training grant HL007680 to A. Ehrlicher),
+the National Institute of Dental and Craniofacial Research (short-term research
+training grant DE07268 to A. Montalvo), and the American Society of Hema-
+tology (2005 Trainee Award to A. Montalvo). We gratefully acknowledge
+D.A. Weitz and the Harvard Materials Research and Engineering Center
+(DMR-0213805) for confocal imaging. J.E. Italiano is an American Society of
+Hematology Junior Faculty Scholar.
+Submitted: 16 June 2010
+Accepted: 18 October 2010
+References
+Baker, G.R., P.M. Sullam, and J. Levin. 1997. A simple, fluorescent method to
+internally label platelets suitable for physiological measurements. Am.
+J. Hematol. 56:17–25. doi:10.1002/(SICI)1096-8652(199709)56:1<17::
+AID-AJH4>3.0.CO;2-5
+Becker, R.P., and P.P. De Bruyn. 1976. The transmural passage of blood cells
+into myeloid sinusoids and the entry of platelets into the sinusoidal cir-
+culation; a scanning electron microscopic investigation. Am. J. Anat.
+145:183–205. doi:10.1002/aja.1001450204
+Behnke, O. 1969. An electron microscope study of the rat megacaryocyte. II.
+Some aspects of platelet release and microtubules. J. Ultrastruct. Res.
+26:111–129. doi:10.1016/S0022-5320(69)90039-2
+Behnke, O., and A. Forer. 1998. From megakaryocytes to platelets: platelet
+morphogenesis takes place in the bloodstream. Eur. J. Haematol. Suppl.
+61:3–23.
+Choi, E.S., J.L. Nichol, M.M. Hokom, A.C. Hornkohl, and P. Hunt. 1995.
+Platelets generated in vitro from proplatelet-displaying human mega-
+karyocytes are functional. Blood. 85:402–413.
+Drachman, J.G., D.F. Sabath, N.E. Fox, and K. Kaushansky. 1997. Thrombo­
+poietin signal transduction in purified murine megakaryocytes. Blood.
+89:483–492.
+Handagama, P.J., B.F. Feldman, N.C. Jain, T.B. Farver, and C.S. Kono. 1987.
+Circulating proplatelets: isolation and quantitation in healthy rats and in
+rats with induced acute blood loss. Am. J. Vet. Res. 48:962–965.
+Harrison, P., B. Wilbourn, N. Debili, W. Vainchenker, J. Breton-Gorius, A.S.
+Lawrie, J.M. Masse, G.F. Savidge, and E.M. Cramer. 1989. Uptake of
+plasma fibrinogen into the alpha granules of human megakaryocytes and
+platelets. J. Clin. Invest. 84:1320–1324. doi:10.1172/JCI114300
+Heijnen, H.F., N. Debili, W. Vainchencker, J. Breton-Gorius, H.J. Geuze, and
+J.J. Sixma. 1998. Multivesicular bodies are an intermediate stage in the
+formation of platelet alpha-granules. Blood. 91:2313–2325.
+Hoffmeister, K.M., T.W. Felbinger, H. Falet, C.V. Denis, W. Bergmeier, T.N.
+Mayadas, U.H. vonAndrian, D.D. Wagner, T.P. Stossel, and J.H. Hartwig.
+2003a. The clearance mechanism of chilled blood platelets. Cell. 112:87–
+97. doi:10.1016/S0092-8674(02)01253-9
+Hoffmeister, K.M., E.C. Josefsson, N.A. Isaac, H. Clausen, J.H. Hartwig, and
+T.P. Stossel. 2003b. Glycosylation restores survival of chilled blood plate-
+lets. Science. 301:1531–1534. doi:10.1126/science.1085322
+time point (100%), and analyses of platelet counts were performed for at
+least three different transfusion events. Recoveries from CMFDA-labeled
+platelet and proplatelet transfusions were ≥1%, and the percentage of
+circulating labeled platelets, determined at <2 min, was ≥0.1%.
+DIC live cell microscopy
+Isolated proplatelets were diluted in a semisolid medium (60% Leibowitz
+L-15 medium and 40% DME with 10% fetal bovine serum, 50 U/ml peni-
+cillin, and 50 µg/ml streptomycin) in chambers formed by mounting a
+glass coverslip coated with 3% BSA onto a 10-mm petri dish with a 1-cm
+hole. Preparations were maintained at 37°C and examined on an inverted
+microscope (Axiovert 200) equipped with a 63× NA 1.4 objective, an
+XL-3 incubation chamber, and a 100-W mercury lamp (Carl Zeiss, Inc.).
+Images were obtained using a CCD camera (Hamamatsu Photonics), and
+frames were captured at 30-s intervals. Videos 1–4 were generated using
+the MetaMorph image analysis program.
+Stabilization/depolymerization of released proplatelet
+microtubule cytoskeletons
+Released proplatelet cultures were incubated at (a) 37°C (normal control) or
+4°C for 1 h and again at 37°C for 1 h or (b) in the presence of 5 µM taxol
+or 5 µM nocodazole for 1 h at 37°C. Samples were centrifuged onto poly-l-
+lysine–coated glass coverslips and probed with a rabbit polyclonal antibody
+against detyrosinated tubulin then analyzed by immunofluorescence micros-
+copy for different-sized objects. All values were normalized to the 37°C
+(normal) controls, and experiments were performed in triplicate. Box and
+whisker plots illustrate sample minimum, lower quartile, median, upper quar-
+tile, and sample maximum for samples cultured at 4°C. Data were subject to
+one-way ANOVA for three independent samples and HSD analysis.
+Expression of GFP–1-tubulin and EB3-GFP constructs
+GFP–1-tubulin was cloned into pWZL plasmids containing the sequence
+for enhanced GFP using previously described methods (Schulze et al.,
+2004). The released proplatelet fraction was isolated from megakaryocytes
+that were retrovirally directed to express GFP–1-tubulin and analyzed by
+fluorescence time-lapse microscopy. Semliki Forest virus–mediated gene
+delivery was used to express EB3-GFP in mouse megakaryocytes (Patel-Hett
+et al., 2008). Cultured megakaryocytes were infected by the addition of
+1 µl Semliki Forest virus infectious replicons to 400 µl day 2.5 cultures.
+EB3-GFP movements were visualized by fluorescence microscopy 8–48 h
+after infection.
+Live cell imaging of GFP–1-tubulin, EB3-GFP, and -granule movements
+Infected megakaryocytes were transferred onto video chambers maintained
+at 37°C. Cells were viewed on a microscope (Axiovert 200) equipped with
+a 63× oil immersion objective, and images were obtained using a CCD
+camera (Hamamatsu Photonics). Videos 1–4 were prepared using Meta-
+Morph. Pictures of preplatelets expressing GFP–1-tubulin were captured
+at 30-, 45-, or 60-s intervals over a course of 4 min. Pictures of EB3-GFP–
+expressing proplatelets were acquired every 2–5 s with a mean image
+capture time of 500 ms. The velocity of EB3-GFP comets was determined
+by dividing the distances traveled by the time elapsed. We included only
+comets that could be followed for a minimum of 15 s. To visualize -granules,
+isolated megakaryocytes (day 4 in culture) were incubated overnight with
+150 µg/ml Oregon green 488 human fibrinogen conjugate (Invitrogen)
+and 100 U/ml Hirudin from leeches (Sigma-Aldrich) in DME (Harrison
+et al., 1989). Megakaryocytes were then washed by albumin gradient
+sedimentation, and the resuspended pellet was placed in a video chamber.
+Images were acquired at 1-min intervals over a course of 36 min.
+Released proplatelets cultured under continuous shear
+Released proplatelets isolated from fetal liver–derived megakaryocytes
+were cultured at 37°C for up to 2 h in an incubator shaker (C24KC;
+New Brunswick Scientific) at 150 rpm, and shear forces were estimated
+to reach 0.5 Pa maximally. Sample aliquots were collected every 20 min,
+and proplatelet counts were determined by flow cytometric analy­sis.
+Samples were then fixed, centrifuged, and probed with a rabbit poly-
+clonal antibody against the C-terminal sequence of mouse 1-tubulin
+(LEDSEEDAEEAEVEAEDKDH; Genemed Synthesis, Inc.). Images were
+acquired using a confocal microscope (TCS SP5; Leica) equipped with
+a programmable xyz stage using a 20× 0.40 NA dry objective. Quan-
+titative analysis was performed in MATLAB (The MathWorks, Inc.) and
+ImageJ (National Institutes of Health) using author-coded software. Ob-
+jects were categorized based on area measurements and normalized
+to initial (time 0) object counts.
+JCB • VOLUME 191 • NUMBER 4 • 2010 874
+van Nispen tot Pannerden, H., F. de Haas, W. Geerts, G. Posthuma, S. van Dijk,
+and H.F. Heijnen. 2010. The platelet interior revisited: electron tomog-
+raphy reveals tubular alpha-granule subtypes. Blood. 116:1147–1156.
+doi:10.1182/blood-2010-02-268680
+Youssefian, T., and E.M. Cramer. 2000. Megakaryocyte dense granule compo-
+nents are sorted in multivesicular bodies. Blood. 95:4004–4007.
+Italiano, J.E. Jr., and E.M. Battinelli. 2009. Selective sorting of alpha-granule
+proteins. J. Thromb. Haemost. 7:173–176. doi:10.1111/j.1538-7836.2009
+.03387.x
+Italiano, J.E. Jr., P. Lecine, R.A. Shivdasani, and J.H. Hartwig. 1999. Blood
+platelets are assembled principally at the ends of proplatelet processes
+produced by differentiated megakaryocytes. J. Cell Biol. 147:1299–1312.
+doi:10.1083/jcb.147.6.1299
+Italiano, J.E. Jr., W. Bergmeier, S. Tiwari, H. Falet, J.H. Hartwig, K.M. Hoffmeister,
+P. André, D.D. Wagner, and R.A. Shivdasani. 2003. Mechanisms and
+implications of platelet discoid shape. Blood. 101:4789–4796. doi:10
+.1182/blood-2002-11-3491
+Italiano, J.E. Jr., S. Patel-Hett, and J.H. Hartwig. 2007. Mechanics of pro-
+platelet elaboration. J. Thromb. Haemost. 5:18–23. doi:10.1111/j.1538-
+7836.2007.02487.x
+Josefsson, E.C., H.H. Gebhard, T.P. Stossel, J.H. Hartwig, and K.M. Hoffmeister.
+2005. The macrophage alphaMbeta2 integrin alphaM lectin domain me-
+diates the phagocytosis of chilled platelets. J. Biol. Chem. 280:18025–
+18032. doi:10.1074/jbc.M501178200
+Junt, T., H. Schulze, Z. Chen, S. Massberg, T. Goerge, A. Krueger, D.D. Wagner,
+T. Graf, J.E. Italiano Jr., R.A. Shivdasani, and U.H. von Andrian. 2007.
+Dynamic visualization of thrombopoiesis within bone marrow. Science.
+317:1767–1770. doi:10.1126/science.1146304
+Kessel, R.G., and R.H. Kardon. 1979. Circulating blood, blood vessels, and bone
+marrow. In Tissues and organs: a text-atlas of scanning electron micros-
+copy. W.H. Freeman and Company, San Francisco. 35–50.
+Lecine, P., J.L. Villeval, P. Vyas, B. Swencki, Y. Xu, and R.A. Shivdasani. 1998.
+Mice lacking transcription factor NF-E2 provide in vivo validation of the
+proplatelet model of thrombocytopoiesis and show a platelet production
+defect that is intrinsic to megakaryocytes. Blood. 92:1608–1616.
+Lecine, P., J.E. Italiano Jr., S.W. Kim, J.L. Villeval, and R.A. Shivdasani. 2000.
+Hematopoietic-specific beta 1 tubulin participates in a pathway of plate-
+let biogenesis dependent on the transcription factor NF-E2. Blood. 96:
+1366–1373.
+Leven, R.M. 1987. Megakaryocyte motility and platelet formation. Scanning
+Microsc. 1:1701–1709.
+Leven, R.M., and M.K. Yee. 1987. Megakaryocyte morphogenesis stimulated
+in vitro by whole and partially fractionated thrombocytopenic plasma: a
+model system for the study of platelet formation. Blood. 69:1046–1052.
+Patel-Hett, S., J.L. Richardson, H. Schulze, K. Drabek, N.A. Isaac, K.
+Hoffmeister, R.A. Shivdasani, J.C. Bulinski, N. Galjart, J.H. Hartwig,
+and J.E. Italiano Jr. 2008. Visualization of microtubule growth in living
+platelets reveals a dynamic marginal band with multiple microtubules.
+Blood. 111:4605–4616. doi:10.1182/blood-2007-10-118844
+Radley, J.M., and G. Scurfield. 1980. The mechanism of platelet release. Blood.
+56:996–999.
+Richardson, J.L., R.A. Shivdasani, C. Boers, J.H. Hartwig, and J.E. Italiano Jr.
+2005. Mechanisms of organelle transport and capture along proplate-
+lets during platelet production. Blood. 106:4066–4075. doi:10.1182/
+blood-2005-06-2206
+Schulze, H., M. Korpal, W. Bergmeier, J.E. Italiano Jr., S.M. Wahl, and R.A.
+Shivdasani. 2004. Interactions between the megakaryocyte/platelet-
+specific beta1 tubulin and the secretory leukocyte protease inhibitor
+SLPI suggest a role for regulated proteolysis in platelet functions. Blood.
+104:3949–3957. doi:10.1182/blood-2004-03-1179
+Schwertz, H., S. Köster, W.H. Kahr, N. Michetti, B.F. Kraemer, D.A. Weitz,
+R.C. Blaylock, L.W. Kraiss, A. Greinacher, G.A. Zimmerman, and A.S.
+Weyrich. 2010. Anucleate platelets generate progeny. Blood. 115:3801–
+3809. doi:10.1182/blood-2009-08-239558
+Shivdasani, R.A. 2001. Molecular and transcriptional regulation of mega-
+karyocyte differentiation. Stem Cells. 19:397–407. doi:10.1634/
+stemcells.19-5-397
+Shivdasani, R.A., and S.H. Orkin. 1996. The transcriptional control of hemato-
+poiesis. Blood. 87:4025–4039.
+Shivdasani, R.A., M.F. Rosenblatt, D. Zucker-Franklin, C.W. Jackson, P.
+Hunt, C.J. Saris, and S.H. Orkin. 1995. Transcription factor NF-E2 is
+required for platelet formation independent of the actions of thrombo­
+poietin/MGDF in megakaryocyte development. Cell. 81:695–704.
+doi:10.1016/0092-8674(95)90531-6
+Sullivan, M.T., R. Cotten, E.J. Read, and E.L. Wallace. 2007. Blood collection
+and transfusion in the United States in 2001. Transfusion. 47:385–394.
+doi:10.1111/j.1537-2995.2007.01128.x
+Tablin, F., M. Castro, and R.M. Leven. 1990. Blood platelet formation in vitro.
+The role of the cytoskeleton in megakaryocyte fragmentation. J. Cell Sci.
+97:59–70.
+Tavassoli, M., and M. Aoki. 1981. Migration of entire megakaryocytes through
+the marrow—blood barrier. Br. J. Haematol. 48:25–29. doi:10.1111/
+j.1365-2141.1981.00025.x
+
